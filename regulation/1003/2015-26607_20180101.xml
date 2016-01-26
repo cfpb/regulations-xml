@@ -122,11 +122,11 @@
           </section>
           <section label="1003-2" sectionNum="2">
             <subject>§ 1003.2 Definitions.</subject>
-	    <paragraph label="1003-2-p1" marker="">
-	      <content>In this part:</content>
+	    	<paragraph label="1003-2-p1" marker="">
+	      		<content>In this part:</content>
 	      
               <paragraph label="1003-2-a" marker="(a)">
-		<content><def term="act" id="76f3b5a7170a92212a5f574d56031269c1f38638">Act</def> means the Home Mortgage Disclosure Act (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.), as amended.</content>
+				<content><def term="act" id="76f3b5a7170a92212a5f574d56031269c1f38638">Act</def> means the Home Mortgage Disclosure Act (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.), as amended.</content>
               </paragraph>
               <paragraph label="1003-2-b" marker="(b)">
 		<title type="keyterm">Application</title>

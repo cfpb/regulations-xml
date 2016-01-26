@@ -120,8 +120,11 @@
               <content>Scope. This part applies to <ref target="1003-2-g" reftype="term">financial institutions</ref> as defined in § 1003.2(g). This part requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to submit data to the appropriate Federal agency for the <ref target="1003-2-g" reftype="term">financial institution</ref> as defined in § 1003.5(a)(4), and to disclose certain data to the public, about <ref target="1003-2-e" reftype="term">covered loans</ref> for which the <ref target="1003-2-g" reftype="term">financial institution</ref> receives applications, or that it originates or purchases, and that are secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> located in a State of the United States of America, the District of Columbia, or the Commonwealth of Puerto Rico.</content>
             </paragraph>
           </section>
-          <section label="1003-2" sectionNum="2">
+          <section label="1003-2" sectionNum="2">	
             <subject>§ 1003.2 Definitions.</subject>
+            <paragraph label="1003-2-p1" marker="">
+          		<content>In this part:</content>
+          	
             <paragraph label="1003-2-a" marker="(a)">
               <content><def term="act" id="76f3b5a7170a92212a5f574d56031269c1f38638">Act</def> means the Home Mortgage Disclosure Act (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.), as amended.</content>
             </paragraph>
@@ -256,6 +259,8 @@
             </paragraph>
             <paragraph label="1003-2-q" marker="(q)">
               <content><def term="reverse mortgage" id="dddbb9b4e734f8ca5bd653b387928227480f36a5">Reverse mortgage</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is a reverse mortgage transaction as defined in Regulation Z, <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a), but without regard to whether the security interest is created in a principal <ref target="1003-2-f" reftype="term">dwelling</ref>.</content>
+            </paragraph>
+            
             </paragraph>
             <analysis>
               <analysisSection>
