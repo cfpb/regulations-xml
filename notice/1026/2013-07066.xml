@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs ../../eregs.xsd">
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
@@ -156,21 +156,21 @@
         <content>Limitations during first year after account opening.</content>
         <paragraph label="1026-52-a-1" marker="(1)">
           <title type="keyterm">General rule.</title>
-          <content>General rule. Except as provided in paragraph &lt;ref target="1026-52-a-2" reftype="internal"&gt;(a)(2)&lt;/ref&gt; of this section, the total amount of fees a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; is required to pay with respect to a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account under an open-end (not home-secured) &lt;ref target="1026-2-a-12" reftype="term"&gt;consumer credit&lt;/ref&gt; plan during the first year after account opening must not exceed 25 percent of the &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; to engage in transactions.</content>
+          <content>General rule. Except as provided in paragraph <ref target="1026-52-a-2" reftype="internal">(a)(2)</ref> of this section, the total amount of fees a <ref target="1026-2-a-11" reftype="term">consumer</ref> is required to pay with respect to a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan during the first year after account opening must not exceed 25 percent of the <ref target="1026-2-a-14" reftype="term">credit</ref> limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to engage in transactions.</content>
         </paragraph>
         <paragraph label="1026-52-a-2" marker="(2)">
           <title type="keyterm">Fees not subject to limitations.</title>
-          <content>Fees not subject to limitations. Paragraph &lt;ref target="1026-52-a" reftype="internal"&gt;(a)&lt;/ref&gt; of this section does not apply to:</content>
+          <content>Fees not subject to limitations. Paragraph <ref target="1026-52-a" reftype="internal">(a)</ref> of this section does not apply to:</content>
           <paragraph label="1026-52-a-2-i" marker="(i)">
             <content>Late payment fees, over-the-limit fees, and returned-payment fees; or</content>
           </paragraph>
           <paragraph label="1026-52-a-2-ii" marker="(ii)">
-            <content>Fees that the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; is not required to pay with respect to the account.</content>
+            <content>Fees that the <ref target="1026-2-a-11" reftype="term">consumer</ref> is not required to pay with respect to the account.</content>
           </paragraph>
         </paragraph>
         <paragraph label="1026-52-a-3" marker="(3)">
           <title type="keyterm">Rule of construction.</title>
-          <content>Rule of construction. Paragraph &lt;ref target="1026-52-a" reftype="internal"&gt;(a)&lt;/ref&gt; of this section does not authorize the imposition or payment of fees or charges otherwise prohibited by law.</content>
+          <content>Rule of construction. Paragraph <ref target="1026-52-a" reftype="internal">(a)</ref> of this section does not authorize the imposition or payment of fees or charges otherwise prohibited by law.</content>
         </paragraph>
       </paragraph>
     </change>
@@ -178,7 +178,7 @@
     <change operation="modified" label="1026-52-a-1">
       <paragraph label="1026-52-a-1" marker="(1)">
         <title type="keyterm">General rule.</title>
-        <content>General rule. Except as provided in paragraph &lt;ref target="1026-52-a-2" reftype="internal"&gt;(a)(2)&lt;/ref&gt; of this section, the total amount of fees a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; is required to pay with respect to a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account under an open-end (not home-secured) &lt;ref target="1026-2-a-12" reftype="term"&gt;consumer credit&lt;/ref&gt; plan during the first year after account opening must not exceed 25 percent of the &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; to engage in transactions.</content>
+        <content>General rule. Except as provided in paragraph <ref target="1026-52-a-2" reftype="internal">(a)(2)</ref> of this section, the total amount of fees a <ref target="1026-2-a-11" reftype="term">consumer</ref> is required to pay with respect to a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan during the first year after account opening must not exceed 25 percent of the <ref target="1026-2-a-14" reftype="term">credit</ref> limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to engage in transactions.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-52-a-1-Interp-3">

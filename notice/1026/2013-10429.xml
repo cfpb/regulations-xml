@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs ../../eregs.xsd">
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
@@ -36,12 +36,12 @@
     </change>
     <change operation="added" label="1026-51-b-2-i">
       <paragraph label="1026-51-b-2-i" marker="(i)">
-        <content>If a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account has been opened pursuant to paragraph &lt;ref target="1026-51-b-1-i" reftype="internal"&gt;(b)(1)(i)&lt;/ref&gt; of this section, no increase in the &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; limit may be made on such account before the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; attains the age of 21 unless:</content>
+        <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless:</content>
         <paragraph label="1026-51-b-2-i-A" marker="(A)">
-          <content>At the time of the contemplated increase, the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph &lt;ref target="1026-51-b-1-i" reftype="internal"&gt;(b)(1)(i)&lt;/ref&gt; of this section; or</content>
+          <content>At the time of the contemplated increase, the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section; or</content>
         </paragraph>
         <paragraph label="1026-51-b-2-i-B" marker="(B)">
-          <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph &lt;ref target="1026-51-b-1-ii" reftype="internal"&gt;(b)(1)(ii)&lt;/ref&gt; of this section.</content>
+          <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section.</content>
         </paragraph>
       </paragraph>
     </change>
@@ -57,7 +57,7 @@
     </change>
     <change operation="modified" label="1026-51-b-1-i">
       <paragraph label="1026-51-b-1-i" marker="(i)">
-        <content>Financial information indicating the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has an independent ability to make the required minimum periodic payments on the proposed extension of &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; in connection with the account; or&lt;ref target="1026-51-a" reftype="internal"&gt;&lt;/ref&gt;</content>
+        <content>Financial information indicating the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the proposed extension of <ref target="1026-2-a-14" reftype="term">credit</ref> in connection with the account; or<ref target="1026-51-a" reftype="internal"/></content>
       </paragraph>
     </change>
     <change operation="added" label="1026-51-a-1-i-Interp-5-iii">
@@ -67,12 +67,12 @@
     </change>
     <change operation="added" label="1026-51-b-2-i-A">
       <paragraph label="1026-51-b-2-i-A" marker="(A)">
-        <content>At the time of the contemplated increase, the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph &lt;ref target="1026-51-b-1-i" reftype="internal"&gt;(b)(1)(i)&lt;/ref&gt; of this section; or</content>
+        <content>At the time of the contemplated increase, the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section; or</content>
       </paragraph>
     </change>
     <change operation="added" label="1026-51-b-2-i-B">
       <paragraph label="1026-51-b-2-i-B" marker="(B)">
-        <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph &lt;ref target="1026-51-b-1-ii" reftype="internal"&gt;(b)(1)(ii)&lt;/ref&gt; of this section.</content>
+        <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section.</content>
       </paragraph>
     </change>
     <change operation="added" label="1026-51-b-1-i-Interp-1-iii">
@@ -109,7 +109,7 @@
     <change operation="modified" label="1026-51-a-1-ii">
       <paragraph label="1026-51-a-1-ii" marker="(ii)">
         <title type="keyterm">Reasonable policies and procedures.</title>
-        <content>Reasonable policies and procedures. &lt;ref target="1026-2-a-7" reftype="term"&gt;Card issuers&lt;/ref&gt; must establish and maintain reasonable written policies and procedures to consider the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s ability to make the required minimum payments under the terms of the account based on a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s income or assets and a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s current obligations. Reasonable policies and procedures include treating any income and assets to which the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has a reasonable expectation of access as the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s income or assets, or limiting consideration of the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s income or assets to the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s independent income and assets. Reasonable policies and procedures also include consideration of at least one of the following: The ratio of debt obligations to income; the ratio of debt obligations to assets; or the income the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; will have after paying debt obligations. It would be unreasonable for a &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; not to review any information about a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s income or assets and current obligations, or to issue a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; to a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; who does not have any income or assets.</content>
+        <content>Reasonable policies and procedures. <ref target="1026-2-a-7" reftype="term">Card issuers</ref> must establish and maintain reasonable written policies and procedures to consider the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s ability to make the required minimum payments under the terms of the account based on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets and a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current obligations. Reasonable policies and procedures include treating any income and assets to which the <ref target="1026-2-a-11" reftype="term">consumer</ref> has a reasonable expectation of access as the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets, or limiting consideration of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s independent income and assets. Reasonable policies and procedures also include consideration of at least one of the following: The ratio of debt obligations to income; the ratio of debt obligations to assets; or the income the <ref target="1026-2-a-11" reftype="term">consumer</ref> will have after paying debt obligations. It would be unreasonable for a <ref target="1026-2-a-7" reftype="term">card issuer</ref> not to review any information about a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets and current obligations, or to issue a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> to a <ref target="1026-2-a-11" reftype="term">consumer</ref> who does not have any income or assets.</content>
       </paragraph>
     </change>
     <change operation="added" label="1026-51-a-1-i-Interp-6-iii">
@@ -222,7 +222,7 @@
     <change operation="modified" label="1026-51-a-1-i">
       <paragraph label="1026-51-a-1-i" marker="(i)">
         <title type="keyterm">Consideration of ability to pay.</title>
-        <content>Consideration of ability to pay. A &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; must not open a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account for a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; under an open-end (not home-secured) &lt;ref target="1026-2-a-12" reftype="term"&gt;consumer credit&lt;/ref&gt; plan, or increase any &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; limit applicable to such account, unless the &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; considers the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s ability to make the required minimum periodic payments under the terms of the account based on the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s income or assets and the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s current obligations.</content>
+        <content>Consideration of ability to pay. A <ref target="1026-2-a-7" reftype="term">card issuer</ref> must not open a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account for a <ref target="1026-2-a-11" reftype="term">consumer</ref> under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan, or increase any <ref target="1026-2-a-14" reftype="term">credit</ref> limit applicable to such account, unless the <ref target="1026-2-a-7" reftype="term">card issuer</ref> considers the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s ability to make the required minimum periodic payments under the terms of the account based on the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets and the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current obligations.</content>
       </paragraph>
     </change>
     <change operation="deleted" label="1026-51-a-1-i-Interp-4-i-C"/>
@@ -236,11 +236,11 @@
           <content/>
           <paragraph label="1026-51-a-1-i" marker="(i)">
             <title type="keyterm">Consideration of ability to pay.</title>
-            <content>Consideration of ability to pay. A &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; must not open a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account for a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; under an open-end (not home-secured) &lt;ref target="1026-2-a-12" reftype="term"&gt;consumer credit&lt;/ref&gt; plan, or increase any &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; limit applicable to such account, unless the &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; considers the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s ability to make the required minimum periodic payments under the terms of the account based on the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s income or assets and the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s current obligations.</content>
+            <content>Consideration of ability to pay. A <ref target="1026-2-a-7" reftype="term">card issuer</ref> must not open a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account for a <ref target="1026-2-a-11" reftype="term">consumer</ref> under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan, or increase any <ref target="1026-2-a-14" reftype="term">credit</ref> limit applicable to such account, unless the <ref target="1026-2-a-7" reftype="term">card issuer</ref> considers the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s ability to make the required minimum periodic payments under the terms of the account based on the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets and the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current obligations.</content>
           </paragraph>
           <paragraph label="1026-51-a-1-ii" marker="(ii)">
             <title type="keyterm">Reasonable policies and procedures.</title>
-            <content>Reasonable policies and procedures. &lt;ref target="1026-2-a-7" reftype="term"&gt;Card issuers&lt;/ref&gt; must establish and maintain reasonable written policies and procedures to consider the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s ability to make the required minimum payments under the terms of the account based on a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s income or assets and a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s current obligations. Reasonable policies and procedures include treating any income and assets to which the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has a reasonable expectation of access as the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s income or assets, or limiting consideration of the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s income or assets to the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s independent income and assets. Reasonable policies and procedures also include consideration of at least one of the following: The ratio of debt obligations to income; the ratio of debt obligations to assets; or the income the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; will have after paying debt obligations. It would be unreasonable for a &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; not to review any information about a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;'s income or assets and current obligations, or to issue a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; to a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; who does not have any income or assets.</content>
+            <content>Reasonable policies and procedures. <ref target="1026-2-a-7" reftype="term">Card issuers</ref> must establish and maintain reasonable written policies and procedures to consider the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s ability to make the required minimum payments under the terms of the account based on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets and a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current obligations. Reasonable policies and procedures include treating any income and assets to which the <ref target="1026-2-a-11" reftype="term">consumer</ref> has a reasonable expectation of access as the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets, or limiting consideration of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s independent income and assets. Reasonable policies and procedures also include consideration of at least one of the following: The ratio of debt obligations to income; the ratio of debt obligations to assets; or the income the <ref target="1026-2-a-11" reftype="term">consumer</ref> will have after paying debt obligations. It would be unreasonable for a <ref target="1026-2-a-7" reftype="term">card issuer</ref> not to review any information about a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets and current obligations, or to issue a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> to a <ref target="1026-2-a-11" reftype="term">consumer</ref> who does not have any income or assets.</content>
           </paragraph>
         </paragraph>
         <paragraph label="1026-51-a-2" marker="(2)">
@@ -248,21 +248,21 @@
           <content>Minimum periodic payments —</content>
           <paragraph label="1026-51-a-2-i" marker="(i)">
             <title type="keyterm">Reasonable method.</title>
-            <content>Reasonable method. For purposes of paragraph &lt;ref target="1026-51-a-1" reftype="internal"&gt;(a)(1)&lt;/ref&gt; of this section, a &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; must use a reasonable method for estimating the minimum periodic payments the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; would be required to pay under the terms of the account.</content>
+            <content>Reasonable method. For purposes of paragraph <ref target="1026-51-a-1" reftype="internal">(a)(1)</ref> of this section, a <ref target="1026-2-a-7" reftype="term">card issuer</ref> must use a reasonable method for estimating the minimum periodic payments the <ref target="1026-2-a-11" reftype="term">consumer</ref> would be required to pay under the terms of the account.</content>
           </paragraph>
           <paragraph label="1026-51-a-2-ii" marker="(ii)">
             <title type="keyterm">Safe harbor.</title>
-            <content>Safe harbor. A &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; complies with paragraph &lt;ref target="1026-51-a-2-i" reftype="internal"&gt;(a)(2)(i)&lt;/ref&gt; of this section if it estimates required minimum periodic payments using the following method:</content>
+            <content>Safe harbor. A <ref target="1026-2-a-7" reftype="term">card issuer</ref> complies with paragraph <ref target="1026-51-a-2-i" reftype="internal">(a)(2)(i)</ref> of this section if it estimates required minimum periodic payments using the following method:</content>
             <paragraph label="1026-51-a-2-ii-A" marker="(A)">
-              <content>The &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; assumes utilization, from the first day of the &lt;ref target="1026-2-a-4" reftype="term"&gt;billing cycle&lt;/ref&gt;, of the full &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; line that the issuer is considering offering to the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt;; and</content>
+              <content>The <ref target="1026-2-a-7" reftype="term">card issuer</ref> assumes utilization, from the first day of the <ref target="1026-2-a-4" reftype="term">billing cycle</ref>, of the full <ref target="1026-2-a-14" reftype="term">credit</ref> line that the issuer is considering offering to the <ref target="1026-2-a-11" reftype="term">consumer</ref>; and</content>
             </paragraph>
             <paragraph label="1026-51-a-2-ii-B" marker="(B)">
-              <content>The &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; uses a minimum payment formula employed by the issuer for the product the issuer is considering offering to the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; or, in the case of an existing account, the minimum payment formula that currently applies to that account, provided that:</content>
+              <content>The <ref target="1026-2-a-7" reftype="term">card issuer</ref> uses a minimum payment formula employed by the issuer for the product the issuer is considering offering to the <ref target="1026-2-a-11" reftype="term">consumer</ref> or, in the case of an existing account, the minimum payment formula that currently applies to that account, provided that:</content>
               <paragraph label="1026-51-a-2-ii-B-1" marker="(1)">
-                <content>If the applicable minimum payment formula includes interest charges, the &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; estimates those charges using an interest rate that the issuer is considering offering to the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; for purchases or, in the case of an existing account, the interest rate that currently applies to purchases; and</content>
+                <content>If the applicable minimum payment formula includes interest charges, the <ref target="1026-2-a-7" reftype="term">card issuer</ref> estimates those charges using an interest rate that the issuer is considering offering to the <ref target="1026-2-a-11" reftype="term">consumer</ref> for purchases or, in the case of an existing account, the interest rate that currently applies to purchases; and</content>
               </paragraph>
               <paragraph label="1026-51-a-2-ii-B-2" marker="(2)">
-                <content>If the applicable minimum payment formula includes mandatory fees, the &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; must assume that such fees have been charged to the account.</content>
+                <content>If the applicable minimum payment formula includes mandatory fees, the <ref target="1026-2-a-7" reftype="term">card issuer</ref> must assume that such fees have been charged to the account.</content>
               </paragraph>
             </paragraph>
           </paragraph>
@@ -272,37 +272,37 @@
     <change operation="modified" label="1026-51-b">
       <paragraph label="1026-51-b" marker="(b)">
         <title type="keyterm">Rules affecting young consumers</title>
-        <content>Rules affecting young &lt;ref target="1026-2-a-11" reftype="term"&gt;consumers&lt;/ref&gt;—</content>
+        <content>Rules affecting young <ref target="1026-2-a-11" reftype="term">consumers</ref>—</content>
         <paragraph label="1026-51-b-1" marker="(1)">
           <title type="keyterm">Applications from young consumers.</title>
-          <content>Applications from young &lt;ref target="1026-2-a-11" reftype="term"&gt;consumers&lt;/ref&gt;. A &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; may not open a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account under an open-end (not home-secured) &lt;ref target="1026-2-a-12" reftype="term"&gt;consumer credit&lt;/ref&gt; plan for a &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; less than 21 years old, unless the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has submitted a written application and the &lt;ref target="1026-2-a-7" reftype="term"&gt;card issuer&lt;/ref&gt; has:</content>
+          <content>Applications from young <ref target="1026-2-a-11" reftype="term">consumers</ref>. A <ref target="1026-2-a-7" reftype="term">card issuer</ref> may not open a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan for a <ref target="1026-2-a-11" reftype="term">consumer</ref> less than 21 years old, unless the <ref target="1026-2-a-11" reftype="term">consumer</ref> has submitted a written application and the <ref target="1026-2-a-7" reftype="term">card issuer</ref> has:</content>
           <paragraph label="1026-51-b-1-i" marker="(i)">
-            <content>Financial information indicating the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has an independent ability to make the required minimum periodic payments on the proposed extension of &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; in connection with the account; or&lt;ref target="1026-51-a" reftype="internal"&gt;&lt;/ref&gt;</content>
+            <content>Financial information indicating the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the proposed extension of <ref target="1026-2-a-14" reftype="term">credit</ref> in connection with the account; or<ref target="1026-51-a" reftype="internal"/></content>
           </paragraph>
           <paragraph label="1026-51-b-1-ii" marker="(ii)">
             <content/>
             <paragraph label="1026-51-b-1-ii-A" marker="(A)">
-              <content>A signed agreement of a cosigner, guarantor, or joint applicant who is at least 21 years old to be either secondarily liable for any debt on the account incurred by the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; before the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has attained the age of 21 or jointly liable with the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; for any debt on the account; and</content>
+              <content>A signed agreement of a cosigner, guarantor, or joint applicant who is at least 21 years old to be either secondarily liable for any debt on the account incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has attained the age of 21 or jointly liable with the <ref target="1026-2-a-11" reftype="term">consumer</ref> for any debt on the account; and</content>
             </paragraph>
             <paragraph label="1026-51-b-1-ii-B" marker="(B)">
-              <content>Financial information indicating such cosigner, guarantor, or joint applicant has the ability to make the required minimum periodic payments on such debts, consistent with paragraph (a) of this &lt;ref target="1026-51-a" reftype="internal"&gt;sec&lt;/ref&gt;tion.</content>
+              <content>Financial information indicating such cosigner, guarantor, or joint applicant has the ability to make the required minimum periodic payments on such debts, consistent with paragraph (a) of this <ref target="1026-51-a" reftype="internal">sec</ref>tion.</content>
             </paragraph>
           </paragraph>
         </paragraph>
         <paragraph label="1026-51-b-2" marker="(2)">
           <title type="keyterm">Credit line increases for young consumers.</title>
-          <content>&lt;ref target="1026-2-a-14" reftype="term"&gt;Credit&lt;/ref&gt; line increases for young &lt;ref target="1026-2-a-11" reftype="term"&gt;consumers&lt;/ref&gt;. &lt;ref target="1026-51-b-1-ii" reftype="internal"&gt;&lt;/ref&gt;</content>
+          <content><ref target="1026-2-a-14" reftype="term">Credit</ref> line increases for young <ref target="1026-2-a-11" reftype="term">consumers</ref>. <ref target="1026-51-b-1-ii" reftype="internal"/></content>
           <paragraph label="1026-51-b-2-i" marker="(i)">
-            <content>If a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account has been opened pursuant to paragraph &lt;ref target="1026-51-b-1-i" reftype="internal"&gt;(b)(1)(i)&lt;/ref&gt; of this section, no increase in the &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; limit may be made on such account before the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; attains the age of 21 unless:</content>
+            <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless:</content>
             <paragraph label="1026-51-b-2-i-A" marker="(A)">
-              <content>At the time of the contemplated increase, the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph &lt;ref target="1026-51-b-1-i" reftype="internal"&gt;(b)(1)(i)&lt;/ref&gt; of this section; or</content>
+              <content>At the time of the contemplated increase, the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section; or</content>
             </paragraph>
             <paragraph label="1026-51-b-2-i-B" marker="(B)">
-              <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph &lt;ref target="1026-51-b-1-ii" reftype="internal"&gt;(b)(1)(ii)&lt;/ref&gt; of this section.</content>
+              <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1026-51-b-2-ii" marker="(ii)">
-            <content>If a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account has been opened pursuant to paragraph &lt;ref target="1026-51-b-1-ii" reftype="internal"&gt;(b)(1)(ii)&lt;/ref&gt; of this section, no increase in the &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; limit may be made on such account before the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.</content>
+            <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.</content>
           </paragraph>
         </paragraph>
       </paragraph>
@@ -384,18 +384,18 @@
     <change operation="modified" label="1026-51-b-2">
       <paragraph label="1026-51-b-2" marker="(2)">
         <title type="keyterm">Credit line increases for young consumers.</title>
-        <content>&lt;ref target="1026-2-a-14" reftype="term"&gt;Credit&lt;/ref&gt; line increases for young &lt;ref target="1026-2-a-11" reftype="term"&gt;consumers&lt;/ref&gt;. &lt;ref target="1026-51-b-1-ii" reftype="internal"&gt;&lt;/ref&gt;</content>
+        <content><ref target="1026-2-a-14" reftype="term">Credit</ref> line increases for young <ref target="1026-2-a-11" reftype="term">consumers</ref>. <ref target="1026-51-b-1-ii" reftype="internal"/></content>
         <paragraph label="1026-51-b-2-i" marker="(i)">
-          <content>If a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account has been opened pursuant to paragraph &lt;ref target="1026-51-b-1-i" reftype="internal"&gt;(b)(1)(i)&lt;/ref&gt; of this section, no increase in the &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; limit may be made on such account before the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; attains the age of 21 unless:</content>
+          <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless:</content>
           <paragraph label="1026-51-b-2-i-A" marker="(A)">
-            <content>At the time of the contemplated increase, the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph &lt;ref target="1026-51-b-1-i" reftype="internal"&gt;(b)(1)(i)&lt;/ref&gt; of this section; or</content>
+            <content>At the time of the contemplated increase, the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section; or</content>
           </paragraph>
           <paragraph label="1026-51-b-2-i-B" marker="(B)">
-            <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph &lt;ref target="1026-51-b-1-ii" reftype="internal"&gt;(b)(1)(ii)&lt;/ref&gt; of this section.</content>
+            <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section.</content>
           </paragraph>
         </paragraph>
         <paragraph label="1026-51-b-2-ii" marker="(ii)">
-          <content>If a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account has been opened pursuant to paragraph &lt;ref target="1026-51-b-1-ii" reftype="internal"&gt;(b)(1)(ii)&lt;/ref&gt; of this section, no increase in the &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; limit may be made on such account before the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.</content>
+          <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.</content>
         </paragraph>
       </paragraph>
     </change>
@@ -427,12 +427,12 @@
     </change>
     <change operation="modified" label="1026-51-b-1-ii-B">
       <paragraph label="1026-51-b-1-ii-B" marker="(B)">
-        <content>Financial information indicating such cosigner, guarantor, or joint applicant has the ability to make the required minimum periodic payments on such debts, consistent with paragraph (a) of this &lt;ref target="1026-51-a" reftype="internal"&gt;sec&lt;/ref&gt;tion.</content>
+        <content>Financial information indicating such cosigner, guarantor, or joint applicant has the ability to make the required minimum periodic payments on such debts, consistent with paragraph (a) of this <ref target="1026-51-a" reftype="internal">sec</ref>tion.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-51-b-1-ii-A">
       <paragraph label="1026-51-b-1-ii-A" marker="(A)">
-        <content>A signed agreement of a cosigner, guarantor, or joint applicant who is at least 21 years old to be either secondarily liable for any debt on the account incurred by the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; before the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; has attained the age of 21 or jointly liable with the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; for any debt on the account; and</content>
+        <content>A signed agreement of a cosigner, guarantor, or joint applicant who is at least 21 years old to be either secondarily liable for any debt on the account incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has attained the age of 21 or jointly liable with the <ref target="1026-2-a-11" reftype="term">consumer</ref> for any debt on the account; and</content>
       </paragraph>
     </change>
     <change operation="added" label="1026-51-b-1-i-Interp-3">
@@ -485,7 +485,7 @@
     </change>
     <change operation="added" label="1026-51-b-2-ii">
       <paragraph label="1026-51-b-2-ii" marker="(ii)">
-        <content>If a &lt;ref target="1026-2-a-15-i" reftype="term"&gt;credit card&lt;/ref&gt; account has been opened pursuant to paragraph &lt;ref target="1026-51-b-1-ii" reftype="internal"&gt;(b)(1)(ii)&lt;/ref&gt; of this section, no increase in the &lt;ref target="1026-2-a-14" reftype="term"&gt;credit&lt;/ref&gt; limit may be made on such account before the &lt;ref target="1026-2-a-11" reftype="term"&gt;consumer&lt;/ref&gt; attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.</content>
+        <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.</content>
       </paragraph>
     </change>
   </changeset>
