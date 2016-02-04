@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2013-06-01</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>TRUTH IN LENDING</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <cfr>
+      <title>12</title>
+      <section>1026</section>
+    </cfr>
+    <documentNumber>2013-01503_20130601</documentNumber>
+    <effectiveDate>2013-06-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/articles/2013/02/15/2013-01503/loan-originator-compensation-requirements-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
+  </preamble>
+  <changeset>
+    <change operation="modified" label="1026-35-c">
+      <paragraph label="1026-35-c" marker="(c)">
+        <content>[Reserved]</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-d">
+      <paragraph label="1026-35-d" marker="(d)">
+        <title type="keyterm">Evasion; open-end credit.</title>
+        <content>Evasion; <ref target="1026-2-a-20" reftype="term">open-end credit</ref>. In connection with <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> that does not meet the definition of <ref target="1026-2-a-20" reftype="term">open-end credit</ref> in § <ref target="1026-2-a-20" reftype="internal">1026.2(a)(20)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not structure a home-secured loan as an open-end plan to evade the requirements of this section.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-34-a-4-i">
+      <paragraph label="1026-34-a-4-i" marker="(i)">
+        <title type="keyterm">Mortgage-related obligations.</title>
+        <content>Mortgage-related obligations. For purposes of this paragraph <ref target="1026-34-a-4" reftype="internal">(a)(4)</ref>, mortgage-related obligations are expected property taxes, premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref> as set forth in § <ref target="1026-35-b-3-i" reftype="internal">1026.35(b)(3)(i)</ref>, and similar expenses.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-20">
+      <section label="1026-20" sectionNum="20">
+        <subject>§ 1026.20 Subsequent disclosure requirements.</subject>
+        <paragraph label="1026-20-a" marker="(a)">
+          <title type="keyterm">Refinancings.</title>
+          <content>Refinancings. A refinancing occurs when an existing obligation that was subject to this subpart is satisfied and replaced by a new obligation undertaken by the same <ref target="1026-2-a-11" reftype="term">consumer</ref>. A refinancing is a new transaction requiring new disclosures to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. The new finance charge shall include any unearned portion of the old finance charge that is not credited to the existing obligation. The following shall not be treated as a refinancing:</content>
+          <paragraph label="1026-20-a-1" marker="(1)">
+            <content>A renewal of a single payment obligation with no change in the original terms.</content>
+          </paragraph>
+          <paragraph label="1026-20-a-2" marker="(2)">
+            <content>A reduction in the annual percentage rate with a corresponding change in the payment schedule.</content>
+          </paragraph>
+          <paragraph label="1026-20-a-3" marker="(3)">
+            <content>An agreement involving a court proceeding.</content>
+          </paragraph>
+          <paragraph label="1026-20-a-4" marker="(4)">
+            <content>A change in the payment schedule or a change in collateral requirements as a result of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or delinquency, unless the rate is increased, or the new amount financed exceeds the unpaid balance plus earned finance charge and premiums for continuation of insurance of the types described in § <ref target="1026-4-d" reftype="internal">1026.4(d)</ref>.</content>
+          </paragraph>
+          <paragraph label="1026-20-a-5" marker="(5)">
+            <content>The renewal of optional insurance purchased by the <ref target="1026-2-a-11" reftype="term">consumer</ref> and added to an existing transaction, if disclosures relating to the initial purchase were provided as required by this subpart.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-20-b" marker="(b)">
+          <title type="keyterm">Assumptions.</title>
+          <content>Assumptions. An assumption occurs when a <ref target="1026-2-a-17" reftype="term">creditor</ref> expressly agrees in writing with a subsequent <ref target="1026-2-a-11" reftype="term">consumer</ref> to accept that <ref target="1026-2-a-11" reftype="term">consumer</ref> as a primary obligor on an existing <ref target="1026-2-a-24" reftype="term">residential mortgage transaction</ref>. Before the assumption occurs, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make new disclosures to the subsequent <ref target="1026-2-a-11" reftype="term">consumer</ref>, based on the remaining obligation. If the finance charge originally imposed on the existing obligation was an add-on or discount finance charge, the <ref target="1026-2-a-17" reftype="term">creditor</ref> need only disclose:</content>
+          <paragraph label="1026-20-b-1" marker="(1)">
+            <content>The unpaid balance of the obligation assumed.</content>
+          </paragraph>
+          <paragraph label="1026-20-b-2" marker="(2)">
+            <content>The total charges imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> in connection with the assumption.</content>
+          </paragraph>
+          <paragraph label="1026-20-b-3" marker="(3)">
+            <content>The information required to be disclosed under § <ref target="1026-18-k" reftype="internal">1026.18(k)</ref>, <ref target="1026-18-l" reftype="internal">(l)</ref>, <ref target="1026-18-m" reftype="internal">(m)</ref>, and <ref target="1026-18-n" reftype="internal">(n)</ref>.</content>
+          </paragraph>
+          <paragraph label="1026-20-b-4" marker="(4)">
+            <content>The annual percentage rate originally imposed on the obligation.</content>
+          </paragraph>
+          <paragraph label="1026-20-b-5" marker="(5)">
+            <content>The payment schedule under § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> and the total of payments under § <ref target="1026-18-h" reftype="internal">1026.18(h)</ref> based on the remaining obligation.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-20-c" marker="(c)">
+          <title type="keyterm">Variable-rate adjustments.</title>
+          <content>Variable-rate adjustments. Except as provided in paragraph <ref target="1026-20-d" reftype="internal">(d)</ref> of this section, an adjustment to the interest rate with or without a corresponding adjustment to the payment in a variable-rate transaction subject to § <ref target="1026-19-b" reftype="internal">1026.19(b)</ref> is an event requiring new disclosures to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. At least once each year during which an interest rate adjustment is implemented without an accompanying payment change, and at least 25, but no more than 120, calendar days before a payment at a new level is due, the following disclosures, as applicable, must be delivered or placed in the mail:</content>
+          <paragraph label="1026-20-c-1" marker="(1)">
+            <content>The current and prior interest rates.</content>
+          </paragraph>
+          <paragraph label="1026-20-c-2" marker="(2)">
+            <content>The index values upon which the current and prior interest rates are based.</content>
+          </paragraph>
+          <paragraph label="1026-20-c-3" marker="(3)">
+            <content>The extent to which the <ref target="1026-2-a-17" reftype="term">creditor</ref> has foregone any increase in the interest rate.</content>
+          </paragraph>
+          <paragraph label="1026-20-c-4" marker="(4)">
+            <content>The contractual effects of the adjustment, including the payment due after the adjustment is made, and a statement of the loan balance.</content>
+          </paragraph>
+          <paragraph label="1026-20-c-5" marker="(5)">
+            <content>The payment, if different from that referred to in paragraph <ref target="1026-20-c-4" reftype="internal">(c)(4)</ref> of this section, that would be required to fully amortize the loan at the new interest rate over the remainder of the loan term.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-20-d" marker="(d)">
+          <content>Information provided in accordance with variable-rate subsequent disclosure regulations of other Federal agencies may be substituted for the disclosure required by paragraph <ref target="1026-20-c" reftype="internal">(c)</ref> of this section.</content>
+        </paragraph>
+        <analysis>
+          <analysisSection>
+            <title>Section 1026.20 Subsequent Disclosure Requirements</title>
+            <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed a new § 226.20(d) to implement the disclosure requirements of TILA sections 129D(j)(1)(B) and 129D(j)(2), as enacted by section 1462 of the Dodd-Frank Act. TILA section 129D(j)(1)(B) requires a creditor or servicer to provide the disclosures set forth in TILA section 129D(j)(2) when a consumer requests closure of an escrow account that was established in connection with a transaction secured by real property. Proposed § 226.20(d) would have directed the creditor or servicer to disclose the information about escrow accounts in accordance with certain format and timing requirements. As previously noted, the Bureau has delayed the implementation of certain disclosure requirements contained in title XIV of the Dodd-Frank Act, including those contained in sections 1461 and 1462. <em data-original="E-03">See</em> 77 FR 70105 (Nov. 23, 2012). Consequently, the Bureau will not be adopting a new § 1026.20(d) in this rule.</analysisParagraph>
+          </analysisSection>
+        </analysis>
+      </section>
+    </change>
+    <change operation="modified" label="1026-35-b-2-iii-D">
+      <paragraph label="1026-35-b-2-iii-D" marker="(D)">
+        <content>Neither the <ref target="1026-2-a-17" reftype="term">creditor</ref> nor its <ref target="1026-32-b-2" reftype="term">affiliate</ref> maintains an escrow account of the type described in paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section for any extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> secured by real property or a <ref target="1026-2-a-19" reftype="term">dwelling</ref> that the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-2" reftype="term">affiliate</ref> currently services, other than:</content>
+        <paragraph label="1026-35-b-2-iii-D-1" marker="(1)">
+          <content>Escrow accounts established for first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> on or after April 1, 2010, and before June 1, 2013; or</content>
+        </paragraph>
+        <paragraph label="1026-35-b-2-iii-D-2" marker="(2)">
+          <content>Escrow accounts established after <ref target="1026-2-a-13" reftype="term">consummation</ref> as an accommodation to distressed <ref target="1026-2-a-11" reftype="term">consumers</ref> to assist such <ref target="1026-2-a-11" reftype="term">consumers</ref> in avoiding default or foreclosure.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-b-2-iii-B">
+      <paragraph label="1026-35-b-2-iii-B" marker="(B)">
+        <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> and its <ref target="1026-32-b-2" reftype="term">affiliates</ref> together originated 500 or fewer covered transactions, as defined by § 1026.43(b)(1), secured by a first lien; and</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-b-2-iii-C">
+      <paragraph label="1026-35-b-2-iii-C" marker="(C)">
+        <content>As of the end of the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> had total assets of less than $2,000,000,000; this asset threshold shall adjust automatically each year, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each 12-month period ending in November, with rounding to the nearest million dollars (see comment <ref target="1026-35-b-2-iii-Interp-1-iii" reftype="internal">35(b)(2)(iii)-1.iii</ref> for the current threshold); and</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-b-2-iii-A">
+      <paragraph label="1026-35-b-2-iii-A" marker="(A)">
+        <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> extended more than 50 percent of its total covered transactions, as defined by § 1026.43(b)(1), secured by a first lien, on properties that are located in counties designated either “rural” or “underserved” by the <ref target="1026-2-a-5" reftype="term">Bureau</ref>, as set forth in paragraph <ref target="1026-35-b-2-iv" reftype="internal">(b)(2)(iv)</ref> of this section;</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-19">
+      <section label="1026-19" sectionNum="19">
+        <subject>§ 1026.19 Certain mortgage and variable-rate transactions.</subject>
+        <paragraph label="1026-19-a" marker="(a)">
+          <title type="keyterm">Mortgage transactions subject to RESPA</title>
+          <content>Mortgage transactions subject to RESPA —</content>
+          <paragraph label="1026-19-a-1" marker="(1)">
+            <content/>
+            <paragraph label="1026-19-a-1-i" marker="(i)">
+              <title type="keyterm">Time of disclosures.</title>
+              <content>Time of disclosures. In a mortgage transaction subject to the Real Estate Settlement Procedures Act (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.) that is secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> subject to § <ref target="1026-40" reftype="internal">1026.40</ref> or mortgage transaction subject to paragraph <ref target="1026-19-a-5" reftype="internal">(a)(5)</ref> of this section, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make good faith estimates of the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref> and shall deliver or place them in the mail not later than the third business day after the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written application.</content>
+            </paragraph>
+            <paragraph label="1026-19-a-1-ii" marker="(ii)">
+              <title type="keyterm">Imposition of fees.</title>
+              <content>Imposition of fees. Except as provided in paragraph <ref target="1026-19-a-1-iii" reftype="internal">(a)(1)(iii)</ref> of this section, neither a <ref target="1026-2-a-17" reftype="term">creditor</ref> nor any other <ref target="1026-2-a-22" reftype="term">person</ref> may impose a fee on a <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s application for a mortgage transaction subject to paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has received the disclosures required by paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section. If the disclosures are mailed to the <ref target="1026-2-a-11" reftype="term">consumer</ref>, the <ref target="1026-2-a-11" reftype="term">consumer</ref> is considered to have received them three <ref target="1026-2-a-6" reftype="term">business days</ref> after they are mailed.</content>
+            </paragraph>
+            <paragraph label="1026-19-a-1-iii" marker="(iii)">
+              <title type="keyterm">Exception to fee restriction.</title>
+              <content>Exception to fee restriction. A <ref target="1026-2-a-17" reftype="term">creditor</ref> or other <ref target="1026-2-a-22" reftype="term">person</ref> may impose a fee for obtaining the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s credit history before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has received the disclosures required by paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, provided the fee is bona fide and reasonable in amount.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1026-19-a-2" marker="(2)">
+            <title type="keyterm">Waiting periods for early disclosures and corrected disclosures.</title>
+            <content>Waiting periods for early disclosures and corrected disclosures.</content>
+            <paragraph label="1026-19-a-2-i" marker="(i)">
+              <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall deliver or place in the mail the good faith estimates required by paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section not later than the seventh <ref target="1026-2-a-6" reftype="term">business day</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref> of the transaction.</content>
+            </paragraph>
+            <paragraph label="1026-19-a-2-ii" marker="(ii)">
+              <content>If the annual percentage rate disclosed under paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section becomes inaccurate, as defined in § <ref target="1026-22" reftype="internal">1026.22</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall provide corrected disclosures with all changed terms. The <ref target="1026-2-a-11" reftype="term">consumer</ref> must receive the corrected disclosures no later than three <ref target="1026-2-a-6" reftype="term">business days</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref>. If the corrected disclosures are mailed to the <ref target="1026-2-a-11" reftype="term">consumer</ref> or delivered to the <ref target="1026-2-a-11" reftype="term">consumer</ref> by means other than delivery in person, the <ref target="1026-2-a-11" reftype="term">consumer</ref> is deemed to have received the corrected disclosures three <ref target="1026-2-a-6" reftype="term">business days</ref> after they are mailed or delivered.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1026-19-a-3" marker="(3)">
+            <title type="keyterm">Consumer's waiver of waiting period before consummation.</title>
+            <content><ref target="1026-2-a-11" reftype="term">Consumer</ref>'s waiver of waiting period before <ref target="1026-2-a-13" reftype="term">consummation</ref>. If the <ref target="1026-2-a-11" reftype="term">consumer</ref> determines that the extension of <ref target="1026-2-a-14" reftype="term">credit</ref> is needed to meet a bona fide personal financial emergency, the <ref target="1026-2-a-11" reftype="term">consumer</ref> may modify or waive the seven-business-day waiting period or the three-business-day waiting period required by paragraph <ref target="1026-19-a-2" reftype="internal">(a)(2)</ref> of this section, after receiving the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref>. To modify or waive a waiting period, the <ref target="1026-2-a-11" reftype="term">consumer</ref> shall give the <ref target="1026-2-a-17" reftype="term">creditor</ref> a dated written statement that describes the emergency, specifically modifies or waives the waiting period, and bears the signature of all the <ref target="1026-2-a-11" reftype="term">consumers</ref> who are primarily liable on the legal obligation. Printed forms for this purpose are prohibited.</content>
+          </paragraph>
+          <paragraph label="1026-19-a-4" marker="(4)">
+            <title type="keyterm">Notice.</title>
+            <content>Notice. Disclosures made pursuant to paragraph <ref target="1026-19-a-1" reftype="internal">(a)(1)</ref> or paragraph <ref target="1026-19-a-2" reftype="internal">(a)(2)</ref> of this section shall contain the following statement: “You are not required to complete this agreement merely because you have received these disclosures or signed a loan application.” The disclosure required by this paragraph shall be grouped together with the disclosures required by paragraphs <ref target="1026-19-a-1" reftype="internal">(a)(1)</ref> or <ref target="1026-19-a-2" reftype="internal">(a)(2)</ref> of this section.</content>
+          </paragraph>
+          <paragraph label="1026-19-a-5" marker="(5)">
+            <title type="keyterm">Timeshare plans.</title>
+            <content>Timeshare plans. In a mortgage transaction subject to the Real Estate Settlement Procedures Act (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.) that is secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in <ref target="USC:11-101" reftype="external">11 U.S.C. 101</ref>(53(D)):</content>
+            <paragraph label="1026-19-a-5-i" marker="(i)">
+              <content>The requirements of paragraphs <ref target="1026-19-a-1" reftype="internal">(a)(1)</ref> through <ref target="1026-19-a-4" reftype="internal">(a)(4)</ref> of this section do not apply;</content>
+            </paragraph>
+            <paragraph label="1026-19-a-5-ii" marker="(ii)">
+              <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make good faith estimates of the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref>, or shall deliver or place them in the mail not later than three business days after the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written application, whichever is earlier; and</content>
+            </paragraph>
+            <paragraph label="1026-19-a-5-iii" marker="(iii)">
+              <content>If the annual percentage rate at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref> varies from the annual percentage rate disclosed under paragraph <ref target="1026-19-a-5-ii" reftype="internal">(a)(5)(ii)</ref> of this section by more than 1/8 of 1 percentage point in a regular transaction or more than 1/4 of 1 percentage point in an irregular transaction, as defined in § <ref target="1026-22" reftype="internal">1026.22</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose all the changed terms no later than <ref target="1026-2-a-13" reftype="term">consummation</ref> or settlement.</content>
+            </paragraph>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-19-b" marker="(b)">
+          <title type="keyterm">Certain variable-rate transactions.</title>
+          <content>Certain variable-rate transactions. Except as provided in paragraph <ref target="1026-19-d" reftype="internal">(d)</ref> of this section, if the annual percentage rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> in a transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with a term greater than one year, the following disclosures must be provided at the time an application form is provided or before the <ref target="1026-2-a-11" reftype="term">consumer</ref> pays a non-refundable fee, whichever is earlier (except that the disclosures may be delivered or placed in the mail not later than three business days following receipt of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s application when the application reaches the <ref target="1026-2-a-17" reftype="term">creditor</ref> by telephone, or through an intermediary agent or broker):</content>
+          <paragraph label="1026-19-b-1" marker="(1)">
+            <content>The booklet titled <ref target="1026-2-a-11" reftype="term">Consumer</ref> Handbook on Adjustable Rate Mortgages, or a suitable substitute.</content>
+          </paragraph>
+          <paragraph label="1026-19-b-2" marker="(2)">
+            <content>A loan program disclosure for each variable-rate program in which the <ref target="1026-2-a-11" reftype="term">consumer</ref> expresses an interest. The following disclosures, as applicable, shall be provided:</content>
+            <paragraph label="1026-19-b-2-i" marker="(i)">
+              <content>The fact that the interest rate, payment, or term of the loan can change.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-ii" marker="(ii)">
+              <content>The index or formula used in making adjustments, and a source of information about the index or formula.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-iii" marker="(iii)">
+              <content>An explanation of how the interest rate and payment will be determined, including an explanation of how the index is adjusted, such as by the addition of a margin.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-iv" marker="(iv)">
+              <content>A statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> should ask about the current margin value and current interest rate.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-v" marker="(v)">
+              <content>The fact that the interest rate will be discounted, and a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> should ask about the amount of the interest rate discount.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-vi" marker="(vi)">
+              <content>The frequency of interest rate and payment changes.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-vii" marker="(vii)">
+              <content>Any rules relating to changes in the index, interest rate, payment amount, and outstanding loan balance including, for example, an explanation of interest rate or payment limitations, negative amortization, and interest rate carryover.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-viii" marker="(viii)">
+              <content>At the option of the <ref target="1026-2-a-17" reftype="term">creditor</ref>, either of the following:</content>
+              <paragraph label="1026-19-b-2-viii-A" marker="(A)">
+                <content>A historical example, based on a $10,000 loan amount, illustrating how payments and the loan balance would have been affected by interest rate changes implemented according to the terms of the loan program disclosure. The example shall reflect the most recent 15 years of index values. The example shall reflect all significant loan program terms, such as negative amortization, interest rate carryover, interest rate discounts, and interest rate and payment limitations, that would have been affected by the index movement during the period.</content>
+              </paragraph>
+              <paragraph label="1026-19-b-2-viii-B" marker="(B)">
+                <content>The maximum interest rate and payment for a $10,000 loan originated at the initial interest rate (index value plus margin, adjusted by the amount of any discount or premium) in effect as of an identified month and year for the loan program disclosure assuming the maximum periodic increases in rates and payments under the program; and the initial interest rate and payment for that loan and a statement that the periodic payment may increase or decrease substantially depending on changes in the rate.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1026-19-b-2-ix" marker="(ix)">
+              <content>An explanation of how the <ref target="1026-2-a-11" reftype="term">consumer</ref> may calculate the payments for the loan amount to be borrowed based on either:</content>
+              <paragraph label="1026-19-b-2-ix-A" marker="(A)">
+                <content>The most recent payment shown in the historical example in paragraph <ref target="1026-19-b-2-viii-A" reftype="internal">(b)(2)(viii)(A)</ref> of this section; or</content>
+              </paragraph>
+              <paragraph label="1026-19-b-2-ix-B" marker="(B)">
+                <content>The initial interest rate used to calculate the maximum interest rate and payment in paragraph <ref target="1026-19-b-2-viii-B" reftype="internal">(b)(2)(viii)(B)</ref> of this section.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1026-19-b-2-x" marker="(x)">
+              <content>The fact that the loan program contains a demand feature.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-xi" marker="(xi)">
+              <content>The type of information that will be provided in notices of adjustments and the timing of such notices.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-xii" marker="(xii)">
+              <content>A statement that disclosure forms are available for the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s other variable-rate loan programs.</content>
+            </paragraph>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-19-c" marker="(c)">
+          <title type="keyterm">Electronic disclosures.</title>
+          <content>Electronic disclosures. For an application that is accessed by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in electronic form, the disclosures required by paragraph <ref target="1026-19-b" reftype="internal">(b)</ref> of this section may be provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref> in electronic form on or with the application.</content>
+        </paragraph>
+        <paragraph label="1026-19-d" marker="(d)">
+          <content>Information provided in accordance with variable-rate regulations of other Federal agencies may be substituted for the disclosures required by paragraph <ref target="1026-19-b" reftype="internal">(b)</ref> of this section.</content>
+        </paragraph>
+        <analysis>
+          <analysisSection>
+            <title>Section 1026.19 Certain Mortgage and Variable-Rate Transactions</title>
+            <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed a new § 226.19(f) to implement the account disclosure requirements of TILA section 129D, as enacted by Sections 1461 and 1462 of the Dodd- Frank Act. Proposed § 226.19(f)<footnote ref="24">This section-by-section analysis discusses the Board's 2011 Escrows Proposal by reference to the Board's Regulation Z, 12 CFR part 226, which the Board proposed to amend, and discusses this final rule by reference to the Bureau's Regulation Z, 12 CFR part 1026, which this final rule amends.</footnote>
+
+            would have required disclosures for the establishment or non-establishment of an escrow account in connection with consummation of a transaction secured by a first lien, but not a subordinate lien. As discussed above, on November 23, 2012, the Bureau published in the <em data-original="E-04">Federal Register</em> a rule that delays the implementation of certain disclosure requirements contained in title XIV of the Dodd-Frank Act, including those contained in sections 1461 and 1462. <em data-original="E-03">See</em> 77 FR 70105 (Nov. 23, 2012). Consequently, the Bureau will not be adopting a new § 1026.19(f) in this rule.</analysisParagraph>
+          </analysisSection>
+        </analysis>
+      </section>
+    </change>
+    <change operation="modified" label="1026-35-b-2-iii">
+      <paragraph label="1026-35-b-2-iii" marker="(iii)">
+        <content>Except as provided in paragraph <ref target="1026-35-b-2-v" reftype="internal">(b)(2)(v)</ref> of this section, an escrow account need not be established for a transaction if, at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>:</content>
+        <paragraph label="1026-35-b-2-iii-A" marker="(A)">
+          <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> extended more than 50 percent of its total covered transactions, as defined by § 1026.43(b)(1), secured by a first lien, on properties that are located in counties designated either “rural” or “underserved” by the <ref target="1026-2-a-5" reftype="term">Bureau</ref>, as set forth in paragraph <ref target="1026-35-b-2-iv" reftype="internal">(b)(2)(iv)</ref> of this section;</content>
+        </paragraph>
+        <paragraph label="1026-35-b-2-iii-B" marker="(B)">
+          <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> and its <ref target="1026-32-b-2" reftype="term">affiliates</ref> together originated 500 or fewer covered transactions, as defined by § 1026.43(b)(1), secured by a first lien; and</content>
+        </paragraph>
+        <paragraph label="1026-35-b-2-iii-C" marker="(C)">
+          <content>As of the end of the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> had total assets of less than $2,000,000,000; this asset threshold shall adjust automatically each year, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each 12-month period ending in November, with rounding to the nearest million dollars (see comment <ref target="1026-35-b-2-iii-Interp-1-iii" reftype="internal">35(b)(2)(iii)-1.iii</ref> for the current threshold); and</content>
+        </paragraph>
+        <paragraph label="1026-35-b-2-iii-D" marker="(D)">
+          <content>Neither the <ref target="1026-2-a-17" reftype="term">creditor</ref> nor its <ref target="1026-32-b-2" reftype="term">affiliate</ref> maintains an escrow account of the type described in paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section for any extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> secured by real property or a <ref target="1026-2-a-19" reftype="term">dwelling</ref> that the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-2" reftype="term">affiliate</ref> currently services, other than:</content>
+          <paragraph label="1026-35-b-2-iii-D-1" marker="(1)">
+            <content>Escrow accounts established for first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> on or after April 1, 2010, and before June 1, 2013; or</content>
+          </paragraph>
+          <paragraph label="1026-35-b-2-iii-D-2" marker="(2)">
+            <content>Escrow accounts established after <ref target="1026-2-a-13" reftype="term">consummation</ref> as an accommodation to distressed <ref target="1026-2-a-11" reftype="term">consumers</ref> to assist such <ref target="1026-2-a-11" reftype="term">consumers</ref> in avoiding default or foreclosure.</content>
+          </paragraph>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="added" label="1026-36-h-1">
+      <paragraph label="1026-36-h-1" marker="(1)">
+        <title type="keyterm">Arbitration.</title>
+        <content>Arbitration. A contract or other agreement for a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> (including a home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>) may not include terms that require arbitration or any other non-judicial procedure to resolve any controversy or settle any claims arising out of the transaction. This prohibition does not limit a <ref target="1026-2-a-11" reftype="term">consumer</ref> and <ref target="1026-2-a-17" reftype="term">creditor</ref> or any assignee from agreeing, after a dispute or claim under the transaction arises, to settle or use arbitration or other non-judicial procedure to resolve that dispute or claim.</content>
+      </paragraph>
+    </change>
+    <change operation="added" label="1026-36-h-2">
+      <paragraph label="1026-36-h-2" marker="(2)">
+        <title type="keyterm">No waivers of Federal statutory causes of action.</title>
+        <content>No waivers of Federal statutory causes of action. A contract or other agreement relating to a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> (including a home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>) may not be applied or interpreted to bar a <ref target="1026-2-a-11" reftype="term">consumer</ref> from bringing a claim in court pursuant to any provision of law for damages or other relief in connection with any alleged violation of any Federal law. This prohibition does not limit a <ref target="1026-2-a-11" reftype="term">consumer</ref> and <ref target="1026-2-a-17" reftype="term">creditor</ref> or any assignee from agreeing, after a dispute or claim under the transaction arises, to settle or use arbitration or other non-judicial procedure to resolve that dispute or claim.</content>
+      </paragraph>
+    </change>
+    <change operation="added" label="1026-36-g">
+      <paragraph label="1026-36-g" marker="(g)">
+        <content>[Reserved]</content>
+      </paragraph>
+    </change>
+    <change operation="added" label="1026-36-h">
+      <paragraph label="1026-36-h" marker="(h)">
+        <title type="keyterm">Prohibition on mandatory arbitration clauses and waivers of certain consumer rights.</title>
+        <content>Prohibition on mandatory arbitration clauses and waivers of certain <ref target="1026-2-a-11" reftype="term">consumer</ref> rights.</content>
+        <paragraph label="1026-36-h-1" marker="(1)">
+          <title type="keyterm">Arbitration.</title>
+          <content>Arbitration. A contract or other agreement for a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> (including a home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>) may not include terms that require arbitration or any other non-judicial procedure to resolve any controversy or settle any claims arising out of the transaction. This prohibition does not limit a <ref target="1026-2-a-11" reftype="term">consumer</ref> and <ref target="1026-2-a-17" reftype="term">creditor</ref> or any assignee from agreeing, after a dispute or claim under the transaction arises, to settle or use arbitration or other non-judicial procedure to resolve that dispute or claim.</content>
+        </paragraph>
+        <paragraph label="1026-36-h-2" marker="(2)">
+          <title type="keyterm">No waivers of Federal statutory causes of action.</title>
+          <content>No waivers of Federal statutory causes of action. A contract or other agreement relating to a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> (including a home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>) may not be applied or interpreted to bar a <ref target="1026-2-a-11" reftype="term">consumer</ref> from bringing a claim in court pursuant to any provision of law for damages or other relief in connection with any alleged violation of any Federal law. This prohibition does not limit a <ref target="1026-2-a-11" reftype="term">consumer</ref> and <ref target="1026-2-a-17" reftype="term">creditor</ref> or any assignee from agreeing, after a dispute or claim under the transaction arises, to settle or use arbitration or other non-judicial procedure to resolve that dispute or claim.</content>
+        </paragraph>
+        <analysis>
+          <analysisSection>
+            <title>36(h) Prohibition on Mandatory Arbitration Clauses and Waivers of Certain Consumer Rights</title>
+            <analysisParagraph>Section 1414 of the Dodd-Frank Act added TILA section 129C(e)(1), which prohibits a closed-end consumer credit transaction secured by a dwelling or an extension of open-end consumer credit secured by the consumer's principal dwelling from containing terms that require arbitration or any other non-judicial procedure as the method for resolving disputes arising out of the transaction. TILA section 129C(e)(2) provides that, subject to TILA section 129C(e)(3) a consumer and creditor or any assignee may nonetheless agree, after a dispute arises, to use arbitration or other non-judicial procedure to resolve the dispute. The statute further provides in section 129C(e)(3) that no covered transaction secured by a dwelling, and no related agreement between the consumer and creditor, may be applied or interpreted to bar a consumer from bringing a claim in court in connection with any alleged violation of Federal law.</analysisParagraph>
+            <analysisParagraph>The Bureau proposed § 1026.36(h) to implement these statutory provisions, pursuant to TILA section 105(a) and section 1022(b) of the Dodd-Frank Act. Proposed § 1026.36(h)(2) would have clarified the interaction between TILA sections 129C(e)(2) and (e)(3), and the section-by-section analysis noted that TILA section 129C(e)(3) and § 1026.36(h)(2) do not address State law causes of action.</analysisParagraph>
+            <analysisParagraph>Commenters generally supported the proposal. Although some commenters addressed details of the substance of the proposal, many commenters addressed the timing of the provisions' implementation. For example, several consumer groups stated that the proposal did not make any substantive changes to the statutory provisions and should be withdrawn because there was no reason to delay the effective date of the statutory provisions. One commenter acknowledged that the provisions were mandated by the Dodd-Frank Act but urged the Bureau to encourage mandatory arbitration anyway. SBA Advocacy stated that some Small Entity Representatives did not understand why the provisions were being included in this rule and asked the Bureau to consider adopting it at a later date. A bank association commenter urged the Bureau to delay the provisions until after it completed its required general study of arbitration clauses in consumer transactions, pursuant to section 1028 of the Dodd-Frank Act.</analysisParagraph>
+            <analysisParagraph>One commenter requested clarification on whether the provisions apply to waivers of rights to a jury trial. Other commenters questioned variously whether the proposal altered the statutory provisions: By applying the provision on waivers of causes of action to post-dispute agreements; by applying that provision to loans other than residential mortgage loans and open-end consumer credit plans secured by a principal dwelling; by limiting it to Federal causes of action; or by prohibiting mandatory arbitration clauses in contracts and agreements other than the note and agreements related to the note. One commenter stated that the applicability of the proposed rule provisions was confusing because the provisions refer to consumer transactions secured by a dwelling but their scope is also addressed separately in proposed § 1026.36(j). (Proposed § 1026.36(j) is finalized as § 1026.36(b) of the rule.) Finally, one commenter suggested that the statute and the rule would prohibit nonjudicial foreclosures and prevent a servicer from settling a dispute with a consumer through a settlement agreement.</analysisParagraph>
+            <analysisParagraph>The provisions on mandatory arbitration and waiver are contained in the Dodd-Frank Act. Absent action by the Bureau, they would take effect on January 21, 2013. The Bureau believes that it is necessary and appropriate to provide implementing language to facilitate compliance with the statute. At the same time, the Bureau recognizes the point made by several commenters regarding the importance of these consumer protections. The fact that the Bureau is implementing the provisions by regulation does not require the Bureau to delay the provisions' effective date for an extended period, as the commenters may have assumed. Instead, the Bureau is providing an effective date of June 1, 2013. The Bureau believes this effective date will give consumers the benefit of these statutory protections within a short timeframe, while also providing industry time to adjust its systems and practices. The Bureau does not believe that industry needs a longer period because the prohibitions on mandatory arbitration agreements and waivers of Federal claims have been known since the Dodd-Frank Act was enacted, and this final rule will not require extensive changes to origination systems. Furthermore, Fannie Mae and Freddie Mac do not accept loans that require arbitration or other nonjudicial procedures to resolve disputes, so the Bureau believes this aspect of the statute and final rule will not necessitate significant changes to current practices in most circumstances. The Bureau is not providing that the provision become effective immediately, however, in order to provide industry a short period to make any needed adjustments.</analysisParagraph>
+            <analysisParagraph>In response to the comments, the Bureau does not interpret TILA section 129C(e)(3) to limit waivers of rights to a jury trial because bench trials are judicial procedures, not nonjudicial procedures. The Bureau does not interpret TILA section 129C(e)(1) to limit deeds of trust providing for nonjudicial foreclosure because such instruments are not agreements to use nonjudicial procedures to resolve controversies or settle claims arising out of the transaction, in contrast with agreements to use arbitration, mediation, and other forms of alternative dispute resolution. Nor does the Bureau interpret TILA section 129C(e)(3) to limit nonjudicial foreclosures because nonjudicial foreclosures still allow consumers to bring actions in court alleging violations of Federal law.</analysisParagraph>
+            <analysisParagraph>Similarly, the Bureau does not interpret the statute to bar settlement agreements. Such a result would be a highly unusual—perhaps unprecedented—prohibition, and the Bureau believes that Congress would have spoken expressly about settlement agreements if that was the result it intended.<footnote ref="157">&lt;em data-original="E-03"&gt;See, e.g., Robinson&lt;/em&gt; v. &lt;em data-original="E-03"&gt;Shelby Cnty. Bd. of Educ.,&lt;/em&gt; 566 F.3d 642, 648 (6th Cir. 2009) (&amp;#8220;[I]t is also well-established that `[p]ublic policy strongly favors settlement of disputes without litigation. * * * Settlement agreements should therefore be upheld whenever equitable and policy considerations so permit.'&amp;#8221;).</footnote>
+            Instead, the Bureau reads the statute to mean that if a consumer and creditor or assignee agree, after a dispute or claim arises, to settle the dispute or claim, the settlement agreement may be applied or interpreted to waive the consumer's right to bring that dispute or claim in court, even if it is a Federal law claim. Accordingly, the Bureau is revising the regulatory text to clarify that § 1026.36(h) does not limit a consumer and creditor or any assignee from agreeing, after a dispute or claim under the transaction arises, to settle that dispute or claim. Under TILA section 129C(e)(3) and § 1026.36(h)(2), however, no settlement agreement may be applied or interpreted to bar the consumer from bringing an action in court for any other alleged violation of Federal law.</analysisParagraph>
+            <analysisParagraph>The Bureau is further revising the regulatory text to address the belief of some commenters that the Bureau had altered the scope of the statutory provision. As discussed above, TILA section 129C(e)(2) provides that the exception for post-dispute agreements from the prohibition on mandatory arbitration agreements is itself subject to the prohibition on waivers of rights to bring Federal causes of action in court. The proposal specified that a post-dispute agreement to use arbitration or other nonjudicial procedure could not limit the ability of the consumer to bring a covered claim through the agreed-upon procedure. This final rule clarifies that, consistent with the discussion of waivers of causes of action in settlement agreements above, the Bureau interprets the statute to mean that if a consumer and creditor or assignee agree, after a dispute or claim arises, to use arbitration or other nonjudicial procedure to resolve that dispute or claim, the agreement may be applied or interpreted to waive the consumer's right to bring <em data-original="E-03">that</em> dispute or claim in court, even if it is a Federal law claim. The Bureau believes that, in such an instance, the consumer is aware of the specific dispute or claim at issue and is therefore in a better position to make a knowing decision whether to resolve the dispute or claim without bringing an action in court. But no post-dispute agreement to use arbitration or other nonjudicial procedure may be applied or interpreted to bar the consumer from bringing an action in court for any other alleged violation of Federal law.</analysisParagraph>
+            <analysisParagraph>The Bureau disagrees with commenters who stated it had expanded the scope of TILA section 129C(e) to cover open-end consumer credit plans other than those secured by the principal dwelling of the consumer. Proposed § 1026.36(j) (implemented in this final rule as § 1026.36(b)) clarifies the scope of each of the other substantive paragraphs in § 1026.36 and provides that the only open-end consumer credit plans to which § 1026.36(h) applies are those secured by the principal dwelling of the consumer. However, to reduce uncertainty, the Bureau is including a statement in § 1026.36(h) that it is applicable to “a home equity line of credit secured by the consumer's principal dwelling.”</analysisParagraph>
+            <analysisParagraph>The Bureau also disagrees that the proposed language changed the scope of the prohibition on waivers of causes of action by including the word “Federal” in the paragraph (h)(2) heading, “No waivers of Federal statutory causes of action.” The contents of paragraph (h)(2) and the corresponding statutory paragraph (e)(3) both provide that the prohibition applies to alleged violations of Section 129C of TILA, any other provision of TILA, or any other Federal law. Thus, the scope of the statutory prohibition is limited to Federal law, and the implementing regulation is properly so limited.</analysisParagraph>
+            <analysisParagraph>Finally, the Bureau disagrees that the prohibition on agreements to use mandatory arbitration applies only to the note itself. TILA section 129C(e)(1) provides that it applies to the terms of a residential mortgage loan and to an extension of credit under an open-end consumer credit plan secured by the principal dwelling of the consumer. The terms of such transactions are frequently memorialized in multiple documents. Plainly, the prohibition cannot be evaded simply by including a provision for mandatory arbitration in a document other than the note if that document is executed as part of the transaction. The prohibition applies to the terms of the whole transaction, regardless of which particular document contains those terms. However, to prevent any misunderstanding that the prohibition applies to agreements that are not part of the credit transaction, the Bureau is replacing the phrase “contract or agreement in connection with a” consumer credit transaction with the phrase “contract or other agreement for” a consumer credit transaction.</analysisParagraph>
+          </analysisSection>
+        </analysis>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-b-2-iv">
+      <paragraph label="1026-35-b-2-iv" marker="(iv)">
+        <content>For purposes of paragraph <ref target="1026-35-b-2-iii-A" reftype="internal">(b)(2)(iii)(A)</ref> of this section:</content>
+        <paragraph label="1026-35-b-2-iv-A" marker="(A)">
+          <content>A county is “rural” during a calendar year if it is neither in a metropolitan statistical area nor in a micropolitan statistical area that is adjacent to a metropolitan statistical area, as those terms are defined by the U.S. Office of Management and Budget and applied under currently applicable Urban Influence Codes (UICs), established by the United States Department of Agriculture's Economic Research Service (USDA-ERS). A <ref target="1026-2-a-17" reftype="term">creditor</ref> may rely as a safe harbor on the list of counties published by the <ref target="1026-2-a-5" reftype="term">Bureau</ref> to determine whether a county qualifies as “rural” for a particular calendar year.</content>
+        </paragraph>
+        <paragraph label="1026-35-b-2-iv-B" marker="(B)">
+          <content>A county is “underserved” during a calendar year if, according to Home Mortgage Disclosure Act (HMDA) data for that year, no more than two <ref target="1026-2-a-17" reftype="term">creditors</ref> extend covered transactions, as defined in § 1026.43(b)(1), secured by a first lien five or more times in the county. A <ref target="1026-2-a-17" reftype="term">creditor</ref> may rely as a safe harbor on the list of counties published by the <ref target="1026-2-a-5" reftype="term">Bureau</ref> to determine whether a county qualifies as “underserved” for a particular calendar year.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-51-a">
+      <paragraph label="1026-51-a" marker="(a)">
+        <title type="keyterm">General rule</title>
+        <content>General rule —</content>
+        <paragraph label="1026-51-a-1" marker="(1)">
+          <content/>
+          <paragraph label="1026-51-a-1-i" marker="(i)">
+            <title type="keyterm">Consideration of ability to pay.</title>
+            <content>Consideration of ability to pay. A <ref target="1026-2-a-7" reftype="term">card issuer</ref> must not open a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account for a <ref target="1026-2-a-11" reftype="term">consumer</ref> under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan, or increase any <ref target="1026-2-a-14" reftype="term">credit</ref> limit applicable to such account, unless the <ref target="1026-2-a-7" reftype="term">card issuer</ref> considers the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s ability to make the required minimum periodic payments under the terms of the account based on the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets and the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current obligations.</content>
+          </paragraph>
+          <paragraph label="1026-51-a-1-ii" marker="(ii)">
+            <title type="keyterm">Reasonable policies and procedures.</title>
+            <content>Reasonable policies and procedures. <ref target="1026-2-a-7" reftype="term">Card issuers</ref> must establish and maintain reasonable written policies and procedures to consider the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s ability to make the required minimum payments under the terms of the account based on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets and a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current obligations. Reasonable policies and procedures include treating any income and assets to which the <ref target="1026-2-a-11" reftype="term">consumer</ref> has a reasonable expectation of access as the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets, or limiting consideration of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s independent income and assets. Reasonable policies and procedures also include consideration of at least one of the following: The ratio of debt obligations to income; the ratio of debt obligations to assets; or the income the <ref target="1026-2-a-11" reftype="term">consumer</ref> will have after paying debt obligations. It would be unreasonable for a <ref target="1026-2-a-7" reftype="term">card issuer</ref> not to review any information about a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets and current obligations, or to issue a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> to a <ref target="1026-2-a-11" reftype="term">consumer</ref> who does not have any income or assets.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-51-a-2" marker="(2)">
+          <title type="keyterm">Minimum periodic payments</title>
+          <content>Minimum periodic payments —</content>
+          <paragraph label="1026-51-a-2-i" marker="(i)">
+            <title type="keyterm">Reasonable method.</title>
+            <content>Reasonable method. For purposes of paragraph <ref target="1026-51-a-1" reftype="internal">(a)(1)</ref> of this section, a <ref target="1026-2-a-7" reftype="term">card issuer</ref> must use a reasonable method for estimating the minimum periodic payments the <ref target="1026-2-a-11" reftype="term">consumer</ref> would be required to pay under the terms of the account.</content>
+          </paragraph>
+          <paragraph label="1026-51-a-2-ii" marker="(ii)">
+            <title type="keyterm">Safe harbor.</title>
+            <content>Safe harbor. A <ref target="1026-2-a-7" reftype="term">card issuer</ref> complies with paragraph <ref target="1026-51-a-2-i" reftype="internal">(a)(2)(i)</ref> of this section if it estimates required minimum periodic payments using the following method:</content>
+            <paragraph label="1026-51-a-2-ii-A" marker="(A)">
+              <content>The <ref target="1026-2-a-7" reftype="term">card issuer</ref> assumes utilization, from the first day of the <ref target="1026-2-a-4" reftype="term">billing cycle</ref>, of the full <ref target="1026-2-a-14" reftype="term">credit</ref> line that the issuer is considering offering to the <ref target="1026-2-a-11" reftype="term">consumer</ref>; and</content>
+            </paragraph>
+            <paragraph label="1026-51-a-2-ii-B" marker="(B)">
+              <content>The <ref target="1026-2-a-7" reftype="term">card issuer</ref> uses a minimum payment formula employed by the issuer for the product the issuer is considering offering to the <ref target="1026-2-a-11" reftype="term">consumer</ref> or, in the case of an existing account, the minimum payment formula that currently applies to that account, provided that:</content>
+              <paragraph label="1026-51-a-2-ii-B-1" marker="(1)">
+                <content>If the applicable minimum payment formula includes interest charges, the <ref target="1026-2-a-7" reftype="term">card issuer</ref> estimates those charges using an interest rate that the issuer is considering offering to the <ref target="1026-2-a-11" reftype="term">consumer</ref> for purchases or, in the case of an existing account, the interest rate that currently applies to purchases; and</content>
+              </paragraph>
+              <paragraph label="1026-51-a-2-ii-B-2" marker="(2)">
+                <content>If the applicable minimum payment formula includes mandatory fees, the <ref target="1026-2-a-7" reftype="term">card issuer</ref> must assume that such fees have been charged to the account.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-51-b">
+      <paragraph label="1026-51-b" marker="(b)">
+        <title type="keyterm">Rules affecting young consumers</title>
+        <content>Rules affecting young <ref target="1026-2-a-11" reftype="term">consumers</ref>—</content>
+        <paragraph label="1026-51-b-1" marker="(1)">
+          <title type="keyterm">Applications from young consumers.</title>
+          <content>Applications from young <ref target="1026-2-a-11" reftype="term">consumers</ref>. A <ref target="1026-2-a-7" reftype="term">card issuer</ref> may not open a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan for a <ref target="1026-2-a-11" reftype="term">consumer</ref> less than 21 years old, unless the <ref target="1026-2-a-11" reftype="term">consumer</ref> has submitted a written application and the <ref target="1026-2-a-7" reftype="term">card issuer</ref> has:</content>
+          <paragraph label="1026-51-b-1-i" marker="(i)">
+            <content>Financial information indicating the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the proposed extension of <ref target="1026-2-a-14" reftype="term">credit</ref> in connection with the account; or<ref target="1026-51-a" reftype="internal"/></content>
+          </paragraph>
+          <paragraph label="1026-51-b-1-ii" marker="(ii)">
+            <content/>
+            <paragraph label="1026-51-b-1-ii-A" marker="(A)">
+              <content>A signed agreement of a cosigner, guarantor, or joint applicant who is at least 21 years old to be either secondarily liable for any debt on the account incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has attained the age of 21 or jointly liable with the <ref target="1026-2-a-11" reftype="term">consumer</ref> for any debt on the account; and</content>
+            </paragraph>
+            <paragraph label="1026-51-b-1-ii-B" marker="(B)">
+              <content>Financial information indicating such cosigner, guarantor, or joint applicant has the ability to make the required minimum periodic payments on such debts, consistent with paragraph (a) of this <ref target="1026-51-a" reftype="internal">sec</ref>tion.</content>
+            </paragraph>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-51-b-2" marker="(2)">
+          <title type="keyterm">Credit line increases for young consumers.</title>
+          <content><ref target="1026-2-a-14" reftype="term">Credit</ref> line increases for young <ref target="1026-2-a-11" reftype="term">consumers</ref>. <ref target="1026-51-b-1-ii" reftype="internal"/></content>
+          <paragraph label="1026-51-b-2-i" marker="(i)">
+            <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless:</content>
+            <paragraph label="1026-51-b-2-i-A" marker="(A)">
+              <content>At the time of the contemplated increase, the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section; or</content>
+            </paragraph>
+            <paragraph label="1026-51-b-2-i-B" marker="(B)">
+              <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1026-51-b-2-ii" marker="(ii)">
+            <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.</content>
+          </paragraph>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-b-2-i">
+      <paragraph label="1026-35-b-2-i" marker="(i)">
+        <content>An escrow account need not be established for:<ref target="1026-32-d-7" reftype="internal"/><ref target="1026-32-a" reftype="internal"/></content>
+        <paragraph label="1026-35-b-2-i-A" marker="(A)">
+          <content>A transaction secured by shares in a cooperative;</content>
+        </paragraph>
+        <paragraph label="1026-35-b-2-i-B" marker="(B)">
+          <content>A transaction to finance the initial construction of a <ref target="1026-2-a-19" reftype="term">dwelling</ref>;</content>
+        </paragraph>
+        <paragraph label="1026-35-b-2-i-C" marker="(C)">
+          <content>A temporary or “bridge” loan with a loan term of twelve months or less, such as a loan to purchase a new <ref target="1026-2-a-19" reftype="term">dwelling</ref> where the <ref target="1026-2-a-11" reftype="term">consumer</ref> plans to sell a current <ref target="1026-2-a-19" reftype="term">dwelling</ref> within twelve months; or</content>
+        </paragraph>
+        <paragraph label="1026-35-b-2-i-D" marker="(D)">
+          <content>A <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33-c" reftype="internal">1026.33(c)</ref>.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-b-1">
+      <paragraph label="1026-35-b-1" marker="(1)">
+        <title type="keyterm">Repayment ability.</title>
+        <content>Requirement to escrow for property taxes and insurance. Except as provided in paragraph (b)(2) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first li<ref target="1026-34-a-4" reftype="internal">en on a consu</ref><ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an escrow account is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph (b), the term “escrow account” has the same meaning as under Regulation X (24 CFR 3500.17(b)), as amended.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-b-3">
+      <paragraph label="1026-35-b-3" marker="(3)">
+        <title type="keyterm">Escrows</title>
+        <content>Cancellation—</content>
+        <paragraph label="1026-35-b-3-i" marker="(i)">
+          <title type="keyterm">Failure to escrow for property taxes and insurance.</title>
+          <content>General. Except as provided in paragraph (b)(3)(ii) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or s<ref target="1026-35-b-3-ii" reftype="internal">ervicer ma</ref>y cancel an escrow account required in paragraph (b)(1) of this section only upon the earlier of:</content>
+          <paragraph label="1026-35-b-3-i-A" marker="(A)">
+            <content>Termination of the underlying debt obligation; or</content>
+          </paragraph>
+          <paragraph label="1026-35-b-3-i-B" marker="(B)">
+            <content>Receipt no earlier than five years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s request to cancel the escrow account.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-35-b-3-ii" marker="(ii)">
+          <title type="keyterm">Exemptions for loans secured by shares in a cooperative and for certain condominium units.</title>
+          <content>Delayed cancellation. Notwithstanding paragraph (b)(3)(i) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer shall not cancel an escrow account pursuant to a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s request described in paragraph (b)(3)(i)(B) of this section unless the following conditions are satisfied:</content>
+          <paragraph label="1026-35-b-3-ii-A" marker="(A)">
+            <content>The unpaid principal balance is less than 80 percent of the original value of the property securing the underlying debt obligation; and</content>
+          </paragraph>
+          <paragraph label="1026-35-b-3-ii-B" marker="(B)">
+            <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> currently is not delinquent o<ref target="1026-35-b-3-i" reftype="internal">r in defa</ref>ult on the underlying debt obligation.</content>
+          </paragraph>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-b-2">
+      <paragraph label="1026-35-b-2" marker="(2)">
+        <title type="keyterm">Prepayment penalties.</title>
+        <content>Exemptions. Notwithstanding paragraph (b)(1) of this section:<ref target="1026-32-d-6" reftype="internal"/></content>
+        <paragraph label="1026-35-b-2-i" marker="(i)">
+          <content>An escrow account need not be established for:<ref target="1026-32-d-7" reftype="internal"/><ref target="1026-32-a" reftype="internal"/></content>
+          <paragraph label="1026-35-b-2-i-A" marker="(A)">
+            <content>A transaction secured by shares in a cooperative;</content>
+          </paragraph>
+          <paragraph label="1026-35-b-2-i-B" marker="(B)">
+            <content>A transaction to finance the initial construction of a <ref target="1026-2-a-19" reftype="term">dwelling</ref>;</content>
+          </paragraph>
+          <paragraph label="1026-35-b-2-i-C" marker="(C)">
+            <content>A temporary or “bridge” loan with a loan term of twelve months or less, such as a loan to purchase a new <ref target="1026-2-a-19" reftype="term">dwelling</ref> where the <ref target="1026-2-a-11" reftype="term">consumer</ref> plans to sell a current <ref target="1026-2-a-19" reftype="term">dwelling</ref> within twelve months; or</content>
+          </paragraph>
+          <paragraph label="1026-35-b-2-i-D" marker="(D)">
+            <content>A <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33-c" reftype="internal">1026.33(c)</ref>.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-35-b-2-ii" marker="(ii)">
+          <content>Insurance premiums described in paragraph (b)(1) of this section need not be included in escrow accounts for loans secured by <ref target="1026-2-a-19" reftype="term">dwellings</ref> in condominiums, planned unit developments, or other common interest communities in which <ref target="1026-2-a-19" reftype="term">dwelling</ref> ownership requires participation in a governing association, where the governing association has an obligation to the <ref target="1026-2-a-19" reftype="term">dwelling</ref> owners to maintain a master policy insuring all <ref target="1026-2-a-19" reftype="term">dwellings</ref>.</content>
+        </paragraph>
+        <paragraph label="1026-35-b-2-iii" marker="(iii)">
+          <content>Except as provided in paragraph <ref target="1026-35-b-2-v" reftype="internal">(b)(2)(v)</ref> of this section, an escrow account need not be established for a transaction if, at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>:</content>
+          <paragraph label="1026-35-b-2-iii-A" marker="(A)">
+            <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> extended more than 50 percent of its total covered transactions, as defined by § 1026.43(b)(1), secured by a first lien, on properties that are located in counties designated either “rural” or “underserved” by the <ref target="1026-2-a-5" reftype="term">Bureau</ref>, as set forth in paragraph <ref target="1026-35-b-2-iv" reftype="internal">(b)(2)(iv)</ref> of this section;</content>
+          </paragraph>
+          <paragraph label="1026-35-b-2-iii-B" marker="(B)">
+            <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> and its <ref target="1026-32-b-2" reftype="term">affiliates</ref> together originated 500 or fewer covered transactions, as defined by § 1026.43(b)(1), secured by a first lien; and</content>
+          </paragraph>
+          <paragraph label="1026-35-b-2-iii-C" marker="(C)">
+            <content>As of the end of the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> had total assets of less than $2,000,000,000; this asset threshold shall adjust automatically each year, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each 12-month period ending in November, with rounding to the nearest million dollars (see comment <ref target="1026-35-b-2-iii-Interp-1-iii" reftype="internal">35(b)(2)(iii)-1.iii</ref> for the current threshold); and</content>
+          </paragraph>
+          <paragraph label="1026-35-b-2-iii-D" marker="(D)">
+            <content>Neither the <ref target="1026-2-a-17" reftype="term">creditor</ref> nor its <ref target="1026-32-b-2" reftype="term">affiliate</ref> maintains an escrow account of the type described in paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section for any extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> secured by real property or a <ref target="1026-2-a-19" reftype="term">dwelling</ref> that the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-2" reftype="term">affiliate</ref> currently services, other than:</content>
+            <paragraph label="1026-35-b-2-iii-D-1" marker="(1)">
+              <content>Escrow accounts established for first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> on or after April 1, 2010, and before June 1, 2013; or</content>
+            </paragraph>
+            <paragraph label="1026-35-b-2-iii-D-2" marker="(2)">
+              <content>Escrow accounts established after <ref target="1026-2-a-13" reftype="term">consummation</ref> as an accommodation to distressed <ref target="1026-2-a-11" reftype="term">consumers</ref> to assist such <ref target="1026-2-a-11" reftype="term">consumers</ref> in avoiding default or foreclosure.</content>
+            </paragraph>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-35-b-2-iv" marker="(iv)">
+          <content>For purposes of paragraph <ref target="1026-35-b-2-iii-A" reftype="internal">(b)(2)(iii)(A)</ref> of this section:</content>
+          <paragraph label="1026-35-b-2-iv-A" marker="(A)">
+            <content>A county is “rural” during a calendar year if it is neither in a metropolitan statistical area nor in a micropolitan statistical area that is adjacent to a metropolitan statistical area, as those terms are defined by the U.S. Office of Management and Budget and applied under currently applicable Urban Influence Codes (UICs), established by the United States Department of Agriculture's Economic Research Service (USDA-ERS). A <ref target="1026-2-a-17" reftype="term">creditor</ref> may rely as a safe harbor on the list of counties published by the <ref target="1026-2-a-5" reftype="term">Bureau</ref> to determine whether a county qualifies as “rural” for a particular calendar year.</content>
+          </paragraph>
+          <paragraph label="1026-35-b-2-iv-B" marker="(B)">
+            <content>A county is “underserved” during a calendar year if, according to Home Mortgage Disclosure Act (HMDA) data for that year, no more than two <ref target="1026-2-a-17" reftype="term">creditors</ref> extend covered transactions, as defined in § 1026.43(b)(1), secured by a first lien five or more times in the county. A <ref target="1026-2-a-17" reftype="term">creditor</ref> may rely as a safe harbor on the list of counties published by the <ref target="1026-2-a-5" reftype="term">Bureau</ref> to determine whether a county qualifies as “underserved” for a particular calendar year.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-35-b-2-v" marker="(v)">
+          <content>Notwithstanding paragraph <ref target="1026-35-b-2-iii" reftype="internal">(b)(2)(iii)</ref> of this section, an escrow account must be established pursuant to paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section for any first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> that, at <ref target="1026-2-a-13" reftype="term">consummation</ref>, is subject to a commitment to be acquired by a <ref target="1026-2-a-22" reftype="term">person</ref> that does not satisfy the conditions in paragraph <ref target="1026-35-b-2-iii" reftype="internal">(b)(2)(iii)</ref> of this section, unless otherwise exempted by this paragraph <ref target="1026-35-b-2" reftype="internal">(b)(2)</ref>.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-b-2-v">
+      <paragraph label="1026-35-b-2-v" marker="(v)">
+        <content>Notwithstanding paragraph <ref target="1026-35-b-2-iii" reftype="internal">(b)(2)(iii)</ref> of this section, an escrow account must be established pursuant to paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section for any first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> that, at <ref target="1026-2-a-13" reftype="term">consummation</ref>, is subject to a commitment to be acquired by a <ref target="1026-2-a-22" reftype="term">person</ref> that does not satisfy the conditions in paragraph <ref target="1026-35-b-2-iii" reftype="internal">(b)(2)(iii)</ref> of this section, unless otherwise exempted by this paragraph <ref target="1026-35-b-2" reftype="internal">(b)(2)</ref>.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-a-2">
+      <paragraph label="1026-35-a-2" marker="(2)">
+        <content>“Average prime offer rate” means an annual percentage rate that is derived from average interest rates, points, and other loan pricing terms currently offered to <ref target="1026-2-a-11" reftype="term">consumers</ref> by a representative sample of <ref target="1026-2-a-17" reftype="term">creditors</ref> for mortgage transactions that have low-risk pricing characteristics. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> publishes average prime offer rates for a broad range of types of transactions in a table updated at least weekly as well as the methodology the <ref target="1026-2-a-5" reftype="term">Bureau</ref> uses to derive these rates.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-a-1">
+      <paragraph label="1026-35-a-1" marker="(1)">
+        <content>“Higher-priced mortgage loan” means a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref><ref target="1026-35-b-3-v" reftype="internal">it transa</ref>ction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with an annual percentage rate that exceeds the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set:</content>
+        <paragraph label="1026-35-a-1-i" marker="(i)">
+          <content>By 1.5 or more percentage points for loans secured by a first lien with a principal obligation at <ref target="1026-2-a-13" reftype="term">consummation</ref> that does not exceed the limit in effect as of the date the transaction's interest rate is set for the maximum principal obligation eligible for purchase by Freddie Mac;</content>
+        </paragraph>
+        <paragraph label="1026-35-a-1-ii" marker="(ii)">
+          <content>By 2.5 or more percentage points for loans secured by a first lien with a principal obligation at <ref target="1026-2-a-13" reftype="term">consummation</ref> that exceeds the limit in effect as of the date the transaction's interest rate is set for the maximum principal obligation eligible for purchase by Freddie Mac; or</content>
+        </paragraph>
+        <paragraph label="1026-35-a-1-iii" marker="(iii)">
+          <content>By 3.5 or more percentage points for loans secured by a subordinate lien.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-35-b-2-ii">
+      <paragraph label="1026-35-b-2-ii" marker="(ii)">
+        <content>Insurance premiums described in paragraph (b)(1) of this section need not be included in escrow accounts for loans secured by <ref target="1026-2-a-19" reftype="term">dwellings</ref> in condominiums, planned unit developments, or other common interest communities in which <ref target="1026-2-a-19" reftype="term">dwelling</ref> ownership requires participation in a governing association, where the governing association has an obligation to the <ref target="1026-2-a-19" reftype="term">dwelling</ref> owners to maintain a master policy insuring all <ref target="1026-2-a-19" reftype="term">dwellings</ref>.</content>
+      </paragraph>
+    </change>
+  </changeset>
+</notice>
