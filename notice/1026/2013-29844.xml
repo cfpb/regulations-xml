@@ -154,9 +154,10 @@
       </paragraph>
     </change>
     <change operation="added" label="1026-52-b-1-ii-Interp-2-i">
-      <interpParagraph label="1026-52-b-1-ii-Interp-2-i" target="1026-52-b-1-ii-2-i">
+      <interpParagraph label="1026-52-b-1-ii-Interp-2-i" marker="i.">
+        <title type="keyterm">Historical thresholds.</title>
         <content>Historical thresholds.</content>
-        <interpParagraph label="1026-52-b-1-ii-Interp-2-i-A" target="1026-52-b-1-ii-2-i-A">
+        <interpParagraph label="1026-52-b-1-ii-Interp-2-i-A" marker="A.">
           <content><ref target="1026-2-a-7" reftype="term">Card issuers</ref> were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $25 under § <ref target="1026-52-b-1-ii-A" reftype="internal">1026.52(b)(1)(ii)(A)</ref> and $35 under § <ref target="1026-52-b-1-ii-B" reftype="internal">1026.52(b)(1)(ii)(B)</ref>, through December 31, 2013.</content>
         </interpParagraph>
       </interpParagraph>
@@ -258,7 +259,7 @@
       </section>
     </change>
     <change operation="added" label="1026-52-b-1-ii-Interp-2-i-A">
-      <interpParagraph label="1026-52-b-1-ii-Interp-2-i-A" target="1026-52-b-1-ii-2-i-A">
+      <interpParagraph label="1026-52-b-1-ii-Interp-2-i-A" marker="A.">
         <content><ref target="1026-2-a-7" reftype="term">Card issuers</ref> were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $25 under § <ref target="1026-52-b-1-ii-A" reftype="internal">1026.52(b)(1)(ii)(A)</ref> and $35 under § <ref target="1026-52-b-1-ii-B" reftype="internal">1026.52(b)(1)(ii)(B)</ref>, through December 31, 2013.</content>
       </interpParagraph>
     </change>
@@ -2268,7 +2269,7 @@
       </paragraph>
     </change>
     <change operation="added" label="1026-32-a-1-ii-Interp-2-xix">
-      <interpParagraph label="1026-32-a-1-ii-Interp-2-xix" target="1026-32-a-1-ii-2-xix">
+      <interpParagraph label="1026-32-a-1-ii-Interp-2-xix" marker="xix.">
         <content>For 2014, $632, reflecting a 1.1 percent increase in the CPI-U from June 2012 to June 2013, rounded to the nearest whole dollar.</content>
       </interpParagraph>
     </change>
@@ -2590,12 +2591,12 @@
       </paragraph>
     </change>
     <change operation="modified" label="1026-36-a-Interp-5-i">
-      <interpParagraph label="1026-36-a-Interp-5-i" target="1026-36-a-5-i">
+      <interpParagraph label="1026-36-a-Interp-5-i" marker="i.">
         <content>General. For purposes of § <ref target="1026-36" reftype="internal">1026.36</ref>, <ref target="1026-36-a-3" reftype="term">compensation</ref> is defined in § <ref target="1026-36-a-3" reftype="internal">1026.36(a)(3)</ref> as salaries, commissions, and any financial or similar incentive. For example, the term “<ref target="1026-36-a-3" reftype="term">compensation</ref>” includes:</content>
-        <interpParagraph label="1026-36-a-Interp-5-i-A" target="1026-36-a-5-i-A">
+        <interpParagraph label="1026-36-a-Interp-5-i-A" marker="A.">
           <content>An annual or other periodic bonus; or</content>
         </interpParagraph>
-        <interpParagraph label="1026-36-a-Interp-5-i-B" target="1026-36-a-5-i-B">
+        <interpParagraph label="1026-36-a-Interp-5-i-B" marker="B.">
           <content>Awards of merchandise, services, trips, or similar prizes.</content>
         </interpParagraph>
       </interpParagraph>

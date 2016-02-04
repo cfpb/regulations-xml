@@ -20,7 +20,7 @@
   </preamble>
   <changeset>
     <change operation="added" label="1026-32-a-1-ii-Interp-2-xviii">
-      <interpParagraph label="1026-32-a-1-ii-Interp-2-xviii" target="1026-32-a-1-ii-2-xviii">
+      <interpParagraph label="1026-32-a-1-ii-Interp-2-xviii" marker="xviii.">
         <content>For 2013, $625, reflecting a 2.3 percent increase in the CPI-U from June 2011 to June 2012, rounded to the nearest whole dollar.</content>
       </interpParagraph>
     </change>
