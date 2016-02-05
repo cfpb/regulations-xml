@@ -156,7 +156,7 @@
     <change operation="added" label="1026-52-b-1-ii-Interp-2-i">
       <interpParagraph label="1026-52-b-1-ii-Interp-2-i" marker="i.">
         <title type="keyterm">Historical thresholds.</title>
-        <content>Historical thresholds.</content>
+        <content/>
         <interpParagraph label="1026-52-b-1-ii-Interp-2-i-A" marker="A.">
           <content><ref target="1026-2-a-7" reftype="term">Card issuers</ref> were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $25 under § <ref target="1026-52-b-1-ii-A" reftype="internal">1026.52(b)(1)(ii)(A)</ref> and $35 under § <ref target="1026-52-b-1-ii-B" reftype="internal">1026.52(b)(1)(ii)(B)</ref>, through December 31, 2013.</content>
         </interpParagraph>
