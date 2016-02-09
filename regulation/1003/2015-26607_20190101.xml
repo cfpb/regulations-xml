@@ -33,7 +33,7 @@
       </tocSecEntry>
       <tocSecEntry target="1003-4">
         <sectionNum>4</sectionNum>
-        <sectionSubject>&#167; 1003.4 Compilation of loan data.</sectionSubject>
+        <sectionSubject>&#167; 1003.4 Compilation of reportable data.</sectionSubject>
       </tocSecEntry>
       <tocSecEntry target="1003-5">
         <sectionNum>5</sectionNum>
@@ -45,7 +45,7 @@
       </tocSecEntry>
       <tocAppEntry target="1003-A">
         <appendixLetter>A</appendixLetter>
-        <appendixSubject>Appendix A to Part 1003&#8212;Form and Instructions for Completion of HMDA Loan/Application Register</appendixSubject>
+        <appendixSubject>Appendix A to Part 1003&#8212;[Reserved]</appendixSubject>
       </tocAppEntry>
       <tocAppEntry target="1003-B">
         <appendixLetter>B</appendixLetter>
@@ -77,7 +77,7 @@
           </tocSecEntry>
           <tocSecEntry target="1003-4">
             <sectionNum>4</sectionNum>
-            <sectionSubject>&#167; 1003.4 Compilation of loan data.</sectionSubject>
+            <sectionSubject>&#167; 1003.4 Compilation of reportable data.</sectionSubject>
           </tocSecEntry>
           <tocSecEntry target="1003-5">
             <sectionNum>5</sectionNum>
@@ -111,8 +111,7 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1003-1-b-2" marker="(2)">
-                <content>Neither the act nor this part is intended to encourage unsound lending practices or the allocation of credit.</content>
-              </paragraph>
+                <content>Neither the <ref target="1003-2-a" reftype="term">act</ref> nor this part is intended to encourage unsound lending practices or the allocation of credit.</content></paragraph>
             </paragraph>
             <paragraph label="1003-1-c" marker="(c)">
               <title type="keyterm">Scope.</title>
@@ -164,14 +163,13 @@
               <content><def term="covered loan" id="421ee789472415c701e1be02559271d0bd1d3c50">Covered loan</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is not an excluded transaction under &#167; <ref target="1003-3-c" reftype="internal">1003.3(c)</ref>.</content>
             </paragraph>
             <paragraph label="1003-2-f" marker="(f)">
-              <content><def term="dwelling" id="13d9f065670282e844e0976290fe31d8f6a23bf4">Dwelling</def> means a residential structure, whether or not attached to real property. The term includes but is not limited to a detached home, an individual condominium or cooperative unit, a manufactured home or other factory-built home, or a multifamily residential structure or community.</content>
-            </paragraph>
+              <content><def term="dwelling" id="13d9f065670282e844e0976290fe31d8f6a23bf4">Dwelling</def> means a residential structure, whether or not attached to real property. The term includes but is not limited to a detached home, an individual condominium or cooperative unit, a <ref target="1003-2-l" reftype="term">manufactured home</ref> or other factory-built home, or a multifamily residential structure or community.</content></paragraph>
             <paragraph label="1003-2-g" marker="(g)">
               <content><def term="financial institution" id="a4cb491a8c6509702741c0f7f6d34ee36b51b653">Financial institution</def> means a <ref target="1003-2-g-1" reftype="term">depository financial institution</ref> or a <ref target="1003-2-g-2" reftype="term">nondepository financial institution</ref>, where:</content>
               <paragraph label="1003-2-g-1" marker="(1)">
                 <content><def term="depository financial institution" id="e65e2bbd57fd6408e39c0816b9c929d0f26a96cb">Depository financial institution</def> means a bank, savings association, or credit union that:</content>
                 <paragraph label="1003-2-g-1-i" marker="(i)">
-                  <content>On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref>, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;</content>
+                  <content>On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the <ref target="1003-2-a" reftype="term">Act</ref>, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;</content>
                 </paragraph>
                 <paragraph label="1003-2-g-1-ii" marker="(ii)">
                   <content>On the preceding December 31, had a home or <ref target="1003-2-c" reftype="term">branch office</ref> in an <ref target="1003-2-m-1" reftype="term">MSA</ref>;</content>
@@ -194,8 +192,7 @@
                     <content>In each of the two preceding calendar years, originated at least 25 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> that are not excluded from this part pursuant to &#167; <ref target="1003-3-c-1" reftype="internal">1003.3(c)(1)</ref> through (10); or</content>
                   </paragraph>
                   <paragraph label="1003-2-g-1-v-B" marker="(B)">
-                    <content>In each of the two preceding calendar years, originated at least 100 open-end lines of credit that are not excluded from this part pursuant to &#167; <ref target="1003-3-c-1" reftype="internal">1003.3(c)(1)</ref> through (10); and</content>
-                  </paragraph>
+                    <content>In each of the two preceding calendar years, originated at least 100 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> that are not excluded from this part pursuant to &#167; <ref target="1003-3-c-1" reftype="internal">1003.3(c)(1)</ref> through (10); and</content></paragraph>
                 </paragraph>
               </paragraph>
               <paragraph label="1003-2-g-2" marker="(2)">
@@ -209,8 +206,7 @@
                     <content>In each of the two preceding calendar years, originated at least 25 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> that are not excluded from this part pursuant to &#167; <ref target="1003-3-c-1" reftype="internal">1003.3(c)(1)</ref> through (10); or</content>
                   </paragraph>
                   <paragraph label="1003-2-g-2-ii-B" marker="(B)">
-                    <content>In each of the two preceding calendar years, originated at least 100 open-end lines of credit that are not excluded from this part pursuant to &#167; <ref target="1003-3-c-1" reftype="internal">1003.3(c)(1)</ref> through (10).</content>
-                  </paragraph>
+                    <content>In each of the two preceding calendar years, originated at least 100 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> that are not excluded from this part pursuant to &#167; <ref target="1003-3-c-1" reftype="internal">1003.3(c)(1)</ref> through (10).</content></paragraph>
                 </paragraph>
               </paragraph>
             </paragraph>
@@ -228,8 +224,7 @@
               <content>Loan/Application Register means both the record of information required to be collected pursuant to &#167; <ref target="1003-4" reftype="internal">1003.4</ref> and the record submitted annually or quarterly, as applicable, pursuant to &#167; <ref target="1003-5-a" reftype="internal">1003.5(a)</ref>.</content>
             </paragraph>
             <paragraph label="1003-2-l" marker="(l)">
-              <content><def term="manufactured home" id="889b6a789104504478e356ec2a11c6a23e4c59a6">Manufactured home</def> means any residential structure as defined under regulations of the U.S. Department of Housing and Urban Development establishing manufactured home construction and safety standards (<ref target="CFR:24-3280-2" reftype="external">24 CFR 3280.2</ref>). For purposes of &#167; <ref target="1003-4-a-5" reftype="internal">1003.4(a)(5)</ref>, the term also includes a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> that is a manufactured home community.</content>
-            </paragraph>
+              <content><def term="manufactured home" id="889b6a789104504478e356ec2a11c6a23e4c59a6">Manufactured home</def> means any residential structure as defined under regulations of the U.S. Department of Housing and Urban Development establishing <ref target="1003-2-l" reftype="term">manufactured home</ref> construction and safety standards (<ref target="CFR:24-3280-2" reftype="external">24 CFR 3280.2</ref>). For purposes of &#167; <ref target="1003-4-a-5" reftype="internal">1003.4(a)(5)</ref>, the term also includes a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> that is a <ref target="1003-2-l" reftype="term">manufactured home</ref> community.</content></paragraph>
             <paragraph label="1003-2-m" marker="(m)">
               <title type="keyterm">Metropolitan Statistical Area</title>
               <content><ref target="1003-2-m-1" reftype="term">Metropolitan Statistical Area</ref> (<ref target="1003-2-m-1" reftype="term">MSA</ref>) and Metropolitan Division (MD).</content>
@@ -257,8 +252,7 @@
               <content><def term="refinancing" id="7b279be4604646cce2d54f5d567a4a734651a478">Refinancing</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> in which a new, <ref target="1003-2-f" reftype="term">dwelling</ref>-secured debt obligation satisfies and replaces an existing, <ref target="1003-2-f" reftype="term">dwelling</ref>-secured debt obligation by the same borrower.</content>
             </paragraph>
             <paragraph label="1003-2-q" marker="(q)">
-              <content><def term="reverse mortgage" id="dddbb9b4e734f8ca5bd653b387928227480f36a5">Reverse mortgage</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is a reverse mortgage transaction as defined in Regulation Z, <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a), but without regard to whether the security interest is created in a principal <ref target="1003-2-f" reftype="term">dwelling</ref>.</content>
-            </paragraph>
+              <content><def term="reverse mortgage" id="dddbb9b4e734f8ca5bd653b387928227480f36a5">Reverse mortgage</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is a <ref target="1003-2-q" reftype="term">reverse mortgage</ref> transaction as defined in Regulation Z, <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a), but without regard to whether the security interest is created in a principal <ref target="1003-2-f" reftype="term">dwelling</ref>.</content></paragraph>
             
             </paragraph>
             <analysis>
@@ -805,46 +799,34 @@
               	<content>Temporary financing;</content>
               </paragraph>
               <paragraph label="1003-3-c-4" marker="(4)">
-              	<content>The purchase of an interest in a pool of closed-end mortgage loans or open-end lines of credit;</content>
-              </paragraph>
+              	<content>The purchase of an interest in a pool of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or <ref target="1003-2-o" reftype="term">open-end lines of credit</ref>;</content></paragraph>
               <paragraph label="1003-3-c-5" marker="(5)">
-              	<content>The purchase solely of the right to service closed-end mortgage loans or open-end lines of credit;</content>
-              </paragraph>
+              	<content>The purchase solely of the right to service <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or <ref target="1003-2-o" reftype="term">open-end lines of credit</ref>;</content></paragraph>
               <paragraph label="1003-3-c-6" marker="(6)">
-              	<content>The purchase of closed-end mortgage loans or open-end lines of credit as part of a merger or acquisition, or as part of the acquisition of all of the assets and liabilities of a branch office as defined in &#167; 1003.2(c);</content>
-              </paragraph>
+              	<content>The purchase of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> as part of a merger or acquisition, or as part of the acquisition of all of the assets and liabilities of a <ref target="1003-2-c" reftype="term">branch office</ref> as defined in &#167; 1003.2(c);</content></paragraph>
               <paragraph label="1003-3-c-7" marker="(7)">
-              	<content>A closed-end mortgage loan or open-end line of credit, or an application for a closed-end mortgage loan or open-end line of credit, for which the total dollar amount is less than $500;</content>
-              </paragraph>
+              	<content>A <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or <ref target="1003-2-o" reftype="term">open-end line of credit</ref>, or an application for a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or <ref target="1003-2-o" reftype="term">open-end line of credit</ref>, for which the total dollar amount is less than $500;</content></paragraph>
               <paragraph label="1003-3-c-8" marker="(8)">
-              	<content>The purchase of a partial interest in a closed-end mortgage loan or open-end line of credit;</content>
-              </paragraph>
+              	<content>The purchase of a partial interest in a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or <ref target="1003-2-o" reftype="term">open-end line of credit</ref>;</content></paragraph>
               <paragraph label="1003-3-c-9" marker="(9)">
-              	<content>A closed-end mortgage loan or open-end line of credit used primarily for agricultural purposes;</content>
-              </paragraph>
+              	<content>A <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or <ref target="1003-2-o" reftype="term">open-end line of credit</ref> used primarily for agricultural purposes;</content></paragraph>
               <paragraph label="1003-3-c-10" marker="(10)">
-              	<content>A closed-end mortgage loan or open-end line of credit that is or will be made primarily for a business or commercial purpose, unless the closed-end mortgage loan or open-end line of credit is a home improvement loan under &#167; 1003.2(i), a home purchase loan under &#167; 1003.2(j), or a refinancing under &#167; 1003.2(p);</content>
-              </paragraph>
+              	<content>A <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is or will be made primarily for a business or commercial purpose, unless the <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or <ref target="1003-2-o" reftype="term">open-end line of credit</ref> is a <ref target="1003-2-i" reftype="term">home improvement loan</ref> under &#167; 1003.2(i), a <ref target="1003-2-j" reftype="term">home purchase loan</ref> under &#167; 1003.2(j), or a <ref target="1003-2-p" reftype="term">refinancing</ref> under &#167; 1003.2(p);</content></paragraph>
               <paragraph label="1003-3-c-11" marker="(11)">
-              	<content>A closed-end mortgage loan, if the financial institution originated fewer than 25 closed-end mortgage loans in each of the two preceding calendar years; or</content>
-              </paragraph>
+              	<content>A <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref>, if the <ref target="1003-2-g" reftype="term">financial institution</ref> originated fewer than 25 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in each of the two preceding calendar years; or</content></paragraph>
               <paragraph label="1003-3-c-12" marker="(12)">
-              	<content>An open-end line of credit, if the financial institution originated fewer than 100 open-end lines of credit in each of the two preceding calendar years.</content>
-              </paragraph>
+              	<content>An <ref target="1003-2-o" reftype="term">open-end line of credit</ref>, if the <ref target="1003-2-g" reftype="term">financial institution</ref> originated fewer than 100 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> in each of the two preceding calendar years.</content></paragraph>
             </paragraph>
           </section>
           <section label="1003-4" sectionNum="4">
-            <subject>&#167; 1003.4 Compilation of loan data.</subject>
+            <subject>&#167; 1003.4 Compilation of reportable data.</subject>
             <paragraph label="1003-4-a" marker="(a)">
               <title type="keyterm">Data format and itemization.</title>
-              <content>Data format and itemization. A financial institution shall collect data regarding applications for covered loans that it receives, covered loans that it originates, and covered loans that it purchases for each calendar year. A financial institution shall collect data regarding requests under a preapproval program, as defined in &#167; 1003.2(b)(2), only if the preapproval request is denied, is approved by the financial institution but not accepted by the applicant, or results in the origination of a home purchase loan. The data collected shall include the following items:</content>
-              <paragraph label="1003-4-a-1" marker="(1)">
+              <content>Data format and itemization. A <ref target="1003-2-g" reftype="term">financial institution</ref> shall collect data regarding applications for <ref target="1003-2-e" reftype="term">covered loans</ref> that it receives, <ref target="1003-2-e" reftype="term">covered loans</ref> that it originates, and <ref target="1003-2-e" reftype="term">covered loans</ref> that it purchases for each calendar year. A <ref target="1003-2-g" reftype="term">financial institution</ref> shall collect data regarding requests under a preapproval program, as defined in &#167; 1003.2(b)(2), only if the preapproval request is denied, is approved by the <ref target="1003-2-g" reftype="term">financial institution</ref> but not accepted by the applicant, or results in the origination of a <ref target="1003-2-j" reftype="term">home purchase loan</ref>. The data collected shall include the following items:</content><paragraph label="1003-4-a-1" marker="(1)">
               	<content/>
               	<paragraph label="1003-4-a-1-i" marker="(i)">
-              		<content>A universal loan identifier (ULI) for the covered loan or application that can be used to identify and retrieve the covered loan or application file. Except for a purchased covered loan or application described in paragraphs (a)(1)(i)(D) and (E) of this section, the financial institution shall assign and report a ULI that:</content>
-              		<paragraph label="1003-4-a-1-i-A" marker="(A)">
-              			<content>Begins with the financial institution's Legal Entity Identifier (LEI) that is issued by:</content>
-              			<paragraph label="1003-4-a-1-i-A-1" marker="1.">
+              		<content>A universal loan identifier (ULI) for the <ref target="1003-2-e" reftype="term">covered loan</ref> or application that can be used to identify and retrieve the <ref target="1003-2-e" reftype="term">covered loan</ref> or application file. Except for a purchased <ref target="1003-2-e" reftype="term">covered loan</ref> or application described in paragraphs (a)(1)(i)(D) and (E) of this section, the <ref target="1003-2-g" reftype="term">financial institution</ref> shall assign and report a ULI that:</content><paragraph label="1003-4-a-1-i-A" marker="(A)">
+              			<content>Begins with the <ref target="1003-2-g" reftype="term">financial institution</ref>'s Legal Entity Identifier (LEI) that is issued by:</content><paragraph label="1003-4-a-1-i-A-1" marker="1.">
               				<content>A utility endorsed by the LEI Regulatory Oversight Committee; or</content>
               			</paragraph>
               			<paragraph label="1003-4-a-1-i-A-2" marker="2.">
@@ -853,13 +835,11 @@
               		</paragraph>
               		
               		<paragraph label="1003-4-a-1-i-B" marker="(B)">
-              			<content>Follows the LEI with up to 23 additional characters to identify the covered loan or application, which:</content>
-              			<paragraph label="1003-4-a-1-i-B-1" marker="1.">
+              			<content>Follows the LEI with up to 23 additional characters to identify the <ref target="1003-2-e" reftype="term">covered loan</ref> or application, which:</content><paragraph label="1003-4-a-1-i-B-1" marker="1.">
               				<content>May be letters, numerals, or a combination of letters and numerals;</content>
               			</paragraph>
               			<paragraph label="1003-4-a-1-i-B-2" marker="2.">
-              				<content>Must be unique within the financial institution; and</content>
-              			</paragraph>
+              				<content>Must be unique within the <ref target="1003-2-g" reftype="term">financial institution</ref>; and</content></paragraph>
               			<paragraph label="1003-4-a-1-i-B-3" marker="3.">
               				<content>Must not include any information that could be used to directly identify the applicant or borrower; and</content>
               			</paragraph>
@@ -869,70 +849,51 @@
               			<content>Ends with a two-character check digit, as prescribed in appendix C to this part.</content>
               		</paragraph>
               		<paragraph label="1003-4-a-1-i-D" marker="(D)">
-              			<content>For a purchased covered loan that any financial institution has previously assigned or reported with a ULI under this part, the financial institution that purchases the covered loan must use the ULI that was assigned or previously reported for the covered loan.</content>
-              		</paragraph>
+              			<content>For a purchased <ref target="1003-2-e" reftype="term">covered loan</ref> that any <ref target="1003-2-g" reftype="term">financial institution</ref> has previously assigned or reported with a ULI under this part, the <ref target="1003-2-g" reftype="term">financial institution</ref> that purchases the <ref target="1003-2-e" reftype="term">covered loan</ref> must use the ULI that was assigned or previously reported for the <ref target="1003-2-e" reftype="term">covered loan</ref>.</content></paragraph>
               		<paragraph label="1003-4-a-1-i-E" marker="(E)">
-              			<content>For an application that was previously reported with a ULI under this part and that results in an origination during the same calendar year that is reported in a subsequent reporting period pursuant to &#167; 1003.5(a)(1)(ii), the financial institution may report the same ULI for the origination that was previously reported for the application.</content>
-              		</paragraph>
+              			<content>For an application that was previously reported with a ULI under this part and that results in an origination during the same calendar year that is reported in a subsequent reporting period pursuant to &#167; 1003.5(a)(1)(ii), the <ref target="1003-2-g" reftype="term">financial institution</ref> may report the same ULI for the origination that was previously reported for the application.</content></paragraph>
               	</paragraph>
               	
               	<paragraph label="1003-4-a-1-ii" marker="(ii)">
-              		<content>Except for purchased covered loans, the date the application was received or the date shown on the application form.</content>
-              	</paragraph>
+              		<content>Except for purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, the date the application was received or the date shown on the application form.</content></paragraph>
               </paragraph>
               <paragraph label="1003-4-a-2" marker="(2)">
-              	<content>Whether the covered loan is, or in the case of an application would have been, insured by the Federal Housing Administration, guaranteed by the Veterans Administration, or guaranteed by the Rural Housing Service or the Farm Service Agency.</content>
-              </paragraph>
+              	<content>Whether the <ref target="1003-2-e" reftype="term">covered loan</ref> is, or in the case of an application would have been, insured by the Federal Housing Administration, guaranteed by the Veterans Administration, or guaranteed by the Rural Housing Service or the Farm Service Agency.</content></paragraph>
               <paragraph label="1003-4-a-3" marker="(3)">
-              	<content>Whether the covered loan is, or the application is for, a home purchase loan, a home improvement loan, a refinancing, a cash-out refinancing, or for a purpose other than home purchase, home improvement, refinancing, or cash-out refinancing.</content>
-              </paragraph>
+              	<content>Whether the <ref target="1003-2-e" reftype="term">covered loan</ref> is, or the application is for, a <ref target="1003-2-j" reftype="term">home purchase loan</ref>, a <ref target="1003-2-i" reftype="term">home improvement loan</ref>, a <ref target="1003-2-p" reftype="term">refinancing</ref>, a cash-out <ref target="1003-2-p" reftype="term">refinancing</ref>, or for a purpose other than home purchase, home improvement, <ref target="1003-2-p" reftype="term">refinancing</ref>, or cash-out <ref target="1003-2-p" reftype="term">refinancing</ref>.</content></paragraph>
               <paragraph label="1003-4-a-4" marker="(4)">
-              	<content>Whether the application or covered loan involved a request for a preapproval of a home purchase loan under a preapproval program.</content>
-              </paragraph>
+              	<content>Whether the application or <ref target="1003-2-e" reftype="term">covered loan</ref> involved a request for a preapproval of a <ref target="1003-2-j" reftype="term">home purchase loan</ref> under a preapproval program.</content></paragraph>
               <paragraph label="1003-4-a-5" marker="(5)">
-              	<content>Whether the construction method for the dwelling related to the property identified in paragraph (a)(9) of this section is site-built or a manufactured home.</content>
-              </paragraph>
+              	<content>Whether the construction method for the <ref target="1003-2-f" reftype="term">dwelling</ref> related to the property identified in paragraph (a)(9) of this section is site-built or a <ref target="1003-2-l" reftype="term">manufactured home</ref>.</content></paragraph>
               <paragraph label="1003-4-a-6" marker="(6)">
               	<content>Whether the property identified in paragraph (a)(9) of this section is or will be used by the applicant or borrower as a principal residence, as a second residence, or as an investment property.</content>
               </paragraph>
               <paragraph label="1003-4-a-7" marker="(7)">
-              	<content>The amount of the covered loan or the amount applied for, as applicable.</content>
-              	<paragraph label="1003-4-a-7-i" marker="(i)">
-              		<content>For a closed-end mortgage loan, other than a purchased loan, an assumption, or a reverse mortgage, the amount to be repaid as disclosed on the legal obligation. For a purchased closed-end mortgage loan or an assumption of a closed-end mortgage loan, the unpaid principal balance at the time of purchase or assumption.</content>
-              	</paragraph>
+              	<content>The amount of the <ref target="1003-2-e" reftype="term">covered loan</ref> or the amount applied for, as applicable.</content><paragraph label="1003-4-a-7-i" marker="(i)">
+              		<content>For a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref>, other than a purchased loan, an assumption, or a <ref target="1003-2-q" reftype="term">reverse mortgage</ref>, the amount to be repaid as disclosed on the legal obligation. For a purchased <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an assumption of a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref>, the unpaid principal balance at the time of purchase or assumption.</content></paragraph>
               	<paragraph label="1003-4-a-7-ii" marker="(ii)">
-              		<content>For an open-end line of credit, other than a reverse mortgage open-end line of credit, the amount of credit available to the borrower under the terms of the plan.</content>
-              	</paragraph>
+              		<content>For an <ref target="1003-2-o" reftype="term">open-end line of credit</ref>, other than a <ref target="1003-2-q" reftype="term">reverse mortgage</ref> <ref target="1003-2-o" reftype="term">open-end line of credit</ref>, the amount of credit available to the borrower under the terms of the plan.</content></paragraph>
               	<paragraph label="1003-4-a-7-iii" marker="(iii)">
-              		<content>For a reverse mortgage, the initial principal limit, as determined pursuant to section 255 of the National Housing Act (12 U.S.C. 1715z-20) and implementing regulations and mortgagee letters issued by the U.S. Department of Housing and Urban Development.</content>
-              	</paragraph>
+              		<content>For a <ref target="1003-2-q" reftype="term">reverse mortgage</ref>, the initial principal limit, as determined pursuant to section 255 of the National Housing Act (12 U.S.C. 1715z-20) and implementing regulations and mortgagee letters issued by the U.S. Department of Housing and Urban Development.</content></paragraph>
               </paragraph>
               <paragraph label="1003-4-a-8" marker="(8)">
-              	<content>The following information about the financial institution's action:</content>
-              	<paragraph label="1003-4-a-8-i" marker="(i)">
-              		<content>The action taken by the financial institution, recorded as one of the following:</content>
-              		<paragraph label="1003-4-a-8-i-A" marker="(A)">
-              			<content>Whether a covered loan was originated or purchased;</content>
-              		</paragraph>
+              	<content>The following information about the <ref target="1003-2-g" reftype="term">financial institution</ref>'s action:</content><paragraph label="1003-4-a-8-i" marker="(i)">
+              		<content>The action taken by the <ref target="1003-2-g" reftype="term">financial institution</ref>, recorded as one of the following:</content><paragraph label="1003-4-a-8-i-A" marker="(A)">
+              			<content>Whether a <ref target="1003-2-e" reftype="term">covered loan</ref> was originated or purchased;</content></paragraph>
               		<paragraph label="1003-4-a-8-i-B" marker="(B)">
-              			<content>Whether an application for a covered loan that did not result in the origination of a covered loan was approved but not accepted, denied, withdrawn by the applicant, or closed for incompleteness; and</content>
-              		</paragraph>
+              			<content>Whether an application for a <ref target="1003-2-e" reftype="term">covered loan</ref> that did not result in the origination of a <ref target="1003-2-e" reftype="term">covered loan</ref> was approved but not accepted, denied, withdrawn by the applicant, or closed for incompleteness; and</content></paragraph>
               		<paragraph label="1003-4-a-8-i-C" marker="(C)">
-              			<content>Whether a preapproval request that did not result in the origination of a home purchase loan was denied or approved but not accepted.</content>
-              		</paragraph>
+              			<content>Whether a preapproval request that did not result in the origination of a <ref target="1003-2-j" reftype="term">home purchase loan</ref> was denied or approved but not accepted.</content></paragraph>
               	</paragraph>
               	<paragraph label="1003-4-a-8-ii" marker="(ii)">
-              		<content>The date of the action taken by the financial institution.</content>
-              	</paragraph>
+              		<content>The date of the action taken by the <ref target="1003-2-g" reftype="term">financial institution</ref>.</content></paragraph>
               </paragraph>
      		  <paragraph label="1003-4-a-9" marker="(9)">
-              	<content>The following information about the location of the property securing the covered loan or, in the case of an application, proposed to secure the covered loan:</content>
-              	<paragraph label="1003-4-a-9-i" marker="(i)">
+              	<content>The following information about the location of the property securing the <ref target="1003-2-e" reftype="term">covered loan</ref> or, in the case of an application, proposed to secure the <ref target="1003-2-e" reftype="term">covered loan</ref>:</content><paragraph label="1003-4-a-9-i" marker="(i)">
               		<content>The property address; and</content>
               	</paragraph>
               	<paragraph label="1003-4-a-9-ii" marker="(ii)">
-              		<content>If the property is located in an MSA or MD in which the financial institution has a home or branch office, or if the institution is subject to paragraph (e) of this section, the location of the property by:</content>
-              		<paragraph label="1003-4-a-9-ii-A" marker="(A)">
+              		<content>If the property is located in an MSA or MD in which the <ref target="1003-2-g" reftype="term">financial institution</ref> has a home or <ref target="1003-2-c" reftype="term">branch office</ref>, or if the institution is subject to paragraph (e) of this section, the location of the property by:</content><paragraph label="1003-4-a-9-ii-A" marker="(A)">
               			<content>State;</content>
               		</paragraph>
               		<paragraph label="1003-4-a-9-ii-B" marker="(B)">
@@ -952,70 +913,53 @@
               		<content>Age; and</content>
               	</paragraph>
               	<paragraph label="1003-4-a-10-iii" marker="(iii)">
-              		<content>Except for covered loans or applications for which the credit decision did not consider or would not have considered income, the gross annual income relied on in making the credit decision or, if a credit decision was not made, the gross annual income relied on in processing the application.</content>
-              	</paragraph>
+              		<content>Except for <ref target="1003-2-e" reftype="term">covered loans</ref> or applications for which the credit decision did not consider or would not have considered income, the gross annual income relied on in making the credit decision or, if a credit decision was not made, the gross annual income relied on in processing the application.</content></paragraph>
               </paragraph>
               <paragraph label="1003-4-a-11" marker="(11)">
-              	<content>The type of entity purchasing a covered loan that the financial institution originates or purchases and then sells within the same calendar year.</content>
-              </paragraph>
+              	<content>The type of entity purchasing a <ref target="1003-2-e" reftype="term">covered loan</ref> that the <ref target="1003-2-g" reftype="term">financial institution</ref> originates or purchases and then sells within the same calendar year.</content></paragraph>
 		      <paragraph label="1003-4-a-12" marker="(12)">
               	<content/>
               	<paragraph label="1003-4-a-12-i" marker="(i)">
-              		<content>For covered loans subject to Regulation Z, 12 CFR part 1026, other than assumptions, purchased covered loans, and reverse mortgages, the difference between the covered loan's annual percentage rate and the average prime offer rate for a comparable transaction as of the date the interest rate is set.</content>
-              	</paragraph>
+              		<content>For <ref target="1003-2-e" reftype="term">covered loans</ref> subject to Regulation Z, 12 CFR part 1026, other than assumptions, purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, and <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, the difference between the <ref target="1003-2-e" reftype="term">covered loan</ref>'s annual percentage rate and the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set.</content></paragraph>
               	<paragraph label="1003-4-a-12-ii" marker="(ii)">
-              		<content><def term="average prime offer rate">Average prime offer rate</def> means an annual percentage rate that is derived from average interest rates, points, and other loan pricing terms currently offered to consumers by a representative sample of creditors for mortgage loans that have low-risk pricing characteristics. The Bureau publishes average prime offer rates for a broad range of types of transactions in tables updated at least weekly, as well as the methodology the Bureau uses to derive these rates.</content>
-              	</paragraph>
+              		<content><def term="average prime offer rate">Average prime offer rate</def> means an annual percentage rate that is derived from average interest rates, points, and other loan pricing terms currently offered to consumers by a representative sample of creditors for mortgage loans that have low-risk pricing characteristics. The Bureau publishes <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> for a broad range of types of transactions in tables updated at least weekly, as well as the methodology the Bureau uses to derive these rates.</content></paragraph>
               </paragraph>
 
               <paragraph label="1003-4-a-13" marker="(13)">
-              	<content>For covered loans subject to the Home Ownership and Equity Protection Act of 1994, as implemented in Regulation Z, 12 CFR 1026.32, whether the covered loan is a high-cost mortgage under Regulation Z, 12 CFR 1026.32(a).</content>
-              </paragraph>
+              	<content>For <ref target="1003-2-e" reftype="term">covered loans</ref> subject to the Home Ownership and Equity Protection Act of 1994, as implemented in Regulation Z, 12 CFR 1026.32, whether the <ref target="1003-2-e" reftype="term">covered loan</ref> is a high-cost mortgage under Regulation Z, 12 CFR 1026.32(a).</content></paragraph>
               <paragraph label="1003-4-a-14" marker="(14)">
               	<content>The lien status (first or subordinate lien) of the property identified under paragraph (a)(9) of this section.</content>
               </paragraph>
               <paragraph label="1003-4-a-15" marker="(15)">
               	<content/>
               	<paragraph label="1003-4-a-15-i" marker="(i)">
-              		<content>Except for purchased covered loans, the credit score or scores relied on in making the credit decision and the name and version of the scoring model used to generate each credit score.</content>
-              	</paragraph>
+              		<content>Except for purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, the credit score or scores relied on in making the credit decision and the name and version of the scoring model used to generate each credit score.</content></paragraph>
               	<paragraph label="1003-4-a-15-ii" marker="(ii)">
               		<content>For purposes of this paragraph (a)(15), &#8220;credit score&#8221; has the meaning set forth in 15 U.S.C. 1681g(f)(2)(A).</content>
               	</paragraph>
               </paragraph>
               <paragraph label="1003-4-a-16" marker="(16)">
-              	<content>The principal reason or reasons the financial institution denied the application, if applicable.</content>
-              </paragraph>
+              	<content>The principal reason or reasons the <ref target="1003-2-g" reftype="term">financial institution</ref> denied the application, if applicable.</content></paragraph>
 		      <paragraph label="1003-4-a-17" marker="(17)">
-              	<content>For covered loans subject to Regulation Z, 12 CFR 1026.43(c), the following information:</content>
-              	<paragraph label="1003-4-a-17-i" marker="(i)">
-              		<content>If a disclosure is provided for the covered loan pursuant to Regulation Z, 12 CFR 1026.19(f), the amount of total loan costs, as disclosed pursuant to Regulation Z, 12 CFR 1026.38(f)(4); or</content>
-              	</paragraph>
+              	<content>For <ref target="1003-2-e" reftype="term">covered loans</ref> subject to Regulation Z, 12 CFR 1026.43(c), the following information:</content><paragraph label="1003-4-a-17-i" marker="(i)">
+              		<content>If a disclosure is provided for the <ref target="1003-2-e" reftype="term">covered loan</ref> pursuant to Regulation Z, 12 CFR 1026.19(f), the amount of total loan costs, as disclosed pursuant to Regulation Z, 12 CFR 1026.38(f)(4); or</content></paragraph>
               	<paragraph label="1003-4-a-17-ii" marker="(ii)">
-              		<content>If the covered loan is not subject to the disclosure requirements in Regulation Z, 12 CFR 1026.19(f), and is not a purchased covered loan, the total points and fees charged in connection with the covered loan, expressed in dollars and calculated pursuant to Regulation Z, 12 CFR 1026.32(b)(1).</content>
-              	</paragraph>
+              		<content>If the <ref target="1003-2-e" reftype="term">covered loan</ref> is not subject to the disclosure requirements in Regulation Z, 12 CFR 1026.19(f), and is not a purchased <ref target="1003-2-e" reftype="term">covered loan</ref>, the total points and fees charged in connection with the <ref target="1003-2-e" reftype="term">covered loan</ref>, expressed in dollars and calculated pursuant to Regulation Z, 12 CFR 1026.32(b)(1).</content></paragraph>
               </paragraph>
               <paragraph label="1003-4-a-18" marker="(18)">
-              	<content>For covered loans subject to the disclosure requirements in Regulation Z, 12 CFR 1026.19(f), the total of all itemized amounts that are designated borrower-paid at or before closing, as disclosed pursuant to Regulation Z, 12 CFR 1026.38(f)(1).</content>
-              </paragraph>
+              	<content>For <ref target="1003-2-e" reftype="term">covered loans</ref> subject to the disclosure requirements in Regulation Z, 12 CFR 1026.19(f), the total of all itemized amounts that are designated borrower-paid at or before closing, as disclosed pursuant to Regulation Z, 12 CFR 1026.38(f)(1).</content></paragraph>
               <paragraph label="1003-4-a-19" marker="(19)">
-              	<content>For covered loans subject to the disclosure requirements in Regulation Z, 12 CFR 1026.19(f), the points paid to the creditor to reduce the interest rate, expressed in dollars, as described in Regulation Z, 12 CFR 1026.37(f)(1)(i), and disclosed pursuant to Regulation Z, 12 CFR 1026.38(f)(1).</content>
-              </paragraph>
+              	<content>For <ref target="1003-2-e" reftype="term">covered loans</ref> subject to the disclosure requirements in Regulation Z, 12 CFR 1026.19(f), the points paid to the creditor to reduce the interest rate, expressed in dollars, as described in Regulation Z, 12 CFR 1026.37(f)(1)(i), and disclosed pursuant to Regulation Z, 12 CFR 1026.38(f)(1).</content></paragraph>
               <paragraph label="1003-4-a-20" marker="(20)">
-              	<content>For covered loans subject to the disclosure requirements in Regulation Z, 12 CFR 1026.19(f), the amount of lender credits, as disclosed pursuant to Regulation Z, 12 CFR 1026.38(h)(3).</content>
-              </paragraph>
+              	<content>For <ref target="1003-2-e" reftype="term">covered loans</ref> subject to the disclosure requirements in Regulation Z, 12 CFR 1026.19(f), the amount of lender credits, as disclosed pursuant to Regulation Z, 12 CFR 1026.38(h)(3).</content></paragraph>
               <paragraph label="1003-4-a-21" marker="(21)">
-              	<content>The interest rate applicable to the approved application, or to the covered loan at closing or account opening.</content>
-              </paragraph>
+              	<content>The interest rate applicable to the approved application, or to the <ref target="1003-2-e" reftype="term">covered loan</ref> at closing or account opening.</content></paragraph>
               <paragraph label="1003-4-a-22" marker="(22)">
-              	<content>For covered loans or applications subject to Regulation Z, 12 CFR part 1026, other than reverse mortgages or purchased covered loans, the term in months of any prepayment penalty, as defined in Regulation Z, 12 CFR 1026.32(b)(6)(i) or (ii), as applicable.</content>
-              </paragraph>
+              	<content>For <ref target="1003-2-e" reftype="term">covered loans</ref> or applications subject to Regulation Z, 12 CFR part 1026, other than <ref target="1003-2-q" reftype="term">reverse mortgages</ref> or purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, the term in months of any prepayment penalty, as defined in Regulation Z, 12 CFR 1026.32(b)(6)(i) or (ii), as applicable.</content></paragraph>
               <paragraph label="1003-4-a-23" marker="(23)">
-              	<content>Except for purchased covered loans, the ratio of the applicant's or borrower's total monthly debt to the total monthly income relied on in making the credit decision.</content>
-              </paragraph>
+              	<content>Except for purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, the ratio of the applicant's or borrower's total monthly debt to the total monthly income relied on in making the credit decision.</content></paragraph>
               <paragraph label="1003-4-a-24" marker="(24)">
-              	<content>Except for purchased covered loans, the ratio of the total amount of debt secured by the property to the value of the property relied on in making the credit decision.</content>
-              </paragraph>
+              	<content>Except for purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, the ratio of the total amount of debt secured by the property to the value of the property relied on in making the credit decision.</content></paragraph>
               <paragraph label="1003-4-a-25" marker="(25)">
               	<content>The scheduled number of months after which the legal obligation will mature or terminate or would have matured or terminated.</content>
               </paragraph>
@@ -1031,21 +975,17 @@
               		<content>Interest-only payments as defined in Regulation Z, 12 CFR 1026.18(s)(7)(iv);</content>
               	</paragraph>
               	<paragraph label="1003-4-a-27-iii" marker="(iii)">
-              		<content>A contractual term that would cause the covered loan to be a negative amortization loan as defined in Regulation Z, 12 CFR 1026.18(s)(7)(v); or</content>
-              	</paragraph>
+              		<content>A contractual term that would cause the <ref target="1003-2-e" reftype="term">covered loan</ref> to be a negative amortization loan as defined in Regulation Z, 12 CFR 1026.18(s)(7)(v); or</content></paragraph>
               	<paragraph label="1003-4-a-27-iv" marker="(iv)">
               		<content>Any other contractual term that would allow for payments other than fully amortizing payments, as defined in Regulation Z, 12 CFR 1026.43(b)(2), during the loan term, other than the contractual terms described in this paragraph (a)(27)(i), (ii), and (iii).</content>
               	</paragraph>
               </paragraph>
               <paragraph label="1003-4-a-28" marker="(28)">
-              	<content>The value of the property securing the covered loan or, in the case of an application, proposed to secure the covered loan relied on in making the credit decision.</content>
-              </paragraph>
+              	<content>The value of the property securing the <ref target="1003-2-e" reftype="term">covered loan</ref> or, in the case of an application, proposed to secure the <ref target="1003-2-e" reftype="term">covered loan</ref> relied on in making the credit decision.</content></paragraph>
               <paragraph label="1003-4-a-29" marker="(29)">
-              	<content>If the dwelling related to the property identified in paragraph (a)(9) of this section is a manufactured home and not a multifamily dwelling, whether the covered loan is, or in the case of an application would have been, secured by a manufactured home and land, or by a manufactured home and not land.</content>
-              </paragraph>
+              	<content>If the <ref target="1003-2-f" reftype="term">dwelling</ref> related to the property identified in paragraph (a)(9) of this section is a <ref target="1003-2-l" reftype="term">manufactured home</ref> and not a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref>, whether the <ref target="1003-2-e" reftype="term">covered loan</ref> is, or in the case of an application would have been, secured by a <ref target="1003-2-l" reftype="term">manufactured home</ref> and land, or by a <ref target="1003-2-l" reftype="term">manufactured home</ref> and not land.</content></paragraph>
               <paragraph label="1003-4-a-30" marker="(30)">
-              	<content>If the dwelling related to the property identified in paragraph (a)(9) of this section is a manufactured home and not a multifamily dwelling, whether the applicant or borrower:</content>
-              	<paragraph label="1003-4-a-30-i" marker="(i)">
+              	<content>If the <ref target="1003-2-f" reftype="term">dwelling</ref> related to the property identified in paragraph (a)(9) of this section is a <ref target="1003-2-l" reftype="term">manufactured home</ref> and not a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref>, whether the applicant or borrower:</content><paragraph label="1003-4-a-30-i" marker="(i)">
               		<content>Owns the land on which it is or will be located or, in the case of an application, did or would have owned the land on which it would have been located, through a direct or indirect ownership interest; or</content>
               	</paragraph>
               	<paragraph label="1003-4-a-30-ii" marker="(ii)">
@@ -1053,51 +993,38 @@
               	</paragraph>
               </paragraph>
               <paragraph label="1003-4-a-31" marker="(31)">
-              	<content>The number of individual dwelling units related to the property securing the covered loan or, in the case of an application, proposed to secure the covered loan.</content>
-              </paragraph>
+              	<content>The number of individual <ref target="1003-2-f" reftype="term">dwelling</ref> units related to the property securing the <ref target="1003-2-e" reftype="term">covered loan</ref> or, in the case of an application, proposed to secure the <ref target="1003-2-e" reftype="term">covered loan</ref>.</content></paragraph>
               <paragraph label="1003-4-a-32" marker="(32)">
-              	<content>If the property securing the covered loan or, in the case of an application, proposed to secure the covered loan includes a multifamily dwelling, the number of individual dwelling units related to the property that are income-restricted pursuant to Federal, State, or local affordable housing programs.</content>
-              </paragraph>
+              	<content>If the property securing the <ref target="1003-2-e" reftype="term">covered loan</ref> or, in the case of an application, proposed to secure the <ref target="1003-2-e" reftype="term">covered loan</ref> includes a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref>, the number of individual <ref target="1003-2-f" reftype="term">dwelling</ref> units related to the property that are income-restricted pursuant to Federal, State, or local affordable housing programs.</content></paragraph>
               <paragraph label="1003-4-a-33" marker="(33)">
-              	<content>Except for purchased covered loans, the following information about the application channel of the covered loan or application:</content>
-              	<paragraph label="1003-4-a-33-i" marker="(i)">
-              		<content>Whether the applicant or borrower submitted the application for the covered loan directly to the financial institution; and</content>
-              	</paragraph>
+              	<content>Except for purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, the following information about the application channel of the <ref target="1003-2-e" reftype="term">covered loan</ref> or application:</content><paragraph label="1003-4-a-33-i" marker="(i)">
+              		<content>Whether the applicant or borrower submitted the application for the <ref target="1003-2-e" reftype="term">covered loan</ref> directly to the <ref target="1003-2-g" reftype="term">financial institution</ref>; and</content></paragraph>
               	<paragraph label="1003-4-a-33-ii" marker="(ii)">
-              		<content>Whether the obligation arising from the covered loan was, or in the case of an application, would have been initially payable to the financial institution.</content>
-              	</paragraph>
+              		<content>Whether the obligation arising from the <ref target="1003-2-e" reftype="term">covered loan</ref> was, or in the case of an application, would have been initially payable to the <ref target="1003-2-g" reftype="term">financial institution</ref>.</content></paragraph>
               </paragraph>
               <paragraph label="1003-4-a-34" marker="(34)">
-              	<content>For a covered loan or application, the unique identifier assigned by the Nationwide Mortgage Licensing System and Registry for the mortgage loanoriginator, as defined in Regulation G, 12 CFR 1007.102, or Regulation H, 12 CFR 1008.23, as applicable.</content>
-              </paragraph>
+              	<content>For a <ref target="1003-2-e" reftype="term">covered loan</ref> or application, the unique identifier assigned by the Nationwide Mortgage Licensing System and Registry for the mortgage loanoriginator, as defined in Regulation G, 12 CFR 1007.102, or Regulation H, 12 CFR 1008.23, as applicable.</content></paragraph>
               <paragraph label="1003-4-a-35" marker="(35)">
               	<content/>
               	<paragraph label="1003-4-a-35-i" marker="(i)">
-              		<content>Except for purchased covered loans, the name of the automated underwriting system used by the financial institution to evaluate the application and the result generated by that automated underwriting system.</content>
-              	</paragraph>
+              		<content>Except for purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, the name of the automated underwriting system used by the <ref target="1003-2-g" reftype="term">financial institution</ref> to evaluate the application and the result generated by that automated underwriting system.</content></paragraph>
               	<paragraph label="1003-4-a-35-ii" marker="(ii)">
-              		<content>For purposes of this paragraph (a)(35), an &#8220;automated underwriting system&#8221; means an electronic tool developed by a securitizer, Federal government insurer, or Federal government guarantor that provides a result regarding the credit risk of the applicant and whether the covered loan is eligible to be originated, purchased, insured, or guaranteed by that securitizer, Federal government insurer, or Federal government guarantor.</content>
-              	</paragraph>
+              		<content>For purposes of this paragraph (a)(35), an &#8220;automated underwriting system&#8221; means an electronic tool developed by a securitizer, Federal government insurer, or Federal government guarantor that provides a result regarding the credit risk of the applicant and whether the <ref target="1003-2-e" reftype="term">covered loan</ref> is eligible to be originated, purchased, insured, or guaranteed by that securitizer, Federal government insurer, or Federal government guarantor.</content></paragraph>
               </paragraph>
               <paragraph label="1003-4-a-36" marker="(36)">
-              	<content>Whether the covered loan is, or the application is for, a reverse mortgage.</content>
-              </paragraph>
+              	<content>Whether the <ref target="1003-2-e" reftype="term">covered loan</ref> is, or the application is for, a <ref target="1003-2-q" reftype="term">reverse mortgage</ref>.</content></paragraph>
               <paragraph label="1003-4-a-37" marker="(37)">
-              	<content>Whether the covered loan is, or the application is for, an open-end line of credit.</content>
-              </paragraph>
+              	<content>Whether the <ref target="1003-2-e" reftype="term">covered loan</ref> is, or the application is for, an <ref target="1003-2-o" reftype="term">open-end line of credit</ref>.</content></paragraph>
               <paragraph label="1003-4-a-38" marker="(38)">
-              	<content>Whether the covered loan is, or the application is for a covered loan that will be, made primarily for a business or commercial purpose.</content>
-              </paragraph>
+              	<content>Whether the <ref target="1003-2-e" reftype="term">covered loan</ref> is, or the application is for a <ref target="1003-2-e" reftype="term">covered loan</ref> that will be, made primarily for a business or commercial purpose.</content></paragraph>
            </paragraph>              
             <paragraph label="1003-4-b" marker="(b)">
             	<title type="keyterm">Collection of data on ethnicity, race, sex, age, and income.</title>
             	<content>Collection of data on ethnicity, race, sex, age, and income.</content>
             	<paragraph label="1003-4-b-1" marker="(1)">
-            		<content>A financial institution shall collect data about the ethnicity, race, and sex of the applicant or borrower as prescribed in appendix B to this part.</content>
-            	</paragraph>
+            		<content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall collect data about the ethnicity, race, and sex of the applicant or borrower as prescribed in appendix B to this part.</content></paragraph>
             	<paragraph label="1003-4-b-2" marker="(2)">
-            		<content>Ethnicity, race, sex, age, and income data may but need not be collected for covered loans purchased by a financial institution.</content>
-            	</paragraph>
+            		<content>Ethnicity, race, sex, age, and income data may but need not be collected for <ref target="1003-2-e" reftype="term">covered loans</ref> purchased by a <ref target="1003-2-g" reftype="term">financial institution</ref>.</content></paragraph>
             </paragraph>
             
             <paragraph label="1003-4-c" marker="(c)">
@@ -1113,8 +1040,7 @@
             </paragraph>
             <paragraph label="1003-4-f" marker="(f)">
             	<title type="keyterm">Quarterly recording of data.</title>
-            	<content>Quarterly recording of data. A financial institution shall record the data collected pursuant to this section on a loan/application register within 30 calendar days after the end of the calendar quarter in which final action is taken (such as origination or purchase of a covered loan, sale of a covered loan in the same calendar year it is originated or purchased, or denial or withdrawal of an application).</content>
-            </paragraph>
+            	<content>Quarterly recording of data. A <ref target="1003-2-g" reftype="term">financial institution</ref> shall record the data collected pursuant to this section on a loan/application register within 30 calendar days after the end of the calendar quarter in which final action is taken (such as origination or purchase of a <ref target="1003-2-e" reftype="term">covered loan</ref>, sale of a <ref target="1003-2-e" reftype="term">covered loan</ref> in the same calendar year it is originated or purchased, or denial or withdrawal of an application).</content></paragraph>
           </section>
           <section label="1003-5" sectionNum="5">
             <subject>&#167; 1003.5 Disclosure and reporting.</subject>
@@ -1211,7 +1137,7 @@
             <subject>&#167; 1003.6 Enforcement.</subject>
             <paragraph label="1003-6-a" marker="(a)">
               <title type="keyterm">Administrative enforcement.</title>
-              <content>Administrative enforcement. A violation of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> or this part is subject to administrative sanctions as provided in section 305 of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> (12 U.S.C. 2804), including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed i<ref target="USC:12-2601" reftype="external">n secti</ref>on<ref target="USC:12-2804" reftype="external"> 305 of the Ac</ref><ref target="1003-2-a" reftype="term">Act</ref>.</content>
+              <content>Administrative enforcement. A violation of <ref target="1003-2-a" reftype="term">Act</ref> or this part is subject to administrative sanctions as provided in section 305 of <ref target="1003-2-a" reftype="term">Act</ref> (12 U.S.C. 2804), including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of the <ref target="1003-2-a" reftype="term">Act</ref>.</content>
             </paragraph>
             <paragraph label="1003-6-b" marker="(b)">
               <title type="keyterm">Bona fide errors.</title>
@@ -1227,10 +1153,10 @@
               <title type="keyterm">Quarterly recording and reporting.</title>
               <content>Quarterly recording and reporting.</content>
               <paragraph label="1003-6-c-1" marker="(1)">
-                <content>If a <ref target="1003-2-g" reftype="term">financial institution</ref> makes a good-faith effort to record all data required to be recorded pursuant to &#167; 1003.4(f) fully and accurately within 30 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> or this part provided that the institution corrects or completes the data prior to submitting its annual loan/application register pursuant to &#167; <ref target="1003-5-a-1-i" reftype="internal">1003.5(a)(1)(i)</ref>.</content>
+                <content>If a <ref target="1003-2-g" reftype="term">financial institution</ref> makes a good-faith effort to record all data required to be recorded pursuant to &#167; 1003.4(f) fully and accurately within 30 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part provided that the institution corrects or completes the data prior to submitting its annual loan/application register pursuant to &#167; <ref target="1003-5-a-1-i" reftype="internal">1003.5(a)(1)(i)</ref>.</content>
               </paragraph>
               <paragraph label="1003-6-c-2" marker="(2)">
-                <content>If a <ref target="1003-2-g" reftype="term">financial institution</ref> required to comply with &#167; <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> makes a good-faith effort to report all data required to be reported pursuant to &#167; <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> fully and accurately within 60 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> or this part provided that the institution corrects or completes the data prior to submitting its annual loan/application register pursuant to &#167; <ref target="1003-5-a-1-i" reftype="internal">1003.5(a)(1)(i)</ref>.</content>
+                <content>If a <ref target="1003-2-g" reftype="term">financial institution</ref> required to comply with &#167; <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> makes a good-faith effort to report all data required to be reported pursuant to &#167; <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> fully and accurately within 60 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part provided that the institution corrects or completes the data prior to submitting its annual loan/application register pursuant to &#167; <ref target="1003-5-a-1-i" reftype="internal">1003.5(a)(1)(i)</ref>.</content>
               </paragraph>
             </paragraph>
           </section>
@@ -1256,14 +1182,12 @@
           	<content>If you accept an application through electronic media with a video component, you must treat the application as taken in person. If you accept an application through electronic media without a video component (for example, facsimile), you must treat the application as accepted by mail.</content>
           </paragraph>
           <paragraph label="1003-B-1-4" marker="(4)">
-          	<content>For purposes of &#167; 1003.4(a)(10)(i), if a covered loan or application includes a guarantor, you do not report the guarantor's ethnicity, race, and sex.</content>
-          </paragraph>
+          	<content>For purposes of &#167; 1003.4(a)(10)(i), if a <ref target="1003-2-e" reftype="term">covered loan</ref> or application includes a guarantor, you do not report the guarantor's ethnicity, race, and sex.</content></paragraph>
           <paragraph label="1003-B-1-5" marker="(5)">
           	<content>If there are no co-applicants, you must report that there is no co-applicant. If there is more than one co-applicant, you must provide the ethnicity, race, and sex only for the first co-applicant listed on the collection form. A co-applicant may provide an absent co-applicant's ethnicity, race, and sex on behalf of the absent co-applicant. If the information is not provided for an absent co-applicant, you must report &#8220;information not provided by applicant in mail, internet, or telephone application&#8221; for the absent co-applicant.</content>
           </paragraph>
           <paragraph label="1003-B-1-6" marker="(6)">
-          	<content>When you purchase a covered loan and you choose not to report the applicant's or co-applicant's ethnicity, race, and sex, you must report that the requirement is not applicable.</content>
-          </paragraph>
+          	<content>When you purchase a <ref target="1003-2-e" reftype="term">covered loan</ref> and you choose not to report the applicant's or co-applicant's ethnicity, race, and sex, you must report that the requirement is not applicable.</content></paragraph>
           <paragraph label="1003-B-1-7" marker="(7)">
           	<content>You must report that the requirement to report the applicant's or co-applicant's ethnicity, race, and sex is not applicable when the applicant or co-applicant is not a natural person (for example, a corporation, partnership, or trust). For example, for a transaction involving a trust, you must report that the requirement to report the applicant's ethnicity, race, and sex is not applicable if the trust is the applicant. On the other hand, if the applicant is a natural person, and is the beneficiary of a trust, you must report the applicant's ethnicity, race, and sex.</content>
           </paragraph>
@@ -1324,8 +1248,7 @@
       		</paragraph>
       		<paragraph label="1003-C-1-p3" marker="">
       			<title>Generating a Check Digit</title>
-      			<content>Step 1: Starting with the leftmost character in the string that consists of the combination of the Legal Entity Identifier (LEI) pursuant to &#167; 1003.4(a)(1)(i)(A) and the additional characters identifying the covered loan or application pursuant to &#167; 1003.4(a)(1)(i)(B), replace each alphabetic character with numbers in accordance with Table I below to obtain all numeric values in the string.</content>
-      		</paragraph>
+      			<content>Step 1: Starting with the leftmost character in the string that consists of the combination of the Legal Entity Identifier (LEI) pursuant to &#167; 1003.4(a)(1)(i)(A) and the additional characters identifying the <ref target="1003-2-e" reftype="term">covered loan</ref> or application pursuant to &#167; 1003.4(a)(1)(i)(B), replace each alphabetic character with numbers in accordance with Table I below to obtain all numeric values in the string.</content></paragraph>
       		<paragraph label="1003-C-1-p4" marker="">
       			<title>Table I&#8212;Alphabetic To Numeric Conversion Table</title>
       			<content>
@@ -1397,8 +1320,7 @@
       			<content/>
       		</paragraph>
       		<paragraph label="1003-C-1-p11" marker="">
-      			<content>For example, assume the LEI for a financial institution is 10Bx939c5543TqA1144M and the financial institution assigned the following string of characters to identify the covered loan: 999143X. The combined string of characters is 10Bx939c5543TqA1144M999143X.</content>
-      		</paragraph>
+      			<content>For example, assume the LEI for a <ref target="1003-2-g" reftype="term">financial institution</ref> is 10Bx939c5543TqA1144M and the <ref target="1003-2-g" reftype="term">financial institution</ref> assigned the following string of characters to identify the <ref target="1003-2-e" reftype="term">covered loan</ref>: 999143X. The combined string of characters is 10Bx939c5543TqA1144M999143X.</content></paragraph>
       		<paragraph label="1003-C-1-p12" marker="">
       			<content>Step 1: Starting with the leftmost character in the combined string of characters, replace each alphabetic character with numbers in accordance with Table I above to obtain all numeric values in the string. The result is 10113393912554329261011442299914333.</content>
       		</paragraph>
@@ -1415,8 +1337,7 @@
       			<content>Step 4: Subtract the result in step 3 from 98. The result is 38.</content>
       		</paragraph>
       		<paragraph label="1003-C-1-p17" marker="">
-      			<content>Step 5: The two digits in the result from step 4 is the check digit. Append the check digit to the rightmost positions in the combined string of characters that consists of the LEI and the string of characters assigned by the financial institution to identify the covered loan to obtain the ULI. In this example, the ULI would be 10Bx939c5543TqA1144M999143X38.</content>
-      		</paragraph>
+      			<content>Step 5: The two digits in the result from step 4 is the check digit. Append the check digit to the rightmost positions in the combined string of characters that consists of the LEI and the string of characters assigned by the <ref target="1003-2-g" reftype="term">financial institution</ref> to identify the <ref target="1003-2-e" reftype="term">covered loan</ref> to obtain the ULI. In this example, the ULI would be 10Bx939c5543TqA1144M999143X38.</content></paragraph>
       		<paragraph label="1003-C-1-p18" marker="">
       			<title>Validating A ULI</title>
       			<content/>
@@ -1438,8 +1359,7 @@
       			<content/>
       		</paragraph>
       		<paragraph label="1003-C-1-p24" marker="">
-      			<content>For example, the ULI assigned to a covered loan is 10Bx939c5543TqA1144M999143X38.</content>
-      		</paragraph>
+      			<content>For example, the ULI assigned to a <ref target="1003-2-e" reftype="term">covered loan</ref> is 10Bx939c5543TqA1144M999143X38.</content></paragraph>
       		<paragraph label="1003-C-1-p25" marker="">
       			<content>Step 1: Starting with the leftmost character in the ULI, replace each alphabetic character with numbers in accordance with Table I above to obtain all numeric values in the string. The result is 1011339391255432926101144229991433338.</content>
       		</paragraph>
@@ -1521,8 +1441,7 @@
               <content>General. The definition of a <ref target="1003-2-f" reftype="term">dwelling</ref> is not limited to the principal or other residence of the applicant or borrower, and thus includes vacation or second homes and investment properties.</content>
             </interpParagraph>
             <interpParagraph label="1003-2-f-Interp-2" target="1003-2-f-2" marker="2.">
-              <content>Multifamily residential structures and communities. A <ref target="1003-2-f" reftype="term">dwelling</ref> also includes a multifamily residential structure or community such as an apartment, condominium, cooperative building or complex, or a manufactured home community. A loan related to a manufactured home community is secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> for purposes of &#167; <ref target="1003-2-f" reftype="internal">1003.2(f)</ref> even if it is not secured by any individual manufactured homes, but only by the land that constitutes the manufactured home community including sites for manufactured homes. However, a loan related to a multifamily residential structure or community that is not a manufactured home community is not secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> for purposes of &#167; <ref target="1003-2-f" reftype="internal">1003.2(f)</ref> if it is not secured by any individual <ref target="1003-2-f" reftype="term">dwelling</ref> units and is, for example, instead secured only by property that only includes common areas, or is secured only by an assignment of rents or dues.</content>
-            </interpParagraph>
+              <content>Multifamily residential structures and communities. A <ref target="1003-2-f" reftype="term">dwelling</ref> also includes a multifamily residential structure or community such as an apartment, condominium, cooperative building or complex, or a <ref target="1003-2-l" reftype="term">manufactured home</ref> community. A loan related to a <ref target="1003-2-l" reftype="term">manufactured home</ref> community is secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> for purposes of &#167; <ref target="1003-2-f" reftype="internal">1003.2(f)</ref> even if it is not secured by any individual <ref target="1003-2-l" reftype="term">manufactured homes</ref>, but only by the land that constitutes the <ref target="1003-2-l" reftype="term">manufactured home</ref> community including sites for <ref target="1003-2-l" reftype="term">manufactured homes</ref>. However, a loan related to a multifamily residential structure or community that is not a <ref target="1003-2-l" reftype="term">manufactured home</ref> community is not secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> for purposes of &#167; <ref target="1003-2-f" reftype="internal">1003.2(f)</ref> if it is not secured by any individual <ref target="1003-2-f" reftype="term">dwelling</ref> units and is, for example, instead secured only by property that only includes common areas, or is secured only by an assignment of rents or dues.</content></interpParagraph>
             <interpParagraph label="1003-2-f-Interp-3" target="1003-2-f-3" marker="3.">
               <content>Exclusions. Recreational vehicles, including boats, campers, travel trailers, and park model recreational vehicles, are not considered <ref target="1003-2-f" reftype="term">dwellings</ref> for purposes of &#167; <ref target="1003-2-f" reftype="internal">1003.2(f)</ref>, regardless of whether they are used as residences. Houseboats, floating homes, and mobile homes constructed before June 15, 1976, are also excluded, regardless of whether they are used as residences. Also excluded are transitory residences such as hotels, hospitals, college dormitories, and recreational vehicle parks, and structures originally designed as <ref target="1003-2-f" reftype="term">dwellings</ref> but used exclusively for commercial purposes, such as homes converted to daycare facilities or professional offices.</content>
             </interpParagraph>
@@ -1543,8 +1462,7 @@
               <content>[Reserved]</content>
             </interpParagraph>
             <interpParagraph label="1003-2-g-Interp-3" target="1003-2-g-3" marker="3.">
-              <content>Merger or acquisition&#8212;coverage of surviving or newly formed institution. After a merger or acquisition, the surviving or newly formed institution is a <ref target="1003-2-g" reftype="term">financial institution</ref> under &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref> if it, considering the combined assets, location, and lending activity of the surviving or newly formed institution and the merged or acquired institutions or acquired branches, satisfies the criteria included in &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>. For example, A and B merge. The surviving or newly formed institution meets the loan threshold described in &#167; <ref target="1003-2-g-1-v-B" reftype="internal">1003.2(g)(1)(v)(B)</ref> if the surviving or newly formed institution, A, and B originated a combined total of at least 100 open-end lines of credit in each of the two preceding calendar years. Likewise, the surviving or newly formed institution meets the asset-size threshold in &#167; <ref target="1003-2-g-1-i" reftype="internal">1003.2(g)(1)(i)</ref> if its assets and the combined assets of A and B on December 31 of the preceding calendar year exceeded the threshold described in &#167; <ref target="1003-2-g-1-i" reftype="internal">1003.2(g)(1)(i)</ref>. Comment <ref target="1003-2-g-Interp-4" reftype="internal">2(g)-4</ref> discusses a <ref target="1003-2-g" reftype="term">financial institution</ref>'s responsibilities during the calendar year of a merger.</content>
-            </interpParagraph>
+              <content>Merger or acquisition&#8212;coverage of surviving or newly formed institution. After a merger or acquisition, the surviving or newly formed institution is a <ref target="1003-2-g" reftype="term">financial institution</ref> under &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref> if it, considering the combined assets, location, and lending activity of the surviving or newly formed institution and the merged or acquired institutions or acquired branches, satisfies the criteria included in &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>. For example, A and B merge. The surviving or newly formed institution meets the loan threshold described in &#167; <ref target="1003-2-g-1-v-B" reftype="internal">1003.2(g)(1)(v)(B)</ref> if the surviving or newly formed institution, A, and B originated a combined total of at least 100 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> in each of the two preceding calendar years. Likewise, the surviving or newly formed institution meets the asset-size threshold in &#167; <ref target="1003-2-g-1-i" reftype="internal">1003.2(g)(1)(i)</ref> if its assets and the combined assets of A and B on December 31 of the preceding calendar year exceeded the threshold described in &#167; <ref target="1003-2-g-1-i" reftype="internal">1003.2(g)(1)(i)</ref>. Comment <ref target="1003-2-g-Interp-4" reftype="internal">2(g)-4</ref> discusses a <ref target="1003-2-g" reftype="term">financial institution</ref>'s responsibilities during the calendar year of a merger.</content></interpParagraph>
             <interpParagraph label="1003-2-g-Interp-4" target="1003-2-g-4" marker="4.">
               <content>Merger or acquisition&#8212;coverage for calendar year of merger or acquisition. The scenarios described below illustrate a <ref target="1003-2-g" reftype="term">financial institution</ref>'s responsibilities for the calendar year of a merger or acquisition. For purposes of these illustrations, a &#8220;covered institution&#8221; means a <ref target="1003-2-g" reftype="term">financial institution</ref>, as defined in &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>, that is not exempt from reporting under &#167; <ref target="1003-3-a" reftype="internal">1003.3(a)</ref>, and &#8220;an institution that is not covered&#8221; means either an institution that is not a <ref target="1003-2-g" reftype="term">financial institution</ref>, as defined in &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>, or an institution that is exempt from reporting under &#167; <ref target="1003-3-a" reftype="internal">1003.3(a)</ref>.</content>
               <interpParagraph label="1003-2-g-Interp-4-i" target="1003-2-g-4-i" marker="i.">
@@ -1561,8 +1479,7 @@
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1003-2-g-Interp-5" target="1003-2-g-5" marker="5.">
-              <content>Originations. Whether an institution is a <ref target="1003-2-g" reftype="term">financial institution</ref> depends in part on whether the institution originated at least 25 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in each of the two preceding calendar years or at least 100 open-end lines of credit in each of the two preceding calendar years. Comments <ref target="1003-4-a-Interp-2" reftype="internal">4(a)-2</ref> through <ref target="1003-4-a-Interp-4" reftype="internal">-4</ref> discuss whether activities with respect to a particular <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or <ref target="1003-2-o" reftype="term">open-end line of credit</ref> constitute an origination for purposes of &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>.</content>
-            </interpParagraph>
+              <content>Originations. Whether an institution is a <ref target="1003-2-g" reftype="term">financial institution</ref> depends in part on whether the institution originated at least 25 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in each of the two preceding calendar years or at least 100 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> in each of the two preceding calendar years. Comments <ref target="1003-4-a-Interp-2" reftype="internal">4(a)-2</ref> through <ref target="1003-4-a-Interp-4" reftype="internal">-4</ref> discuss whether activities with respect to a particular <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or <ref target="1003-2-o" reftype="term">open-end line of credit</ref> constitute an origination for purposes of &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>.</content></interpParagraph>
             <interpParagraph label="1003-2-g-Interp-6" target="1003-2-g-6" marker="6.">
               <content>Branches of foreign banks&#8212;treated as banks. A Federal branch or a State-licensed or insured branch of a foreign bank that meets the definition of a &#8220;bank&#8221; under section 3(a)(1) of the Federal Deposit Insurance Act (<ref target="USC:12-1813" reftype="external">12 U.S.C. 1813</ref>(a)) is a bank for the purposes of &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>.</content>
             </interpParagraph>
@@ -1618,11 +1535,9 @@
             <title>2(l) Manufactured Home</title>
             <content/>
             <interpParagraph label="1003-2-l-Interp-1" target="1003-2-l-1" marker="1.">
-              <content>Definition of a manufactured home. The definition in &#167; <ref target="1003-2-l" reftype="internal">1003.2(l)</ref> refers to the Federal building code for manufactured housing established by the U.S. Department of Housing and Urban Development (HUD) (<ref target="CFR:24-3280" reftype="external">24 CFR part 3280</ref>.2). Modular or other factory-built homes that do not meet the HUD code standards are not manufactured homes for purposes of &#167; <ref target="1003-2-l" reftype="internal">1003.2(l)</ref>. Recreational vehicles are excluded from the HUD code standards pursuant to <ref target="CFR:24-3282-8" reftype="external">24 CFR 3282.8</ref>(g) and are also excluded from the definition of <ref target="1003-2-f" reftype="term">dwelling</ref> for purposes of &#167; <ref target="1003-2-f" reftype="internal">1003.2(f)</ref>. See comment <ref target="1003-2-f-Interp-3" reftype="internal">2(f)-3</ref>.</content>
-            </interpParagraph>
+              <content>Definition of a <ref target="1003-2-l" reftype="term">manufactured home</ref>. The definition in &#167; <ref target="1003-2-l" reftype="internal">1003.2(l)</ref> refers to the Federal building code for manufactured housing established by the U.S. Department of Housing and Urban Development (HUD) (<ref target="CFR:24-3280" reftype="external">24 CFR part 3280</ref>.2). Modular or other factory-built homes that do not meet the HUD code standards are not <ref target="1003-2-l" reftype="term">manufactured homes</ref> for purposes of &#167; <ref target="1003-2-l" reftype="internal">1003.2(l)</ref>. Recreational vehicles are excluded from the HUD code standards pursuant to <ref target="CFR:24-3282-8" reftype="external">24 CFR 3282.8</ref>(g) and are also excluded from the definition of <ref target="1003-2-f" reftype="term">dwelling</ref> for purposes of &#167; <ref target="1003-2-f" reftype="internal">1003.2(f)</ref>. See comment <ref target="1003-2-f-Interp-3" reftype="internal">2(f)-3</ref>.</content></interpParagraph>
             <interpParagraph label="1003-2-l-Interp-2" target="1003-2-l-2" marker="2.">
-              <content>Identification. A manufactured home will generally bear a data plate affixed in a permanent manner near the main electrical panel or other readily accessible and visible location noting its compliance with the Federal Manufactured Home Construction and Safety Standards in force at the time of manufacture and providing other information about its manufacture pursuant to <ref target="CFR:24-3280-5" reftype="external">24 CFR 3280.5</ref>. A manufactured home will generally also bear a HUD Certification Label pursuant to <ref target="CFR:24-3280-11" reftype="external">24 CFR 3280.11</ref>.</content>
-            </interpParagraph>
+              <content>Identification. A <ref target="1003-2-l" reftype="term">manufactured home</ref> will generally bear a data plate affixed in a permanent manner near the main electrical panel or other readily accessible and visible location noting its compliance with the Federal Manufactured Home Construction and Safety Standards in force at the time of manufacture and providing other information about its manufacture pursuant to <ref target="CFR:24-3280-5" reftype="external">24 CFR 3280.5</ref>. A <ref target="1003-2-l" reftype="term">manufactured home</ref> will generally also bear a HUD Certification Label pursuant to <ref target="CFR:24-3280-11" reftype="external">24 CFR 3280.11</ref>.</content></interpParagraph>
           </interpParagraph>
           <interpParagraph label="1003-2-m-Interp" target="1003-2-m">
             <title>2(m) Metropolitan Statistical Area (MD) or Metropolitan Division (MD).</title>
@@ -1706,8 +1621,7 @@
               <title>Paragraph 3(c)(3)</title>
               <content/>
               <interpParagraph label="1003-3-c-3-Interp-1" target="1003-3-c-3-1" marker="1.">
-                <content>Temporary financing. Section 1003.3(c)(3) provides that <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or open-end lines of credit obtained for temporary financing are excluded transactions. A loan or line of credit is considered temporary financing and excluded under &#167; 1003.3(c)(3) if the loan or line of credit is designed to be replaced by permanent financing at a later time. For example:</content>
-                <interpParagraph label="1003-3-c-3-Interp-1-i" target="1003-3-c-3-1-i" marker="i.">
+                <content>Temporary financing. Section 1003.3(c)(3) provides that <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> obtained for temporary financing are excluded transactions. A loan or line of credit is considered temporary financing and excluded under &#167; 1003.3(c)(3) if the loan or line of credit is designed to be replaced by permanent financing at a later time. For example:</content><interpParagraph label="1003-3-c-3-Interp-1-i" target="1003-3-c-3-1-i" marker="i.">
                   <content>Lender A extends credit in the form of a bridge or swing loan to finance a borrower's down payment on a home purchase. The borrower pays off the bridge or swing loan with funds from the sale of his or her existing home and obtains permanent financing for his or her new home from Lender A. The bridge or swing loan is excluded as temporary financing under &#167; 1003.3(c)(3).</content>
                 </interpParagraph>
                 <interpParagraph label="1003-3-c-3-Interp-1-ii" target="1003-3-c-3-1-ii" marker="ii.">
@@ -1728,15 +1642,13 @@
               <title>Paragraph 3(c)(4)</title>
               <content/>
               <interpParagraph label="1003-3-c-4-Interp-1" target="1003-3-c-4-1" marker="1.">
-                <content>Purchase of an interest in a pool of loans. Section 1003.3(c)(4) provides that the purchase of an interest in a pool of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or open-end lines of credit is an excluded transaction. The purchase of an interest in a pool of loans or lines of credit includes, for example, mortgage-participation certificates, mortgage-backed securities, or real estate mortgage investment conduits.</content>
-              </interpParagraph>
+                <content>Purchase of an interest in a pool of loans. Section 1003.3(c)(4) provides that the purchase of an interest in a pool of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> is an excluded transaction. The purchase of an interest in a pool of loans or lines of credit includes, for example, mortgage-participation certificates, mortgage-backed securities, or real estate mortgage investment conduits.</content></interpParagraph>
             </interpParagraph>
             <interpParagraph label="1003-3-c-6-Interp" target="1003-3-c-6">
               <title>Paragraph 3(c)(6)</title>
               <content/>
               <interpParagraph label="1003-3-c-6-Interp-1" target="1003-3-c-6-1" marker="1.">
-                <content>Mergers and acquisitions. Section 1003.3(c)(6) provides that the purchase of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or open-end lines of credit as part of a merger or acquisition, or as part of the acquisition of all of the assets and liabilities of a <ref target="1003-2-c" reftype="term">branch office</ref>, are excluded transactions. If a <ref target="1003-2-g" reftype="term">financial institution</ref> acquires loans or lines of credit in bulk from another institution (for example, from the receiver for a failed institution), but no merger or acquisition of an institution, or acquisition of a <ref target="1003-2-c" reftype="term">branch office</ref>, is involved and no other exclusion applies, the acquired loans or lines of credit are <ref target="1003-2-e" reftype="term">covered loans</ref> and are reported as described in comment <ref target="1003-4-a-Interp-1-iii" reftype="internal">4(a)-1.iii</ref>.</content>
-              </interpParagraph>
+                <content>Mergers and acquisitions. Section 1003.3(c)(6) provides that the purchase of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> as part of a merger or acquisition, or as part of the acquisition of all of the assets and liabilities of a <ref target="1003-2-c" reftype="term">branch office</ref>, are excluded transactions. If a <ref target="1003-2-g" reftype="term">financial institution</ref> acquires loans or lines of credit in bulk from another institution (for example, from the receiver for a failed institution), but no merger or acquisition of an institution, or acquisition of a <ref target="1003-2-c" reftype="term">branch office</ref>, is involved and no other exclusion applies, the acquired loans or lines of credit are <ref target="1003-2-e" reftype="term">covered loans</ref> and are reported as described in comment <ref target="1003-4-a-Interp-1-iii" reftype="internal">4(a)-1.iii</ref>.</content></interpParagraph>
             </interpParagraph>
             <interpParagraph label="1003-3-c-8-Interp" target="1003-3-c-8">
               <title>Paragraph 3(c)(8)</title>
@@ -1762,8 +1674,7 @@
                 <content>Primary purpose. An institution must determine in each case if a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> primarily is for a business or commercial purpose. If a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> is deemed to be primarily for a business, commercial, or organizational purpose under Regulation Z, <ref target="CFR:12-1026-3" reftype="external">12 CFR 1026.3</ref>(a) and its related commentary, then the loan or line of credit also is deemed to be primarily for a business or commercial purpose under &#167; 1003.3(c)(10).</content>
               </interpParagraph>
               <interpParagraph label="1003-3-c-10-Interp-3" target="1003-3-c-10-3" marker="3.">
-                <content>Examples&#8212;covered business- or commercial-purpose transactions. The following are examples of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> and open-end lines of credit that are not excluded from reporting under &#167; 1003.3(c)(10), because they primarily are for a business or commercial purpose, but they also meet the definition of a <ref target="1003-2-i" reftype="term">home improvement loan</ref> under &#167; <ref target="1003-2-i" reftype="internal">1003.2(i)</ref>, a <ref target="1003-2-j" reftype="term">home purchase loan</ref> under &#167; <ref target="1003-2-j" reftype="internal">1003.2(j)</ref>, or a <ref target="1003-2-p" reftype="term">refinancing</ref> under &#167; <ref target="1003-2-p" reftype="internal">1003.2(p)</ref>:</content>
-                <interpParagraph label="1003-3-c-10-Interp-3-i" target="1003-3-c-10-3-i" marker="i.">
+                <content>Examples&#8212;covered business- or commercial-purpose transactions. The following are examples of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> and <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> that are not excluded from reporting under &#167; 1003.3(c)(10), because they primarily are for a business or commercial purpose, but they also meet the definition of a <ref target="1003-2-i" reftype="term">home improvement loan</ref> under &#167; <ref target="1003-2-i" reftype="internal">1003.2(i)</ref>, a <ref target="1003-2-j" reftype="term">home purchase loan</ref> under &#167; <ref target="1003-2-j" reftype="internal">1003.2(j)</ref>, or a <ref target="1003-2-p" reftype="term">refinancing</ref> under &#167; <ref target="1003-2-p" reftype="internal">1003.2(p)</ref>:</content><interpParagraph label="1003-3-c-10-Interp-3-i" target="1003-3-c-10-3-i" marker="i.">
                   <content>A <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> to purchase or to improve a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> or a single-family investment property, or a <ref target="1003-2-p" reftype="term">refinancing</ref> of a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> secured by a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> or a single-family investment property;</content>
                 </interpParagraph>
                 <interpParagraph label="1003-3-c-10-Interp-3-ii" target="1003-3-c-10-3-ii" marker="ii.">
@@ -1774,8 +1685,7 @@
                 </interpParagraph>
               </interpParagraph>
               <interpParagraph label="1003-3-c-10-Interp-4" target="1003-3-c-10-4" marker="4.">
-                <content>Examples&#8212;excluded business- or commercial-purpose transactions. The following are examples of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> and open-end lines of credit that are not <ref target="1003-2-e" reftype="term">covered loans</ref> because they primarily are for a business or commercial purpose, but they do not meet the definition of a <ref target="1003-2-i" reftype="term">home improvement loan</ref> under &#167; <ref target="1003-2-i" reftype="internal">1003.2(i)</ref>, a <ref target="1003-2-j" reftype="term">home purchase loan</ref> under &#167; <ref target="1003-2-j" reftype="internal">1003.2(j)</ref>, or a <ref target="1003-2-p" reftype="term">refinancing</ref> under &#167; <ref target="1003-2-p" reftype="internal">1003.2(p)</ref>:</content>
-                <interpParagraph label="1003-3-c-10-Interp-4-i" target="1003-3-c-10-4-i" marker="i.">
+                <content>Examples&#8212;excluded business- or commercial-purpose transactions. The following are examples of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> and <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> that are not <ref target="1003-2-e" reftype="term">covered loans</ref> because they primarily are for a business or commercial purpose, but they do not meet the definition of a <ref target="1003-2-i" reftype="term">home improvement loan</ref> under &#167; <ref target="1003-2-i" reftype="internal">1003.2(i)</ref>, a <ref target="1003-2-j" reftype="term">home purchase loan</ref> under &#167; <ref target="1003-2-j" reftype="internal">1003.2(j)</ref>, or a <ref target="1003-2-p" reftype="term">refinancing</ref> under &#167; <ref target="1003-2-p" reftype="internal">1003.2(p)</ref>:</content><interpParagraph label="1003-3-c-10-Interp-4-i" target="1003-3-c-10-4-i" marker="i.">
                   <content>A <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> whose funds will be used primarily to improve or expand a business, for example to renovate a family restaurant that is not located in a <ref target="1003-2-f" reftype="term">dwelling</ref>, or to purchase a warehouse, business equipment, or inventory;</content>
                 </interpParagraph>
                 <interpParagraph label="1003-3-c-10-Interp-4-ii" target="1003-3-c-10-4-ii" marker="ii.">
@@ -1790,15 +1700,13 @@
               <title>Paragraph 3(c)(11)</title>
               <content/>
               <interpParagraph label="1003-3-c-11-Interp-1" target="1003-3-c-11-1" marker="1.">
-                <content>General. Section 1003.3(c)(11) provides that a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> is an excluded transaction if a <ref target="1003-2-g" reftype="term">financial institution</ref> originated fewer than 25 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in each of the two preceding calendar years. For example, assume that a bank is a <ref target="1003-2-g" reftype="term">financial institution</ref> in 2022 under &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref> because it originated 200 open-end lines of credit in 2020, 250 open-end lines of credit in 2021, and met all of the other requirements under &#167; <ref target="1003-2-g-1" reftype="internal">1003.2(g)(1)</ref>. Also assume that the bank originated 10 and 20 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in 2020 and 2021, respectively. The open-end lines of credit that the bank originated, or for which it received applications, during 2022 are <ref target="1003-2-e" reftype="term">covered loans</ref> and must be reported, unless they otherwise are excluded transactions under &#167; <ref target="1003-3-c" reftype="internal">1003.3(c)</ref>. However, the <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> that the bank originated, or for which it received applications, during 2022 are excluded transactions under &#167; 1003.3(c)(11) and need not be reported. See comments <ref target="1003-4-a-Interp-2" reftype="internal">4(a)-2</ref> through <ref target="1003-4-a-Interp-4" reftype="internal">-4</ref> for guidance about the activities that constitute an origination.</content>
-              </interpParagraph>
+                <content>General. Section 1003.3(c)(11) provides that a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> is an excluded transaction if a <ref target="1003-2-g" reftype="term">financial institution</ref> originated fewer than 25 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in each of the two preceding calendar years. For example, assume that a bank is a <ref target="1003-2-g" reftype="term">financial institution</ref> in 2022 under &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref> because it originated 200 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> in 2020, 250 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> in 2021, and met all of the other requirements under &#167; <ref target="1003-2-g-1" reftype="internal">1003.2(g)(1)</ref>. Also assume that the bank originated 10 and 20 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in 2020 and 2021, respectively. The <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> that the bank originated, or for which it received applications, during 2022 are <ref target="1003-2-e" reftype="term">covered loans</ref> and must be reported, unless they otherwise are excluded transactions under &#167; <ref target="1003-3-c" reftype="internal">1003.3(c)</ref>. However, the <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> that the bank originated, or for which it received applications, during 2022 are excluded transactions under &#167; 1003.3(c)(11) and need not be reported. See comments <ref target="1003-4-a-Interp-2" reftype="internal">4(a)-2</ref> through <ref target="1003-4-a-Interp-4" reftype="internal">-4</ref> for guidance about the activities that constitute an origination.</content></interpParagraph>
             </interpParagraph>
             <interpParagraph label="1003-3-c-12-Interp" target="1003-3-c-12">
               <title>Paragraph 3(c)(12)</title>
               <content/>
               <interpParagraph label="1003-3-c-12-Interp-1" target="1003-3-c-12-1" marker="1.">
-                <content>General. Section 1003.3(c)(12) provides that an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> is an excluded transaction if a <ref target="1003-2-g" reftype="term">financial institution</ref> originated fewer than 100 open-end lines of credit in each of the two preceding calendar years. For example, assume that a bank is a <ref target="1003-2-g" reftype="term">financial institution</ref> in 2022 under &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref> because it originated 50 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in 2020, 75 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in 2021, and met all of the other requirements under &#167; <ref target="1003-2-g-1" reftype="internal">1003.2(g)(1)</ref>. Also assume that the bank originated 75 and 85 open-end lines of credit in 2020 and 2021, respectively. The <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> that the bank originated, or for which it received applications, during 2022 are <ref target="1003-2-e" reftype="term">covered loans</ref> and must be reported, unless they otherwise are excluded transactions under &#167; <ref target="1003-3-c" reftype="internal">1003.3(c)</ref>. However, the open-end lines of credit that the bank originated, or for which it received applications, during 2022 are excluded transactions under &#167; 1003.3(c)(12) and need not be reported. See comments <ref target="1003-4-a-Interp-2" reftype="internal">4(a)-2</ref> through <ref target="1003-4-a-Interp-4" reftype="internal">-4</ref> for guidance about the activities that constitute an origination.</content>
-              </interpParagraph>
+                <content>General. Section 1003.3(c)(12) provides that an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> is an excluded transaction if a <ref target="1003-2-g" reftype="term">financial institution</ref> originated fewer than 100 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> in each of the two preceding calendar years. For example, assume that a bank is a <ref target="1003-2-g" reftype="term">financial institution</ref> in 2022 under &#167; <ref target="1003-2-g" reftype="internal">1003.2(g)</ref> because it originated 50 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in 2020, 75 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> in 2021, and met all of the other requirements under &#167; <ref target="1003-2-g-1" reftype="internal">1003.2(g)(1)</ref>. Also assume that the bank originated 75 and 85 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> in 2020 and 2021, respectively. The <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> that the bank originated, or for which it received applications, during 2022 are <ref target="1003-2-e" reftype="term">covered loans</ref> and must be reported, unless they otherwise are excluded transactions under &#167; <ref target="1003-3-c" reftype="internal">1003.3(c)</ref>. However, the <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> that the bank originated, or for which it received applications, during 2022 are excluded transactions under &#167; 1003.3(c)(12) and need not be reported. See comments <ref target="1003-4-a-Interp-2" reftype="internal">4(a)-2</ref> through <ref target="1003-4-a-Interp-4" reftype="internal">-4</ref> for guidance about the activities that constitute an origination.</content></interpParagraph>
             </interpParagraph>
           </interpParagraph>
         </interpSection>
@@ -2106,8 +2014,7 @@
                 <content>Loans purchased from another institution. The requirement to report the property location information required by &#167; 1003.4(a)(9) applies not only to applications and originations but also to purchased <ref target="1003-2-e" reftype="term">covered loans</ref>.</content>
               </interpParagraph>
               <interpParagraph label="1003-4-a-9-Interp-5" target="1003-4-a-9-5" marker="5.">
-                <content>Manufactured home. If the site of a manufactured home has not been identified, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies by reporting that the information required by &#167; <ref target="1003-4-a-9" reftype="internal">1003.4(a)(9)</ref> is not applicable.</content>
-              </interpParagraph>
+                <content><ref target="1003-2-l" reftype="term">Manufactured home</ref>. If the site of a <ref target="1003-2-l" reftype="term">manufactured home</ref> has not been identified, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies by reporting that the information required by &#167; <ref target="1003-4-a-9" reftype="internal">1003.4(a)(9)</ref> is not applicable.</content></interpParagraph>
               <interpParagraph label="1003-4-a-9-i-Interp" target="1003-4-a-9-i">
                 <title>Paragraph 4(a)(9)(i)</title>
                 <content/>
@@ -2264,8 +2171,7 @@
                 <content>Rate spread calculation&#8212;annual percentage rate. The requirements of &#167; <ref target="1003-4-a-12-i" reftype="internal">1003.4(a)(12)(i)</ref> refer to the <ref target="1003-2-e" reftype="term">covered loan</ref>'s annual percentage rate. A <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; <ref target="1003-4-a-12-i" reftype="internal">1003.4(a)(12)(i)</ref> by relying on the annual percentage rate for the <ref target="1003-2-e" reftype="term">covered loan</ref>, as calculated and disclosed pursuant to Regulation Z, <ref target="CFR:12-1026-18" reftype="external">12 CFR 1026.18</ref> or 1026.38 (for <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref>) or 1026.40 (for open-end credit lines of credit), as applicable.</content>
               </interpParagraph>
               <interpParagraph label="1003-4-a-12-Interp-4" target="1003-4-a-12-4" marker="4.">
-                <content>Rate spread calculation&#8212;comparable transaction. The rate spread calculation in &#167; <ref target="1003-4-a-12-i" reftype="internal">1003.4(a)(12)(i)</ref> is defined by reference to a comparable transaction, which is determined according to the <ref target="1003-2-e" reftype="term">covered loan</ref>'s amortization type (i.e., fixed- or variable-rate) and loan term. For <ref target="1003-2-e" reftype="term">covered loans</ref> that are open-end lines of credit, &#167; <ref target="1003-4-a-12-i" reftype="internal">1003.4(a)(12)(i)</ref> requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to identify the most closely comparable closed-end transaction. The tables of <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> published by the Bureau (see comment <ref target="1003-4-a-12-Interp-2" reftype="internal">4(a)(12)-2</ref>) provide additional detail about how to identify the comparable transaction.</content>
-                <interpParagraph label="1003-4-a-12-Interp-4-i" target="1003-4-a-12-4-i" marker="i.">
+                <content>Rate spread calculation&#8212;comparable transaction. The rate spread calculation in &#167; <ref target="1003-4-a-12-i" reftype="internal">1003.4(a)(12)(i)</ref> is defined by reference to a comparable transaction, which is determined according to the <ref target="1003-2-e" reftype="term">covered loan</ref>'s amortization type (i.e., fixed- or variable-rate) and loan term. For <ref target="1003-2-e" reftype="term">covered loans</ref> that are <ref target="1003-2-o" reftype="term">open-end lines of credit</ref>, &#167; <ref target="1003-4-a-12-i" reftype="internal">1003.4(a)(12)(i)</ref> requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to identify the most closely comparable closed-end transaction. The tables of <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> published by the Bureau (see comment <ref target="1003-4-a-12-Interp-2" reftype="internal">4(a)(12)-2</ref>) provide additional detail about how to identify the comparable transaction.</content><interpParagraph label="1003-4-a-12-Interp-4-i" target="1003-4-a-12-4-i" marker="i.">
                   <content>Fixed-rate transactions. For fixed-rate <ref target="1003-2-e" reftype="term">covered loans</ref>, the term for identifying the comparable transaction is the transaction's maturity (i.e., the period until the last payment will be due under the <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> contract or <ref target="1003-2-o" reftype="term">open-end line of credit</ref> agreement). If an open-end credit plan has a fixed rate but no definite plan length, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; <ref target="1003-4-a-12-i" reftype="internal">1003.4(a)(12)(i)</ref> by using a 30-year fixed-rate loan as the most closely comparable closed-end transaction. <ref target="1003-2-g" reftype="term">Financial institutions</ref> may refer to the table on the FFIEC Web site entitled &#8220;<ref target="1003-4-a-12-ii" reftype="term">Average Prime Offer Rates</ref>-Fixed&#8221; when identifying a comparable fixed-rate transaction.</content>
                 </interpParagraph>
                 <interpParagraph label="1003-4-a-12-Interp-4-ii" target="1003-4-a-12-4-ii" marker="ii.">
@@ -2370,8 +2276,7 @@
                 <title>Paragraph 4(a)(17)(i)</title>
                 <content/>
                 <interpParagraph label="1003-4-a-17-i-Interp-1" target="1003-4-a-17-i-1" marker="1.">
-                  <content>Total loan costs&#8212;not applicable. Section 1003.4(a)(17)(i) does not require <ref target="1003-2-g" reftype="term">financial institutions</ref> to report the total loan costs for applications, or for transactions not subject to Regulation Z, <ref target="CFR:12-1026-43" reftype="external">12 CFR 1026.43</ref>(c), and <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), such as open-end lines of credit, <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, or loans or lines of credit made primarily for business or commercial purposes. In these cases, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(17)(i) by reporting that the requirement is not applicable to the transaction.</content>
-                </interpParagraph>
+                  <content>Total loan costs&#8212;not applicable. Section 1003.4(a)(17)(i) does not require <ref target="1003-2-g" reftype="term">financial institutions</ref> to report the total loan costs for applications, or for transactions not subject to Regulation Z, <ref target="CFR:12-1026-43" reftype="external">12 CFR 1026.43</ref>(c), and <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), such as <ref target="1003-2-o" reftype="term">open-end lines of credit</ref>, <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, or loans or lines of credit made primarily for business or commercial purposes. In these cases, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(17)(i) by reporting that the requirement is not applicable to the transaction.</content></interpParagraph>
                 <interpParagraph label="1003-4-a-17-i-Interp-2" target="1003-4-a-17-i-2" marker="2.">
                   <content>Purchased loans&#8212;applications received prior to the integrated disclosure effective date. For purchased <ref target="1003-2-e" reftype="term">covered loans</ref> subject to this reporting requirement for which applications were received by the selling entity prior to the effective date of Regulation Z, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(17)(i) by reporting that the requirement is not applicable to the transaction.</content>
                 </interpParagraph>
@@ -2383,8 +2288,7 @@
                 <title>Paragraph 4(a)(17)(ii)</title>
                 <content/>
                 <interpParagraph label="1003-4-a-17-ii-Interp-1" target="1003-4-a-17-ii-1" marker="1.">
-                  <content>Total points and fees&#8212;not applicable. Section 1003.4(a)(17)(ii) does not require <ref target="1003-2-g" reftype="term">financial institutions</ref> to report the total points and fees for transactions not subject to Regulation Z, <ref target="CFR:12-1026-43" reftype="external">12 CFR 1026.43</ref>(c), such as open-end lines of credit, <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, or loans or lines of credit made primarily for business or commercial purposes, or for applications or purchased <ref target="1003-2-e" reftype="term">covered loans</ref>. In these cases, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(17)(ii) by reporting that the requirement is not applicable to the transaction.</content>
-                </interpParagraph>
+                  <content>Total points and fees&#8212;not applicable. Section 1003.4(a)(17)(ii) does not require <ref target="1003-2-g" reftype="term">financial institutions</ref> to report the total points and fees for transactions not subject to Regulation Z, <ref target="CFR:12-1026-43" reftype="external">12 CFR 1026.43</ref>(c), such as <ref target="1003-2-o" reftype="term">open-end lines of credit</ref>, <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, or loans or lines of credit made primarily for business or commercial purposes, or for applications or purchased <ref target="1003-2-e" reftype="term">covered loans</ref>. In these cases, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(17)(ii) by reporting that the requirement is not applicable to the transaction.</content></interpParagraph>
                 <interpParagraph label="1003-4-a-17-ii-Interp-2" target="1003-4-a-17-ii-2" marker="2.">
                   <content>Total points and fees cure mechanism. For <ref target="1003-2-e" reftype="term">covered loans</ref> subject to this reporting requirement, if a <ref target="1003-2-g" reftype="term">financial institution</ref> determines that the transaction's total points and fees exceeded the applicable limit and cures the overage pursuant to Regulation Z, <ref target="CFR:12-1026-43" reftype="external">12 CFR 1026.43</ref>(e)(3)(iii) and (iv), a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(17)(ii) by reporting the correct amount of total points and fees, provided that the cure was effected during the same reporting period in which closing occurred. For example, in the case of a <ref target="1003-2-g" reftype="term">financial institution</ref>'s quarterly submission, the <ref target="1003-2-g" reftype="term">financial institution</ref> reports the revised amount of total points and fees only if it cured the overage prior to the end of the quarter in which closing occurred. The <ref target="1003-2-g" reftype="term">financial institution</ref> does not report the revised amount of total points and fees in its quarterly submission if it cured the overage after the end of the quarter, even if the cure was effected prior to the deadline for timely submission of the <ref target="1003-2-g" reftype="term">financial institution</ref>'s quarterly data. However, the <ref target="1003-2-g" reftype="term">financial institution</ref> reports the revised amount of total points and fees on its annual loan/application register.</content>
                 </interpParagraph>
@@ -2394,8 +2298,7 @@
               <title>Paragraph 4(a)(18)</title>
               <content/>
               <interpParagraph label="1003-4-a-18-Interp-1" target="1003-4-a-18-1" marker="1.">
-                <content>Origination charges&#8212;not applicable. Section 1003.4(a)(18) does not require <ref target="1003-2-g" reftype="term">financial institutions</ref> to report the total borrower-paid origination charges for applications, or for transactions not subject to Regulation Z, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), such as open-end lines of credit, <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, or loans or lines of credit made primarily for business or commercial purposes. In these cases, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(18) by reporting that the requirement is not applicable to the transaction.</content>
-              </interpParagraph>
+                <content>Origination charges&#8212;not applicable. Section 1003.4(a)(18) does not require <ref target="1003-2-g" reftype="term">financial institutions</ref> to report the total borrower-paid origination charges for applications, or for transactions not subject to Regulation Z, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), such as <ref target="1003-2-o" reftype="term">open-end lines of credit</ref>, <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, or loans or lines of credit made primarily for business or commercial purposes. In these cases, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(18) by reporting that the requirement is not applicable to the transaction.</content></interpParagraph>
               <interpParagraph label="1003-4-a-18-Interp-2" target="1003-4-a-18-2" marker="2.">
                 <content>Purchased loans&#8212;applications received prior to the integrated disclosure effective date. For purchased <ref target="1003-2-e" reftype="term">covered loans</ref> subject to this reporting requirement for which applications were received by the selling entity prior to the effective date of Regulation Z, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(18) by reporting that the requirement is not applicable to the transaction.</content>
               </interpParagraph>
@@ -2407,8 +2310,7 @@
               <title>Paragraph 4(a)(19)</title>
               <content/>
               <interpParagraph label="1003-4-a-19-Interp-1" target="1003-4-a-19-1" marker="1.">
-                <content>Discount points&#8212;not applicable. Section 1003.4(a)(19) does not require <ref target="1003-2-g" reftype="term">financial institutions</ref> to report the discount points for applications, or for transactions not subject to Regulation Z, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), such as open-end lines of credit, <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, or loans or lines of credit made primarily for business or commercial purposes. In these cases, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(19) by reporting that the requirement is not applicable to the transaction.</content>
-              </interpParagraph>
+                <content>Discount points&#8212;not applicable. Section 1003.4(a)(19) does not require <ref target="1003-2-g" reftype="term">financial institutions</ref> to report the discount points for applications, or for transactions not subject to Regulation Z, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), such as <ref target="1003-2-o" reftype="term">open-end lines of credit</ref>, <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, or loans or lines of credit made primarily for business or commercial purposes. In these cases, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(19) by reporting that the requirement is not applicable to the transaction.</content></interpParagraph>
               <interpParagraph label="1003-4-a-19-Interp-2" target="1003-4-a-19-2" marker="2.">
                 <content>Purchased loans&#8212;applications received prior to the integrated disclosure effective date. For purchased <ref target="1003-2-e" reftype="term">covered loans</ref> subject to this reporting requirement for which applications were received by the selling entity prior to the effective date of Regulation Z, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(19) by reporting that the requirement is not applicable to the transaction.</content>
               </interpParagraph>
@@ -2420,8 +2322,7 @@
               <title>Paragraph 4(a)(20)</title>
               <content/>
               <interpParagraph label="1003-4-a-20-Interp-1" target="1003-4-a-20-1" marker="1.">
-                <content>Lender credits&#8212;not applicable. Section 1003.4(a)(20) does not require <ref target="1003-2-g" reftype="term">financial institutions</ref> to report lender credits for applications, or for transactions not subject to Regulation Z, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), such as open-end lines of credit, <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, or loans or lines of credit made primarily for business or commercial purposes. In these cases, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(20) by reporting that the requirement is not applicable to the transaction.</content>
-              </interpParagraph>
+                <content>Lender credits&#8212;not applicable. Section 1003.4(a)(20) does not require <ref target="1003-2-g" reftype="term">financial institutions</ref> to report lender credits for applications, or for transactions not subject to Regulation Z, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), such as <ref target="1003-2-o" reftype="term">open-end lines of credit</ref>, <ref target="1003-2-q" reftype="term">reverse mortgages</ref>, or loans or lines of credit made primarily for business or commercial purposes. In these cases, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(20) by reporting that the requirement is not applicable to the transaction.</content></interpParagraph>
               <interpParagraph label="1003-4-a-20-Interp-2" target="1003-4-a-20-2" marker="2.">
                 <content>Purchased loans&#8212;applications received prior to the integrated disclosure effective date. For purchased <ref target="1003-2-e" reftype="term">covered loans</ref> subject to this reporting requirement for which applications were received by the selling entity prior to the effective date of Regulation Z, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(f), a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(20) by reporting that the requirement is not applicable to the transaction.</content>
               </interpParagraph>
@@ -2558,39 +2459,32 @@
               <title>Paragraph 4(a)(29)</title>
               <content/>
               <interpParagraph label="1003-4-a-29-Interp-1" target="1003-4-a-29-1" marker="1.">
-                <content>Classification under State law. A <ref target="1003-2-g" reftype="term">financial institution</ref> should report a <ref target="1003-2-e" reftype="term">covered loan</ref> that is or would have been secured only by a manufactured home but not the land on which it is sited as secured by a manufactured home and not land, even if the manufactured home is considered real property under applicable State law.</content>
-              </interpParagraph>
+                <content>Classification under State law. A <ref target="1003-2-g" reftype="term">financial institution</ref> should report a <ref target="1003-2-e" reftype="term">covered loan</ref> that is or would have been secured only by a <ref target="1003-2-l" reftype="term">manufactured home</ref> but not the land on which it is sited as secured by a <ref target="1003-2-l" reftype="term">manufactured home</ref> and not land, even if the <ref target="1003-2-l" reftype="term">manufactured home</ref> is considered real property under applicable State law.</content></interpParagraph>
               <interpParagraph label="1003-4-a-29-Interp-2" target="1003-4-a-29-2" marker="2.">
-                <content>Manufactured home community. A manufactured home community that is a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> is not considered a manufactured home for purposes of &#167; 1003.4(a)(29).</content>
-              </interpParagraph>
+                <content><ref target="1003-2-l" reftype="term">Manufactured home</ref> community. A <ref target="1003-2-l" reftype="term">manufactured home</ref> community that is a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> is not considered a <ref target="1003-2-l" reftype="term">manufactured home</ref> for purposes of &#167; 1003.4(a)(29).</content></interpParagraph>
               <interpParagraph label="1003-4-a-29-Interp-3" target="1003-4-a-29-3" marker="3.">
                 <content>Multiple properties. See comment <ref target="1003-4-a-9-Interp-2" reftype="internal">4(a)(9)-2</ref> regarding transactions involving multiple properties with more than one property taken as security.</content>
               </interpParagraph>
               <interpParagraph label="1003-4-a-29-Interp-4" target="1003-4-a-29-4" marker="4.">
-                <content>Scope of requirement. A <ref target="1003-2-g" reftype="term">financial institution</ref> reports that the requirement is not applicable for a <ref target="1003-2-e" reftype="term">covered loan</ref> where the <ref target="1003-2-f" reftype="term">dwelling</ref> related to the property identified in &#167; <ref target="1003-4-a-9" reftype="internal">1003.4(a)(9)</ref> is not a manufactured home.</content>
-              </interpParagraph>
+                <content>Scope of requirement. A <ref target="1003-2-g" reftype="term">financial institution</ref> reports that the requirement is not applicable for a <ref target="1003-2-e" reftype="term">covered loan</ref> where the <ref target="1003-2-f" reftype="term">dwelling</ref> related to the property identified in &#167; <ref target="1003-4-a-9" reftype="internal">1003.4(a)(9)</ref> is not a <ref target="1003-2-l" reftype="term">manufactured home</ref>.</content></interpParagraph>
             </interpParagraph>
             <interpParagraph label="1003-4-a-30-Interp" target="1003-4-a-30">
               <title>Paragraph 4(a)(30)</title>
               <content/>
               <interpParagraph label="1003-4-a-30-Interp-1" target="1003-4-a-30-1" marker="1.">
-                <content>Indirect land ownership. Indirect land ownership can occur when the applicant or borrower is or will be a member of a resident-owned community structured as a housing cooperative in which the occupants own an entity that holds the underlying land of the manufactured home community. In such communities, the applicant or borrower may still have a lease and pay rent for the lot on which his or her manufactured home is or will be located, but the property interest type for such an arrangement should be reported as indirect ownership if the applicant is or will be a member of the cooperative that owns the underlying land of the manufactured home community. If an applicant resides or will reside in such a community but is not a member, the property interest type should be reported as a paid leasehold.</content>
-              </interpParagraph>
+                <content>Indirect land ownership. Indirect land ownership can occur when the applicant or borrower is or will be a member of a resident-owned community structured as a housing cooperative in which the occupants own an entity that holds the underlying land of the <ref target="1003-2-l" reftype="term">manufactured home</ref> community. In such communities, the applicant or borrower may still have a lease and pay rent for the lot on which his or her <ref target="1003-2-l" reftype="term">manufactured home</ref> is or will be located, but the property interest type for such an arrangement should be reported as indirect ownership if the applicant is or will be a member of the cooperative that owns the underlying land of the <ref target="1003-2-l" reftype="term">manufactured home</ref> community. If an applicant resides or will reside in such a community but is not a member, the property interest type should be reported as a paid leasehold.</content></interpParagraph>
               <interpParagraph label="1003-4-a-30-Interp-2" target="1003-4-a-30-2" marker="2.">
-                <content>Leasehold interest. A leasehold interest could be formalized in a lease with a defined term and specified rent payments, or could arise as a tenancy at will through permission of a land owner without any written, formal arrangement. For example, assume a borrower will locate the manufactured home in a manufactured home community, has a written lease for a lot in that park, and the lease specifies rent payments. In this example, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(30) by reporting a paid leasehold. However, if instead the borrower will locate the manufactured home on land owned by a family member without a written lease and with no agreement as to rent payments, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(30) by reporting an unpaid leasehold.</content>
-              </interpParagraph>
+                <content>Leasehold interest. A leasehold interest could be formalized in a lease with a defined term and specified rent payments, or could arise as a tenancy at will through permission of a land owner without any written, formal arrangement. For example, assume a borrower will locate the <ref target="1003-2-l" reftype="term">manufactured home</ref> in a <ref target="1003-2-l" reftype="term">manufactured home</ref> community, has a written lease for a lot in that park, and the lease specifies rent payments. In this example, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(30) by reporting a paid leasehold. However, if instead the borrower will locate the <ref target="1003-2-l" reftype="term">manufactured home</ref> on land owned by a family member without a written lease and with no agreement as to rent payments, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(30) by reporting an unpaid leasehold.</content></interpParagraph>
               <interpParagraph label="1003-4-a-30-Interp-3" target="1003-4-a-30-3" marker="3.">
                 <content>Multiple properties. See comment <ref target="1003-4-a-9-Interp-2" reftype="internal">4(a)(9)-2</ref> regarding transactions involving multiple properties with more than one property taken as security.</content>
               </interpParagraph>
               <interpParagraph label="1003-4-a-30-Interp-4" target="1003-4-a-30-4" marker="4.">
-                <content>Manufactured home community. A manufactured home community that is a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> is not considered a manufactured home for purposes of &#167; 1003.4(a)(30).</content>
-              </interpParagraph>
+                <content><ref target="1003-2-l" reftype="term">Manufactured home</ref> community. A <ref target="1003-2-l" reftype="term">manufactured home</ref> community that is a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> is not considered a <ref target="1003-2-l" reftype="term">manufactured home</ref> for purposes of &#167; 1003.4(a)(30).</content></interpParagraph>
               <interpParagraph label="1003-4-a-30-Interp-5" target="1003-4-a-30-5" marker="5.">
                 <content>Direct ownership. An applicant or borrower has a direct ownership interest in the land on which the <ref target="1003-2-f" reftype="term">dwelling</ref> is or is to be located when it has a more than possessory real property ownership interest in the land such as fee simple ownership.</content>
               </interpParagraph>
               <interpParagraph label="1003-4-a-30-Interp-6" target="1003-4-a-30-6" marker="6.">
-                <content>Scope of requirement. A <ref target="1003-2-g" reftype="term">financial institution</ref> reports that the requirement is not applicable for a <ref target="1003-2-e" reftype="term">covered loan</ref> where the <ref target="1003-2-f" reftype="term">dwelling</ref> related to the property identified in &#167; <ref target="1003-4-a-9" reftype="internal">1003.4(a)(9)</ref> is not a manufactured home.</content>
-              </interpParagraph>
+                <content>Scope of requirement. A <ref target="1003-2-g" reftype="term">financial institution</ref> reports that the requirement is not applicable for a <ref target="1003-2-e" reftype="term">covered loan</ref> where the <ref target="1003-2-f" reftype="term">dwelling</ref> related to the property identified in &#167; <ref target="1003-4-a-9" reftype="internal">1003.4(a)(9)</ref> is not a <ref target="1003-2-l" reftype="term">manufactured home</ref>.</content></interpParagraph>
             </interpParagraph>
             <interpParagraph label="1003-4-a-31-Interp" target="1003-4-a-31">
               <title>Paragraph 4(a)(31)</title>
@@ -2599,8 +2493,7 @@
                 <content>Multiple properties. See comment <ref target="1003-4-a-9-Interp-2" reftype="internal">4(a)(9)-2</ref> regarding transactions involving multiple properties with more than one property taken as security.</content>
               </interpParagraph>
               <interpParagraph label="1003-4-a-31-Interp-2" target="1003-4-a-31-2" marker="2.">
-                <content>Manufactured home community. For an application or <ref target="1003-2-e" reftype="term">covered loan</ref> secured by a manufactured home community, the <ref target="1003-2-g" reftype="term">financial institution</ref> should include in the number of individual <ref target="1003-2-f" reftype="term">dwelling</ref> units the total number of manufactured home sites that secure the loan and are available for occupancy, regardless of whether the sites are currently occupied or have manufactured homes currently attached. A <ref target="1003-2-g" reftype="term">financial institution</ref> may include in the number of individual <ref target="1003-2-f" reftype="term">dwelling</ref> units other units such as recreational vehicle pads, manager apartments, rental apartments, site-built homes or other rentable space that are ancillary to the operation of the secured property if it considers such units under its underwriting guidelines or the guidelines of an investor, or if it tracks the number of such units for its own internal purposes. For a loan secured by a single manufactured home that is or will be located in a manufactured home community, the <ref target="1003-2-g" reftype="term">financial institution</ref> should report one individual <ref target="1003-2-f" reftype="term">dwelling</ref> unit.</content>
-              </interpParagraph>
+                <content><ref target="1003-2-l" reftype="term">Manufactured home</ref> community. For an application or <ref target="1003-2-e" reftype="term">covered loan</ref> secured by a <ref target="1003-2-l" reftype="term">manufactured home</ref> community, the <ref target="1003-2-g" reftype="term">financial institution</ref> should include in the number of individual <ref target="1003-2-f" reftype="term">dwelling</ref> units the total number of <ref target="1003-2-l" reftype="term">manufactured home</ref> sites that secure the loan and are available for occupancy, regardless of whether the sites are currently occupied or have <ref target="1003-2-l" reftype="term">manufactured homes</ref> currently attached. A <ref target="1003-2-g" reftype="term">financial institution</ref> may include in the number of individual <ref target="1003-2-f" reftype="term">dwelling</ref> units other units such as recreational vehicle pads, manager apartments, rental apartments, site-built homes or other rentable space that are ancillary to the operation of the secured property if it considers such units under its underwriting guidelines or the guidelines of an investor, or if it tracks the number of such units for its own internal purposes. For a loan secured by a single <ref target="1003-2-l" reftype="term">manufactured home</ref> that is or will be located in a <ref target="1003-2-l" reftype="term">manufactured home</ref> community, the <ref target="1003-2-g" reftype="term">financial institution</ref> should report one individual <ref target="1003-2-f" reftype="term">dwelling</ref> unit.</content></interpParagraph>
               <interpParagraph label="1003-4-a-31-Interp-3" target="1003-4-a-31-3" marker="3.">
                 <content>Condominium and cooperative projects. For a <ref target="1003-2-e" reftype="term">covered loan</ref> secured by a condominium or cooperative property, the <ref target="1003-2-g" reftype="term">financial institution</ref> reports the total number of individual <ref target="1003-2-f" reftype="term">dwelling</ref> units securing the <ref target="1003-2-e" reftype="term">covered loan</ref> or proposed to secure the <ref target="1003-2-e" reftype="term">covered loan</ref> in the case of an application. For example:</content>
                 <interpParagraph label="1003-4-a-31-Interp-3-i" target="1003-4-a-31-3-i" marker="i.">
@@ -2697,10 +2590,7 @@
               <title>Paragraph 4(a)(34)</title>
               <content/>
               <interpParagraph label="1003-4-a-34-Interp-1" target="1003-4-a-34-1" marker="1.">
-                <content>NMLSR ID. Section 1003.4(a)(34) requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to report the Nationwide Mortgage Licensing System and Registry unique identifier (NMLSR ID) for the mortgage loan originator, as defined in Regulation G, <ref target="CFR:12-1007-102" reftype="external">12 CFR 1007.102</ref>, or Regulation H, <ref target="CFR:12-1008-23" reftype="external">12 CFR 1008.23</ref>, as applicable. The NMLSR ID is a unique number or other identifier generally assigned to individuals registered or licensed through NMLSR to provide loan originating services. For more information, see the Secure and Fair Enforcement for Mortgage Licensing <ref target="1003-2-a" reftype="term">Act</ref> of 2008, title V of the Housing and Economic Recovery <ref target="1003-2-a" reftype="term">Act</ref> of 2008 (S.</content>
-                <interpParagraph label="1003-4-a-34-Interp-1-A" target="1003-4-a-34-1-A" marker="A.">
-                  <content>F.E. <ref target="1003-2-a" reftype="term">Act</ref>), <ref target="USC:12-5101" reftype="external">12 U.S.C. 5101</ref> et seq., and its implementing regulations (<ref target="CFR:12-1007" reftype="external">12 CFR part 1007</ref> and <ref target="CFR:12-1008" reftype="external">12 CFR part 1008</ref>).</content>
-                </interpParagraph>
+                <content>NMLSR ID. Section 1003.4(a)(34) requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to report the Nationwide Mortgage Licensing System and Registry unique identifier (NMLSR ID) for the mortgage loan originator, as defined in Regulation G, <ref target="CFR:12-1007-102" reftype="external">12 CFR 1007.102</ref>, or Regulation H, <ref target="CFR:12-1008-23" reftype="external">12 CFR 1008.23</ref>, as applicable. The NMLSR ID is a unique number or other identifier generally assigned to individuals registered or licensed through NMLSR to provide loan originating services. For more information, see the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, title V of the Housing and Economic Recovery Act of 2008 (S.A.F.E. Act), <ref target="USC:12-5101" reftype="external">12 U.S.C. 5101</ref> et seq., and its implementing regulations (<ref target="CFR:12-1007" reftype="external">12 CFR part 1007</ref> and <ref target="CFR:12-1008" reftype="external">12 CFR part 1008</ref>).</content>
               </interpParagraph>
               <interpParagraph label="1003-4-a-34-Interp-2" target="1003-4-a-34-2" marker="2.">
                 <content>Mortgage loan originator without NMLSR ID. An NMLSR ID for the mortgage loan originator is not required by &#167; 1003.4(a)(34) to be reported by a <ref target="1003-2-g" reftype="term">financial institution</ref> if the mortgage loan originator is not required to obtain and has not been assigned an NMLSR ID. For example, certain individual mortgage loan originators may not be required to obtain an NMLSR ID for the particular transaction being reported by the <ref target="1003-2-g" reftype="term">financial institution</ref>, such as a commercial loan. However, some mortgage loan originators may have obtained an NMLSR ID even if they are not required to obtain one for that particular transaction. If a mortgage loan originator has been assigned an NMLSR ID, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(34) by reporting the mortgage loan originator's NMLSR ID regardless of whether the mortgage loan originator is required to obtain an NMLSR ID for the particular transaction being reported by the <ref target="1003-2-g" reftype="term">financial institution</ref>. In the event that the mortgage loan originator is not required to obtain and has not been assigned an NMLSR ID, a <ref target="1003-2-g" reftype="term">financial institution</ref> complies with &#167; 1003.4(a)(34) by reporting that the requirement is not applicable.</content>
@@ -2827,8 +2717,7 @@
               <content>Notice&#8212;suggested text. A <ref target="1003-2-g" reftype="term">financial institution</ref> may use any text that meets the requirements of &#167; <ref target="1003-5-b-2" reftype="internal">1003.5(b)(2)</ref>. The following language is suggested but is not required:</content>
               <interpParagraph label="1003-5-b-Interp-3-HMDANotice" marker="">
               	<title>Home Mortgage Disclosure Act Notice</title>
-              	<content>The HMDA data about our residential mortgage lending are available online for review. The data show geographic distribution of loans and applications; ethnicity, race, sex, age, and income of applicants and borrowers; and information about loan approvals and denials. These data are available online at the Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda). HMDA data for many other financial institutions are also available at this Web site.</content>
-              </interpParagraph>
+              	<content>The HMDA data about our residential mortgage lending are available online for review. The data show geographic distribution of loans and applications; ethnicity, race, sex, age, and income of applicants and borrowers; and information about loan approvals and denials. These data are available online at the Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda). HMDA data for many other <ref target="1003-2-g" reftype="term">financial institutions</ref> are also available at this Web site.</content></interpParagraph>
             </interpParagraph>
             <interpParagraph label="1003-5-b-Interp-4" marker="4.">
             	<content>Combined notice. A <ref target="1003-2-g" reftype="term">financial institution</ref> may use the same notice to satisfy the requirements of both &#167; <ref target="1003-5-b-2" reftype="internal">1003.5(b)(2)</ref> and &#167; <ref target="1003-5-c" reftype="internal">1003.5(c)</ref>.</content>
@@ -2842,10 +2731,9 @@
             </interpParagraph>
             <interpParagraph label="1003-5-c-Interp-2" target="1003-5-c-2" marker="2.">
               <content>Notice&#8212;suggested text. A <ref target="1003-2-g" reftype="term">financial institution</ref> may use any text that meets the requirements of &#167; <ref target="1003-5-c-1" reftype="internal">1003.5(c)(1)</ref>. The following language is suggested but is not required:</content>
-              <interpParagraph label="1003-5-c-Interp-2-HMDANotice" marker="">
+              <interpParagraph label="1003-5-c-Interp-2-HMDANotice" marker="HMDANotice.">
               	<title>Home Mortgage Disclosure Act Notice</title>
-              	<content>The HMDA data about our residential mortgage lending are available online for review. The data show geographic distribution of loans and applications; ethnicity, race, sex, age, and income of applicants and borrowers; and information about loan approvals and denials. These data are available online at the Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda). HMDA data for many other financial institutions are also available at this Web site.</content>
-              </interpParagraph>
+              	<content>The HMDA data about our residential mortgage lending are available online for review. The data show geographic distribution of loans and applications; ethnicity, race, sex, age, and income of applicants and borrowers; and information about loan approvals and denials. These data are available online at the Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda). HMDA data for many other <ref target="1003-2-g" reftype="term">financial institutions</ref> are also available at this Web site.</content></interpParagraph>
             </interpParagraph>
             <interpParagraph label="1003-5-c-Interp-3" marker="3.">
       			<content>Combined notice. A <ref target="1003-2-g" reftype="term">financial institution</ref> may use the same notice to satisfy the requirements of both &#167; <ref target="1003-5-b-2" reftype="internal">1003.5(b)(2)</ref> and &#167; <ref target="1003-5-c" reftype="internal">1003.5(c)</ref>.</content>
@@ -2856,10 +2744,9 @@
             <content/>
             <interpParagraph label="1003-5-e-Interp-1" target="1003-5-e-1" marker="1.">
               <content>Posted notice&#8212;suggested text. A <ref target="1003-2-g" reftype="term">financial institution</ref> may post any text that meets the requirements of &#167; 1003.5(e). The Bureau or other appropriate Federal agency for a <ref target="1003-2-g" reftype="term">financial institution</ref> may provide a notice that the institution can post to inform the public of the availability of its HMDA data, or an institution may create its own notice. The following language is suggested but is not required:</content>
-              <interpParagraph label="1003-5-e-Interp-1-HMDANotice" marker="">
+              <interpParagraph label="1003-5-e-Interp-1-HMDANotice" marker="HMDANotice.">
               	<title>Home Mortgage Disclosure Act Notice</title>
-              	<content>The HMDA data about our residential mortgage lending are available online for review. The data show geographic distribution of loans and applications; ethnicity, race, sex, age, and income of applicants and borrowers; and information about loan approvals and denials. HMDA data for many other financial institutions are also available online. For more information, visit the Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda).</content>
-              </interpParagraph>
+              	<content>The HMDA data about our residential mortgage lending are available online for review. The data show geographic distribution of loans and applications; ethnicity, race, sex, age, and income of applicants and borrowers; and information about loan approvals and denials. HMDA data for many other <ref target="1003-2-g" reftype="term">financial institutions</ref> are also available online. For more information, visit the Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda).</content></interpParagraph>
             </interpParagraph>
           </interpParagraph>
         </interpSection>
@@ -2869,8 +2756,7 @@
             <title>6(b) Bona Fide Errors</title>
             <content/>
             <interpParagraph label="1003-6-b-Interp-1" target="1003-6-b-1" marker="1.">
-              <content>Information from third parties. Section 1003.6(b) provides that an error in compiling or recording data for a covered loan or application is not a violation of the Act or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such an error. A financial institution that obtains the required data, such as property-location information, from third parties is responsible for ensuring that the information reported pursuant to &#167; 1003.5 is correct.</content>
-            </interpParagraph>
+              <content>Information from third parties. Section 1003.6(b) provides that an error in compiling or recording data for a <ref target="1003-2-e" reftype="term">covered loan</ref> or application is not a violation of the Act or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such an error. A <ref target="1003-2-g" reftype="term">financial institution</ref> that obtains the required data, such as property-location information, from third parties is responsible for ensuring that the information reported pursuant to &#167; 1003.5 is correct.</content></interpParagraph>
           </interpParagraph>
         </interpSection>
       </interpretations>
