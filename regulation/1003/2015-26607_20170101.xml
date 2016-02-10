@@ -274,7 +274,7 @@
                 <content>The type of action taken, and the date.</content>
               </paragraph>
               <paragraph label="1003-4-a-9" marker="(9)">
-                <content>The location of the property to which the loan or application relates, by <ref target="1003-2-p1-Metropolitan-1">MSA</ref> or by <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>, by state, by county, and by census tract, if the institution has a home or <ref target="1003-2-p1-BranchOffice" reftype="term">branch office</ref> in that <ref target="1003-2-p1-Metropolitan-1">MSA</ref> or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>.</content></paragraph>
+                <content>The location of the property to which the loan or application relates, by <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> or by <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>, by state, by county, and by census tract, if the institution has a home or <ref target="1003-2-p1-BranchOffice" reftype="term">branch office</ref> in that <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>.</content></paragraph>
               <paragraph label="1003-4-a-10" marker="(10)">
                 <content>The ethnicity, race, and sex of the applicant or borrower, and the gross annual income relied on in processing the application.</content>
               </paragraph>
