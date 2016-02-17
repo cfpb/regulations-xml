@@ -216,7 +216,7 @@
               <content><def term="manufactured home">Manufactured home</def> means any residential structure as defined under regulations of the Department of Housing and Urban Development establishing manufactured home construction and safety standards (24 CFR 3280.2).</content></paragraph>
               
               <paragraph label="1003-2-Metropolitan" marker="">
-            	<content>Metropolitan Statistical Area or MSA and Metropolitan Division or MD;</content>
+            	<content>Metropolitan Statistical Area or MSA and Metropolitan Division or MD-</content>
             	<paragraph label="1003-2-Metropolitan-1" marker="(1)">
             	<content><def term="metropolitan statistical area">Metropolitan statistical area</def> or <def term="MSA">MSA</def> means a metropolitan statistical area as defined by the U.S. Office of Management and Budget.</content></paragraph>
             	<paragraph label="1003-2-Metropolitan-2" marker="(2)">
@@ -919,22 +919,23 @@
         <title>Supplement I to Part 1003&#8212;Staff Commentary</title>
         <interpSection label="1003-Interp-h1">
           <title>Introduction</title>
-          <interpParagraph label="1003-Interp-h1-1" target="1003-h1-1">
-            <content>Status. The commentary in this supplement is the vehicle by which the Bureau of Consumer Financial Protection issues formal staff interpretations of Regulation C (<ref target="CFR:12-1003" reftype="external">12 CFR part 1003</ref>).</content>
+          <interpParagraph label="1003-h1-Interp-1">
+	    <title>Status</title>
+            <content>The commentary in this supplement is the vehicle by which the Bureau of Consumer Financial Protection issues formal staff interpretations of Regulation C (<ref target="CFR:12-1003" reftype="external">12 CFR part 1003</ref>).</content>
           </interpParagraph>
         </interpSection>
         <interpSection label="1003-1-Interp" sectionNum="1">
           <title>Section 1003.1&#8212;Authority, Purpose, and Scope</title>
           <interpParagraph label="1003-1-c-Interp" target="1003-1-c">
-          	<title>1(c) Scope</title>
-          	<content/>
-          	<interpParagraph label="1003-1-c-Interp-1" marker="1.">
-          	<title>General.</title>
-            <content>The comments in this section address issues affecting coverage of institutions and exemptions from coverage.</content>
-          	</interpParagraph>
-	        <interpParagraph label="1003-1-c-Interp-2" marker="2.">
-	        	<title>The broker rule and the meaning of &#8220;broker&#8221; and &#8220;investor.&#8221;</title>
-	            <content>For the purposes of the guidance given in this commentary, an institution that takes and processes a loan <ref target="1003-2-Application" reftype="term">application</ref> and arranges for another institution to acquire the loan at or after closing is acting as a &#8220;broker,&#8221; and an institution that acquires a loan from a broker at or after closing is acting as an &#8220;investor.&#8221; (The terms used in this commentary may have different meanings in certain parts of the mortgage lending industry, and other terms may be used in place of these terms, for example in the Federal Housing Administration mortgage insurance programs.) Depending on the facts, a broker may or may not make a credit decision on an <ref target="1003-2-Application" reftype="term">application</ref> (and thus it may or may not have reporting responsibilities). If the broker makes a credit decision, it reports that decision; if it does not make a credit decision, it does not report. If an investor reviews an <ref target="1003-2-Application" reftype="term">application</ref> and makes a credit decision prior to closing, the investor reports that decision. If the investor does not review the <ref target="1003-2-Application" reftype="term">application</ref> prior to closing, it reports only the loans that it purchases; it does not report the loans it does not purchase. An institution that makes a credit decision on an <ref target="1003-2-Application" reftype="term">application</ref> prior to closing reports that decision regardless of whose name the loan closes in.</content></interpParagraph>
+            <title>1(c) Scope</title>
+            <content/>
+            <interpParagraph label="1003-1-c-Interp-1" marker="1.">
+              <title>General.</title>
+              <content>The comments in this section address issues affecting coverage of institutions and exemptions from coverage.</content>
+            </interpParagraph>
+	    <interpParagraph label="1003-1-c-Interp-2" marker="2.">
+	      <title>The broker rule and the meaning of &#8220;broker&#8221; and &#8220;investor.&#8221;</title>
+	    <content>For the purposes of the guidance given in this commentary, an institution that takes and processes a loan <ref target="1003-2-Application" reftype="term">application</ref> and arranges for another institution to acquire the loan at or after closing is acting as a &#8220;broker,&#8221; and an institution that acquires a loan from a broker at or after closing is acting as an &#8220;investor.&#8221; (The terms used in this commentary may have different meanings in certain parts of the mortgage lending industry, and other terms may be used in place of these terms, for example in the Federal Housing Administration mortgage insurance programs.) Depending on the facts, a broker may or may not make a credit decision on an <ref target="1003-2-Application" reftype="term">application</ref> (and thus it may or may not have reporting responsibilities). If the broker makes a credit decision, it reports that decision; if it does not make a credit decision, it does not report. If an investor reviews an <ref target="1003-2-Application" reftype="term">application</ref> and makes a credit decision prior to closing, the investor reports that decision. If the investor does not review the <ref target="1003-2-Application" reftype="term">application</ref> prior to closing, it reports only the loans that it purchases; it does not report the loans it does not purchase. An institution that makes a credit decision on an <ref target="1003-2-Application" reftype="term">application</ref> prior to closing reports that decision regardless of whose name the loan closes in.</content></interpParagraph>
            <interpParagraph label="1003-1-Interp-3" marker="3.">
            	<title>Illustrations of the broker rule.</title>
             <content>Assume that, prior to closing, four investors receive the same <ref target="1003-2-Application" reftype="term">application</ref> from a broker; two deny it, one approves it, and one approves it and acquires the loan. In these circumstances, the first two report denials, the third reports the transaction as approved but not accepted, and the fourth reports an origination (whether the loan closes in the name of the broker or the investor). Alternatively, assume that the broker denies a loan before sending it to an investor; in this situation, the broker reports a denial.</content></interpParagraph>
@@ -994,32 +995,35 @@
           </interpParagraph>
           
           <interpParagraph label="1003-2-Dwelling-Interp" target="1003-2-Dwelling">
-          	<title>Dwelling.</title>
-          	<content/>
-          	<interpParagraph label="1003-2-Dwelling-Interp-1" marker="1.">
-          		<title>Coverage.</title>
-            	<content>The definition of &#8220;<ref target="1003-2-Dwelling" reftype="term">dwelling</ref>&#8221; is not limited to the principal or other residence of the applicant or borrower, and thus includes vacation or second homes and rental properties. A <ref target="1003-2-Dwelling" reftype="term">dwelling</ref> also includes a multifamily structure such as an apartment building.</content></interpParagraph>
-          	<interpParagraph label="1003-2-Dwelling-Interp-2" marker="2.">
-          		<title>Exclusions.</title>
-            	<content>Recreational vehicles such as boats or campers are not <ref target="1003-2-Dwelling" reftype="term">dwellings</ref> for purposes of HMDA. Also excluded are transitory residences such as hotels, hospitals, and college dormitories, whose occupants have principal residences elsewhere.</content></interpParagraph>
+            <title>Dwelling.</title>
+            <content/>
+            <interpParagraph label="1003-2-Dwelling-Interp-1" marker="1.">
+              <title>Coverage.</title>
+              <content>The definition of &#8220;<ref target="1003-2-Dwelling" reftype="term">dwelling</ref>&#8221; is not limited to the principal or other residence of the applicant or borrower, and thus includes vacation or second homes and rental properties. A <ref target="1003-2-Dwelling" reftype="term">dwelling</ref> also includes a multifamily structure such as an apartment building.</content>
+	    </interpParagraph>
+            <interpParagraph label="1003-2-Dwelling-Interp-2" marker="2.">
+              <title>Exclusions.</title>
+              <content>Recreational vehicles such as boats or campers are not <ref target="1003-2-Dwelling" reftype="term">dwellings</ref> for purposes of HMDA. Also excluded are transitory residences such as hotels, hospitals, and college dormitories, whose occupants have principal residences elsewhere.</content>
+	    </interpParagraph>
           </interpParagraph>
           
           <interpParagraph label="1003-2-FinancialInstitution-Interp" target="1003-2-FinancialInstitution">
-          	<title>Financial institution.</title>
-          	<content/>
-          	<interpParagraph label="1003-2-FinancialInstitution-Interp-1" marker="1.">
-          		<title>General.</title>
-            	<content>An institution that met the test for coverage under HMDA in year 1, and then ceases to meet the test (for example, because its assets fall below the threshold on December 31 of year 2) stops collecting HMDA data beginning with year 3. Similarly, an institution that did not meet the coverage test for a given year, and then meets the test in the succeeding year, begins collecting HMDA data in the calendar year following the year in which it meets the test for coverage. For example, a for-profit mortgage lending institution (other than a bank, savings association, or credit union) that, in year 1, falls below the thresholds specified in the definition of <ref target="1003-2-FinancialInstitution" reftype="term">Financial institution</ref> in &#167; <ref target="1003-2" reftype="internal">1003.2</ref>, but meets one of them in year 2, need not collect data in year 2, but begins collecting data in year 3.</content></interpParagraph>
-	        <interpParagraph label="1003-2-FinancialInstitution-Interp-2" marker="2.">
-	        	<title>Adjustment of exemption threshold for depository institutions.</title>
-	        	<content>For data collection in 2011, the asset-size exemption threshold is $40 million. Banks, savings associations, and credit, unions with assets at or below $40 million as of December 31, 2010, are exempt from collecting data for 2011.</content>
-	        </interpParagraph>
+            <title>Financial institution.</title>
+            <content/>
+            <interpParagraph label="1003-2-FinancialInstitution-Interp-1" marker="1.">
+              <title>General.</title>
+              <content>An institution that met the test for coverage under HMDA in year 1, and then ceases to meet the test (for example, because its assets fall below the threshold on December 31 of year 2) stops collecting HMDA data beginning with year 3. Similarly, an institution that did not meet the coverage test for a given year, and then meets the test in the succeeding year, begins collecting HMDA data in the calendar year following the year in which it meets the test for coverage. For example, a for-profit mortgage lending institution (other than a bank, savings association, or credit union) that, in year 1, falls below the thresholds specified in the definition of <ref target="1003-2-FinancialInstitution" reftype="term">Financial institution</ref> in &#167; <ref target="1003-2" reftype="internal">1003.2</ref>, but meets one of them in year 2, need not collect data in year 2, but begins collecting data in year 3.</content>
+	    </interpParagraph>
+	    <interpParagraph label="1003-2-FinancialInstitution-Interp-2" marker="2.">
+	      <title>Adjustment of exemption threshold for depository institutions.</title>
+	      <content>For data collection in 2011, the asset-size exemption threshold is $40 million. Banks, savings associations, and credit, unions with assets at or below $40 million as of December 31, 2010, are exempt from collecting data for 2011.</content>
+	    </interpParagraph>
 	        
-          	<interpParagraph label="1003-2-FinancialInstitution-Interp-3" marker="3.">
-          		<title>Coverage after a merger.</title>
-            	<content>Several scenarios of data-collection responsibilities for the calendar year of a merger are described below. Under all the scenarios, if the merger results in a covered institution, that institution must begin data collection January 1 of the following calendar year.</content>
-            	<interpParagraph label="1003-2-FinancialInstitution-Interp-3-i" marker="i.">
-            		<content>Two institutions are not covered by Regulation C because of asset size. The institutions merge. No data collection is required for the year of the merger (even if the merger results in a covered institution).</content>
+            <interpParagraph label="1003-2-FinancialInstitution-Interp-3" marker="3.">
+              <title>Coverage after a merger.</title>
+              <content>Several scenarios of data-collection responsibilities for the calendar year of a merger are described below. Under all the scenarios, if the merger results in a covered institution, that institution must begin data collection January 1 of the following calendar year.</content>
+              <interpParagraph label="1003-2-FinancialInstitution-Interp-3-i" marker="i.">
+            	<content>Two institutions are not covered by Regulation C because of asset size. The institutions merge. No data collection is required for the year of the merger (even if the merger results in a covered institution).</content>
           		</interpParagraph>
           		<interpParagraph label="1003-2-FinancialInstitution-Interp-3-ii" marker="ii.">
             		<content>A covered institution and an exempt institution merge. The covered institution is the surviving institution. For the year of the merger, data collection is required for the covered institution's transactions. Data collection is optional for transactions handled in offices of the previously exempt institution.</content>
