@@ -89,10 +89,10 @@
             <subject>&#167; 1003.1 Authority, purpose, and scope.</subject>
             <paragraph label="1003-1-a" marker="(a)">
               <title type="keyterm">Authority.</title>
-              <content>Authority. This part, known as Regulation C, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Home Mortgage Disclosure <ref target="1003-2-p1-Act" reftype="term">Act</ref> (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.,) as amended. The information-collection requirements have been approved by the U.S. Office of Management and Budget (OMB) under <ref target="USC:44-3501" reftype="external">44 U.S.C. 3501</ref> et seq. and have been assigned OMB numbers for institutions reporting data to the Office of the Comptroller of the Currency (1557-0159), the Federal Deposit Insurance Corporation (3064-0046), the Federal Reserve System (7100-0247), the Department of Housing and Urban Development (HUD) (2502-0529), the National Credit Union Administration (3133-0166), and the Bureau of Consumer Financial Protection (3170-0008).</content></paragraph>
+              <content>This part, known as Regulation C, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Home Mortgage Disclosure <ref target="1003-2-p1-Act" reftype="term">Act</ref> (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.,) as amended. The information-collection requirements have been approved by the U.S. Office of Management and Budget (OMB) under <ref target="USC:44-3501" reftype="external">44 U.S.C. 3501</ref> et seq. and have been assigned OMB numbers for institutions reporting data to the Office of the Comptroller of the Currency (1557-0159), the Federal Deposit Insurance Corporation (3064-0046), the Federal Reserve System (7100-0247), the Department of Housing and Urban Development (HUD) (2502-0529), the National Credit Union Administration (3133-0166), and the Bureau of Consumer Financial Protection (3170-0008).</content></paragraph>
             <paragraph label="1003-1-b" marker="(b)">
               <title type="keyterm">Purpose.</title>
-              <content>Purpose.</content>
+              <content></content>
               <paragraph label="1003-1-b-1" marker="(1)">
                 <content>This part implements the Home Mortgage Disclosure <ref target="1003-2-p1-Act" reftype="term">Act</ref>, which is intended to provide the public with loan data that can be used:</content><paragraph label="1003-1-b-1-i" marker="(i)">
                   <content>To help determine whether <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institutions</ref> are serving the housing needs of their communities;</content></paragraph>
@@ -108,7 +108,7 @@
             </paragraph>
             <paragraph label="1003-1-c" marker="(c)">
               <title type="keyterm">Scope.</title>
-              <content>Scope. This part applies to certain <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institutions</ref>, including banks, savings associations, credit unions, and other mortgage lending institutions, as defined in &#167; <ref target="1003-2" reftype="internal">1003.2</ref>. The regulation requires an institution to report data to the appropriate Federal agency about <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loans</ref>, <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loans</ref>, and <ref target="1003-2-p1-Refinancing" reftype="term">refinancings</ref> that it originates or purchases, or for which it receives applications; and to disclose certain data to the public.</content></paragraph>
+              <content>This part applies to certain <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institutions</ref>, including banks, savings associations, credit unions, and other mortgage lending institutions, as defined in &#167; <ref target="1003-2" reftype="internal">1003.2</ref>. The regulation requires an institution to report data to the appropriate Federal agency about <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loans</ref>, <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loans</ref>, and <ref target="1003-2-p1-Refinancing" reftype="term">refinancings</ref> that it originates or purchases, or for which it receives applications; and to disclose certain data to the public.</content></paragraph>
           </section>
           <section label="1003-2" sectionNum="2">
             <subject>&#167; 1003.2 Definitions.</subject>
@@ -120,10 +120,10 @@
             		<content><def term="application">Application</def></content>
             		<paragraph label="1003-2-p1-Application-1" marker="(1)">
          				<title type="keyterm">In general.</title>
-         				<content>In general. Application means an oral or written request for a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref>, a <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loan</ref>, or a <ref target="1003-2-p1-Refinancing" reftype="term">refinancing</ref> that is made in accordance with procedures used by a <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> for the type of credit requested.</content></paragraph>
+         				<content>Application means an oral or written request for a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref>, a <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loan</ref>, or a <ref target="1003-2-p1-Refinancing" reftype="term">refinancing</ref> that is made in accordance with procedures used by a <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> for the type of credit requested.</content></paragraph>
          			<paragraph label="1003-2-p1-Application-2" marker="(2)">
               			<title type="keyterm">Preapproval programs.</title>
-              			<content>Preapproval programs. A request for preapproval for a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref> is an application under this section if the request is reviewed under a program in which the <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref>, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref> up to a specified amount. The written commitment may not be subject to conditions other than:</content><paragraph label="1003-2-p1-Application-2-i" marker="(i)">
+              			<content>A request for preapproval for a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref> is an application under this section if the request is reviewed under a program in which the <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref>, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref> up to a specified amount. The written commitment may not be subject to conditions other than:</content><paragraph label="1003-2-p1-Application-2-i" marker="(i)">
               				<content>Conditions that require the identification of a suitable property;</content>
             			</paragraph>
             			<paragraph label="1003-2-p1-Application-2-ii" marker="(ii)">
@@ -231,7 +231,7 @@
             <subject>&#167; 1003.3 Exempt institutions.</subject>
             <paragraph label="1003-3-a" marker="(a)">
               <title type="keyterm">Exemption based on state law.</title>
-              <content>Exemption based on state law.</content>
+              <content></content>
               <paragraph label="1003-3-a-1" marker="(1)">
                 <content>A state-chartered or state-licensed <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> is exempt from the requirements of this part if the Bureau determines that the institution is subject to a state disclosure law that contains requirements substantially similar to those imposed by this part and that contains adequate provisions for enforcement.</content></paragraph>
               <paragraph label="1003-3-a-2" marker="(2)">
@@ -242,14 +242,14 @@
             </paragraph>
             <paragraph label="1003-3-b" marker="(b)">
               <title type="keyterm">Loss of exemption.</title>
-              <content>Loss of exemption. An institution losing a state-law exemption under paragraph <ref target="1003-3-a" reftype="internal">(a)</ref> of this section shall comply with this part beginning with the calendar year following the year for which it last reported loan data under the state disclosure law.</content>
+              <content>An institution losing a state-law exemption under paragraph <ref target="1003-3-a" reftype="internal">(a)</ref> of this section shall comply with this part beginning with the calendar year following the year for which it last reported loan data under the state disclosure law.</content>
             </paragraph>
           </section>
           <section label="1003-4" sectionNum="4">
             <subject>&#167; 1003.4 Compilation of loan data.</subject>
             <paragraph label="1003-4-a" marker="(a)">
               <title type="keyterm">Data format and itemization.</title>
-              <content>Data format and itemization. A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall collect data regarding applications for, and originations and purchases of, <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loans</ref>, <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loans</ref>, and <ref target="1003-2-p1-Refinancing" reftype="term">refinancings</ref> for each calendar year. An institution is required to collect data regarding requests under a preapproval program (as defined in &#167; <ref target="1003-2" reftype="internal">1003.2</ref>) only if the preapproval request is denied or results in the origination of a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref>. All reportable transactions shall be recorded, within thirty calendar days after the end of the calendar quarter in which final action is taken (such as origination or purchase of a loan, or denial or withdrawal of an application), on a register in the format prescribed in appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The data recorded shall include the following items:</content><paragraph label="1003-4-a-1" marker="(1)">
+              <content>A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall collect data regarding applications for, and originations and purchases of, <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loans</ref>, <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loans</ref>, and <ref target="1003-2-p1-Refinancing" reftype="term">refinancings</ref> for each calendar year. An institution is required to collect data regarding requests under a preapproval program (as defined in &#167; <ref target="1003-2" reftype="internal">1003.2</ref>) only if the preapproval request is denied or results in the origination of a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref>. All reportable transactions shall be recorded, within thirty calendar days after the end of the calendar quarter in which final action is taken (such as origination or purchase of a loan, or denial or withdrawal of an application), on a register in the format prescribed in appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The data recorded shall include the following items:</content><paragraph label="1003-4-a-1" marker="(1)">
                 <content>An identifying number for the loan or loan application, and the date the application was received.</content>
               </paragraph>
               <paragraph label="1003-4-a-2" marker="(2)">
@@ -296,7 +296,7 @@
             </paragraph>
             <paragraph label="1003-4-b" marker="(b)">
               <title type="keyterm">Collection of data on ethnicity, race, sex, and income.</title>
-              <content>Collection of data on ethnicity, race, sex, and income.</content>
+              <content></content>
               <paragraph label="1003-4-b-1" marker="(1)">
                 <content>A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall collect data about the ethnicity, race, and sex of the applicant or borrower as prescribed in appendix <ref target="1003-B" reftype="internal">B</ref> of this part.</content></paragraph>
               <paragraph label="1003-4-b-2" marker="(2)">
@@ -304,7 +304,7 @@
             </paragraph>
             <paragraph label="1003-4-c" marker="(c)">
               <title type="keyterm">Optional data.</title>
-              <content>Optional data. A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> may report:</content><paragraph label="1003-4-c-1" marker="(1)">
+              <content>A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> may report:</content><paragraph label="1003-4-c-1" marker="(1)">
                 <content>The reasons it denied a loan application;</content>
               </paragraph>
               <paragraph label="1003-4-c-2" marker="(2)">
@@ -316,7 +316,7 @@
             </paragraph>
             <paragraph label="1003-4-d" marker="(d)">
               <title type="keyterm">Excluded data.</title>
-              <content>Excluded data. A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall not report:</content><paragraph label="1003-4-d-1" marker="(1)">
+              <content>A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall not report:</content><paragraph label="1003-4-d-1" marker="(1)">
                 <content>Loans originated or purchased by the <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> acting in a fiduciary capacity (such as trustee);</content></paragraph>
               <paragraph label="1003-4-d-2" marker="(2)">
                 <content>Loans on unimproved land;</content>
@@ -335,13 +335,13 @@
             </paragraph>
             <paragraph label="1003-4-e" marker="(e)">
               <title type="keyterm">Data reporting for banks and savings associations that are required to report data on small business, small farm, and community development lending under CRA.</title>
-              <content>Data reporting for banks and savings associations that are required to report data on small business, small farm, and community development lending under CRA. Banks and savings associations that are required to report data on small business, small farm, and community development lending under regulations that implement the Community Reinvestment Act of 1977 (<ref target="USC:12-2901" reftype="external">12 U.S.C. 2901</ref> et seq.) shall also collect the location of property located outside <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref>s and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> in which the institution has a home or <ref target="1003-2-p1-BranchOffice" reftype="term">branch office</ref>, or outside any <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref>.</content></paragraph>
+              <content>Banks and savings associations that are required to report data on small business, small farm, and community development lending under regulations that implement the Community Reinvestment Act of 1977 (<ref target="USC:12-2901" reftype="external">12 U.S.C. 2901</ref> et seq.) shall also collect the location of property located outside <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref>s and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> in which the institution has a home or <ref target="1003-2-p1-BranchOffice" reftype="term">branch office</ref>, or outside any <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref>.</content></paragraph>
           </section>
           <section label="1003-5" sectionNum="5">
             <subject>&#167; 1003.5 Disclosure and reporting.</subject>
             <paragraph label="1003-5-a" marker="(a)">
               <title type="keyterm">Reporting to agency.</title>
-              <content>Reporting to agency.</content>
+              <content></content>
               <paragraph label="1003-5-a-1" marker="(1)">
                 <content>By March 1 following the calendar year for which the loan data are compiled, a <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall send its complete loan/application register to the agency office specified in appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The institution shall retain a copy for its records for at least three years.</content></paragraph>
               <paragraph label="1003-5-a-2" marker="(2)">
@@ -350,7 +350,7 @@
             </paragraph>
             <paragraph label="1003-5-b" marker="(b)">
               <title type="keyterm">Public disclosure of statement.</title>
-              <content>Public disclosure of statement.</content>
+              <content></content>
               <paragraph label="1003-5-b-1" marker="(1)">
                 <content>The Federal Financial Institutions Examination Council (FFIEC) will prepare a disclosure statement from the data each <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> submits.</content></paragraph>
               <paragraph label="1003-5-b-2" marker="(2)">
@@ -366,26 +366,26 @@
             </paragraph>
             <paragraph label="1003-5-c" marker="(c)">
               <title type="keyterm">Public disclosure of modified loan/application register.</title>
-              <content>Public disclosure of modified loan/application register. A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall make its loan/application register available to the public after removing the following information regarding each entry: The application or loan number, the date that the application was received, and the date action was taken. An institution shall make its modified register available following the calendar year for which the data are compiled, by March 31 for a request received on or before March 1, and within thirty calendar days for a request received after March 1. The modified register need only contain data relating to the <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref> for which the request is made.</content></paragraph>
+              <content>A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall make its loan/application register available to the public after removing the following information regarding each entry: The application or loan number, the date that the application was received, and the date action was taken. An institution shall make its modified register available following the calendar year for which the data are compiled, by March 31 for a request received on or before March 1, and within thirty calendar days for a request received after March 1. The modified register need only contain data relating to the <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref> for which the request is made.</content></paragraph>
             <paragraph label="1003-5-d" marker="(d)">
               <title type="keyterm">Availability of data.</title>
-              <content>Availability of data. A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall make its modified register available to the public for a period of three years and its disclosure statement available for a period of five years. An institution shall make the data available for inspection and copying during the hours the office is normally open to the public for business. It may impose a reasonable fee for any cost incurred in providing or reproducing the data.</content></paragraph>
+              <content>A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall make its modified register available to the public for a period of three years and its disclosure statement available for a period of five years. An institution shall make the data available for inspection and copying during the hours the office is normally open to the public for business. It may impose a reasonable fee for any cost incurred in providing or reproducing the data.</content></paragraph>
             <paragraph label="1003-5-e" marker="(e)">
               <title type="keyterm">Notice of availability.</title>
-              <content>Notice of availability. A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall post a general notice about the availability of its HMDA data in the lobby of its home office and of each <ref target="1003-2-p1-BranchOffice" reftype="term">branch office</ref> located in an <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>. An institution shall provide promptly upon request the location of the institution's offices where the statement is available for inspection and copying, or it may include the location in the lobby notice.</content></paragraph>
+              <content>A <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> shall post a general notice about the availability of its HMDA data in the lobby of its home office and of each <ref target="1003-2-p1-BranchOffice" reftype="term">branch office</ref> located in an <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>. An institution shall provide promptly upon request the location of the institution's offices where the statement is available for inspection and copying, or it may include the location in the lobby notice.</content></paragraph>
             <paragraph label="1003-5-f" marker="(f)">
               <title type="keyterm">Loan aggregation and central data depositories.</title>
-              <content>Loan aggregation and central data depositories. Using the loan data submitted by <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institutions</ref>, the FFIEC will produce reports for individual institutions and reports of aggregate data for each <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>, showing lending patterns by property location, age of housing stock, and income level, sex, ethnicity, and race. These reports will be available to the public at central data depositories located in each <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>. A listing of central data depositories can be obtained from the Federal Financial Institutions Examination Council, Washington, DC 20006.</content></paragraph>
+              <content>Using the loan data submitted by <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institutions</ref>, the FFIEC will produce reports for individual institutions and reports of aggregate data for each <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>, showing lending patterns by property location, age of housing stock, and income level, sex, ethnicity, and race. These reports will be available to the public at central data depositories located in each <ref target="1003-2-p1-Metropolitan-1" reftype="term">MSA</ref> and <ref target="1003-2-p1-Metropolitan-2" reftype="term">Metropolitan Division</ref>. A listing of central data depositories can be obtained from the Federal Financial Institutions Examination Council, Washington, DC 20006.</content></paragraph>
           </section>
           <section label="1003-6" sectionNum="6">
             <subject>&#167; 1003.6 Enforcement.</subject>
             <paragraph label="1003-6-a" marker="(a)">
               <title type="keyterm">Administrative enforcement.</title>
-              <content>Administrative enforcement. A violation of <ref target="USC:12-2601" reftype="external">the Act</ref> or this part is subject to administrative sanctions as provided in section 305 of <ref target="USC:12-2601" reftype="external">the Act</ref>, including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of <ref target="USC:12-2601" reftype="external">the Act</ref> (<ref target="USC:12-2804" reftype="external">12 U.S.C. 2804</ref>).</content>
+              <content>A violation of <ref target="USC:12-2601" reftype="external">the Act</ref> or this part is subject to administrative sanctions as provided in section 305 of <ref target="USC:12-2601" reftype="external">the Act</ref>, including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of <ref target="USC:12-2601" reftype="external">the Act</ref> (<ref target="USC:12-2804" reftype="external">12 U.S.C. 2804</ref>).</content>
             </paragraph>
             <paragraph label="1003-6-b" marker="(b)">
               <title type="keyterm">Bona fide errors.</title>
-              <content>Bona fide errors.</content>
+              <content></content>
               <paragraph label="1003-6-b-1" marker="(1)">
                 <content>An error in compiling or recording loan data is not a violation of the <ref target="1003-2-p1-Act" reftype="term">act</ref> or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such errors.</content></paragraph>
               <paragraph label="1003-6-b-2" marker="(2)">
