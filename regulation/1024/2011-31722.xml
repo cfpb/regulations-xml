@@ -50,7 +50,7 @@
       </tocSecEntry>
       <tocSecEntry target="1024-8">
         <sectionNum>8</sectionNum>
-        <sectionSubject>§ 1024.8 Use of HUD-1 or HUD-1A settlement statements.</sectionSubject>
+        <sectionSubject>§ 1024.8 Use of HUD-1 or HUD-1a settlement statements.</sectionSubject>
       </tocSecEntry>
       <tocSecEntry target="1024-9">
         <sectionNum>9</sectionNum>
@@ -58,7 +58,7 @@
       </tocSecEntry>
       <tocSecEntry target="1024-10">
         <sectionNum>10</sectionNum>
-        <sectionSubject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</sectionSubject>
+        <sectionSubject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1a settlement statement; delivery; recordkeeping.</sectionSubject>
       </tocSecEntry>
       <tocSecEntry target="1024-11">
         <sectionNum>11</sectionNum>
@@ -114,7 +114,7 @@
       </tocSecEntry>
       <tocAppEntry target="1024-A">
         <appendixLetter>A</appendixLetter>
-        <appendixSubject>Appendix A to Part 1024—Instructions for Completing HUD-1 and HUD-1A Settlement Statements; Sample HUD-1 and HUD-1A Statements</appendixSubject>
+        <appendixSubject>Appendix A to Part 1024—Instructions for Completing HUD-1 and HUD-1a Settlement Statements; Sample HUD-1 and HUD-1a Statements</appendixSubject>
       </tocAppEntry>
       <tocAppEntry target="1024-B">
         <appendixLetter>B</appendixLetter>
@@ -174,7 +174,7 @@
           </tocSecEntry>
           <tocSecEntry target="1024-8">
             <sectionNum>8</sectionNum>
-            <sectionSubject>§ 1024.8 Use of HUD-1 or HUD-1A settlement statements.</sectionSubject>
+            <sectionSubject>§ 1024.8 Use of HUD-1 or HUD-1a settlement statements.</sectionSubject>
           </tocSecEntry>
           <tocSecEntry target="1024-9">
             <sectionNum>9</sectionNum>
@@ -182,7 +182,7 @@
           </tocSecEntry>
           <tocSecEntry target="1024-10">
             <sectionNum>10</sectionNum>
-            <sectionSubject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</sectionSubject>
+            <sectionSubject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1a settlement statement; delivery; recordkeeping.</sectionSubject>
           </tocSecEntry>
           <tocSecEntry target="1024-11">
             <sectionNum>11</sectionNum>
@@ -355,7 +355,7 @@
               <paragraph label="1024-2-b-HUD" marker="">
                 <content><def term="hud" id="6a8e2399923d653e019463d003ac3946c8dacb70">HUD</def> means the Department of Housing and Urban Development.</content>
               </paragraph>
-              <paragraph label="1024-2-b-HUD-1OrHUD-1ASettlementStatement(alsoHUD-1OrHUD-1A)" marker="">
+              <paragraph label="1024-2-b-HUD-1OrHUD-1aSettlementStatement(alsoHUD-1OrHUD-1a)" marker="">
                 <content><ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> statement (also <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A) means the statement that is prescribed in this part for setting forth <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges in connection with either the purchase or the <ref target="1024-2-b-Refinancing" reftype="term">refinancing</ref> (or other subordinate lien transaction) of 1- to 4-family residential property.</content>
               </paragraph>
               <paragraph label="1024-2-b-Lender" marker="">
@@ -772,7 +772,7 @@
             </paragraph>
           </section>
           <section label="1024-8" sectionNum="8">
-            <subject>§ 1024.8 Use of HUD-1 or HUD-1A settlement statements.</subject>
+            <subject>§ 1024.8 Use of HUD-1 or HUD-1a settlement statements.</subject>
             <paragraph label="1024-8-a" marker="(a)">
               <title type="keyterm">Use by settlement agent.</title>
               <content><ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agent. The <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agent shall use the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> statement in every <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> involving a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> in which there is a borrower and a seller. For transactions in which there is a borrower and no seller, such as <ref target="1024-2-b-Refinancing" reftype="term">refinancing</ref> loans or subordinate lien loans, the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 may be utilized by using the borrower's side of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 statement. Alternatively, the form <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A may be used for these transactions. The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A may be modified as permitted under this part. Either the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A, as appropriate, shall be used for every <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref>-covered transaction, unless its use is specifically exempted. The use of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is exempted for open-end lines of credit (home-equity plans) covered by the Truth in Lending Act and <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>.</content>
@@ -858,7 +858,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1024-9-b" marker="(b)">
-              <title type="keyterm">Permissible changes—HUD-1A.</title>
+              <title type="keyterm">Permissible changes—HUD-1a.</title>
               <content><ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A. The changes and insertions on the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 permitted under paragraph <ref target="1024-9-a" reftype="internal">(a)</ref> of this section are also permitted when the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> statement is reproduced, except the changes described in paragraphs <ref target="1024-9-a-3" reftype="internal">(a)(3)</ref> and <ref target="1024-9-a-6" reftype="internal">(6)</ref> of this section.</content>
             </paragraph>
             <paragraph label="1024-9-c" marker="(c)">
@@ -867,7 +867,7 @@
             </paragraph>
           </section>
           <section label="1024-10" sectionNum="10">
-            <subject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</subject>
+            <subject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1a settlement statement; delivery; recordkeeping.</subject>
             <paragraph label="1024-10-a" marker="(a)">
               <title type="keyterm">Inspection one day prior to settlement upon request by the borrower.</title>
               <content><ref target="1024-2-b-Settlement" reftype="term">settlement</ref> upon request by the borrower. The <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agent shall permit the borrower to inspect the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> statement, completed to set forth those items that are known to the <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agent at the time of inspection, during the <ref target="1024-2-b-BusinessDay" reftype="term">business day</ref> immediately preceding <ref target="1024-2-b-Settlement" reftype="term">settlement</ref>. Items related only to the seller's transaction may be omitted from the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1.</content>
@@ -898,7 +898,7 @@
           <section label="1024-12" sectionNum="12">
             <subject>§ 1024.12 No fee.</subject>
             <paragraph label="1024-12-p1" marker="">
-              <content>No fee shall be imposed or charge made upon any other person, as a part of settlement costs or otherwise, by a lender in connection with a federally related mortgage loan made by it (or a loan for the purchase of a manufactured home), or by a servicer (as that term is defined under 12 U.S.C. 2605(i)(2)) for or on account of the preparation and distribution of the HUD-1 or HUD-1A settlement statement, escrow account statements required pursuant to section 10 of RESPA (12 U.S.C. 2609), or statements required by the Truth in Lending Act (15 U.S.C. 1601 et seq.).</content>
+              <content>No fee shall be imposed or charge made upon any other person, as a part of settlement costs or otherwise, by a lender in connection with a federally related mortgage loan made by it (or a loan for the purchase of a manufactured home), or by a servicer (as that term is defined under 12 U.S.C. 2605(i)(2)) for or on account of the preparation and distribution of the HUD-1 or HUD-1a settlement statement, escrow account statements required pursuant to section 10 of RESPA (12 U.S.C. 2609), or statements required by the Truth in Lending Act (15 U.S.C. 1601 et seq.).</content>
             </paragraph>
           </section>
           <section label="1024-13" sectionNum="13">
@@ -1394,7 +1394,7 @@
                 <content>The format and a completed example for an <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> are set out in <ref target="1024-2-b-PublicGuidanceDocuments" reftype="term">Public Guidance Documents</ref> entitled “Initial <ref target="1024-17-b-EscrowAccount" reftype="term">Escrow Account</ref> Disclosure Statement—Format” and “Initial <ref target="1024-17-b-EscrowAccount" reftype="term">Escrow Account</ref> Disclosure Statement—Example”, available in accordance with § <ref target="1024-3" reftype="internal">1024.3</ref>.</content>
               </paragraph>
               <paragraph label="1024-17-h-2" marker="(2)">
-                <title type="keyterm">Incorporation of initial escrow account statement into HUD-1 or HUD-1A settlement statement.</title>
+                <title type="keyterm">Incorporation of initial escrow account statement into HUD-1 or HUD-1a settlement statement.</title>
                 <content><ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> into <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> statement. Pursuant to § <ref target="1024-9-a-11" reftype="internal">1024.9(a)(11)</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may add the <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> to the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> statement. The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may include the <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> in the basic text or may attach the <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> as an additional page to the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> statement.</content>
               </paragraph>
               <paragraph label="1024-17-h-3" marker="(3)">
@@ -1745,7 +1745,7 @@
         </content>
       </subpart>
       <appendix appendixLetter="A" label="1024-A">
-        <appendixTitle>Appendix A to Part 1024—Instructions for Completing HUD-1 and HUD-1A Settlement Statements; Sample HUD-1 and HUD-1A Statements</appendixTitle>
+        <appendixTitle>Appendix A to Part 1024—Instructions for Completing HUD-1 and HUD-1a Settlement Statements; Sample HUD-1 and HUD-1a Statements</appendixTitle>
         <appendixSection appendixSecNum="1" label="1024-A-p1">
           <subject/>
           <paragraph label="1024-A-p1-p1" marker="">
@@ -2039,10 +2039,10 @@
           </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="6" label="1024-A-h6">
-          <subject>Instructions for Completing HUD-1A</subject>
+          <subject>Instructions for Completing HUD-1a</subject>
           <paragraph label="1024-A-h6-p92" marker="">
             <content><callout type="note"><line>Note:</line>
-<line>The HUD-1A is an optional form that may be used for refinancing and subordinate-lien federally related mortgage loans, as well as for any other one-party transaction that does not involve the transfer of title to residential real property. The HUD-1 form may also be used for such transactions, by utilizing the borrower's side of the HUD-1 and following the relevant parts of the instructions as set forth above. The use of either the HUD-1 or HUD-1A is not mandatory for open-end lines of credit (home-equity plans), as long as the provisions of Regulation Z are followed.</line></callout><ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form that may be used for <ref target="1024-2-b-Refinancing" reftype="term">refinancing</ref> and subordinate-lien <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loans</ref>, as well as for any other one-party transaction that does not involve the transfer of title to residential real property. The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 form may also be used for such transactions, by utilizing the borrower's side of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 and following the relevant parts of the instructions as set forth above. The use of either the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is not mandatory for open-end lines of credit (home-equity plans), as long as the provisions of <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref> are followed.
+<line>The HUD-1a is an optional form that may be used for refinancing and subordinate-lien federally related mortgage loans, as well as for any other one-party transaction that does not involve the transfer of title to residential real property. The HUD-1 form may also be used for such transactions, by utilizing the borrower's side of the HUD-1 and following the relevant parts of the instructions as set forth above. The use of either the HUD-1 or HUD-1a is not mandatory for open-end lines of credit (home-equity plans), as long as the provisions of Regulation Z are followed.</line></callout><ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form that may be used for <ref target="1024-2-b-Refinancing" reftype="term">refinancing</ref> and subordinate-lien <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loans</ref>, as well as for any other one-party transaction that does not involve the transfer of title to residential real property. The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 form may also be used for such transactions, by utilizing the borrower's side of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 and following the relevant parts of the instructions as set forth above. The use of either the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is not mandatory for open-end lines of credit (home-equity plans), as long as the provisions of <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref> are followed.
 ```</content>
           </paragraph>
         </appendixSection>
