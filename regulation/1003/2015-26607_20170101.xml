@@ -89,7 +89,7 @@
             <subject>&#167; 1003.1 Authority, purpose, and scope.</subject>
             <paragraph label="1003-1-a" marker="(a)">
               <title type="keyterm">Authority.</title>
-              <content>This part, known as Regulation C, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Home Mortgage Disclosure <ref target="1003-2-Act" reftype="term">Act</ref> (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.,) as amended. The information-collection requirements have been approved by the U.S. Office of Management and Budget (OMB) under <ref target="USC:44-3501" reftype="external">44 U.S.C. 3501</ref> et seq. and have been assigned OMB numbers for institutions reporting data to the Office of the Comptroller of the Currency (1557-0159), the Federal Deposit Insurance Corporation (3064-0046), the Federal Reserve System (7100-0247), the Department of Housing and Urban Development (HUD) (2502-0529), the National Credit Union Administration (3133-0166), and the Bureau of Consumer Financial Protection (3170-0008).</content></paragraph>
+              <content>This part, known as Regulation C, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Home Mortgage Disclosure Act (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.), as amended. The information-collection requirements have been approved by the U.S. Office of Management and Budget (OMB) under <ref target="USC:44-3501" reftype="external">44 U.S.C. 3501</ref> et seq. and have been assigned OMB numbers for institutions reporting data to the Office of the Comptroller of the Currency (1557-0159), the Federal Deposit Insurance Corporation (3064-0046), the Federal Reserve System (7100-0247), the Department of Housing and Urban Development (HUD) (2502-0529), the National Credit Union Administration (3133-0166), and the Bureau of Consumer Financial Protection (3170-0008).</content></paragraph>
             <paragraph label="1003-1-b" marker="(b)">
               <title type="keyterm">Purpose.</title>
               <content></content>
@@ -381,7 +381,7 @@
             <subject>&#167; 1003.6 Enforcement.</subject>
             <paragraph label="1003-6-a" marker="(a)">
               <title type="keyterm">Administrative enforcement.</title>
-              <content>A violation of <ref target="1003-2-Act" reftype="term">the Act</ref> or this part is subject to administrative sanctions as provided in section 305 of <ref target="1003-2-Act" reftype="term">the Act</ref>, including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of <ref target="1003-2-Act" reftype="term">the Act</ref> (<ref target="USC:12-2804" reftype="external">12 U.S.C. 2804</ref>).</content>
+              <content>A violation of the <ref target="1003-2-Act" reftype="term">Act</ref> or this part is subject to administrative sanctions as provided in section 305 of the <ref target="1003-2-Act" reftype="term">Act</ref>, including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of the <ref target="1003-2-Act" reftype="term">Act</ref> (<ref target="USC:12-2804" reftype="external">12 U.S.C. 2804</ref>).</content>
             </paragraph>
             <paragraph label="1003-6-b" marker="(b)">
               <title type="keyterm">Bona fide errors.</title>
@@ -945,7 +945,7 @@
         <title>Supplement I to Part 1003&#8212;Staff Commentary</title>
         <interpSection label="1003-Interp-h1">
           <title>Introduction</title>
-          <interpParagraph label="1003-Interp-h1-1" target="1003-h1-1">
+          <interpParagraph label="1003-h1-Interp-1">
             <content>Status. The commentary in this supplement is the vehicle by which the Bureau of Consumer Financial Protection issues formal staff interpretations of Regulation C (<ref target="CFR:12-1003" reftype="external">12 CFR part 1003</ref>).</content>
           </interpParagraph>
         </interpSection>
@@ -1087,15 +1087,20 @@
           </interpParagraph>
           
           <interpParagraph label="1003-2-ManufacturedHome-Interp" target="1003-2-ManufacturedHome">
-          	<title>Manufactured home.</title>
-          	<content/>
-          	<interpParagraph label="1003-2-ManufacturedHome-Interp-1" marker="1.">
-          		<content>Definition of a <ref target="1003-2-ManufacturedHome" reftype="term">manufactured home</ref>. The definition in &#167; 1003.2 refers to the Federal building code for factory-built housing established by the Department of Housing and Urban Development (HUD). The HUD code requires generally that housing be essentially ready for occupancy upon leaving the factory and being transported to a building site. Modular homes that meet all of the HUD code standards are included in the definition because they are ready for occupancy upon leaving the factory. Other factory-built homes, such as panelized and pre-cut homes, generally do not meet the HUD code because they require a significant amount of construction on site before they are ready for occupancy. Loans and applications relating to <ref target="1003-2-ManufacturedHome" reftype="term">manufactured homes</ref> that do not meet the HUD code should not be identified as manufactured housing under HMDA.</content></interpParagraph>
+            <title>Manufactured home.</title>
+            <content/>
+            <interpParagraph label="1003-2-ManufacturedHome-Interp-1" marker="1.">
+              <content>Definition of a <ref target="1003-2-ManufacturedHome" reftype="term">manufactured home</ref>. The definition in &#167; 1003.2 refers to the Federal building code for factory-built housing established by the Department of Housing and Urban Development (HUD). The HUD code requires generally that housing be essentially ready for occupancy upon leaving the factory and being transported to a building site. Modular homes that meet all of the HUD code standards are included in the definition because they are ready for occupancy upon leaving the factory. Other factory-built homes, such as panelized and pre-cut homes, generally do not meet the HUD code because they require a significant amount of construction on site before they are ready for occupancy. Loans and applications relating to <ref target="1003-2-ManufacturedHome" reftype="term">manufactured homes</ref> that do not meet the HUD code should not be identified as manufactured housing under HMDA.</content>
+	    </interpParagraph>
           </interpParagraph>
 
-		  <interpParagraph label="1003-2-Metropolitan-Interp">
-		  	<title>Metropolitan Statistical Areas and Metropolitan Divisions</title>
-		  	<content>Use of terms &#8220;Metropolitan Statistical Area&#8221; and &#8220;Metropolitan Division.&#8221; The U.S. Office of Management and Budget defines Metropolitan Statistical Areas and Metropolitan Divisions to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. OMB divides every Metropolitan Statistical Area (<ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>) with a population of 2.5 million or more into Metropolitan Divisions (<ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s); <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s with populations under 2.5 million population are not so divided. 67 FR 82228 (December 27, 2000). For all purposes under Regulation C, if an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> is divided by OMB into <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s, the appropriate geographic unit to be used is the <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>; if an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> is not so divided by OMB into <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s, the appropriate geographic unit to be used is the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>.</content></interpParagraph>
+	  <interpParagraph label="1003-2-Metropolitan-Interp" target="1003-2-Metropolitan">
+	    <title>Metropolitan Statistical Areas and Metropolitan Divisions</title>
+	    <content/>
+	    <interpParagraph label="1003-2-Metropolitan-Interp-1" marker="1.">
+	      <content>Use of terms &#8220;Metropolitan Statistical Area&#8221; and &#8220;Metropolitan Division.&#8221; The U.S. Office of Management and Budget defines Metropolitan Statistical Areas and Metropolitan Divisions to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. OMB divides every Metropolitan Statistical Area (<ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>) with a population of 2.5 million or more into Metropolitan Divisions (<ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s); <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s with populations under 2.5 million population are not so divided. 67 FR 82228 (December 27, 2000). For all purposes under Regulation C, if an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> is divided by OMB into <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s, the appropriate geographic unit to be used is the <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>; if an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> is not so divided by OMB into <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s, the appropriate geographic unit to be used is the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>.</content>
+	    </interpParagraph>
+	  </interpParagraph>
         </interpSection>
         <interpSection label="1003-4-Interp" sectionNum="4">
           <title>Section 1003.4&#8212;Compilation of Loan Data</title>

@@ -19,10 +19,11 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2012/12/31/2012-31311/home-mortgage-disclosure-regulation-c-adjustment-to-asset-size-exemption-threshold</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2011-31712" rightDocumentNumber="2012-31311">
-  	<change operation="modified" label="1003-2-p1-FinancialInstitution-Interp-2">
-  		<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-2">
-	    	<content>Adjustment of exemption threshold for depository institutions. For data collection in 2013, the asset-size exemption threshold is $42 million. Banks, savings associations, and credit unions with assets at or below $42 million as of December 31, 2013, are exempt from collecting data for 2013.</content>
-		</interpParagraph>
-  	</change>
+    <change operation="modified" label="1003-2-FinancialInstitution-Interp-2">
+      <interpParagraph label="1003-2-FinancialInstitution-Interp-2" marker="2.">
+	<title>Adjustment of exemption threshold for depository institutions.</title>
+	<content>For data collection in 2013, the asset-size exemption threshold is $42 million. Banks, savings associations, and credit unions with assets at or below $42 million as of December 31, 2013, are exempt from collecting data for 2013.</content>
+      </interpParagraph>
+    </change>
   </changeset>
 </notice>
