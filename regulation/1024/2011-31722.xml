@@ -1056,27 +1056,27 @@
             <paragraph label="1024-15-c" marker="(c)">
               <title type="keyterm">Definitions.</title>
               <content>As used in this section:</content>
-              <paragraph label="1024-15-c-AffiliateRelationship" marker="">
-                <content><def term="affiliate relationship" id="fccb8f84d2d52441cb92dc8719262070d071e17e">Affiliate relationship</def> means the relationship among business entities where one entity has effective control over the other by virtue of a partnership or other agreement or is under common control with the other by a third entity or where an entity is a corporation related to another corporation as parent to subsidiary by an identity of stock ownership.</content>
-              </paragraph>
               <paragraph label="1024-15-c-def0" marker="">
                 <content><def term="associate" id="adb833ac38f3ed04b28b2dd15e3f056a47ce6992">Associate</def> is defined in section 3(8) of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (<ref target="USC:12-2602" reftype="external">12 U.S.C. 2602</ref>(8)).</content>
+              </paragraph>
+              <paragraph label="1024-15-c-AffiliateRelationship" marker="">
+                <content><def term="affiliate relationship" id="fccb8f84d2d52441cb92dc8719262070d071e17e">Affiliate relationship</def> means the relationship among business entities where one entity has effective control over the other by virtue of a partnership or other agreement or is under common control with the other by a third entity or where an entity is a corporation related to another corporation as parent to subsidiary by an identity of stock ownership.</content>
               </paragraph>
               <paragraph label="1024-15-c-BeneficialOwnership" marker="">
                 <content><def term="beneficial ownership" id="c20f6e87f243f9d881bd61b8508b9399e5907f5b">Beneficial ownership</def> means the effective ownership of an interest in a provider of <ref target="1024-2-b-SettlementService" reftype="term">settlement services</ref> or the right to use and control the ownership interest involved even though legal ownership or title may be held in another person's name.</content>
               </paragraph>
-              <paragraph label="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”" marker="">
-                <content>Control, as used in the definitions of “associate” and “<def term="affiliate relationship" id="fccb8f84d2d52441cb92dc8719262070d071e17e">affiliate relationship</def>,” means that a person:</content>
-                <paragraph label="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”-i" marker="(i)">
+              <paragraph label="1024-15-c-Control" marker="">
+                <content><def term="control">Control</def>, as used in the definitions of “associate” and “affiliate relationship,” means that a person:</content>
+                <paragraph label="1024-15-c-Control-i" marker="(i)">
                   <content>Is a general partner, officer, director, or employer of another person;</content>
                 </paragraph>
-                <paragraph label="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”-ii" marker="(ii)">
+                <paragraph label="1024-15-c-Control-ii" marker="(ii)">
                   <content>Directly or indirectly or acting in concert with others, or through one or more subsidiaries, owns, holds with power to vote, or holds proxies representing, more than 20 percent of the voting interests of another person;</content>
                 </paragraph>
-                <paragraph label="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”-iii" marker="(iii)">
+                <paragraph label="1024-15-c-Control-iii" marker="(iii)">
                   <content>Affirmatively influences in any manner the election of a majority of the directors of another person; or</content>
                 </paragraph>
-                <paragraph label="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”-iv" marker="(iv)">
+                <paragraph label="1024-15-c-Control-iv" marker="(iv)">
                   <content>Has contributed more than 20 percent of the capital of the other person.</content>
                 </paragraph>
               </paragraph>
@@ -1087,10 +1087,10 @@
                 <content>Franchise is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(h).</content>
               </paragraph>
               <paragraph label="1024-15-c-def2" marker="">
-                <content>Franchisee is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(i).</content>
+                <content>Franchisor is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(k).</content>
               </paragraph>
               <paragraph label="1024-15-c-def3" marker="">
-                <content>Franchisor is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(k).</content>
+                <content>Franchisee is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(i).</content>
               </paragraph>
               <paragraph label="1024-15-c-FTC" marker="">
                 <content><def term="ftc" id="b8349176e9e8d1e81359c7af06f20d9fb8a6edb3">FTC</def> means the Federal Trade Commission.</content>
@@ -2254,7 +2254,6 @@
           <subject/>
           <paragraph label="1024-C-p1-p1" marker="">
             <content>The following are instructions for completing the GFE required under section 5 of RESPA and 12 CFR 1024.7 of the Bureau regulations. The standardized form set forth in this Appendix is the required GFE form and must be provided exactly as specified; provided, however, preparers may replace HUD's OMB approval number listed on the form with the Bureau's OMB approval number when they reproduce the GFE form. The instructions for completion of the GFE are primarily for the benefit of the loan originator who prepares the form and need not be transmitted to the borrower(s) as an integral part of the GFE. The required standardized GFE form must be prepared completely and accurately. A separate GFE must be provided for each loan where a transaction will involve more than one mortgage loan.</content>
-          </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="2" label="1024-C-h1">
           <subject>General Instructions</subject>
