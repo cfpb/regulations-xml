@@ -622,9 +622,7 @@
             <subject>§ 1024.7 Good faith estimate.</subject>
             <paragraph label="1024-7-a" marker="(a)">
               <title type="keyterm">Lender to provide.</title>
-              <content>
-                <ref target="1024-2-b-Lender" reftype="term">Lender</ref>
-              </content>
+              <content/>
               <paragraph label="1024-7-a-1" marker="(1)">
                 <content>Except as otherwise provided in paragraphs <ref target="1024-7-a" reftype="internal">(a)</ref>, <ref target="1024-7-b" reftype="internal">(b)</ref>, or <ref target="1024-7-h" reftype="internal">(h)</ref> of this section, not later than 3 <ref target="1024-2-b-BusinessDay" reftype="term">business days</ref> after a <ref target="1024-2-b-Lender" reftype="term">lender</ref> receives an <ref target="1024-2-b-Application" reftype="term">application</ref>, or information sufficient to complete an <ref target="1024-2-b-Application" reftype="term">application</ref>, the <ref target="1024-2-b-Lender" reftype="term">lender</ref> must provide the applicant with a <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>. In the case of <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">dealer loans</ref>, the <ref target="1024-2-b-Lender" reftype="term">lender</ref> must either provide the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> or ensure that the <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> provides the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>.</content>
               </paragraph>
@@ -649,9 +647,7 @@
             </paragraph>
             <paragraph label="1024-7-b" marker="(b)">
               <title type="keyterm">Mortgage broker to provide.</title>
-              <content>
-                <ref target="1024-2-b-MortgageBroker" reftype="term">Mortgage broker</ref>
-              </content>
+              <content/>
               <paragraph label="1024-7-b-1" marker="(1)">
                 <content>Except as otherwise provided in paragraphs <ref target="1024-7-a" reftype="internal">(a)</ref>, <ref target="1024-7-b" reftype="internal">(b)</ref>, or <ref target="1024-7-h" reftype="internal">(h)</ref> of this section, either the <ref target="1024-2-b-Lender" reftype="term">lender</ref> or the <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> must provide a <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> not later than 3 <ref target="1024-2-b-BusinessDay" reftype="term">business days</ref> after a <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> receives either an <ref target="1024-2-b-Application" reftype="term">application</ref> or information sufficient to complete an <ref target="1024-2-b-Application" reftype="term">application</ref>. The <ref target="1024-2-b-Lender" reftype="term">lender</ref> is responsible for ascertaining whether the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> has been provided. If the <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> has provided a <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>, the <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an additional <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>.</content>
               </paragraph>
@@ -1232,7 +1228,7 @@
             </paragraph>
             <paragraph label="1024-17-f" marker="(f)">
               <title type="keyterm">Shortages, surpluses, and deficiencies requirements</title>
-              <content><ref target="1024-17-b-Shortage" reftype="term">Shortages</ref> —</content>
+              <content/>
               <paragraph label="1024-17-f-1" marker="(1)">
                 <title type="keyterm">Escrow account analysis.</title>
                 <content>For each <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall conduct an <ref target="1024-17-b-EscrowAccountAnalysis" reftype="term">escrow account analysis</ref> to determine whether a <ref target="1024-17-b-Surplus" reftype="term">surplus</ref>, <ref target="1024-17-b-Shortage" reftype="term">shortage</ref> or <ref target="1024-17-b-def0" reftype="term">deficiency</ref> exists.</content><paragraph label="1024-17-f-1-i" marker="(i)">
@@ -1254,9 +1250,7 @@
               </paragraph>
               <paragraph label="1024-17-f-3" marker="(3)">
                 <title type="keyterm">Shortages.</title>
-                <content>
-                  <ref target="1024-17-b-Shortage" reftype="term">Shortages</ref>
-                </content>
+                <content/>
                 <paragraph label="1024-17-f-3-i" marker="(i)">
                   <content>If an <ref target="1024-17-b-EscrowAccountAnalysis" reftype="term">escrow account analysis</ref> discloses a <ref target="1024-17-b-Shortage" reftype="term">shortage</ref> of less than one month's <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> payment, then the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has three possible courses of action:</content>
                   <paragraph label="1024-17-f-3-i-A" marker="(A)">
@@ -1405,9 +1399,7 @@
             </paragraph>
             <paragraph label="1024-17-l" marker="(l)">
               <title type="keyterm">System of recordkeeping.</title>
-              <content>
-                <ref target="1024-17-b-SystemOfRecordkeeping" reftype="term">System of recordkeeping</ref>
-              </content>
+              <content/>
               <paragraph label="1024-17-l-1" marker="(1)">
                 <content>Each <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall keep records, which may involve electronic storage, microfiche storage, or any method of computerized storage, so long as the information is easily retrievable, reflecting the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s handling of each borrower's <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>. The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s records shall include, but not be limited to, the payment of amounts into and from the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> and the <ref target="1024-17-b-Submission(ofAnEscrowAccountStatement)" reftype="term">submission</ref> of initial and <ref target="1024-17-b-AnnualEscrowAccountStatement" reftype="term">annual escrow account statements</ref> to the borrower.</content></paragraph>
               <paragraph label="1024-17-l-2" marker="(2)">
@@ -1474,9 +1466,7 @@
             </paragraph>
             <paragraph label="1024-21-b" marker="(b)">
               <title type="keyterm">Servicing Disclosure Statement; Requirements.</title>
-              <content>
-                <ref target="1024-2-b-Servicing" reftype="term">Servicing</ref>
-              </content>
+              <content/>
               <paragraph label="1024-21-b-1" marker="(1)">
                 <content>At the time an <ref target="1024-2-b-Application" reftype="term">application</ref> for a <ref target="1024-21-a-MortgageServicingLoan" reftype="term">mortgage servicing loan</ref> is submitted, or within 3 <ref target="1024-2-b-BusinessDay" reftype="term">business days</ref> after submission of the <ref target="1024-2-b-Application" reftype="term">application</ref>, the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> who anticipates using <ref target="1024-2-b-TableFunding" reftype="term">table funding</ref>, or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> who anticipates a first lien <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">dealer loan</ref> shall provide to each <ref target="1024-2-b-def3" reftype="term">person</ref> who applies for such a loan a <ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> Disclosure Statement. A format for the <ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> Disclosure Statement appears as Appendix <ref target="1024-MS1" reftype="internal">MS-1</ref> to this part. The specific language of the <ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> Disclosure Statement is not required to be used. The information set forth in “Instructions to Preparer” on the <ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> Disclosure Statement need not be included with the information given to applicants, and material in square brackets is optional or alternative language. The model format may be annotated with additional information that clarifies or enhances the model language. The <ref target="1024-2-b-Lender" reftype="term">lender</ref>, <ref target="1024-2-b-TableFunding" reftype="term">table funding</ref> <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref>, or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> should use the language that best describes the particular circumstances.</content></paragraph>
               <paragraph label="1024-21-b-2" marker="(2)">
