@@ -2345,12 +2345,6 @@
       </appendix>
       <appendix appendixLetter="D" label="1024-D">
         <appendixTitle>Appendix D to Part 1024—Affiliated Business Arrangement Disclosure Statement Format</appendixTitle>
-        <tableOfContents>
-          <tocAppEntry target="1024-D-h1">
-            <appendixLetter>h1</appendixLetter>
-            <appendixSubject>Affiliated Business Arrangement Disclosure Statement Format Notice</appendixSubject>
-          </tocAppEntry>
-        </tableOfContents>
         <appendixSection appendixSecNum="1" label="1024-D-h1">
           <subject>Affiliated Business Arrangement Disclosure Statement Format Notice</subject>
           <paragraph label="1024-D-h1-p1" marker="">
@@ -2463,40 +2457,6 @@
       </appendix>
       <appendix appendixLetter="E" label="1024-E">
         <appendixTitle>Appendix E to Part 1024—Arithmetic Steps</appendixTitle>
-        <tableOfContents>
-          <tocAppEntry target="1024-E-h1">
-            <appendixLetter>h1</appendixLetter>
-            <appendixSubject>I. Example Illustrating Aggregate Analysis</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h7">
-            <appendixLetter>h7</appendixLetter>
-            <appendixSubject>Step 1—Initial Trial Balance</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h8">
-            <appendixLetter>h8</appendixLetter>
-            <appendixSubject>Step 2—Adjusted Trial Balance</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h9">
-            <appendixLetter>h9</appendixLetter>
-            <appendixSubject>Step 3—Trial Balance With Cushion</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h10">
-            <appendixLetter>h10</appendixLetter>
-            <appendixSubject>II. Example Illustrating Single-Item Analysis</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h16">
-            <appendixLetter>h16</appendixLetter>
-            <appendixSubject>Step 1—Initial Trial Balance</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h17">
-            <appendixLetter>h17</appendixLetter>
-            <appendixSubject>Step 2—Adjusted Trial Balance</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h18">
-            <appendixLetter>h18</appendixLetter>
-            <appendixSubject>Step 3—Trial Balance With Cushion</appendixSubject>
-          </tocAppEntry>
-        </tableOfContents>
         <appendixSection appendixSecNum="1" label="1024-E-h1">
           <subject>I. Example Illustrating Aggregate Analysis</subject>
           <paragraph label="1024-E-h1-h2" marker="">
@@ -3345,12 +3305,6 @@
       </appendix>
       <appendix appendixLetter="MS2" label="1024-MS2">
         <appendixTitle>Appendix MS-2 to Part 1024—Notice of Assignment, Sale, or Transfer of Servicing Rights</appendixTitle>
-        <tableOfContents>
-          <tocAppEntry target="1024-MS2-h1">
-            <appendixLetter>h1</appendixLetter>
-            <appendixSubject>[Sample language; use business stationery or similar heading]</appendixSubject>
-          </tocAppEntry>
-        </tableOfContents>
         <appendixSection appendixSecNum="1" label="1024-MS2-h1">
           <subject>[Sample language; use business stationery or similar heading]</subject>
           <paragraph label="1024-MS2-h1-h2" marker="">
