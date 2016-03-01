@@ -1218,19 +1218,19 @@
           <subject>B-1&#8212;Model Clauses for Account Disclosures</subject>
 	  
           <paragraph label="1030-B-1-a" marker="(a)">
-	    <title type="keyterm">Rate Information</title>
-            <content>Rate Information</content>
+	    <title>Rate Information</title>
+            <content/>
             <paragraph label="1030-B-1-a-i" marker="(i)">
-	      <title type="keyterm">Fixed-Rate Accounts</title>
-              <content>Fixed-Rate Accounts</content>
+	      <title>Fixed-Rate Accounts</title>
+              <content/>
 	      <paragraph label="1030-B-1-a-p1" marker="">
 		<content>The <ref target="1030-2-o" reftype="term">interest rate</ref> on your <ref target="1030-2-a" reftype="term">account</ref> is __% with an <ref target="1030-2-c" reftype="term">annual percentage yield</ref> of __%. You will be paid this rate [for (time period)/until (date)/for at least 30 calendar days].</content>
               </paragraph>
             </paragraph>
 	    
             <paragraph label="1030-B-1-a-ii" marker="(ii)">
-	      <title type="keyterm">Variable-Rate Accounts</title>
-              <content>Variable-Rate Accounts</content>
+	      <title>Variable-Rate Accounts</title>
+              <content/>
 	      <paragraph label="1030-B-1-a-p2" marker="">
 		<content>The <ref target="1030-2-o" reftype="term">interest rate</ref> on your <ref target="1030-2-a" reftype="term">account</ref> is __% with an <ref target="1030-2-c" reftype="term">annual percentage yield</ref> of __%.</content>
 	      </paragraph>
@@ -1274,16 +1274,16 @@
 	    </paragraph>
 
 	    <paragraph label="1030-B-1-a-h4-p9-iii" marker="(iii)">
-	      <title type="keyterm">Stepped-Rate Accounts</title>
-              <content>Stepped-Rate Accounts</content>
+	      <title>Stepped-Rate Accounts</title>
+              <content/>
 	      <paragraph label="1030-B-1-a-h4-p9-p10" marker="">
                 <content>The initial <ref target="1030-2-o" reftype="term">interest rate</ref> for your <ref target="1030-2-a" reftype="term">account</ref> is __%. You will be paid this rate [for (time period)/until (date)]. After that time, the <ref target="1030-2-o" reftype="term">interest rate</ref> for your <ref target="1030-2-a" reftype="term">account</ref> will be __%, and you will be paid this rate [for (time period)/until (date)]. The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> for your <ref target="1030-2-a" reftype="term">account</ref> is __%.</content>
               </paragraph>
             </paragraph>
                 
             <paragraph label="1030-B-1-a-h4-p9-iv" marker="(iv)">
-	      <title type="keyterm">Tiered-Rate Accounts</title>
-              <content>Tiered-Rate Accounts</content>
+	      <title>Tiered-Rate Accounts</title>
+              <content/>
 	      <paragraph label="1030-B-1-a-h5" marker="">
 		<title>Tiering Method A</title>
 		<content/>
@@ -1315,18 +1315,18 @@
 
 
 	  <paragraph label="1030-B-1-b" marker="(b)">
-	    <title type="keyterm">Compounding and Crediting</title>
-            <content>Compounding and Crediting</content>
+	    <title>Compounding and Crediting</title>
+            <content/>
             <paragraph label="1030-B-1-b-i" marker="(i)">
-	      <title type="keyterm">Frequency</title>
-              <content>Frequency</content>
+	      <title>Frequency</title>
+              <content/>
 	      <paragraph label="1030-B-1-c-17" marker="">
 		<content><ref target="1030-2-n" reftype="term">Interest</ref> will be compounded [on a __ basis/every (time period)]. <ref target="1030-2-n" reftype="term">Interest</ref> will be credited to your <ref target="1030-2-a" reftype="term">account</ref> [on a __ basis/every (time period)].</content>
               </paragraph>
 	    </paragraph>
             <paragraph label="1030-B-1-b-ii" marker="(ii)">
-	      <title type="keyterm">Effect of Closing an Account</title>
-              <content>Effect of Closing an Account</content>
+	      <title>Effect of Closing an Account</title>
+              <content/>
 	      <paragraph label="1030-B-1-c-18" marker="">
 		<content>If you close your <ref target="1030-2-a" reftype="term">account</ref> before <ref target="1030-2-n" reftype="term">interest</ref> is credited, you will not receive the accrued <ref target="1030-2-n" reftype="term">interest</ref>.</content>
               </paragraph>
@@ -1334,19 +1334,19 @@
           </paragraph>
 	  
           <paragraph label="1030-B-1-c" marker="(c)">
-	    <title type="keyterm">Minimum Balance Requirements</title>
-	    <content>Minimum Balance Requirements</content>
+	    <title>Minimum Balance Requirements</title>
+	    <content/>
             <paragraph label="1030-B-1-c-i" marker="(i)">
-	      <title type="keyterm">To Open the Account</title>
-	      <content>To Open the Account</content>
+	      <title>To Open the Account</title>
+	      <content/>
 	      <paragraph label="1030-B-1-c-19" marker="">
 		<content>You must deposit $__ to open this <ref target="1030-2-a" reftype="term">account</ref>.</content>
 	      </paragraph>
             </paragraph>
 	    
             <paragraph label="1030-B-1-c-ii" marker="(ii)">
-              <title type="keyterm">To Avoid Imposition of Fees</title>
-	      <content>To Avoid Imposition of Fees</content>
+              <title>To Avoid Imposition of Fees</title>
+	      <content/>
 	      <paragraph label="1030-B-1-c-p20" marker="">
 		<content>A minimum balance fee of $__ will be imposed every (time period) if the balance in the <ref target="1030-2-a" reftype="term">account</ref> falls below $__ any day of the (time period).</content>
 	      </paragraph>
@@ -1356,8 +1356,8 @@
 	    </paragraph>
 	    
             <paragraph label="1030-B-1-c-iii" marker="(iii)">
-	      <title type="keyterm">To Obtain the Annual Percentage Yield Disclosed</title>
-              <content>To Obtain the Annual Percentage Yield Disclosed</content>
+	      <title>To Obtain the Annual Percentage Yield Disclosed</title>
+              <content/>
               <paragraph label="1030-B-1-c-p22" marker="">
 		<content>You must maintain a minimum balance of $__ in the <ref target="1030-2-a" reftype="term">account</ref> each day to obtain the disclosed <ref target="1030-2-c" reftype="term">annual percentage yield</ref>.</content>
               </paragraph>
@@ -1368,19 +1368,19 @@
 	  </paragraph>
 	    
           <paragraph label="1030-B-1-d" marker="(d)">
-	    <title type="keyterm">Balance Computation Method</title>
-	    <content>Balance Computation Method</content>
+	    <title>Balance Computation Method</title>
+	    <content/>
             <paragraph label="1030-B-1-d-i" marker="(i)">
-	      <title type="keyterm">Daily Balance Method</title>
-	      <content>Daily Balance Method</content>
+	      <title>Daily Balance Method</title>
+	      <content/>
 	      <paragraph label="1030-B-1-p24" marker="">
 		<content>We use the <ref target="1030-2-i" reftype="term">daily balance method</ref> to calculate the <ref target="1030-2-n" reftype="term">interest</ref> on your <ref target="1030-2-a" reftype="term">account</ref>. This method applies a daily periodic rate to the principal in the <ref target="1030-2-a" reftype="term">account</ref> each day.</content>	
 	      </paragraph>
 	    </paragraph>
 	    
 	    <paragraph label="1030-B-1-d-ii" marker="(ii)">
-	      <title type="keyterm">Average Daily Balance Method</title>
-	      <content>Average Daily Balance Method</content>
+	      <title>Average Daily Balance Method</title>
+	      <content/>
 	      <paragraph label="1030-B-1-p25" marker="">
 		<content>We use the <ref target="1030-2-d" reftype="term">average daily balance method</ref> to calculate <ref target="1030-2-n" reftype="term">interest</ref> on your <ref target="1030-2-a" reftype="term">account</ref>. This method applies a periodic rate to the average daily balance in the <ref target="1030-2-a" reftype="term">account</ref> for the period. The average daily balance is calculated by adding the principal in the <ref target="1030-2-a" reftype="term">account</ref> for each day of the period and dividing that figure by the number of days in the period.</content>
 	      </paragraph>
@@ -1388,8 +1388,8 @@
 	  </paragraph>
 
 	  <paragraph label="1030-B-1-e" marker="(e)">
-            <title type="keyterm">Accrual of Interest on Noncash Deposits</title>
-	    <content>Accrual of Interest on Noncash Deposits</content>
+            <title>Accrual of Interest on Noncash Deposits</title>
+	    <content/>
             <paragraph label="1030-B-1-p26" marker="">
 	      <content><ref target="1030-2-n" reftype="term">Interest</ref> begins to accrue no later than the <ref target="1030-2-g" reftype="term">business day</ref> we receive credit for the deposit of noncash items (for example, checks); or </content>
             </paragraph>
@@ -1399,8 +1399,8 @@
           </paragraph>
           
           <paragraph label="1030-B-1-f" marker="(f)">
-            <title type="keyterm">Fees</title>
-	    <content>Fees</content>
+            <title>Fees</title>
+	    <content/>
 	    <paragraph label="1030-B-1-p28" marker="">
 	      <content>The following fees may be assessed against your <ref target="1030-2-a" reftype="term">account</ref>:</content>
 	    </paragraph>
@@ -1422,8 +1422,8 @@
           </paragraph>
           
           <paragraph label="1030-B-1-g" marker="(g)">
-            <title type="keyterm">Transaction Limitations</title>
-	    <content>Transaction Limitations</content>
+            <title>Transaction Limitations</title>
+	    <content/>
 	    <paragraph label="1030-B-1-p34" marker="">
 	      <content>The minimum amount you may [withdraw/write a check for] is $__.</content>
             </paragraph>
@@ -1436,11 +1436,11 @@
           </paragraph>
 	  
           <paragraph label="1030-B-1-h" marker="(h)">
-	    <title type="keyterm">Disclosures Relating to Time Accounts</title>
-	    <content>Disclosures Relating to Time Accounts</content>
+	    <title>Disclosures Relating to Time Accounts</title>
+	    <content/>
             <paragraph label="1030-B-1-h-i" marker="(i)">
-	      <title type="keyterm">Time Requirements</title>
-	      <content>Time Requirements</content>
+	      <title>Time Requirements</title>
+	      <content/>
 	      <paragraph label="1030-B-1-h-p37" marker="">
 		<content>Your <ref target="1030-2-a" reftype="term">account</ref> will mature on (date).</content>
 	      </paragraph>
@@ -1450,8 +1450,8 @@
             </paragraph>
 	    
             <paragraph label="1030-B-1-h-ii" marker="(ii)">
-	      <title type="keyterm">Early Withdrawal Penalties</title>
-	      <content>Early Withdrawal Penalties</content>
+	      <title>Early Withdrawal Penalties</title>
+	      <content/>
 	      <paragraph label="1030-B-1-h-p39" marker="">
 		<content>We [will/may] impose a penalty if you withdraw [any/all] of the [deposited funds/principal] before the maturity date. The fee imposed will equal __ days/week[s]/month[s] of <ref target="1030-2-n" reftype="term">interest</ref> ; or </content>
 	      </paragraph>
@@ -1464,19 +1464,19 @@
             </paragraph>
 	    
             <paragraph label="1030-B-1-h-iii" marker="(iii)">
-	      <title type="keyterm">Withdrawal of Interest Prior to Maturity</title>
-	      <content>Withdrawal of Interest Prior to Maturity</content>
+	      <title>Withdrawal of Interest Prior to Maturity</title>
+	      <content/>
 	      <paragraph label="1030-B-1-h-p42" marker="">
 		<content>The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> assumes <ref target="1030-2-n" reftype="term">interest</ref> will remain on deposit until maturity. A withdrawal will reduce earnings.</content>
 	      </paragraph>
             </paragraph>
 	      
             <paragraph label="1030-B-1-h-iv" marker="(iv)">
-              <title type="keyterm">Renewal Policies</title>
-	      <content>Renewal Policies</content>
+              <title>Renewal Policies</title>
+	      <content/>
               <paragraph label="1030-B-1-h-iv-1" marker="(1)">
-                <title type="keyterm">Automatically Renewable Time Accounts</title>
-		<content>Automatically Renewable Time Accounts</content>
+                <title>Automatically Renewable Time Accounts</title>
+		<content/>
 		<paragraph label="1030-B-1-h-iv-p43" marker="">
                   <content>This <ref target="1030-2-a" reftype="term">account</ref> will automatically renew at maturity.</content>
 		</paragraph>
@@ -1489,8 +1489,8 @@
               </paragraph>
 	      
               <paragraph label="1030-B-1-h-iv-2" marker="(2)">
-                <title type="keyterm">Non-Automatically Renewable Time Accounts</title>
-		<content>Non-Automatically Renewable Time Accounts</content>
+                <title>Non-Automatically Renewable Time Accounts</title>
+		<content/>
 	        <paragraph label="1030-B-1-h-iv-p46" marker="">
                   <content>This <ref target="1030-2-a" reftype="term">account</ref> will not renew automatically at maturity. If you do not renew the <ref target="1030-2-a" reftype="term">account</ref>, your deposit will be placed in [an <ref target="1030-2-n" reftype="term">interest</ref> -bearing/a non<ref target="1030-2-n" reftype="term">interest</ref>-bearing] <ref target="1030-2-a" reftype="term">account</ref>.</content>
 		</paragraph>
@@ -1499,8 +1499,8 @@
 
 	    
             <paragraph label="1030-B-1-h-v" marker="(v)">
-              <title type="keyterm">Required Interest Distribution</title>
-	      <content>Required Interest Distribution</content>
+              <title>Required Interest Distribution</title>
+	      <content/>
 	      <paragraph label="1030-B-1-h-p47" marker="">
 		<content>This <ref target="1030-2-a" reftype="term">account</ref> requires the distribution of <ref target="1030-2-n" reftype="term">interest</ref> and does not allow <ref target="1030-2-n" reftype="term">interest</ref> to remain in the <ref target="1030-2-a" reftype="term">account</ref>.</content>
               </paragraph>
@@ -1508,8 +1508,8 @@
           </paragraph>
 	  
           <paragraph label="1030-B-1-i" marker="(i)">
-            <title type="keyterm">Bonuses</title>
-	    <content>Bonuses</content>
+            <title>Bonuses</title>
+	    <content/>
 	    <paragraph label="1030-B-1-p48" marker="">
               <content>You will [be paid/receive] [$__/(description of item)] as a <ref target="1030-2-f" reftype="term">bonus</ref> [when you open the <ref target="1030-2-a" reftype="term">account</ref> /on (date) __].</content>
             </paragraph>
@@ -1692,30 +1692,30 @@
         <appendixSection appendixSecNum="1" label="1030-C-a">
           <subject/>
 
-	  <paragraph label="1030-C-a-p1" marker="">
-	    <title type="keyterm">(a) Inconsistent Requirements</title>
-            <content>(a) Inconsistent Requirements</content>
+	  <paragraph label="1030-C-a-p1" marker="(a)">
+	    <title>Inconsistent Requirements</title>
+            <content/>
 	    <paragraph label="1030-C-p1-p1" marker="">
               <content>State law requirements that are inconsistent with the requirements of the act and this part are preempted to the extent of the inconsistency. A state law is inconsistent if it requires a <ref target="1030-2-j" reftype="term">depository institution</ref> to make disclosures or take actions that contradict the requirements of the federal law. A state law is also contradictory if it requires the use of the same term to represent a different amount or a different meaning than the federal law, requires the use of a term different from that required in the federal law to describe the same item, or permits a method of calculating <ref target="1030-2-n" reftype="term">interest</ref> on an <ref target="1030-2-a" reftype="term">account</ref> different from that required in the federal law.</content></paragraph>
           </paragraph>
 
-	  <paragraph label="1030-C-b-p1" marker="">
-	    <title type="keyterm">(b) Preemption Determinations</title>
-            <content>(b) Preemption Determinations</content>
+	  <paragraph label="1030-C-b-p1" marker="(b)">
+	    <title>Preemption Determinations</title>
+            <content/>
 	    <paragraph label="1030-C-p2-p1" marker="">
               <content>A <ref target="1030-2-j" reftype="term">depository institution</ref>, state, or other interested party may request the Bureau to determine whether a state law requirement is inconsistent with the federal requirements. A request for a determination shall be in writing and addressed to the Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20006. Notice that the Bureau intends to make a determination (either on request or on its own motion) will be published in the Federal Register, with an opportunity for public comment unless the Bureau finds that notice and opportunity for comment would be impracticable, unnecessary, or contrary to the public <ref target="1030-2-n" reftype="term">interest</ref> and publishes its reasons for such decision. Notice of a final determination will be published in the Federal Register and furnished to the party who made the request and to the appropriate <ref target="1030-2-r" reftype="term">state</ref> official.</content></paragraph>
           </paragraph>
 
-	  <paragraph label="1030-C-c-p1" marker="">
-	    <title type="keyterm">(c) Effect of Preemption Determinations</title>
-            <content>(c) Effect of Preemption Determinations</content>
+	  <paragraph label="1030-C-c-p1" marker="(c)">
+	    <title>Effect of Preemption Determinations</title>
+            <content/>
 	    <paragraph label="1030-C-p3-p1" marker="">
               <content>After the Bureau determines that a state law is inconsistent, a <ref target="1030-2-j" reftype="term">depository institution</ref> may not make disclosures using the inconsistent term or take actions relying on the inconsistent law.</content></paragraph>
           </paragraph>
 
-	  <paragraph label="1030-C-d-p1" marker="">
-	    <title type="keyterm">(d) Reversal of Determination</title>
-            <content>(d) Reversal of Determination</content>
+	  <paragraph label="1030-C-d-p1" marker="(d)">
+	    <title>Reversal of Determination</title>
+            <content/>
 	    <paragraph label="1030-C-p4-p1" marker="">
               <content>The Bureau reserves the right to reverse a determination for any reason bearing on the coverage or effect of state or federal law. Notice of reversal of a determination will be published in the Federal Register and a copy furnished to the appropriate <ref target="1030-2-r" reftype="term">state</ref> official.</content></paragraph>
           </paragraph>
