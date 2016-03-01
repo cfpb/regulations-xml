@@ -1216,12 +1216,6 @@
         </tableOfContents>
         <appendixSection appendixSecNum="1" label="1030-B-1">
           <subject>B-1&#8212;Model Clauses for Account Disclosures</subject>
-
-	  <!-- this paragraph is a placeholder that we can anchor interps to -->
-
-	  <paragraph label="1030-B-1-p1" marker="">
-	    <content/>
-	  </paragraph>
 	  
           <paragraph label="1030-B-1-a" marker="(a)">
 	    <title type="keyterm">Rate Information</title>
@@ -1783,7 +1777,7 @@
                 <content>Deposit <ref target="1030-2-a" reftype="term">accounts</ref> opened as a condition of obtaining a credit card.</content>
               </interpParagraph>
               <interpParagraph label="1030-2-a-Interp-1-iii" marker="iii.">
-                <content><ref target="1030-2-a">Accounts</ref> denominated in a foreign currency.</content>
+                <content><ref target="1030-2-a" reftype="term">Accounts</ref> denominated in a foreign currency.</content>
               </interpParagraph>
               <interpParagraph label="1030-2-a-Interp-1-iv" marker="iv.">
                 <content>Individual retirement <ref target="1030-2-a" reftype="term">accounts</ref> (IRAs) and simplified employee pension (SEP) accounts.</content>
@@ -3341,7 +3335,7 @@
 	
         <interpSection label="1030-B-Interp">
           <title>Appendix B to Part 1030&#8212;Model Clauses and Sample Forms</title>
-	  <interpParagraph label="1030-B-p1-Interp" target="1030-B-1-p1">
+	  <interpParagraph label="1030-B-p1-Interp" target="1030-B">
 	    <content/>
             <interpParagraph label="1030-B-Interp-1" marker="1.">
 	      <title>Modifications.</title>
