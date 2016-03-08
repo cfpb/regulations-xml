@@ -142,7 +142,7 @@
       </tocAppEntry>
     </tableOfContents>
     <content>
-      <subpart>
+      <subpart label="1024-Subpart">
         <tableOfContents>
           <tocSecEntry target="1024-1">
             <sectionNum>1</sectionNum>
