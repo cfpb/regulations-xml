@@ -4,7 +4,7 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2013-02-14</date>
+    <date>2014-01-10</date>
     <originalDate>2012-01-01</originalDate>
     <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
   </fdsys>
@@ -20,103 +20,53 @@
   </preamble>
   <part label="1024">
     <tableOfContents>
-      <tocSecEntry target="1024-1">
-        <sectionNum>1</sectionNum>
-        <sectionSubject>§ 1024.1 Designation.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-2">
-        <sectionNum>2</sectionNum>
-        <sectionSubject>§ 1024.2 Definitions.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-3">
-        <sectionNum>3</sectionNum>
-        <sectionSubject>§ 1024.3 E-Sign applicability.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-4">
-        <sectionNum>4</sectionNum>
-        <sectionSubject>§ 1024.4 Reliance upon rule, regulation or interpretation by the Bureau.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-5">
-        <sectionNum>5</sectionNum>
-        <sectionSubject>§ 1024.5 Coverage of RESPA.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-6">
-        <sectionNum>6</sectionNum>
-        <sectionSubject>§ 1024.6 Special information booklet at time of loan application.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-7">
-        <sectionNum>7</sectionNum>
-        <sectionSubject>§ 1024.7 Good faith estimate.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-8">
-        <sectionNum>8</sectionNum>
-        <sectionSubject>§ 1024.8 Use of HUD-1 or HUD-1a settlement statements.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-9">
-        <sectionNum>9</sectionNum>
-        <sectionSubject>§ 1024.9 Reproduction of settlement statements.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-10">
-        <sectionNum>10</sectionNum>
-        <sectionSubject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1a settlement statement; delivery; recordkeeping.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-11">
-        <sectionNum>11</sectionNum>
-        <sectionSubject>§ 1024.11 Mailing.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-12">
-        <sectionNum>12</sectionNum>
-        <sectionSubject>§ 1024.12 No fee.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-13">
-        <sectionNum>13</sectionNum>
-        <sectionSubject>§ 1024.13 Relation to State laws.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-14">
-        <sectionNum>14</sectionNum>
-        <sectionSubject>§ 1024.14 Prohibition against kickbacks and unearned fees.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-15">
-        <sectionNum>15</sectionNum>
-        <sectionSubject>§ 1024.15 Affiliated business arrangements.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-16">
-        <sectionNum>16</sectionNum>
-        <sectionSubject>§ 1024.16 Title companies.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-17">
-        <sectionNum>17</sectionNum>
-        <sectionSubject>§ 1024.17 Escrow accounts.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1024-20">
-        <sectionNum>20</sectionNum>
-        <sectionSubject>§ 1024.20 List of homeownership counseling organizations.</sectionSubject>
-      </tocSecEntry>
-      <tocAppEntry target="1024-A">
-        <appendixLetter>A</appendixLetter>
-        <appendixSubject>Appendix A to Part 1024—Instructions for Completing HUD-1 and HUD-1a Settlement Statements; Sample HUD-1 and HUD-1a Statements</appendixSubject>
-      </tocAppEntry>
-      <tocAppEntry target="1024-B">
-        <appendixLetter>B</appendixLetter>
-        <appendixSubject>Appendix B to Part 1024—Illustrations of Requirements of RESPA</appendixSubject>
-      </tocAppEntry>
-      <tocAppEntry target="1024-C">
-        <appendixLetter>C</appendixLetter>
-        <appendixSubject>Appendix C to Part 1024—Instructions for Completing Good Faith Estimate (GFE) Form</appendixSubject>
-      </tocAppEntry>
-      <tocAppEntry target="1024-D">
-        <appendixLetter>D</appendixLetter>
-        <appendixSubject>Appendix D to Part 1024—Affiliated Business Arrangement Disclosure Statement Format</appendixSubject>
-      </tocAppEntry>
-      <tocAppEntry target="1024-E">
-        <appendixLetter>E</appendixLetter>
-        <appendixSubject>Appendix E to Part 1024—Arithmetic Steps</appendixSubject>
-      </tocAppEntry>
+        <tocAppEntry target="1024-Subpart-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>General</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-Subpart-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Mortgage Settlement and Escrow Accounts</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-Subpart-C">
+          <appendixLetter>C</appendixLetter>
+          <appendixSubject>Mortgage Servicing</appendixSubject>
+        </tocAppEntry>
+
+        <tocAppEntry target="1024-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>Appendix A to Part 1024—Instructions for Completing HUD-1 and HUD-1a Settlement Statements; Sample HUD-1 and HUD-1a Statements</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Appendix B to Part 1024—Illustrations of Requirements of RESPA</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-C">
+          <appendixLetter>C</appendixLetter>
+          <appendixSubject>Appendix C to Part 1024—Instructions for Completing Good Faith Estimate (GFE) Form</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-D">
+          <appendixLetter>D</appendixLetter>
+          <appendixSubject>Appendix D to Part 1024—Affiliated Business Arrangement Disclosure Statement Format</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-E">
+          <appendixLetter>E</appendixLetter>
+          <appendixSubject>Appendix E to Part 1024—Arithmetic Steps</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-MS1">
+          <appendixLetter>MS1</appendixLetter>
+          <appendixSubject>Appendix MS-1 to Part 1024—Servicing Disclosure Statement</appendixSubject>
+        </tocAppEntry>
+
+        <tocAppEntry target="1024-Interp">
+          <appendixLetter>Interp</appendixLetter>
+          <appendixSubject>Supplement I to Part 1026—Official Interpretations</appendixSubject>
+        </tocAppEntry>
       </tableOfContents>
     <content>
       <subpart subpartLetter="A" label="1024-Subpart-A">
         <title>General</title>
-        <tableOfContents>
+        <tableOfContents label="1024-Subpart-A-TOC">
           <tocSecEntry target="1024-1">
             <sectionNum>1</sectionNum>
             <sectionSubject>§ 1024.1 Designation.</sectionSubject>
@@ -461,7 +411,7 @@
       </subpart>
     <subpart subpartLetter="B" label="1024-Subpart-B">
         <title>Mortgage Settlement and Escrow Accounts</title>
-        <tableOfContents>
+        <tableOfContents label="1024-Subpart-B-TOC">
           <tocSecEntry target="1024-6">
             <sectionNum>6</sectionNum>
             <sectionSubject>§ 1024.6 Special information booklet at time of loan application.</sectionSubject>
@@ -1417,7 +1367,7 @@
       </subpart>
     <subpart subpartLetter="C" label="1024-Subpart-C">
         <title>Mortgage Servicing</title>
-        <tableOfContents>
+        <tableOfContents label="1024-Subpart-C-TOC">
           <tocSecEntry target="1024-30">
             <sectionNum>30</sectionNum>
             <sectionSubject>§ 1024.30 Scope.</sectionSubject>

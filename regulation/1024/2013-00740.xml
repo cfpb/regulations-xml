@@ -19,7 +19,7 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/01/31/2013-00740/high-cost-mortgage-and-homeownership-counseling-amendments-to-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <part label="1024">
-    <tableOfContents>
+    <tableOfContents label="1024-TOC">
       <tocSecEntry target="1024-1">
         <sectionNum>1</sectionNum>
         <sectionSubject>§ 1024.1 Designation.</sectionSubject>

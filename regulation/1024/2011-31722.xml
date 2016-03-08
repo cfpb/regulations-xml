@@ -18,7 +18,7 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2011/12/20/2011-31722/real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
   <part label="1024">
-    <tableOfContents>
+    <tableOfContents label="1024-TOC">
       <tocSecEntry target="1024-1">
         <sectionNum>1</sectionNum>
         <sectionSubject>§ 1024.1 Designation.</sectionSubject>
@@ -142,7 +142,7 @@
     </tableOfContents>
     <content>
       <subpart label="1024-Subpart">
-        <tableOfContents>
+        <tableOfContents label="1024-Subpart-TOC">
           <tocSecEntry target="1024-1">
             <sectionNum>1</sectionNum>
             <sectionSubject>§ 1024.1 Designation.</sectionSubject>
