@@ -19,10 +19,57 @@
   </preamble>
   <changeset leftDocumentNumber="2013-00740" rightDocumentNumber="2013-01248">
 
+    <change operation="modified" label="1024-TOC">
+      <tableOfContents>
+        <tocAppEntry target="1024-Subpart-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>General</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-Subpart-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Mortgage Settlement and Escrow Accounts</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-Subpart-C">
+          <appendixLetter>C</appendixLetter>
+          <appendixSubject>Mortgage Servicing</appendixSubject>
+        </tocAppEntry>
+
+        <tocAppEntry target="1024-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>Appendix A to Part 1024—Instructions for Completing HUD-1 and HUD-1a Settlement Statements; Sample HUD-1 and HUD-1a Statements</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Appendix B to Part 1024—Illustrations of Requirements of RESPA</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-C">
+          <appendixLetter>C</appendixLetter>
+          <appendixSubject>Appendix C to Part 1024—Instructions for Completing Good Faith Estimate (GFE) Form</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-D">
+          <appendixLetter>D</appendixLetter>
+          <appendixSubject>Appendix D to Part 1024—Affiliated Business Arrangement Disclosure Statement Format</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-E">
+          <appendixLetter>E</appendixLetter>
+          <appendixSubject>Appendix E to Part 1024—Arithmetic Steps</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-MS1">
+          <appendixLetter>MS1</appendixLetter>
+          <appendixSubject>Appendix MS-1 to Part 1024—Servicing Disclosure Statement</appendixSubject>
+        </tocAppEntry>
+
+        <tocAppEntry target="1024-Interp">
+          <appendixLetter>Interp</appendixLetter>
+          <appendixSubject>Supplement I to Part 1026—Official Interpretations</appendixSubject>
+        </tocAppEntry>
+      </tableOfContents>
+    </change>
+
     <change operation="added" label="1024-Subpart-A" parent="1024">
       <subpart subpartLetter="A" label="1024-Subpart-A">
         <title>General</title>
-        <tableOfContents>
+        <tableOfContents label="1024-Subpart-A-TOC">
           <tocSecEntry target="1024-1">
             <sectionNum>1</sectionNum>
             <sectionSubject>§ 1024.1 Designation.</sectionSubject>
@@ -56,7 +103,7 @@
     <change operation="added" label="1024-Subpart-B" parent="1024" after="1024-Subpart-A">
       <subpart subpartLetter="B" label="1024-Subpart-B">
         <title>Mortgage Settlement and Escrow Accounts</title>
-        <tableOfContents>
+        <tableOfContents label="1024-Subpart-B-TOC">
           <tocSecEntry target="1024-6">
             <sectionNum>6</sectionNum>
             <sectionSubject>§ 1024.6 Special information booklet at time of loan application.</sectionSubject>
@@ -130,7 +177,7 @@
     <change operation="added" label="1024-Subpart-C" parent="1024" after="1024-Subpart-B">
       <subpart subpartLetter="C" label="1024-Subpart-C">
         <title>Mortgage Servicing</title>
-        <tableOfContents>
+        <tableOfContents label="1024-Subpart-C-TOC">
           <tocSecEntry target="1024-30">
             <sectionNum>30</sectionNum>
             <sectionSubject>§ 1024.30 Scope.</sectionSubject>
