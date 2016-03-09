@@ -4,7 +4,7 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2014-01-10</date>
+    <date>2013-02-14</date>
     <originalDate>2012-01-01</originalDate>
     <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
   </fdsys>
@@ -53,9 +53,9 @@
           <appendixLetter>E</appendixLetter>
           <appendixSubject>Appendix E to Part 1024—Arithmetic Steps</appendixSubject>
         </tocAppEntry>
-        <tocAppEntry target="1024-MS1">
-          <appendixLetter>MS1</appendixLetter>
-          <appendixSubject>Appendix MS-1 to Part 1024—Servicing Disclosure Statement</appendixSubject>
+        <tocAppEntry target="1024-MS">
+          <appendixLetter>MS</appendixLetter>
+          <appendixSubject>Appendix MS to Part 1024—Mortgage Servicing</appendixSubject>
         </tocAppEntry>
 
         <tocAppEntry target="1024-Interp">
