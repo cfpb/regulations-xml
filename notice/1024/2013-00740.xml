@@ -24,7 +24,7 @@
         <subject>§ 1024.5 Coverage of RESPA.</subject>
         <paragraph label="1024-5-a" marker="(a)">
           <title type="keyterm">Applicability.</title>
-          <content><ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and this part apply to all <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loans</ref>, except for the exemptions provided in paragraph <ref target="1024-5-b" reftype="internal">(b)</ref> of this section.</content>
+          <content><ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and this part apply to all <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loans</ref>, except for the exemptions provided in paragraph <ref target="1024-5-b" reftype="internal">(b)</ref> of this section.</content>
         </paragraph>
         <paragraph label="1024-5-b" marker="(b)">
           <title type="keyterm">Exemptions.</title>
@@ -46,11 +46,11 @@
           </paragraph>
           <paragraph label="1024-5-b-5" marker="(5)">
             <title type="keyterm">Assumption without lender approval.</title>
-            <content>Any assumption in which the <ref target="1024-2-b-Lender" reftype="term">lender</ref> does not have the right expressly to approve a subsequent person as the borrower on an existing <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref>. Any assumption in which the <ref target="1024-2-b-Lender" reftype="term">lender</ref>'s permission is both required and obtained is covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and this part, whether or not the <ref target="1024-2-b-Lender" reftype="term">lender</ref> charges a fee for the assumption.</content>
+            <content>Any assumption in which the <ref target="1024-2-b-Lender" reftype="term">lender</ref> does not have the right expressly to approve a subsequent person as the borrower on an existing <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref>. Any assumption in which the <ref target="1024-2-b-Lender" reftype="term">lender</ref>'s permission is both required and obtained is covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and this part, whether or not the <ref target="1024-2-b-Lender" reftype="term">lender</ref> charges a fee for the assumption.</content>
           </paragraph>
           <paragraph label="1024-5-b-6" marker="(6)">
             <title type="keyterm">Loan conversions.</title>
-            <content>Any conversion of a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> to different terms that are consistent with provisions of the original mortgage instrument, as long as a new note is not required, even if the <ref target="1024-2-b-Lender" reftype="term">lender</ref> charges an additional fee for the conversion.</content>
+            <content>Any conversion of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref> to different terms that are consistent with provisions of the original mortgage instrument, as long as a new note is not required, even if the <ref target="1024-2-b-Lender" reftype="term">lender</ref> charges an additional fee for the conversion.</content>
           </paragraph>
           <paragraph label="1024-5-b-7" marker="(7)">
             <title type="keyterm">Secondary market transactions.</title>
@@ -186,7 +186,7 @@
         </paragraph>
         <paragraph label="1024-20-b" marker="(b)">
           <title type="keyterm">Open-end lines of credit (home-equity plans) under Regulation Z.</title>
-          <content><ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>. For a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> that is a home-equity line of credit subject to <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>, a <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> that provides the loan applicant with the list of homeownership organizations required under this section may comply with the timing and delivery requirements set out in either paragraph <ref target="1024-20-a" reftype="internal">(a)</ref> of this section or <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>(b).</content>
+          <content><ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>. For a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref> that is a home-equity line of credit subject to <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>, a <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> that provides the loan applicant with the list of homeownership organizations required under this section may comply with the timing and delivery requirements set out in either paragraph <ref target="1024-20-a" reftype="internal">(a)</ref> of this section or <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>(b).</content>
           <analysis>
             <analysisSection>
               <title>20(b) Open-End Lines of Credit (Home-Equity Plans) Under Regulation Z</title>
