@@ -4,8 +4,8 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2015-01-01</date>
-    <originalDate>2012-01-01</originalDate>
+    <date>2014-12-29</date>
+    <originalDate>2014-12-29</originalDate>
     <title>HOME MORTGAGE DISCLOSURE</title>
   </fdsys>
   <preamble>
@@ -90,7 +90,7 @@
             <subject>§ 1003.1 Authority, purpose, and scope.</subject>
             <paragraph label="1003-1-a" marker="(a)">
               <title type="keyterm">Authority.</title>
-              <content>This part, known as Regulation C, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Home Mortgage Disclosure Act (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.,) as amended. The information-collection requirements have been approved by the U.S. Office of Management and Budget (OMB) under <ref target="USC:44-3501" reftype="external">44 U.S.C. 3501</ref> et seq. and have been assigned OMB numbers for institutions reporting data to the Office of the Comptroller of the Currency (1557-0159), the Federal Deposit Insurance Corporation (3064-0046), the Federal Reserve System (7100-0247), the Department of Housing and Urban Development (HUD) (2502-0529), the National Credit Union Administration (3133-0166), and the Bureau of Consumer Financial Protection (3170-0008).</content>
+              <content>This part, known as Regulation C, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Home Mortgage Disclosure Act (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.), as amended. The information-collection requirements have been approved by the U.S. Office of Management and Budget (OMB) under <ref target="USC:44-3501" reftype="external">44 U.S.C. 3501</ref> et seq. and have been assigned OMB numbers for institutions reporting data to the Office of the Comptroller of the Currency (1557-0159), the Federal Deposit Insurance Corporation (3064-0046), the Federal Reserve System (7100-0247), the Department of Housing and Urban Development (HUD) (2502-0529), the National Credit Union Administration (3133-0166), and the Bureau of Consumer Financial Protection (3170-0008).</content>
             </paragraph>
             <paragraph label="1003-1-b" marker="(b)">
               <title type="keyterm">Purpose.</title>
@@ -107,7 +107,7 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1003-1-b-2" marker="(2)">
-                <content>Neither the act nor this part is intended to encourage unsound lending practices or the allocation of credit.</content>
+                <content>Neither the <ref target="1003-2-Act" reftype="term">act</ref> nor this part is intended to encourage unsound lending practices or the allocation of credit.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1003-1-c" marker="(c)">
@@ -155,7 +155,7 @@
             	<paragraph label="1003-2-FinancialInstitution-1" marker="(1)">
 		  <content>A bank, savings association, or credit union that:</content>
 		  <paragraph label="1003-2-FinancialInstitution-1-i" marker="(i)">
-		    <content>On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;</content>
+		    <content>On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the <ref target="1003-2-Act" reftype="term">act</ref>, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;</content>
 		  </paragraph>
 		  <paragraph label="1003-2-FinancialInstitution-1-ii" marker="(ii)">
 		  <content>On the preceding December 31, had a home or <ref target="1003-2-BranchOffice" reftype="term">branch office</ref> in an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>;</content></paragraph>
@@ -216,11 +216,11 @@
               <content><def term="manufactured home">Manufactured home</def> means any residential structure as defined under regulations of the Department of Housing and Urban Development establishing manufactured home construction and safety standards (24 CFR 3280.2).</content></paragraph>
               
               <paragraph label="1003-2-Metropolitan" marker="">
-            	<content>Metropolitan Statistical Area or MSA and Metropolitan Division or MD-</content>
+            	<content><def term="msa-highlight">Metropolitan Statistical Area or MSA</def> and <def term="md-highlight">Metropolitan Division or MD</def>-</content>
             	<paragraph label="1003-2-Metropolitan-1" marker="(1)">
-            	<content><def term="metropolitan statistical area">Metropolitan statistical area</def> or <def term="MSA">MSA</def> means a metropolitan statistical area as defined by the U.S. Office of Management and Budget.</content></paragraph>
+            	<content><def term="metropolitan statistical area">Metropolitan Statistical Area</def> or <def term="MSA">MSA</def> means a metropolitan statistical area as defined by the U.S. Office of Management and Budget.</content></paragraph>
             	<paragraph label="1003-2-Metropolitan-2" marker="(2)">
-            	<content><def term="metropolitan division">Metropolitan division</def> or <def term="MD">MD</def> means a metropolitan division of an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>, as defined by the U.S. Office of Management and Budget.</content></paragraph>
+            	<content><def term="metropolitan division">Metropolitan Division</def> or <def term="MD">MD</def> means a metropolitan division of an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>, as defined by the U.S. Office of Management and Budget.</content></paragraph>
               </paragraph>
               
               <paragraph label="1003-2-Refinancing" marker="">
@@ -254,7 +254,7 @@
             <subject>§ 1003.4 Compilation of loan data.</subject>
             <paragraph label="1003-4-a" marker="(a)">
               <title type="keyterm">Data format and itemization.</title>
-              <content>A <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref> shall collect data regarding <ref target="1003-2-Application" reftype="term">applications</ref> for, and originations and purchases of, <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loans</ref>, <ref target="1003-2-HomeImprovementLoan" reftype="term">home improvement loans</ref>, and <ref target="1003-2-Refinancing" reftype="term">refinancings</ref> for each calendar year. An institution is required to collect data regarding requests under a preapproval program (as defined in § <ref target="1003-2" reftype="internal">1003.2</ref>) only if the preapproval request is denied or results in the origination of a <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loan</ref>. All reportable transactions shall be recorded, within thirty calendar days after the end of the calendar quarter in which final action is taken (such as origination or purchase of a loan, or denial or withdrawal of an <ref target="1003-2-Application" reftype="term">application</ref>), on a register in the format prescribed in appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The data recorded shall include the following items:</content><paragraph label="1003-4-a-1" marker="(1)">
+              <content>A <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref> shall collect data regarding <ref target="1003-2-Application" reftype="term">applications</ref> for, and originations and purchases of, <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loans</ref>, <ref target="1003-2-HomeImprovementLoan" reftype="term">home improvement loans</ref>, and <ref target="1003-2-Refinancing" reftype="term">refinancings</ref> for each calendar year. An institution is required to collect data regarding requests under a preapproval program (as defined in § <ref target="1003-2" reftype="internal">1003.2</ref>) only if the preapproval request is denied or results in the origination of a <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loan</ref>. All reportable transactions shall be recorded, within thirty calendar days after the end of the calendar quarter in which final action is taken (such as origination or purchase of a loan, or denial or withdrawal of an <ref target="1003-2-Application" reftype="term">application</ref>), on a register in the format prescribed in Appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The data recorded shall include the following items:</content><paragraph label="1003-4-a-1" marker="(1)">
                 <content>An identifying number for the loan or loan <ref target="1003-2-Application" reftype="term">application</ref>, and the date the <ref target="1003-2-Application" reftype="term">application</ref> was received.</content></paragraph>
               <paragraph label="1003-4-a-2" marker="(2)">
                 <content>The type of loan or <ref target="1003-2-Application" reftype="term">application</ref>.</content></paragraph>
@@ -296,7 +296,7 @@
               <title type="keyterm">Collection of data on ethnicity, race, sex, and income.</title>
               <content/>
               <paragraph label="1003-4-b-1" marker="(1)">
-                <content>A <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref> shall collect data about the ethnicity, race, and sex of the applicant or borrower as prescribed in appendix <ref target="1003-B" reftype="internal">B</ref> of this part.</content></paragraph>
+                <content>A <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref> shall collect data about the ethnicity, race, and sex of the applicant or borrower as prescribed in Appendix <ref target="1003-B" reftype="internal">B</ref> of this part.</content></paragraph>
               <paragraph label="1003-4-b-2" marker="(2)">
                 <content>Ethnicity, race, sex, and income data may but need not be collected for loans purchased by the <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref>.</content></paragraph>
             </paragraph>
@@ -340,7 +340,7 @@
               <title type="keyterm">Reporting to agency.</title>
               <content/>
               <paragraph label="1003-5-a-1" marker="(1)">
-                <content>By March 1 following the calendar year for which the loan data are compiled, a <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref> shall send its complete loan/<ref target="1003-2-Application" reftype="term">application</ref> register to the agency office specified in appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The institution shall retain a copy for its records for at least three years.</content></paragraph>
+                <content>By March 1 following the calendar year for which the loan data are compiled, a <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref> shall send its complete loan/<ref target="1003-2-Application" reftype="term">application</ref> register to the agency office specified in Appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The institution shall retain a copy for its records for at least three years.</content></paragraph>
               <paragraph label="1003-5-a-2" marker="(2)">
                 <content>A subsidiary of a bank or savings association shall complete a separate loan/<ref target="1003-2-Application" reftype="term">application</ref> register. The subsidiary shall submit the register, directly or through its parent, to the same agency as its parent.</content></paragraph>
             </paragraph>
@@ -383,13 +383,13 @@
               <title type="keyterm">Bona fide errors.</title>
               <content/>
               <paragraph label="1003-6-b-1" marker="(1)">
-                <content>An error in compiling or recording loan data is not a violation of the act or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such errors.</content>
+                <content>An error in compiling or recording loan data is not a violation of the <ref target="1003-2-Act" reftype="term">act</ref> or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such errors.</content>
               </paragraph>
               <paragraph label="1003-6-b-2" marker="(2)">
-                <content>An incorrect entry for a census tract number is deemed a bona fide error, and is not a violation of the act or this part, provided that the institution maintains procedures reasonably adapted to avoid such errors.</content>
+                <content>An incorrect entry for a census tract number is deemed a bona fide error, and is not a violation of the <ref target="1003-2-Act" reftype="term">act</ref> or this part, provided that the institution maintains procedures reasonably adapted to avoid such errors.</content>
               </paragraph>
               <paragraph label="1003-6-b-3" marker="(3)">
-                <content>If an institution makes a good-faith effort to record all data concerning covered transactions fully and accurately within thirty calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the error or omission is not a violation of the act or this part provided that the institution corrects or completes the information prior to submitting the loan/<ref target="1003-2-Application" reftype="term">application</ref> register to its regulatory agency.</content></paragraph>
+                <content>If an institution makes a good-faith effort to record all data concerning covered transactions fully and accurately within thirty calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the error or omission is not a violation of the <ref target="1003-2-Act" reftype="term">act</ref> or this part provided that the institution corrects or completes the information prior to submitting the loan/<ref target="1003-2-Application" reftype="term">application</ref> register to its regulatory agency.</content></paragraph>
             </paragraph>
           </section>
         </content>
@@ -602,7 +602,7 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1003-A-h2-h6-p27-2" marker="2.">
-                <content>Mail, Internet, or Telephone <ref target="1003-2-Application" reftype="term">Applications</ref>.—All loan <ref target="1003-2-Application" reftype="term">applications</ref>, including <ref target="1003-2-Application" reftype="term">applications</ref> taken by mail, internet, or telephone must use a collection form similar to that shown in appendix <ref target="1003-B" reftype="internal">B</ref> regarding ethnicity, race, and sex. For <ref target="1003-2-Application" reftype="term">applications</ref> taken by telephone, the information in the collection form must be stated orally by the lender, except for information that pertains uniquely to <ref target="1003-2-Application" reftype="term">applications</ref> taken in writing. If the applicant does not provide these data in an <ref target="1003-2-Application" reftype="term">application</ref> taken by mail or telephone or on the internet, enter the Code for “information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref>” specified in paragraphs <ref target="1003-A-h2-h6-p27-3" reftype="internal">I.D.3.</ref>, <ref target="1003-A-h2-h6-p27-4" reftype="internal">4</ref>., and <ref target="1003-A-h2-h6-p27-5" reftype="internal">5</ref>. of this appendix. (See appendix <ref target="1003-B" reftype="internal">B</ref> for complete information on the collection of these data in mail, Internet, or telephone <ref target="1003-2-Application" reftype="term">applications</ref>.)</content></paragraph>
+                <content>Mail, Internet, or Telephone <ref target="1003-2-Application" reftype="term">Applications</ref>.—All loan <ref target="1003-2-Application" reftype="term">applications</ref>, including <ref target="1003-2-Application" reftype="term">applications</ref> taken by mail, internet, or telephone must use a collection form similar to that shown in Appendix <ref target="1003-B" reftype="internal">B</ref> regarding ethnicity, race, and sex. For <ref target="1003-2-Application" reftype="term">applications</ref> taken by telephone, the information in the collection form must be stated orally by the lender, except for information that pertains uniquely to <ref target="1003-2-Application" reftype="term">applications</ref> taken in writing. If the applicant does not provide these data in an <ref target="1003-2-Application" reftype="term">application</ref> taken by mail or telephone or on the internet, enter the Code for “information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref>” specified in paragraphs <ref target="1003-A-h2-h6-p27-3" reftype="internal">I.D.3.</ref>, <ref target="1003-A-h2-h6-p27-4" reftype="internal">4</ref>., and <ref target="1003-A-h2-h6-p27-5" reftype="internal">5</ref>. of this appendix. (See appendix <ref target="1003-B" reftype="internal">B</ref> for complete information on the collection of these data in mail, Internet, or telephone <ref target="1003-2-Application" reftype="term">applications</ref>.)</content></paragraph>
               <paragraph label="1003-A-h2-h6-p27-3" marker="3.">
                 <content>Ethnicity of Borrower or Applicant. Use the following Codes to indicate the ethnicity of the applicant or borrower under column “A” and of any co-applicant or co-borrower under column “CA.”</content>
               </paragraph>
@@ -851,7 +851,7 @@
         <appendixSection appendixSecNum="3" label="1003-A-h11">
           <subject>II. Appropriate Federal Agencies for HMDA Reporting</subject>
           <paragraph label="1003-A-h11-A" marker="A.">
-            <content>You are strongly encouraged to submit your loan/<ref target="1003-2-Application" reftype="term">application</ref> register via email. If you elect to use this method of transmission and the appropriate Federal agency for your institution is the Bureau of Consumer Financial Protection, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, or the National Credit Union Administration, then you should submit your institution's files to the email address dedicated to that purpose by the Bureau, which can be found on the Web site of the FFIEC. If one of the foregoing agencies is the appropriate Federal agency for your institution and you elect to submit your data by regular mail, then use the following address: HMDA, Federal Reserve Board, Attention: HMDA Processing, (insert name of the appropriate Federal agency for your institution), 20th and Constitution Ave NW., MS N502, Washington, DC 20551-0001.</content></paragraph>
+            <content>You are strongly encouraged to submit your loan/<ref target="1003-2-Application" reftype="term">application</ref> register via email. If you elect to use this method of transmission and the appropriate Federal agency for your institution is the Bureau of Consumer Financial Protection, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, or the National Credit Union Administration, then you should submit your institution's files to the email address dedicated to that purpose by the Bureau, which can be found on the Web site of the FFIEC. If one of the foregoing agencies is the appropriate Federal agency for your institution and you elect to submit your data by regular mail, then use the following address: HMDA, Federal Reserve Board, Attention: HMDA Processing, (insert name of the appropriate Federal agency for your institution), 20th &amp; Constitution Ave NW., MS N502, Washington, DC 20551-0001.</content></paragraph>
           <paragraph label="1003-A-h11-B" marker="B.">
             <content>If the Federal Reserve System (but not the Bureau of Consumer Financial Protection) is the appropriate Federal agency for your institution, you should use the email or regular mail address of your district bank indicated on the Web site of the FFIEC. If the Department of Housing and Urban Development is the appropriate Federal agency for your institution, then you should use the email or regular mail address indicated on the Web site of the FFIEC.</content>
           </paragraph>
@@ -988,7 +988,7 @@
           	</interpParagraph>
           	<interpParagraph label="1003-2-BranchOffice-Interp-2" marker="2.">
           		<title>Depository institution.</title>
-            	<content>A branch of a depository institution does not include a loan-production office, the office of an affiliate, or the office of a third party such as a loan broker. (But see <ref target="1003-A-h2-h3-6" reftype="internal">appendix A, paragraph I.C.6</ref>, which requires certain depository institutions to report property location even for properties located outside those <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s or <ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> in which the institution has a home or <ref target="1003-2-BranchOffice" reftype="term">branch office</ref>.)</content></interpParagraph>
+            	<content>A branch of a depository institution does not include a loan-production office, the office of an affiliate, or the office of a third party such as a loan broker. (But see <ref target="1003-A-h2-h3-6" reftype="internal">Appendix A, paragraph I.C.6</ref>, which requires certain depository institutions to report property location even for properties located outside those <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s or <ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> in which the institution has a home or <ref target="1003-2-BranchOffice" reftype="term">branch office</ref>.)</content></interpParagraph>
           	<interpParagraph label="1003-2-BranchOffice-Interp-3" marker="3.">
           		<title>Nondepository institution.</title>
             	<content>For a nondepository institution, “<ref target="1003-2-BranchOffice" reftype="term">branch office</ref>” does not include the office of an affiliate or other third party such as a loan broker. (But note that certain nondepository institutions must report property location even in <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s or <ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> where they do not have a physical location.)</content></interpParagraph>
@@ -1097,17 +1097,21 @@
           </interpParagraph>
           
           <interpParagraph label="1003-2-ManufacturedHome-Interp" target="1003-2-ManufacturedHome">
-          	<title>Manufactured home.</title>
-          	<content/>
-          	<interpParagraph label="1003-2-ManufacturedHome-Interp-1" marker="1.">
-          		<title>Definition of a manufactured home.</title>
-          		<content>The definition in § <ref target="1003-2" reftype="internal">1003.2</ref> refers to the Federal building code for factory-built housing established by the Department of Housing and Urban Development (HUD). The HUD code requires generally that housing be essentially ready for occupancy upon leaving the factory and being transported to a building site. Modular homes that meet all of the HUD code standards are included in the definition because they are ready for occupancy upon leaving the factory. Other factory-built homes, such as panelized and pre-cut homes, generally do not meet the HUD code because they require a significant amount of construction on site before they are ready for occupancy. Loans and <ref target="1003-2-Application" reftype="term">applications</ref> relating to <ref target="1003-2-ManufacturedHome" reftype="term">manufactured homes</ref> that do not meet the HUD code should not be identified as manufactured housing under HMDA.</content></interpParagraph>
+            <title>Manufactured home.</title>
+            <content/>
+            <interpParagraph label="1003-2-ManufacturedHome-Interp-1" marker="1.">
+              <title>Definition of a manufactured home.</title>
+              <content>The definition in § <ref target="1003-2" reftype="internal">1003.2</ref> refers to the Federal building code for factory-built housing established by the Department of Housing and Urban Development (HUD). The HUD code requires generally that housing be essentially ready for occupancy upon leaving the factory and being transported to a building site. Modular homes that meet all of the HUD code standards are included in the definition because they are ready for occupancy upon leaving the factory. Other factory-built homes, such as panelized and pre-cut homes, generally do not meet the HUD code because they require a significant amount of construction on site before they are ready for occupancy. Loans and <ref target="1003-2-Application" reftype="term">applications</ref> relating to <ref target="1003-2-ManufacturedHome" reftype="term">manufactured homes</ref> that do not meet the HUD code should not be identified as manufactured housing under HMDA.</content>
+	    </interpParagraph>
           </interpParagraph>
 
-		  <interpParagraph label="1003-2-Metropolitan-Interp" marker="1.">
-		  	<title>Metropolitan Statistical Areas and Metropolitan Divisions</title>
-		  	<content>Use of terms “<ref target="1003-2-Metropolitan-1" reftype="term">Metropolitan Statistical Area</ref>” and “<ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Division</ref>.” The U.S. Office of Management and Budget defines <ref target="1003-2-Metropolitan-1" reftype="term">Metropolitan Statistical Areas</ref> and <ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. OMB divides every <ref target="1003-2-Metropolitan-1" reftype="term">Metropolitan Statistical Area</ref> (<ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>) with a population of 2.5 million or more into <ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> (<ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s); <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s with populations under 2.5 million population are not so divided. 67 FR 82228 (December 27, 2000). For all purposes under Regulation C, if an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> is divided by OMB into <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s, the appropriate geographic unit to be used is the <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>; if an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> is not so divided by OMB into <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s, the appropriate geographic unit to be used is the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>.</content>
-		  	</interpParagraph>
+	  <interpParagraph label="1003-2-Metropolitan-Interp" target="1003-2-Metropolitan">
+	    <title>Metropolitan Statistical Areas and Metropolitan Divisions</title>
+	    <content/>
+	    <interpParagraph label="1003-2-Metropolitan-Interp-1" marker="1.">
+	      <content>Use of terms “<ref target="1003-2-Metropolitan-1" reftype="term">Metropolitan Statistical Area</ref>” and “<ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Division</ref>.” The U.S. Office of Management and Budget defines <ref target="1003-2-Metropolitan-1" reftype="term">Metropolitan Statistical Areas</ref> and <ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. OMB divides every <ref target="1003-2-Metropolitan-1" reftype="term">Metropolitan Statistical Area</ref> (<ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>) with a population of 2.5 million or more into <ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Divisions</ref> (<ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s); <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s with populations under 2.5 million population are not so divided. 67 FR 82228 (December 27, 2000). For all purposes under Regulation C, if an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> is divided by OMB into <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s, the appropriate geographic unit to be used is the <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>; if an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> is not so divided by OMB into <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>s, the appropriate geographic unit to be used is the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>.</content>
+	    </interpParagraph>
+	  </interpParagraph>
         </interpSection>
         
         <interpSection label="1003-4-Interp" sectionNum="4">
@@ -1315,7 +1319,7 @@
                 </interpParagraph>
                 <interpParagraph label="1003-4-a-12-ii-Interp-3" marker="3.">
                 	<title>Bureau tables. </title>
-                  <content>The Bureau publishes on the FFIEC's Web site (http://www.ffiec.gov/hmda), in table form, <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> for a wide variety of transaction types. The Bureau calculates an annual percentage rate, consistent with Regulation Z (see <ref target="CFR:12-1026-22" reftype="external">12 CFR 1026.22</ref> and part 1026, appendix J), for each transaction type for which pricing terms are available from the survey described in comment <ref target="1003-4-a-12-ii-Interp-1" reftype="internal">4(a)(12)(ii)-1</ref>. The Bureau estimates annual percentage rates for other types of transactions for which direct survey data are not available based on the loan pricing terms available in the survey and other information. The Bureau publishes on the FFIEC's Web site the methodology it uses to arrive at these estimates.</content>
+                  <content>The Bureau publishes on the FFIEC's Web site (http://www.ffiec.gov/hmda), in table form, <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> for a wide variety of transaction types. The Bureau calculates an annual percentage rate, consistent with Regulation Z (see <ref target="CFR:12-1026-22" reftype="external">12 CFR 1026.22</ref> and Part 1026, Appendix J), for each transaction type for which pricing terms are available from the survey described in comment <ref target="1003-4-a-12-ii-Interp-1" reftype="internal">4(a)(12)(ii)-1</ref>. The Bureau estimates annual percentage rates for other types of transactions for which direct survey data are not available based on the loan pricing terms available in the survey and other information. The Bureau publishes on the FFIEC's Web site the methodology it uses to arrive at these estimates.</content>
                 </interpParagraph>
               </interpParagraph>
             </interpParagraph>

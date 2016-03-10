@@ -4,8 +4,8 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2016-01-01</date>
-    <originalDate>2012-01-01</originalDate>
+    <date>2015-12-23</date>
+    <originalDate>2015-12-23</originalDate>
     <title>HOME MORTGAGE DISCLOSURE</title>
   </fdsys>
   <preamble>
@@ -19,10 +19,11 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2015/12/23/2015-32285/home-mortgage-disclosure-regulation-c-adjustment-to-asset-size-exemption-threshold</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2014-30404" rightDocumentNumber="2015-32285">
-	<change operation="modified" label="1003-2-p1-FinancialInstitution-Interp-2">
-  		<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-2">
-	    	<content>Adjustment of exemption threshold for depository institutions. For data collection in 2016, the asset-size exemption threshold is $44 million. Banks, savings associations, and credit unions with assets at or below $44 million as of December 31, 2015, are exempt from collecting data for 2016.</content>
-		</interpParagraph>
-  	</change>
+    <change operation="modified" label="1003-2-FinancialInstitution-Interp-2">
+      <interpParagraph label="1003-2-FinancialInstitution-Interp-2" marker="2.">
+	<title>Adjustment of exemption threshold for depository institutions.</title>
+	<content>For data collection in 2016, the asset-size exemption threshold is $44 million. Banks, savings associations, and credit unions with assets at or below $44 million as of December 31, 2015, are exempt from collecting data for 2016.</content>
+      </interpParagraph>
+    </change>
   </changeset>
 </notice>

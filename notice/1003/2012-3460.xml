@@ -19,10 +19,11 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2012/02/15/2012-3460/home-mortgage-disclosure-regulation-c</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2012-31311" rightDocumentNumber="2012-3460">
-  	<change operation="modified" label="1003-2-p1-FinancialInstitution-Interp-2">
-  		<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-2">
-	    	<content>Adjustment of exemption threshold for depository institutions. For data collection in 2012, the asset-size exemption threshold is $41 million. Depository institutions with assets at or below $41 million as of December 31, 2011, are exempt from collecting data for 2012.</content>
-		</interpParagraph>
-  	</change>
+    <change operation="modified" label="1003-2-FinancialInstitution-Interp-2">
+      <interpParagraph label="1003-2-FinancialInstitution-Interp-2" marker="2.">
+	<title>Adjustment of exemption threshold for depository institutions.</title>
+	<content>For data collection in 2012, the asset-size exemption threshold is $41 million. Depository institutions with assets at or below $41 million as of December 31, 2011, are exempt from collecting data for 2012.</content>
+      </interpParagraph>
+    </change>
   </changeset>
 </notice>
