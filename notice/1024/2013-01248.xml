@@ -422,7 +422,7 @@
 
     <change operation="modified" label="1024-18">
       <section label="1024-18" sectionNum="13">
-        <subject>§ 1024.18 [Reserved].</subject>
+        <subject>§ 1024.18 [Reserved]</subject>
         <reserved/>
         <analysis label="1024-18-Analysis">
           <analysisSection>
@@ -439,7 +439,7 @@
 
     <change operation="modified" label="1024-19">
       <section label="1024-19" sectionNum="13">
-        <subject>§ 1024.19 [Reserved].</subject>
+        <subject>§ 1024.19 [Reserved]</subject>
         <reserved/>
         <analysis label="1024-19-Analysis">
           <analysisSection>
