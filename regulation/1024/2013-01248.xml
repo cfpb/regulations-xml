@@ -7668,7 +7668,6 @@
         </appendixSection>
         <appendixSection appendixSecNum="3" label="1024-MS-3">
           <subject>Appendix MS-3 to Part 1024</subject>
-          <!--
           <tableOfContents>
             <tocAppEntry target="1024-MS-3(A)">
               <appendixLetter>3(A)</appendixLetter>
@@ -7687,7 +7686,6 @@
               <appendixSubject>MS-3(D)—Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By to § 1024.37(e)(2)</appendixSubject>
             </tocAppEntry>
           </tableOfContents>
-          -->
           <paragraph label="1024-MS-3-h5" marker="">
             <title>Model Force-Placed Insurance Notice Forms</title>
             <content/>
