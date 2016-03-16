@@ -3581,14 +3581,11 @@
         <appendixTitle>Appendix MS — Mortgage Servicing</appendixTitle>
         <appendixSection appendixSecNum="1" label="1024-MS-1">
           <subject>Appendix MS-1 to Part 1024</subject>
-          <paragraph label="1024-MS-1-h1" marker="">
-            <content/>
-            <paragraph label="1024-MS-1-h1-p1" marker="">
-              <content>[Sample language; use business stationery or similar heading]</content>
-            </paragraph>
-            <paragraph label="1024-MS-1-h1-p2" marker="">
-              <content>[Date]</content>
-            </paragraph>
+          <paragraph label="1024-MS-1-p1" marker="">
+            <content>[Sample language; use business stationery or similar heading]</content>
+          </paragraph>
+          <paragraph label="1024-MS-1-p2" marker="">
+            <content>[Date]</content>
           </paragraph>
           <paragraph label="1024-MS-1-h2" marker="">
             <title>SERVICING DISCLOSURE STATEMENT NOTICE TO FIRST LIEN MORTGAGE LOAN APPLICANTS: THE RIGHT TO COLLECT YOUR MORTGAGE LOAN PAYMENTS MAY BE TRANSFERRED</title>
@@ -3666,10 +3663,6 @@
                     <cell>[Address]</cell>
                   </row>
                 </table>
-                <ref target="1024-2-b-Servicer" reftype="term">Servicer</ref>
-                <ref target="1024-2-b-Servicer" reftype="term">Servicer</ref>
-                <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>
-                <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>
               </content>
             </paragraph>
             <paragraph label="1024-MS-2-h4-p16" marker="">
