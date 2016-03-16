@@ -18,5 +18,11 @@
     <effectiveDate>2013-01-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/articles/2012/11/21/2012-27996/consumer-leasing-regulation-m</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2011-31723" rightDocumentNumber="2012-27996"/>
+  <changeset leftDocumentNumber="2011-31723" rightDocumentNumber="2012-27996">
+    <change operation="added" label="1013-2-e-Interp-9-iv">
+      <interpParagraph label="1013-2-e-Interp-9-iv" marker="iv." target="1013-2-e-9-iv">
+        <content>From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.</content>
+      </interpParagraph>
+    </change>
+  </changeset>
 </notice>

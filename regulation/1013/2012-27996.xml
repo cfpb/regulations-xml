@@ -857,7 +857,10 @@
               <interpParagraph label="1013-2-e-Interp-9-iii" marker="iii.">
                 <content>From January 1, 2012 through December 31, 2012, the threshold amount is $51,800.</content>
               </interpParagraph>
-            </interpParagraph>
+            <interpParagraph label="1013-2-e-Interp-9-iv" marker="iv." target="1013-2-e-9-iv">
+        <content>From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.</content>
+      </interpParagraph>
+    </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-2-g-Interp" target="1013-2-g">
             <title>2(g) Lessee</title>

@@ -18,5 +18,11 @@
     <effectiveDate>2015-01-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/articles/2014/09/22/2014-21847/consumer-leasing-regulation-m</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2013-28194" rightDocumentNumber="2014-21847"/>
+  <changeset leftDocumentNumber="2013-28194" rightDocumentNumber="2014-21847">
+  <change operation="added" label="1013-2-e-Interp-9-vi">
+    <interpParagraph label="1013-2-e-Interp-9-vi" marker="vi." target="1013-2-e-9-vi">
+      <content>From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.</content>
+    </interpParagraph>
+  </change>
+</changeset>
 </notice>

@@ -857,7 +857,16 @@
               <interpParagraph label="1013-2-e-Interp-9-iii" marker="iii.">
                 <content>From January 1, 2012 through December 31, 2012, the threshold amount is $51,800.</content>
               </interpParagraph>
-            </interpParagraph>
+            <interpParagraph label="1013-2-e-Interp-9-iv" marker="iv." target="1013-2-e-9-iv">
+        <content>From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.</content>
+      </interpParagraph>
+    <interpParagraph label="1013-2-e-Interp-9-v" marker="v." target="1013-2-e-9-v">
+        <content>From January 1, 2014 through December 31, 2014, the threshold amount is $53,500.</content>
+      </interpParagraph>
+    <interpParagraph label="1013-2-e-Interp-9-vi" marker="vi." target="1013-2-e-9-vi">
+      <content>From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.</content>
+    </interpParagraph>
+  </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-2-g-Interp" target="1013-2-g">
             <title>2(g) Lessee</title>
