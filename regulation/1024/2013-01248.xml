@@ -55,7 +55,7 @@
         </tocAppEntry>
         <tocAppEntry target="1024-MS">
           <appendixLetter>MS</appendixLetter>
-          <appendixSubject>Appendix MS to Part 1024—Mortgage Servicing</appendixSubject>
+          <appendixSubject>Appendix MS — Mortgage Servicing</appendixSubject>
         </tocAppEntry>
 
         <tocAppEntry target="1024-Interp">
@@ -6387,7 +6387,7 @@
           </interpParagraph>
         </interpSection>
         <interpSection label="1024-17-Interp" sectionNum="17">
-          <title>§ 1024.17—Escrow Accounts</title>
+          <title>Section § 1024.17—Escrow Accounts</title>
           <interpParagraph label="1024-17-k-Interp">
             <title>17(k) Timely payments.</title>
             <content/>
@@ -6439,8 +6439,17 @@
         </interpSection>
         <interpSection label="1024-31-Interp" sectionNum="31" target="1024-31">
           <title>§ 1024.31—Definitions</title>
+          <interpParagraph label="1024-31-Interp-None">
+            <title>Loss mitigation application.</title>
+            <content/>
+            <interpParagraph label="1024-31-Interp-None-1" marker="1.">
+              <title type="keyterm">Borrower's representative.</title>
+              <content>A <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> is deemed to be submitted by a borrower if the <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> is submitted by an agent of the borrower. <ref target="1024-2-b-Servicer" reftype="term">Servicers</ref> may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf.</content>
+            </interpParagraph>
+          </interpParagraph>
           <interpParagraph label="1024-31-Interp-2">
-            <content><ref target="1024-31-LossMitigationOption" reftype="term">Loss mitigation option</ref>.</content>
+            <title>Loss mitigation option.</title>
+            <content/>
             <interpParagraph label="1024-31-Interp-2-1" marker="1.">
               <title type="keyterm">Types of loss mitigation options.</title>
               <content><ref target="1024-31-LossMitigationOption" reftype="term">Loss mitigation options</ref> include temporary and long-term relief, including options that allow borrowers who are behind on their mortgage payments to remain in their homes or to leave their homes without a foreclosure, such as, without limitation, <ref target="1024-2-b-Refinancing" reftype="term">refinancing</ref>, trial or permanent modification, repayment of the amount owed over an extended period of time, forbearance of future payments, short-sale, deed-in-lieu of foreclosure, and loss mitigation programs sponsored by a locality, a <ref target="1024-2-b-State" reftype="term">State</ref>, or the Federal government.</content>
@@ -6451,7 +6460,8 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1024-31-Interp-5">
-            <content><ref target="1024-31-QualifiedWrittenRequest" reftype="term">Qualified written request</ref>.</content>
+            <title>Qualified written request.</title>
+            <content/>
             <interpParagraph label="1024-31-Interp-5-1" marker="1.">
               <content>A <ref target="1024-31-QualifiedWrittenRequest" reftype="term">qualified written request</ref> is a written notice a borrower provides to request a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> either correct an error relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> or to request information relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>. A <ref target="1024-31-QualifiedWrittenRequest" reftype="term">qualified written request</ref> is not required to include both types of requests. For example, a <ref target="1024-31-QualifiedWrittenRequest" reftype="term">qualified written request</ref> may request information relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> but not assert that an error relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a loan has occurred.</content>
             </interpParagraph>
@@ -6460,16 +6470,10 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1024-31-Interp-8">
-            <content><ref target="1024-31-ServiceProvider" reftype="term">Service provider</ref>.</content>
+            <title>Service provider.</title>
+            <content/>
             <interpParagraph label="1024-31-Interp-8-1" marker="1.">
               <content><ref target="1024-31-ServiceProvider" reftype="term">Service providers</ref> may include attorneys retained to represent a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> or an owner or assignee of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> in a foreclosure proceeding, as well as other professionals retained to provide appraisals or inspections of properties.</content>
-            </interpParagraph>
-          </interpParagraph>
-          <interpParagraph label="1024-31-Interp-None">
-            <content><ref target="1024-31-LossMitigationApplication" reftype="term">Loss mitigation application</ref>.</content>
-            <interpParagraph label="1024-31-Interp-None-1" marker="1.">
-              <title type="keyterm">Borrower's representative.</title>
-              <content>A <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> is deemed to be submitted by a borrower if the <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> is submitted by an agent of the borrower. <ref target="1024-2-b-Servicer" reftype="term">Servicers</ref> may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf.</content>
             </interpParagraph>
           </interpParagraph>
         </interpSection>
@@ -6878,7 +6882,7 @@
                 <content/>
                 <interpParagraph label="1024-37-a-2-iii-Interp-1" marker="1.">
                   <title type="keyterm">Servicer's discretion.</title>
-                  <content><ref target="1024-2-b-Servicer" reftype="term">Servicer</ref> <ref target="1024-31-HazardInsurance" reftype="term">Hazard insurance</ref> paid by a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> at its discretion refers to circumstances in which a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> pays a borrower's <ref target="1024-31-HazardInsurance" reftype="term">hazard insurance</ref> even though the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required by § <ref target="1024-17-k-1" reftype="internal">1024.17(k)(1)</ref>, <ref target="1024-17-k-2" reftype="internal">(2)</ref>, or (5) to do so.</content>
+                  <content><ref target="1024-31-HazardInsurance" reftype="term">Hazard insurance</ref> paid by a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> at its discretion refers to circumstances in which a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> pays a borrower's <ref target="1024-31-HazardInsurance" reftype="term">hazard insurance</ref> even though the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required by § <ref target="1024-17-k-1" reftype="internal">1024.17(k)(1)</ref>, <ref target="1024-17-k-2" reftype="internal">(2)</ref>, or (5) to do so.</content>
                 </interpParagraph>
               </interpParagraph>
             </interpParagraph>
@@ -7170,7 +7174,7 @@
               <content/>
               <interpParagraph label="1024-39-a-Interp-3-i" marker="i.">
                 <title type="keyterm">Servicer's determination.</title>
-                <content><ref target="1024-2-b-Servicer" reftype="term">Servicer</ref> It is within a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s reasonable discretion to determine whether informing a borrower about the availability of <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref> is appropriate under the circumstances. The following examples demonstrate when a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has made a reasonable determination regarding the appropriateness of providing information about <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref>.</content>
+                <content>It is within a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s reasonable discretion to determine whether informing a borrower about the availability of <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref> is appropriate under the circumstances. The following examples demonstrate when a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has made a reasonable determination regarding the appropriateness of providing information about <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref>.</content>
                 <interpParagraph label="1024-39-a-Interp-3-i-A" marker="A.">
                   <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> provides information about the availability of <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref> to a borrower who notifies a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> during live contact of a material adverse change in the borrower's financial circumstances that is likely to cause the borrower to experience a long-term delinquency for which <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref> may be available.</content>
                 </interpParagraph>
@@ -7208,7 +7212,7 @@
               </interpParagraph>
               <interpParagraph label="1024-39-b-1-Interp-4" marker="4.">
                 <title type="keyterm">Relationship to § 1024.39(a).</title>
-                <content><ref target="1024-39-a" reftype="internal">1024.39(a)</ref>. The written notice required under § <ref target="1024-39-b-1" reftype="internal">1024.39(b)(1)</ref> must be provided even if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> provided information about loss mitigation and foreclosure previously during an oral communication with the borrower under § <ref target="1024-39-a" reftype="internal">1024.39(a)</ref>.</content>
+                <content>The written notice required under § <ref target="1024-39-b-1" reftype="internal">1024.39(b)(1)</ref> must be provided even if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> provided information about loss mitigation and foreclosure previously during an oral communication with the borrower under § <ref target="1024-39-a" reftype="internal">1024.39(a)</ref>.</content>
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1024-39-b-2-Interp" target="1024-39-b-2">
@@ -7505,57 +7509,10 @@
         </interpSection>
       </interpretations>
     <appendix appendixLetter="MS" label="1024-MS">
-        <appendixTitle>Appendix MS to Part 1024—Mortgage Servicing</appendixTitle>
-        <tableOfContents>
-          <tocAppEntry target="1024-MS-1">
-            <appendixLetter>1</appendixLetter>
-            <appendixSubject>Appendix MS-1 to Part 1024</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-MS-2">
-            <appendixLetter>2</appendixLetter>
-            <appendixSubject>Appendix MS-2 to Part 1024</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-MS-3">
-            <appendixLetter>3</appendixLetter>
-            <appendixSubject>Appendix MS-3 to Part 1024</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-MS-3(A)">
-            <appendixLetter>3(A)</appendixLetter>
-            <appendixSubject>MS-3(A)—Model Form for Force-Placed Insurance Notice Containing Information Required By § 1024.37(c)(2)</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-MS-3(B)">
-            <appendixLetter>3(B)</appendixLetter>
-            <appendixSubject>MS-3(B)— Model Form for Force-Placed Insurance Notice Containing Information Required By § 1024.37(d)(2)(i)</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-MS-3(C)">
-            <appendixLetter>3(C)</appendixLetter>
-            <appendixSubject>MS-3(C)— Model Form for Force-Placed Insurance Notice Containing Information Required By § 1024.37(d)(2)(ii)</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-MS-3(D)">
-            <appendixLetter>3(D)</appendixLetter>
-            <appendixSubject>MS-3(D)—Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By to § 1024.37(e)(2)</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-MS-4">
-            <appendixLetter>4</appendixLetter>
-            <appendixSubject>Appendix MS-4 to Part 1024</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-MS-4(A)">
-            <appendixLetter>4(A)</appendixLetter>
-            <appendixSubject>MS-4(A)—Statement Encouraging the Borrower To Contact the Servicer and Additional Information About Loss Mitigation Options (§ 1024.39(b)(2)(i), (ii) and (iv))</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-MS-4(B)">
-            <appendixLetter>4(B)</appendixLetter>
-            <appendixSubject>MS-4(B)—Available Loss Mitigation Options (§ 1024.39(b)(2)(iii))</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-MS-4(C)">
-            <appendixLetter>4(C)</appendixLetter>
-            <appendixSubject>MS-4(C)—Housing Counselors (§ 1024.39(b)(2)(v))</appendixSubject>
-          </tocAppEntry>
-        </tableOfContents>
+        <appendixTitle>Appendix MS — Mortgage Servicing</appendixTitle>
         <appendixSection appendixSecNum="1" label="1024-MS-1">
           <subject>Appendix MS-1 to Part 1024</subject>
           <paragraph label="1024-MS-1-h1" marker="">
-            <title>Servicing Disclosure Statement</title>
             <content/>
             <paragraph label="1024-MS-1-h1-p1" marker="">
               <content>[Sample language; use business stationery or similar heading]</content>
@@ -7718,6 +7675,26 @@
         </appendixSection>
         <appendixSection appendixSecNum="3" label="1024-MS-3">
           <subject>Appendix MS-3 to Part 1024</subject>
+          <!--
+          <tableOfContents>
+            <tocAppEntry target="1024-MS-3(A)">
+              <appendixLetter>3(A)</appendixLetter>
+              <appendixSubject>MS-3(A)—Model Form for Force-Placed Insurance Notice Containing Information Required By § 1024.37(c)(2)</appendixSubject>
+            </tocAppEntry>
+            <tocAppEntry target="1024-MS-3(B)">
+              <appendixLetter>3(B)</appendixLetter>
+              <appendixSubject>MS-3(B)— Model Form for Force-Placed Insurance Notice Containing Information Required By § 1024.37(d)(2)(i)</appendixSubject>
+            </tocAppEntry>
+            <tocAppEntry target="1024-MS-3(C)">
+              <appendixLetter>3(C)</appendixLetter>
+              <appendixSubject>MS-3(C)— Model Form for Force-Placed Insurance Notice Containing Information Required By § 1024.37(d)(2)(ii)</appendixSubject>
+            </tocAppEntry>
+            <tocAppEntry target="1024-MS-3(D)">
+              <appendixLetter>3(D)</appendixLetter>
+              <appendixSubject>MS-3(D)—Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By to § 1024.37(e)(2)</appendixSubject>
+            </tocAppEntry>
+          </tableOfContents>
+          -->
           <paragraph label="1024-MS-3-h5" marker="">
             <title>Model Force-Placed Insurance Notice Forms</title>
             <content/>
@@ -7912,9 +7889,8 @@
           </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="8" label="1024-MS-4">
-          <subject>Appendix MS-4 to Part 1024</subject>
+          <subject>Appendix MS–4—Model Clauses for the Written Early Intervention Notice</subject>
           <paragraph label="1024-MS-4-h6" marker="">
-            <title>Model Clauses for the Written Early Intervention Notice</title>
             <content/>
           </paragraph>
         <analysis label="1024-MS-4-Analysis">
