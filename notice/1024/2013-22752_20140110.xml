@@ -4,7 +4,7 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2014-01-10</date>
+    <date>2013-10-01</date>
     <originalDate>2012-01-01</originalDate>
     <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
   </fdsys>
@@ -18,6 +18,8 @@
     <effectiveDate>2014-01-10</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/10/01/2013-22752/amendments-to-the-2013-mortgage-rules-under-the-equal-credit-opportunity-act-regulation-b-real</federalRegisterURL>
   </preamble>
+
+
   <changeset leftDocumentNumber="2013-16962_20140110" rightDocumentNumber="2013-22752_20140110">
     <change operation="modified" label="1024-34-a">
       <paragraph label="1024-34-a" marker="(a)">
@@ -1058,6 +1060,7 @@
             <title>41(f) Prohibition on Foreclosure Referral</title>
             <analysisSection>
               <title>First Notice or Filing</title>
+              <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>The Proposal</title>
@@ -1085,6 +1088,7 @@
             </analysisSection>
             <analysisSection>
               <title>Exceptions to the Prohibition of Early Foreclosure Referrals</title>
+              <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>The Proposal</title>
@@ -8169,6 +8173,7 @@
               <title>41(f) Prohibition on Foreclosure Referral</title>
               <analysisSection>
                 <title>First Notice or Filing</title>
+                <analysisParagraph/>
               </analysisSection>
               <analysisSection>
                 <title>The Proposal</title>
@@ -8196,6 +8201,7 @@
               </analysisSection>
               <analysisSection>
                 <title>Exceptions to the Prohibition of Early Foreclosure Referrals</title>
+                <analysisParagraph/>
               </analysisSection>
               <analysisSection>
                 <title>The Proposal</title>
