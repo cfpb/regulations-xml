@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -19,17 +18,130 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/07/24/2013-16962/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-01248" rightDocumentNumber="2013-16962_20140110">
+    <change operation="modified" label="1024-TOC">
+      <tableOfContents>
+        <tocAppEntry target="1024-Subpart-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>General Provisions</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-Subpart-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Mortgage Settlement and Escrow Accounts</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-Subpart-C">
+          <appendixLetter>C</appendixLetter>
+          <appendixSubject>Mortgage Servicing</appendixSubject>
+        </tocAppEntry>
+
+        <tocAppEntry target="1024-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>Appendix A to Part 1024—Instructions for Completing HUD-1 and HUD-1a Settlement Statements; Sample HUD-1 and HUD-1a Statements</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Appendix B to Part 1024—Illustrations of Requirements of RESPA</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-C">
+          <appendixLetter>C</appendixLetter>
+          <appendixSubject>Appendix C to Part 1024—Instructions for Completing Good Faith Estimate (GFE) Form</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-D">
+          <appendixLetter>D</appendixLetter>
+          <appendixSubject>Appendix D to Part 1024—Affiliated Business Arrangement Disclosure Statement Format</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-E">
+          <appendixLetter>E</appendixLetter>
+          <appendixSubject>Appendix E to Part 1024—Arithmetic Steps</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1024-MS">
+          <appendixLetter>MS</appendixLetter>
+          <appendixSubject>Appendix MS — Mortgage Servicing</appendixSubject>
+        </tocAppEntry>
+
+        <tocAppEntry target="1024-Interp">
+          <appendixLetter>Interp</appendixLetter>
+          <appendixSubject>Supplement I to Part 1026—Official Bureau Interpretations</appendixSubject>
+        </tocAppEntry>
+      </tableOfContents>
+    </change>
+    <change operation="modified" label="1024-Subpart-A" subpath='title'>
+      <title>General Provisions</title>
+    </change>
+    <change operation="modified" label="1024-Subpart-B-TOC">
+      <tableOfContents label="1024-Subpart-B-TOC">
+        <tocSecEntry target="1024-6">
+          <sectionNum>6</sectionNum>
+          <sectionSubject>§ 1024.6 Special information booklet at time of loan application.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-7">
+          <sectionNum>7</sectionNum>
+          <sectionSubject>§ 1024.7 Good faith estimate.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-8">
+          <sectionNum>8</sectionNum>
+          <sectionSubject>§ 1024.8 Use of HUD-1 or HUD-1A settlement statements.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-9">
+          <sectionNum>9</sectionNum>
+          <sectionSubject>§ 1024.9 Reproduction of settlement statements.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-10">
+          <sectionNum>10</sectionNum>
+          <sectionSubject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-11">
+          <sectionNum>11</sectionNum>
+          <sectionSubject>§ 1024.11 Mailing.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-12">
+          <sectionNum>12</sectionNum>
+          <sectionSubject>§ 1024.12 No fee.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-13">
+          <sectionNum>13</sectionNum>
+          <sectionSubject>§ 1024.13 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-14">
+          <sectionNum>14</sectionNum>
+          <sectionSubject>§ 1024.14 Prohibition against kickbacks and unearned fees.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-15">
+          <sectionNum>15</sectionNum>
+          <sectionSubject>§ 1024.15 Affiliated business arrangements.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-16">
+          <sectionNum>16</sectionNum>
+          <sectionSubject>§ 1024.16 Title companies.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-17">
+          <sectionNum>17</sectionNum>
+          <sectionSubject>§ 1024.17 Escrow accounts.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-18">
+          <sectionNum>17</sectionNum>
+          <sectionSubject>§ 1024.18 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-19">
+          <sectionNum>17</sectionNum>
+          <sectionSubject>§ 1024.19 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-20">
+          <sectionNum>20</sectionNum>
+          <sectionSubject>§ 1024.20 List of homeownership counseling organizations.</sectionSubject>
+        </tocSecEntry>
+      </tableOfContents>
+    </change>
+
     <change operation="modified" label="1024-34-a">
       <paragraph label="1024-34-a" marker="(a)">
         <title type="keyterm">Timely escrow disbursements required.</title>
-        <content><ref target="1024-2-b-Settlement" reftype="term">escrow</ref> disbursements required. If the terms of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> require the borrower to make payments to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> for deposit into an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account to pay taxes, insurance premiums, and other charges for the <ref target="1024-2-b-MortgagedProperty" reftype="term">mortgaged property</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make payments from the <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account in a timely manner, that is, on or before the deadline to avoid a penalty, as governed by the requirements in § <ref target="1024-17-k" reftype="internal">1024.17(k)</ref>.</content>
+        <content>If the terms of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> require the borrower to make payments to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> for deposit into an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account to pay taxes, insurance premiums, and other charges for the <ref target="1024-2-b-MortgagedProperty" reftype="term">mortgaged property</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make payments from the <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account in a timely manner, that is, on or before the deadline to avoid a penalty, as governed by the requirements in § <ref target="1024-17-k" reftype="internal">1024.17(k)</ref>.</content>
         <analysis label="1024-34-a-Analysis">
           <analysisSection>
             <title>34(a) Timely Escrow Disbursements Required</title>
             <analysisParagraph>RESPA section 6(g) provides that, if the terms of any federally related mortgage loan require the borrower to make payments to the servicer of the loan for deposit into an escrow account for the purpose of assuring payment of taxes, insurance premiums, and other charges with respect to the property, the servicer shall make payments from the escrow account for such taxes, insurance premiums, and other charges in a timely manner as such payments become due. 12 U.S.C. 2605(g). Current § 1024.21(g) implements this provision by replicating the statutory nearly verbatim. Current § 1024.21(g) uses the term “mortgage servicing loan” in place of the statutory term “federally related mortgage loan” and includes a cross-reference to § 1024.17(k), which sets forth more detailed requirements for how escrow payments are made in a timely manner.</analysisParagraph>
             <analysisParagraph>The Bureau proposed to incorporate the substance of current § 1024.21(g) into new § 1024.34(a) to provide that, if the terms of a mortgage loan require the borrower to make payments to the servicer of the mortgage loan for deposit into an escrow account to pay taxes, insurance premiums, and other charges for the mortgaged property, the servicer shall make payments from the escrow account in a timely manner, that is, on or before the deadline to avoid a penalty, as governed by the requirements in § 1024.17(k).</analysisParagraph>
-            <analysisParagraph>As discussed above, the Bureau proposed to expand the scope of current § 1024.21(g); proposed § 1024.34(a) would have replaced the term “mortgage servicing loan” with the term “mortgage loan,” which includes subordinate-lien loans. Other than this change in scope, the Bureau proposed several non-substantive technical revisions to the current provision. One commenter indicated that subordinate-lien, closed-end loans typically do not have escrow accounts. The commenter asked that the Bureau clarify whether these rules would apply to subordinate-lien loans to avoid confusion.
-          </analysisParagraph>
+            <analysisParagraph>As discussed above, the Bureau proposed to expand the scope of current § 1024.21(g); proposed § 1024.34(a) would have replaced the term “mortgage servicing loan” with the term “mortgage loan,” which includes subordinate-lien loans. Other than this change in scope, the Bureau proposed several non-substantive technical revisions to the current provision. One commenter indicated that subordinate-lien, closed-end loans typically do not have escrow accounts. The commenter asked that the Bureau clarify whether these rules would apply to subordinate-lien loans to avoid confusion.</analysisParagraph>
             <analysisParagraph>The Bureau is adopting this provision as proposed. RESPA section 6(g), and both current § 1024.21(g) and new § 1024.34(a), limit the applicability of the provision, among other things, to loans whose terms require the borrower to make payments to the servicer of the loan for deposit into an escrow account to pay taxes, insurance premiums, and other charges for the mortgaged property. Thus, if a subordinate-lien mortgage loan does not require borrowers to make payments into an escrow account, § 1024.34(a) would not apply.</analysisParagraph>
           </analysisSection>
         </analysis>
@@ -394,7 +506,7 @@
         </paragraph>
         <paragraph label="1024-35-e-1-ii" marker="(ii)">
           <title type="keyterm">Different or additional error.</title>
-          <content><ref target="1024-35-b" reftype="term">error</ref>. If during a reasonable investigation of a notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> concludes that <ref target="1024-35-b" reftype="term">errors</ref> occurred other than, or in addition to, the <ref target="1024-35-b" reftype="term">error</ref> or <ref target="1024-35-b" reftype="term">errors</ref> alleged by the borrower, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall correct all such additional <ref target="1024-35-b" reftype="term">errors</ref> and provide the borrower with a written notification that describes the <ref target="1024-35-b" reftype="term">errors</ref> the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> identified, the action taken to correct the <ref target="1024-35-b" reftype="term">errors</ref>, the effective date of the correction, and contact information, including a telephone number, for further assistance.</content>
+          <content>If during a reasonable investigation of a notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> concludes that <ref target="1024-35-b" reftype="term">errors</ref> occurred other than, or in addition to, the <ref target="1024-35-b" reftype="term">error</ref> or <ref target="1024-35-b" reftype="term">errors</ref> alleged by the borrower, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall correct all such additional <ref target="1024-35-b" reftype="term">errors</ref> and provide the borrower with a written notification that describes the <ref target="1024-35-b" reftype="term">errors</ref> the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> identified, the action taken to correct the <ref target="1024-35-b" reftype="term">errors</ref>, the effective date of the correction, and contact information, including a telephone number, for further assistance.</content>
         </paragraph>
         <analysis label="1024-35-e-1-Analysis">
           <analysisSection>
@@ -568,10 +680,10 @@
     <change operation="modified" label="1024-41-c">
       <paragraph label="1024-41-c" marker="(c)">
         <title type="keyterm">Evaluation of loss mitigation applications.</title>
-        <content><ref target="1024-2-b-Application" reftype="term">applications</ref>.</content>
+        <content></content>
         <paragraph label="1024-41-c-1" marker="(1)">
           <title type="keyterm">Complete loss mitigation application.</title>
-          <content><ref target="1024-2-b-Application" reftype="term">application</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives a complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> more than 37 days before a foreclosure sale, then, within 30 days of receiving a borrower's complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall:</content>
+          <content>If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives a complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> more than 37 days before a foreclosure sale, then, within 30 days of receiving a borrower's complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall:</content>
           <paragraph label="1024-41-c-1-i" marker="(i)">
             <content>Evaluate the borrower for all loss mitigation options available to the borrower; and</content>
           </paragraph>
@@ -581,7 +693,7 @@
         </paragraph>
         <paragraph label="1024-41-c-2" marker="(2)">
           <title type="keyterm">Incomplete loss mitigation application evaluation.</title>
-          <content><ref target="1024-2-b-Application" reftype="term">application</ref> evaluation.</content>
+          <content></content>
           <paragraph label="1024-41-c-2-i" marker="(i)">
             <title type="keyterm">In general.</title>
             <content>Except as set forth in paragraph <ref target="1024-41-c-2-ii" reftype="internal">(c)(2)(ii)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not evade the requirement to evaluate a complete loss mitigation option for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
@@ -634,14 +746,14 @@
     <change operation="modified" label="1024-41-b">
       <paragraph label="1024-41-b" marker="(b)">
         <title type="keyterm">Receipt of a loss mitigation application.</title>
-        <content><ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
+        <content></content>
         <paragraph label="1024-41-b-1" marker="(1)">
           <title type="keyterm">Complete loss mitigation application.</title>
-          <content><ref target="1024-2-b-Application" reftype="term">application</ref>. A complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> means an <ref target="1024-2-b-Application" reftype="term">application</ref> in connection with which a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has received all the information that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> requires from a borrower in evaluating <ref target="1024-2-b-Application" reftype="term">applications</ref> for the loss mitigation options available to the borrower. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall exercise reasonable diligence in obtaining documents and information to complete a loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
+          <content>A complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> means an <ref target="1024-2-b-Application" reftype="term">application</ref> in connection with which a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has received all the information that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> requires from a borrower in evaluating <ref target="1024-2-b-Application" reftype="term">applications</ref> for the loss mitigation options available to the borrower. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall exercise reasonable diligence in obtaining documents and information to complete a loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
         </paragraph>
         <paragraph label="1024-41-b-2" marker="(2)">
           <title type="keyterm">Review of loss mitigation application submission.</title>
-          <content><ref target="1024-2-b-Application" reftype="term">application</ref> submission.</content>
+          <content></content>
           <paragraph label="1024-41-b-2-i" marker="(i)">
             <title type="keyterm">Requirements.</title>
             <content>If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives a loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> 45 days or more before a foreclosure sale, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall:</content>
@@ -838,7 +950,7 @@
         </paragraph>
         <paragraph label="1024-41-f-2" marker="(2)">
           <title type="keyterm">Application received before foreclosure referral.</title>
-          <content><ref target="1024-2-b-Application" reftype="term">Application</ref> If a borrower submits a complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> during the pre-foreclosure review period set forth in paragraph <ref target="1024-41-f-1" reftype="internal">(f)(1)</ref> of this section or before a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has made the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:</content>
+          <content>If a borrower submits a complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> during the pre-foreclosure review period set forth in paragraph <ref target="1024-41-f-1" reftype="internal">(f)(1)</ref> of this section or before a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has made the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:</content>
           <paragraph label="1024-41-f-2-i" marker="(i)">
             <content>The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has sent the borrower a notice pursuant to paragraph <ref target="1024-41-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section that the borrower is not eligible for any loss mitigation option and the appeal process in paragraph <ref target="1024-41-h" reftype="internal">(h)</ref> of this section is not applicable, the borrower has not requested an appeal within the applicable time period for requesting an appeal, or the borrower's appeal has been denied;</content>
           </paragraph>
@@ -1050,7 +1162,7 @@
         </paragraph>
         <paragraph label="1024-20-b" marker="(b)">
           <title type="keyterm">Open-end lines of credit (home-equity plans) under Regulation Z.</title>
-          <content><ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>. For a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> that is a home-equity line of credit subject to <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>, a <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> that provides the loan applicant with the list of homeownership organizations required under this section may comply with the timing and delivery requirements set out in either paragraph <ref target="1024-20-a" reftype="internal">(a)</ref> of this section or <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>(b).</content>
+          <content>For a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> that is a home-equity line of credit subject to <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>, a <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> that provides the loan applicant with the list of homeownership organizations required under this section may comply with the timing and delivery requirements set out in either paragraph <ref target="1024-20-a" reftype="internal">(a)</ref> of this section or <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>(b).</content>
           <analysis label="1024-20-b-Analysis">
             <analysisSection>
               <title>20(b) Open-End Lines of Credit (Home-Equity Plans) Under Regulation Z</title>
@@ -1063,7 +1175,7 @@
           <content/>
           <paragraph label="1024-20-c-1" marker="(1)">
             <title type="keyterm">Reverse mortgage transactions.</title>
-            <content><ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">Reverse mortgage</ref> A <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an applicant for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transaction subject to <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a) the list of homeownership counseling organizations required under this section.</content>
+            <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an applicant for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transaction subject to <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a) the list of homeownership counseling organizations required under this section.</content>
             <analysis label="1024-20-c-1-Analysis">
               <analysisSection>
                 <title>20(c)(1) Reverse Mortgage Transactions</title>
@@ -1128,7 +1240,7 @@
           </paragraph>
           <paragraph label="1024-5-b-5" marker="(5)">
             <title type="keyterm">Assumption without lender approval.</title>
-            <content><ref target="1024-2-b-Lender" reftype="term">lender</ref> approval. Any assumption in which the <ref target="1024-2-b-Lender" reftype="term">lender</ref> does not have the right expressly to approve a subsequent person as the borrower on an existing <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref>. Any assumption in which the <ref target="1024-2-b-Lender" reftype="term">lender</ref>'s permission is both required and obtained is covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and this part, whether or not the <ref target="1024-2-b-Lender" reftype="term">lender</ref> charges a fee for the assumption.</content>
+            <content>Any assumption in which the <ref target="1024-2-b-Lender" reftype="term">lender</ref> does not have the right expressly to approve a subsequent person as the borrower on an existing <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref>. Any assumption in which the <ref target="1024-2-b-Lender" reftype="term">lender</ref>'s permission is both required and obtained is covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and this part, whether or not the <ref target="1024-2-b-Lender" reftype="term">lender</ref> charges a fee for the assumption.</content>
           </paragraph>
           <paragraph label="1024-5-b-6" marker="(6)">
             <title type="keyterm">Loan conversions.</title>
@@ -1136,12 +1248,12 @@
           </paragraph>
           <paragraph label="1024-5-b-7" marker="(7)">
             <title type="keyterm">Secondary market transactions.</title>
-            <content>A bona fide transfer of a loan obligation in the secondary market is not covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and this part, except with respect to <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (12 U.S.C. 260<ref target="USC:12-2605" reftype="external">5) and subpart</ref> C of th<ref target="1024-21" reftype="internal">is part</ref> (§§ 1024.30- 1024.41). In determining what constitutes a bona fide transfer, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> will consider the real source of funding and the real interest of the funding <ref target="1024-2-b-Lender" reftype="term">lender</ref>. <ref target="1024-2-b-MortgageBroker" reftype="term">Mortgage broker</ref> transactions that are table-funded are not secondary market transactions. Neither the creation of a <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">dealer loan or dealer consumer credit contract</ref>, nor the first assignment of such loan or contract to a <ref target="1024-2-b-Lender" reftype="term">lender</ref>, is a secondary mark<ref target="1024-2" reftype="internal">et tra</ref>nsaction (see § 1024.2).</content>
+            <content>A bona fide transfer of a loan obligation in the secondary market is not covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and this part, except with respect to <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> <ref target="USC:12-2605" reftype="external">(12 U.S.C. 2605)</ref> and subpart <ref target="1024-Subpart-C" reftype="internal">C</ref> of this part (§§ 1024.30-1024.41). In determining what constitutes a bona fide transfer, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> will consider the real source of funding and the real interest of the funding <ref target="1024-2-b-Lender" reftype="term">lender</ref>. <ref target="1024-2-b-MortgageBroker" reftype="term">Mortgage broker</ref> transactions that are table-funded are not secondary market transactions. Neither the creation of a <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">dealer loan or dealer consumer credit contract</ref>, nor the first assignment of such loan or contract to a <ref target="1024-2-b-Lender" reftype="term">lender</ref>, is a secondary market transaction (see § 1024.2).</content>
           </paragraph>
         </paragraph>
         <paragraph label="1024-5-c" marker="(c)">
           <title type="keyterm">Relation to State laws.</title>
-          <content><ref target="1024-2-b-State" reftype="term">State</ref> laws.</content>
+          <content></content>
           <paragraph label="1024-5-c-1" marker="(1)">
             <content><ref target="1024-2-b-State" reftype="term">State</ref> laws that are inconsistent with <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this part are preempted to the extent of the inconsistency. However, <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and these regulations do not annul, alter, affect, or exempt any person subject to their provisions from complying with the laws of any <ref target="1024-2-b-State" reftype="term">State</ref> with respect to <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> practices, except to the extent of the inconsistency.</content>
           </paragraph>
@@ -1220,7 +1332,7 @@
     <change operation="modified" label="1024-35-f-2">
       <paragraph label="1024-35-f-2" marker="(2)">
         <title type="keyterm">Error asserted before foreclosure sale.</title>
-        <content><ref target="1024-35-b" reftype="term">Error</ref> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section for <ref target="1024-35-b" reftype="term">errors</ref> asserted under paragraph <ref target="1024-35-b-9" reftype="internal">(b)(9)</ref> or <ref target="1024-35-b-10" reftype="internal">(10)</ref> of this section if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives the applicable notice of an <ref target="1024-35-b" reftype="term">error</ref> seven or fewer days before a foreclosure sale. For any such notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make a good faith attempt to respond to the borrower, orally or in writing, and either correct the <ref target="1024-35-b" reftype="term">error</ref> or state the reason the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has determined that no <ref target="1024-35-b" reftype="term">error</ref> has occurred.</content>
+        <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section for <ref target="1024-35-b" reftype="term">errors</ref> asserted under paragraph <ref target="1024-35-b-9" reftype="internal">(b)(9)</ref> or <ref target="1024-35-b-10" reftype="internal">(10)</ref> of this section if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives the applicable notice of an <ref target="1024-35-b" reftype="term">error</ref> seven or fewer days before a foreclosure sale. For any such notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make a good faith attempt to respond to the borrower, orally or in writing, and either correct the <ref target="1024-35-b" reftype="term">error</ref> or state the reason the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has determined that no <ref target="1024-35-b" reftype="term">error</ref> has occurred.</content>
         <analysis label="1024-35-f-2-Analysis">
           <analysisSection>
             <title>35(f)(2) Errors Asserted Before Foreclosure Sale</title>
@@ -1236,7 +1348,7 @@
     <change operation="modified" label="1024-41-j">
       <paragraph label="1024-41-j" marker="(j)">
         <title type="keyterm">Small servicer requirements.</title>
-        <content><ref target="1024-2-b-Servicer" reftype="term">servicer</ref> requirements. A small <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless a borrower's <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> obligation is more than 120 days delinquent. A small <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.</content>
+        <content>A small <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless a borrower's <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> obligation is more than 120 days delinquent. A small <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.</content>
         <analysis label="1024-41-j-Analysis">
           <analysisSection>
             <title>41(j) Other Liens (Withdrawn)</title>
@@ -1292,32 +1404,6 @@
             <analysisParagraph>In the final rule, the Bureau has added language to § 1024.33(c)(2)(ii) to require the transferor servicer to notify the payor of the proper recipient of payment. Although the servicing transfer notice will provide some notice to the borrower of a transfer, there may be situations in which the payor may be a different party than the borrower who received the transfer notice. In addition, the fact that the payment was sent to the transferor servicer would suggest that the transfer notice sent pursuant to § 1024.33(b) did not achieve its intended purpose. Thus, the Bureau believes it is appropriate to instruct the payor of the proper recipient of the payment and that borrowers will be better served by this requirement than by requiring the transferor to redirect the payment to the transferee.</analysisParagraph>
           </analysisSection>
         </analysis>
-      </paragraph>
-    </change>
-    <change operation="added" label="1024-5-c-2">
-      <paragraph label="1024-5-c-2" marker="(2)">
-        <content>Upon request by any person, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> is authorized to determine if inconsistencies with <ref target="1024-2-b-State" reftype="term">State</ref> law exist; in doing so, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> shall consult with appropriate Federal agencies.</content>
-        <paragraph label="1024-5-c-2-i" marker="(i)">
-          <content>The <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> may not determine that a <ref target="1024-2-b-State" reftype="term">State</ref> law or regulation is inconsistent with any provision of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this part, if the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> determines that such law or regulation gives greater protection to the consumer.</content>
-        </paragraph>
-        <paragraph label="1024-5-c-2-ii" marker="(ii)">
-          <content>In determining whether provisions of <ref target="1024-2-b-State" reftype="term">State</ref> law or regulations concerning affiliated business arrangements are inconsistent with <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this part, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> may not construe those provisions that impose more stringent limitations on affiliated business arrangements as inconsistent with <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> so long as they give more protection to consumers and/or competition.</content>
-        </paragraph>
-      </paragraph>
-    </change>
-    <change operation="added" label="1024-5-c-3">
-      <paragraph label="1024-5-c-3" marker="(3)">
-        <content>Any person may request the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> to determine whether an inconsistency exists by submitting to the address established by the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> to request an official interpretation, a copy of the <ref target="1024-2-b-State" reftype="term">State</ref> law in question, any other law or judicial or administrative opinion that implements, interprets or applies the relevant provision, and an explanation of the possible inconsistency. A determination by the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> that an inconsistency with <ref target="1024-2-b-State" reftype="term">State</ref> law exists will be made by publication of a notice in the Federal Register. “Law” as used in this section includes regulations and any enactment which has the force and effect of law and is issued by a <ref target="1024-2-b-State" reftype="term">State</ref> or any political subdivision of a <ref target="1024-2-b-State" reftype="term">State</ref>.</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1024-5-c-1">
-      <paragraph label="1024-5-c-1" marker="(1)">
-        <content><ref target="1024-2-b-State" reftype="term">State</ref> laws that are inconsistent with <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this part are preempted to the extent of the inconsistency. However, <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and these regulations do not annul, alter, affect, or exempt any person subject to their provisions from complying with the laws of any <ref target="1024-2-b-State" reftype="term">State</ref> with respect to <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> practices, except to the extent of the inconsistency.</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1024-5-c-4">
-      <paragraph label="1024-5-c-4" marker="(4)">
-        <content>A specific preemption of conflicting <ref target="1024-2-b-State" reftype="term">State</ref> laws regarding notices and disclosures of mortgage <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfers is set forth in § <ref target="1024-33-d" reftype="internal">1024.33(d)</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1024-34-b-1">
@@ -1429,7 +1515,7 @@
           </paragraph>
           <paragraph label="1024-38-b-2" marker="(2)">
             <title type="keyterm">Properly evaluating loss mitigation applications.</title>
-            <content><ref target="1024-2-b-Application" reftype="term">applications</ref>. The policies and procedures required by paragraph <ref target="1024-38-a" reftype="internal">(a)</ref> of this section shall be reasonably designed to ensure that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can:</content>
+            <content>The policies and procedures required by paragraph <ref target="1024-38-a" reftype="internal">(a)</ref> of this section shall be reasonably designed to ensure that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can:</content>
             <paragraph label="1024-38-b-2-i" marker="(i)">
               <content>Provide accurate information regarding loss mitigation options available to a borrower from the owner or assignee of the borrower's <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>;</content>
             </paragraph>
@@ -1492,7 +1578,7 @@
           </paragraph>
           <paragraph label="1024-38-b-4" marker="(4)">
             <title type="keyterm">Facilitating transfer of information during servicing transfers.</title>
-            <content><ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfers. The policies and procedures required by paragraph <ref target="1024-38-a" reftype="internal">(a)</ref> of this section shall be reasonably designed to ensure that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can:</content>
+            <content>The policies and procedures required by paragraph <ref target="1024-38-a" reftype="internal">(a)</ref> of this section shall be reasonably designed to ensure that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can:</content>
             <paragraph label="1024-38-b-4-i" marker="(i)">
               <content>As a transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, timely transfer all information and documents in the possession or control of the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> relating to a transferred <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> to a <ref target="1024-38-b-4-iii" reftype="term">transferee servicer</ref> in a form and manner that ensures the accuracy of the information and documents transferred and that enables a <ref target="1024-38-b-4-iii" reftype="term">transferee servicer</ref> to comply with the terms of the <ref target="1024-38-b-4-iii" reftype="term">transferee servicer</ref>'s obligations to the owner or assignee of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> and applicable law; and</content>
             </paragraph>
@@ -1547,7 +1633,7 @@
           </paragraph>
           <paragraph label="1024-38-c-2" marker="(2)">
             <title type="keyterm">Servicing file.</title>
-            <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall maintain the following documents and data on each <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> account serviced by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in a manner that facilitates compiling such documents and data into a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> file within five days:</content>
+            <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall maintain the following documents and data on each <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> account serviced by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in a manner that facilitates compiling such documents and data into a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> file within five days:</content>
             <paragraph label="1024-38-c-2-i" marker="(i)">
               <content>A schedule of all transactions credited or debited to the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> account, including any <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account as defined in § <ref target="1024-17-b" reftype="internal">1024.17(b)</ref> and any suspense account;</content>
             </paragraph>
@@ -2000,7 +2086,7 @@
       <section label="1024-31" sectionNum="31">
         <subject>§ 1024.31 Definitions.</subject>
         <paragraph label="1024-31-1" marker="(1)">
-          <content><ref target="1024-2-b-State" reftype="term">States</ref> the reasons the borrower believes the account is in error; or</content>
+          <content>States the reasons the borrower believes the account is in error; or</content>
         </paragraph>
         <paragraph label="1024-31-2" marker="(2)">
           <content>Provides sufficient detail to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> regarding information relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> sought by the borrower.</content>
@@ -2072,7 +2158,7 @@
         <subject>§ 1024.33 Mortgage servicing transfers.</subject>
         <paragraph label="1024-33-a" marker="(a)">
           <title type="keyterm">Servicing disclosure statement.</title>
-          <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> Within three days (excluding legal public holidays, Saturdays, and Sundays) after a person applies for a first-lien <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>, the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> who anticipates using <ref target="1024-2-b-TableFunding" reftype="term">table funding</ref>, or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> in a first-lien <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> loan shall provide to the person a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement that states whether the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> may be assigned, sold, or transferred to any other person at any time. Appendix <ref target="1024-MS-1" reftype="internal">MS-1</ref> of this part contains a model form for the disclosures required under this paragraph <ref target="1024-33-a" reftype="internal">(a)</ref>. If a person who applies for a first-lien <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is denied credit within the three-day period, a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement is not required to be delivered.</content>
+          <content>Within three days (excluding legal public holidays, Saturdays, and Sundays) after a person applies for a first-lien <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>, the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> who anticipates using <ref target="1024-2-b-TableFunding" reftype="term">table funding</ref>, or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> in a first-lien <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> loan shall provide to the person a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement that states whether the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> may be assigned, sold, or transferred to any other person at any time. Appendix <ref target="1024-MS-1" reftype="internal">MS-1</ref> of this part contains a model form for the disclosures required under this paragraph <ref target="1024-33-a" reftype="internal">(a)</ref>. If a person who applies for a first-lien <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is denied credit within the three-day period, a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement is not required to be delivered.</content>
           <analysis label="1024-33-a-Analysis">
             <analysisSection>
               <title>33(a) Servicing Disclosure Statement</title>
@@ -2096,7 +2182,7 @@
         </paragraph>
         <paragraph label="1024-33-b" marker="(b)">
           <title type="keyterm">Notices of transfer of loan servicing.</title>
-          <content><ref target="1024-2-b-Servicing" reftype="term">servicing</ref>.</content>
+          <content></content>
           <paragraph label="1024-33-b-1" marker="(1)">
             <title type="keyterm">Requirement for notice.</title>
             <content>Except as provided in paragraph <ref target="1024-33-b-2" reftype="internal">(b)(2)</ref> of this section, each transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> of any <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> shall provide to the borrower a notice of transfer for any assignment, sale, or transfer of the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>. The notice must contain the information described in paragraph <ref target="1024-33-b-4" reftype="internal">(b)(4)</ref> of this section. Appendix <ref target="1024-MS-2" reftype="internal">MS-2</ref> of this part contains a model form for the disclosures required under this paragraph <ref target="1024-33-b" reftype="internal">(b)</ref>.</content>
@@ -2192,7 +2278,7 @@
             </paragraph>
             <paragraph label="1024-33-b-3-iii" marker="(iii)">
               <title type="keyterm">Notice provided at settlement.</title>
-              <content><ref target="1024-2-b-Settlement" reftype="term">settlement</ref>. Notices of transfer provided at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> by the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, whether as separate notices or as a combined notice, satisfy the timing requirements of paragraph <ref target="1024-33-b-3" reftype="internal">(b)(3)</ref> of this section.</content>
+              <content>Notices of transfer provided at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> by the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, whether as separate notices or as a combined notice, satisfy the timing requirements of paragraph <ref target="1024-33-b-3" reftype="internal">(b)(3)</ref> of this section.</content>
               <analysis label="1024-33-b-3-iii-Analysis">
                 <analysisSection>
                   <title>33(b)(3)(iii) Notice Provided at Settlement</title>
@@ -2289,7 +2375,7 @@
         </paragraph>
         <paragraph label="1024-33-c" marker="(c)">
           <title type="keyterm">Borrower payments during transfer of servicing.</title>
-          <content><ref target="1024-2-b-Servicing" reftype="term">servicing</ref>.</content>
+          <content></content>
           <paragraph label="1024-33-c-1" marker="(1)">
             <title type="keyterm">Payments not considered late.</title>
             <content>During the 60-day period beginning on the <ref target="1024-2-b-def1" reftype="term">effective date of transfer</ref> of the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of any <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>, if the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> (rather than the transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that should properly receive payment on the loan) receives payment on or before the applicable due date (including any grace period allowed under the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> instruments), a payment may not be treated as late for any purpose.</content>
@@ -2329,7 +2415,7 @@
         </paragraph>
         <paragraph label="1024-33-d" marker="(d)">
           <title type="keyterm">Preemption of State laws.</title>
-          <content><ref target="1024-2-b-State" reftype="term">State</ref> laws. A <ref target="1024-2-b-Lender" reftype="term">lender</ref> who makes a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> or a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall be considered to have complied with the provisions of any <ref target="1024-2-b-State" reftype="term">State</ref> law or regulation requiring notice to a borrower at the time of <ref target="1024-2-b-Application" reftype="term">application</ref> for a loan or transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a loan if the <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with the requirements of this section. Any <ref target="1024-2-b-State" reftype="term">State</ref> law requiring notice to the borrower at the time of <ref target="1024-2-b-Application" reftype="term">application</ref> or at the time of transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the loan is preempted, and there shall be no additional borrower disclosure requirements. Provisions of <ref target="1024-2-b-State" reftype="term">State</ref> law, such as those requiring additional notices to insurance companies or taxing authorities, are not preempted by section 6 of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this section, and this additional information may be added to a notice provided under this section, if permitted under <ref target="1024-2-b-State" reftype="term">State</ref> law.</content>
+          <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> who makes a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> or a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall be considered to have complied with the provisions of any <ref target="1024-2-b-State" reftype="term">State</ref> law or regulation requiring notice to a borrower at the time of <ref target="1024-2-b-Application" reftype="term">application</ref> for a loan or transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a loan if the <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with the requirements of this section. Any <ref target="1024-2-b-State" reftype="term">State</ref> law requiring notice to the borrower at the time of <ref target="1024-2-b-Application" reftype="term">application</ref> or at the time of transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the loan is preempted, and there shall be no additional borrower disclosure requirements. Provisions of <ref target="1024-2-b-State" reftype="term">State</ref> law, such as those requiring additional notices to insurance companies or taxing authorities, are not preempted by section 6 of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this section, and this additional information may be added to a notice provided under this section, if permitted under <ref target="1024-2-b-State" reftype="term">State</ref> law.</content>
           <analysis label="1024-33-d-Analysis">
             <analysisSection>
               <title>33(d) Preemption of State Laws</title>
@@ -2365,7 +2451,7 @@
         <subject>§ 1024.34 Timely escrow payments and treatment of escrow account balances.</subject>
         <paragraph label="1024-34-a" marker="(a)">
           <title type="keyterm">Timely escrow disbursements required.</title>
-          <content><ref target="1024-2-b-Settlement" reftype="term">escrow</ref> disbursements required. If the terms of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> require the borrower to make payments to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> for deposit into an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account to pay taxes, insurance premiums, and other charges for the <ref target="1024-2-b-MortgagedProperty" reftype="term">mortgaged property</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make payments from the <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account in a timely manner, that is, on or before the deadline to avoid a penalty, as governed by the requirements in § <ref target="1024-17-k" reftype="internal">1024.17(k)</ref>.</content>
+          <content>If the terms of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> require the borrower to make payments to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> for deposit into an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account to pay taxes, insurance premiums, and other charges for the <ref target="1024-2-b-MortgagedProperty" reftype="term">mortgaged property</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make payments from the <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account in a timely manner, that is, on or before the deadline to avoid a penalty, as governed by the requirements in § <ref target="1024-17-k" reftype="internal">1024.17(k)</ref>.</content>
           <analysis label="1024-34-a-Analysis">
             <analysisSection>
               <title>34(a) Timely Escrow Disbursements Required</title>
@@ -2379,7 +2465,7 @@
         </paragraph>
         <paragraph label="1024-34-b" marker="(b)">
           <title type="keyterm">Refund of escrow balance.</title>
-          <content><ref target="1024-2-b-Settlement" reftype="term">escrow</ref> balance.</content>
+          <content></content>
           <paragraph label="1024-34-b-1" marker="(1)">
             <title type="keyterm">In general.</title>
             <content>Except as provided in paragraph <ref target="1024-34-b-2" reftype="internal">(b)(2)</ref> of this section, within 20 days (excluding legal public holidays, Saturdays, and Sundays) of a borrower's payment of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> in full, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall return to the borrower any amounts remaining in an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account that is within the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s control.</content>
@@ -2396,7 +2482,7 @@
           </paragraph>
           <paragraph label="1024-34-b-2" marker="(2)">
             <title type="keyterm">Servicer may credit funds to a new escrow account.</title>
-            <content><ref target="1024-2-b-Servicer" reftype="term">Servicer</ref><ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account. Notwithstanding paragraph <ref target="1024-34-b-1" reftype="internal">(b)(1)</ref> of this section, if the borrower agrees, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may credit any amounts remaining in an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account that is within the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s control to an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account for a new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> as of the date of the <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> of the new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> if the new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is provided to the borrower by a <ref target="1024-2-b-Lender" reftype="term">lender</ref> that:</content>
+            <content>Notwithstanding paragraph <ref target="1024-34-b-1" reftype="internal">(b)(1)</ref> of this section, if the borrower agrees, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may credit any amounts remaining in an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account that is within the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s control to an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account for a new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> as of the date of the <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> of the new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> if the new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is provided to the borrower by a <ref target="1024-2-b-Lender" reftype="term">lender</ref> that:</content>
             <paragraph label="1024-34-b-2-i" marker="(i)">
               <content>Was also the <ref target="1024-2-b-Lender" reftype="term">lender</ref> to whom the prior <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> was initially payable;</content>
             </paragraph>
@@ -2437,7 +2523,7 @@
         <subject>§ 1024.35 Error resolution procedures.</subject>
         <paragraph label="1024-35-a" marker="(a)">
           <title type="keyterm">Notice of error.</title>
-          <content><ref target="1024-35-b" reftype="term">error</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of this section for any written notice from the borrower that asserts an <ref target="1024-35-b" reftype="term">error</ref> and that includes the name of the borrower, information that enables the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to identify the borrower's <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> account, and the <ref target="1024-35-b" reftype="term">error</ref> the borrower believes has occurred. A notice on a payment coupon or other payment form supplied by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> need not be treated by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> as a notice of <ref target="1024-35-b" reftype="term">error</ref>. A qualified written request that asserts an <ref target="1024-35-b" reftype="term">error</ref> relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is a notice of <ref target="1024-35-b" reftype="term">error</ref> for purposes of this section, and a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must comply with all requirements applicable to a notice of <ref target="1024-35-b" reftype="term">error</ref> with respect to such qualified written request.</content>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of this section for any written notice from the borrower that asserts an <ref target="1024-35-b" reftype="term">error</ref> and that includes the name of the borrower, information that enables the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to identify the borrower's <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> account, and the <ref target="1024-35-b" reftype="term">error</ref> the borrower believes has occurred. A notice on a payment coupon or other payment form supplied by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> need not be treated by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> as a notice of <ref target="1024-35-b" reftype="term">error</ref>. A qualified written request that asserts an <ref target="1024-35-b" reftype="term">error</ref> relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is a notice of <ref target="1024-35-b" reftype="term">error</ref> for purposes of this section, and a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must comply with all requirements applicable to a notice of <ref target="1024-35-b" reftype="term">error</ref> with respect to such qualified written request.</content>
           <analysis label="1024-35-a-Analysis">
             <analysisSection>
               <title>35(a) Notice of Error</title>
@@ -2628,7 +2714,7 @@
         </paragraph>
         <paragraph label="1024-35-c" marker="(c)">
           <title type="keyterm">Contact information for borrowers to assert errors.</title>
-          <content><ref target="1024-35-b" reftype="term">errors</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may, by written notice provided to a borrower, establish an address that a borrower must use to submit a notice of <ref target="1024-35-b" reftype="term">error</ref> in accordance with the procedures in this section. The notice shall include a statement that the borrower must use the established address to assert an <ref target="1024-35-b" reftype="term">error</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> designates a specific address for receiving notices of <ref target="1024-35-b" reftype="term">error</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall designate the same address for receiving information requests pursuant to § <ref target="1024-36-b" reftype="internal">1024.36(b)</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall provide a written notice to a borrower before any change in the address used for receiving a notice of <ref target="1024-35-b" reftype="term">error</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that designates an address for receipt of notices of <ref target="1024-35-b" reftype="term">error</ref> must post the designated address on any Web site maintained by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> if the Web site lists any contact address for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>.</content>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may, by written notice provided to a borrower, establish an address that a borrower must use to submit a notice of <ref target="1024-35-b" reftype="term">error</ref> in accordance with the procedures in this section. The notice shall include a statement that the borrower must use the established address to assert an <ref target="1024-35-b" reftype="term">error</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> designates a specific address for receiving notices of <ref target="1024-35-b" reftype="term">error</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall designate the same address for receiving information requests pursuant to § <ref target="1024-36-b" reftype="internal">1024.36(b)</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall provide a written notice to a borrower before any change in the address used for receiving a notice of <ref target="1024-35-b" reftype="term">error</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that designates an address for receipt of notices of <ref target="1024-35-b" reftype="term">error</ref> must post the designated address on any Web site maintained by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> if the Web site lists any contact address for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>.</content>
           <analysis label="1024-35-c-Analysis">
             <analysisSection>
               <title>35(c) Contact Information for Borrowers To Assert Errors</title>
@@ -2665,7 +2751,7 @@
         </paragraph>
         <paragraph label="1024-35-e" marker="(e)">
           <title type="keyterm">Response to notice of error.</title>
-          <content><ref target="1024-35-b" reftype="term">error</ref>.</content>
+          <content></content>
           <paragraph label="1024-35-e-1" marker="(1)">
             <title type="keyterm">Investigation and response requirements.</title>
             <content/>
@@ -2681,7 +2767,7 @@
             </paragraph>
             <paragraph label="1024-35-e-1-ii" marker="(ii)">
               <title type="keyterm">Different or additional error.</title>
-              <content><ref target="1024-35-b" reftype="term">error</ref>. If during a reasonable investigation of a notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> concludes that <ref target="1024-35-b" reftype="term">errors</ref> occurred other than, or in addition to, the <ref target="1024-35-b" reftype="term">error</ref> or <ref target="1024-35-b" reftype="term">errors</ref> alleged by the borrower, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall correct all such additional <ref target="1024-35-b" reftype="term">errors</ref> and provide the borrower with a written notification that describes the <ref target="1024-35-b" reftype="term">errors</ref> the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> identified, the action taken to correct the <ref target="1024-35-b" reftype="term">errors</ref>, the effective date of the correction, and contact information, including a telephone number, for further assistance.</content>
+              <content>If during a reasonable investigation of a notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> concludes that <ref target="1024-35-b" reftype="term">errors</ref> occurred other than, or in addition to, the <ref target="1024-35-b" reftype="term">error</ref> or <ref target="1024-35-b" reftype="term">errors</ref> alleged by the borrower, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall correct all such additional <ref target="1024-35-b" reftype="term">errors</ref> and provide the borrower with a written notification that describes the <ref target="1024-35-b" reftype="term">errors</ref> the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> identified, the action taken to correct the <ref target="1024-35-b" reftype="term">errors</ref>, the effective date of the correction, and contact information, including a telephone number, for further assistance.</content>
             </paragraph>
             <analysis label="1024-35-e-1-Analysis">
               <analysisSection>
@@ -2806,7 +2892,7 @@
           </paragraph>
           <paragraph label="1024-35-f-2" marker="(2)">
             <title type="keyterm">Error asserted before foreclosure sale.</title>
-            <content><ref target="1024-35-b" reftype="term">Error</ref> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section for <ref target="1024-35-b" reftype="term">errors</ref> asserted under paragraph <ref target="1024-35-b-9" reftype="internal">(b)(9)</ref> or <ref target="1024-35-b-10" reftype="internal">(10)</ref> of this section if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives the applicable notice of an <ref target="1024-35-b" reftype="term">error</ref> seven or fewer days before a foreclosure sale. For any such notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make a good faith attempt to respond to the borrower, orally or in writing, and either correct the <ref target="1024-35-b" reftype="term">error</ref> or state the reason the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has determined that no <ref target="1024-35-b" reftype="term">error</ref> has occurred.</content>
+            <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section for <ref target="1024-35-b" reftype="term">errors</ref> asserted under paragraph <ref target="1024-35-b-9" reftype="internal">(b)(9)</ref> or <ref target="1024-35-b-10" reftype="internal">(10)</ref> of this section if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives the applicable notice of an <ref target="1024-35-b" reftype="term">error</ref> seven or fewer days before a foreclosure sale. For any such notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make a good faith attempt to respond to the borrower, orally or in writing, and either correct the <ref target="1024-35-b" reftype="term">error</ref> or state the reason the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has determined that no <ref target="1024-35-b" reftype="term">error</ref> has occurred.</content>
             <analysis label="1024-35-f-2-Analysis">
               <analysisSection>
                 <title>35(f)(2) Errors Asserted Before Foreclosure Sale</title>
@@ -2833,7 +2919,7 @@
             <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref>, and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> reasonably determines that any of the following apply:</content>
             <paragraph label="1024-35-g-1-i" marker="(i)">
               <title type="keyterm">Duplicative notice of error.</title>
-              <content><ref target="1024-35-b" reftype="term">error</ref>. The asserted <ref target="1024-35-b" reftype="term">error</ref> is substantially the same as an <ref target="1024-35-b" reftype="term">error</ref> previously asserted by the borrower for which the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has previously complied with its obligation to respond pursuant to paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section, unless the borrower provides new and material information to support the asserted <ref target="1024-35-b" reftype="term">error</ref>. New and material information means information that was not reviewed by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in connection with investigating a prior notice of the same <ref target="1024-35-b" reftype="term">error</ref> and is reasonably likely to change the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s prior determination about the <ref target="1024-35-b" reftype="term">error</ref>.</content>
+              <content>The asserted <ref target="1024-35-b" reftype="term">error</ref> is substantially the same as an <ref target="1024-35-b" reftype="term">error</ref> previously asserted by the borrower for which the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has previously complied with its obligation to respond pursuant to paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section, unless the borrower provides new and material information to support the asserted <ref target="1024-35-b" reftype="term">error</ref>. New and material information means information that was not reviewed by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in connection with investigating a prior notice of the same <ref target="1024-35-b" reftype="term">error</ref> and is reasonably likely to change the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s prior determination about the <ref target="1024-35-b" reftype="term">error</ref>.</content>
               <analysis label="1024-35-g-1-i-Analysis">
                 <analysisSection>
                   <title>35(g)(1)(i)</title>
@@ -2848,7 +2934,7 @@
             </paragraph>
             <paragraph label="1024-35-g-1-ii" marker="(ii)">
               <title type="keyterm">Overbroad notice of error.</title>
-              <content><ref target="1024-35-b" reftype="term">error</ref>. The notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad. A notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> cannot reasonably determine from the notice of <ref target="1024-35-b" reftype="term">error</ref> the specific <ref target="1024-35-b" reftype="term">error</ref> that the borrower asserts has occurred on a borrower's account. To the extent a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can reasonably identify a valid assertion of an <ref target="1024-35-b" reftype="term">error</ref> in a notice of <ref target="1024-35-b" reftype="term">error</ref> that is otherwise overbroad, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref> and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section with respect to that asserted <ref target="1024-35-b" reftype="term">error</ref>.</content>
+              <content>The notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad. A notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> cannot reasonably determine from the notice of <ref target="1024-35-b" reftype="term">error</ref> the specific <ref target="1024-35-b" reftype="term">error</ref> that the borrower asserts has occurred on a borrower's account. To the extent a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can reasonably identify a valid assertion of an <ref target="1024-35-b" reftype="term">error</ref> in a notice of <ref target="1024-35-b" reftype="term">error</ref> that is otherwise overbroad, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref> and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section with respect to that asserted <ref target="1024-35-b" reftype="term">error</ref>.</content>
               <analysis label="1024-35-g-1-ii-Analysis">
                 <analysisSection>
                   <title>35(g)(1)(ii)</title>
@@ -2861,7 +2947,7 @@
             </paragraph>
             <paragraph label="1024-35-g-1-iii" marker="(iii)">
               <title type="keyterm">Untimely notice of error.</title>
-              <content><ref target="1024-35-b" reftype="term">error</ref>. A notice of <ref target="1024-35-b" reftype="term">error</ref> is delivered to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> more than one year after:</content>
+              <content>A notice of <ref target="1024-35-b" reftype="term">error</ref> is delivered to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> more than one year after:</content>
               <paragraph label="1024-35-g-1-iii-A" marker="(A)">
                 <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> for the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> that is the subject of the asserted <ref target="1024-35-b" reftype="term">error</ref> was transferred from the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receiving the notice of <ref target="1024-35-b" reftype="term">error</ref> to a transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>; or</content>
               </paragraph>
@@ -2915,7 +3001,7 @@
         </paragraph>
         <paragraph label="1024-35-i" marker="(i)">
           <title type="keyterm">Effect on servicer remedies.</title>
-          <content><ref target="1024-2-b-Servicer" reftype="term">servicer</ref> remedies.</content>
+          <content></content>
           <paragraph label="1024-35-i-1" marker="(1)">
             <title type="keyterm">Adverse information.</title>
             <content>After receipt of a notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may not, for 60 days, furnish adverse information to any consumer reporting agency regarding any payment that is the subject of the notice of <ref target="1024-35-b" reftype="term">error</ref>.</content>
@@ -3243,7 +3329,7 @@
         </paragraph>
         <paragraph label="1024-36-h" marker="(h)">
           <title type="keyterm">Servicer remedies.</title>
-          <content><ref target="1024-2-b-Servicer" reftype="term">Servicer</ref> Nothing in this section shall prohibit a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> from furnishing adverse information to any consumer reporting agency or pursuing any of its remedies, including initiating foreclosure or proceeding with a foreclosure sale, allowed by the underlying <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> instruments, during the time period that response to an information request notice is outstanding.</content>
+          <content>Nothing in this section shall prohibit a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> from furnishing adverse information to any consumer reporting agency or pursuing any of its remedies, including initiating foreclosure or proceeding with a foreclosure sale, allowed by the underlying <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> instruments, during the time period that response to an information request notice is outstanding.</content>
           <analysis label="1024-36-h-Analysis">
             <analysisSection>
               <title>36(h) Servicer Remedies</title>
@@ -3269,7 +3355,7 @@
         <subject>§ 1024.37 Force-placed insurance.</subject>
         <paragraph label="1024-37-a" marker="(a)">
           <title type="keyterm">Definition of force-placed insurance.</title>
-          <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>.</content>
+          <content></content>
           <paragraph label="1024-37-a-1" marker="(1)">
             <title type="keyterm">In general.</title>
             <content>For the purposes of this section, the term “force-placed insurance” means hazard insurance obtained by a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> on behalf of the owner or assignee of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> that insures the property securing such loan.</content>
@@ -3283,7 +3369,7 @@
           </paragraph>
           <paragraph label="1024-37-a-2" marker="(2)">
             <title type="keyterm">Types of insurance not considered force-placed insurance.</title>
-            <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>. The following insurance does not constitute “force-placed insurance” under this section:</content>
+            <content>The following insurance does not constitute “force-placed insurance” under this section:</content>
             <paragraph label="1024-37-a-2-i" marker="(i)">
               <content>Hazard insurance required by the Flood Disaster Protection Act of 1973.</content>
               <analysis label="1024-37-a-2-i-Analysis">
@@ -3322,7 +3408,7 @@
         </paragraph>
         <paragraph label="1024-37-b" marker="(b)">
           <title type="keyterm">Basis for charging borrower for force-placed insurance.</title>
-          <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may not assess on a borrower a premium charge or fee related to <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref> unless the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has a reasonable basis to believe that the borrower has failed to comply with the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> contract's requirement to maintain hazard insurance.</content>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may not assess on a borrower a premium charge or fee related to <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref> unless the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has a reasonable basis to believe that the borrower has failed to comply with the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> contract's requirement to maintain hazard insurance.</content>
           <analysis label="1024-37-b-Analysis">
             <analysisSection>
               <title>37(b) Basis for Charging a Borrower for Force-Placed Insurance</title>
@@ -3343,7 +3429,7 @@
         </paragraph>
         <paragraph label="1024-37-c" marker="(c)">
           <title type="keyterm">Requirements before charging borrower for force-placed insurance.</title>
-          <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>.</content>
+          <content></content>
           <paragraph label="1024-37-c-1" marker="(1)">
             <title type="keyterm">In general.</title>
             <content>Before a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> assesses on a borrower any premium charge or fee related to <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must:</content>
@@ -3478,7 +3564,7 @@
             <content/>
             <paragraph label="1024-37-d-2-i" marker="(i)">
               <title type="keyterm">Servicer receiving no insurance information.</title>
-              <content><ref target="1024-2-b-Servicer" reftype="term">Servicer</ref> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that receives no hazard insurance information after delivering to the borrower or placing in the mail the notice required by paragraph <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section must set forth in the notice required by paragraph <ref target="1024-37-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section:</content>
+              <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that receives no hazard insurance information after delivering to the borrower or placing in the mail the notice required by paragraph <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section must set forth in the notice required by paragraph <ref target="1024-37-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section:</content>
               <paragraph label="1024-37-d-2-i-A" marker="(A)">
                 <content>The date of the notice;</content>
               </paragraph>
@@ -3494,7 +3580,7 @@
             </paragraph>
             <paragraph label="1024-37-d-2-ii" marker="(ii)">
               <title type="keyterm">Servicer not receiving demonstration of continuous coverage.</title>
-              <content><ref target="1024-2-b-Servicer" reftype="term">Servicer</ref> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that has received hazard insurance information after delivering to a borrower or placing in the mail the notice required by paragraph <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section, but has not received, from the borrower or otherwise, evidence demonstrating that the borrower has had hazard insurance coverage in place continuously, must set forth in the notice required by paragraph <ref target="1024-37-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section the following information:</content>
+              <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that has received hazard insurance information after delivering to a borrower or placing in the mail the notice required by paragraph <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section, but has not received, from the borrower or otherwise, evidence demonstrating that the borrower has had hazard insurance coverage in place continuously, must set forth in the notice required by paragraph <ref target="1024-37-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section the following information:</content>
               <paragraph label="1024-37-d-2-ii-A" marker="(A)">
                 <content>The date of the notice;</content>
               </paragraph>
@@ -3551,7 +3637,7 @@
         </paragraph>
         <paragraph label="1024-37-e" marker="(e)">
           <title type="keyterm">Renewing or replacing force-placed insurance.</title>
-          <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>.</content>
+          <content></content>
           <paragraph label="1024-37-e-1" marker="(1)">
             <title type="keyterm">In general.</title>
             <content>Before a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> assesses on a borrower a premium charge or fee related to renewing or replacing existing <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must:</content>
@@ -3680,7 +3766,7 @@
         </paragraph>
         <paragraph label="1024-37-g" marker="(g)">
           <title type="keyterm">Cancellation of force-placed insurance.</title>
-          <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>. Within 15 days of receiving, from the borrower or otherwise, evidence demonstrating that the borrower has had in place hazard insurance coverage that complies with the loan contract's requirements to maintain hazard insurance, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must:</content>
+          <content>Within 15 days of receiving, from the borrower or otherwise, evidence demonstrating that the borrower has had in place hazard insurance coverage that complies with the loan contract's requirements to maintain hazard insurance, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must:</content>
           <paragraph label="1024-37-g-1" marker="(1)">
             <content>Cancel the <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref> the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> purchased to insure the borrower's property; and</content>
           </paragraph>
@@ -3709,7 +3795,7 @@
         </paragraph>
         <paragraph label="1024-37-h" marker="(h)">
           <title type="keyterm">Limitations on force-placed insurance charges.</title>
-          <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref> charges.</content>
+          <content></content>
           <paragraph label="1024-37-h-1" marker="(1)">
             <title type="keyterm">In general.</title>
             <content>Except for charges subject to <ref target="1024-2-b-State" reftype="term">State</ref> regulation as the business of insurance and charges authorized by the Flood Disaster Protection Act of 1973, all charges related to <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref> assessed to a borrower by or through the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must be bona fide and reasonable.</content>
@@ -4634,7 +4720,7 @@
     <change operation="modified" label="1024-37-g">
       <paragraph label="1024-37-g" marker="(g)">
         <title type="keyterm">Cancellation of force-placed insurance.</title>
-        <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>. Within 15 days of receiving, from the borrower or otherwise, evidence demonstrating that the borrower has had in place hazard insurance coverage that complies with the loan contract's requirements to maintain hazard insurance, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must:</content>
+        <content>Within 15 days of receiving, from the borrower or otherwise, evidence demonstrating that the borrower has had in place hazard insurance coverage that complies with the loan contract's requirements to maintain hazard insurance, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must:</content>
         <paragraph label="1024-37-g-1" marker="(1)">
           <content>Cancel the <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref> the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> purchased to insure the borrower's property; and</content>
         </paragraph>
@@ -4665,7 +4751,7 @@
     <change operation="modified" label="1024-37-e">
       <paragraph label="1024-37-e" marker="(e)">
         <title type="keyterm">Renewing or replacing force-placed insurance.</title>
-        <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>.</content>
+        <content></content>
         <paragraph label="1024-37-e-1" marker="(1)">
           <title type="keyterm">In general.</title>
           <content>Before a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> assesses on a borrower a premium charge or fee related to renewing or replacing existing <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must:</content>
@@ -4797,7 +4883,7 @@
     <change operation="modified" label="1024-35-g-1-i">
       <paragraph label="1024-35-g-1-i" marker="(i)">
         <title type="keyterm">Duplicative notice of error.</title>
-        <content><ref target="1024-35-b" reftype="term">error</ref>. The asserted <ref target="1024-35-b" reftype="term">error</ref> is substantially the same as an <ref target="1024-35-b" reftype="term">error</ref> previously asserted by the borrower for which the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has previously complied with its obligation to respond pursuant to paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section, unless the borrower provides new and material information to support the asserted <ref target="1024-35-b" reftype="term">error</ref>. New and material information means information that was not reviewed by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in connection with investigating a prior notice of the same <ref target="1024-35-b" reftype="term">error</ref> and is reasonably likely to change the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s prior determination about the <ref target="1024-35-b" reftype="term">error</ref>.</content>
+        <content>The asserted <ref target="1024-35-b" reftype="term">error</ref> is substantially the same as an <ref target="1024-35-b" reftype="term">error</ref> previously asserted by the borrower for which the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has previously complied with its obligation to respond pursuant to paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section, unless the borrower provides new and material information to support the asserted <ref target="1024-35-b" reftype="term">error</ref>. New and material information means information that was not reviewed by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in connection with investigating a prior notice of the same <ref target="1024-35-b" reftype="term">error</ref> and is reasonably likely to change the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s prior determination about the <ref target="1024-35-b" reftype="term">error</ref>.</content>
         <analysis label="1024-35-g-1-i-Analysis">
           <analysisSection>
             <title>35(g)(1)(i)</title>
@@ -4862,7 +4948,7 @@
     <change operation="modified" label="1024-37-h">
       <paragraph label="1024-37-h" marker="(h)">
         <title type="keyterm">Limitations on force-placed insurance charges.</title>
-        <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref> charges.</content>
+        <content></content>
         <paragraph label="1024-37-h-1" marker="(1)">
           <title type="keyterm">In general.</title>
           <content>Except for charges subject to <ref target="1024-2-b-State" reftype="term">State</ref> regulation as the business of insurance and charges authorized by the Flood Disaster Protection Act of 1973, all charges related to <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref> assessed to a borrower by or through the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must be bona fide and reasonable.</content>
@@ -4906,11 +4992,10 @@
         </analysis>
       </paragraph>
     </change>
-    <change operation="deleted" label="1024-13-d"/>
     <change operation="modified" label="1024-34-b-2">
       <paragraph label="1024-34-b-2" marker="(2)">
         <title type="keyterm">Servicer may credit funds to a new escrow account.</title>
-        <content><ref target="1024-2-b-Servicer" reftype="term">Servicer</ref><ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account. Notwithstanding paragraph <ref target="1024-34-b-1" reftype="internal">(b)(1)</ref> of this section, if the borrower agrees, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may credit any amounts remaining in an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account that is within the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s control to an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account for a new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> as of the date of the <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> of the new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> if the new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is provided to the borrower by a <ref target="1024-2-b-Lender" reftype="term">lender</ref> that:</content>
+        <content>Notwithstanding paragraph <ref target="1024-34-b-1" reftype="internal">(b)(1)</ref> of this section, if the borrower agrees, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may credit any amounts remaining in an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account that is within the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s control to an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account for a new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> as of the date of the <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> of the new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> if the new <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is provided to the borrower by a <ref target="1024-2-b-Lender" reftype="term">lender</ref> that:</content>
         <paragraph label="1024-34-b-2-i" marker="(i)">
           <content>Was also the <ref target="1024-2-b-Lender" reftype="term">lender</ref> to whom the prior <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> was initially payable;</content>
         </paragraph>
@@ -4938,13 +5023,10 @@
         </analysis>
       </paragraph>
     </change>
-    <change operation="deleted" label="1024-13-a"/>
-    <change operation="deleted" label="1024-13-b"/>
-    <change operation="deleted" label="1024-13-c"/>
     <change operation="modified" label="1024-35-c">
       <paragraph label="1024-35-c" marker="(c)">
         <title type="keyterm">Contact information for borrowers to assert errors.</title>
-        <content><ref target="1024-35-b" reftype="term">errors</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may, by written notice provided to a borrower, establish an address that a borrower must use to submit a notice of <ref target="1024-35-b" reftype="term">error</ref> in accordance with the procedures in this section. The notice shall include a statement that the borrower must use the established address to assert an <ref target="1024-35-b" reftype="term">error</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> designates a specific address for receiving notices of <ref target="1024-35-b" reftype="term">error</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall designate the same address for receiving information requests pursuant to § <ref target="1024-36-b" reftype="internal">1024.36(b)</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall provide a written notice to a borrower before any change in the address used for receiving a notice of <ref target="1024-35-b" reftype="term">error</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that designates an address for receipt of notices of <ref target="1024-35-b" reftype="term">error</ref> must post the designated address on any Web site maintained by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> if the Web site lists any contact address for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>.</content>
+        <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may, by written notice provided to a borrower, establish an address that a borrower must use to submit a notice of <ref target="1024-35-b" reftype="term">error</ref> in accordance with the procedures in this section. The notice shall include a statement that the borrower must use the established address to assert an <ref target="1024-35-b" reftype="term">error</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> designates a specific address for receiving notices of <ref target="1024-35-b" reftype="term">error</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall designate the same address for receiving information requests pursuant to § <ref target="1024-36-b" reftype="internal">1024.36(b)</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall provide a written notice to a borrower before any change in the address used for receiving a notice of <ref target="1024-35-b" reftype="term">error</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that designates an address for receipt of notices of <ref target="1024-35-b" reftype="term">error</ref> must post the designated address on any Web site maintained by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> if the Web site lists any contact address for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>.</content>
         <analysis label="1024-35-c-Analysis">
           <analysisSection>
             <title>35(c) Contact Information for Borrowers To Assert Errors</title>
@@ -4971,7 +5053,7 @@
     <change operation="modified" label="1024-37-b">
       <paragraph label="1024-37-b" marker="(b)">
         <title type="keyterm">Basis for charging borrower for force-placed insurance.</title>
-        <content><ref target="1024-37-a-1" reftype="term">force-placed insurance</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may not assess on a borrower a premium charge or fee related to <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref> unless the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has a reasonable basis to believe that the borrower has failed to comply with the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> contract's requirement to maintain hazard insurance.</content>
+        <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may not assess on a borrower a premium charge or fee related to <ref target="1024-37-a-1" reftype="term">force-placed insurance</ref> unless the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has a reasonable basis to believe that the borrower has failed to comply with the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> contract's requirement to maintain hazard insurance.</content>
         <analysis label="1024-37-b-Analysis">
           <analysisSection>
             <title>37(b) Basis for Charging a Borrower for Force-Placed Insurance</title>
@@ -4994,7 +5076,7 @@
     <change operation="modified" label="1024-35-e">
       <paragraph label="1024-35-e" marker="(e)">
         <title type="keyterm">Response to notice of error.</title>
-        <content><ref target="1024-35-b" reftype="term">error</ref>.</content>
+        <content></content>
         <paragraph label="1024-35-e-1" marker="(1)">
           <title type="keyterm">Investigation and response requirements.</title>
           <content/>
@@ -5010,7 +5092,7 @@
           </paragraph>
           <paragraph label="1024-35-e-1-ii" marker="(ii)">
             <title type="keyterm">Different or additional error.</title>
-            <content><ref target="1024-35-b" reftype="term">error</ref>. If during a reasonable investigation of a notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> concludes that <ref target="1024-35-b" reftype="term">errors</ref> occurred other than, or in addition to, the <ref target="1024-35-b" reftype="term">error</ref> or <ref target="1024-35-b" reftype="term">errors</ref> alleged by the borrower, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall correct all such additional <ref target="1024-35-b" reftype="term">errors</ref> and provide the borrower with a written notification that describes the <ref target="1024-35-b" reftype="term">errors</ref> the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> identified, the action taken to correct the <ref target="1024-35-b" reftype="term">errors</ref>, the effective date of the correction, and contact information, including a telephone number, for further assistance.</content>
+            <content>If during a reasonable investigation of a notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> concludes that <ref target="1024-35-b" reftype="term">errors</ref> occurred other than, or in addition to, the <ref target="1024-35-b" reftype="term">error</ref> or <ref target="1024-35-b" reftype="term">errors</ref> alleged by the borrower, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall correct all such additional <ref target="1024-35-b" reftype="term">errors</ref> and provide the borrower with a written notification that describes the <ref target="1024-35-b" reftype="term">errors</ref> the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> identified, the action taken to correct the <ref target="1024-35-b" reftype="term">errors</ref>, the effective date of the correction, and contact information, including a telephone number, for further assistance.</content>
           </paragraph>
           <analysis label="1024-35-e-1-Analysis">
             <analysisSection>
@@ -5137,7 +5219,7 @@
         </paragraph>
         <paragraph label="1024-35-f-2" marker="(2)">
           <title type="keyterm">Error asserted before foreclosure sale.</title>
-          <content><ref target="1024-35-b" reftype="term">Error</ref> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section for <ref target="1024-35-b" reftype="term">errors</ref> asserted under paragraph <ref target="1024-35-b-9" reftype="internal">(b)(9)</ref> or <ref target="1024-35-b-10" reftype="internal">(10)</ref> of this section if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives the applicable notice of an <ref target="1024-35-b" reftype="term">error</ref> seven or fewer days before a foreclosure sale. For any such notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make a good faith attempt to respond to the borrower, orally or in writing, and either correct the <ref target="1024-35-b" reftype="term">error</ref> or state the reason the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has determined that no <ref target="1024-35-b" reftype="term">error</ref> has occurred.</content>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section for <ref target="1024-35-b" reftype="term">errors</ref> asserted under paragraph <ref target="1024-35-b-9" reftype="internal">(b)(9)</ref> or <ref target="1024-35-b-10" reftype="internal">(10)</ref> of this section if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives the applicable notice of an <ref target="1024-35-b" reftype="term">error</ref> seven or fewer days before a foreclosure sale. For any such notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make a good faith attempt to respond to the borrower, orally or in writing, and either correct the <ref target="1024-35-b" reftype="term">error</ref> or state the reason the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has determined that no <ref target="1024-35-b" reftype="term">error</ref> has occurred.</content>
           <analysis label="1024-35-f-2-Analysis">
             <analysisSection>
               <title>35(f)(2) Errors Asserted Before Foreclosure Sale</title>
@@ -5288,7 +5370,7 @@
     <change operation="modified" label="1024-20-b">
       <paragraph label="1024-20-b" marker="(b)">
         <title type="keyterm">Open-end lines of credit (home-equity plans) under Regulation Z.</title>
-        <content><ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>. For a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> that is a home-equity line of credit subject to <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>, a <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> that provides the loan applicant with the list of homeownership organizations required under this section may comply with the timing and delivery requirements set out in either paragraph <ref target="1024-20-a" reftype="internal">(a)</ref> of this section or <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>(b).</content>
+        <content>For a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> that is a home-equity line of credit subject to <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>, a <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> that provides the loan applicant with the list of homeownership organizations required under this section may comply with the timing and delivery requirements set out in either paragraph <ref target="1024-20-a" reftype="internal">(a)</ref> of this section or <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>(b).</content>
         <analysis label="1024-20-b-Analysis">
           <analysisSection>
             <title>20(b) Open-End Lines of Credit (Home-Equity Plans) Under Regulation Z</title>
@@ -5297,11 +5379,16 @@
         </analysis>
       </paragraph>
     </change>
-    <change operation="deleted" label="1024-13"/>
+    <change operation="modified" label="1024-13">
+      <section label="1024-13" sectionNum="13">
+        <subject>§ 1024.13 [Reserved]</subject>
+        <reserved/>
+      </section>
+    </change>
     <change operation="modified" label="1024-35-i">
       <paragraph label="1024-35-i" marker="(i)">
         <title type="keyterm">Effect on servicer remedies.</title>
-        <content><ref target="1024-2-b-Servicer" reftype="term">servicer</ref> remedies.</content>
+        <content></content>
         <paragraph label="1024-35-i-1" marker="(1)">
           <title type="keyterm">Adverse information.</title>
           <content>After receipt of a notice of <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may not, for 60 days, furnish adverse information to any consumer reporting agency regarding any payment that is the subject of the notice of <ref target="1024-35-b" reftype="term">error</ref>.</content>
@@ -5329,20 +5416,10 @@
         </analysis>
       </paragraph>
     </change>
-    <change operation="added" label="1024-5-c-2-ii">
-      <paragraph label="1024-5-c-2-ii" marker="(ii)">
-        <content>In determining whether provisions of <ref target="1024-2-b-State" reftype="term">State</ref> law or regulations concerning affiliated business arrangements are inconsistent with <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this part, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> may not construe those provisions that impose more stringent limitations on affiliated business arrangements as inconsistent with <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> so long as they give more protection to consumers and/or competition.</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1024-5-c-2-i">
-      <paragraph label="1024-5-c-2-i" marker="(i)">
-        <content>The <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> may not determine that a <ref target="1024-2-b-State" reftype="term">State</ref> law or regulation is inconsistent with any provision of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this part, if the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> determines that such law or regulation gives greater protection to the consumer.</content>
-      </paragraph>
-    </change>
     <change operation="modified" label="1024-33-b-3-iii">
       <paragraph label="1024-33-b-3-iii" marker="(iii)">
         <title type="keyterm">Notice provided at settlement.</title>
-        <content><ref target="1024-2-b-Settlement" reftype="term">settlement</ref>. Notices of transfer provided at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> by the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, whether as separate notices or as a combined notice, satisfy the timing requirements of paragraph <ref target="1024-33-b-3" reftype="internal">(b)(3)</ref> of this section.</content>
+        <content>Notices of transfer provided at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> by the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, whether as separate notices or as a combined notice, satisfy the timing requirements of paragraph <ref target="1024-33-b-3" reftype="internal">(b)(3)</ref> of this section.</content>
         <analysis label="1024-33-b-3-iii-Analysis">
           <analysisSection>
             <title>33(b)(3)(iii) Notice Provided at Settlement</title>
@@ -5409,7 +5486,7 @@
         <content/>
         <paragraph label="1024-37-d-2-i" marker="(i)">
           <title type="keyterm">Servicer receiving no insurance information.</title>
-          <content><ref target="1024-2-b-Servicer" reftype="term">Servicer</ref> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that receives no hazard insurance information after delivering to the borrower or placing in the mail the notice required by paragraph <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section must set forth in the notice required by paragraph <ref target="1024-37-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section:</content>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that receives no hazard insurance information after delivering to the borrower or placing in the mail the notice required by paragraph <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section must set forth in the notice required by paragraph <ref target="1024-37-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section:</content>
           <paragraph label="1024-37-d-2-i-A" marker="(A)">
             <content>The date of the notice;</content>
           </paragraph>
@@ -5425,7 +5502,7 @@
         </paragraph>
         <paragraph label="1024-37-d-2-ii" marker="(ii)">
           <title type="keyterm">Servicer not receiving demonstration of continuous coverage.</title>
-          <content><ref target="1024-2-b-Servicer" reftype="term">Servicer</ref> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that has received hazard insurance information after delivering to a borrower or placing in the mail the notice required by paragraph <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section, but has not received, from the borrower or otherwise, evidence demonstrating that the borrower has had hazard insurance coverage in place continuously, must set forth in the notice required by paragraph <ref target="1024-37-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section the following information:</content>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that has received hazard insurance information after delivering to a borrower or placing in the mail the notice required by paragraph <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section, but has not received, from the borrower or otherwise, evidence demonstrating that the borrower has had hazard insurance coverage in place continuously, must set forth in the notice required by paragraph <ref target="1024-37-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section the following information:</content>
           <paragraph label="1024-37-d-2-ii-A" marker="(A)">
             <content>The date of the notice;</content>
           </paragraph>
@@ -5582,19 +5659,6 @@
         </analysis>
       </paragraph>
     </change>
-    <change operation="added" label="1024-5-c-Interp">
-      <interpParagraph label="1024-5-c-Interp">
-        <title>5(c) Relation to State laws.</title>
-        <content/>
-        <interpParagraph label="1024-5-c-1-Interp" target="1024-5-c-1">
-          <title>Paragraph 5(c)(1).</title>
-          <content/>
-          <interpParagraph label="1024-5-c-1-Interp-1" marker="1.">
-            <content><ref target="1024-2-b-State" reftype="term">State</ref> laws that are inconsistent with the requirements of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X may be preempted by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X. <ref target="1024-2-b-State" reftype="term">State</ref> laws that give greater protection to consumers are not inconsistent with and are not preempted by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X. In addition, nothing in <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X should be construed to preempt the entire field of regulation of the practices covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X, including the regulations in Subpart C with respect to mortgage <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> or mortgage <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>.</content>
-          </interpParagraph>
-        </interpParagraph>
-      </interpParagraph>
-    </change>
     <change operation="modified" label="1024-20-c-2">
       <paragraph label="1024-20-c-2" marker="(2)">
         <title type="keyterm">Timeshare plans.</title>
@@ -5641,7 +5705,7 @@
         <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref>, and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> reasonably determines that any of the following apply:</content>
         <paragraph label="1024-35-g-1-i" marker="(i)">
           <title type="keyterm">Duplicative notice of error.</title>
-          <content><ref target="1024-35-b" reftype="term">error</ref>. The asserted <ref target="1024-35-b" reftype="term">error</ref> is substantially the same as an <ref target="1024-35-b" reftype="term">error</ref> previously asserted by the borrower for which the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has previously complied with its obligation to respond pursuant to paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section, unless the borrower provides new and material information to support the asserted <ref target="1024-35-b" reftype="term">error</ref>. New and material information means information that was not reviewed by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in connection with investigating a prior notice of the same <ref target="1024-35-b" reftype="term">error</ref> and is reasonably likely to change the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s prior determination about the <ref target="1024-35-b" reftype="term">error</ref>.</content>
+          <content>The asserted <ref target="1024-35-b" reftype="term">error</ref> is substantially the same as an <ref target="1024-35-b" reftype="term">error</ref> previously asserted by the borrower for which the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has previously complied with its obligation to respond pursuant to paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section, unless the borrower provides new and material information to support the asserted <ref target="1024-35-b" reftype="term">error</ref>. New and material information means information that was not reviewed by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in connection with investigating a prior notice of the same <ref target="1024-35-b" reftype="term">error</ref> and is reasonably likely to change the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s prior determination about the <ref target="1024-35-b" reftype="term">error</ref>.</content>
           <analysis label="1024-35-g-1-i-Analysis">
             <analysisSection>
               <title>35(g)(1)(i)</title>
@@ -5656,7 +5720,7 @@
         </paragraph>
         <paragraph label="1024-35-g-1-ii" marker="(ii)">
           <title type="keyterm">Overbroad notice of error.</title>
-          <content><ref target="1024-35-b" reftype="term">error</ref>. The notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad. A notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> cannot reasonably determine from the notice of <ref target="1024-35-b" reftype="term">error</ref> the specific <ref target="1024-35-b" reftype="term">error</ref> that the borrower asserts has occurred on a borrower's account. To the extent a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can reasonably identify a valid assertion of an <ref target="1024-35-b" reftype="term">error</ref> in a notice of <ref target="1024-35-b" reftype="term">error</ref> that is otherwise overbroad, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref> and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section with respect to that asserted <ref target="1024-35-b" reftype="term">error</ref>.</content>
+          <content>The notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad. A notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> cannot reasonably determine from the notice of <ref target="1024-35-b" reftype="term">error</ref> the specific <ref target="1024-35-b" reftype="term">error</ref> that the borrower asserts has occurred on a borrower's account. To the extent a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can reasonably identify a valid assertion of an <ref target="1024-35-b" reftype="term">error</ref> in a notice of <ref target="1024-35-b" reftype="term">error</ref> that is otherwise overbroad, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref> and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section with respect to that asserted <ref target="1024-35-b" reftype="term">error</ref>.</content>
           <analysis label="1024-35-g-1-ii-Analysis">
             <analysisSection>
               <title>35(g)(1)(ii)</title>
@@ -5669,7 +5733,7 @@
         </paragraph>
         <paragraph label="1024-35-g-1-iii" marker="(iii)">
           <title type="keyterm">Untimely notice of error.</title>
-          <content><ref target="1024-35-b" reftype="term">error</ref>. A notice of <ref target="1024-35-b" reftype="term">error</ref> is delivered to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> more than one year after:</content>
+          <content>A notice of <ref target="1024-35-b" reftype="term">error</ref> is delivered to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> more than one year after:</content>
           <paragraph label="1024-35-g-1-iii-A" marker="(A)">
             <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> for the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> that is the subject of the asserted <ref target="1024-35-b" reftype="term">error</ref> was transferred from the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receiving the notice of <ref target="1024-35-b" reftype="term">error</ref> to a transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>; or</content>
           </paragraph>
@@ -5708,7 +5772,7 @@
     <change operation="modified" label="1024-35-g-1-ii">
       <paragraph label="1024-35-g-1-ii" marker="(ii)">
         <title type="keyterm">Overbroad notice of error.</title>
-        <content><ref target="1024-35-b" reftype="term">error</ref>. The notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad. A notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> cannot reasonably determine from the notice of <ref target="1024-35-b" reftype="term">error</ref> the specific <ref target="1024-35-b" reftype="term">error</ref> that the borrower asserts has occurred on a borrower's account. To the extent a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can reasonably identify a valid assertion of an <ref target="1024-35-b" reftype="term">error</ref> in a notice of <ref target="1024-35-b" reftype="term">error</ref> that is otherwise overbroad, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref> and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section with respect to that asserted <ref target="1024-35-b" reftype="term">error</ref>.</content>
+        <content>The notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad. A notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> cannot reasonably determine from the notice of <ref target="1024-35-b" reftype="term">error</ref> the specific <ref target="1024-35-b" reftype="term">error</ref> that the borrower asserts has occurred on a borrower's account. To the extent a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can reasonably identify a valid assertion of an <ref target="1024-35-b" reftype="term">error</ref> in a notice of <ref target="1024-35-b" reftype="term">error</ref> that is otherwise overbroad, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref> and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section with respect to that asserted <ref target="1024-35-b" reftype="term">error</ref>.</content>
         <analysis label="1024-35-g-1-ii-Analysis">
           <analysisSection>
             <title>35(g)(1)(ii)</title>
@@ -5789,7 +5853,7 @@
     <change operation="modified" label="1024-40-b">
       <paragraph label="1024-40-b" marker="(b)">
         <title type="keyterm">Functions of servicer personnel.</title>
-        <content><ref target="1024-2-b-Servicer" reftype="term">servicer</ref> personnel. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall maintain policies and procedures reasonably designed to ensure that <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> personnel assigned to a delinquent borrower as described in paragraph <ref target="1024-40-a" reftype="internal">(a)</ref> of this section perform the following functions:</content>
+        <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall maintain policies and procedures reasonably designed to ensure that <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> personnel assigned to a delinquent borrower as described in paragraph <ref target="1024-40-a" reftype="internal">(a)</ref> of this section perform the following functions:</content>
         <paragraph label="1024-40-b-1" marker="(1)">
           <content>Provide the borrower with accurate information about:</content>
           <paragraph label="1024-40-b-1-i" marker="(i)">
@@ -5859,7 +5923,7 @@
     <change operation="modified" label="1024-38-b-2">
       <paragraph label="1024-38-b-2" marker="(2)">
         <title type="keyterm">Properly evaluating loss mitigation applications.</title>
-        <content><ref target="1024-2-b-Application" reftype="term">applications</ref>. The policies and procedures required by paragraph <ref target="1024-38-a" reftype="internal">(a)</ref> of this section shall be reasonably designed to ensure that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can:</content>
+        <content>The policies and procedures required by paragraph <ref target="1024-38-a" reftype="internal">(a)</ref> of this section shall be reasonably designed to ensure that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can:</content>
         <paragraph label="1024-38-b-2-i" marker="(i)">
           <content>Provide accurate information regarding loss mitigation options available to a borrower from the owner or assignee of the borrower's <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>;</content>
         </paragraph>
@@ -5954,7 +6018,7 @@
     <change operation="modified" label="1024-38-b-4">
       <paragraph label="1024-38-b-4" marker="(4)">
         <title type="keyterm">Facilitating transfer of information during servicing transfers.</title>
-        <content><ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfers. The policies and procedures required by paragraph <ref target="1024-38-a" reftype="internal">(a)</ref> of this section shall be reasonably designed to ensure that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can:</content>
+        <content>The policies and procedures required by paragraph <ref target="1024-38-a" reftype="internal">(a)</ref> of this section shall be reasonably designed to ensure that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can:</content>
         <paragraph label="1024-38-b-4-i" marker="(i)">
           <content>As a transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, timely transfer all information and documents in the possession or control of the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> relating to a transferred <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> to a <ref target="1024-38-b-4-iii" reftype="term">transferee servicer</ref> in a form and manner that ensures the accuracy of the information and documents transferred and that enables a <ref target="1024-38-b-4-iii" reftype="term">transferee servicer</ref> to comply with the terms of the <ref target="1024-38-b-4-iii" reftype="term">transferee servicer</ref>'s obligations to the owner or assignee of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> and applicable law; and</content>
         </paragraph>
@@ -6016,7 +6080,7 @@
     <change operation="modified" label="1024-35-g-1-iii">
       <paragraph label="1024-35-g-1-iii" marker="(iii)">
         <title type="keyterm">Untimely notice of error.</title>
-        <content><ref target="1024-35-b" reftype="term">error</ref>. A notice of <ref target="1024-35-b" reftype="term">error</ref> is delivered to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> more than one year after:</content>
+        <content>A notice of <ref target="1024-35-b" reftype="term">error</ref> is delivered to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> more than one year after:</content>
         <paragraph label="1024-35-g-1-iii-A" marker="(A)">
           <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> for the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> that is the subject of the asserted <ref target="1024-35-b" reftype="term">error</ref> was transferred from the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receiving the notice of <ref target="1024-35-b" reftype="term">error</ref> to a transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>; or</content>
         </paragraph>
@@ -6065,7 +6129,7 @@
     <change operation="modified" label="1024-36-h">
       <paragraph label="1024-36-h" marker="(h)">
         <title type="keyterm">Servicer remedies.</title>
-        <content><ref target="1024-2-b-Servicer" reftype="term">Servicer</ref> Nothing in this section shall prohibit a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> from furnishing adverse information to any consumer reporting agency or pursuing any of its remedies, including initiating foreclosure or proceeding with a foreclosure sale, allowed by the underlying <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> instruments, during the time period that response to an information request notice is outstanding.</content>
+        <content>Nothing in this section shall prohibit a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> from furnishing adverse information to any consumer reporting agency or pursuing any of its remedies, including initiating foreclosure or proceeding with a foreclosure sale, allowed by the underlying <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> instruments, during the time period that response to an information request notice is outstanding.</content>
         <analysis label="1024-36-h-Analysis">
           <analysisSection>
             <title>36(h) Servicer Remedies</title>
@@ -6657,15 +6721,6 @@
         </analysis>
       </paragraph>
     </change>
-    <change operation="added" label="1024-5-c-1-Interp">
-      <interpParagraph label="1024-5-c-1-Interp" target="1024-5-c-1">
-        <title>Paragraph 5(c)(1).</title>
-        <content/>
-        <interpParagraph label="1024-5-c-1-Interp-1" marker="1.">
-          <content><ref target="1024-2-b-State" reftype="term">State</ref> laws that are inconsistent with the requirements of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X may be preempted by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X. <ref target="1024-2-b-State" reftype="term">State</ref> laws that give greater protection to consumers are not inconsistent with and are not preempted by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X. In addition, nothing in <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X should be construed to preempt the entire field of regulation of the practices covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X, including the regulations in Subpart C with respect to mortgage <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> or mortgage <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>.</content>
-        </interpParagraph>
-      </interpParagraph>
-    </change>
     <change operation="modified" label="1024-33-b-3-ii">
       <paragraph label="1024-33-b-3-ii" marker="(ii)">
         <title type="keyterm">Extended time.</title>
@@ -6695,7 +6750,7 @@
     <change operation="modified" label="1024-33-b">
       <paragraph label="1024-33-b" marker="(b)">
         <title type="keyterm">Notices of transfer of loan servicing.</title>
-        <content><ref target="1024-2-b-Servicing" reftype="term">servicing</ref>.</content>
+        <content></content>
         <paragraph label="1024-33-b-1" marker="(1)">
           <title type="keyterm">Requirement for notice.</title>
           <content>Except as provided in paragraph <ref target="1024-33-b-2" reftype="internal">(b)(2)</ref> of this section, each transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> of any <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> shall provide to the borrower a notice of transfer for any assignment, sale, or transfer of the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>. The notice must contain the information described in paragraph <ref target="1024-33-b-4" reftype="internal">(b)(4)</ref> of this section. Appendix <ref target="1024-MS-2" reftype="internal">MS-2</ref> of this part contains a model form for the disclosures required under this paragraph <ref target="1024-33-b" reftype="internal">(b)</ref>.</content>
@@ -6791,7 +6846,7 @@
           </paragraph>
           <paragraph label="1024-33-b-3-iii" marker="(iii)">
             <title type="keyterm">Notice provided at settlement.</title>
-            <content><ref target="1024-2-b-Settlement" reftype="term">settlement</ref>. Notices of transfer provided at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> by the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, whether as separate notices or as a combined notice, satisfy the timing requirements of paragraph <ref target="1024-33-b-3" reftype="internal">(b)(3)</ref> of this section.</content>
+            <content>Notices of transfer provided at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> by the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, whether as separate notices or as a combined notice, satisfy the timing requirements of paragraph <ref target="1024-33-b-3" reftype="internal">(b)(3)</ref> of this section.</content>
             <analysis label="1024-33-b-3-iii-Analysis">
               <analysisSection>
                 <title>33(b)(3)(iii) Notice Provided at Settlement</title>
@@ -6890,7 +6945,7 @@
     <change operation="modified" label="1024-35-a">
       <paragraph label="1024-35-a" marker="(a)">
         <title type="keyterm">Notice of error.</title>
-        <content><ref target="1024-35-b" reftype="term">error</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of this section for any written notice from the borrower that asserts an <ref target="1024-35-b" reftype="term">error</ref> and that includes the name of the borrower, information that enables the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to identify the borrower's <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> account, and the <ref target="1024-35-b" reftype="term">error</ref> the borrower believes has occurred. A notice on a payment coupon or other payment form supplied by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> need not be treated by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> as a notice of <ref target="1024-35-b" reftype="term">error</ref>. A qualified written request that asserts an <ref target="1024-35-b" reftype="term">error</ref> relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is a notice of <ref target="1024-35-b" reftype="term">error</ref> for purposes of this section, and a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must comply with all requirements applicable to a notice of <ref target="1024-35-b" reftype="term">error</ref> with respect to such qualified written request.</content>
+        <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of this section for any written notice from the borrower that asserts an <ref target="1024-35-b" reftype="term">error</ref> and that includes the name of the borrower, information that enables the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to identify the borrower's <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> account, and the <ref target="1024-35-b" reftype="term">error</ref> the borrower believes has occurred. A notice on a payment coupon or other payment form supplied by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> need not be treated by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> as a notice of <ref target="1024-35-b" reftype="term">error</ref>. A qualified written request that asserts an <ref target="1024-35-b" reftype="term">error</ref> relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is a notice of <ref target="1024-35-b" reftype="term">error</ref> for purposes of this section, and a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must comply with all requirements applicable to a notice of <ref target="1024-35-b" reftype="term">error</ref> with respect to such qualified written request.</content>
         <analysis label="1024-35-a-Analysis">
           <analysisSection>
             <title>35(a) Notice of Error</title>
@@ -7085,7 +7140,7 @@
     <change operation="modified" label="1024-33-a">
       <paragraph label="1024-33-a" marker="(a)">
         <title type="keyterm">Servicing disclosure statement.</title>
-        <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> Within three days (excluding legal public holidays, Saturdays, and Sundays) after a person applies for a first-lien <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>, the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> who anticipates using <ref target="1024-2-b-TableFunding" reftype="term">table funding</ref>, or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> in a first-lien <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> loan shall provide to the person a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement that states whether the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> may be assigned, sold, or transferred to any other person at any time. Appendix <ref target="1024-MS-1" reftype="internal">MS-1</ref> of this part contains a model form for the disclosures required under this paragraph <ref target="1024-33-a" reftype="internal">(a)</ref>. If a person who applies for a first-lien <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is denied credit within the three-day period, a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement is not required to be delivered.</content>
+        <content>Within three days (excluding legal public holidays, Saturdays, and Sundays) after a person applies for a first-lien <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>, the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> who anticipates using <ref target="1024-2-b-TableFunding" reftype="term">table funding</ref>, or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> in a first-lien <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> loan shall provide to the person a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement that states whether the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> may be assigned, sold, or transferred to any other person at any time. Appendix <ref target="1024-MS-1" reftype="internal">MS-1</ref> of this part contains a model form for the disclosures required under this paragraph <ref target="1024-33-a" reftype="internal">(a)</ref>. If a person who applies for a first-lien <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is denied credit within the three-day period, a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement is not required to be delivered.</content>
         <analysis label="1024-33-a-Analysis">
           <analysisSection>
             <title>33(a) Servicing Disclosure Statement</title>
@@ -7122,15 +7177,10 @@
         </analysis>
       </paragraph>
     </change>
-    <change operation="added" label="1024-5-c-1-Interp-1">
-      <interpParagraph label="1024-5-c-1-Interp-1" marker="1.">
-        <content><ref target="1024-2-b-State" reftype="term">State</ref> laws that are inconsistent with the requirements of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X may be preempted by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X. <ref target="1024-2-b-State" reftype="term">State</ref> laws that give greater protection to consumers are not inconsistent with and are not preempted by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X. In addition, nothing in <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X should be construed to preempt the entire field of regulation of the practices covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X, including the regulations in Subpart C with respect to mortgage <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> or mortgage <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>.</content>
-      </interpParagraph>
-    </change>
     <change operation="modified" label="1024-33-d">
       <paragraph label="1024-33-d" marker="(d)">
         <title type="keyterm">Preemption of State laws.</title>
-        <content><ref target="1024-2-b-State" reftype="term">State</ref> laws. A <ref target="1024-2-b-Lender" reftype="term">lender</ref> who makes a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> or a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall be considered to have complied with the provisions of any <ref target="1024-2-b-State" reftype="term">State</ref> law or regulation requiring notice to a borrower at the time of <ref target="1024-2-b-Application" reftype="term">application</ref> for a loan or transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a loan if the <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with the requirements of this section. Any <ref target="1024-2-b-State" reftype="term">State</ref> law requiring notice to the borrower at the time of <ref target="1024-2-b-Application" reftype="term">application</ref> or at the time of transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the loan is preempted, and there shall be no additional borrower disclosure requirements. Provisions of <ref target="1024-2-b-State" reftype="term">State</ref> law, such as those requiring additional notices to insurance companies or taxing authorities, are not preempted by section 6 of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this section, and this additional information may be added to a notice provided under this section, if permitted under <ref target="1024-2-b-State" reftype="term">State</ref> law.</content>
+        <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> who makes a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> or a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall be considered to have complied with the provisions of any <ref target="1024-2-b-State" reftype="term">State</ref> law or regulation requiring notice to a borrower at the time of <ref target="1024-2-b-Application" reftype="term">application</ref> for a loan or transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a loan if the <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with the requirements of this section. Any <ref target="1024-2-b-State" reftype="term">State</ref> law requiring notice to the borrower at the time of <ref target="1024-2-b-Application" reftype="term">application</ref> or at the time of transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the loan is preempted, and there shall be no additional borrower disclosure requirements. Provisions of <ref target="1024-2-b-State" reftype="term">State</ref> law, such as those requiring additional notices to insurance companies or taxing authorities, are not preempted by section 6 of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this section, and this additional information may be added to a notice provided under this section, if permitted under <ref target="1024-2-b-State" reftype="term">State</ref> law.</content>
         <analysis label="1024-33-d-Analysis">
           <analysisSection>
             <title>33(d) Preemption of State Laws</title>
@@ -7160,7 +7210,7 @@
           <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref>, and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> reasonably determines that any of the following apply:</content>
           <paragraph label="1024-35-g-1-i" marker="(i)">
             <title type="keyterm">Duplicative notice of error.</title>
-            <content><ref target="1024-35-b" reftype="term">error</ref>. The asserted <ref target="1024-35-b" reftype="term">error</ref> is substantially the same as an <ref target="1024-35-b" reftype="term">error</ref> previously asserted by the borrower for which the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has previously complied with its obligation to respond pursuant to paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section, unless the borrower provides new and material information to support the asserted <ref target="1024-35-b" reftype="term">error</ref>. New and material information means information that was not reviewed by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in connection with investigating a prior notice of the same <ref target="1024-35-b" reftype="term">error</ref> and is reasonably likely to change the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s prior determination about the <ref target="1024-35-b" reftype="term">error</ref>.</content>
+            <content>The asserted <ref target="1024-35-b" reftype="term">error</ref> is substantially the same as an <ref target="1024-35-b" reftype="term">error</ref> previously asserted by the borrower for which the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has previously complied with its obligation to respond pursuant to paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref> and <ref target="1024-35-e" reftype="internal">(e)</ref> of this section, unless the borrower provides new and material information to support the asserted <ref target="1024-35-b" reftype="term">error</ref>. New and material information means information that was not reviewed by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in connection with investigating a prior notice of the same <ref target="1024-35-b" reftype="term">error</ref> and is reasonably likely to change the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s prior determination about the <ref target="1024-35-b" reftype="term">error</ref>.</content>
             <analysis label="1024-35-g-1-i-Analysis">
               <analysisSection>
                 <title>35(g)(1)(i)</title>
@@ -7175,7 +7225,7 @@
           </paragraph>
           <paragraph label="1024-35-g-1-ii" marker="(ii)">
             <title type="keyterm">Overbroad notice of error.</title>
-            <content><ref target="1024-35-b" reftype="term">error</ref>. The notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad. A notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> cannot reasonably determine from the notice of <ref target="1024-35-b" reftype="term">error</ref> the specific <ref target="1024-35-b" reftype="term">error</ref> that the borrower asserts has occurred on a borrower's account. To the extent a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can reasonably identify a valid assertion of an <ref target="1024-35-b" reftype="term">error</ref> in a notice of <ref target="1024-35-b" reftype="term">error</ref> that is otherwise overbroad, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref> and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section with respect to that asserted <ref target="1024-35-b" reftype="term">error</ref>.</content>
+            <content>The notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad. A notice of <ref target="1024-35-b" reftype="term">error</ref> is overbroad if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> cannot reasonably determine from the notice of <ref target="1024-35-b" reftype="term">error</ref> the specific <ref target="1024-35-b" reftype="term">error</ref> that the borrower asserts has occurred on a borrower's account. To the extent a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> can reasonably identify a valid assertion of an <ref target="1024-35-b" reftype="term">error</ref> in a notice of <ref target="1024-35-b" reftype="term">error</ref> that is otherwise overbroad, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall comply with the requirements of paragraphs <ref target="1024-35-d" reftype="internal">(d)</ref>, <ref target="1024-35-e" reftype="internal">(e)</ref> and <ref target="1024-35-i" reftype="internal">(i)</ref> of this section with respect to that asserted <ref target="1024-35-b" reftype="term">error</ref>.</content>
             <analysis label="1024-35-g-1-ii-Analysis">
               <analysisSection>
                 <title>35(g)(1)(ii)</title>
@@ -7188,7 +7238,7 @@
           </paragraph>
           <paragraph label="1024-35-g-1-iii" marker="(iii)">
             <title type="keyterm">Untimely notice of error.</title>
-            <content><ref target="1024-35-b" reftype="term">error</ref>. A notice of <ref target="1024-35-b" reftype="term">error</ref> is delivered to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> more than one year after:</content>
+            <content>A notice of <ref target="1024-35-b" reftype="term">error</ref> is delivered to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> more than one year after:</content>
             <paragraph label="1024-35-g-1-iii-A" marker="(A)">
               <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> for the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> that is the subject of the asserted <ref target="1024-35-b" reftype="term">error</ref> was transferred from the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receiving the notice of <ref target="1024-35-b" reftype="term">error</ref> to a transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>; or</content>
             </paragraph>
@@ -7243,8 +7293,6 @@
         </analysis>
       </paragraph>
     </change>
-    <change operation="deleted" label="1024-13-b-2"/>
-    <change operation="deleted" label="1024-13-b-1"/>
     <change operation="modified" label="1024-33-b-4-ii">
       <paragraph label="1024-33-b-4-ii" marker="(ii)">
         <content>The name, address, and a collect call or toll-free telephone number for an employee or department of the transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that can be contacted by the borrower to obtain answers to <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfer inquiries;</content>
@@ -7295,14 +7343,14 @@
         </paragraph>
         <paragraph label="1024-41-b" marker="(b)">
           <title type="keyterm">Receipt of a loss mitigation application.</title>
-          <content><ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
+          <content></content>
           <paragraph label="1024-41-b-1" marker="(1)">
             <title type="keyterm">Complete loss mitigation application.</title>
-            <content><ref target="1024-2-b-Application" reftype="term">application</ref>. A complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> means an <ref target="1024-2-b-Application" reftype="term">application</ref> in connection with which a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has received all the information that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> requires from a borrower in evaluating <ref target="1024-2-b-Application" reftype="term">applications</ref> for the loss mitigation options available to the borrower. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall exercise reasonable diligence in obtaining documents and information to complete a loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
+            <content>A complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> means an <ref target="1024-2-b-Application" reftype="term">application</ref> in connection with which a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has received all the information that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> requires from a borrower in evaluating <ref target="1024-2-b-Application" reftype="term">applications</ref> for the loss mitigation options available to the borrower. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall exercise reasonable diligence in obtaining documents and information to complete a loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
           </paragraph>
           <paragraph label="1024-41-b-2" marker="(2)">
             <title type="keyterm">Review of loss mitigation application submission.</title>
-            <content><ref target="1024-2-b-Application" reftype="term">application</ref> submission.</content>
+            <content></content>
             <paragraph label="1024-41-b-2-i" marker="(i)">
               <title type="keyterm">Requirements.</title>
               <content>If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives a loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> 45 days or more before a foreclosure sale, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall:</content>
@@ -7361,10 +7409,10 @@
         </paragraph>
         <paragraph label="1024-41-c" marker="(c)">
           <title type="keyterm">Evaluation of loss mitigation applications.</title>
-          <content><ref target="1024-2-b-Application" reftype="term">applications</ref>.</content>
+          <content></content>
           <paragraph label="1024-41-c-1" marker="(1)">
             <title type="keyterm">Complete loss mitigation application.</title>
-            <content><ref target="1024-2-b-Application" reftype="term">application</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives a complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> more than 37 days before a foreclosure sale, then, within 30 days of receiving a borrower's complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall:</content>
+            <content>If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives a complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> more than 37 days before a foreclosure sale, then, within 30 days of receiving a borrower's complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall:</content>
             <paragraph label="1024-41-c-1-i" marker="(i)">
               <content>Evaluate the borrower for all loss mitigation options available to the borrower; and</content>
             </paragraph>
@@ -7374,7 +7422,7 @@
           </paragraph>
           <paragraph label="1024-41-c-2" marker="(2)">
             <title type="keyterm">Incomplete loss mitigation application evaluation.</title>
-            <content><ref target="1024-2-b-Application" reftype="term">application</ref> evaluation.</content>
+            <content></content>
             <paragraph label="1024-41-c-2-i" marker="(i)">
               <title type="keyterm">In general.</title>
               <content>Except as set forth in paragraph <ref target="1024-41-c-2-ii" reftype="internal">(c)(2)(ii)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not evade the requirement to evaluate a complete loss mitigation option for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
@@ -7521,7 +7569,7 @@
           </paragraph>
           <paragraph label="1024-41-f-2" marker="(2)">
             <title type="keyterm">Application received before foreclosure referral.</title>
-            <content><ref target="1024-2-b-Application" reftype="term">Application</ref> If a borrower submits a complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> during the pre-foreclosure review period set forth in paragraph <ref target="1024-41-f-1" reftype="internal">(f)(1)</ref> of this section or before a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has made the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:</content>
+            <content>If a borrower submits a complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> during the pre-foreclosure review period set forth in paragraph <ref target="1024-41-f-1" reftype="internal">(f)(1)</ref> of this section or before a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has made the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:</content>
             <paragraph label="1024-41-f-2-i" marker="(i)">
               <content>The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has sent the borrower a notice pursuant to paragraph <ref target="1024-41-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section that the borrower is not eligible for any loss mitigation option and the appeal process in paragraph <ref target="1024-41-h" reftype="internal">(h)</ref> of this section is not applicable, the borrower has not requested an appeal within the applicable time period for requesting an appeal, or the borrower's appeal has been denied;</content>
             </paragraph>
@@ -7639,7 +7687,7 @@
         </paragraph>
         <paragraph label="1024-41-j" marker="(j)">
           <title type="keyterm">Small servicer requirements.</title>
-          <content><ref target="1024-2-b-Servicer" reftype="term">servicer</ref> requirements. A small <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless a borrower's <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> obligation is more than 120 days delinquent. A small <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.</content>
+          <content>A small <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless a borrower's <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> obligation is more than 120 days delinquent. A small <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.</content>
           <analysis label="1024-41-j-Analysis">
             <analysisSection>
               <title>41(j) Other Liens (Withdrawn)</title>
@@ -7812,7 +7860,7 @@
         </paragraph>
         <paragraph label="1024-40-b" marker="(b)">
           <title type="keyterm">Functions of servicer personnel.</title>
-          <content><ref target="1024-2-b-Servicer" reftype="term">servicer</ref> personnel. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall maintain policies and procedures reasonably designed to ensure that <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> personnel assigned to a delinquent borrower as described in paragraph <ref target="1024-40-a" reftype="internal">(a)</ref> of this section perform the following functions:</content>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall maintain policies and procedures reasonably designed to ensure that <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> personnel assigned to a delinquent borrower as described in paragraph <ref target="1024-40-a" reftype="internal">(a)</ref> of this section perform the following functions:</content>
           <paragraph label="1024-40-b-1" marker="(1)">
             <content>Provide the borrower with accurate information about:</content>
             <paragraph label="1024-40-b-1-i" marker="(i)">
@@ -7986,7 +8034,7 @@
     <change operation="added" label="1024-5-c">
       <paragraph label="1024-5-c" marker="(c)">
         <title type="keyterm">Relation to State laws.</title>
-        <content><ref target="1024-2-b-State" reftype="term">State</ref> laws.</content>
+        <content></content>
         <paragraph label="1024-5-c-1" marker="(1)">
           <content><ref target="1024-2-b-State" reftype="term">State</ref> laws that are inconsistent with <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this part are preempted to the extent of the inconsistency. However, <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and these regulations do not annul, alter, affect, or exempt any person subject to their provisions from complying with the laws of any <ref target="1024-2-b-State" reftype="term">State</ref> with respect to <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> practices, except to the extent of the inconsistency.</content>
         </paragraph>
@@ -8034,7 +8082,7 @@
     <change operation="modified" label="1024-38-c-2">
       <paragraph label="1024-38-c-2" marker="(2)">
         <title type="keyterm">Servicing file.</title>
-        <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall maintain the following documents and data on each <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> account serviced by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in a manner that facilitates compiling such documents and data into a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> file within five days:</content>
+        <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall maintain the following documents and data on each <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> account serviced by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> in a manner that facilitates compiling such documents and data into a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> file within five days:</content>
         <paragraph label="1024-38-c-2-i" marker="(i)">
           <content>A schedule of all transactions credited or debited to the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> account, including any <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account as defined in § <ref target="1024-17-b" reftype="internal">1024.17(b)</ref> and any suspense account;</content>
         </paragraph>
@@ -8091,7 +8139,7 @@
     <change operation="modified" label="1024-20-c-1">
       <paragraph label="1024-20-c-1" marker="(1)">
         <title type="keyterm">Reverse mortgage transactions.</title>
-        <content><ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">Reverse mortgage</ref> A <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an applicant for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transaction subject to <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a) the list of homeownership counseling organizations required under this section.</content>
+        <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an applicant for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transaction subject to <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a) the list of homeownership counseling organizations required under this section.</content>
         <analysis label="1024-20-c-1-Analysis">
           <analysisSection>
             <title>20(c)(1) Reverse Mortgage Transactions</title>
