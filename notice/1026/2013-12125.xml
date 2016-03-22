@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -21,18 +20,13 @@
   <changeset leftDocumentNumber="2013-01503_20130601" rightDocumentNumber="2013-12125">
     <change operation="modified" label="1026-35-a-2">
       <paragraph label="1026-35-a-2" marker="(2)">
-        <content>“Average prime offer rate” means an annual percentage rate that is derived from average interest rates, points, and other loan pricing terms currently offered to <ref target="1026-2-a-11" reftype="term">consumers</ref> by a representative sample of <ref target="1026-2-a-17" reftype="term">creditors</ref> for mortgage transactions that have low-risk pricing characteristics. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> publishes average prime offer rates for a broad range of types of transactions in a table updated at least weekly as well as the methodology the <ref target="1026-2-a-5" reftype="term">Bureau</ref> uses to derive these rates.</content>
+        <content>“<def term="average prime offer rate">Average prime offer rate</def>” means an annual percentage rate that is derived from average interest rates, points, and other loan pricing terms currently offered to <ref target="1026-2-a-11" reftype="term">consumers</ref> by a representative sample of <ref target="1026-2-a-17" reftype="term">creditors</ref> for mortgage transactions that have low-risk pricing characteristics. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> publishes average prime offer rates for a broad range of types of transactions in a table updated at least weekly as well as the methodology the <ref target="1026-2-a-5" reftype="term">Bureau</ref> uses to derive these rates.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-35-c">
       <paragraph label="1026-35-c" marker="(c)">
         <content>[Reserved]</content>
       </paragraph>
-    </change>
-    <change operation="added" label="1026-35-e-2-ii-C-Interp-2-ii">
-      <interpParagraph label="1026-35-e-2-ii-C-Interp-2-ii" marker="ii.">
-        <content>Initial payments for a variable-rate transaction consummated on January 1, 2010 are $1,000 per month and the loan agreement permits negative amortization to occur. Under the loan agreement, the first date that a scheduled payment in a different amount may be due is January 1, 2014, but the <ref target="1026-2-a-17" reftype="term">creditor</ref> has the right to change scheduled payments prior to that date if negative amortization occurs. A prepayment penalty is prohibited with this mortgage transaction because the payment may change within the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
-      </interpParagraph>
     </change>
     <change operation="modified" label="1026-35-b-2-iv-Interp-1-ii">
       <interpParagraph label="1026-35-b-2-iv-Interp-1-ii" marker="ii.">
@@ -184,25 +178,6 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="added" label="1026-35-e-2-ii">
-      <paragraph label="1026-35-e-2-ii" marker="(ii)">
-        <content>Under the terms of the loan:</content>
-        <paragraph label="1026-35-e-2-ii-A" marker="(A)">
-          <content>The penalty will not apply after the two-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>;</content>
-        </paragraph>
-        <paragraph label="1026-35-e-2-ii-B" marker="(B)">
-          <content>The penalty will not apply if the source of the prepayment funds is a refinancing by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or an <ref target="1026-32-b-2" reftype="term">affiliate</ref> of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; and</content>
-        </paragraph>
-        <paragraph label="1026-35-e-2-ii-C" marker="(C)">
-          <content>The amount of the periodic payment of principal or interest or both may not change during the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
-        </paragraph>
-      </paragraph>
-    </change>
-    <change operation="added" label="1026-35-b-2-iv-Interp-2-i">
-      <interpParagraph label="1026-35-b-2-iv-Interp-2-i" marker="i.">
-        <content>A county is considered “rural” for a given calendar year based on the most recent available UIC designations, which are updated by the USDA-ERS once every ten years. As an example, assume a <ref target="1026-2-a-17" reftype="term">creditor</ref> makes first-lien covered transactions in County X during calendar year 2014, and the most recent UIC designations have been published in the second quarter of 2013. To determine “rural” status for County X during calendar year 2014, the <ref target="1026-2-a-17" reftype="term">creditor</ref> will use the 2013 UIC designations. However, to determine “rural” status for County X during 2012 or 2013, the <ref target="1026-2-a-17" reftype="term">creditor</ref> would use the UIC designations last published in 2003.</content>
-      </interpParagraph>
-    </change>
     <change operation="modified" label="1026-35-b-2-iii-A">
       <paragraph label="1026-35-b-2-iii-A" marker="(A)">
         <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> extended more than 50 percent of its total covered transactions, as defined by § 1026.43(b)(1), secured by a first lien, on properties that are located in counties that are either “rural” or “underserved,” as set forth in paragraph (b)(2)(iv) of th<ref target="1026-35-b-2-iv" reftype="internal">is section</ref>;</content>
@@ -220,34 +195,9 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-    <change operation="added" label="1026-35-e-2-ii-C-Interp">
-      <interpParagraph label="1026-35-e-2-ii-C-Interp" target="1026-35-e-2-ii-C">
-        <title>Paragraph 35(e)(2)(ii)(C)</title>
-        <content/>
-        <interpParagraph label="1026-35-e-2-ii-C-Interp-1" marker="1.">
-          <title type="keyterm">Payment change.</title>
-          <content>Section <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> provides that a loan subject to this section may not have a penalty described by § <ref target="1026-32-d-6" reftype="internal">1026.32(d)(6)</ref> unless certain conditions are met. Section <ref target="1026-35-e-2-ii-C" reftype="internal">1026.35(e)(2)(ii)(C)</ref> lists as a condition that the amount of the periodic payment of principal or interest or both may not change during the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>. For examples showing whether a prepayment penalty is permitted or prohibited in connection with particular payment changes, see comment <ref target="1026-32-d-7-iv-Interp-1" reftype="internal">32(d)(7)(iv)-1</ref>. Those examples, however, include a condition that § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> does not include: The condition that, at <ref target="1026-2-a-13" reftype="term">consummation</ref>, the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s total monthly debt payments may not exceed 50 percent of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s monthly gross income. For guidance about circumstances in which payment changes are not considered payment changes for purposes of this section, see comment <ref target="1026-32-d-7-iv-Interp-2" reftype="internal">32(d)(7)(iv)-2</ref>.</content>
-        </interpParagraph>
-        <interpParagraph label="1026-35-e-2-ii-C-Interp-2" marker="2.">
-          <title type="keyterm">Negative amortization.</title>
-          <content>Section <ref target="1026-32-d-2" reftype="internal">1026.32(d)(2)</ref> provides that a loan described in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref> may not have a payment schedule with regular periodic payments that cause the principal balance to increase. Therefore, the commentary to § <ref target="1026-32-d-7-iv-Interp" reftype="internal">1026.32(d)(7)(iv)</ref> does not include examples of payment changes in connection with negative amortization. The following examples show whether, under § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref>, prepayment penalties are permitted or prohibited in connection with particular payment changes, when a loan agreement permits negative amortization:</content>
-          <interpParagraph label="1026-35-e-2-ii-C-Interp-2-i" marker="i.">
-            <content>Initial payments for a variable-rate transaction consummated on January 1, 2010, are $1,000 per month and the loan agreement permits negative amortization to occur. Under the loan agreement, the first date that a scheduled payment in a different amount may be due is January 1, 2014, and the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not have the right to change scheduled payments prior to that date even if negative amortization occurs. A prepayment penalty is permitted with this mortgage transaction provided that the other § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> conditions are met, that is: Provided that the prepayment penalty is permitted by other applicable law, the penalty expires on or before December 31, 2011, and the penalty will not apply if the source of the prepayment funds is a refinancing by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-2" reftype="term">affiliate</ref>.</content>
-          </interpParagraph>
-          <interpParagraph label="1026-35-e-2-ii-C-Interp-2-ii" marker="ii.">
-            <content>Initial payments for a variable-rate transaction consummated on January 1, 2010 are $1,000 per month and the loan agreement permits negative amortization to occur. Under the loan agreement, the first date that a scheduled payment in a different amount may be due is January 1, 2014, but the <ref target="1026-2-a-17" reftype="term">creditor</ref> has the right to change scheduled payments prior to that date if negative amortization occurs. A prepayment penalty is prohibited with this mortgage transaction because the payment may change within the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
-          </interpParagraph>
-        </interpParagraph>
-      </interpParagraph>
-    </change>
     <change operation="modified" label="1026-35-b-2-iv-Interp-1-i">
       <interpParagraph label="1026-35-b-2-iv-Interp-1-i" marker="i.">
         <content>Under § <ref target="1026-35-b-2-iv-A" reftype="internal">1026.35(b)(2)(iv)(A)</ref>, a county is rural during a calendar year if it is neither in a metropolitan statistical area nor in a micropolitan statistical area that is adjacent to a metropolitan statistical area. These areas are defined by the Office of Management and Budget and applied under currently applicable Urban Influence Codes (UICs), established by the United States Department of Agriculture's Economic Research Service (USDA-ERS). Accordingly, for purposes of § 1026.35(b)(2)(iv)(A), “adjacent” has the meaning applied by the USDA-ERS in determining a county's UIC; as so applied, “adjacent” entails a county not only being physically contiguous with a metropolitan statistical area but also meeting certain minimum population commuting patterns. Specifically, a county is “rural” if the USDA-ERS categorizes the county under UIC 4, 6, 7, 8, 9, 10, 11, or 12. Descriptions of UICs are available on the USDA-ERS Web site at http://www.ers.usda.gov/data-products/urban-influence-codes/documentation.aspx. A county for which there is no currently applicable UIC (because the county has been created since the USDA-ERS last categorized counties) is rural only if all counties from which the new county's land was taken are themselves rural under currently applicable UICs.</content>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1026-35-e-2-ii-C-Interp-2-i">
-      <interpParagraph label="1026-35-e-2-ii-C-Interp-2-i" marker="i.">
-        <content>Initial payments for a variable-rate transaction consummated on January 1, 2010, are $1,000 per month and the loan agreement permits negative amortization to occur. Under the loan agreement, the first date that a scheduled payment in a different amount may be due is January 1, 2014, and the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not have the right to change scheduled payments prior to that date even if negative amortization occurs. A prepayment penalty is permitted with this mortgage transaction provided that the other § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> conditions are met, that is: Provided that the prepayment penalty is permitted by other applicable law, the penalty expires on or before December 31, 2011, and the penalty will not apply if the source of the prepayment funds is a refinancing by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-2" reftype="term">affiliate</ref>.</content>
       </interpParagraph>
     </change>
     <change operation="modified" label="1026-35-b-2-iii-B">
@@ -428,49 +378,7 @@
     </change>
     <change operation="modified" label="1026-23-a-3-ii">
       <paragraph label="1026-23-a-3-ii" marker="(ii)">
-        <content>For purposes of this paragraph <ref target="1026-23-a-3" reftype="internal">(a)(3)</ref>, the term “material disclosures” means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in §§ <ref target="1026-32-c" reftype="internal">1026.32(c)</ref> and <ref target="1026-32-d" reftype="internal">(d)</ref> and <ref target="1026-35-b-2" reftype="internal">1026.35(e)(2)</ref>.</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1026-35-e-2-ii-A">
-      <paragraph label="1026-35-e-2-ii-A" marker="(A)">
-        <content>The penalty will not apply after the two-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>;</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1026-35-e-2-ii-C">
-      <paragraph label="1026-35-e-2-ii-C" marker="(C)">
-        <content>The amount of the periodic payment of principal or interest or both may not change during the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1026-35-e-2-ii-B">
-      <paragraph label="1026-35-e-2-ii-B" marker="(B)">
-        <content>The penalty will not apply if the source of the prepayment funds is a refinancing by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or an <ref target="1026-32-b-2" reftype="term">affiliate</ref> of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; and</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1026-35-e-2">
-      <paragraph label="1026-35-e-2" marker="(2)">
-        <title type="keyterm">Prepayment penalties.</title>
-        <content>A loan may not include a penalty described by § <ref target="1026-32-d-6" reftype="internal">1026.32(d)(6)</ref> unless:</content>
-        <paragraph label="1026-35-e-2-i" marker="(i)">
-          <content>The penalty is otherwise permitted by law, including § <ref target="1026-32-d-7" reftype="internal">1026.32(d)(7)</ref> if the loan is a mortgage transaction described in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>; and</content>
-        </paragraph>
-        <paragraph label="1026-35-e-2-ii" marker="(ii)">
-          <content>Under the terms of the loan:</content>
-          <paragraph label="1026-35-e-2-ii-A" marker="(A)">
-            <content>The penalty will not apply after the two-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>;</content>
-          </paragraph>
-          <paragraph label="1026-35-e-2-ii-B" marker="(B)">
-            <content>The penalty will not apply if the source of the prepayment funds is a refinancing by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or an <ref target="1026-32-b-2" reftype="term">affiliate</ref> of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; and</content>
-          </paragraph>
-          <paragraph label="1026-35-e-2-ii-C" marker="(C)">
-            <content>The amount of the periodic payment of principal or interest or both may not change during the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
-          </paragraph>
-        </paragraph>
-      </paragraph>
-    </change>
-    <change operation="added" label="1026-35-e-3">
-      <paragraph label="1026-35-e-3" marker="(3)">
-        <title type="keyterm">Sunset of requirements on repayment ability and prepayment penalties.</title>
-        <content>The requirements described in this paragraph <ref target="1026-35-e" reftype="internal">(e)</ref> shall expire at 11:59 p.m. on January 9, 2014.</content>
+        <content>For purposes of this paragraph <ref target="1026-23-a-3" reftype="internal">(a)(3)</ref>, the term “<def term="material disclosure">material disclosures</def>” means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in §§ <ref target="1026-32-c" reftype="internal">1026.32(c)</ref> and <ref target="1026-32-d" reftype="internal">(d)</ref> and <ref target="1026-35-b-2" reftype="internal">1026.35(e)(2)</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-51-a">
@@ -512,12 +420,6 @@
             </paragraph>
           </paragraph>
         </paragraph>
-      </paragraph>
-    </change>
-    <change operation="added" label="1026-35-e-1">
-      <paragraph label="1026-35-e-1" marker="(1)">
-        <title type="keyterm">Repayment ability.</title>
-        <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not extend <ref target="1026-2-a-14" reftype="term">credit</ref> based on the value of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s collateral without regard to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s repayment ability as of <ref target="1026-2-a-13" reftype="term">consummation</ref> as provided in § <ref target="1026-34-a-4" reftype="internal">1026.34(a)(4)</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-34-a-4-Interp-1">
@@ -756,7 +658,7 @@
           <title type="keyterm">Applications from young consumers.</title>
           <content><ref target="1026-2-a-11" reftype="term">consumers</ref>. A <ref target="1026-2-a-7" reftype="term">card issuer</ref> may not open a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan for a <ref target="1026-2-a-11" reftype="term">consumer</ref> less than 21 years old, unless the <ref target="1026-2-a-11" reftype="term">consumer</ref> has submitted a written application and the <ref target="1026-2-a-7" reftype="term">card issuer</ref> has:</content>
           <paragraph label="1026-51-b-1-i" marker="(i)">
-            <content>Financial information indicating the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the proposed extension of <ref target="1026-2-a-14" reftype="term">credit</ref> in connection with the account; or<ref target="1026-51-a" reftype="internal"/></content>
+            <content>Financial information indicating the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the proposed extension of <ref target="1026-2-a-14" reftype="term">credit</ref> in connection with the account; or</content>
           </paragraph>
           <paragraph label="1026-51-b-1-ii" marker="(ii)">
             <content/>
@@ -770,7 +672,7 @@
         </paragraph>
         <paragraph label="1026-51-b-2" marker="(2)">
           <title type="keyterm">Credit line increases for young consumers.</title>
-          <content><ref target="1026-2-a-14" reftype="term">Credit</ref><ref target="1026-2-a-11" reftype="term">consumers</ref>. <ref target="1026-51-b-1-ii" reftype="internal"/></content>
+          <content><ref target="1026-2-a-14" reftype="term">Credit</ref><ref target="1026-2-a-11" reftype="term">consumers</ref>.</content>
           <paragraph label="1026-51-b-2-i" marker="(i)">
             <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless:</content>
             <paragraph label="1026-51-b-2-i-A" marker="(A)">
@@ -792,29 +694,6 @@
         <content>For purposes of this paragraph <ref target="1026-34-a-4" reftype="internal">(a)(4)</ref>, mortgage-related obligations are expected property taxes, premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref> as set forth in § <ref target="1026-35-b-3-i" reftype="internal">1026.35(b), and </ref>similar expenses.</content>
       </paragraph>
     </change>
-    <change operation="added" label="1026-35-e-2-ii-Interp">
-      <interpParagraph label="1026-35-e-2-ii-Interp">
-        <content/>
-        <interpParagraph label="1026-35-e-2-ii-C-Interp" target="1026-35-e-2-ii-C">
-          <title>Paragraph 35(e)(2)(ii)(C)</title>
-          <content/>
-          <interpParagraph label="1026-35-e-2-ii-C-Interp-1" marker="1.">
-            <title type="keyterm">Payment change.</title>
-            <content>Section <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> provides that a loan subject to this section may not have a penalty described by § <ref target="1026-32-d-6" reftype="internal">1026.32(d)(6)</ref> unless certain conditions are met. Section <ref target="1026-35-e-2-ii-C" reftype="internal">1026.35(e)(2)(ii)(C)</ref> lists as a condition that the amount of the periodic payment of principal or interest or both may not change during the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>. For examples showing whether a prepayment penalty is permitted or prohibited in connection with particular payment changes, see comment <ref target="1026-32-d-7-iv-Interp-1" reftype="internal">32(d)(7)(iv)-1</ref>. Those examples, however, include a condition that § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> does not include: The condition that, at <ref target="1026-2-a-13" reftype="term">consummation</ref>, the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s total monthly debt payments may not exceed 50 percent of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s monthly gross income. For guidance about circumstances in which payment changes are not considered payment changes for purposes of this section, see comment <ref target="1026-32-d-7-iv-Interp-2" reftype="internal">32(d)(7)(iv)-2</ref>.</content>
-          </interpParagraph>
-          <interpParagraph label="1026-35-e-2-ii-C-Interp-2" marker="2.">
-            <title type="keyterm">Negative amortization.</title>
-            <content>Section <ref target="1026-32-d-2" reftype="internal">1026.32(d)(2)</ref> provides that a loan described in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref> may not have a payment schedule with regular periodic payments that cause the principal balance to increase. Therefore, the commentary to § <ref target="1026-32-d-7-iv-Interp" reftype="internal">1026.32(d)(7)(iv)</ref> does not include examples of payment changes in connection with negative amortization. The following examples show whether, under § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref>, prepayment penalties are permitted or prohibited in connection with particular payment changes, when a loan agreement permits negative amortization:</content>
-            <interpParagraph label="1026-35-e-2-ii-C-Interp-2-i" marker="i.">
-              <content>Initial payments for a variable-rate transaction consummated on January 1, 2010, are $1,000 per month and the loan agreement permits negative amortization to occur. Under the loan agreement, the first date that a scheduled payment in a different amount may be due is January 1, 2014, and the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not have the right to change scheduled payments prior to that date even if negative amortization occurs. A prepayment penalty is permitted with this mortgage transaction provided that the other § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> conditions are met, that is: Provided that the prepayment penalty is permitted by other applicable law, the penalty expires on or before December 31, 2011, and the penalty will not apply if the source of the prepayment funds is a refinancing by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-2" reftype="term">affiliate</ref>.</content>
-            </interpParagraph>
-            <interpParagraph label="1026-35-e-2-ii-C-Interp-2-ii" marker="ii.">
-              <content>Initial payments for a variable-rate transaction consummated on January 1, 2010 are $1,000 per month and the loan agreement permits negative amortization to occur. Under the loan agreement, the first date that a scheduled payment in a different amount may be due is January 1, 2014, but the <ref target="1026-2-a-17" reftype="term">creditor</ref> has the right to change scheduled payments prior to that date if negative amortization occurs. A prepayment penalty is prohibited with this mortgage transaction because the payment may change within the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
-            </interpParagraph>
-          </interpParagraph>
-        </interpParagraph>
-      </interpParagraph>
-    </change>
     <change operation="modified" label="1026-34-a-4-i-Interp-1">
       <interpParagraph label="1026-34-a-4-i-Interp-1" marker="1.">
         <title type="keyterm">Mortgage-related obligations.</title>
@@ -823,7 +702,7 @@
     </change>
     <change operation="modified" label="1026-35-a-1">
       <paragraph label="1026-35-a-1" marker="(1)">
-        <content>“Higher-priced mortgage loan” means a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref><ref target="1026-35-b-3-v" reftype="internal">it transa</ref>ction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with an annual percentage rate that exceeds the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set:</content>
+        <content>“<def term="higher-priced mortgage loan">Higher-priced mortgage loan</def>” means a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref><ref target="1026-35-b-3-v" reftype="internal">it transa</ref>ction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with an annual percentage rate that exceeds the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set:</content>
         <paragraph label="1026-35-a-1-i" marker="(i)">
           <content>By 1.5 or more percentage points for loans secured by a first lien with a principal obligation at <ref target="1026-2-a-13" reftype="term">consummation</ref> that does not exceed the limit in effect as of the date the transaction's interest rate is set for the maximum principal obligation eligible for purchase by Freddie Mac;</content>
         </paragraph>
@@ -835,14 +714,9 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="added" label="1026-35-e-2-i">
-      <paragraph label="1026-35-e-2-i" marker="(i)">
-        <content>The penalty is otherwise permitted by law, including § <ref target="1026-32-d-7" reftype="internal">1026.32(d)(7)</ref> if the loan is a mortgage transaction described in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>; and</content>
-      </paragraph>
-    </change>
     <change operation="modified" label="1026-35-b-2-i">
       <paragraph label="1026-35-b-2-i" marker="(i)">
-        <content>An escrow account need not be established for:<ref target="1026-32-d-7" reftype="internal"/><ref target="1026-32-a" reftype="internal"/></content>
+        <content>An escrow account need not be established for:</content>
         <paragraph label="1026-35-b-2-i-A" marker="(A)">
           <content>A transaction secured by shares in a cooperative;</content>
         </paragraph>
@@ -902,9 +776,9 @@
     <change operation="modified" label="1026-35-b-2">
       <paragraph label="1026-35-b-2" marker="(2)">
         <title type="keyterm">Prepayment penalties.</title>
-        <content>Exemptions. Notwithstanding paragraph (b)(1) of this section:<ref target="1026-32-d-6" reftype="internal"/></content>
+        <content>Exemptions. Notwithstanding paragraph (b)(1) of this section:</content>
         <paragraph label="1026-35-b-2-i" marker="(i)">
-          <content>An escrow account need not be established for:<ref target="1026-32-d-7" reftype="internal"/><ref target="1026-32-a" reftype="internal"/></content>
+          <content>An escrow account need not be established for:</content>
           <paragraph label="1026-35-b-2-i-A" marker="(A)">
             <content>A transaction secured by shares in a cooperative;</content>
           </paragraph>
@@ -961,60 +835,11 @@
         <content>Notwithstanding paragraph <ref target="1026-35-b-2-iii" reftype="internal">(b)(2)(iii)</ref> of this section, an escrow account must be established pursuant to paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section for any first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> that, at <ref target="1026-2-a-13" reftype="term">consummation</ref>, is subject to a commitment to be acquired by a <ref target="1026-2-a-22" reftype="term">person</ref> that does not satisfy the conditions in paragraph <ref target="1026-35-b-2-iii" reftype="internal">(b)(2)(iii)</ref> of this section, unless otherwise exempted by this paragraph <ref target="1026-35-b-2" reftype="internal">(b)(2)</ref>.</content>
       </paragraph>
     </change>
-    <change operation="added" label="1026-35-e-2-Interp">
-      <interpParagraph label="1026-35-e-2-Interp">
-        <content/>
-        <interpParagraph label="1026-35-e-2-ii-Interp">
-          <content/>
-          <interpParagraph label="1026-35-e-2-ii-C-Interp" target="1026-35-e-2-ii-C">
-            <title>Paragraph 35(e)(2)(ii)(C)</title>
-            <content/>
-            <interpParagraph label="1026-35-e-2-ii-C-Interp-1" marker="1.">
-              <title type="keyterm">Payment change.</title>
-              <content>Section <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> provides that a loan subject to this section may not have a penalty described by § <ref target="1026-32-d-6" reftype="internal">1026.32(d)(6)</ref> unless certain conditions are met. Section <ref target="1026-35-e-2-ii-C" reftype="internal">1026.35(e)(2)(ii)(C)</ref> lists as a condition that the amount of the periodic payment of principal or interest or both may not change during the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>. For examples showing whether a prepayment penalty is permitted or prohibited in connection with particular payment changes, see comment <ref target="1026-32-d-7-iv-Interp-1" reftype="internal">32(d)(7)(iv)-1</ref>. Those examples, however, include a condition that § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> does not include: The condition that, at <ref target="1026-2-a-13" reftype="term">consummation</ref>, the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s total monthly debt payments may not exceed 50 percent of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s monthly gross income. For guidance about circumstances in which payment changes are not considered payment changes for purposes of this section, see comment <ref target="1026-32-d-7-iv-Interp-2" reftype="internal">32(d)(7)(iv)-2</ref>.</content>
-            </interpParagraph>
-            <interpParagraph label="1026-35-e-2-ii-C-Interp-2" marker="2.">
-              <title type="keyterm">Negative amortization.</title>
-              <content>Section <ref target="1026-32-d-2" reftype="internal">1026.32(d)(2)</ref> provides that a loan described in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref> may not have a payment schedule with regular periodic payments that cause the principal balance to increase. Therefore, the commentary to § <ref target="1026-32-d-7-iv-Interp" reftype="internal">1026.32(d)(7)(iv)</ref> does not include examples of payment changes in connection with negative amortization. The following examples show whether, under § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref>, prepayment penalties are permitted or prohibited in connection with particular payment changes, when a loan agreement permits negative amortization:</content>
-              <interpParagraph label="1026-35-e-2-ii-C-Interp-2-i" marker="i.">
-                <content>Initial payments for a variable-rate transaction consummated on January 1, 2010, are $1,000 per month and the loan agreement permits negative amortization to occur. Under the loan agreement, the first date that a scheduled payment in a different amount may be due is January 1, 2014, and the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not have the right to change scheduled payments prior to that date even if negative amortization occurs. A prepayment penalty is permitted with this mortgage transaction provided that the other § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> conditions are met, that is: Provided that the prepayment penalty is permitted by other applicable law, the penalty expires on or before December 31, 2011, and the penalty will not apply if the source of the prepayment funds is a refinancing by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-2" reftype="term">affiliate</ref>.</content>
-              </interpParagraph>
-              <interpParagraph label="1026-35-e-2-ii-C-Interp-2-ii" marker="ii.">
-                <content>Initial payments for a variable-rate transaction consummated on January 1, 2010 are $1,000 per month and the loan agreement permits negative amortization to occur. Under the loan agreement, the first date that a scheduled payment in a different amount may be due is January 1, 2014, but the <ref target="1026-2-a-17" reftype="term">creditor</ref> has the right to change scheduled payments prior to that date if negative amortization occurs. A prepayment penalty is prohibited with this mortgage transaction because the payment may change within the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
-              </interpParagraph>
-            </interpParagraph>
-          </interpParagraph>
-        </interpParagraph>
-      </interpParagraph>
-    </change>
     <change operation="modified" label="1026-32-d-Interp-1">
       <interpParagraph label="1026-32-d-Interp-1" marker="1.">
         <title type="keyterm">Additional prohibitions applicable under other sections.</title>
         <content>Section <ref target="1026-34" reftype="internal">1026.34</ref> sets forth certain prohibitions in connection with mortgage <ref target="1026-2-a-14" reftype="term">credit</ref> subject to § <ref target="1026-32" reftype="internal">1026.32</ref>, in addition to the limitations in § <ref target="1026-32-d" reftype="internal">1026.32(d)</ref>. Further, § <ref target="1026-35-b" reftype="internal">1026.35 pr</ref>ohibits certain practices in connection with transactions that meet the coverage test in § 102<ref target="1026-35-a" reftype="internal">6.35(a). B</ref>ecause the coverage test in § 102<ref target="1026-35-a" reftype="internal">6.35(a) is</ref> generally broader than the coverage test in § 102<ref target="1026-32-a" reftype="internal">6.32(a), m</ref>ost § 102<ref target="1026-32" reftype="internal">6.32 mo</ref>rtgage loans are also subject to the prohibitions set forth in § 102<ref target="1026-35-b" reftype="internal">6.35 (such</ref> as escrows), in addition to the limitations in § 1026.3<ref target="1026-32-d" reftype="internal">2(d).</ref></content>
       </interpParagraph>
     </change>
-    <change operation="added" label="1026-35-e-2-ii-C-Interp-2">
-      <interpParagraph label="1026-35-e-2-ii-C-Interp-2" marker="2.">
-        <title type="keyterm">Negative amortization.</title>
-        <content>Section <ref target="1026-32-d-2" reftype="internal">1026.32(d)(2)</ref> provides that a loan described in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref> may not have a payment schedule with regular periodic payments that cause the principal balance to increase. Therefore, the commentary to § <ref target="1026-32-d-7-iv-Interp" reftype="internal">1026.32(d)(7)(iv)</ref> does not include examples of payment changes in connection with negative amortization. The following examples show whether, under § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref>, prepayment penalties are permitted or prohibited in connection with particular payment changes, when a loan agreement permits negative amortization:</content>
-        <interpParagraph label="1026-35-e-2-ii-C-Interp-2-i" marker="i.">
-          <content>Initial payments for a variable-rate transaction consummated on January 1, 2010, are $1,000 per month and the loan agreement permits negative amortization to occur. Under the loan agreement, the first date that a scheduled payment in a different amount may be due is January 1, 2014, and the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not have the right to change scheduled payments prior to that date even if negative amortization occurs. A prepayment penalty is permitted with this mortgage transaction provided that the other § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> conditions are met, that is: Provided that the prepayment penalty is permitted by other applicable law, the penalty expires on or before December 31, 2011, and the penalty will not apply if the source of the prepayment funds is a refinancing by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-2" reftype="term">affiliate</ref>.</content>
-        </interpParagraph>
-        <interpParagraph label="1026-35-e-2-ii-C-Interp-2-ii" marker="ii.">
-          <content>Initial payments for a variable-rate transaction consummated on January 1, 2010 are $1,000 per month and the loan agreement permits negative amortization to occur. Under the loan agreement, the first date that a scheduled payment in a different amount may be due is January 1, 2014, but the <ref target="1026-2-a-17" reftype="term">creditor</ref> has the right to change scheduled payments prior to that date if negative amortization occurs. A prepayment penalty is prohibited with this mortgage transaction because the payment may change within the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
-        </interpParagraph>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1026-35-e-2-ii-C-Interp-1">
-      <interpParagraph label="1026-35-e-2-ii-C-Interp-1" marker="1.">
-        <title type="keyterm">Payment change.</title>
-        <content>Section <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> provides that a loan subject to this section may not have a penalty described by § <ref target="1026-32-d-6" reftype="internal">1026.32(d)(6)</ref> unless certain conditions are met. Section <ref target="1026-35-e-2-ii-C" reftype="internal">1026.35(e)(2)(ii)(C)</ref> lists as a condition that the amount of the periodic payment of principal or interest or both may not change during the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>. For examples showing whether a prepayment penalty is permitted or prohibited in connection with particular payment changes, see comment <ref target="1026-32-d-7-iv-Interp-1" reftype="internal">32(d)(7)(iv)-1</ref>. Those examples, however, include a condition that § <ref target="1026-35-e-2" reftype="internal">1026.35(e)(2)</ref> does not include: The condition that, at <ref target="1026-2-a-13" reftype="term">consummation</ref>, the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s total monthly debt payments may not exceed 50 percent of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s monthly gross income. For guidance about circumstances in which payment changes are not considered payment changes for purposes of this section, see comment <ref target="1026-32-d-7-iv-Interp-2" reftype="internal">32(d)(7)(iv)-2</ref>.</content>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1026-35-b-2-iv-Interp-2-ii">
-      <interpParagraph label="1026-35-b-2-iv-Interp-2-ii" marker="ii.">
-        <content>A county is considered “underserved” for a given calendar year based on the most recent available HMDA data. For example, assume a <ref target="1026-2-a-17" reftype="term">creditor</ref> makes first-lien covered transactions in County Y during calendar year 2013, and the most recent HMDA data is for calendar year 2012, published in the third quarter of 2013. To determine “underserved” status for County Y in calendar year 2013 for the purposes of qualifying for the “rural or underserved” exemption in calendar year 2014, the <ref target="1026-2-a-17" reftype="term">creditor</ref> will use the 2012 HMDA data.</content>
-      </interpParagraph>
-    </change>
-  </changeset>
+    </changeset>
 </notice>

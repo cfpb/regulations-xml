@@ -19,6 +19,7 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/03/28/2013-07066/truth-in-lending-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2012-27997" rightDocumentNumber="2013-07066">
+    <!--<change operation="deleted" label="1026-52-a-1-Interp-3-ii-B"/>-->
     <change operation="modified" label="1026-52-a-2-Interp-1">
       <interpParagraph label="1026-52-a-2-Interp-1" marker="1.">
         <title type="keyterm">Covered fees.</title>
@@ -43,7 +44,7 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-    <change operation="deleted" label="1026-52-a-1-Interp-1-iii"/>
+    <!--<change operation="deleted" label="1026-52-a-1-Interp-1-iii"/>-->
     <change operation="modified" label="1026-52-a-1-Interp-3-ii">
       <interpParagraph label="1026-52-a-1-Interp-3-ii" marker="ii.">
         <title type="keyterm">Decreases in credit limit.</title>
@@ -55,7 +56,6 @@
         <content>Assume that, under the terms of a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account, a <ref target="1026-2-a-11" reftype="term">consumer</ref> is required to pay $125 in fees for the issuance or availability of <ref target="1026-2-a-14" reftype="term">credit</ref> during the first year after account opening. At account opening on January 1 of year one, the <ref target="1026-2-a-14" reftype="term">credit</ref> limit for the account is $500. Section <ref target="1026-52-a-1" reftype="internal">1026.52(a)(1)</ref> permits the <ref target="1026-2-a-7" reftype="term">card issuer</ref> to charge the $125 in fees to the account. However, § <ref target="1026-52-a-1" reftype="internal">1026.52(a)(1)</ref> prohibits the <ref target="1026-2-a-7" reftype="term">card issuer</ref> from requiring the <ref target="1026-2-a-11" reftype="term">consumer</ref> to make payments to the <ref target="1026-2-a-7" reftype="term">card issuer</ref> for additional non-exempt fees with respect to the account during the first year after account opening. Section 1026.52(a)(1) also prohibits<ref target="1026-52-a-1" reftype="internal"> the card iss</ref><ref target="1026-2-a-7" reftype="term">card issuer</ref> from requiring the <ref target="1026-2-a-11" reftype="term">consumer</ref> to open a separate <ref target="1026-2-a-14" reftype="term">credit</ref> account with the <ref target="1026-2-a-7" reftype="term">card issuer</ref> to fund the payment of additional non-exempt fees during the first year after the <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account is opened.</content>
       </interpParagraph>
     </change>
-    <change operation="deleted" label="1026-52-a-1-Interp-3-ii-B"/>
     <change operation="modified" label="1026-52-a-Interp">
       <interpParagraph label="1026-52-a-Interp">
         <title>52(a) Limitations during first year after account opening.</title>
@@ -186,7 +186,7 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-52-a-1-Interp-3-ii-A"/>
+    <!--<change operation="deleted" label="1026-52-a-1-Interp-3-ii-A"/>-->
     <change operation="modified" label="1026-52-a-1">
       <paragraph label="1026-52-a-1" marker="(1)">
         <title type="keyterm">General rule.</title>

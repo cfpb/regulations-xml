@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -73,6 +72,7 @@
               </analysisSection>
               <analysisSection>
                 <title>43(a)(3)</title>
+		<analysisParagraph/>
               </analysisSection>
               <analysisSection>
                 <title>43(a)(3)(i)</title>
@@ -97,6 +97,7 @@
               </analysisSection>
               <analysisSection>
                 <title>43(b) Definitions</title>
+		<analysisParagraph/>
               </analysisSection>
               <analysisSection>
                 <title>43(b)(1)</title>
@@ -514,6 +515,7 @@
               </analysisSection>
               <analysisSection>
                 <title>43(c)(6) Payment Calculation for Simultaneous Loans</title>
+		<analysisParagraph/>
               </analysisSection>
               <analysisSection>
                 <title>43(c)(6)(i)</title>
@@ -587,7 +589,7 @@
                 <analysisParagraph>• A negative amortization loan, as defined in § 226.18(s)(7)(v).<footnote ref="123">“[T]he term `negative amortization' means payment of periodic payments that will result in an increase in the principal balance under the terms of the legal obligation; the term `negative amortization loan' means a loan that permits payments resulting in negative amortization, other than a reverse mortgage subject to section 226.33.” 12 CFR 1026.18(s)(7)(v).</footnote>
             
           </analysisParagraph>
-                <analysisParagraph>Proposed comment 43(d)(2)(i)(A)-1 explained the application of the definition of non-standard mortgage to an adjustable-rate mortgage with an introductory fixed interest rate for one or more years. This proposed comment clarified that, for example, a covered transaction with a fixed introductory rate for the first two, three or five years that then converts to a variable rate for the remaining 28, 27 or 25 years, respectively, is a non-standard mortgage. By contrast, a covered transaction with an introductory rate for six months that then converts to a variable rate for the remaining 29 and<FR>1/2</FR>years is not a non-standard mortgage.</analysisParagraph>
+                <analysisParagraph>Proposed comment 43(d)(2)(i)(A)-1 explained the application of the definition of non-standard mortgage to an adjustable-rate mortgage with an introductory fixed interest rate for one or more years. This proposed comment clarified that, for example, a covered transaction with a fixed introductory rate for the first two, three or five years that then converts to a variable rate for the remaining 28, 27 or 25 years, respectively, is a non-standard mortgage. By contrast, a covered transaction with an introductory rate for six months that then converts to a variable rate for the remaining 29 and 1/2 years is not a non-standard mortgage.</analysisParagraph>
                 <analysisParagraph>The Board articulated several rationales for its proposed definition of a non-standard mortgage. First, the Board noted that the legislative history of the Dodd-Frank Act describes “hybrid” mortgages as mortgages with a “blend” of fixed-rate and adjustable-rate characteristics—generally loans with an initial fixed period and adjustment periods, such as “2/23s and 3/27s.”<footnote ref="124">&lt;em data-original="E-03"&gt;See&lt;/em&gt; Comm. on Fin. Servs., Report on H.R. 1728, Mortgage Reform and Anti-Predatory Lending Act, H. Rept. 94, 110th Cong., at 5 (2009).</footnote>
             The Board also stated that the legislative history indicates that Congress was concerned about consumers being trapped in mortgages likely to result in payments that would suddenly become significantly higher—often referred to as “payment shock”—because their home values had dropped, thereby “making refinancing difficult.”<footnote ref="125">&lt;em data-original="E-03"&gt;Id.&lt;/em&gt; at 51-52.</footnote>
             
@@ -977,7 +979,7 @@
                 <analysisParagraph>Second, the Board noted that the intent of this underwriting condition is to ensure that the consumer can afford the loan's payments for a reasonable amount of time and that Congress intended for a reasonable amount of time to be the first five years after consummation.</analysisParagraph>
                 <analysisParagraph>Third, the Board proposed this approach because it is consistent with prior iterations of this statutory text and the Board's 2008 HOEPA Final Rule. As noted above, the Dodd-Frank Act codifies many aspects of the repayment ability requirements contained in existing § 1026.34(a)(4) of the Board's 2008 HOEPA Final Rule.</analysisParagraph>
                 <analysisParagraph>Fourth, the Board believed that interpreting the phrase “during the first five years” as including the rate adjustment at the end of the fifth year would be of limited benefit to consumers because creditors could easily structure their product offerings to avoid application of the rule. For example, a creditor could move a rate adjustment that typically occurs on the due date of the 60th monthly payment to due date of the first month that falls outside the specified time horizon, making any proposal to extend the time period in order to include the rate adjustment of diminished value.</analysisParagraph>
-                <analysisParagraph>Finally, the Board believed that the proposed timing of the five-year period could appropriately differ from the approach used under the 2010 MDIA Interim Final Rule, given the different purposes of the rules. The Board amended the 2010 MDIA Interim Final Rule to require that creditors base their interest rate and payment disclosures on the first five years after the due date of the first regular periodic payment rather than the first five years after consummation. <em data-original="E-03">See</em> 75 FR 81836, 81839 (Dec. 29, 2010). The revision clarified that the disclosure requirements for<FR>5/1</FR>hybrid adjustable-rate mortgages must include the rate adjustment that occurs on the due date of the 60th monthly payment, which typically occurs more than five years after consummation. The disclosure requirements under the 2010 MDIA Interim Final Rule, as revised, are intended to help make consumers aware of changes to their loan terms that may occur if they choose to stay in the loan beyond five years and therefore, helps to ensure consumers avoid the uninformed use of credit. The Board believed a different approach is appropriate under proposed § 226.43(e)(2)(iv) because that requirement seeks to ensure that the loan's payments are affordable for a reasonable period of time. For the reasons stated above, the Board believed that Congress intended the first five years after consummation to be a reasonable period of time to ensure that the consumer has the ability to repay the loan according to its terms.</analysisParagraph>
+                <analysisParagraph>Finally, the Board believed that the proposed timing of the five-year period could appropriately differ from the approach used under the 2010 MDIA Interim Final Rule, given the different purposes of the rules. The Board amended the 2010 MDIA Interim Final Rule to require that creditors base their interest rate and payment disclosures on the first five years after the due date of the first regular periodic payment rather than the first five years after consummation. <em data-original="E-03">See</em> 75 FR 81836, 81839 (Dec. 29, 2010). The revision clarified that the disclosure requirements for 5/1 hybrid adjustable-rate mortgages must include the rate adjustment that occurs on the due date of the 60th monthly payment, which typically occurs more than five years after consummation. The disclosure requirements under the 2010 MDIA Interim Final Rule, as revised, are intended to help make consumers aware of changes to their loan terms that may occur if they choose to stay in the loan beyond five years and therefore, helps to ensure consumers avoid the uninformed use of credit. The Board believed a different approach is appropriate under proposed § 226.43(e)(2)(iv) because that requirement seeks to ensure that the loan's payments are affordable for a reasonable period of time. For the reasons stated above, the Board believed that Congress intended the first five years after consummation to be a reasonable period of time to ensure that the consumer has the ability to repay the loan according to its terms.</analysisParagraph>
                 <analysisParagraph>For all the above-listed reasons, the Board interpreted the statutory text as requiring that the creditor underwrite the loan using the maximum interest rate during the first five years after consummation. The Board solicited comment on its interpretation of the phrase “first five years” and the appropriateness of this approach. The Board also proposed clarifying commentary and examples, which are described below.</analysisParagraph>
                 <analysisParagraph>As described above, commenters generally supported the payment calculation requirements in the proposed rule, including the five-year payment calculation. A comment from a coalition of consumer advocates suggested that the period may not be long enough to assure a consumer's ability to repay given that the average homeowner holds their mortgage for approximately seven years, and suggested that the five-year payment calculation requirement be extended to reflect the average mortgage duration of the first ten years of the loan. Two industry commenters suggested that the time horizon in the required payment calculation for qualified mortgages be consistent with the proposed requirement in the 2011 QRM Proposed Rule that the payment calculation be based on the maximum rate in the first five years after the date on which the first regular periodic payment will be due. One such commenter noted that the payment calculation approach in the 2011 QRM Proposed Rule is more protective of consumers. Another industry commenter suggested that the final rule should measure the first five years from the first regularly scheduled payment, for consistency with the 2010 MDIA Interim Final Rule. An association of State bank regulators agreed with the Board's reasoning, noting that creditors could structure loans to recast outside any parameter set by the rule and that an effective way to prevent purposeful evasion of the payment calculation provision would require legislation.</analysisParagraph>
                 <analysisParagraph>Notwithstanding the Board's proposed approach, the Bureau interprets the phrase “during the first 5 years” as requiring creditors to underwrite the loan based on the maximum interest rate that may apply during the first five years after the first regular periodic payment will be due. Like the Board, the Bureau finds the statutory language to be ambiguous. However, the Bureau believes that the statutory phrase “during the first 5 years” could be given either meaning, and that this approach provides greater protections to consumers by requiring creditors to underwrite qualified mortgages using the rate that would apply after the recast of a five-year adjustable rate mortgage. Further, as noted, this approach is consistent with the payment calculation in the 2011 QRM Proposed Rule and in existing Regulation Z with respect to the disclosure requirements for interest rates on adjustable-rate amortizing loans.</analysisParagraph>
@@ -1001,6 +1003,7 @@
               </analysisSection>
               <analysisSection>
                 <title>43(e)(2)(v)</title>
+		<analysisParagraph/>
               </analysisSection>
               <analysisSection>
                 <title>43(e)(2)(v)(A)</title>
@@ -1063,6 +1066,7 @@
               </analysisSection>
               <analysisSection>
                 <title>43(e)(3) Limits on Points and Fees for Qualified Mortgages</title>
+		<analysisParagraph/>
               </analysisSection>
               <analysisSection>
                 <title>43(e)(3)(i)</title>
@@ -1428,25 +1432,25 @@
           <title type="keyterm">Definitions.</title>
           <content>For purposes of this section:</content>
           <paragraph label="1026-43-b-1" marker="(1)">
-            <content>Covered transaction means a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction that is secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, as defined in § <ref target="1026-2-a-19" reftype="internal">1026.2(a)(19)</ref>, including any real property attached to a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a transaction exempt from coverage under paragraph <ref target="1026-43-a" reftype="internal">(a)</ref> of this section.</content>
+            <content><def term="covered transaction">Covered transaction</def> means a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction that is secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, as defined in § <ref target="1026-2-a-19" reftype="internal">1026.2(a)(19)</ref>, including any real property attached to a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a transaction exempt from coverage under paragraph <ref target="1026-43-a" reftype="internal">(a)</ref> of this section.</content>
           </paragraph>
           <paragraph label="1026-43-b-2" marker="(2)">
-            <content>Fully amortizing payment means a periodic payment of principal and interest that will fully repay the <ref target="1026-43-b-5" reftype="term">loan amount</ref> over the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
+            <content><def term="fully amortizing payment">Fully amortizing payment</def> means a periodic payment of principal and interest that will fully repay the <ref target="1026-43-b-5" reftype="term">loan amount</ref> over the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
           </paragraph>
           <paragraph label="1026-43-b-3" marker="(3)">
-            <content>Fully indexed rate means the interest rate calculated using the index or formula that will apply after <ref target="1026-43-b-11" reftype="term">recast</ref>, as determined at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>, and the maximum margin that can apply at any time during the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
+            <content><def term="fully indexed rate">Fully indexed rate</def> means the interest rate calculated using the index or formula that will apply after <ref target="1026-43-b-11" reftype="term">recast</ref>, as determined at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>, and the maximum margin that can apply at any time during the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
           </paragraph>
           <paragraph label="1026-43-b-4" marker="(4)">
-            <content>Higher-priced covered transaction means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction as of the date the interest rate is set by 1.5 or more percentage points for a first-lien <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, or by 3.5 or more percentage points for a subordinate-lien <ref target="1026-43-b-1" reftype="term">covered transaction</ref>.</content>
+            <content><def term="higher-priced covered transaction">Higher-priced covered transaction</def> means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction as of the date the interest rate is set by 1.5 or more percentage points for a first-lien <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, or by 3.5 or more percentage points for a subordinate-lien <ref target="1026-43-b-1" reftype="term">covered transaction</ref>.</content>
           </paragraph>
           <paragraph label="1026-43-b-5" marker="(5)">
-            <content>Loan amount means the principal amount the <ref target="1026-2-a-11" reftype="term">consumer</ref> will borrow as reflected in the promissory note or loan contract.</content>
+            <content><def term="loan amount">Loan amount</def> means the principal amount the <ref target="1026-2-a-11" reftype="term">consumer</ref> will borrow as reflected in the promissory note or loan contract.</content>
           </paragraph>
           <paragraph label="1026-43-b-6" marker="(6)">
-            <content>Loan term means the period of time to repay the obligation in full.</content>
+            <content><def term="loan term">Loan term</def> means the period of time to repay the obligation in full.</content>
           </paragraph>
           <paragraph label="1026-43-b-7" marker="(7)">
-            <content>Maximum loan amount means the <ref target="1026-43-b-5" reftype="term">loan amount</ref> plus any increase in principal balance that results from negative amortization, as defined in § <ref target="1026-18-s-7-v" reftype="internal">1026.18(s)(7)(v)</ref>, based on the terms of the legal obligation assuming:</content>
+            <content><def term="maximum loan amount">Maximum loan amount</def> means the <ref target="1026-43-b-5" reftype="term">loan amount</ref> plus any increase in principal balance that results from negative amortization, as defined in § <ref target="1026-18-s-7-v" reftype="internal">1026.18(s)(7)(v)</ref>, based on the terms of the legal obligation assuming:</content>
             <paragraph label="1026-43-b-7-i" marker="(i)">
               <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> makes only the minimum periodic payments for the maximum possible time, until the <ref target="1026-2-a-11" reftype="term">consumer</ref> must begin making <ref target="1026-43-b-2" reftype="term">fully amortizing payments</ref>; and</content>
             </paragraph>
@@ -1455,16 +1459,16 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-43-b-8" marker="(8)">
-            <content>Mortgage-related obligations mean property taxes; premiums and similar charges identified in § <ref target="1026-4-b-5" reftype="internal">1026.4(b)(5)</ref>, <ref target="1026-4-b-7" reftype="internal">(7)</ref>, <ref target="1026-4-b-8" reftype="internal">(8)</ref>, and <ref target="1026-4-b-10" reftype="internal">(10)</ref> that are required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>; fees and special assessments imposed by a condominium, cooperative, or homeowners association; ground rent; and leasehold payments.</content>
+            <content><def term="mortgage-related obligations">Mortgage-related obligations</def> mean property taxes; premiums and similar charges identified in § <ref target="1026-4-b-5" reftype="internal">1026.4(b)(5)</ref>, <ref target="1026-4-b-7" reftype="internal">(7)</ref>, <ref target="1026-4-b-8" reftype="internal">(8)</ref>, and <ref target="1026-4-b-10" reftype="internal">(10)</ref> that are required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>; fees and special assessments imposed by a condominium, cooperative, or homeowners association; ground rent; and leasehold payments.</content>
           </paragraph>
           <paragraph label="1026-43-b-9" marker="(9)">
-            <content>Points and fees has the same meaning as in § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref>.</content>
+            <content><def term="points and fees">Points and fees</def> has the same meaning as in § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref>.</content>
           </paragraph>
           <paragraph label="1026-43-b-10" marker="(10)">
-            <content>Prepayment penalty has the same meaning as in § <ref target="1026-32-b-6" reftype="internal">1026.32(b)(6)</ref>.</content>
+            <content><def term="prepayment penalty">Prepayment penalty</def> has the same meaning as in § <ref target="1026-32-b-6" reftype="internal">1026.32(b)(6)</ref>.</content>
           </paragraph>
           <paragraph label="1026-43-b-11" marker="(11)">
-            <content>Recast means:</content>
+            <content><def term="recast">Recast</def> means:</content>
             <paragraph label="1026-43-b-11-i" marker="(i)">
               <content>For an adjustable-rate mortgage, as defined in § <ref target="1026-18-s-7-i" reftype="internal">1026.18(s)(7)(i)</ref>, the expiration of the period during which payments based on the introductory fixed interest rate are permitted under the terms of the legal obligation;</content>
             </paragraph>
@@ -1476,10 +1480,10 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-43-b-12" marker="(12)">
-            <content>Simultaneous loan means another <ref target="1026-43-b-1" reftype="term">covered transaction</ref> or home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> subject to § <ref target="1026-40" reftype="internal">1026.40</ref> that will be secured by the same <ref target="1026-2-a-19" reftype="term">dwelling</ref> and made to the same <ref target="1026-2-a-11" reftype="term">consumer</ref> at or before <ref target="1026-2-a-13" reftype="term">consummation</ref> of the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> or, if to be made after <ref target="1026-2-a-13" reftype="term">consummation</ref>, will cover closing costs of the first <ref target="1026-43-b-1" reftype="term">covered transaction</ref>.</content>
+            <content><def term="simultaneous loan">Simultaneous loan</def> means another <ref target="1026-43-b-1" reftype="term">covered transaction</ref> or home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> subject to § <ref target="1026-40" reftype="internal">1026.40</ref> that will be secured by the same <ref target="1026-2-a-19" reftype="term">dwelling</ref> and made to the same <ref target="1026-2-a-11" reftype="term">consumer</ref> at or before <ref target="1026-2-a-13" reftype="term">consummation</ref> of the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> or, if to be made after <ref target="1026-2-a-13" reftype="term">consummation</ref>, will cover closing costs of the first <ref target="1026-43-b-1" reftype="term">covered transaction</ref>.</content>
           </paragraph>
           <paragraph label="1026-43-b-13" marker="(13)">
-            <content>Third-party record means:</content>
+            <content><def term="third-party record">Third-party record</def> means:</content>
             <paragraph label="1026-43-b-13-i" marker="(i)">
               <content>A document or other record prepared or reviewed by an appropriate <ref target="1026-2-a-22" reftype="term">person</ref> other than the <ref target="1026-2-a-11" reftype="term">consumer</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref>, or the mortgage broker, as defined in § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, or an agent of the <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker;</content>
             </paragraph>
@@ -1633,11 +1637,11 @@
               <content>For purposes of this paragraph <ref target="1026-43-c-7" reftype="internal">(c)(7)</ref>, the following definitions apply:</content>
               <paragraph label="1026-43-c-7-i-A" marker="(A)">
                 <title type="keyterm">Total monthly debt obligations.</title>
-                <content>The term total monthly debt obligations means the sum of: the payment on the <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, as required to be calculated by paragraphs <ref target="1026-43-c-2-iii" reftype="internal">(c)(2)(iii)</ref> and <ref target="1026-43-c-5" reftype="internal">(c)(5)</ref> of this section; <ref target="1026-43-b-12" reftype="term">simultaneous loans</ref>, as required by paragraphs <ref target="1026-43-c-2-iv" reftype="internal">(c)(2)(iv)</ref> and <ref target="1026-43-c-6" reftype="internal">(c)(6)</ref> of this section; <ref target="1026-43-b-8" reftype="term">mortgage-related obligations</ref>, as required by paragraph <ref target="1026-43-c-2-v" reftype="internal">(c)(2)(v)</ref> of this section; and current debt obligations, alimony, and child support, as required by paragraph <ref target="1026-43-c-2-vi" reftype="internal">(c)(2)(vi)</ref> of this section.</content>
+                <content>The term <def term="total monthly debt obligations">total monthly debt obligations</def> means the sum of: the payment on the <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, as required to be calculated by paragraphs <ref target="1026-43-c-2-iii" reftype="internal">(c)(2)(iii)</ref> and <ref target="1026-43-c-5" reftype="internal">(c)(5)</ref> of this section; <ref target="1026-43-b-12" reftype="term">simultaneous loans</ref>, as required by paragraphs <ref target="1026-43-c-2-iv" reftype="internal">(c)(2)(iv)</ref> and <ref target="1026-43-c-6" reftype="internal">(c)(6)</ref> of this section; <ref target="1026-43-b-8" reftype="term">mortgage-related obligations</ref>, as required by paragraph <ref target="1026-43-c-2-v" reftype="internal">(c)(2)(v)</ref> of this section; and current debt obligations, alimony, and child support, as required by paragraph <ref target="1026-43-c-2-vi" reftype="internal">(c)(2)(vi)</ref> of this section.</content>
               </paragraph>
               <paragraph label="1026-43-c-7-i-B" marker="(B)">
                 <title type="keyterm">Total monthly income.</title>
-                <content>The term total monthly income means the sum of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current or reasonably expected income, including any income from assets, as required by paragraphs <ref target="1026-43-c-2-i" reftype="internal">(c)(2)(i)</ref> and <ref target="1026-43-c-4" reftype="internal">(c)(4)</ref> of this section.</content>
+                <content>The term <def term="total monthly income">total monthly income</def> means the sum of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current or reasonably expected income, including any income from assets, as required by paragraphs <ref target="1026-43-c-2-i" reftype="internal">(c)(2)(i)</ref> and <ref target="1026-43-c-4" reftype="internal">(c)(4)</ref> of this section.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1026-43-c-7-ii" marker="(ii)">
@@ -1662,7 +1666,7 @@
             <content>For purposes of this paragraph <ref target="1026-43-d" reftype="internal">(d)</ref>, the following definitions apply:</content>
             <paragraph label="1026-43-d-1-i" marker="(i)">
               <title type="keyterm">Non-standard mortgage.</title>
-              <content>The term non-standard mortgage means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> that is:</content>
+              <content>The term <def term="non-stanard mortgage">non-standard mortgage</def> means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> that is:</content>
               <paragraph label="1026-43-d-1-i-A" marker="(A)">
                 <content>An adjustable-rate mortgage, as defined in § <ref target="1026-18-s-7-i" reftype="internal">1026.18(s)(7)(i)</ref>, with an introductory fixed interest rate for a period of one year or longer;</content>
               </paragraph>
@@ -1675,7 +1679,7 @@
             </paragraph>
             <paragraph label="1026-43-d-1-ii" marker="(ii)">
               <title type="keyterm">Standard mortgage.</title>
-              <content>The term standard mortgage means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
+              <content>The term <def term="standard mortgage">standard mortgage</def> means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
               <paragraph label="1026-43-d-1-ii-A" marker="(A)">
                 <content>That provides for regular periodic payments that do not:</content>
                 <paragraph label="1026-43-d-1-ii-A-1" marker="(1)">
@@ -2029,7 +2033,7 @@
             <title type="keyterm">Alternative offer required.</title>
             <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must not offer a <ref target="1026-2-a-11" reftype="term">consumer</ref> a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref> unless the <ref target="1026-2-a-17" reftype="term">creditor</ref> also offers the <ref target="1026-2-a-11" reftype="term">consumer</ref> an alternative <ref target="1026-43-b-1" reftype="term">covered transaction</ref> without a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref> and the alternative <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
             <paragraph label="1026-43-g-3-i" marker="(i)">
-              <content>Has an annual percentage rate that cannot increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> and has the same type of interest rate as the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref>; for purposes of this paragraph <ref target="1026-43-g" reftype="internal">(g)</ref>, the term “type of interest rate” refers to whether a transaction:</content>
+              <content>Has an annual percentage rate that cannot increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> and has the same type of interest rate as the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref>; for purposes of this paragraph <ref target="1026-43-g" reftype="internal">(g)</ref>, the term “<def term="type of interest rate">type of interest rate</def>” refers to whether a transaction:</content>
               <paragraph label="1026-43-g-3-i-A" marker="(A)">
                 <content>Is a fixed-rate mortgage, as defined in § <ref target="1026-18-s-7-iii" reftype="internal">1026.18(s)(7)(iii)</ref>; or</content>
               </paragraph>
@@ -2068,7 +2072,7 @@
           </paragraph>
           <paragraph label="1026-43-g-5" marker="(5)">
             <title type="keyterm">Creditor that is a loan originator.</title>
-            <content><ref target="1026-2-a-17" reftype="term">Creditor</ref><ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>. If the <ref target="1026-2-a-17" reftype="term">creditor</ref> is a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, and the <ref target="1026-2-a-17" reftype="term">creditor</ref> presents the <ref target="1026-2-a-11" reftype="term">consumer</ref> a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> offered by a <ref target="1026-2-a-22" reftype="term">person</ref> to which the <ref target="1026-2-a-17" reftype="term">creditor</ref> would assign the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> after <ref target="1026-2-a-13" reftype="term">consummation</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must present the <ref target="1026-2-a-11" reftype="term">consumer</ref> an alternative <ref target="1026-43-b-1" reftype="term">covered transaction</ref> without a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref> that satisfies the requirements of paragraph <ref target="1026-43-g-3" reftype="internal">(g)(3)</ref> of this section, offered by:</content>
+            <content><ref target="1026-2-a-17" reftype="term">Creditor</ref><ref target="1026-36-a-1-i" reftype="term">loan originator</ref>. If the <ref target="1026-2-a-17" reftype="term">creditor</ref> is a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, and the <ref target="1026-2-a-17" reftype="term">creditor</ref> presents the <ref target="1026-2-a-11" reftype="term">consumer</ref> a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> offered by a <ref target="1026-2-a-22" reftype="term">person</ref> to which the <ref target="1026-2-a-17" reftype="term">creditor</ref> would assign the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> after <ref target="1026-2-a-13" reftype="term">consummation</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must present the <ref target="1026-2-a-11" reftype="term">consumer</ref> an alternative <ref target="1026-43-b-1" reftype="term">covered transaction</ref> without a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref> that satisfies the requirements of paragraph <ref target="1026-43-g-3" reftype="internal">(g)(3)</ref> of this section, offered by:</content>
             <paragraph label="1026-43-g-5-i" marker="(i)">
               <content>The assignee; or</content>
             </paragraph>
@@ -2121,6 +2125,7 @@
             </analysisSection>
             <analysisSection>
               <title>43(a)(3)</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>43(a)(3)(i)</title>
@@ -2145,6 +2150,7 @@
             </analysisSection>
             <analysisSection>
               <title>43(b) Definitions</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>43(b)(1)</title>
@@ -2562,6 +2568,7 @@
             </analysisSection>
             <analysisSection>
               <title>43(c)(6) Payment Calculation for Simultaneous Loans</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>43(c)(6)(i)</title>
@@ -2635,7 +2642,7 @@
               <analysisParagraph>• A negative amortization loan, as defined in § 226.18(s)(7)(v).<footnote ref="123">“[T]he term `negative amortization' means payment of periodic payments that will result in an increase in the principal balance under the terms of the legal obligation; the term `negative amortization loan' means a loan that permits payments resulting in negative amortization, other than a reverse mortgage subject to section 226.33.” 12 CFR 1026.18(s)(7)(v).</footnote>
             
           </analysisParagraph>
-              <analysisParagraph>Proposed comment 43(d)(2)(i)(A)-1 explained the application of the definition of non-standard mortgage to an adjustable-rate mortgage with an introductory fixed interest rate for one or more years. This proposed comment clarified that, for example, a covered transaction with a fixed introductory rate for the first two, three or five years that then converts to a variable rate for the remaining 28, 27 or 25 years, respectively, is a non-standard mortgage. By contrast, a covered transaction with an introductory rate for six months that then converts to a variable rate for the remaining 29 and<FR>1/2</FR>years is not a non-standard mortgage.</analysisParagraph>
+              <analysisParagraph>Proposed comment 43(d)(2)(i)(A)-1 explained the application of the definition of non-standard mortgage to an adjustable-rate mortgage with an introductory fixed interest rate for one or more years. This proposed comment clarified that, for example, a covered transaction with a fixed introductory rate for the first two, three or five years that then converts to a variable rate for the remaining 28, 27 or 25 years, respectively, is a non-standard mortgage. By contrast, a covered transaction with an introductory rate for six months that then converts to a variable rate for the remaining 29 and 1/2 years is not a non-standard mortgage.</analysisParagraph>
               <analysisParagraph>The Board articulated several rationales for its proposed definition of a non-standard mortgage. First, the Board noted that the legislative history of the Dodd-Frank Act describes “hybrid” mortgages as mortgages with a “blend” of fixed-rate and adjustable-rate characteristics—generally loans with an initial fixed period and adjustment periods, such as “2/23s and 3/27s.”<footnote ref="124">&lt;em data-original="E-03"&gt;See&lt;/em&gt; Comm. on Fin. Servs., Report on H.R. 1728, Mortgage Reform and Anti-Predatory Lending Act, H. Rept. 94, 110th Cong., at 5 (2009).</footnote>
             The Board also stated that the legislative history indicates that Congress was concerned about consumers being trapped in mortgages likely to result in payments that would suddenly become significantly higher—often referred to as “payment shock”—because their home values had dropped, thereby “making refinancing difficult.”<footnote ref="125">&lt;em data-original="E-03"&gt;Id.&lt;/em&gt; at 51-52.</footnote>
             
@@ -3025,7 +3032,7 @@
               <analysisParagraph>Second, the Board noted that the intent of this underwriting condition is to ensure that the consumer can afford the loan's payments for a reasonable amount of time and that Congress intended for a reasonable amount of time to be the first five years after consummation.</analysisParagraph>
               <analysisParagraph>Third, the Board proposed this approach because it is consistent with prior iterations of this statutory text and the Board's 2008 HOEPA Final Rule. As noted above, the Dodd-Frank Act codifies many aspects of the repayment ability requirements contained in existing § 1026.34(a)(4) of the Board's 2008 HOEPA Final Rule.</analysisParagraph>
               <analysisParagraph>Fourth, the Board believed that interpreting the phrase “during the first five years” as including the rate adjustment at the end of the fifth year would be of limited benefit to consumers because creditors could easily structure their product offerings to avoid application of the rule. For example, a creditor could move a rate adjustment that typically occurs on the due date of the 60th monthly payment to due date of the first month that falls outside the specified time horizon, making any proposal to extend the time period in order to include the rate adjustment of diminished value.</analysisParagraph>
-              <analysisParagraph>Finally, the Board believed that the proposed timing of the five-year period could appropriately differ from the approach used under the 2010 MDIA Interim Final Rule, given the different purposes of the rules. The Board amended the 2010 MDIA Interim Final Rule to require that creditors base their interest rate and payment disclosures on the first five years after the due date of the first regular periodic payment rather than the first five years after consummation. <em data-original="E-03">See</em> 75 FR 81836, 81839 (Dec. 29, 2010). The revision clarified that the disclosure requirements for<FR>5/1</FR>hybrid adjustable-rate mortgages must include the rate adjustment that occurs on the due date of the 60th monthly payment, which typically occurs more than five years after consummation. The disclosure requirements under the 2010 MDIA Interim Final Rule, as revised, are intended to help make consumers aware of changes to their loan terms that may occur if they choose to stay in the loan beyond five years and therefore, helps to ensure consumers avoid the uninformed use of credit. The Board believed a different approach is appropriate under proposed § 226.43(e)(2)(iv) because that requirement seeks to ensure that the loan's payments are affordable for a reasonable period of time. For the reasons stated above, the Board believed that Congress intended the first five years after consummation to be a reasonable period of time to ensure that the consumer has the ability to repay the loan according to its terms.</analysisParagraph>
+              <analysisParagraph>Finally, the Board believed that the proposed timing of the five-year period could appropriately differ from the approach used under the 2010 MDIA Interim Final Rule, given the different purposes of the rules. The Board amended the 2010 MDIA Interim Final Rule to require that creditors base their interest rate and payment disclosures on the first five years after the due date of the first regular periodic payment rather than the first five years after consummation. <em data-original="E-03">See</em> 75 FR 81836, 81839 (Dec. 29, 2010). The revision clarified that the disclosure requirements for 5/1 hybrid adjustable-rate mortgages must include the rate adjustment that occurs on the due date of the 60th monthly payment, which typically occurs more than five years after consummation. The disclosure requirements under the 2010 MDIA Interim Final Rule, as revised, are intended to help make consumers aware of changes to their loan terms that may occur if they choose to stay in the loan beyond five years and therefore, helps to ensure consumers avoid the uninformed use of credit. The Board believed a different approach is appropriate under proposed § 226.43(e)(2)(iv) because that requirement seeks to ensure that the loan's payments are affordable for a reasonable period of time. For the reasons stated above, the Board believed that Congress intended the first five years after consummation to be a reasonable period of time to ensure that the consumer has the ability to repay the loan according to its terms.</analysisParagraph>
               <analysisParagraph>For all the above-listed reasons, the Board interpreted the statutory text as requiring that the creditor underwrite the loan using the maximum interest rate during the first five years after consummation. The Board solicited comment on its interpretation of the phrase “first five years” and the appropriateness of this approach. The Board also proposed clarifying commentary and examples, which are described below.</analysisParagraph>
               <analysisParagraph>As described above, commenters generally supported the payment calculation requirements in the proposed rule, including the five-year payment calculation. A comment from a coalition of consumer advocates suggested that the period may not be long enough to assure a consumer's ability to repay given that the average homeowner holds their mortgage for approximately seven years, and suggested that the five-year payment calculation requirement be extended to reflect the average mortgage duration of the first ten years of the loan. Two industry commenters suggested that the time horizon in the required payment calculation for qualified mortgages be consistent with the proposed requirement in the 2011 QRM Proposed Rule that the payment calculation be based on the maximum rate in the first five years after the date on which the first regular periodic payment will be due. One such commenter noted that the payment calculation approach in the 2011 QRM Proposed Rule is more protective of consumers. Another industry commenter suggested that the final rule should measure the first five years from the first regularly scheduled payment, for consistency with the 2010 MDIA Interim Final Rule. An association of State bank regulators agreed with the Board's reasoning, noting that creditors could structure loans to recast outside any parameter set by the rule and that an effective way to prevent purposeful evasion of the payment calculation provision would require legislation.</analysisParagraph>
               <analysisParagraph>Notwithstanding the Board's proposed approach, the Bureau interprets the phrase “during the first 5 years” as requiring creditors to underwrite the loan based on the maximum interest rate that may apply during the first five years after the first regular periodic payment will be due. Like the Board, the Bureau finds the statutory language to be ambiguous. However, the Bureau believes that the statutory phrase “during the first 5 years” could be given either meaning, and that this approach provides greater protections to consumers by requiring creditors to underwrite qualified mortgages using the rate that would apply after the recast of a five-year adjustable rate mortgage. Further, as noted, this approach is consistent with the payment calculation in the 2011 QRM Proposed Rule and in existing Regulation Z with respect to the disclosure requirements for interest rates on adjustable-rate amortizing loans.</analysisParagraph>
@@ -3048,7 +3055,8 @@
               <analysisParagraph>The Bureau is also finalizing comment 43(e)(2)(iv)-7 as proposed, but with conforming changes to reflect the new time horizon. Comment 43(e)(2)(iv)-7 provides examples of how to determine the periodic payment of principal and interest based on the maximum interest rate during the first five years after the date on which the first regular periodic payment will be due under § 1026.43(e)(2)(iv). The final rule provides an additional example of how to determine the periodic payment of principal and interest based on the maximum interest rate during the first five years after the date on which the first regular periodic payment will be due under § 1026.43(e)(2)(iv) for an adjustable-rate mortgage with a discount of seven years, to illustrate how the payment calculation applies in a loan that adjusts after the five-year time horizon. Comment 43(e)(2)(iv)-7.iv provides an example of a loan in an amount of $200,000 with a 30-year loan term, that provides for a discounted interest rate of 6 percent that is fixed for an initial period of seven years, after which the interest rate will adjust annually based on a specified index plus a margin of 3 percent, subject to a 2 percent annual interest rate adjustment cap. The index value in effect at consummation is 4.5 percent. The loan is consummated on March 15, 2014, and the first regular periodic payment is due May 1, 2014. Under the terms of the loan agreement, the first rate adjustment is on April 1, 2021 (the due date of the 84th monthly payment), which occurs more than five years after the date on which the first regular periodic payment will be due. Thus, the maximum interest rate under the terms of the loan during the first five years after the date on which the first regular periodic payment will be due is 6 percent. Under this example, the transaction will meet the definition of a qualified mortgage if the creditor underwrites the loan using the monthly payment of principal and interest of $1,199 to repay the loan amount of $200,000 over the 30-year loan term using the maximum interest rate during the first five years after the date on which the first regular periodic payment will be due of 6 percent.</analysisParagraph>
             </analysisSection>
             <analysisSection>
-              <title>43(e)(2)(v)</title>
+	      <title>43(e)(2)(v)</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>43(e)(2)(v)(A)</title>
@@ -3111,6 +3119,7 @@
             </analysisSection>
             <analysisSection>
               <title>43(e)(3) Limits on Points and Fees for Qualified Mortgages</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>43(e)(3)(i)</title>
@@ -3473,7 +3482,6 @@
         </analysis>
       </section>
     </change>
-    <change operation="deleted" label="1026-32-d-7-iii-Interp"/>
     <change operation="modified" label="1026-43-d-2-vi">
       <paragraph label="1026-43-d-2-vi" marker="(vi)">
         <content>If the non-standard mortgage was consummated on or after January 10, 2014, the non-standard mortgage was made in accordance with paragraph <ref target="1026-43-c" reftype="internal">(c)</ref> or <ref target="1026-43-e" reftype="internal">(e)</ref> of this section, as applicable.</content>
@@ -3484,8 +3492,6 @@
         <content>The annual percentage rate at <ref target="1026-2-a-13" reftype="term">consummation</ref> will exceed by more than 8 percentage points for first-lien loans, or by more than 10 percentage points for subordinate-lien loans, the yield on Treasury securities having comparable periods of maturity to the loan maturity as of the fifteenth day of the month immediately preceding the month in which the application for the extension of <ref target="1026-2-a-14" reftype="term">credit</ref> is received by the <ref target="1026-2-a-17" reftype="term">creditor</ref>; or</content>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-d-7-iv-Interp-1-i"/>
-    <change operation="deleted" label="1026-32-d-7-iv-Interp-2-i"/>
     <change operation="modified" label="1026-32-b-4-i">
       <paragraph label="1026-32-b-4-i" marker="(i)">
         <title type="keyterm">Closed-end credit.</title>
@@ -3500,7 +3506,7 @@
     </change>
     <change operation="modified" label="1026-36-a-1-ii">
       <paragraph label="1026-36-a-1-ii" marker="(ii)">
-        <content>An “individual loan originator” is a natural <ref target="1026-2-a-22" reftype="term">person</ref> who meets the definition of “loan originator” in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section.</content>
+        <content>An “<def term="individual loan originator">individual loan originator</def>” is a natural <ref target="1026-2-a-22" reftype="term">person</ref> who meets the definition of “loan originator” in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-35-b-2-iii-D">
@@ -3536,7 +3542,7 @@
     </change>
     <change operation="modified" label="1026-36-a-1-iii">
       <paragraph label="1026-36-a-1-iii" marker="(iii)">
-        <content>A “loan originator organization” is any <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, that is not an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>.</content>
+        <content>A “<def term="loan originator organization">loan originator organization</def>” is any <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, that is not an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-32-c">
@@ -3707,7 +3713,6 @@
       </paragraph>
     </change>
     <change operation="deleted" label="1026-32-d-7-Interp"/>
-    <change operation="deleted" label="1026-32-a-1-i-Interp-4-ii"/>
     <change operation="modified" label="1026-35-b-2-iv">
       <paragraph label="1026-35-b-2-iv" marker="(iv)">
         <content>For purposes of paragraph <ref target="1026-35-b-2-iii-A" reftype="internal">(b)(2)(iii)(A)</ref> of this section:</content>
@@ -3834,9 +3839,6 @@
         <content>For which the <ref target="1026-43-b-6" reftype="term">loan term</ref> does not exceed 30 years;</content>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-d-7-iii-Interp-2"/>
-    <change operation="deleted" label="1026-32-d-7-iii-Interp-3"/>
-    <change operation="deleted" label="1026-34-a-4-ii-C-Interp-1"/>
     <change operation="modified" label="1026-43-e-2-iv-A">
       <paragraph label="1026-43-e-2-iv-A" marker="(A)">
         <content>The maximum interest rate that may apply during the first five years after the date on which the first regular periodic payment will be due; and</content>
@@ -3871,9 +3873,9 @@
         </paragraph>
         <paragraph label="1026-25-c-2" marker="(2)">
           <title type="keyterm">Records related to requirements for loan originator compensation.</title>
-          <content><ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref>. Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, for transactions subject to § <ref target="1026-36" reftype="internal">1026.36</ref>:</content>
+          <content><ref target="1026-36-a-1-i" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref>. Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, for transactions subject to § <ref target="1026-36" reftype="internal">1026.36</ref>:</content>
           <paragraph label="1026-25-c-2-i" marker="(i)">
-            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, and the <ref target="1026-36-a-3" reftype="term">compensation</ref> agreement that governs those payments for three years after the date of payment.</content>
+            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, and the <ref target="1026-36-a-3" reftype="term">compensation</ref> agreement that governs those payments for three years after the date of payment.</content>
           </paragraph>
           <paragraph label="1026-25-c-2-ii" marker="(ii)">
             <content>A <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref>, as defined in § <ref target="1026-36-a-1-iii" reftype="internal">1026.36(a)(1)(iii)</ref>, shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it receives from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or another <ref target="1026-2-a-22" reftype="term">person</ref>; all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to any <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>, as defined in § <ref target="1026-36-a-1-ii" reftype="internal">1026.36(a)(1)(ii)</ref>; and the <ref target="1026-36-a-3" reftype="term">compensation</ref> agreement that governs each such receipt or payment, for three years after the date of each such receipt or payment.</content>
@@ -3887,27 +3889,27 @@
     </change>
     <change operation="modified" label="1026-43-b-2">
       <paragraph label="1026-43-b-2" marker="(2)">
-        <content>Fully amortizing payment means a periodic payment of principal and interest that will fully repay the <ref target="1026-43-b-5" reftype="term">loan amount</ref> over the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
+        <content><def term="fully amortizing payment">Fully amortizing payment</def> means a periodic payment of principal and interest that will fully repay the <ref target="1026-43-b-5" reftype="term">loan amount</ref> over the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-43-b-3">
       <paragraph label="1026-43-b-3" marker="(3)">
-        <content>Fully indexed rate means the interest rate calculated using the index or formula that will apply after <ref target="1026-43-b-11" reftype="term">recast</ref>, as determined at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>, and the maximum margin that can apply at any time during the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
+        <content><def term="fully indexed rate">Fully indexed rate</def> means the interest rate calculated using the index or formula that will apply after <ref target="1026-43-b-11" reftype="term">recast</ref>, as determined at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>, and the maximum margin that can apply at any time during the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-43-b-1">
       <paragraph label="1026-43-b-1" marker="(1)">
-        <content>Covered transaction means a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction that is secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, as defined in § <ref target="1026-2-a-19" reftype="internal">1026.2(a)(19)</ref>, including any real property attached to a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a transaction exempt from coverage under paragraph <ref target="1026-43-a" reftype="internal">(a)</ref> of this section.</content>
+        <content><def term="covered transaction">Covered transaction</def> means a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction that is secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, as defined in § <ref target="1026-2-a-19" reftype="internal">1026.2(a)(19)</ref>, including any real property attached to a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a transaction exempt from coverage under paragraph <ref target="1026-43-a" reftype="internal">(a)</ref> of this section.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-43-b-6">
       <paragraph label="1026-43-b-6" marker="(6)">
-        <content>Loan term means the period of time to repay the obligation in full.</content>
+        <content><def term="loan term">Loan term</def> means the period of time to repay the obligation in full.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-43-b-7">
       <paragraph label="1026-43-b-7" marker="(7)">
-        <content>Maximum loan amount means the <ref target="1026-43-b-5" reftype="term">loan amount</ref> plus any increase in principal balance that results from negative amortization, as defined in § <ref target="1026-18-s-7-v" reftype="internal">1026.18(s)(7)(v)</ref>, based on the terms of the legal obligation assuming:</content>
+        <content><def term="maximum loan amount">Maximum loan amount</def> means the <ref target="1026-43-b-5" reftype="term">loan amount</ref> plus any increase in principal balance that results from negative amortization, as defined in § <ref target="1026-18-s-7-v" reftype="internal">1026.18(s)(7)(v)</ref>, based on the terms of the legal obligation assuming:</content>
         <paragraph label="1026-43-b-7-i" marker="(i)">
           <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> makes only the minimum periodic payments for the maximum possible time, until the <ref target="1026-2-a-11" reftype="term">consumer</ref> must begin making <ref target="1026-43-b-2" reftype="term">fully amortizing payments</ref>; and</content>
         </paragraph>
@@ -3918,27 +3920,27 @@
     </change>
     <change operation="modified" label="1026-43-b-4">
       <paragraph label="1026-43-b-4" marker="(4)">
-        <content>Higher-priced covered transaction means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction as of the date the interest rate is set by 1.5 or more percentage points for a first-lien <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, or by 3.5 or more percentage points for a subordinate-lien <ref target="1026-43-b-1" reftype="term">covered transaction</ref>.</content>
+        <content><def term="higher-priced covered transaction">Higher-priced covered transaction</def> means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction as of the date the interest rate is set by 1.5 or more percentage points for a first-lien <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, or by 3.5 or more percentage points for a subordinate-lien <ref target="1026-43-b-1" reftype="term">covered transaction</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-43-b-5">
       <paragraph label="1026-43-b-5" marker="(5)">
-        <content>Loan amount means the principal amount the <ref target="1026-2-a-11" reftype="term">consumer</ref> will borrow as reflected in the promissory note or loan contract.</content>
+        <content><def term="loan amount">Loan amount</def> means the principal amount the <ref target="1026-2-a-11" reftype="term">consumer</ref> will borrow as reflected in the promissory note or loan contract.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-43-b-8">
       <paragraph label="1026-43-b-8" marker="(8)">
-        <content>Mortgage-related obligations mean property taxes; premiums and similar charges identified in § <ref target="1026-4-b-5" reftype="internal">1026.4(b)(5)</ref>, <ref target="1026-4-b-7" reftype="internal">(7)</ref>, <ref target="1026-4-b-8" reftype="internal">(8)</ref>, and <ref target="1026-4-b-10" reftype="internal">(10)</ref> that are required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>; fees and special assessments imposed by a condominium, cooperative, or homeowners association; ground rent; and leasehold payments.</content>
+        <content><def term="mortgage-related obligations">Mortgage-related obligations</def> mean property taxes; premiums and similar charges identified in § <ref target="1026-4-b-5" reftype="internal">1026.4(b)(5)</ref>, <ref target="1026-4-b-7" reftype="internal">(7)</ref>, <ref target="1026-4-b-8" reftype="internal">(8)</ref>, and <ref target="1026-4-b-10" reftype="internal">(10)</ref> that are required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>; fees and special assessments imposed by a condominium, cooperative, or homeowners association; ground rent; and leasehold payments.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-43-b-9">
       <paragraph label="1026-43-b-9" marker="(9)">
-        <content>Points and fees has the same meaning as in § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref>.</content>
+        <content><def term="points and fees">Points and fees</def> has the same meaning as in § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-36-d-1-iii">
       <paragraph label="1026-36-d-1-iii" marker="(iii)">
-        <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-1" reftype="internal">oan or</ref>iginator may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-2" reftype="internal">dual l</ref>oan originator, <ref target="1026-36-a-3" reftype="term">compensation</ref> in the form of a contribution to a defined contribution plan that is a designated tax-advantaged plan or a benefit under a defined benefit plan that is a designated tax-advantaged plan. In the case of a contribution to a defined contribution plan, the contribution shall not be directly or indirectly based on the terms of that <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>'s transactions. As used in this paragraph (d)(1)(iii), “designated tax-advantaged plan” means any plan that meets the requirements of Internal Revenue Code section 401(a), 26 U.S.C. 401(a); employee annuity plan described in Internal Revenue Code section 403(a), 26 U.S.C. 403(a); simple retirement account, as defined in Internal Revenue Code section 408(p), 26 U.S.C. 408(p); simplified employee pension described in Internal Revenue Code section 408(k), 26 U.S.C. 408(k); annuity contract described in Internal Revenue Code section 403(b), 26 U.S.C. 403(b); or eligible deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> plan, as defined in Internal Revenue Code section 457(b), 26 U.S.C. 457(b).</content>
+        <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-1" reftype="internal">oan or</ref>iginator may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-2" reftype="internal">dual l</ref>oan originator, <ref target="1026-36-a-3" reftype="term">compensation</ref> in the form of a contribution to a defined contribution plan that is a designated tax-advantaged plan or a benefit under a defined benefit plan that is a designated tax-advantaged plan. In the case of a contribution to a defined contribution plan, the contribution shall not be directly or indirectly based on the terms of that <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>'s transactions. As used in this paragraph (d)(1)(iii), “<def term="designated tax-advantaged plan">designated tax-advantaged plan</def>” means any plan that meets the requirements of Internal Revenue Code section 401(a), 26 U.S.C. 401(a); employee annuity plan described in Internal Revenue Code section 403(a), 26 U.S.C. 403(a); simple retirement account, as defined in Internal Revenue Code section 408(p), 26 U.S.C. 408(p); simplified employee pension described in Internal Revenue Code section 408(k), 26 U.S.C. 408(k); annuity contract described in Internal Revenue Code section 403(b), 26 U.S.C. 403(b); or eligible deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> plan, as defined in Internal Revenue Code section 457(b), 26 U.S.C. 457(b).</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-32-b-1-i-F">
@@ -3954,7 +3956,7 @@
     </change>
     <change operation="modified" label="1026-32-b-1-i-D">
       <paragraph label="1026-32-b-1-i-D" marker="(D)">
-        <content>Any bona fide third-party charge not retained by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either, unless the charge is required to be included in points and fees under paragraph <ref target="1026-32-b-1-i-C" reftype="internal">(b)(1)(i)(C)</ref>, <ref target="1026-32-b-1-iii" reftype="internal">(iii)</ref>, or <ref target="1026-32-b-1-iv" reftype="internal">(iv)</ref> of this section;</content>
+        <content>Any bona fide third-party charge not retained by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either, unless the charge is required to be included in points and fees under paragraph <ref target="1026-32-b-1-i-C" reftype="internal">(b)(1)(i)(C)</ref>, <ref target="1026-32-b-1-iii" reftype="internal">(iii)</ref>, or <ref target="1026-32-b-1-iv" reftype="internal">(iv)</ref> of this section;</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-32-b-1-i-E">
@@ -4021,9 +4023,9 @@
     <change operation="modified" label="1026-25-c-2">
       <paragraph label="1026-25-c-2" marker="(2)">
         <title type="keyterm">Records related to requirements for loan originator compensation.</title>
-        <content><ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref>. Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, for transactions subject to § <ref target="1026-36" reftype="internal">1026.36</ref>:</content>
+        <content><ref target="1026-36-a-1-i" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref>. Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, for transactions subject to § <ref target="1026-36" reftype="internal">1026.36</ref>:</content>
         <paragraph label="1026-25-c-2-i" marker="(i)">
-          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, and the <ref target="1026-36-a-3" reftype="term">compensation</ref> agreement that governs those payments for three years after the date of payment.</content>
+          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, and the <ref target="1026-36-a-3" reftype="term">compensation</ref> agreement that governs those payments for three years after the date of payment.</content>
         </paragraph>
         <paragraph label="1026-25-c-2-ii" marker="(ii)">
           <content>A <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref>, as defined in § <ref target="1026-36-a-1-iii" reftype="internal">1026.36(a)(1)(iii)</ref>, shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it receives from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or another <ref target="1026-2-a-22" reftype="term">person</ref>; all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to any <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>, as defined in § <ref target="1026-36-a-1-ii" reftype="internal">1026.36(a)(1)(ii)</ref>; and the <ref target="1026-36-a-3" reftype="term">compensation</ref> agreement that governs each such receipt or payment, for three years after the date of each such receipt or payment.</content>
@@ -4102,7 +4104,7 @@
     <change operation="modified" label="1026-36-a-3">
       <paragraph label="1026-36-a-3" marker="(3)">
         <title type="keyterm">Compensation.</title>
-        <content>The term “compensation” includes salaries, commissions, and any financial or similar incentive.</content>
+        <content>The term “<def term="compensation">compensation</def>” includes salaries, commissions, and any financial or similar incentive.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-36-a-2">
@@ -4208,7 +4210,6 @@
         <content>A reverse mortgage subject to § <ref target="1026-33" reftype="internal">1026.33</ref>;</content>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-d-7-iv-Interp-1-iv"/>
     <change operation="modified" label="1026-32-b-6-ii">
       <paragraph label="1026-32-b-6-ii" marker="(ii)">
         <content>[Reserved]</content>
@@ -4248,11 +4249,11 @@
           <content>For purposes of this paragraph <ref target="1026-43-c-7" reftype="internal">(c)(7)</ref>, the following definitions apply:</content>
           <paragraph label="1026-43-c-7-i-A" marker="(A)">
             <title type="keyterm">Total monthly debt obligations.</title>
-            <content>The term total monthly debt obligations means the sum of: the payment on the <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, as required to be calculated by paragraphs <ref target="1026-43-c-2-iii" reftype="internal">(c)(2)(iii)</ref> and <ref target="1026-43-c-5" reftype="internal">(c)(5)</ref> of this section; <ref target="1026-43-b-12" reftype="term">simultaneous loans</ref>, as required by paragraphs <ref target="1026-43-c-2-iv" reftype="internal">(c)(2)(iv)</ref> and <ref target="1026-43-c-6" reftype="internal">(c)(6)</ref> of this section; <ref target="1026-43-b-8" reftype="term">mortgage-related obligations</ref>, as required by paragraph <ref target="1026-43-c-2-v" reftype="internal">(c)(2)(v)</ref> of this section; and current debt obligations, alimony, and child support, as required by paragraph <ref target="1026-43-c-2-vi" reftype="internal">(c)(2)(vi)</ref> of this section.</content>
+            <content>The term <def term="total monthly debt obligations">total monthly debt obligations</def> means the sum of: the payment on the <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, as required to be calculated by paragraphs <ref target="1026-43-c-2-iii" reftype="internal">(c)(2)(iii)</ref> and <ref target="1026-43-c-5" reftype="internal">(c)(5)</ref> of this section; <ref target="1026-43-b-12" reftype="term">simultaneous loans</ref>, as required by paragraphs <ref target="1026-43-c-2-iv" reftype="internal">(c)(2)(iv)</ref> and <ref target="1026-43-c-6" reftype="internal">(c)(6)</ref> of this section; <ref target="1026-43-b-8" reftype="term">mortgage-related obligations</ref>, as required by paragraph <ref target="1026-43-c-2-v" reftype="internal">(c)(2)(v)</ref> of this section; and current debt obligations, alimony, and child support, as required by paragraph <ref target="1026-43-c-2-vi" reftype="internal">(c)(2)(vi)</ref> of this section.</content>
           </paragraph>
           <paragraph label="1026-43-c-7-i-B" marker="(B)">
             <title type="keyterm">Total monthly income.</title>
-            <content>The term total monthly income means the sum of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current or reasonably expected income, including any income from assets, as required by paragraphs <ref target="1026-43-c-2-i" reftype="internal">(c)(2)(i)</ref> and <ref target="1026-43-c-4" reftype="internal">(c)(4)</ref> of this section.</content>
+            <content>The term <def term="total monthly income">total monthly income</def> means the sum of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current or reasonably expected income, including any income from assets, as required by paragraphs <ref target="1026-43-c-2-i" reftype="internal">(c)(2)(i)</ref> and <ref target="1026-43-c-4" reftype="internal">(c)(4)</ref> of this section.</content>
           </paragraph>
         </paragraph>
         <paragraph label="1026-43-c-7-ii" marker="(ii)">
@@ -4391,14 +4392,13 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-d-7-iv-Interp-1-ii"/>
     <change operation="modified" label="1026-43-d-1">
       <paragraph label="1026-43-d-1" marker="(1)">
         <title type="keyterm">Definitions.</title>
         <content>For purposes of this paragraph <ref target="1026-43-d" reftype="internal">(d)</ref>, the following definitions apply:</content>
         <paragraph label="1026-43-d-1-i" marker="(i)">
           <title type="keyterm">Non-standard mortgage.</title>
-          <content>The term non-standard mortgage means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> that is:</content>
+          <content>The term <def term="non-standard mortgage">non-standard mortgage</def> means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> that is:</content>
           <paragraph label="1026-43-d-1-i-A" marker="(A)">
             <content>An adjustable-rate mortgage, as defined in § <ref target="1026-18-s-7-i" reftype="internal">1026.18(s)(7)(i)</ref>, with an introductory fixed interest rate for a period of one year or longer;</content>
           </paragraph>
@@ -4411,7 +4411,7 @@
         </paragraph>
         <paragraph label="1026-43-d-1-ii" marker="(ii)">
           <title type="keyterm">Standard mortgage.</title>
-          <content>The term standard mortgage means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
+          <content>The term <def term="standard mortgage">standard mortgage</def> means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
           <paragraph label="1026-43-d-1-ii-A" marker="(A)">
             <content>That provides for regular periodic payments that do not:</content>
             <paragraph label="1026-43-d-1-ii-A-1" marker="(1)">
@@ -4499,10 +4499,9 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-a-1-i-Interp-4-iii"/>
     <change operation="modified" label="1026-35-b-2-i">
       <paragraph label="1026-35-b-2-i" marker="(i)">
-        <content>An escrow account need not be established for:<ref target="1026-32-d-7" reftype="internal"/><ref target="1026-32-a" reftype="internal"/></content>
+        <content>An escrow account need not be established for:</content>
         <paragraph label="1026-35-b-2-i-A" marker="(A)">
           <content>A transaction secured by shares in a cooperative;</content>
         </paragraph>
@@ -4571,7 +4570,7 @@
         <title type="keyterm">Alternative offer required.</title>
         <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must not offer a <ref target="1026-2-a-11" reftype="term">consumer</ref> a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref> unless the <ref target="1026-2-a-17" reftype="term">creditor</ref> also offers the <ref target="1026-2-a-11" reftype="term">consumer</ref> an alternative <ref target="1026-43-b-1" reftype="term">covered transaction</ref> without a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref> and the alternative <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
         <paragraph label="1026-43-g-3-i" marker="(i)">
-          <content>Has an annual percentage rate that cannot increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> and has the same type of interest rate as the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref>; for purposes of this paragraph <ref target="1026-43-g" reftype="internal">(g)</ref>, the term “type of interest rate” refers to whether a transaction:</content>
+          <content>Has an annual percentage rate that cannot increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> and has the same type of interest rate as the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref>; for purposes of this paragraph <ref target="1026-43-g" reftype="internal">(g)</ref>, the term “<def term="type of interest rate">type of interest rate</def>” refers to whether a transaction:</content>
           <paragraph label="1026-43-g-3-i-A" marker="(A)">
             <content>Is a fixed-rate mortgage, as defined in § <ref target="1026-18-s-7-iii" reftype="internal">1026.18(s)(7)(iii)</ref>; or</content>
           </paragraph>
@@ -4596,7 +4595,7 @@
     <change operation="modified" label="1026-32-b-3-i">
       <paragraph label="1026-32-b-3-i" marker="(i)">
         <title type="keyterm">Closed-end credit.</title>
-        <content><ref target="1026-2-a-10" reftype="term">Closed-end credit</ref> The term bona fide discount point means an amount equal to 1 percent of the loan amount paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> that reduces the interest rate or time-price differential applicable to the transaction based on a calculation that is consistent with established industry practices for determining the amount of reduction in the interest rate or time-price differential appropriate for the amount of discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content>
+        <content><ref target="1026-2-a-10" reftype="term">Closed-end credit</ref> The term <def term="bona fide discount point">bona fide discount point</def> means an amount equal to 1 percent of the loan amount paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> that reduces the interest rate or time-price differential applicable to the transaction based on a calculation that is consistent with established industry practices for determining the amount of reduction in the interest rate or time-price differential appropriate for the amount of discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-43-g-1">
@@ -4705,7 +4704,7 @@
     </change>
     <change operation="modified" label="1026-43-b-11">
       <paragraph label="1026-43-b-11" marker="(11)">
-        <content>Recast means:</content>
+        <content><def term="recast">Recast</def> means:</content>
         <paragraph label="1026-43-b-11-i" marker="(i)">
           <content>For an adjustable-rate mortgage, as defined in § <ref target="1026-18-s-7-i" reftype="internal">1026.18(s)(7)(i)</ref>, the expiration of the period during which payments based on the introductory fixed interest rate are permitted under the terms of the legal obligation;</content>
         </paragraph>
@@ -4719,12 +4718,12 @@
     </change>
     <change operation="modified" label="1026-43-b-12">
       <paragraph label="1026-43-b-12" marker="(12)">
-        <content>Simultaneous loan means another <ref target="1026-43-b-1" reftype="term">covered transaction</ref> or home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> subject to § <ref target="1026-40" reftype="internal">1026.40</ref> that will be secured by the same <ref target="1026-2-a-19" reftype="term">dwelling</ref> and made to the same <ref target="1026-2-a-11" reftype="term">consumer</ref> at or before <ref target="1026-2-a-13" reftype="term">consummation</ref> of the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> or, if to be made after <ref target="1026-2-a-13" reftype="term">consummation</ref>, will cover closing costs of the first <ref target="1026-43-b-1" reftype="term">covered transaction</ref>.</content>
+        <content><def term="simultaneous loan">Simultaneous loan</def> means another <ref target="1026-43-b-1" reftype="term">covered transaction</ref> or home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> subject to § <ref target="1026-40" reftype="internal">1026.40</ref> that will be secured by the same <ref target="1026-2-a-19" reftype="term">dwelling</ref> and made to the same <ref target="1026-2-a-11" reftype="term">consumer</ref> at or before <ref target="1026-2-a-13" reftype="term">consummation</ref> of the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> or, if to be made after <ref target="1026-2-a-13" reftype="term">consummation</ref>, will cover closing costs of the first <ref target="1026-43-b-1" reftype="term">covered transaction</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-43-b-13">
       <paragraph label="1026-43-b-13" marker="(13)">
-        <content>Third-party record means:</content>
+        <content><def term="third-party record">Third-party record</def> means:</content>
         <paragraph label="1026-43-b-13-i" marker="(i)">
           <content>A document or other record prepared or reviewed by an appropriate <ref target="1026-2-a-22" reftype="term">person</ref> other than the <ref target="1026-2-a-11" reftype="term">consumer</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref>, or the mortgage broker, as defined in § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, or an agent of the <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker;</content>
         </paragraph>
@@ -4748,7 +4747,7 @@
     <change operation="modified" label="1026-43-d-1-ii">
       <paragraph label="1026-43-d-1-ii" marker="(ii)">
         <title type="keyterm">Standard mortgage.</title>
-        <content>The term standard mortgage means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
+        <content>The term <def term="standard mortgage">standard mortgage</def> means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
         <paragraph label="1026-43-d-1-ii-A" marker="(A)">
           <content>That provides for regular periodic payments that do not:</content>
           <paragraph label="1026-43-d-1-ii-A-1" marker="(1)">
@@ -4781,7 +4780,6 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-d-7-iv-Interp"/>
     <change operation="modified" label="1026-35-e">
       <paragraph label="1026-35-e" marker="(e)">
         <title type="keyterm">Repayment ability, prepayment penalties.</title>
@@ -4840,7 +4838,7 @@
           <content>For purposes of this paragraph <ref target="1026-36-d-1" reftype="internal">(d)(1)</ref> only, a “term of a transaction” is any right or obligation of the parties to a <ref target="1026-2-a-14" reftype="term">credit</ref> transaction. The amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended is not a term of a transaction or a proxy for a term of a transaction, provided that <ref target="1026-36-a-3" reftype="term">compensation</ref> received by or paid to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, directly or indirectly, is based on a fixed percentage of the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended; however, such <ref target="1026-36-a-3" reftype="term">compensation</ref> may be subject to a minimum or maximum dollar amount.</content>
         </paragraph>
         <paragraph label="1026-36-d-1-iii" marker="(iii)">
-          <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-1" reftype="internal">oan or</ref>iginator may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-2" reftype="internal">dual l</ref>oan originator, <ref target="1026-36-a-3" reftype="term">compensation</ref> in the form of a contribution to a defined contribution plan that is a designated tax-advantaged plan or a benefit under a defined benefit plan that is a designated tax-advantaged plan. In the case of a contribution to a defined contribution plan, the contribution shall not be directly or indirectly based on the terms of that <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>'s transactions. As used in this paragraph (d)(1)(iii), “designated tax-advantaged plan” means any plan that meets the requirements of Internal Revenue Code section 401(a), 26 U.S.C. 401(a); employee annuity plan described in Internal Revenue Code section 403(a), 26 U.S.C. 403(a); simple retirement account, as defined in Internal Revenue Code section 408(p), 26 U.S.C. 408(p); simplified employee pension described in Internal Revenue Code section 408(k), 26 U.S.C. 408(k); annuity contract described in Internal Revenue Code section 403(b), 26 U.S.C. 403(b); or eligible deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> plan, as defined in Internal Revenue Code section 457(b), 26 U.S.C. 457(b).</content>
+          <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-1" reftype="internal">oan or</ref>iginator may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-2" reftype="internal">dual l</ref>oan originator, <ref target="1026-36-a-3" reftype="term">compensation</ref> in the form of a contribution to a defined contribution plan that is a designated tax-advantaged plan or a benefit under a defined benefit plan that is a designated tax-advantaged plan. In the case of a contribution to a defined contribution plan, the contribution shall not be directly or indirectly based on the terms of that <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>'s transactions. As used in this paragraph (d)(1)(iii), “<def term="designated tax-advantaged plan">designated tax-advantaged plan</def>” means any plan that meets the requirements of Internal Revenue Code section 401(a), 26 U.S.C. 401(a); employee annuity plan described in Internal Revenue Code section 403(a), 26 U.S.C. 403(a); simple retirement account, as defined in Internal Revenue Code section 408(p), 26 U.S.C. 408(p); simplified employee pension described in Internal Revenue Code section 408(k), 26 U.S.C. 408(k); annuity contract described in Internal Revenue Code section 403(b), 26 U.S.C. 403(b); or eligible deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> plan, as defined in Internal Revenue Code section 457(b), 26 U.S.C. 457(b).</content>
         </paragraph>
         <paragraph label="1026-36-d-1-iv" marker="(iv)">
           <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref> may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>, <ref target="1026-36-a-3" reftype="term">compensation</ref> under a non-deferred profits-based <ref target="1026-36-a-3" reftype="term">compensation</ref> plan (i.e., any arrangement for the payment of non-deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> that is determined with reference to the profits of the <ref target="1026-2-a-22" reftype="term">person</ref> from mortgage-related business), provided that:</content>
@@ -4905,7 +4903,7 @@
           </paragraph>
         </paragraph>
         <paragraph label="1026-32-b-1-i-D" marker="(D)">
-          <content>Any bona fide third-party charge not retained by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either, unless the charge is required to be included in points and fees under paragraph <ref target="1026-32-b-1-i-C" reftype="internal">(b)(1)(i)(C)</ref>, <ref target="1026-32-b-1-iii" reftype="internal">(iii)</ref>, or <ref target="1026-32-b-1-iv" reftype="internal">(iv)</ref> of this section;</content>
+          <content>Any bona fide third-party charge not retained by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either, unless the charge is required to be included in points and fees under paragraph <ref target="1026-32-b-1-i-C" reftype="internal">(b)(1)(i)(C)</ref>, <ref target="1026-32-b-1-iii" reftype="internal">(iii)</ref>, or <ref target="1026-32-b-1-iv" reftype="internal">(iv)</ref> of this section;</content>
         </paragraph>
         <paragraph label="1026-32-b-1-i-E" marker="(E)">
           <content>Up to two bona fide discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the transaction, if the interest rate without any discount does not exceed:</content>
@@ -4930,7 +4928,7 @@
     <change operation="modified" label="1026-32-b-6-i">
       <paragraph label="1026-32-b-6-i" marker="(i)">
         <title type="keyterm">Closed-end credit transactions.</title>
-        <content><ref target="1026-2-a-10" reftype="term">Closed-end credit</ref> For a <ref target="1026-2-a-10" reftype="term">closed-end credit</ref> transaction, prepayment penalty means a charge imposed for paying all or part of the transaction's principal before the date on which the principal is due, other than a waived, bona fide third-party charge that the <ref target="1026-2-a-17" reftype="term">creditor</ref> imposes if the <ref target="1026-2-a-11" reftype="term">consumer</ref> prepays all of the transaction's principal sooner than 36 months after <ref target="1026-2-a-13" reftype="term">consummation</ref>, provided, however, that interest charged consistent with the monthly interest accrual amortization method is not a prepayment penalty for extensions of <ref target="1026-2-a-14" reftype="term">credit</ref> insured by the Federal Housing Administration that are consummated before January 21, 2015.</content>
+        <content><ref target="1026-2-a-10" reftype="term">Closed-end credit</ref> For a <ref target="1026-2-a-10" reftype="term">closed-end credit</ref> transaction, <def term="prepayment penalty">prepayment penalty</def> means a charge imposed for paying all or part of the transaction's principal before the date on which the principal is due, other than a waived, bona fide third-party charge that the <ref target="1026-2-a-17" reftype="term">creditor</ref> imposes if the <ref target="1026-2-a-11" reftype="term">consumer</ref> prepays all of the transaction's principal sooner than 36 months after <ref target="1026-2-a-13" reftype="term">consummation</ref>, provided, however, that interest charged consistent with the monthly interest accrual amortization method is not a prepayment penalty for extensions of <ref target="1026-2-a-14" reftype="term">credit</ref> insured by the Federal Housing Administration that are consummated before January 21, 2015.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-36-d-1-iv-A">
@@ -4973,7 +4971,6 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-d-7-iv-Interp-1-iii"/>
     <change operation="modified" label="1026-43-c-6-i">
       <paragraph label="1026-43-c-6-i" marker="(i)">
         <content>A <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, by following paragraph <ref target="1026-43-c-5" reftype="internal">(c)(5)</ref>of this section; or</content>
@@ -5036,9 +5033,6 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-d-6-Interp-1"/>
-    <change operation="deleted" label="1026-32-d-7-iv-Interp-2-iii"/>
-    <change operation="deleted" label="1026-32-d-7-iv-Interp-2-ii"/>
     <change operation="modified" label="1026-32-b-1-iii">
       <paragraph label="1026-32-b-1-iii" marker="(iii)">
         <content>All items listed in § <ref target="1026-4-c-7" reftype="internal">1026.4(c)(7)</ref> (other than amounts held for future payment of taxes), unless:</content>
@@ -5189,7 +5183,7 @@
           <title type="keyterm">Applications from young consumers.</title>
           <content><ref target="1026-2-a-11" reftype="term">consumers</ref>. A <ref target="1026-2-a-7" reftype="term">card issuer</ref> may not open a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan for a <ref target="1026-2-a-11" reftype="term">consumer</ref> less than 21 years old, unless the <ref target="1026-2-a-11" reftype="term">consumer</ref> has submitted a written application and the <ref target="1026-2-a-7" reftype="term">card issuer</ref> has:</content>
           <paragraph label="1026-51-b-1-i" marker="(i)">
-            <content>Financial information indicating the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the proposed extension of <ref target="1026-2-a-14" reftype="term">credit</ref> in connection with the account; or<ref target="1026-51-a" reftype="internal"/></content>
+            <content>Financial information indicating the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the proposed extension of <ref target="1026-2-a-14" reftype="term">credit</ref> in connection with the account; or</content>
           </paragraph>
           <paragraph label="1026-51-b-1-ii" marker="(ii)">
             <content/>
@@ -5203,7 +5197,7 @@
         </paragraph>
         <paragraph label="1026-51-b-2" marker="(2)">
           <title type="keyterm">Credit line increases for young consumers.</title>
-          <content><ref target="1026-2-a-14" reftype="term">Credit</ref><ref target="1026-2-a-11" reftype="term">consumers</ref>. <ref target="1026-51-b-1-ii" reftype="internal"/></content>
+          <content><ref target="1026-2-a-14" reftype="term">Credit</ref><ref target="1026-2-a-11" reftype="term">consumers</ref>. </content>
           <paragraph label="1026-51-b-2-i" marker="(i)">
             <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless:</content>
             <paragraph label="1026-51-b-2-i-A" marker="(A)">
@@ -5224,7 +5218,6 @@
         <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> receives the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written application for the standard mortgage no later than two months after the non-standard mortgage has <ref target="1026-43-b-11" reftype="term">recast</ref>.</content>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-a-1-i-Interp-4-i"/>
     <change operation="modified" label="1026-43-e-2-v-A">
       <paragraph label="1026-43-e-2-v-A" marker="(A)">
         <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current or reasonably expected income or assets other than the value of the <ref target="1026-2-a-19" reftype="term">dwelling</ref> (including any real property attached to the <ref target="1026-2-a-19" reftype="term">dwelling</ref>) that secures the loan, in accordance with appendix <ref target="1026-Q" reftype="internal">Q</ref> and paragraphs <ref target="1026-43-c-2-i" reftype="internal">(c)(2)(i)</ref> and <ref target="1026-43-c-4" reftype="internal">(c)(4)</ref> of this section; and</content>
@@ -5253,7 +5246,7 @@
         <content>—</content>
         <paragraph label="1026-32-b-6-i" marker="(i)">
           <title type="keyterm">Closed-end credit transactions.</title>
-          <content><ref target="1026-2-a-10" reftype="term">Closed-end credit</ref> For a <ref target="1026-2-a-10" reftype="term">closed-end credit</ref> transaction, prepayment penalty means a charge imposed for paying all or part of the transaction's principal before the date on which the principal is due, other than a waived, bona fide third-party charge that the <ref target="1026-2-a-17" reftype="term">creditor</ref> imposes if the <ref target="1026-2-a-11" reftype="term">consumer</ref> prepays all of the transaction's principal sooner than 36 months after <ref target="1026-2-a-13" reftype="term">consummation</ref>, provided, however, that interest charged consistent with the monthly interest accrual amortization method is not a prepayment penalty for extensions of <ref target="1026-2-a-14" reftype="term">credit</ref> insured by the Federal Housing Administration that are consummated before January 21, 2015.</content>
+          <content><ref target="1026-2-a-10" reftype="term">Closed-end credit</ref> For a <ref target="1026-2-a-10" reftype="term">closed-end credit</ref> transaction, <def term="prepayment penalty">prepayment penalty</def> means a charge imposed for paying all or part of the transaction's principal before the date on which the principal is due, other than a waived, bona fide third-party charge that the <ref target="1026-2-a-17" reftype="term">creditor</ref> imposes if the <ref target="1026-2-a-11" reftype="term">consumer</ref> prepays all of the transaction's principal sooner than 36 months after <ref target="1026-2-a-13" reftype="term">consummation</ref>, provided, however, that interest charged consistent with the monthly interest accrual amortization method is not a prepayment penalty for extensions of <ref target="1026-2-a-14" reftype="term">credit</ref> insured by the Federal Housing Administration that are consummated before January 21, 2015.</content>
         </paragraph>
         <paragraph label="1026-32-b-6-ii" marker="(ii)">
           <content>[Reserved]</content>
@@ -5334,12 +5327,12 @@
     </change>
     <change operation="modified" label="1026-32-b-5">
       <paragraph label="1026-32-b-5" marker="(5)">
-        <content>Affiliate means any company that controls, is controlled by, or is under common control with another company, as set forth in the Bank Holding Company Act of 1956 (<ref target="USC:12-1841" reftype="external">12 U.S.C. 1841</ref> et seq.).</content>
+        <content><def term="affiliate">Affiliate</def> means any company that controls, is controlled by, or is under common control with another company, as set forth in the Bank Holding Company Act of 1956 (<ref target="USC:12-1841" reftype="external">12 U.S.C. 1841</ref> et seq.).</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-32-b-2">
       <paragraph label="1026-32-b-2" marker="(2)">
-        <content>[Reserved]<ref target="USC:12-1841" reftype="external"/></content>
+        <content>[Reserved]</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-32-b-3">
@@ -5348,7 +5341,7 @@
         <content>—</content>
         <paragraph label="1026-32-b-3-i" marker="(i)">
           <title type="keyterm">Closed-end credit.</title>
-          <content><ref target="1026-2-a-10" reftype="term">Closed-end credit</ref> The term bona fide discount point means an amount equal to 1 percent of the loan amount paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> that reduces the interest rate or time-price differential applicable to the transaction based on a calculation that is consistent with established industry practices for determining the amount of reduction in the interest rate or time-price differential appropriate for the amount of discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content>
+          <content><ref target="1026-2-a-10" reftype="term">Closed-end credit</ref> The term <def term="bona fide discount point">bona fide discount point</def> means an amount equal to 1 percent of the loan amount paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> that reduces the interest rate or time-price differential applicable to the transaction based on a calculation that is consistent with established industry practices for determining the amount of reduction in the interest rate or time-price differential appropriate for the amount of discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content>
         </paragraph>
         <paragraph label="1026-32-b-3-ii" marker="(ii)">
           <content>[Reserved]</content>
@@ -5357,7 +5350,7 @@
     </change>
     <change operation="modified" label="1026-32-b-1">
       <paragraph label="1026-32-b-1" marker="(1)">
-        <content>In connection with a <ref target="1026-2-a-10" reftype="term">closed-end credit</ref><ref target="1026-32-a-1-ii" reftype="internal">d-end cred</ref>it transaction, points and fees means the following fees or charges that are known at or before <ref target="1026-2-a-13" reftype="term">consummation</ref>:</content>
+        <content>In connection with a <ref target="1026-2-a-10" reftype="term">closed-end credit</ref><ref target="1026-32-a-1-ii" reftype="internal">d-end cred</ref>it transaction, <def term="points and fees">points and fees</def> means the following fees or charges that are known at or before <ref target="1026-2-a-13" reftype="term">consummation</ref>:</content>
         <paragraph label="1026-32-b-1-i" marker="(i)">
           <content>All items included in the finance charge un<ref target="1026-4-a" reftype="internal">der § 102</ref>6.4(a<ref target="1026-4-b" reftype="internal">) and (b)</ref>, except that the following items are excluded:</content>
           <paragraph label="1026-32-b-1-i-A" marker="(A)">
@@ -5376,7 +5369,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-32-b-1-i-D" marker="(D)">
-            <content>Any bona fide third-party charge not retained by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either, unless the charge is required to be included in points and fees under paragraph <ref target="1026-32-b-1-i-C" reftype="internal">(b)(1)(i)(C)</ref>, <ref target="1026-32-b-1-iii" reftype="internal">(iii)</ref>, or <ref target="1026-32-b-1-iv" reftype="internal">(iv)</ref> of this section;</content>
+            <content>Any bona fide third-party charge not retained by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either, unless the charge is required to be included in points and fees under paragraph <ref target="1026-32-b-1-i-C" reftype="internal">(b)(1)(i)(C)</ref>, <ref target="1026-32-b-1-iii" reftype="internal">(iii)</ref>, or <ref target="1026-32-b-1-iv" reftype="internal">(iv)</ref> of this section;</content>
           </paragraph>
           <paragraph label="1026-32-b-1-i-E" marker="(E)">
             <content>Up to two bona fide discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the transaction, if the interest rate without any discount does not exceed:</content>
@@ -5398,7 +5391,7 @@
           </paragraph>
         </paragraph>
         <paragraph label="1026-32-b-1-ii" marker="(ii)">
-          <content>All <ref target="1026-36-a-3" reftype="term">compensation</ref> paid directly or indirectly by a <ref target="1026-2-a-11" reftype="term">consumer</ref> or <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, as defined in § 1026.36(a)(1), that can be attributed to that transaction at the time the interest rate is set;</content>
+          <content>All <ref target="1026-36-a-3" reftype="term">compensation</ref> paid directly or indirectly by a <ref target="1026-2-a-11" reftype="term">consumer</ref> or <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in § 1026.36(a)(1), that can be attributed to that transaction at the time the interest rate is set;</content>
         </paragraph>
         <paragraph label="1026-32-b-1-iii" marker="(iii)">
           <content>All items listed in § <ref target="1026-4-c-7" reftype="internal">1026.4(c)(7)</ref> (other than amounts held for future payment of taxes), unless:</content>
@@ -5435,7 +5428,7 @@
               <ref target="1026-36-a-1-i" reftype="term">Loan originator</ref>
             </content>
             <paragraph label="1026-36-a-1-i" marker="(i)">
-              <content>For purposes of this section, the term “loan originator” means a <ref target="1026-2-a-22" reftype="term">person</ref> who, in expectation of direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain or for direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain, performs any of the following activities: takes an application, offers, arranges, assists a <ref target="1026-2-a-11" reftype="term">consumer</ref> in obtaining or applying to obtain, negotiates, or otherwise obtains or makes an extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> for another <ref target="1026-2-a-22" reftype="term">person</ref>; or through advertising or other means of communication represents to the public that such <ref target="1026-2-a-22" reftype="term">person</ref> can or will perform any of these activities. The term “loan originator” includes an employee, agent, or contractor of the <ref target="1026-2-a-17" reftype="term">creditor</ref> or <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref> if the employee, agent, or contractor meets this definition. The term “loan originator” includes a <ref target="1026-2-a-17" reftype="term">creditor</ref> that engages in loan origination activities if the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not finance the transaction at <ref target="1026-2-a-13" reftype="term">consummation</ref> out of the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s own resources, including by drawing on a bona fide warehouse line of <ref target="1026-2-a-14" reftype="term">credit</ref> or out of deposits held by the <ref target="1026-2-a-17" reftype="term">creditor</ref>. All <ref target="1026-2-a-17" reftype="term">creditors</ref> that engage in any of the foregoing loan origination activities are loan originators for purposes of paragraphs <ref target="1026-36-f" reftype="internal">(f)</ref> and <ref target="1026-36-g" reftype="internal">(g)</ref> of this section. The term does not include:</content>
+              <content>For purposes of this section, the term “<def term="loan originator">loan originator</def>” means a <ref target="1026-2-a-22" reftype="term">person</ref> who, in expectation of direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain or for direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain, performs any of the following activities: takes an application, offers, arranges, assists a <ref target="1026-2-a-11" reftype="term">consumer</ref> in obtaining or applying to obtain, negotiates, or otherwise obtains or makes an extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> for another <ref target="1026-2-a-22" reftype="term">person</ref>; or through advertising or other means of communication represents to the public that such <ref target="1026-2-a-22" reftype="term">person</ref> can or will perform any of these activities. The term “loan originator” includes an employee, agent, or contractor of the <ref target="1026-2-a-17" reftype="term">creditor</ref> or <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref> if the employee, agent, or contractor meets this definition. The term “loan originator” includes a <ref target="1026-2-a-17" reftype="term">creditor</ref> that engages in loan origination activities if the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not finance the transaction at <ref target="1026-2-a-13" reftype="term">consummation</ref> out of the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s own resources, including by drawing on a bona fide warehouse line of <ref target="1026-2-a-14" reftype="term">credit</ref> or out of deposits held by the <ref target="1026-2-a-17" reftype="term">creditor</ref>. All <ref target="1026-2-a-17" reftype="term">creditors</ref> that engage in any of the foregoing loan origination activities are loan originators for purposes of paragraphs <ref target="1026-36-f" reftype="internal">(f)</ref> and <ref target="1026-36-g" reftype="internal">(g)</ref> of this section. The term does not include:</content>
               <paragraph label="1026-36-a-1-i-A" marker="(A)">
                 <content>A <ref target="1026-2-a-22" reftype="term">person</ref> who does not take a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> application or offer or negotiate <ref target="1026-2-a-14" reftype="term">credit</ref> terms available from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, but who performs purely administrative or clerical tasks on behalf of a <ref target="1026-2-a-22" reftype="term">person</ref> who does engage in such activities.</content>
               </paragraph>
@@ -5453,10 +5446,10 @@
               </paragraph>
             </paragraph>
             <paragraph label="1026-36-a-1-ii" marker="(ii)">
-              <content>An “individual loan originator” is a natural <ref target="1026-2-a-22" reftype="term">person</ref> who meets the definition of “loan originator” in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section.</content>
+              <content>An “<def term="individual loan originator">individual loan originator</def>” is a natural <ref target="1026-2-a-22" reftype="term">person</ref> who meets the definition of “loan originator” in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section.</content>
             </paragraph>
             <paragraph label="1026-36-a-1-iii" marker="(iii)">
-              <content>A “loan originator organization” is any <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, that is not an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>.</content>
+              <content>A “<def term="loan originator organization">loan originator organization</def>” is any <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, that is not an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1026-36-a-2" marker="(2)">
@@ -5465,7 +5458,7 @@
           </paragraph>
           <paragraph label="1026-36-a-3" marker="(3)">
             <title type="keyterm">Compensation.</title>
-            <content>The term “compensation” includes salaries, commissions, and any financial or similar incentive.</content>
+            <content>The term “<def term="compensation">compensation</def>” includes salaries, commissions, and any financial or similar incentive.</content>
           </paragraph>
           <paragraph label="1026-36-a-4" marker="(4)">
             <title type="keyterm">Seller financers; three properties.</title>
@@ -5547,7 +5540,7 @@
               <content>For purposes of this paragraph <ref target="1026-36-d-1" reftype="internal">(d)(1)</ref> only, a “term of a transaction” is any right or obligation of the parties to a <ref target="1026-2-a-14" reftype="term">credit</ref> transaction. The amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended is not a term of a transaction or a proxy for a term of a transaction, provided that <ref target="1026-36-a-3" reftype="term">compensation</ref> received by or paid to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, directly or indirectly, is based on a fixed percentage of the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended; however, such <ref target="1026-36-a-3" reftype="term">compensation</ref> may be subject to a minimum or maximum dollar amount.</content>
             </paragraph>
             <paragraph label="1026-36-d-1-iii" marker="(iii)">
-              <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-1" reftype="internal">oan or</ref>iginator may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-2" reftype="internal">dual l</ref>oan originator, <ref target="1026-36-a-3" reftype="term">compensation</ref> in the form of a contribution to a defined contribution plan that is a designated tax-advantaged plan or a benefit under a defined benefit plan that is a designated tax-advantaged plan. In the case of a contribution to a defined contribution plan, the contribution shall not be directly or indirectly based on the terms of that <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>'s transactions. As used in this paragraph (d)(1)(iii), “designated tax-advantaged plan” means any plan that meets the requirements of Internal Revenue Code section 401(a), 26 U.S.C. 401(a); employee annuity plan described in Internal Revenue Code section 403(a), 26 U.S.C. 403(a); simple retirement account, as defined in Internal Revenue Code section 408(p), 26 U.S.C. 408(p); simplified employee pension described in Internal Revenue Code section 408(k), 26 U.S.C. 408(k); annuity contract described in Internal Revenue Code section 403(b), 26 U.S.C. 403(b); or eligible deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> plan, as defined in Internal Revenue Code section 457(b), 26 U.S.C. 457(b).</content>
+              <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-1" reftype="internal">oan or</ref>iginator may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-2" reftype="internal">dual l</ref>oan originator, <ref target="1026-36-a-3" reftype="term">compensation</ref> in the form of a contribution to a defined contribution plan that is a designated tax-advantaged plan or a benefit under a defined benefit plan that is a designated tax-advantaged plan. In the case of a contribution to a defined contribution plan, the contribution shall not be directly or indirectly based on the terms of that <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>'s transactions. As used in this paragraph (d)(1)(iii), “<def term="designated tax-advantaged plan">designated tax-advantaged plan</def>” means any plan that meets the requirements of Internal Revenue Code section 401(a), 26 U.S.C. 401(a); employee annuity plan described in Internal Revenue Code section 403(a), 26 U.S.C. 403(a); simple retirement account, as defined in Internal Revenue Code section 408(p), 26 U.S.C. 408(p); simplified employee pension described in Internal Revenue Code section 408(k), 26 U.S.C. 408(k); annuity contract described in Internal Revenue Code section 403(b), 26 U.S.C. 403(b); or eligible deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> plan, as defined in Internal Revenue Code section 457(b), 26 U.S.C. 457(b).</content>
             </paragraph>
             <paragraph label="1026-36-d-1-iv" marker="(iv)">
               <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref> may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>, <ref target="1026-36-a-3" reftype="term">compensation</ref> under a non-deferred profits-based <ref target="1026-36-a-3" reftype="term">compensation</ref> plan (i.e., any arrangement for the payment of non-deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> that is determined with reference to the profits of the <ref target="1026-2-a-22" reftype="term">person</ref> from mortgage-related business), provided that:</content>
@@ -5604,7 +5597,7 @@
           </paragraph>
           <paragraph label="1026-36-e-2" marker="(2)">
             <title type="keyterm">Permissible transactions.</title>
-            <content>A transaction does not violate paragraph <ref target="1026-36-e-1" reftype="internal">(e)(1)</ref> of this section if the <ref target="1026-2-a-11" reftype="term">consumer</ref> is presented with loan options that meet the conditions in paragraph <ref target="1026-36-e-3" reftype="internal">(e)(3)</ref> of this section for each type of transaction in which the <ref target="1026-2-a-11" reftype="term">consumer</ref> expressed an interest. For purposes of paragraph <ref target="1026-36-e" reftype="internal">(e)</ref> of this section, the term “type of transaction” refers to whether:</content>
+            <content>A transaction does not violate paragraph <ref target="1026-36-e-1" reftype="internal">(e)(1)</ref> of this section if the <ref target="1026-2-a-11" reftype="term">consumer</ref> is presented with loan options that meet the conditions in paragraph <ref target="1026-36-e-3" reftype="internal">(e)(3)</ref> of this section for each type of transaction in which the <ref target="1026-2-a-11" reftype="term">consumer</ref> expressed an interest. For purposes of paragraph <ref target="1026-36-e" reftype="internal">(e)</ref> of this section, the term “<def term="type of transaction">type of transaction</def>” refers to whether:</content>
             <paragraph label="1026-36-e-2-i" marker="(i)">
               <content>A loan has an annual percentage rate that cannot increase after <ref target="1026-2-a-13" reftype="term">consummation</ref>;</content>
             </paragraph>
@@ -5878,6 +5871,7 @@
             </analysisSection>
             <analysisSection>
               <title>36(a)(1) Loan Originator</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>36(a)(1)(i)</title>
@@ -6465,6 +6459,7 @@
             </analysisSection>
             <analysisSection>
               <title>36(d)(1)(iv)(B)</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>36(d)(1)(iv)(B)(1)</title>
@@ -6560,6 +6555,7 @@
             </analysisSection>
             <analysisSection>
               <title>36(d)(2) Payments by Persons Other Than the Consumer</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>36(d)(2)(i) Dual Compensation</title>
@@ -6774,6 +6770,7 @@
             </analysisSection>
             <analysisSection>
               <title>43(a)(3)</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>43(a)(3)(i)</title>
@@ -6798,6 +6795,7 @@
             </analysisSection>
             <analysisSection>
               <title>43(b) Definitions</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>43(b)(1)</title>
@@ -7215,6 +7213,7 @@
             </analysisSection>
             <analysisSection>
               <title>43(c)(6) Payment Calculation for Simultaneous Loans</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>43(c)(6)(i)</title>
@@ -7288,7 +7287,7 @@
               <analysisParagraph>• A negative amortization loan, as defined in § 226.18(s)(7)(v).<footnote ref="123">“[T]he term `negative amortization' means payment of periodic payments that will result in an increase in the principal balance under the terms of the legal obligation; the term `negative amortization loan' means a loan that permits payments resulting in negative amortization, other than a reverse mortgage subject to section 226.33.” 12 CFR 1026.18(s)(7)(v).</footnote>
             
           </analysisParagraph>
-              <analysisParagraph>Proposed comment 43(d)(2)(i)(A)-1 explained the application of the definition of non-standard mortgage to an adjustable-rate mortgage with an introductory fixed interest rate for one or more years. This proposed comment clarified that, for example, a covered transaction with a fixed introductory rate for the first two, three or five years that then converts to a variable rate for the remaining 28, 27 or 25 years, respectively, is a non-standard mortgage. By contrast, a covered transaction with an introductory rate for six months that then converts to a variable rate for the remaining 29 and<FR>1/2</FR>years is not a non-standard mortgage.</analysisParagraph>
+              <analysisParagraph>Proposed comment 43(d)(2)(i)(A)-1 explained the application of the definition of non-standard mortgage to an adjustable-rate mortgage with an introductory fixed interest rate for one or more years. This proposed comment clarified that, for example, a covered transaction with a fixed introductory rate for the first two, three or five years that then converts to a variable rate for the remaining 28, 27 or 25 years, respectively, is a non-standard mortgage. By contrast, a covered transaction with an introductory rate for six months that then converts to a variable rate for the remaining 29 and 1/2 years is not a non-standard mortgage.</analysisParagraph>
               <analysisParagraph>The Board articulated several rationales for its proposed definition of a non-standard mortgage. First, the Board noted that the legislative history of the Dodd-Frank Act describes “hybrid” mortgages as mortgages with a “blend” of fixed-rate and adjustable-rate characteristics—generally loans with an initial fixed period and adjustment periods, such as “2/23s and 3/27s.”<footnote ref="124">&lt;em data-original="E-03"&gt;See&lt;/em&gt; Comm. on Fin. Servs., Report on H.R. 1728, Mortgage Reform and Anti-Predatory Lending Act, H. Rept. 94, 110th Cong., at 5 (2009).</footnote>
             The Board also stated that the legislative history indicates that Congress was concerned about consumers being trapped in mortgages likely to result in payments that would suddenly become significantly higher—often referred to as “payment shock”—because their home values had dropped, thereby “making refinancing difficult.”<footnote ref="125">&lt;em data-original="E-03"&gt;Id.&lt;/em&gt; at 51-52.</footnote>
             
@@ -7678,7 +7677,7 @@
               <analysisParagraph>Second, the Board noted that the intent of this underwriting condition is to ensure that the consumer can afford the loan's payments for a reasonable amount of time and that Congress intended for a reasonable amount of time to be the first five years after consummation.</analysisParagraph>
               <analysisParagraph>Third, the Board proposed this approach because it is consistent with prior iterations of this statutory text and the Board's 2008 HOEPA Final Rule. As noted above, the Dodd-Frank Act codifies many aspects of the repayment ability requirements contained in existing § 1026.34(a)(4) of the Board's 2008 HOEPA Final Rule.</analysisParagraph>
               <analysisParagraph>Fourth, the Board believed that interpreting the phrase “during the first five years” as including the rate adjustment at the end of the fifth year would be of limited benefit to consumers because creditors could easily structure their product offerings to avoid application of the rule. For example, a creditor could move a rate adjustment that typically occurs on the due date of the 60th monthly payment to due date of the first month that falls outside the specified time horizon, making any proposal to extend the time period in order to include the rate adjustment of diminished value.</analysisParagraph>
-              <analysisParagraph>Finally, the Board believed that the proposed timing of the five-year period could appropriately differ from the approach used under the 2010 MDIA Interim Final Rule, given the different purposes of the rules. The Board amended the 2010 MDIA Interim Final Rule to require that creditors base their interest rate and payment disclosures on the first five years after the due date of the first regular periodic payment rather than the first five years after consummation. <em data-original="E-03">See</em> 75 FR 81836, 81839 (Dec. 29, 2010). The revision clarified that the disclosure requirements for<FR>5/1</FR>hybrid adjustable-rate mortgages must include the rate adjustment that occurs on the due date of the 60th monthly payment, which typically occurs more than five years after consummation. The disclosure requirements under the 2010 MDIA Interim Final Rule, as revised, are intended to help make consumers aware of changes to their loan terms that may occur if they choose to stay in the loan beyond five years and therefore, helps to ensure consumers avoid the uninformed use of credit. The Board believed a different approach is appropriate under proposed § 226.43(e)(2)(iv) because that requirement seeks to ensure that the loan's payments are affordable for a reasonable period of time. For the reasons stated above, the Board believed that Congress intended the first five years after consummation to be a reasonable period of time to ensure that the consumer has the ability to repay the loan according to its terms.</analysisParagraph>
+              <analysisParagraph>Finally, the Board believed that the proposed timing of the five-year period could appropriately differ from the approach used under the 2010 MDIA Interim Final Rule, given the different purposes of the rules. The Board amended the 2010 MDIA Interim Final Rule to require that creditors base their interest rate and payment disclosures on the first five years after the due date of the first regular periodic payment rather than the first five years after consummation. <em data-original="E-03">See</em> 75 FR 81836, 81839 (Dec. 29, 2010). The revision clarified that the disclosure requirements for 5/1 hybrid adjustable-rate mortgages must include the rate adjustment that occurs on the due date of the 60th monthly payment, which typically occurs more than five years after consummation. The disclosure requirements under the 2010 MDIA Interim Final Rule, as revised, are intended to help make consumers aware of changes to their loan terms that may occur if they choose to stay in the loan beyond five years and therefore, helps to ensure consumers avoid the uninformed use of credit. The Board believed a different approach is appropriate under proposed § 226.43(e)(2)(iv) because that requirement seeks to ensure that the loan's payments are affordable for a reasonable period of time. For the reasons stated above, the Board believed that Congress intended the first five years after consummation to be a reasonable period of time to ensure that the consumer has the ability to repay the loan according to its terms.</analysisParagraph>
               <analysisParagraph>For all the above-listed reasons, the Board interpreted the statutory text as requiring that the creditor underwrite the loan using the maximum interest rate during the first five years after consummation. The Board solicited comment on its interpretation of the phrase “first five years” and the appropriateness of this approach. The Board also proposed clarifying commentary and examples, which are described below.</analysisParagraph>
               <analysisParagraph>As described above, commenters generally supported the payment calculation requirements in the proposed rule, including the five-year payment calculation. A comment from a coalition of consumer advocates suggested that the period may not be long enough to assure a consumer's ability to repay given that the average homeowner holds their mortgage for approximately seven years, and suggested that the five-year payment calculation requirement be extended to reflect the average mortgage duration of the first ten years of the loan. Two industry commenters suggested that the time horizon in the required payment calculation for qualified mortgages be consistent with the proposed requirement in the 2011 QRM Proposed Rule that the payment calculation be based on the maximum rate in the first five years after the date on which the first regular periodic payment will be due. One such commenter noted that the payment calculation approach in the 2011 QRM Proposed Rule is more protective of consumers. Another industry commenter suggested that the final rule should measure the first five years from the first regularly scheduled payment, for consistency with the 2010 MDIA Interim Final Rule. An association of State bank regulators agreed with the Board's reasoning, noting that creditors could structure loans to recast outside any parameter set by the rule and that an effective way to prevent purposeful evasion of the payment calculation provision would require legislation.</analysisParagraph>
               <analysisParagraph>Notwithstanding the Board's proposed approach, the Bureau interprets the phrase “during the first 5 years” as requiring creditors to underwrite the loan based on the maximum interest rate that may apply during the first five years after the first regular periodic payment will be due. Like the Board, the Bureau finds the statutory language to be ambiguous. However, the Bureau believes that the statutory phrase “during the first 5 years” could be given either meaning, and that this approach provides greater protections to consumers by requiring creditors to underwrite qualified mortgages using the rate that would apply after the recast of a five-year adjustable rate mortgage. Further, as noted, this approach is consistent with the payment calculation in the 2011 QRM Proposed Rule and in existing Regulation Z with respect to the disclosure requirements for interest rates on adjustable-rate amortizing loans.</analysisParagraph>
@@ -7702,6 +7701,7 @@
             </analysisSection>
             <analysisSection>
               <title>43(e)(2)(v)</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>43(e)(2)(v)(A)</title>
@@ -7764,6 +7764,7 @@
             </analysisSection>
             <analysisSection>
               <title>43(e)(3) Limits on Points and Fees for Qualified Mortgages</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>43(e)(3)(i)</title>
@@ -8280,11 +8281,11 @@
             <content>For purposes of this paragraph <ref target="1026-43-c-7" reftype="internal">(c)(7)</ref>, the following definitions apply:</content>
             <paragraph label="1026-43-c-7-i-A" marker="(A)">
               <title type="keyterm">Total monthly debt obligations.</title>
-              <content>The term total monthly debt obligations means the sum of: the payment on the <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, as required to be calculated by paragraphs <ref target="1026-43-c-2-iii" reftype="internal">(c)(2)(iii)</ref> and <ref target="1026-43-c-5" reftype="internal">(c)(5)</ref> of this section; <ref target="1026-43-b-12" reftype="term">simultaneous loans</ref>, as required by paragraphs <ref target="1026-43-c-2-iv" reftype="internal">(c)(2)(iv)</ref> and <ref target="1026-43-c-6" reftype="internal">(c)(6)</ref> of this section; <ref target="1026-43-b-8" reftype="term">mortgage-related obligations</ref>, as required by paragraph <ref target="1026-43-c-2-v" reftype="internal">(c)(2)(v)</ref> of this section; and current debt obligations, alimony, and child support, as required by paragraph <ref target="1026-43-c-2-vi" reftype="internal">(c)(2)(vi)</ref> of this section.</content>
+              <content>The term <def term="total monthly debt obligations">total monthly debt obligations</def> means the sum of: the payment on the <ref target="1026-43-b-1" reftype="term">covered transaction</ref>, as required to be calculated by paragraphs <ref target="1026-43-c-2-iii" reftype="internal">(c)(2)(iii)</ref> and <ref target="1026-43-c-5" reftype="internal">(c)(5)</ref> of this section; <ref target="1026-43-b-12" reftype="term">simultaneous loans</ref>, as required by paragraphs <ref target="1026-43-c-2-iv" reftype="internal">(c)(2)(iv)</ref> and <ref target="1026-43-c-6" reftype="internal">(c)(6)</ref> of this section; <ref target="1026-43-b-8" reftype="term">mortgage-related obligations</ref>, as required by paragraph <ref target="1026-43-c-2-v" reftype="internal">(c)(2)(v)</ref> of this section; and current debt obligations, alimony, and child support, as required by paragraph <ref target="1026-43-c-2-vi" reftype="internal">(c)(2)(vi)</ref> of this section.</content>
             </paragraph>
             <paragraph label="1026-43-c-7-i-B" marker="(B)">
               <title type="keyterm">Total monthly income.</title>
-              <content>The term total monthly income means the sum of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current or reasonably expected income, including any income from assets, as required by paragraphs <ref target="1026-43-c-2-i" reftype="internal">(c)(2)(i)</ref> and <ref target="1026-43-c-4" reftype="internal">(c)(4)</ref> of this section.</content>
+              <content>The term <def term="total monthly income">total monthly income</def> means the sum of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current or reasonably expected income, including any income from assets, as required by paragraphs <ref target="1026-43-c-2-i" reftype="internal">(c)(2)(i)</ref> and <ref target="1026-43-c-4" reftype="internal">(c)(4)</ref> of this section.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1026-43-c-7-ii" marker="(ii)">
@@ -8470,7 +8471,7 @@
           <content>For purposes of this paragraph <ref target="1026-43-d" reftype="internal">(d)</ref>, the following definitions apply:</content>
           <paragraph label="1026-43-d-1-i" marker="(i)">
             <title type="keyterm">Non-standard mortgage.</title>
-            <content>The term non-standard mortgage means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> that is:</content>
+            <content>The term <def term="non-standard mortgage">non-standard mortgage</def> means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> that is:</content>
             <paragraph label="1026-43-d-1-i-A" marker="(A)">
               <content>An adjustable-rate mortgage, as defined in § <ref target="1026-18-s-7-i" reftype="internal">1026.18(s)(7)(i)</ref>, with an introductory fixed interest rate for a period of one year or longer;</content>
             </paragraph>
@@ -8483,7 +8484,7 @@
           </paragraph>
           <paragraph label="1026-43-d-1-ii" marker="(ii)">
             <title type="keyterm">Standard mortgage.</title>
-            <content>The term standard mortgage means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
+            <content>The term <def term="standard mortgage">standard mortgage</def> means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
             <paragraph label="1026-43-d-1-ii-A" marker="(A)">
               <content>That provides for regular periodic payments that do not:</content>
               <paragraph label="1026-43-d-1-ii-A-1" marker="(1)">
@@ -8631,7 +8632,7 @@
           <title type="keyterm">Alternative offer required.</title>
           <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must not offer a <ref target="1026-2-a-11" reftype="term">consumer</ref> a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref> unless the <ref target="1026-2-a-17" reftype="term">creditor</ref> also offers the <ref target="1026-2-a-11" reftype="term">consumer</ref> an alternative <ref target="1026-43-b-1" reftype="term">covered transaction</ref> without a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref> and the alternative <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
           <paragraph label="1026-43-g-3-i" marker="(i)">
-            <content>Has an annual percentage rate that cannot increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> and has the same type of interest rate as the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref>; for purposes of this paragraph <ref target="1026-43-g" reftype="internal">(g)</ref>, the term “type of interest rate” refers to whether a transaction:</content>
+            <content>Has an annual percentage rate that cannot increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> and has the same type of interest rate as the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-43-b-10" reftype="term">prepayment penalty</ref>; for purposes of this paragraph <ref target="1026-43-g" reftype="internal">(g)</ref>, the term “<def term="type of interest rate">type of interest rate</def>” refers to whether a transaction:</content>
             <paragraph label="1026-43-g-3-i-A" marker="(A)">
               <content>Is a fixed-rate mortgage, as defined in § <ref target="1026-18-s-7-iii" reftype="internal">1026.18(s)(7)(iii)</ref>; or</content>
             </paragraph>
@@ -8761,16 +8762,14 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-d-7-iv-Interp-2"/>
-    <change operation="deleted" label="1026-32-d-7-iv-Interp-1"/>
     <change operation="modified" label="1026-32-b-1-ii">
       <paragraph label="1026-32-b-1-ii" marker="(ii)">
-        <content>All <ref target="1026-36-a-3" reftype="term">compensation</ref> paid directly or indirectly by a <ref target="1026-2-a-11" reftype="term">consumer</ref> or <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, as defined in § 1026.36(a)(1), that can be attributed to that transaction at the time the interest rate is set;</content>
+        <content>All <ref target="1026-36-a-3" reftype="term">compensation</ref> paid directly or indirectly by a <ref target="1026-2-a-11" reftype="term">consumer</ref> or <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in § 1026.36(a)(1), that can be attributed to that transaction at the time the interest rate is set;</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-36-a-1-i">
       <paragraph label="1026-36-a-1-i" marker="(i)">
-        <content>For purposes of this section, the term “loan originator” means a <ref target="1026-2-a-22" reftype="term">person</ref> who, in expectation of direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain or for direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain, performs any of the following activities: takes an application, offers, arranges, assists a <ref target="1026-2-a-11" reftype="term">consumer</ref> in obtaining or applying to obtain, negotiates, or otherwise obtains or makes an extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> for another <ref target="1026-2-a-22" reftype="term">person</ref>; or through advertising or other means of communication represents to the public that such <ref target="1026-2-a-22" reftype="term">person</ref> can or will perform any of these activities. The term “loan originator” includes an employee, agent, or contractor of the <ref target="1026-2-a-17" reftype="term">creditor</ref> or <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref> if the employee, agent, or contractor meets this definition. The term “loan originator” includes a <ref target="1026-2-a-17" reftype="term">creditor</ref> that engages in loan origination activities if the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not finance the transaction at <ref target="1026-2-a-13" reftype="term">consummation</ref> out of the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s own resources, including by drawing on a bona fide warehouse line of <ref target="1026-2-a-14" reftype="term">credit</ref> or out of deposits held by the <ref target="1026-2-a-17" reftype="term">creditor</ref>. All <ref target="1026-2-a-17" reftype="term">creditors</ref> that engage in any of the foregoing loan origination activities are loan originators for purposes of paragraphs <ref target="1026-36-f" reftype="internal">(f)</ref> and <ref target="1026-36-g" reftype="internal">(g)</ref> of this section. The term does not include:</content>
+        <content>For purposes of this section, the term “<def term="loan originator">loan originator</def>” means a <ref target="1026-2-a-22" reftype="term">person</ref> who, in expectation of direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain or for direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain, performs any of the following activities: takes an application, offers, arranges, assists a <ref target="1026-2-a-11" reftype="term">consumer</ref> in obtaining or applying to obtain, negotiates, or otherwise obtains or makes an extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> for another <ref target="1026-2-a-22" reftype="term">person</ref>; or through advertising or other means of communication represents to the public that such <ref target="1026-2-a-22" reftype="term">person</ref> can or will perform any of these activities. The term “loan originator” includes an employee, agent, or contractor of the <ref target="1026-2-a-17" reftype="term">creditor</ref> or <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref> if the employee, agent, or contractor meets this definition. The term “loan originator” includes a <ref target="1026-2-a-17" reftype="term">creditor</ref> that engages in loan origination activities if the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not finance the transaction at <ref target="1026-2-a-13" reftype="term">consummation</ref> out of the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s own resources, including by drawing on a bona fide warehouse line of <ref target="1026-2-a-14" reftype="term">credit</ref> or out of deposits held by the <ref target="1026-2-a-17" reftype="term">creditor</ref>. All <ref target="1026-2-a-17" reftype="term">creditors</ref> that engage in any of the foregoing loan origination activities are loan originators for purposes of paragraphs <ref target="1026-36-f" reftype="internal">(f)</ref> and <ref target="1026-36-g" reftype="internal">(g)</ref> of this section. The term does not include:</content>
         <paragraph label="1026-36-a-1-i-A" marker="(A)">
           <content>A <ref target="1026-2-a-22" reftype="term">person</ref> who does not take a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> application or offer or negotiate <ref target="1026-2-a-14" reftype="term">credit</ref> terms available from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, but who performs purely administrative or clerical tasks on behalf of a <ref target="1026-2-a-22" reftype="term">person</ref> who does engage in such activities.</content>
         </paragraph>
@@ -8930,9 +8929,9 @@
           </paragraph>
           <paragraph label="1026-25-c-2" marker="(2)">
             <title type="keyterm">Records related to requirements for loan originator compensation.</title>
-            <content><ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref>. Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, for transactions subject to § <ref target="1026-36" reftype="internal">1026.36</ref>:</content>
+            <content><ref target="1026-36-a-1-i" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref>. Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, for transactions subject to § <ref target="1026-36" reftype="internal">1026.36</ref>:</content>
             <paragraph label="1026-25-c-2-i" marker="(i)">
-              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, and the <ref target="1026-36-a-3" reftype="term">compensation</ref> agreement that governs those payments for three years after the date of payment.</content>
+              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, and the <ref target="1026-36-a-3" reftype="term">compensation</ref> agreement that governs those payments for three years after the date of payment.</content>
             </paragraph>
             <paragraph label="1026-25-c-2-ii" marker="(ii)">
               <content>A <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref>, as defined in § <ref target="1026-36-a-1-iii" reftype="internal">1026.36(a)(1)(iii)</ref>, shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it receives from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or another <ref target="1026-2-a-22" reftype="term">person</ref>; all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to any <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>, as defined in § <ref target="1026-36-a-1-ii" reftype="internal">1026.36(a)(1)(ii)</ref>; and the <ref target="1026-36-a-3" reftype="term">compensation</ref> agreement that governs each such receipt or payment, for three years after the date of each such receipt or payment.</content>
@@ -8954,6 +8953,7 @@
             </analysisSection>
             <analysisSection>
               <title>25(c) Records Related to Certain Requirements for Mortgage Loans</title>
+	      <analysisParagraph/>
             </analysisSection>
             <analysisSection>
               <title>25(c)(2) Records Related to Requirements for Loan Originator Compensation</title>
@@ -8998,7 +8998,7 @@
     <change operation="modified" label="1026-43-d-1-i">
       <paragraph label="1026-43-d-1-i" marker="(i)">
         <title type="keyterm">Non-standard mortgage.</title>
-        <content>The term non-standard mortgage means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> that is:</content>
+        <content>The term <def term="non-standard mortgage">non-standard mortgage</def> means a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> that is:</content>
         <paragraph label="1026-43-d-1-i-A" marker="(A)">
           <content>An adjustable-rate mortgage, as defined in § <ref target="1026-18-s-7-i" reftype="internal">1026.18(s)(7)(i)</ref>, with an introductory fixed interest rate for a period of one year or longer;</content>
         </paragraph>
@@ -9080,7 +9080,7 @@
             <ref target="1026-36-a-1-i" reftype="term">Loan originator</ref>
           </content>
           <paragraph label="1026-36-a-1-i" marker="(i)">
-            <content>For purposes of this section, the term “loan originator” means a <ref target="1026-2-a-22" reftype="term">person</ref> who, in expectation of direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain or for direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain, performs any of the following activities: takes an application, offers, arranges, assists a <ref target="1026-2-a-11" reftype="term">consumer</ref> in obtaining or applying to obtain, negotiates, or otherwise obtains or makes an extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> for another <ref target="1026-2-a-22" reftype="term">person</ref>; or through advertising or other means of communication represents to the public that such <ref target="1026-2-a-22" reftype="term">person</ref> can or will perform any of these activities. The term “loan originator” includes an employee, agent, or contractor of the <ref target="1026-2-a-17" reftype="term">creditor</ref> or <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref> if the employee, agent, or contractor meets this definition. The term “loan originator” includes a <ref target="1026-2-a-17" reftype="term">creditor</ref> that engages in loan origination activities if the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not finance the transaction at <ref target="1026-2-a-13" reftype="term">consummation</ref> out of the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s own resources, including by drawing on a bona fide warehouse line of <ref target="1026-2-a-14" reftype="term">credit</ref> or out of deposits held by the <ref target="1026-2-a-17" reftype="term">creditor</ref>. All <ref target="1026-2-a-17" reftype="term">creditors</ref> that engage in any of the foregoing loan origination activities are loan originators for purposes of paragraphs <ref target="1026-36-f" reftype="internal">(f)</ref> and <ref target="1026-36-g" reftype="internal">(g)</ref> of this section. The term does not include:</content>
+            <content>For purposes of this section, the term “<def term="loan originator">loan originator</def>” means a <ref target="1026-2-a-22" reftype="term">person</ref> who, in expectation of direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain or for direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain, performs any of the following activities: takes an application, offers, arranges, assists a <ref target="1026-2-a-11" reftype="term">consumer</ref> in obtaining or applying to obtain, negotiates, or otherwise obtains or makes an extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> for another <ref target="1026-2-a-22" reftype="term">person</ref>; or through advertising or other means of communication represents to the public that such <ref target="1026-2-a-22" reftype="term">person</ref> can or will perform any of these activities. The term “loan originator” includes an employee, agent, or contractor of the <ref target="1026-2-a-17" reftype="term">creditor</ref> or <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref> if the employee, agent, or contractor meets this definition. The term “loan originator” includes a <ref target="1026-2-a-17" reftype="term">creditor</ref> that engages in loan origination activities if the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not finance the transaction at <ref target="1026-2-a-13" reftype="term">consummation</ref> out of the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s own resources, including by drawing on a bona fide warehouse line of <ref target="1026-2-a-14" reftype="term">credit</ref> or out of deposits held by the <ref target="1026-2-a-17" reftype="term">creditor</ref>. All <ref target="1026-2-a-17" reftype="term">creditors</ref> that engage in any of the foregoing loan origination activities are loan originators for purposes of paragraphs <ref target="1026-36-f" reftype="internal">(f)</ref> and <ref target="1026-36-g" reftype="internal">(g)</ref> of this section. The term does not include:</content>
             <paragraph label="1026-36-a-1-i-A" marker="(A)">
               <content>A <ref target="1026-2-a-22" reftype="term">person</ref> who does not take a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> application or offer or negotiate <ref target="1026-2-a-14" reftype="term">credit</ref> terms available from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, but who performs purely administrative or clerical tasks on behalf of a <ref target="1026-2-a-22" reftype="term">person</ref> who does engage in such activities.</content>
             </paragraph>
@@ -9098,10 +9098,10 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-36-a-1-ii" marker="(ii)">
-            <content>An “individual loan originator” is a natural <ref target="1026-2-a-22" reftype="term">person</ref> who meets the definition of “loan originator” in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section.</content>
+            <content>An “<def term="individual loan originator">individual loan originator</def>” is a natural <ref target="1026-2-a-22" reftype="term">person</ref> who meets the definition of “loan originator” in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section.</content>
           </paragraph>
           <paragraph label="1026-36-a-1-iii" marker="(iii)">
-            <content>A “loan originator organization” is any <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, that is not an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>.</content>
+            <content>A “<def term="loan originator organization">loan originator organization</def>” is any <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, that is not an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>.</content>
           </paragraph>
         </paragraph>
         <paragraph label="1026-36-a-2" marker="(2)">
@@ -9110,7 +9110,7 @@
         </paragraph>
         <paragraph label="1026-36-a-3" marker="(3)">
           <title type="keyterm">Compensation.</title>
-          <content>The term “compensation” includes salaries, commissions, and any financial or similar incentive.</content>
+          <content>The term “<def term="compensation">compensation</def>” includes salaries, commissions, and any financial or similar incentive.</content>
         </paragraph>
         <paragraph label="1026-36-a-4" marker="(4)">
           <title type="keyterm">Seller financers; three properties.</title>
@@ -9174,7 +9174,7 @@
             <content>For purposes of this paragraph <ref target="1026-36-d-1" reftype="internal">(d)(1)</ref> only, a “term of a transaction” is any right or obligation of the parties to a <ref target="1026-2-a-14" reftype="term">credit</ref> transaction. The amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended is not a term of a transaction or a proxy for a term of a transaction, provided that <ref target="1026-36-a-3" reftype="term">compensation</ref> received by or paid to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, directly or indirectly, is based on a fixed percentage of the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended; however, such <ref target="1026-36-a-3" reftype="term">compensation</ref> may be subject to a minimum or maximum dollar amount.</content>
           </paragraph>
           <paragraph label="1026-36-d-1-iii" marker="(iii)">
-            <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-1" reftype="internal">oan or</ref>iginator may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-2" reftype="internal">dual l</ref>oan originator, <ref target="1026-36-a-3" reftype="term">compensation</ref> in the form of a contribution to a defined contribution plan that is a designated tax-advantaged plan or a benefit under a defined benefit plan that is a designated tax-advantaged plan. In the case of a contribution to a defined contribution plan, the contribution shall not be directly or indirectly based on the terms of that <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>'s transactions. As used in this paragraph (d)(1)(iii), “designated tax-advantaged plan” means any plan that meets the requirements of Internal Revenue Code section 401(a), 26 U.S.C. 401(a); employee annuity plan described in Internal Revenue Code section 403(a), 26 U.S.C. 403(a); simple retirement account, as defined in Internal Revenue Code section 408(p), 26 U.S.C. 408(p); simplified employee pension described in Internal Revenue Code section 408(k), 26 U.S.C. 408(k); annuity contract described in Internal Revenue Code section 403(b), 26 U.S.C. 403(b); or eligible deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> plan, as defined in Internal Revenue Code section 457(b), 26 U.S.C. 457(b).</content>
+            <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-1" reftype="internal">oan or</ref>iginator may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref><ref target="1026-36-d-2" reftype="internal">dual l</ref>oan originator, <ref target="1026-36-a-3" reftype="term">compensation</ref> in the form of a contribution to a defined contribution plan that is a designated tax-advantaged plan or a benefit under a defined benefit plan that is a designated tax-advantaged plan. In the case of a contribution to a defined contribution plan, the contribution shall not be directly or indirectly based on the terms of that <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>'s transactions. As used in this paragraph (d)(1)(iii), “<def term="designated tax-advantaged plan">designated tax-advantaged plan</def>” means any plan that meets the requirements of Internal Revenue Code section 401(a), 26 U.S.C. 401(a); employee annuity plan described in Internal Revenue Code section 403(a), 26 U.S.C. 403(a); simple retirement account, as defined in Internal Revenue Code section 408(p), 26 U.S.C. 408(p); simplified employee pension described in Internal Revenue Code section 408(k), 26 U.S.C. 408(k); annuity contract described in Internal Revenue Code section 403(b), 26 U.S.C. 403(b); or eligible deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> plan, as defined in Internal Revenue Code section 457(b), 26 U.S.C. 457(b).</content>
           </paragraph>
           <paragraph label="1026-36-d-1-iv" marker="(iv)">
             <content>An <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref> may receive, and a <ref target="1026-2-a-22" reftype="term">person</ref> may pay to an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>, <ref target="1026-36-a-3" reftype="term">compensation</ref> under a non-deferred profits-based <ref target="1026-36-a-3" reftype="term">compensation</ref> plan (i.e., any arrangement for the payment of non-deferred <ref target="1026-36-a-3" reftype="term">compensation</ref> that is determined with reference to the profits of the <ref target="1026-2-a-22" reftype="term">person</ref> from mortgage-related business), provided that:</content>
@@ -9667,7 +9667,6 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="deleted" label="1026-32-d-7-iii-Interp-1"/>
     <change operation="modified" label="1026-43-f-2">
       <paragraph label="1026-43-f-2" marker="(2)">
         <title type="keyterm">Post-consummation transfer of balloon-payment qualified mortgage.</title>
@@ -9747,9 +9746,9 @@
     <change operation="modified" label="1026-35-b-2">
       <paragraph label="1026-35-b-2" marker="(2)">
         <title type="keyterm">Prepayment penalties.</title>
-        <content>Exemptions. Notwithstanding paragraph (b)(1) of this section:<ref target="1026-32-d-6" reftype="internal"/></content>
+        <content>Exemptions. Notwithstanding paragraph (b)(1) of this section:</content>
         <paragraph label="1026-35-b-2-i" marker="(i)">
-          <content>An escrow account need not be established for:<ref target="1026-32-d-7" reftype="internal"/><ref target="1026-32-a" reftype="internal"/></content>
+          <content>An escrow account need not be established for:</content>
           <paragraph label="1026-35-b-2-i-A" marker="(A)">
             <content>A transaction secured by shares in a cooperative;</content>
           </paragraph>
@@ -9803,7 +9802,7 @@
     </change>
     <change operation="modified" label="1026-35-a-2">
       <paragraph label="1026-35-a-2" marker="(2)">
-        <content>“Average prime offer rate” means an annual percentage rate that is derived from average interest rates, points, and other loan pricing terms currently offered to <ref target="1026-2-a-11" reftype="term">consumers</ref> by a representative sample of <ref target="1026-2-a-17" reftype="term">creditors</ref> for mortgage transactions that have low-risk pricing characteristics. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> publishes average prime offer rates for a broad range of types of transactions in a table updated at least weekly as well as the methodology the <ref target="1026-2-a-5" reftype="term">Bureau</ref> uses to derive these rates.</content>
+        <content>“<def term="average prime offer rate">Average prime offer rate</def>” means an annual percentage rate that is derived from average interest rates, points, and other loan pricing terms currently offered to <ref target="1026-2-a-11" reftype="term">consumers</ref> by a representative sample of <ref target="1026-2-a-17" reftype="term">creditors</ref> for mortgage transactions that have low-risk pricing characteristics. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> publishes average prime offer rates for a broad range of types of transactions in a table updated at least weekly as well as the methodology the <ref target="1026-2-a-5" reftype="term">Bureau</ref> uses to derive these rates.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-43-e-3-ii">
@@ -9813,7 +9812,7 @@
     </change>
     <change operation="modified" label="1026-35-a-1">
       <paragraph label="1026-35-a-1" marker="(1)">
-        <content>“Higher-priced mortgage loan” means a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref><ref target="1026-35-b-3-v" reftype="internal">it transa</ref>ction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with an annual percentage rate that exceeds the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set:</content>
+        <content>“<def term="higher-priced mortgage loan">Higher-priced mortgage loan</def>” means a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref><ref target="1026-35-b-3-v" reftype="internal">it transa</ref>ction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with an annual percentage rate that exceeds the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set:</content>
         <paragraph label="1026-35-a-1-i" marker="(i)">
           <content>By 1.5 or more percentage points for loans secured by a first lien with a principal obligation at <ref target="1026-2-a-13" reftype="term">consummation</ref> that does not exceed the limit in effect as of the date the transaction's interest rate is set for the maximum principal obligation eligible for purchase by Freddie Mac;</content>
         </paragraph>

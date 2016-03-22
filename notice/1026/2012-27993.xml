@@ -18,5 +18,11 @@
     <effectiveDate>2013-01-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/articles/2012/11/21/2012-27993/truth-in-lending-regulation-z</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2012-28341" rightDocumentNumber="2012-27993"/>
+  <changeset leftDocumentNumber="2012-28341" rightDocumentNumber="2012-27993">
+    <change label="1026-3-b-Interp-1-iv" operation="added" parent="1026-3-b-Interp-1" after="1026-3-b-Interp-1-iii">
+      <interpParagraph label="1026-3-b-Interp-1-iv" marker="iv.">
+	<content>From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.</content>
+      </interpParagraph>
+    </change>
+  </changeset>
 </notice>
