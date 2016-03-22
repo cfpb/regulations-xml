@@ -135,11 +135,14 @@
             </paragraph>
             <paragraph label="1013-1-c" marker="(c)">
               <title type="keyterm">Enforcement and liability.</title>
-              <content>Section 108 of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> contains the administrative enforcement provisions. Sections 112, 130, 131, and 185 of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> contain the liability provisions for failing to comply with the requirements of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> and this part.</content>
+              <content>Section 108 of the <ref target="1013-2-a" reftype="term">Act</ref> contains the administrative enforcement provisions. Sections 112, 130, 131, and 185 of the <ref target="1013-2-a" reftype="term">Act</ref> contain the liability provisions for failing to comply with the requirements of the <ref target="1013-2-a" reftype="term">Act</ref> and this part.</content>
             </paragraph>
           </section>
           <section label="1013-2" sectionNum="2">
             <subject>§ 1013.2 Definitions.</subject>
+            <paragraph label="1005-2-p1" marker="none">
+              <content>For purposes of this part the following definitions apply:</content>
+            </paragraph>
             <paragraph label="1013-2-a" marker="(a)">
               <content><def term="act">Act</def> means the Truth in Lending Act (<ref target="USC:15-1601" reftype="external">15 U.S.C. 1601</ref> et seq.) and the Consumer Leasing Act is Chapter 5 of the Truth in Lending Act.</content>
             </paragraph>
@@ -241,7 +244,7 @@
             </paragraph>
             <paragraph label="1013-3-c" marker="(c)">
               <title type="keyterm">Multiple lessors or lessees.</title>
-              <content><ref target="1013-2-h" reftype="term">lessors</ref> or <ref target="1013-2-g" reftype="term">lessees</ref>. When a transaction involves more than one <ref target="1013-2-h" reftype="term">lessor</ref>, the disclosures required by this part may be made by one <ref target="1013-2-h" reftype="term">lessor</ref> on behalf of all the <ref target="1013-2-h" reftype="term">lessors</ref>. When a <ref target="1013-2-e-1" reftype="term">lease</ref> involves more than one <ref target="1013-2-g" reftype="term">lessee</ref>, the <ref target="1013-2-h" reftype="term">lessor</ref> may provide the disclosures to any <ref target="1013-2-g" reftype="term">lessee</ref> who is primarily liable on the <ref target="1013-2-e-1" reftype="term">lease</ref>.</content>
+              <content>When a transaction involves more than one <ref target="1013-2-h" reftype="term">lessor</ref>, the disclosures required by this part may be made by one <ref target="1013-2-h" reftype="term">lessor</ref> on behalf of all the <ref target="1013-2-h" reftype="term">lessors</ref>. When a <ref target="1013-2-e-1" reftype="term">lease</ref> involves more than one <ref target="1013-2-g" reftype="term">lessee</ref>, the <ref target="1013-2-h" reftype="term">lessor</ref> may provide the disclosures to any <ref target="1013-2-g" reftype="term">lessee</ref> who is primarily liable on the <ref target="1013-2-e-1" reftype="term">lease</ref>.</content>
             </paragraph>
             <paragraph label="1013-3-d" marker="(d)">
               <title type="keyterm">Use of estimates.</title>
@@ -270,13 +273,16 @@
           </section>
           <section label="1013-4" sectionNum="4">
             <subject>§ 1013.4 Content of disclosures.</subject>
+            <paragraph label="1013-4-p1" marker="none">
+              <content>For any <ref target="1013-2-e-1" reftype="term">consumer lease</ref> subject to this part, the <ref target="1013-2-h" reftype="term">lessor</ref> shall disclose the following information, as applicable:</content>
+            </paragraph>
             <paragraph label="1013-4-a" marker="(a)">
               <title type="keyterm">Description of property.</title>
               <content>A brief description of the leased property sufficient to identify the property to the <ref target="1013-2-g" reftype="term">lessee</ref> and <ref target="1013-2-h" reftype="term">lessor</ref>.</content>
             </paragraph>
             <paragraph label="1013-4-b" marker="(b)">
               <title type="keyterm">Amount due at lease signing or delivery.</title>
-              <content><ref target="1013-2-e-1" reftype="term">lease</ref> signing or delivery. The total amount to be paid prior to or at consummation or by delivery, if delivery occurs after consummation, using the term “amount due at <ref target="1013-2-e-1" reftype="term">lease</ref> signing or delivery.” The <ref target="1013-2-h" reftype="term">lessor</ref> shall itemize each component by type and amount, including any refundable <ref target="1013-2-o" reftype="term">security</ref> deposit, advance monthly or other periodic payment, and capitalized cost reduction; and in motor vehicle <ref target="1013-2-e-1" reftype="term">leases</ref>, shall itemize how the amount due will be paid, by type and amount, including any net trade-in allowance, rebates, noncash credits, and cash payments in a format substantially similar to the model forms in Appendix <ref target="1013-A" reftype="internal">A</ref> of this part.</content>
+              <content>The total amount to be paid prior to or at consummation or by delivery, if delivery occurs after consummation, using the term “amount due at <ref target="1013-2-e-1" reftype="term">lease</ref> signing or delivery.” The <ref target="1013-2-h" reftype="term">lessor</ref> shall itemize each component by type and amount, including any refundable <ref target="1013-2-o" reftype="term">security</ref> deposit, advance monthly or other periodic payment, and capitalized cost reduction; and in motor vehicle <ref target="1013-2-e-1" reftype="term">leases</ref>, shall itemize how the amount due will be paid, by type and amount, including any net trade-in allowance, rebates, noncash credits, and cash payments in a format substantially similar to the model forms in Appendix <ref target="1013-A" reftype="internal">A</ref> of this part.</content>
             </paragraph>
             <paragraph label="1013-4-c" marker="(c)">
               <title type="keyterm"> Payment schedule and total amount of periodic payments.</title>
@@ -292,10 +298,10 @@
             </paragraph>
             <paragraph label="1013-4-f" marker="(f)">
               <title type="keyterm">Payment calculation.</title>
-              <content>In a motor vehicle <ref target="1013-2-e-1" reftype="term">lease</ref>, a mathematical progression of how the scheduled periodic payment is derived, in a format substantially similar to the applicable model form in appendix <ref target="1013-A" reftype="internal">A</ref> of this part, which shall contain the following:</content>
+              <content>In a motor vehicle <ref target="1013-2-e-1" reftype="term">lease</ref>, a mathematical progression of how the scheduled periodic payment is derived, in a format substantially similar to the applicable model form in Appendix <ref target="1013-A" reftype="internal">A</ref> of this part, which shall contain the following:</content>
               <paragraph label="1013-4-f-1" marker="(1)">
                 <title type="keyterm">Gross capitalized cost.</title>
-                <content><ref target="1013-2-f" reftype="term">Gross capitalized cost</ref> The <ref target="1013-2-f" reftype="term">gross capitalized cost</ref>, including a disclosure of the agreed upon value of the vehicle, a description such as “the agreed upon value of the vehicle [state the amount] and any items you pay for over the <ref target="1013-2-e-1" reftype="term">lease</ref> term (such as service contracts, insurance, and any outstanding prior credit or <ref target="1013-2-e-1" reftype="term">lease</ref> balance),” and a statement of the <ref target="1013-2-g" reftype="term">lessee</ref>'s option to receive a separate written itemization of the <ref target="1013-2-f" reftype="term">gross capitalized cost</ref>. If requested by the <ref target="1013-2-g" reftype="term">lessee</ref>, the itemization shall be provided before consummation.</content>
+                <content>The <ref target="1013-2-f" reftype="term">gross capitalized cost</ref>, including a disclosure of the agreed upon value of the vehicle, a description such as “the agreed upon value of the vehicle [state the amount] and any items you pay for over the <ref target="1013-2-e-1" reftype="term">lease</ref> term (such as service contracts, insurance, and any outstanding prior credit or <ref target="1013-2-e-1" reftype="term">lease</ref> balance),” and a statement of the <ref target="1013-2-g" reftype="term">lessee</ref>'s option to receive a separate written itemization of the <ref target="1013-2-f" reftype="term">gross capitalized cost</ref>. If requested by the <ref target="1013-2-g" reftype="term">lessee</ref>, the itemization shall be provided before consummation.</content>
               </paragraph>
               <paragraph label="1013-4-f-2" marker="(2)">
                 <title type="keyterm">Capitalized cost reduction.</title>
@@ -307,7 +313,7 @@
               </paragraph>
               <paragraph label="1013-4-f-4" marker="(4)">
                 <title type="keyterm">Residual value.</title>
-                <content><ref target="1013-2-n" reftype="term">Residual value</ref> The <ref target="1013-2-n" reftype="term">residual value</ref>, with a description such as “the value of the vehicle at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> used in calculating your base [periodic] payment.”</content>
+                <content>The <ref target="1013-2-n" reftype="term">residual value</ref>, with a description such as “the value of the vehicle at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> used in calculating your base [periodic] payment.”</content>
               </paragraph>
               <paragraph label="1013-4-f-5" marker="(5)">
                 <title type="keyterm">Depreciation and any amortized amounts.</title>
@@ -323,7 +329,7 @@
               </paragraph>
               <paragraph label="1013-4-f-8" marker="(8)">
                 <title type="keyterm">Lease payments.</title>
-                <content><ref target="1013-2-e-1" reftype="term">Lease</ref> The <ref target="1013-2-e-1" reftype="term">lease</ref> payments with a description such as “the number of payments in your <ref target="1013-2-e-1" reftype="term">lease</ref>.”</content>
+                <content>The <ref target="1013-2-e-1" reftype="term">lease</ref> payments with a description such as “the number of payments in your <ref target="1013-2-e-1" reftype="term">lease</ref>.”</content>
               </paragraph>
               <paragraph label="1013-4-f-9" marker="(9)">
                 <title type="keyterm">Base periodic payment.</title>
@@ -371,7 +377,7 @@
               <content>A statement of whether or not the <ref target="1013-2-g" reftype="term">lessee</ref> has the option to purchase the leased property, and:</content>
               <paragraph label="1013-4-i-1" marker="(1)">
                 <title type="keyterm">End of lease term.</title>
-                <content><ref target="1013-2-e-1" reftype="term">lease</ref> term. If at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term, the purchase price; and</content>
+                <content>If at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term, the purchase price; and</content>
               </paragraph>
               <paragraph label="1013-4-i-2" marker="(2)">
                 <title type="keyterm">During lease term.</title>
@@ -384,7 +390,7 @@
             </paragraph>
             <paragraph label="1013-4-k" marker="(k)">
               <title type="keyterm">Liability between residual and realized values.</title>
-              <content><ref target="1013-2-m" reftype="term">realized values</ref>. A statement of the <ref target="1013-2-g" reftype="term">lessee</ref>'s liability, if any, at early termination or at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term for the difference between the <ref target="1013-2-n" reftype="term">residual value</ref> of the leased property and its <ref target="1013-2-m" reftype="term">realized value</ref>.</content>
+              <content>A statement of the <ref target="1013-2-g" reftype="term">lessee</ref>'s liability, if any, at early termination or at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term for the difference between the <ref target="1013-2-n" reftype="term">residual value</ref> of the leased property and its <ref target="1013-2-m" reftype="term">realized value</ref>.</content>
             </paragraph>
             <paragraph label="1013-4-l" marker="(l)">
               <title type="keyterm">Right of appraisal.</title>
@@ -392,7 +398,7 @@
             </paragraph>
             <paragraph label="1013-4-m" marker="(m)">
               <title type="keyterm">Liability at end of lease term based on residual value.</title>
-              <content><ref target="1013-2-e-1" reftype="term">lease</ref> term based on <ref target="1013-2-n" reftype="term">residual value</ref>. If the <ref target="1013-2-g" reftype="term">lessee</ref> is liable at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term for the difference between the <ref target="1013-2-n" reftype="term">residual value</ref> of the leased property and its <ref target="1013-2-m" reftype="term">realized value</ref>:</content>
+              <content>If the <ref target="1013-2-g" reftype="term">lessee</ref> is liable at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term for the difference between the <ref target="1013-2-n" reftype="term">residual value</ref> of the leased property and its <ref target="1013-2-m" reftype="term">realized value</ref>:</content>
               <paragraph label="1013-4-m-1" marker="(1)">
                 <title type="keyterm">Rent and other charges.</title>
                 <content>The rent and other charges, paid by the <ref target="1013-2-g" reftype="term">lessee</ref> and required by the <ref target="1013-2-h" reftype="term">lessor</ref> as an incident to the <ref target="1013-2-e-1" reftype="term">lease</ref> transaction, with a description such as “the total amount of rent and other charges imposed in connection with your <ref target="1013-2-e-1" reftype="term">lease</ref> [state the amount].”</content>
@@ -415,7 +421,7 @@
               <content>A brief identification of insurance in connection with the <ref target="1013-2-e-1" reftype="term">lease</ref> including:</content>
               <paragraph label="1013-4-o-1" marker="(1)">
                 <title type="keyterm">Through the lessor.</title>
-                <content><ref target="1013-2-h" reftype="term">lessor</ref>. If the insurance is provided by or paid through the <ref target="1013-2-h" reftype="term">lessor</ref>, the types and amounts of coverage and the cost to the <ref target="1013-2-g" reftype="term">lessee</ref>; or</content>
+                <content>If the insurance is provided by or paid through the <ref target="1013-2-h" reftype="term">lessor</ref>, the types and amounts of coverage and the cost to the <ref target="1013-2-g" reftype="term">lessee</ref>; or</content>
               </paragraph>
               <paragraph label="1013-4-o-2" marker="(2)">
                 <title type="keyterm">Through a third party.</title>
@@ -432,7 +438,7 @@
             </paragraph>
             <paragraph label="1013-4-r" marker="(r)">
               <title type="keyterm">Security interest.</title>
-              <content><ref target="1013-2-o" reftype="term">Security interest</ref> A description of any <ref target="1013-2-o" reftype="term">security interest</ref>, other than a <ref target="1013-2-o" reftype="term">security</ref> deposit disclosed under paragraph <ref target="1013-4-b" reftype="internal">(b)</ref> of this section, held or to be retained by the <ref target="1013-2-h" reftype="term">lessor</ref>; and a clear identification of the property to which the <ref target="1013-2-o" reftype="term">security interest</ref> relates.</content>
+              <content>A description of any <ref target="1013-2-o" reftype="term">security interest</ref>, other than a <ref target="1013-2-o" reftype="term">security</ref> deposit disclosed under paragraph <ref target="1013-4-b" reftype="internal">(b)</ref> of this section, held or to be retained by the <ref target="1013-2-h" reftype="term">lessor</ref>; and a clear identification of the property to which the <ref target="1013-2-o" reftype="term">security interest</ref> relates.</content>
             </paragraph>
             <paragraph label="1013-4-s" marker="(s)">
               <title type="keyterm">Limitations on rate information.</title>
@@ -440,7 +446,7 @@
             </paragraph>
             <paragraph label="1013-4-t" marker="(t)">
               <title type="keyterm">Non-motor vehicle open-end leases.</title>
-              <content><ref target="1013-2-i" reftype="term">open-end leases</ref>. Non-motor vehicle <ref target="1013-2-i" reftype="term">open-end leases</ref> remain subject to section 182(10) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> regarding end of term liability.</content>
+              <content>Non-motor vehicle <ref target="1013-2-i" reftype="term">open-end leases</ref> remain subject to section 182(10) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> regarding end of term liability.</content>
             </paragraph>
           </section>
           <section label="1013-5" sectionNum="5">
@@ -495,22 +501,20 @@
               <content>Disclosures required by this section shall be made clearly and conspicuously.</content>
               <paragraph label="1013-7-b-1" marker="(1)">
                 <title type="keyterm">Amount due at lease signing or delivery.</title>
-                <content><ref target="1013-2-e-1" reftype="term">lease</ref> signing or delivery. Except for the statement of a periodic payment, any affirmative or negative reference to a charge that is a part of the disclosure required under paragraph <ref target="1013-7-d-2-ii" reftype="internal">(d)(2)(ii)</ref> of this section shall not be more prominent than that disclosure.</content>
+                <content>Except for the statement of a periodic payment, any affirmative or negative reference to a charge that is a part of the disclosure required under paragraph <ref target="1013-7-d-2-ii" reftype="internal">(d)(2)(ii)</ref> of this section shall not be more prominent than that disclosure.</content>
               </paragraph>
               <paragraph label="1013-7-b-2" marker="(2)">
                 <title type="keyterm">Advertisement of a lease rate.</title>
-                <content><ref target="1013-2-b" reftype="term">Advertisement</ref><ref target="1013-2-e-1" reftype="term">lease</ref> rate. If a <ref target="1013-2-h" reftype="term">lessor</ref> provides a percentage rate in an <ref target="1013-2-b" reftype="term">advertisement</ref>, the rate shall not be more prominent than any of the disclosures in § <ref target="1013-4" reftype="internal">1013.4</ref>, with the exception of the notice in § <ref target="1013-4-s" reftype="internal">1013.4(s)</ref> required to accompany the rate; and the <ref target="1013-2-h" reftype="term">lessor</ref> shall not use the term “annual percentage rate,” “annual <ref target="1013-2-e-1" reftype="term">lease</ref> rate,” or equivalent term.</content>
+                <content>If a <ref target="1013-2-h" reftype="term">lessor</ref> provides a percentage rate in an <ref target="1013-2-b" reftype="term">advertisement</ref>, the rate shall not be more prominent than any of the disclosures in § <ref target="1013-4" reftype="internal">1013.4</ref>, with the exception of the notice in § <ref target="1013-4-s" reftype="internal">1013.4(s)</ref> required to accompany the rate; and the <ref target="1013-2-h" reftype="term">lessor</ref> shall not use the term “annual percentage rate,” “annual <ref target="1013-2-e-1" reftype="term">lease</ref> rate,” or equivalent term.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1013-7-c" marker="(c)">
               <title type="keyterm">Catalogs or other multipage advertisements; electronic advertisements.</title>
-              <content><ref target="1013-2-b" reftype="term">advertisements</ref>; electronic <ref target="1013-2-b" reftype="term">advertisements</ref>. A catalog or other multipage <ref target="1013-2-b" reftype="term">advertisement</ref>, or an electronic <ref target="1013-2-b" reftype="term">advertisement</ref> (such as an <ref target="1013-2-b" reftype="term">advertisement</ref> appearing on an Internet Web site), that provides a table or schedule of the required disclosures shall be considered a single <ref target="1013-2-b" reftype="term">advertisement</ref> if, for <ref target="1013-2-e-1" reftype="term">lease</ref> terms that appear without all the required disclosures, the <ref target="1013-2-b" reftype="term">advertisement</ref> refers to the page or pages on which the table or schedule appears.</content>
+              <content>A catalog or other multipage <ref target="1013-2-b" reftype="term">advertisement</ref>, or an electronic <ref target="1013-2-b" reftype="term">advertisement</ref> (such as an <ref target="1013-2-b" reftype="term">advertisement</ref> appearing on an Internet Web site), that provides a table or schedule of the required disclosures shall be considered a single <ref target="1013-2-b" reftype="term">advertisement</ref> if, for <ref target="1013-2-e-1" reftype="term">lease</ref> terms that appear without all the required disclosures, the <ref target="1013-2-b" reftype="term">advertisement</ref> refers to the page or pages on which the table or schedule appears.</content>
             </paragraph>
             <paragraph label="1013-7-d" marker="(d)">
               <title type="keyterm">Advertisement of terms that require additional disclosure.</title>
-              <content>
-                <ref target="1013-2-b" reftype="term">Advertisement</ref>
-              </content>
+              <content/>
               <paragraph label="1013-7-d-1" marker="(1)">
                 <title type="keyterm">Triggering terms.</title>
                 <content>An <ref target="1013-2-b" reftype="term">advertisement</ref> that states any of the following items shall contain the disclosures required by paragraph <ref target="1013-7-d-2" reftype="internal">(d)(2)</ref> of this section, except as provided in paragraphs <ref target="1013-7-e" reftype="internal">(e)</ref> and <ref target="1013-7-f" reftype="internal">(f)</ref> of this section:</content>
@@ -550,7 +554,7 @@
               <content>—</content>
               <paragraph label="1013-7-f-1" marker="(1)">
                 <title type="keyterm">Toll-free number or print advertisement.</title>
-                <content><ref target="1013-2-b" reftype="term">advertisement</ref>. An <ref target="1013-2-b" reftype="term">advertisement</ref> made through television or radio stating any item listed in paragraph <ref target="1013-7-d-1" reftype="internal">(d)(1)</ref> of this section complies with paragraph <ref target="1013-7-d-2" reftype="internal">(d)(2)</ref> of this section if the <ref target="1013-2-b" reftype="term">advertisement</ref> states the items listed in paragraphs <ref target="1013-7-d-2-i" reftype="internal">(d)(2)(i)</ref> through <ref target="1013-7-d-2-iii" reftype="internal">(iii)</ref> of this section, and:</content>
+                <content>An <ref target="1013-2-b" reftype="term">advertisement</ref> made through television or radio stating any item listed in paragraph <ref target="1013-7-d-1" reftype="internal">(d)(1)</ref> of this section complies with paragraph <ref target="1013-7-d-2" reftype="internal">(d)(2)</ref> of this section if the <ref target="1013-2-b" reftype="term">advertisement</ref> states the items listed in paragraphs <ref target="1013-7-d-2-i" reftype="internal">(d)(2)(i)</ref> through <ref target="1013-7-d-2-iii" reftype="internal">(iii)</ref> of this section, and:</content>
                 <paragraph label="1013-7-f-1-i" marker="(i)">
                   <content>Lists a toll-free telephone number along with a reference that such number may be used by consumers to obtain the information required by paragraph <ref target="1013-7-d-2" reftype="internal">(d)(2)</ref> of this section; or</content>
                 </paragraph>
@@ -580,14 +584,14 @@
             <subject>§ 1013.9 Relation to state laws.</subject>
             <paragraph label="1013-9-a" marker="(a)">
               <title type="keyterm">Inconsistent state law.</title>
-              <content><ref target="1013-2-p" reftype="term">state</ref> law. A <ref target="1013-2-p" reftype="term">state</ref> law that is inconsistent with the requirements of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> and this part is preempted to the extent of the inconsistency. If a <ref target="1013-2-h" reftype="term">lessor</ref> cannot comply with a <ref target="1013-2-p" reftype="term">state</ref> law without violating a provision of this part, the <ref target="1013-2-p" reftype="term">state</ref> law is inconsistent within the meaning of section 186(a) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> and is preempted, unless the <ref target="1013-2-p" reftype="term">state</ref> law gives greater protection and benefit to the consumer. A <ref target="1013-2-p" reftype="term">state</ref>, through an official having primary enforcement or interpretative responsibilities for the <ref target="1013-2-p" reftype="term">state</ref> consumer leasing law, may apply to the <ref target="1013-2-c" reftype="term">Bureau</ref> for a preemption determination.</content>
+              <content>A <ref target="1013-2-p" reftype="term">state</ref> law that is inconsistent with the requirements of the <ref target="1013-2-a" reftype="term">Act</ref> and this part is preempted to the extent of the inconsistency. If a <ref target="1013-2-h" reftype="term">lessor</ref> cannot comply with a <ref target="1013-2-p" reftype="term">state</ref> law without violating a provision of this part, the <ref target="1013-2-p" reftype="term">state</ref> law is inconsistent within the meaning of section 186(a) of the <ref target="1013-2-a" reftype="term">Act</ref> and is preempted, unless the <ref target="1013-2-p" reftype="term">state</ref> law gives greater protection and benefit to the consumer. A <ref target="1013-2-p" reftype="term">state</ref>, through an official having primary enforcement or interpretative responsibilities for the <ref target="1013-2-p" reftype="term">state</ref> consumer leasing law, may apply to the <ref target="1013-2-c" reftype="term">Bureau</ref> for a preemption determination.</content>
             </paragraph>
             <paragraph label="1013-9-b" marker="(b)">
               <title type="keyterm">Exemptions</title>
               <content>—</content>
               <paragraph label="1013-9-b-1" marker="(1)">
                 <title type="keyterm">Application.</title>
-                <content>A <ref target="1013-2-p" reftype="term">state</ref> may apply to the <ref target="1013-2-c" reftype="term">Bureau</ref> for an exemption from the requirements of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> and this part for any class of <ref target="1013-2-e-1" reftype="term">lease</ref> transactions within the <ref target="1013-2-p" reftype="term">state</ref>. The <ref target="1013-2-c" reftype="term">Bureau</ref> will grant such an exemption if the <ref target="1013-2-c" reftype="term">Bureau</ref> determines that:</content>
+                <content>A <ref target="1013-2-p" reftype="term">state</ref> may apply to the <ref target="1013-2-c" reftype="term">Bureau</ref> for an exemption from the requirements of the <ref target="1013-2-a" reftype="term">Act</ref> and this part for any class of <ref target="1013-2-e-1" reftype="term">lease</ref> transactions within the <ref target="1013-2-p" reftype="term">state</ref>. The <ref target="1013-2-c" reftype="term">Bureau</ref> will grant such an exemption if the <ref target="1013-2-c" reftype="term">Bureau</ref> determines that:</content>
                 <paragraph label="1013-9-b-1-i" marker="(i)">
                   <content>The class of leasing transactions is subject to <ref target="1013-2-p" reftype="term">state</ref> law requirements substantially similar to <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> and this part or that <ref target="1013-2-g" reftype="term">lessees</ref> are afforded greater protection under <ref target="1013-2-p" reftype="term">state</ref> law; and</content>
                 </paragraph>
@@ -597,7 +601,7 @@
               </paragraph>
               <paragraph label="1013-9-b-2" marker="(2)">
                 <title type="keyterm">Enforcement and liability.</title>
-                <content>After an exemption has been granted, the requirements of the applicable <ref target="1013-2-p" reftype="term">state</ref> law (except for additional requirements not imposed by Federal law) will constitute the requirements of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> and this part. No exemption will extend to the civil liability provisions of sections 130, 131, and 185 of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref>.</content>
+                <content>After an exemption has been granted, the requirements of the applicable <ref target="1013-2-p" reftype="term">state</ref> law (except for additional requirements not imposed by Federal law) will constitute the requirements of the <ref target="1013-2-a" reftype="term">Act</ref> and this part. No exemption will extend to the civil liability provisions of sections 130, 131, and 185 of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref>.</content>
               </paragraph>
             </paragraph>
           </section>
@@ -772,7 +776,7 @@
             </interpParagraph>
             <interpParagraph label="1013-2-b-Interp-3" marker="3.">
               <title type="keyterm">Persons covered.</title>
-              <content><ref target="1013-2-k" reftype="term">Persons</ref> See the commentary to § <ref target="1013-7-a-Interp" reftype="internal">1013.7(a)</ref>.</content>
+              <content>See the commentary to § <ref target="1013-7-a-Interp" reftype="internal">1013.7(a)</ref>.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-2-d-Interp" target="1013-2-d">
@@ -826,11 +830,11 @@
             </interpParagraph>
             <interpParagraph label="1013-2-e-Interp-6" marker="6.">
               <title type="keyterm">Organization or other entity.</title>
-              <content><ref target="1013-2-j" reftype="term">Organization</ref> A <ref target="1013-2-e-1" reftype="term">consumer lease</ref> does not include a <ref target="1013-2-e-1" reftype="term">lease</ref> made to an <ref target="1013-2-j" reftype="term">organization</ref> such as a corporation or a government agency or instrumentality. Such a <ref target="1013-2-e-1" reftype="term">lease</ref> is not covered by the regulation even if the leased property is used (by an employee, for example) primarily for personal, family or household purposes, or is guaranteed by or subsequently assigned to a natural <ref target="1013-2-k" reftype="term">person</ref>.</content>
+              <content>A <ref target="1013-2-e-1" reftype="term">consumer lease</ref> does not include a <ref target="1013-2-e-1" reftype="term">lease</ref> made to an <ref target="1013-2-j" reftype="term">organization</ref> such as a corporation or a government agency or instrumentality. Such a <ref target="1013-2-e-1" reftype="term">lease</ref> is not covered by the regulation even if the leased property is used (by an employee, for example) primarily for personal, family or household purposes, or is guaranteed by or subsequently assigned to a natural <ref target="1013-2-k" reftype="term">person</ref>.</content>
             </interpParagraph>
             <interpParagraph label="1013-2-e-Interp-7" marker="7.">
               <title type="keyterm">Leases of personal property incidental to a service.</title>
-              <content><ref target="1013-2-e-1" reftype="term">Leases</ref><ref target="1013-2-l" reftype="term">personal property</ref> incidental to a service. The following <ref target="1013-2-e-1" reftype="term">leases</ref> of <ref target="1013-2-l" reftype="term">personal property</ref> are deemed incidental to a service and thus are not subject to the regulation:</content>
+              <content>The following <ref target="1013-2-e-1" reftype="term">leases</ref> of <ref target="1013-2-l" reftype="term">personal property</ref> are deemed incidental to a service and thus are not subject to the regulation:</content>
               <interpParagraph label="1013-2-e-Interp-7-i" marker="i.">
                 <content>Home entertainment systems requiring the consumer to <ref target="1013-2-e-1" reftype="term">lease</ref> equipment that enables a television to receive the transmitted programming.</content>
               </interpParagraph>
@@ -884,7 +888,7 @@
             <content/>
             <interpParagraph label="1013-2-h-Interp-1" marker="1.">
               <title type="keyterm">Arranger of a lease.</title>
-              <content><ref target="1013-2-e-1" reftype="term">lease</ref>. To “arrange” for the <ref target="1013-2-e-1" reftype="term">lease</ref> of <ref target="1013-2-l" reftype="term">personal property</ref> means to provide or offer to provide a <ref target="1013-2-e-1" reftype="term">lease</ref> that is or will be extended by another <ref target="1013-2-k" reftype="term">person</ref> under a business or other relationship pursuant to which the <ref target="1013-2-k" reftype="term">person</ref> arranging the <ref target="1013-2-e-1" reftype="term">lease</ref> (a) receives or will receive a fee, compensation, or other consideration for the service or (b) has knowledge of the <ref target="1013-2-e-1" reftype="term">lease</ref> terms and participates in the preparation of the contract documents required in connection with the <ref target="1013-2-e-1" reftype="term">lease</ref>. To illustrate:</content>
+              <content>To “arrange” for the <ref target="1013-2-e-1" reftype="term">lease</ref> of <ref target="1013-2-l" reftype="term">personal property</ref> means to provide or offer to provide a <ref target="1013-2-e-1" reftype="term">lease</ref> that is or will be extended by another <ref target="1013-2-k" reftype="term">person</ref> under a business or other relationship pursuant to which the <ref target="1013-2-k" reftype="term">person</ref> arranging the <ref target="1013-2-e-1" reftype="term">lease</ref> (a) receives or will receive a fee, compensation, or other consideration for the service or (b) has knowledge of the <ref target="1013-2-e-1" reftype="term">lease</ref> terms and participates in the preparation of the contract documents required in connection with the <ref target="1013-2-e-1" reftype="term">lease</ref>. To illustrate:</content>
               <interpParagraph label="1013-2-h-Interp-1-i" marker="i.">
                 <content>An entity that, pursuant to a business relationship, completes the necessary <ref target="1013-2-e-1" reftype="term">lease</ref> agreement before forwarding it for execution to the leasing company (to whom the obligation is payable on its face) is “arranging” for the <ref target="1013-2-e-1" reftype="term">lease</ref>.</content>
               </interpParagraph>
@@ -902,7 +906,7 @@
             </interpParagraph>
             <interpParagraph label="1013-2-h-Interp-4" marker="4.">
               <title type="keyterm">Multiple lessors.</title>
-              <content><ref target="1013-2-h" reftype="term">lessors</ref>. See the commentary to § <ref target="1013-3-c-Interp" reftype="internal">1013.3(c)</ref>.</content>
+              <content>See the commentary to § <ref target="1013-3-c-Interp" reftype="internal">1013.3(c)</ref>.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-2-j-Interp" target="1013-2-j">
@@ -934,7 +938,7 @@
             </interpParagraph>
             <interpParagraph label="1013-2-m-Interp-3" marker="3.">
               <title type="keyterm">Determination of realized value.</title>
-              <content><ref target="1013-2-m" reftype="term">realized value</ref>. Disposition charges are not subtracted in determining the <ref target="1013-2-m" reftype="term">realized value</ref> but amounts attributable to taxes may be subtracted.</content>
+              <content>Disposition charges are not subtracted in determining the <ref target="1013-2-m" reftype="term">realized value</ref> but amounts attributable to taxes may be subtracted.</content>
             </interpParagraph>
             <interpParagraph label="1013-2-m-Interp-4" marker="4.">
               <title type="keyterm">Offers.</title>
@@ -942,7 +946,7 @@
             </interpParagraph>
             <interpParagraph label="1013-2-m-Interp-5" marker="5.">
               <title type="keyterm">Lessor's appraisal.</title>
-              <content><ref target="1013-2-h" reftype="term">Lessor</ref> See commentary to § <ref target="1013-4-l-Interp" reftype="internal">1013.4(l)</ref>.</content>
+              <content>See commentary to § <ref target="1013-4-l-Interp" reftype="internal">1013.4(l)</ref>.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-2-o-Interp" target="1013-2-o">
@@ -1008,15 +1012,15 @@
               </interpParagraph>
               <interpParagraph label="1013-3-a-1-Interp-3" marker="3.">
                 <title type="keyterm">Lessor's address.</title>
-                <content><ref target="1013-2-h" reftype="term">Lessor</ref> The <ref target="1013-2-h" reftype="term">lessor</ref> must be identified by name; an address (and telephone number) may be provided.</content>
+                <content>The <ref target="1013-2-h" reftype="term">lessor</ref> must be identified by name; an address (and telephone number) may be provided.</content>
               </interpParagraph>
               <interpParagraph label="1013-3-a-1-Interp-4" marker="4.">
                 <title type="keyterm">Multiple lessors and lessees.</title>
-                <content><ref target="1013-2-h" reftype="term">lessors</ref> and <ref target="1013-2-g" reftype="term">lessees</ref>. In transactions involving multiple <ref target="1013-2-h" reftype="term">lessors</ref> and multiple <ref target="1013-2-g" reftype="term">lessees</ref>, a single <ref target="1013-2-h" reftype="term">lessor</ref> may make all the disclosures to a single <ref target="1013-2-g" reftype="term">lessee</ref> as long as the disclosure statement identifies all the <ref target="1013-2-h" reftype="term">lessors</ref> and <ref target="1013-2-g" reftype="term">lessees</ref>.</content>
+                <content>In transactions involving multiple <ref target="1013-2-h" reftype="term">lessors</ref> and multiple <ref target="1013-2-g" reftype="term">lessees</ref>, a single <ref target="1013-2-h" reftype="term">lessor</ref> may make all the disclosures to a single <ref target="1013-2-g" reftype="term">lessee</ref> as long as the disclosure statement identifies all the <ref target="1013-2-h" reftype="term">lessors</ref> and <ref target="1013-2-g" reftype="term">lessees</ref>.</content>
               </interpParagraph>
               <interpParagraph label="1013-3-a-1-Interp-5" marker="5.">
                 <title type="keyterm">Lessee's signature.</title>
-                <content><ref target="1013-2-g" reftype="term">Lessee</ref> The regulation does not require that the <ref target="1013-2-g" reftype="term">lessee</ref> sign the disclosure statement, whether disclosures are separately provided or are part of the <ref target="1013-2-e-1" reftype="term">lease</ref> contract. Nevertheless, to provide evidence that disclosures are given before a <ref target="1013-2-g" reftype="term">lessee</ref> becomes obligated on the <ref target="1013-2-e-1" reftype="term">lease</ref> transaction, the <ref target="1013-2-h" reftype="term">lessor</ref> may, for example, ask the <ref target="1013-2-g" reftype="term">lessee</ref> to sign the disclosure statement or an acknowledgement of receipt, may place disclosures that are included in the <ref target="1013-2-e-1" reftype="term">lease</ref> documents above the <ref target="1013-2-g" reftype="term">lessee</ref>'s signature, or include instructions alerting a <ref target="1013-2-g" reftype="term">lessee</ref> to read the disclosures prior to signing the <ref target="1013-2-e-1" reftype="term">lease</ref>.</content>
+                <content>The regulation does not require that the <ref target="1013-2-g" reftype="term">lessee</ref> sign the disclosure statement, whether disclosures are separately provided or are part of the <ref target="1013-2-e-1" reftype="term">lease</ref> contract. Nevertheless, to provide evidence that disclosures are given before a <ref target="1013-2-g" reftype="term">lessee</ref> becomes obligated on the <ref target="1013-2-e-1" reftype="term">lease</ref> transaction, the <ref target="1013-2-h" reftype="term">lessor</ref> may, for example, ask the <ref target="1013-2-g" reftype="term">lessee</ref> to sign the disclosure statement or an acknowledgement of receipt, may place disclosures that are included in the <ref target="1013-2-e-1" reftype="term">lease</ref> documents above the <ref target="1013-2-g" reftype="term">lessee</ref>'s signature, or include instructions alerting a <ref target="1013-2-g" reftype="term">lessee</ref> to read the disclosures prior to signing the <ref target="1013-2-e-1" reftype="term">lease</ref>.</content>
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1013-3-a-2-Interp" target="1013-3-a-2">
@@ -1049,7 +1053,7 @@
             <content/>
             <interpParagraph label="1013-3-b-Interp-1" marker="1.">
               <title type="keyterm">State law disclosures.</title>
-              <content><ref target="1013-2-p" reftype="term">State</ref> A <ref target="1013-2-h" reftype="term">lessor</ref> may include in the nonsegregated disclosures any <ref target="1013-2-p" reftype="term">state</ref> law disclosures that are not inconsistent with <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> and regulation under § <ref target="1013-9" reftype="internal">1013.9</ref> as long as, in accordance with the standard set forth in § <ref target="1013-3-b" reftype="internal">1013.3(b)</ref> for additional information, the <ref target="1013-2-p" reftype="term">state</ref> law disclosures are not used or placed to mislead or confuse or detract from any disclosure required by the regulation.</content>
+              <content>A <ref target="1013-2-h" reftype="term">lessor</ref> may include in the nonsegregated disclosures any <ref target="1013-2-p" reftype="term">state</ref> law disclosures that are not inconsistent with the <ref target="1013-2-a" reftype="term">Act</ref> and regulation under § <ref target="1013-9" reftype="internal">1013.9</ref> as long as, in accordance with the standard set forth in § <ref target="1013-3-b" reftype="internal">1013.3(b)</ref> for additional information, the <ref target="1013-2-p" reftype="term">state</ref> law disclosures are not used or placed to mislead or confuse or detract from any disclosure required by the regulation.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-3-c-Interp" target="1013-3-c">
@@ -1057,7 +1061,7 @@
             <content/>
             <interpParagraph label="1013-3-c-Interp-1" marker="1.">
               <title type="keyterm">Multiple lessors.</title>
-              <content><ref target="1013-2-h" reftype="term">lessors</ref>. If a single <ref target="1013-2-h" reftype="term">lessor</ref> provides disclosures to a <ref target="1013-2-g" reftype="term">lessee</ref> on behalf of several <ref target="1013-2-h" reftype="term">lessors</ref>, all disclosures for the transaction must be given, even if the <ref target="1013-2-h" reftype="term">lessor</ref> making the disclosures would not otherwise have been obligated to make a particular disclosure.</content>
+              <content>If a single <ref target="1013-2-h" reftype="term">lessor</ref> provides disclosures to a <ref target="1013-2-g" reftype="term">lessee</ref> on behalf of several <ref target="1013-2-h" reftype="term">lessors</ref>, all disclosures for the transaction must be given, even if the <ref target="1013-2-h" reftype="term">lessor</ref> making the disclosures would not otherwise have been obligated to make a particular disclosure.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-3-d-Interp" target="1013-3-d">
@@ -1073,7 +1077,7 @@
             </interpParagraph>
             <interpParagraph label="1013-3-d-Interp-3" marker="3.">
               <title type="keyterm">Residual value of leased property at termination.</title>
-              <content><ref target="1013-2-n" reftype="term">Residual value</ref> In an <ref target="1013-2-i" reftype="term">open-end lease</ref> where the <ref target="1013-2-g" reftype="term">lessee</ref>'s liability at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term is based on the <ref target="1013-2-n" reftype="term">residual value</ref> of the leased property as determined at consummation, the estimate of the <ref target="1013-2-n" reftype="term">residual value</ref> must be reasonable and based on the best information reasonably available to the <ref target="1013-2-h" reftype="term">lessor</ref> (see § <ref target="1013-4-m" reftype="internal">1013.4(m)</ref>). A <ref target="1013-2-h" reftype="term">lessor</ref> should generally use an accepted trade publication listing estimated current or future market prices for the leased property unless other information or a reasonable belief based on its experience provides the better information. For example:</content>
+              <content>In an <ref target="1013-2-i" reftype="term">open-end lease</ref> where the <ref target="1013-2-g" reftype="term">lessee</ref>'s liability at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term is based on the <ref target="1013-2-n" reftype="term">residual value</ref> of the leased property as determined at consummation, the estimate of the <ref target="1013-2-n" reftype="term">residual value</ref> must be reasonable and based on the best information reasonably available to the <ref target="1013-2-h" reftype="term">lessor</ref> (see § <ref target="1013-4-m" reftype="internal">1013.4(m)</ref>). A <ref target="1013-2-h" reftype="term">lessor</ref> should generally use an accepted trade publication listing estimated current or future market prices for the leased property unless other information or a reasonable belief based on its experience provides the better information. For example:</content>
               <interpParagraph label="1013-3-d-Interp-3-i" marker="i.">
                 <content>An automobile <ref target="1013-2-h" reftype="term">lessor</ref> offering a three-year <ref target="1013-2-i" reftype="term">open-end lease</ref> assigns a wholesale value to the vehicle at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term. The <ref target="1013-2-h" reftype="term">lessor</ref> may disclose as an estimate a wholesale value derived from a generally accepted trade publication listing current wholesale values.</content>
               </interpParagraph>
@@ -1115,7 +1119,7 @@
             </interpParagraph>
             <interpParagraph label="1013-3-e-Interp-3" marker="3.">
               <title type="keyterm">Lessee's failure to perform.</title>
-              <content><ref target="1013-2-g" reftype="term">Lessee</ref> The <ref target="1013-2-h" reftype="term">lessor</ref> does not violate the regulation if a previously given disclosure becomes inaccurate when a <ref target="1013-2-g" reftype="term">lessee</ref> fails to perform obligations under the contract and a <ref target="1013-2-h" reftype="term">lessor</ref> takes actions that are necessary and proper in such circumstances to protect its interest. For example, the addition of insurance or a <ref target="1013-2-o" reftype="term">security interest</ref> by the <ref target="1013-2-h" reftype="term">lessor</ref> because the <ref target="1013-2-g" reftype="term">lessee</ref> has not performed obligations contracted for in the <ref target="1013-2-e-1" reftype="term">lease</ref> is not a violation of the regulation.</content>
+              <content>The <ref target="1013-2-h" reftype="term">lessor</ref> does not violate the regulation if a previously given disclosure becomes inaccurate when a <ref target="1013-2-g" reftype="term">lessee</ref> fails to perform obligations under the contract and a <ref target="1013-2-h" reftype="term">lessor</ref> takes actions that are necessary and proper in such circumstances to protect its interest. For example, the addition of insurance or a <ref target="1013-2-o" reftype="term">security interest</ref> by the <ref target="1013-2-h" reftype="term">lessor</ref> because the <ref target="1013-2-g" reftype="term">lessee</ref> has not performed obligations contracted for in the <ref target="1013-2-e-1" reftype="term">lease</ref> is not a violation of the regulation.</content>
             </interpParagraph>
           </interpParagraph>
         </interpSection>
@@ -1204,7 +1208,7 @@
             </interpParagraph>
             <interpParagraph label="1013-4-d-Interp-5" marker="5.">
               <title type="keyterm">Lessee's liabilities at the end of the lease term.</title>
-              <content><ref target="1013-2-g" reftype="term">Lessee</ref><ref target="1013-2-e-1" reftype="term">lease</ref> term. Liabilities that the <ref target="1013-2-h" reftype="term">lessor</ref> imposes upon the <ref target="1013-2-g" reftype="term">lessee</ref> at the end of the scheduled <ref target="1013-2-e-1" reftype="term">lease</ref> term and that must be disclosed under § <ref target="1013-4-d" reftype="internal">1013.4(d)</ref> include disposition and “pick-up” charges.</content>
+              <content>Liabilities that the <ref target="1013-2-h" reftype="term">lessor</ref> imposes upon the <ref target="1013-2-g" reftype="term">lessee</ref> at the end of the scheduled <ref target="1013-2-e-1" reftype="term">lease</ref> term and that must be disclosed under § <ref target="1013-4-d" reftype="internal">1013.4(d)</ref> include disposition and “pick-up” charges.</content>
             </interpParagraph>
             <interpParagraph label="1013-4-d-Interp-6" marker="6.">
               <title type="keyterm">Optional “disposition” charges.</title>
@@ -1216,7 +1220,7 @@
             <content/>
             <interpParagraph label="1013-4-e-Interp-1" marker="1.">
               <title type="keyterm">Open-end lease.</title>
-              <content><ref target="1013-2-i" reftype="term">Open-end lease</ref> The additional statement is required under § <ref target="1013-4-e" reftype="internal">1013.4(e)</ref> for <ref target="1013-2-i" reftype="term">open-end leases</ref> because, with some limitations, a <ref target="1013-2-g" reftype="term">lessee</ref> is liable at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term for the difference between the residual and <ref target="1013-2-m" reftype="term">realized values</ref> of the leased property.</content>
+              <content>The additional statement is required under § <ref target="1013-4-e" reftype="internal">1013.4(e)</ref> for <ref target="1013-2-i" reftype="term">open-end leases</ref> because, with some limitations, a <ref target="1013-2-g" reftype="term">lessee</ref> is liable at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term for the difference between the residual and <ref target="1013-2-m" reftype="term">realized values</ref> of the leased property.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-4-f-Interp" target="1013-4-f">
@@ -1224,7 +1228,7 @@
             <content/>
             <interpParagraph label="1013-4-f-Interp-1" marker="1.">
               <title type="keyterm">Motor vehicle lease.</title>
-              <content><ref target="1013-2-e-1" reftype="term">lease</ref>. Whether leased property is a motor vehicle is determined by <ref target="1013-2-p" reftype="term">state</ref> or other applicable law.</content>
+              <content>Whether leased property is a motor vehicle is determined by <ref target="1013-2-p" reftype="term">state</ref> or other applicable law.</content>
             </interpParagraph>
             <interpParagraph label="1013-4-f-Interp-2" marker="2.">
               <title type="keyterm">Multiple items.</title>
@@ -1239,7 +1243,7 @@
               </interpParagraph>
               <interpParagraph label="1013-4-f-1-Interp-2" marker="2.">
                 <title type="keyterm">Itemization of the gross capitalized cost.</title>
-                <content><ref target="1013-2-f" reftype="term">gross capitalized cost</ref>. The <ref target="1013-2-h" reftype="term">lessor</ref> may choose to provide the itemization of the <ref target="1013-2-f" reftype="term">gross capitalized cost</ref> only on request or may provide the itemization as a matter of course. In the latter case, the <ref target="1013-2-h" reftype="term">lessor</ref> need not provide a statement of the <ref target="1013-2-g" reftype="term">lessee</ref>'s option to receive an itemization. The <ref target="1013-2-f" reftype="term">gross capitalized cost</ref> must be itemized by type and amount. The <ref target="1013-2-h" reftype="term">lessor</ref> may include in the itemization an identification of the items and amounts of some or all of the items contained in the agreed upon value of the vehicle. The itemization must be provided at the same time as the other disclosures required by § <ref target="1013-4" reftype="internal">1013.4</ref>, but it may not be included among the segregated disclosures.</content>
+                <content>The <ref target="1013-2-h" reftype="term">lessor</ref> may choose to provide the itemization of the <ref target="1013-2-f" reftype="term">gross capitalized cost</ref> only on request or may provide the itemization as a matter of course. In the latter case, the <ref target="1013-2-h" reftype="term">lessor</ref> need not provide a statement of the <ref target="1013-2-g" reftype="term">lessee</ref>'s option to receive an itemization. The <ref target="1013-2-f" reftype="term">gross capitalized cost</ref> must be itemized by type and amount. The <ref target="1013-2-h" reftype="term">lessor</ref> may include in the itemization an identification of the items and amounts of some or all of the items contained in the agreed upon value of the vehicle. The itemization must be provided at the same time as the other disclosures required by § <ref target="1013-4" reftype="internal">1013.4</ref>, but it may not be included among the segregated disclosures.</content>
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1013-4-f-7-Interp" target="1013-4-f-7">
@@ -1255,7 +1259,7 @@
               <content/>
               <interpParagraph label="1013-4-f-8-Interp-1" marker="1.">
                 <title type="keyterm">Lease Term.</title>
-                <content><ref target="1013-2-e-1" reftype="term">Lease</ref> The <ref target="1013-2-e-1" reftype="term">lease</ref> term may be disclosed among the segregated disclosures.</content>
+                <content>The <ref target="1013-2-e-1" reftype="term">lease</ref> term may be disclosed among the segregated disclosures.</content>
               </interpParagraph>
             </interpParagraph>
           </interpParagraph>
@@ -1283,7 +1287,7 @@
               </interpParagraph>
               <interpParagraph label="1013-4-g-1-Interp-5" marker="5.">
                 <title type="keyterm">Lessee's liability at early termination.</title>
-                <content><ref target="1013-2-g" reftype="term">Lessee</ref> When the <ref target="1013-2-g" reftype="term">lessee</ref> is liable for the difference between the unamortized cost and the <ref target="1013-2-m" reftype="term">realized value</ref> at early termination, the method of determining the amount of the difference must be disclosed under § <ref target="1013-4-g-1" reftype="internal">1013.4(g)(1)</ref>.</content>
+                <content>When the <ref target="1013-2-g" reftype="term">lessee</ref> is liable for the difference between the unamortized cost and the <ref target="1013-2-m" reftype="term">realized value</ref> at early termination, the method of determining the amount of the difference must be disclosed under § <ref target="1013-4-g-1" reftype="internal">1013.4(g)(1)</ref>.</content>
               </interpParagraph>
             </interpParagraph>
           </interpParagraph>
@@ -1339,7 +1343,7 @@
             </interpParagraph>
             <interpParagraph label="1013-4-l-Interp-2" marker="2.">
               <title type="keyterm">Lessor's appraisal.</title>
-              <content><ref target="1013-2-h" reftype="term">Lessor</ref> If the <ref target="1013-2-h" reftype="term">lessor</ref> obtains an appraisal of the leased property to determine its <ref target="1013-2-m" reftype="term">realized value</ref>, that appraisal does not suffice for purposes of section 183(c) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref>; the <ref target="1013-2-h" reftype="term">lessor</ref> must disclose the <ref target="1013-2-g" reftype="term">lessee</ref>'s right to an independent appraisal under § <ref target="1013-4-l" reftype="internal">1013.4(l)</ref>.</content>
+              <content>If the <ref target="1013-2-h" reftype="term">lessor</ref> obtains an appraisal of the leased property to determine its <ref target="1013-2-m" reftype="term">realized value</ref>, that appraisal does not suffice for purposes of section 183(c) of the <ref target="1013-2-a" reftype="term">Act</ref>; the <ref target="1013-2-h" reftype="term">lessor</ref> must disclose the <ref target="1013-2-g" reftype="term">lessee</ref>'s right to an independent appraisal under § <ref target="1013-4-l" reftype="internal">1013.4(l)</ref>.</content>
             </interpParagraph>
             <interpParagraph label="1013-4-l-Interp-3" marker="3.">
               <title type="keyterm">Retail or wholesale.</title>
@@ -1355,11 +1359,11 @@
             <content/>
             <interpParagraph label="1013-4-m-Interp-1" marker="1.">
               <title type="keyterm">Open-end leases.</title>
-              <content><ref target="1013-2-i" reftype="term">Open-end leases</ref> Section <ref target="1013-4-m" reftype="internal">1013.4(m)</ref> applies only to <ref target="1013-2-i" reftype="term">open-end leases</ref>.</content>
+              <content>Section <ref target="1013-4-m" reftype="internal">1013.4(m)</ref> applies only to <ref target="1013-2-i" reftype="term">open-end leases</ref>.</content>
             </interpParagraph>
             <interpParagraph label="1013-4-m-Interp-2" marker="2.">
               <title type="keyterm">Lessor's payment of attorney's fees.</title>
-              <content><ref target="1013-2-h" reftype="term">Lessor</ref> Section 183(a) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> requires that the <ref target="1013-2-h" reftype="term">lessor</ref> pay the <ref target="1013-2-g" reftype="term">lessee</ref>'s attorney's fees in all actions under § <ref target="1013-4-m" reftype="internal">1013.4(m)</ref>, whether successful or not.</content>
+              <content>Section 183(a) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> requires that the <ref target="1013-2-h" reftype="term">lessor</ref> pay the <ref target="1013-2-g" reftype="term">lessee</ref>'s attorney's fees in all actions under § <ref target="1013-4-m" reftype="internal">1013.4(m)</ref>, whether successful or not.</content>
             </interpParagraph>
             <interpParagraph label="1013-4-m-1-Interp" target="1013-4-m-1">
               <title>4(m)(1) Rent and Other Charges</title>
@@ -1431,7 +1435,7 @@
             </interpParagraph>
             <interpParagraph label="1013-4-o-Interp-2" marker="2.">
               <title type="keyterm">Lessor's insurance.</title>
-              <content><ref target="1013-2-h" reftype="term">Lessor</ref> Insurance purchased by the <ref target="1013-2-h" reftype="term">lessor</ref> primarily for its own benefit, and absorbed as a business expense and not separately charged to the <ref target="1013-2-g" reftype="term">lessee</ref>, need not be disclosed under § <ref target="1013-4-o" reftype="internal">1013.4(o)</ref> even if it provides an incidental benefit to the <ref target="1013-2-g" reftype="term">lessee</ref>.</content>
+              <content>Insurance purchased by the <ref target="1013-2-h" reftype="term">lessor</ref> primarily for its own benefit, and absorbed as a business expense and not separately charged to the <ref target="1013-2-g" reftype="term">lessee</ref>, need not be disclosed under § <ref target="1013-4-o" reftype="internal">1013.4(o)</ref> even if it provides an incidental benefit to the <ref target="1013-2-g" reftype="term">lessee</ref>.</content>
             </interpParagraph>
             <interpParagraph label="1013-4-o-Interp-3" marker="3.">
               <title type="keyterm">Mechanical breakdown protection and other products.</title>
@@ -1467,7 +1471,7 @@
             </interpParagraph>
             <interpParagraph label="1013-4-q-Interp-3" marker="3.">
               <title type="keyterm">Simple-interest leases.</title>
-              <content><ref target="1013-2-e-1" reftype="term">leases</ref>. In a simple-interest accounting <ref target="1013-2-e-1" reftype="term">lease</ref>, the additional rent charge that accrues on the <ref target="1013-2-e-1" reftype="term">lease</ref> balance when a periodic payment is made after the due date does not constitute a penalty or other charge for late payment. Similarly, continued accrual of the rent charge after termination of the <ref target="1013-2-e-1" reftype="term">lease</ref> because the <ref target="1013-2-g" reftype="term">lessee</ref> fails to return the leased property does not constitute a default charge. But in either case, if the additional charge accrues at a rate higher than the normal rent charge, the <ref target="1013-2-h" reftype="term">lessor</ref> must disclose the amount of or the method of determining the additional charge under § <ref target="1013-4-q" reftype="internal">1013.4(q)</ref>.</content>
+              <content>In a simple-interest accounting <ref target="1013-2-e-1" reftype="term">lease</ref>, the additional rent charge that accrues on the <ref target="1013-2-e-1" reftype="term">lease</ref> balance when a periodic payment is made after the due date does not constitute a penalty or other charge for late payment. Similarly, continued accrual of the rent charge after termination of the <ref target="1013-2-e-1" reftype="term">lease</ref> because the <ref target="1013-2-g" reftype="term">lessee</ref> fails to return the leased property does not constitute a default charge. But in either case, if the additional charge accrues at a rate higher than the normal rent charge, the <ref target="1013-2-h" reftype="term">lessor</ref> must disclose the amount of or the method of determining the additional charge under § <ref target="1013-4-q" reftype="internal">1013.4(q)</ref>.</content>
             </interpParagraph>
             <interpParagraph label="1013-4-q-Interp-4" marker="4.">
               <title type="keyterm">Extension charges.</title>
@@ -1475,7 +1479,7 @@
             </interpParagraph>
             <interpParagraph label="1013-4-q-Interp-5" marker="5.">
               <title type="keyterm">Reasonableness of charges.</title>
-              <content>Pursuant to section 183(b) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref>, penalties or other charges for delinquency, default, or early termination may be specified in the <ref target="1013-2-e-1" reftype="term">lease</ref> but only in an amount that is reasonable in light of the anticipated or actual harm caused by the delinquency, default, or early termination, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy.</content>
+              <content>Pursuant to section 183(b) of the <ref target="1013-2-a" reftype="term">Act</ref>, penalties or other charges for delinquency, default, or early termination may be specified in the <ref target="1013-2-e-1" reftype="term">lease</ref> but only in an amount that is reasonable in light of the anticipated or actual harm caused by the delinquency, default, or early termination, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-4-r-Interp" target="1013-4-r">
@@ -1483,7 +1487,7 @@
             <content/>
             <interpParagraph label="1013-4-r-Interp-1" marker="1.">
               <title type="keyterm">Disclosable security interests.</title>
-              <content><ref target="1013-2-o" reftype="term">security interests</ref>. See § <ref target="1013-2-o" reftype="internal">1013.2(o)</ref> and accompanying commentary to determine what <ref target="1013-2-o" reftype="term">security interests</ref> must be disclosed.</content>
+              <content>See § <ref target="1013-2-o" reftype="internal">1013.2(o)</ref> and accompanying commentary to determine what <ref target="1013-2-o" reftype="term">security interests</ref> must be disclosed.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-4-s-Interp" target="1013-4-s">
@@ -1543,7 +1547,7 @@
             <content/>
             <interpParagraph label="1013-7-a-Interp-1" marker="1.">
               <title type="keyterm">Persons covered.</title>
-              <content><ref target="1013-2-k" reftype="term">Persons</ref> All “<ref target="1013-2-k" reftype="term">persons</ref>” must comply with the advertising provisions in this section, not just those that meet the definition of a <ref target="1013-2-h" reftype="term">lessor</ref> in § <ref target="1013-2-h" reftype="internal">1013.2(h)</ref>. Thus, automobile dealers (to the extent they are not excluded from the <ref target="1013-2-c" reftype="term">Bureau</ref>'s rulemaking authority by section 1029 of the Dodd-Frank Act), merchants, and others who are not themselves <ref target="1013-2-h" reftype="term">lessors</ref> must comply with the advertising provisions of the regulation if they advertise <ref target="1013-2-e-1" reftype="term">consumer lease</ref> transactions. Pursuant to section 184(b) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref>, however, owners and personnel of the media in which an <ref target="1013-2-b" reftype="term">advertisement</ref> appears or through which it is disseminated are not subject to civil liability for violations under section 185(b) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref>.</content>
+              <content>All “<ref target="1013-2-k" reftype="term">persons</ref>” must comply with the advertising provisions in this section, not just those that meet the definition of a <ref target="1013-2-h" reftype="term">lessor</ref> in § <ref target="1013-2-h" reftype="internal">1013.2(h)</ref>. Thus, automobile dealers (to the extent they are not excluded from the <ref target="1013-2-c" reftype="term">Bureau</ref>'s rulemaking authority by section 1029 of the Dodd-Frank Act), merchants, and others who are not themselves <ref target="1013-2-h" reftype="term">lessors</ref> must comply with the advertising provisions of the regulation if they advertise <ref target="1013-2-e-1" reftype="term">consumer lease</ref> transactions. Pursuant to section 184(b) of the <ref target="1013-2-a" reftype="term">Act</ref>, however, owners and personnel of the media in which an <ref target="1013-2-b" reftype="term">advertisement</ref> appears or through which it is disseminated are not subject to civil liability for violations under section 185(b) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref>.</content>
             </interpParagraph>
             <interpParagraph label="1013-7-a-Interp-2" marker="2.">
               <title type="keyterm">“Usually and customarily.”</title>
@@ -1551,7 +1555,7 @@
             </interpParagraph>
             <interpParagraph label="1013-7-a-Interp-3" marker="3.">
               <title type="keyterm">Total contractual obligation of advertised lease.</title>
-              <content><ref target="1013-2-e-1" reftype="term">lease</ref>. Section <ref target="1013-7" reftype="internal">1013.7</ref> applies to <ref target="1013-2-b" reftype="term">advertisements</ref> for <ref target="1013-2-e-1" reftype="term">consumer leases</ref>, as defined in § <ref target="1013-2-e" reftype="internal">1013.2(e)</ref>. Under § <ref target="1013-2-e" reftype="internal">1013.2(e)</ref>, a <ref target="1013-2-e-1" reftype="term">consumer lease</ref> is exempt from the requirements of this part if the total contractual obligation exceeds the threshold amount in effect at the time of consummation. See comment <ref target="1013-2-e-Interp-9" reftype="internal">2(e)-9</ref>. Accordingly, § <ref target="1013-7" reftype="internal">1013.7</ref> does not apply to an <ref target="1013-2-b" reftype="term">advertisement</ref> for a specific <ref target="1013-2-e-1" reftype="term">consumer lease</ref> if the total contractual obligation for that <ref target="1013-2-e-1" reftype="term">lease</ref> exceeds the threshold amount in effect when the <ref target="1013-2-b" reftype="term">advertisement</ref> is made. If a <ref target="1013-2-h" reftype="term">lessor</ref> promotes multiple <ref target="1013-2-e-1" reftype="term">consumer leases</ref> in a single <ref target="1013-2-b" reftype="term">advertisement</ref>, the entire <ref target="1013-2-b" reftype="term">advertisement</ref> must comply with § <ref target="1013-7" reftype="internal">1013.7</ref> unless all of the advertised <ref target="1013-2-e-1" reftype="term">leases</ref> are exempt under § <ref target="1013-2-e" reftype="internal">1013.2(e)</ref>. For example:</content>
+              <content>Section <ref target="1013-7" reftype="internal">1013.7</ref> applies to <ref target="1013-2-b" reftype="term">advertisements</ref> for <ref target="1013-2-e-1" reftype="term">consumer leases</ref>, as defined in § <ref target="1013-2-e" reftype="internal">1013.2(e)</ref>. Under § <ref target="1013-2-e" reftype="internal">1013.2(e)</ref>, a <ref target="1013-2-e-1" reftype="term">consumer lease</ref> is exempt from the requirements of this part if the total contractual obligation exceeds the threshold amount in effect at the time of consummation. See comment <ref target="1013-2-e-Interp-9" reftype="internal">2(e)-9</ref>. Accordingly, § <ref target="1013-7" reftype="internal">1013.7</ref> does not apply to an <ref target="1013-2-b" reftype="term">advertisement</ref> for a specific <ref target="1013-2-e-1" reftype="term">consumer lease</ref> if the total contractual obligation for that <ref target="1013-2-e-1" reftype="term">lease</ref> exceeds the threshold amount in effect when the <ref target="1013-2-b" reftype="term">advertisement</ref> is made. If a <ref target="1013-2-h" reftype="term">lessor</ref> promotes multiple <ref target="1013-2-e-1" reftype="term">consumer leases</ref> in a single <ref target="1013-2-b" reftype="term">advertisement</ref>, the entire <ref target="1013-2-b" reftype="term">advertisement</ref> must comply with § <ref target="1013-7" reftype="internal">1013.7</ref> unless all of the advertised <ref target="1013-2-e-1" reftype="term">leases</ref> are exempt under § <ref target="1013-2-e" reftype="internal">1013.2(e)</ref>. For example:</content>
               <interpParagraph label="1013-7-a-Interp-3-i" marker="i.">
                 <content>Assume that, in an <ref target="1013-2-b" reftype="term">advertisement</ref>, a <ref target="1013-2-h" reftype="term">lessor</ref> states that certain terms apply to a <ref target="1013-2-e-1" reftype="term">consumer lease</ref> for a specific automobile. The total contractual obligation of the advertised <ref target="1013-2-e-1" reftype="term">lease</ref> exceeds the threshold amount in effect when the <ref target="1013-2-b" reftype="term">advertisement</ref> is made. Although the <ref target="1013-2-b" reftype="term">advertisement</ref> does not refer to any other <ref target="1013-2-e-1" reftype="term">lease</ref>, some or all of the advertised terms for the exempt <ref target="1013-2-e-1" reftype="term">lease</ref> also apply to other <ref target="1013-2-e-1" reftype="term">leases</ref> offered by the <ref target="1013-2-h" reftype="term">lessor</ref> with total contractual obligations that do not exceed the applicable threshold amount. The <ref target="1013-2-b" reftype="term">advertisement</ref> is not required to comply with § <ref target="1013-7" reftype="internal">1013.7</ref> because it refers only to an exempt <ref target="1013-2-e-1" reftype="term">lease</ref>.</content>
               </interpParagraph>
@@ -1618,7 +1622,7 @@
               <content/>
               <interpParagraph label="1013-7-d-2-Interp-1" marker="1.">
                 <title type="keyterm">Third-party fees that vary by state or locality.</title>
-                <content><ref target="1013-2-p" reftype="term">state</ref> or locality. The disclosure of a periodic payment or total amount due at <ref target="1013-2-e-1" reftype="term">lease</ref> signing or delivery may:</content>
+                <content>The disclosure of a periodic payment or total amount due at <ref target="1013-2-e-1" reftype="term">lease</ref> signing or delivery may:</content>
                 <interpParagraph label="1013-7-d-2-Interp-1-i" marker="i.">
                   <content>Exclude third-party fees, such as taxes, licenses, and registration fees and disclose that fact; or</content>
                 </interpParagraph>
@@ -1633,7 +1637,7 @@
             <content/>
             <interpParagraph label="1013-7-e-Interp-1" marker="1.">
               <title type="keyterm">Multiple-item leases.</title>
-              <content><ref target="1013-2-e-1" reftype="term">leases</ref>. Multiple-item <ref target="1013-2-e-1" reftype="term">leases</ref> that utilize merchandise tags requiring additional disclosures may use the alternate disclosure rule.</content>
+              <content>Multiple-item <ref target="1013-2-e-1" reftype="term">leases</ref> that utilize merchandise tags requiring additional disclosures may use the alternate disclosure rule.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-7-f-Interp">
@@ -1687,7 +1691,7 @@
           <title>Appendix A—Model Forms</title>
           <interpParagraph label="1013-A-Interp-1" marker="1.">
             <title type="keyterm">Permissible changes.</title>
-            <content>Although use of the model forms is not required, <ref target="1013-2-h" reftype="term">lessors</ref> using them properly will be deemed to be in compliance with the regulation. Generally, <ref target="1013-2-h" reftype="term">lessors</ref> may make certain changes in the format or content of the forms and may delete any disclosures that are inapplicable to a transaction without losing <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref>'s protection from liability. For example, the model form based on monthly periodic payments may be modified for single-payment <ref target="1013-2-e-1" reftype="term">lease</ref> transactions or for quarterly or other regular or irregular periodic payments. The model form may also be modified to reflect that a transaction is an extension. The content, format, and headings for the segregated disclosures must be substantially similar to those contained in the model forms; therefore, any changes should be minimal. The changes to the model forms should not be so extensive as to affect the substance and the clarity of the disclosures.</content>
+            <content>Although use of the model forms is not required, <ref target="1013-2-h" reftype="term">lessors</ref> using them properly will be deemed to be in compliance with the regulation. Generally, <ref target="1013-2-h" reftype="term">lessors</ref> may make certain changes in the format or content of the forms and may delete any disclosures that are inapplicable to a transaction without losing the <ref target="1013-2-a" reftype="term">Act</ref>'s protection from liability. For example, the model form based on monthly periodic payments may be modified for single-payment <ref target="1013-2-e-1" reftype="term">lease</ref> transactions or for quarterly or other regular or irregular periodic payments. The model form may also be modified to reflect that a transaction is an extension. The content, format, and headings for the segregated disclosures must be substantially similar to those contained in the model forms; therefore, any changes should be minimal. The changes to the model forms should not be so extensive as to affect the substance and the clarity of the disclosures.</content>
           </interpParagraph>
           <interpParagraph label="1013-A-Interp-2" marker="2.">
             <title type="keyterm">Examples of acceptable changes.</title>
@@ -1722,11 +1726,11 @@
           </interpParagraph>
           <interpParagraph label="1013-A-Interp-3" marker="3.">
             <title type="keyterm">Model closed-end or net vehicle lease disclosure.</title>
-            <content><ref target="1013-2-e-1" reftype="term">lease</ref> disclosure. Model <ref target="1013-A-2" reftype="internal">A-2</ref> is designed for a closed-end or net vehicle <ref target="1013-2-e-1" reftype="term">lease</ref>. Under the “Early Termination and Default” provision a reference to the <ref target="1013-2-g" reftype="term">lessee</ref>'s right to an independent appraisal of the leased vehicle under § <ref target="1013-4-l" reftype="internal">1013.4(l)</ref> is included for those <ref target="1013-2-d" reftype="term">closed-end leases</ref> in which the <ref target="1013-2-g" reftype="term">lessee</ref>'s liability at early termination is based on the vehicle's <ref target="1013-2-m" reftype="term">realized value</ref>.</content>
+            <content>Model <ref target="1013-A-2" reftype="internal">A-2</ref> is designed for a closed-end or net vehicle <ref target="1013-2-e-1" reftype="term">lease</ref>. Under the “Early Termination and Default” provision a reference to the <ref target="1013-2-g" reftype="term">lessee</ref>'s right to an independent appraisal of the leased vehicle under § <ref target="1013-4-l" reftype="internal">1013.4(l)</ref> is included for those <ref target="1013-2-d" reftype="term">closed-end leases</ref> in which the <ref target="1013-2-g" reftype="term">lessee</ref>'s liability at early termination is based on the vehicle's <ref target="1013-2-m" reftype="term">realized value</ref>.</content>
           </interpParagraph>
           <interpParagraph label="1013-A-Interp-4" marker="4.">
             <title type="keyterm">Model furniture lease disclosures.</title>
-            <content><ref target="1013-2-e-1" reftype="term">lease</ref> disclosures. Model <ref target="1013-A-3" reftype="internal">A-3</ref> is a <ref target="1013-2-d" reftype="term">closed-end lease</ref> disclosure statement designed for a typical furniture <ref target="1013-2-e-1" reftype="term">lease</ref>. It does not include a disclosure of the appraisal right at early termination required under § <ref target="1013-4-l" reftype="internal">1013.4(l)</ref> because few closed-end furniture <ref target="1013-2-e-1" reftype="term">leases</ref> base the <ref target="1013-2-g" reftype="term">lessee</ref>'s liability at early termination on the <ref target="1013-2-m" reftype="term">realized value</ref> of the leased property. The disclosure should be added if it is applicable.</content>
+            <content>Model <ref target="1013-A-3" reftype="internal">A-3</ref> is a <ref target="1013-2-d" reftype="term">closed-end lease</ref> disclosure statement designed for a typical furniture <ref target="1013-2-e-1" reftype="term">lease</ref>. It does not include a disclosure of the appraisal right at early termination required under § <ref target="1013-4-l" reftype="internal">1013.4(l)</ref> because few closed-end furniture <ref target="1013-2-e-1" reftype="term">leases</ref> base the <ref target="1013-2-g" reftype="term">lessee</ref>'s liability at early termination on the <ref target="1013-2-m" reftype="term">realized value</ref> of the leased property. The disclosure should be added if it is applicable.</content>
           </interpParagraph>
         </interpSection>
       </interpretations>
