@@ -141,7 +141,7 @@
           <section label="1013-2" sectionNum="2">
             <subject>§ 1013.2 Definitions.</subject>
             <paragraph label="1005-2-p1" marker="none">
-              <content>For purposes of this part the following definitions apply:</content>
+              <content>For the purposes of this part the following definitions apply:</content>
             </paragraph>
             <paragraph label="1013-2-a" marker="(a)">
               <content><def term="act">Act</def> means the Truth in Lending Act (<ref target="USC:15-1601" reftype="external">15 U.S.C. 1601</ref> et seq.) and the Consumer Leasing Act is Chapter 5 of the Truth in Lending Act.</content>
@@ -381,7 +381,7 @@
               </paragraph>
               <paragraph label="1013-4-i-2" marker="(2)">
                 <title type="keyterm">During lease term.</title>
-                <content><ref target="1013-2-e-1" reftype="term">lease</ref> term. If prior to the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term, the purchase price or the method for determining the price and when the <ref target="1013-2-g" reftype="term">lessee</ref> may exercise this option.</content>
+                <content>If prior to the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term, the purchase price or the method for determining the price and when the <ref target="1013-2-g" reftype="term">lessee</ref> may exercise this option.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1013-4-j" marker="(j)">
@@ -446,7 +446,7 @@
             </paragraph>
             <paragraph label="1013-4-t" marker="(t)">
               <title type="keyterm">Non-motor vehicle open-end leases.</title>
-              <content>Non-motor vehicle <ref target="1013-2-i" reftype="term">open-end leases</ref> remain subject to section 182(10) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> regarding end of term liability.</content>
+              <content>Non-motor vehicle <ref target="1013-2-i" reftype="term">open-end leases</ref> remain subject to section 182(10) of the <ref target="1013-2-a" reftype="term">Act</ref> regarding end of term liability.</content>
             </paragraph>
           </section>
           <section label="1013-5" sectionNum="5">
@@ -593,7 +593,7 @@
                 <title type="keyterm">Application.</title>
                 <content>A <ref target="1013-2-p" reftype="term">state</ref> may apply to the <ref target="1013-2-c" reftype="term">Bureau</ref> for an exemption from the requirements of the <ref target="1013-2-a" reftype="term">Act</ref> and this part for any class of <ref target="1013-2-e-1" reftype="term">lease</ref> transactions within the <ref target="1013-2-p" reftype="term">state</ref>. The <ref target="1013-2-c" reftype="term">Bureau</ref> will grant such an exemption if the <ref target="1013-2-c" reftype="term">Bureau</ref> determines that:</content>
                 <paragraph label="1013-9-b-1-i" marker="(i)">
-                  <content>The class of leasing transactions is subject to <ref target="1013-2-p" reftype="term">state</ref> law requirements substantially similar to <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> and this part or that <ref target="1013-2-g" reftype="term">lessees</ref> are afforded greater protection under <ref target="1013-2-p" reftype="term">state</ref> law; and</content>
+                  <content>The class of leasing transactions is subject to <ref target="1013-2-p" reftype="term">state</ref> law requirements substantially similar to the <ref target="1013-2-a" reftype="term">Act</ref> and this part or that <ref target="1013-2-g" reftype="term">lessees</ref> are afforded greater protection under <ref target="1013-2-p" reftype="term">state</ref> law; and</content>
                 </paragraph>
                 <paragraph label="1013-9-b-1-ii" marker="(ii)">
                   <content>There is adequate provision for <ref target="1013-2-p" reftype="term">state</ref> enforcement.</content>
@@ -601,7 +601,7 @@
               </paragraph>
               <paragraph label="1013-9-b-2" marker="(2)">
                 <title type="keyterm">Enforcement and liability.</title>
-                <content>After an exemption has been granted, the requirements of the applicable <ref target="1013-2-p" reftype="term">state</ref> law (except for additional requirements not imposed by Federal law) will constitute the requirements of the <ref target="1013-2-a" reftype="term">Act</ref> and this part. No exemption will extend to the civil liability provisions of sections 130, 131, and 185 of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref>.</content>
+                <content>After an exemption has been granted, the requirements of the applicable <ref target="1013-2-p" reftype="term">state</ref> law (except for additional requirements not imposed by Federal law) will constitute the requirements of the <ref target="1013-2-a" reftype="term">Act</ref> and this part. No exemption will extend to the civil liability provisions of sections 130, 131, and 185 of the <ref target="1013-2-a" reftype="term">Act</ref>.</content>
               </paragraph>
             </paragraph>
           </section>
@@ -1360,7 +1360,7 @@
             </interpParagraph>
             <interpParagraph label="1013-4-m-Interp-2" marker="2.">
               <title type="keyterm">Lessor's payment of attorney's fees.</title>
-              <content>Section 183(a) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref> requires that the <ref target="1013-2-h" reftype="term">lessor</ref> pay the <ref target="1013-2-g" reftype="term">lessee</ref>'s attorney's fees in all actions under § <ref target="1013-4-m" reftype="internal">1013.4(m)</ref>, whether successful or not.</content>
+              <content>Section 183(a) of the <ref target="1013-2-a" reftype="term">Act</ref> requires that the <ref target="1013-2-h" reftype="term">lessor</ref> pay the <ref target="1013-2-g" reftype="term">lessee</ref>'s attorney's fees in all actions under § <ref target="1013-4-m" reftype="internal">1013.4(m)</ref>, whether successful or not.</content>
             </interpParagraph>
             <interpParagraph label="1013-4-m-1-Interp" target="1013-4-m-1">
               <title>4(m)(1) Rent and Other Charges</title>
@@ -1379,7 +1379,7 @@
               </interpParagraph>
               <interpParagraph label="1013-4-m-2-Interp-2" marker="2.">
                 <title type="keyterm">Leases with a minimum term.</title>
-                <content><ref target="1013-2-e-1" reftype="term">Leases</ref> If a <ref target="1013-2-e-1" reftype="term">lease</ref> has an alternative minimum term, the disclosures governing the liability limitation are not applicable for the minimum term.</content>
+                <content>If a <ref target="1013-2-e-1" reftype="term">lease</ref> has an alternative minimum term, the disclosures governing the liability limitation are not applicable for the minimum term.</content>
               </interpParagraph>
               <interpParagraph label="1013-4-m-2-Interp-3" marker="3.">
                 <title type="keyterm">Charges not subject to rebuttable presumption.</title>
@@ -1452,7 +1452,7 @@
             </interpParagraph>
             <interpParagraph label="1013-4-p-Interp-3" marker="3.">
               <title type="keyterm">State law.</title>
-              <content><ref target="1013-2-p" reftype="term">State</ref> Whether an express warranty or guaranty exists is determined by <ref target="1013-2-p" reftype="term">state</ref> or other law.</content>
+              <content>Whether an express warranty or guaranty exists is determined by <ref target="1013-2-p" reftype="term">state</ref> or other law.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-4-q-Interp" target="1013-4-q">
@@ -1544,7 +1544,7 @@
             <content/>
             <interpParagraph label="1013-7-a-Interp-1" marker="1.">
               <title type="keyterm">Persons covered.</title>
-              <content>All “<ref target="1013-2-k" reftype="term">persons</ref>” must comply with the advertising provisions in this section, not just those that meet the definition of a <ref target="1013-2-h" reftype="term">lessor</ref> in § <ref target="1013-2-h" reftype="internal">1013.2(h)</ref>. Thus, automobile dealers (to the extent they are not excluded from the <ref target="1013-2-c" reftype="term">Bureau</ref>'s rulemaking authority by section 1029 of the Dodd-Frank Act), merchants, and others who are not themselves <ref target="1013-2-h" reftype="term">lessors</ref> must comply with the advertising provisions of the regulation if they advertise <ref target="1013-2-e-1" reftype="term">consumer lease</ref> transactions. Pursuant to section 184(b) of the <ref target="1013-2-a" reftype="term">Act</ref>, however, owners and personnel of the media in which an <ref target="1013-2-b" reftype="term">advertisement</ref> appears or through which it is disseminated are not subject to civil liability for violations under section 185(b) of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1013-2-a" reftype="term">Act</ref>.</content>
+              <content>All “<ref target="1013-2-k" reftype="term">persons</ref>” must comply with the advertising provisions in this section, not just those that meet the definition of a <ref target="1013-2-h" reftype="term">lessor</ref> in § <ref target="1013-2-h" reftype="internal">1013.2(h)</ref>. Thus, automobile dealers (to the extent they are not excluded from the <ref target="1013-2-c" reftype="term">Bureau</ref>'s rulemaking authority by section 1029 of the Dodd-Frank Act), merchants, and others who are not themselves <ref target="1013-2-h" reftype="term">lessors</ref> must comply with the advertising provisions of the regulation if they advertise <ref target="1013-2-e-1" reftype="term">consumer lease</ref> transactions. Pursuant to section 184(b) of the <ref target="1013-2-a" reftype="term">Act</ref>, however, owners and personnel of the media in which an <ref target="1013-2-b" reftype="term">advertisement</ref> appears or through which it is disseminated are not subject to civil liability for violations under section 185(b) of the <ref target="1013-2-a" reftype="term">Act</ref>.</content>
             </interpParagraph>
             <interpParagraph label="1013-7-a-Interp-2" marker="2.">
               <title type="keyterm">“Usually and customarily.”</title>
