@@ -1358,7 +1358,7 @@
     </change>
     <change operation="modified" label="1024-35-g-1-iii-B">
       <paragraph label="1024-35-g-1-iii-B" marker="(B)">
-        <content>The <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> balance is discharged.</content>
+        <content>The <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is discharged.</content>
         <analysis label="1024-35-g-1-iii-B-Analysis">
           <analysisSection>
             <title>35(g)(1)(iii)(B) and 36(f)(1)(v)(B)</title>
@@ -3146,7 +3146,7 @@
                 <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> for the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> that is the subject of the asserted <ref target="1024-35-b" reftype="term">error</ref> was transferred from the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receiving the notice of <ref target="1024-35-b" reftype="term">error</ref> to a transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>; or</content>
               </paragraph>
               <paragraph label="1024-35-g-1-iii-B" marker="(B)">
-                <content>The <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> balance is discharged.</content>
+                <content>The <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is discharged.</content>
                 <analysis label="1024-35-g-1-iii-B-Analysis">
                   <analysisSection>
                     <title>35(g)(1)(iii)(B) and 36(f)(1)(v)(B)</title>
@@ -3510,7 +3510,7 @@
                 <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> for the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> that is the subject of the information request was transferred from the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receiving the request for information to a transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>; or</content>
               </paragraph>
               <paragraph label="1024-36-f-1-v-B" marker="(B)">
-                <content>The <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> balance is discharged.</content>
+                <content>The <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is discharged.</content>
                 <analysis label="1024-36-f-1-v-B-Analysis">
                   <analysisSection>
                     <title>35(g)(1)(iii)(B) and 36(f)(1)(v)(B)</title>
@@ -4164,7 +4164,7 @@
           </tocAppEntry>
           <tocAppEntry target="1024-MS-3(D)">
             <appendixLetter>3(D)</appendixLetter>
-            <appendixSubject>MS-3(D)—Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By to § 1024.37(e)(2)</appendixSubject>
+            <appendixSubject>MS-3(D)—Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By § 1024.37(e)(2)</appendixSubject>
           </tocAppEntry>
           <tocAppEntry target="1024-MS-4">
             <appendixLetter>4</appendixLetter>
@@ -4495,7 +4495,7 @@
           </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="7" label="1024-MS-3(D)">
-          <subject>MS-3(D)—Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By to § 1024.37(e)(2)</subject>
+          <subject>MS-3(D)—Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By § 1024.37(e)(2)</subject>
           <paragraph label="1024-MS-3(D)-p71" marker="">
             <content>[Name and Mailing Address of <ref target="1024-2-b-Servicer" reftype="term">Servicer</ref>]</content>
           </paragraph>
@@ -6777,7 +6777,7 @@
     <change operation="modified" label="1024-39-b-3">
       <paragraph label="1024-39-b-3" marker="(3)">
         <title type="keyterm">Model clauses.</title>
-        <content>Model clauses <ref target="1024-MS-4(A)" reftype="internal">MS-4(A)</ref>, <ref target="1024-MS-4(B)" reftype="internal">MS-4(B)</ref>, and <ref target="1024-MS-4(C)" reftype="internal">MS-4(C)</ref>, in appendix <ref target="1024-MS-4" reftype="internal">MS-4</ref> to this part may be used to comply with the requirements of paragraph <ref target="1024-39-b" reftype="internal">(b)</ref> of this section.</content>
+        <content>Model clauses <ref target="1024-MS-4(A)" reftype="internal">MS-4(A)</ref>, <ref target="1024-MS-4(B)" reftype="internal">MS-4(B)</ref>, and <ref target="1024-MS-4(C)" reftype="internal">MS-4(C)</ref>, in appendix <ref target="1024-MS-4" reftype="internal">MS-4</ref> to this part may be used to comply with the requirements of this paragraph <ref target="1024-39-b" reftype="internal">(b)</ref> of this section.</content>
         <analysis label="1024-39-b-3-Analysis">
           <analysisSection>
             <title>39(b)(3) Model Clauses</title>
