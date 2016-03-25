@@ -62,7 +62,7 @@
 
         <tocAppEntry target="1024-Interp">
           <appendixLetter>Interp</appendixLetter>
-          <appendixSubject>Supplement I to Part 1026—Official Bureau Interpretations</appendixSubject>
+          <appendixSubject>Supplement I to Part 1024—Official Bureau Interpretations</appendixSubject>
         </tocAppEntry>
       </tableOfContents>
     <content>
@@ -6511,7 +6511,7 @@
         </paragraph>
         <analysis label="1024-41-Analysis">
           <analysisSection>
-            <title>Section 1024.41 Loss mitigation procedures</title>
+            <title>Section 1024.41—Loss mitigation procedures</title>
             <analysisParagraph>As discussed in the Bureau's 2012 RESPA Servicing Proposal, and in part II above, there has been widespread concern among mortgage market participants, consumer advocates, and policymakers regarding pervasive problems with servicers' performance of loss mitigation activity in connection with the financial crisis, including lost documents, non-responsive servicers, and unwillingness to work with borrowers to reach agreement on loss mitigation options. In response, servicers, investors, guarantors, and State and Federal regulators have undertaken efforts to adjust servicer loss mitigation and foreclosure practices to address problems relating to evaluation of loss mitigation options. Specifically: (1) Treasury and HUD sponsored the Making Home Affordable program, which established guidelines for Federal government sponsored loss mitigation programs such as HAMP;<footnote ref="159">www.makinghomeaffordable.gov.</footnote>
             (2) the Federal Housing Finance Agency (FHFA) directed Fannie Mae and Freddie Mac to align their guidelines for servicing delinquent mortgages they own or guarantee to improve servicing practices;<footnote ref="160">Press Release, Federal Housing Finance Agency, Fannie Mae and Freddie Mac to Align Guidelines for Servicing Delinquent Mortgages (Apr. 28, 2011), http://www.fhfa.gov/webfiles/21190/SAI42811.pdf. See also Comment letter submitted by Fannie Mae and Freddie Mac.</footnote>
             (3) prudential regulators, including the Board and the OCC, undertook enforcement actions against major servicers, resulting in consent orders imposing requirements on servicing practices;<footnote ref="161">Press Release, Office of the Comptroller of the Currency, NR 2011-47, OCC Takes Enforcement Action Against Eight Servicers for Unsafe and Unsound Foreclosure Practices (Apr. 13, 2011); Federal Reserve Board Press Release, Federal Reserve Issues Enforcement Actions Related to Deficient Practices in Residential Mortgage Loan Servicing (April 13, 2011), available at: http://www.federalreserve.gov/newsevents/press/enforcement/20110413a.htm.</footnote>
@@ -6601,12 +6601,6 @@
               <analysisParagraph>The Bureau relies on its authority under sections 6(j)(3), 6(k)(1)(C), 6(k)(1)(E) and 19(a) of RESPA to establish final rules setting forth obligations on servicers to comply with the loss mitigation procedures in § 1024.41. These loss mitigation procedures are necessary and appropriate to achieve the consumer protection purposes of RESPA, including by requiring servicers to provide borrowers with timely access to accurate and necessary information regarding an evaluation for a foreclosure avoidance option and to facilitate the evaluation of borrowers for foreclosure avoidance options. Further, the loss mitigation procedures implement, in part, a servicer's obligation to take timely action to correct errors relating to avoiding foreclosure under section 6(k)(1)(C) of RESPA by establishing servicer duties and procedures that must be followed where appropriate to avoid errors with respect to foreclosure.</analysisParagraph>
               <analysisParagraph>In addition, the Bureau relies on its authority pursuant to section 1022(b) of the Dodd-Frank Act to prescribe regulations necessary or appropriate to carry out the purposes and objectives of Federal consumer financial law, including the purposes and objectives of Title X of the Dodd-Frank Act. Specifically, the Bureau believes that § 1024.41 is necessary and appropriate to carry out the purpose under section 1021(a) of the Dodd-Frank Act of ensuring that markets for consumer financial products and services are fair, transparent, and competitive, and the objective under section 1021(b) of the Dodd-Frank Act of ensuring that markets for consumer financial products and services operate transparently and efficiently to facilitate access and innovation. The Bureau additionally relies on its authority under section 1032(a) of the Dodd-Frank Act, which authorizes the Bureau to prescribe the rules to ensure that features of any consumer financial product or service, both initially and over the terms of the product or service, are fully, accurately, and effectively disclosed to consumers in a manner that permits consumers to understand the costs, benefits, and risks associated with the product or service, in light of the facts and circumstances.</analysisParagraph>
             </analysisSection>
-          </analysisSection>
-        </analysis>
-        <analysis label="1024-41-Analysis">
-          <analysisSection>
-            <title>Section 1024.41 Loss Mitigation Procedures</title>
-            <analysisParagraph>As discussed above in part III (Legal Authority), the Bureau is finalizing amendments to § 1024.41 pursuant to its authority under sections 6(j)(3), 6(k)(1)(E), and 19(a) of RESPA. The Bureau believes that these amendments are necessary and appropriate to achieve the consumer protection purposes of RESPA and in particular of section 6 of RESPA, including to facilitate the evaluation of borrowers for foreclosure avoidance options. Further, the amendments implement, in part, section 6(k)(1)(C) of RESPA, which obligates a servicer to take timely action to correct errors relating to avoiding foreclosure, by establishing servicer duties and procedures that must be followed where appropriate to avoid such errors. In addition, the Bureau relies on its authority pursuant to section 1022(b) of the Dodd-Frank Act to prescribe regulations necessary or appropriate to carry out the purposes and objectives of Federal consumer financial law, including the purpose and objectives under sections 1021(a) and (b) of the Dodd-Frank Act. The Bureau additionally relies on its authority under section 1032(a) of the Dodd-Frank Act, which authorizes the Bureau to prescribe rules to ensure that the features of any consumer financial product or service, both initially and over the terms of the product or service, are fully, accurately, and effectively disclosed to consumers in a manner that permits consumers to understand the costs, benefits, and risks associated with the product or service, in light of the facts and circumstances.</analysisParagraph>
           </analysisSection>
         </analysis>
       </section>
@@ -6736,7 +6730,7 @@
             <content/>
             <interpParagraph label="1024-33-a-Interp-1" marker="1.">
         <title type="keyterm">Terminology.</title>
-        <content>Although the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement must be clear and conspicuous pursuant to § <ref target="1024-32-a-1" reftype="internal">1024.32(a)(1)</ref>, § <ref target="1024-32-a-1" reftype="internal">1024.32(a)(1)</ref> does not set forth any specific rules for the format of the statement, and the specific language of the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement in appendix <ref target="1024-MS-1" reftype="internal">MS-1</ref> is not required to be used. The model format may be supplemented with additional information that clarifies or enhances the model language.</content>
+        <content>Although the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement must be clear and conspicuous pursuant to § <ref target="1024-32-a" reftype="internal">1024.32(a)</ref>, § <ref target="1024-33-a" reftype="internal">1024.33(a)</ref> does not set forth any specific rules for the format of the statement, and the specific language of the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosure statement in appendix <ref target="1024-MS-1" reftype="internal">MS-1</ref> is not required to be used. The model format may be supplemented with additional information that clarifies or enhances the model language.</content>
       </interpParagraph>
     <interpParagraph label="1024-33-a-Interp-2" marker="2.">
               <title type="keyterm">Delivery to co-applicants.</title>
@@ -6771,7 +6765,7 @@
               </interpParagraph>
               <interpParagraph label="1024-33-c-1-Interp-2" marker="2.">
         <title type="keyterm">Compliance with § 1024.39.</title>
-        <content>A transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s compliance with <ref target="1024-39" reftype="internal">1024.39</ref> during the 60-day period beginning on the effective date of a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfer does not constitute treating a payment as late for purposes of § <ref target="1024-33-c-1" reftype="internal">1024.33(c)(1)</ref>.</content>
+        <content>A transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s compliance with § <ref target="1024-39" reftype="internal">1024.39</ref> during the 60-day period beginning on the effective date of a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfer does not constitute treating a payment as late for purposes of § <ref target="1024-33-c-1" reftype="internal">1024.33(c)(1)</ref>.</content>
       </interpParagraph>
     </interpParagraph>
           </interpParagraph>
@@ -6861,7 +6855,7 @@
             </interpParagraph>
             <interpParagraph label="1024-35-c-Interp-2" marker="2.">
         <title type="keyterm">Notice of an exclusive address.</title>
-        <content>A notice establishing an address that a borrower must use to assert an <ref target="1024-35-b" reftype="term">error</ref> may be included with a different disclosure, such as on a notice of transfer. The notice is subject to the clear and conspicuous requirement in § <ref target="1024-32-a-1" reftype="internal">1024.32(a)(1)</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> establishes an address that a borrower must use to assert an <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must provide that address to the borrower in the following contexts:</content>
+        <content>A notice establishing an address that a borrower must use to assert an <ref target="1024-35-b" reftype="term">error</ref> may be included with a different disclosure, such as a notice of transfer. The notice is subject to the clear and conspicuous requirement in § <ref target="1024-32-a-1" reftype="internal">1024.32(a)(1)</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> establishes an address that a borrower must use to assert an <ref target="1024-35-b" reftype="term">error</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must provide that address to the borrower in the following contexts:</content>
         <interpParagraph label="1024-35-c-Interp-2-i" marker="(i)">
           <content>The written notice designating the specific address, required pursuant to § <ref target="1024-35-c" reftype="internal">1024.35(c)</ref> and § <ref target="1024-36-b" reftype="internal">1024.36(b)</ref>.</content>
         </interpParagraph>
@@ -7011,7 +7005,7 @@
             </interpParagraph>
             <interpParagraph label="1024-36-b-Interp-2" marker="2.">
         <title type="keyterm">Notice of an exclusive address.</title>
-        <content>A notice establishing an address that a borrower must use to request information may be included with a different disclosure, such as on a notice of transfer. The notice is subject to the clear and conspicuous requirement in § <ref target="1024-32-a-1" reftype="internal">1024.32(a)(1)</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> establishes an address that a borrower must use to request information, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must provide that address to the borrower in the following contexts:</content>
+        <content>A notice establishing an address that a borrower must use to request information may be included with a different disclosure, such as a notice of transfer. The notice is subject to the clear and conspicuous requirement in § <ref target="1024-32-a-1" reftype="internal">1024.32(a)(1)</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> establishes an address that a borrower must use to request information, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must provide that address to the borrower in the following contexts:</content>
         <interpParagraph label="1024-36-b-Interp-2-i" marker="(i)">
           <content>The written notice designating the specific address, required pursuant to § <ref target="1024-35-c" reftype="internal">1024.35(c)</ref> and § <ref target="1024-36-b" reftype="internal">1024.36(b)</ref>.</content>
         </interpParagraph>
@@ -7646,8 +7640,8 @@
       </interpParagraph>
     </interpParagraph>
           <interpParagraph label="1024-41-c-Interp">
-            <title>41(c) Review of loss mitigation applications.</title>
-            <content/>
+            <title>41(c) Evaluation of loss mitigation applications.</title>
+    <content/>
             <interpParagraph label="1024-41-c-1-Interp" target="1024-41-c-1">
               <title>41(c)(1) Complete loss mitigation application.</title>
               <content/>
@@ -7711,8 +7705,8 @@
           <content>Even if a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> offers a borrower a payment forbearance program based on an evaluation of an incomplete loss mitigation application, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must still comply with all the requirements in § 1024.41 if the borrower completes his or her loss mitigation application.</content>
         </interpParagraph>
       </interpParagraph>
-    <interpParagraph label="1024-41-c-2-iv-Interp" target="1024-41-c-2-iv">
-        <title>41(c)(2)(iv) Facially complete application.</title>
+    <interpParagraph label="1024-41-c-2-iv-Interp" target="1024-41-c-2-iv" marker="(iv)">
+        <title type="keyterm">Facially complete application.</title>
         <content/>
         <interpParagraph label="1024-41-c-2-iv-Interp-1" marker="1.">
           <title type="keyterm">Reasonable opportunity.</title>
@@ -7751,7 +7745,7 @@
           <interpParagraph label="1024-41-f-Interp">
             <title>41(f) Prohibition on foreclosure referral.</title>
             <content/>
-            <interpParagraph label="1024-41-f-Interp-1" target="1024-41-f-1">
+            <interpParagraph label="1024-41-f-Interp-1" target="1024-41-f-1" marker="1.">
         <title type="keyterm">Prohibited activities.</title>
         <content>Section 1024.41(f) prohibits a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> from making the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process under certain circumstances. Whether a document is considered the first notice or filing is determined on the basis of foreclosure procedure under the applicable State law.</content>
         <interpParagraph label="1024-41-f-Interp-1-i" marker="i.">
