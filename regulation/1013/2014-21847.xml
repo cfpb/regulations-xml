@@ -140,7 +140,7 @@
           </section>
           <section label="1013-2" sectionNum="2">
             <subject>§ 1013.2 Definitions.</subject>
-            <paragraph label="1005-2-p1" marker="none">
+            <paragraph label="1013-2-p1" marker="">
               <content>For the purposes of this part the following definitions apply:</content>
             </paragraph>
             <paragraph label="1013-2-a" marker="(a)">
@@ -273,7 +273,7 @@
           </section>
           <section label="1013-4" sectionNum="4">
             <subject>§ 1013.4 Content of disclosures.</subject>
-            <paragraph label="1013-4-p1" marker="none">
+            <paragraph label="1013-4-p1" marker="">
               <content>For any <ref target="1013-2-e-1" reftype="term">consumer lease</ref> subject to this part, the <ref target="1013-2-h" reftype="term">lessor</ref> shall disclose the following information, as applicable:</content>
             </paragraph>
             <paragraph label="1013-4-a" marker="(a)">
