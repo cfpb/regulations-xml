@@ -2106,7 +2106,7 @@
           </paragraph>
           <paragraph label="1024-39-b-3" marker="(3)">
             <title type="keyterm">Model clauses.</title>
-            <content>Model clauses <ref target="1024-MS-4(A)" reftype="internal">MS-4(A)</ref>, <ref target="1024-MS-4(B)" reftype="internal">MS-4(B)</ref>, and <ref target="1024-MS-4(C)" reftype="internal">MS-4(C)</ref>, in appendix <ref target="1024-MS-4" reftype="internal">MS-4</ref> to this part may be used to comply with the requirements of paragraph <ref target="1024-39-a" reftype="internal">(b)</ref> of this section.</content>
+            <content>Model clauses <ref target="1024-MS-4(A)" reftype="internal">MS-4(A)</ref>, <ref target="1024-MS-4(B)" reftype="internal">MS-4(B)</ref>, and <ref target="1024-MS-4(C)" reftype="internal">MS-4(C)</ref>, in appendix <ref target="1024-MS-4" reftype="internal">MS-4</ref> to this part may be used to comply with the requirements of this paragraph <ref target="1024-39-b" reftype="internal">(b)</ref>.</content>
             <analysis label="1024-39-b-3-Analysis">
               <analysisSection>
                 <title>39(b)(3) Model Clauses</title>
@@ -8750,6 +8750,9 @@
     <change operation="modified" label="1024-41-c-Interp" subpath="title">
       <title>41(c) Evaluation of loss mitigation applications.</title>
     </change>
+    <change operation="modified" label="1024-41-Interp" subpath="title">
+      <title>§ 1024.41—Loss Mitigation Procedures.</title>
+    </change>
     <change operation="modified" label="1024-33-a-Interp-1">
       <interpParagraph label="1024-33-a-Interp-1" marker="1.">
         <title type="keyterm">Terminology.</title>
@@ -8814,31 +8817,39 @@
       </interpParagraph>
     </change>
     <change operation="added" label="1024-41-b-2-Interp">
-      <interpParagraph label="1024-41-b-2-Interp" target="1024-41-b-2">
+      <interpParagraph label="1024-41-b-2-Interp">
         <title>41(b)(2) Review of loss mitigation application submission.</title>
         <content/>
-        <interpParagraph label="1024-41-b-2-Interp-i" marker="(i)">
-          <title type="keyterm">Later discovery of additional information required to evaluate application.</title>
-          <content>Even if a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has informed a borrower that an application is complete (or notified the borrower of specific information necessary to complete an incomplete application), if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> determines, in the course of evaluating the loss mitigation application submitted by the borrower, that additional information or a corrected version of a previously submitted document is required, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must promptly request the additional information or corrected document from the borrower pursuant to the reasonable diligence obligation in § <ref target="1024-41-b-1" reftype="internal">1024.41(b)(1)</ref>. See § <ref target="1024-41-c-2-iv" reftype="internal">1024.41(c)(2)(iv)</ref> addressing facially complete applications.</content>
-        </interpParagraph>
-        <interpParagraph label="1024-41-b-2-Interp-ii" marker="(ii)">
-          <title type="keyterm">Time period disclosure.</title>
+        <interpParagraph label="1024-41-b-2-i-Interp">
+          <title>41(b)(2)(i) Requirements.</title>
           <content/>
-          <interpParagraph label="1024-41-b-2-Interp-ii-1" marker="1.">
+          <interpParagraph label="1024-41-b-2-i-B-Interp" target="1024-41-b-2-i-B">
+            <title>Paragraph 41(b)(2)(i)(B).</title>
+            <content/>
+            <interpParagraph label="1024-41-b-2-i-B-Interp-1" marker="(1)">
+              <title type="keyterm">Later discovery of additional information required to evaluate application.</title>
+              <content>Even if a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has informed a borrower that an application is complete (or notified the borrower of specific information necessary to complete an incomplete application), if the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> determines, in the course of evaluating the loss mitigation application submitted by the borrower, that additional information or a corrected version of a previously submitted document is required, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must promptly request the additional information or corrected document from the borrower pursuant to the reasonable diligence obligation in § <ref target="1024-41-b-1" reftype="internal">1024.41(b)(1)</ref>. See § <ref target="1024-41-c-2-iv" reftype="internal">1024.41(c)(2)(iv)</ref> addressing facially complete applications.</content>
+            </interpParagraph>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1024-41-b-2-ii-Interp" target="1024-41-b-2-ii">
+          <title >41(b)(2)(ii) Time period disclosure.</title>
+          <content/>
+          <interpParagraph label="1024-41-b-2-ii-Interp-1" marker="1.">
             <title type="keyterm">Reasonable date.</title>
             <content>Section 1024.41(b)(2)(ii) requires that a notice informing a borrower that a loss mitigation application is incomplete must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete. In determining a reasonable date, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> should select the deadline that preserves the maximum borrower rights under § 1024.41 based on the milestones listed below, except when doing so would be impracticable to permit the borrower sufficient time to obtain and submit the type of documentation needed. Generally, it would be impracticable for a borrower to obtain and submit documents in less than seven days. In setting a date, the following milestones should be considered (if the date of a foreclosure sale is not known, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may use a reasonable estimate of the date for which a foreclosure sale may be scheduled):</content>
-          </interpParagraph>
-          <interpParagraph label="1024-41-b-2-Interp-ii-1-i" marker="i.">
-            <content>The date by which any document or information submitted by a borrower will be considered stale or invalid pursuant to any requirements applicable to any <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref> available to the borrower;</content>
-          </interpParagraph>
-          <interpParagraph label="1024-41-b-2-Interp-ii-1-ii" marker="ii.">
-            <content>The date that is the 120th day of the borrower’s delinquency;</content>
-          </interpParagraph>
-          <interpParagraph label="1024-41-b-2-Interp-ii-1-iii" marker="iii.">
-            <content>The date that is 90 days before a foreclosure sale;</content>
-          </interpParagraph>
-          <interpParagraph label="1024-41-b-2-Interp-ii-1-iv" marker="iv.">
-            <content>The date that is 38 days before a foreclosure sale.</content>
+            <interpParagraph label="1024-41-b-2-ii-Interp-1-i" marker="i.">
+              <content>The date by which any document or information submitted by a borrower will be considered stale or invalid pursuant to any requirements applicable to any <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref> available to the borrower;</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-b-2-ii-Interp-1-ii" marker="ii.">
+              <content>The date that is the 120th day of the borrower’s delinquency;</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-b-2-ii-Interp-1-iii" marker="iii.">
+              <content>The date that is 90 days before a foreclosure sale;</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-b-2-ii-Interp-1-iv" marker="iv.">
+              <content>The date that is 38 days before a foreclosure sale.</content>
+            </interpParagraph>
           </interpParagraph>
         </interpParagraph>
       </interpParagraph>
@@ -8877,7 +8888,7 @@
     </change>
     <change operation="added" label="1024-41-c-2-iv-Interp">
       <interpParagraph label="1024-41-c-2-iv-Interp" target="1024-41-c-2-iv" marker="(iv)">
-        <title type="keyterm">Facially complete application.</title>
+        <title type="keyterm">41(c)(2)(iv) Facially complete application.</title>
         <content/>
         <interpParagraph label="1024-41-c-2-iv-Interp-1" marker="1.">
           <title type="keyterm">Reasonable opportunity.</title>
