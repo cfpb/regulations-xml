@@ -3378,13 +3378,59 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
       </section>
     <section label="1024-31" sectionNum="31">
         <subject>§ 1024.31 Definitions.</subject>
-        <paragraph label="1024-31-1" marker="(1)">
-          <content>States the reasons the borrower believes the account is in error; or</content>
+        <paragraph label="1024-31-p1" marker="">
+          <content>For purposes of this subpart:</content>
         </paragraph>
-        <paragraph label="1024-31-2" marker="(2)">
-          <content>Provides sufficient detail to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> regarding information relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> sought by the borrower.</content>
+
+        <paragraph label="1024-31-ConsumerReportingAgency" marker="">
+          <content><def term="consumer reporting agency">Consumer reporting agency</def> has the meaning set forth in section 603 of the Fair Credit Reporting Act, 15 U.S.C. 1681a.</content>
         </paragraph>
-        <analysis label="1024-31-Analysis">
+
+        <paragraph label="1024-31-Day" marker="">
+          <content><def term="day">Day</def> means calendar day.</content>
+        </paragraph>
+
+        <paragraph label="1024-31-HazardInsurance" marker="">
+          <content><def term="hazard insurance">Hazard insurance</def> means insurance on the property securing a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> that protects the property against loss caused by fire, wind, flood, earthquake, theft, falling objects, freezing, and other similar hazards for which the owner or assignee of such loan requires insurance.</content>
+        </paragraph>
+
+        <paragraph label="1024-31-LossMitigationApplication" marker="">
+          <content><def term="loss mitigation application">Loss mitigation application</def> means an oral or written request for a <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref> that is accompanied by any information required by a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> for evaluation for a <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref>.</content></paragraph>
+
+        <paragraph label="1024-31-LossMitigationOption" marker="">
+          <content><def term="loss mitigation option">Loss mitigation option</def> means an alternative to foreclosure offered by the owner or assignee of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> that is made available through the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to the borrower. Master <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> means the owner of the right to perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>. A master <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may perform the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> itself or do so through a <ref target="1024-31-Subservicer" reftype="term">subservicer</ref>.</content></paragraph>
+
+        <paragraph label="1024-31-MortgageLoan" marker="">
+          <content><def term="mortgage loan">Mortgage loan</def> means any <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref>, as that term is defined in § 1024.2 subject to the exemptions in § 1024.5(b), but does not include open-end lines of credit (home equity plans).</content></paragraph>
+
+        <paragraph label="1024-31-QualifiedWrittenRequest" marker="">
+          <content><def term="qualified written request">Qualified written request</def> means a written correspondence from the borrower to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that includes, or otherwise enables the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to identify, the name and account of the borrower, and either: </content>
+          <paragraph label="1024-31-QualifiedWrittenRequest-1" marker="(1)">
+            <content>States the reasons the borrower believes the account is in error; or</content>
+          </paragraph>
+          <paragraph label="1024-31-QualifiedWrittenRequest-2" marker="(2)">
+            <content>Provides sufficient detail to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> regarding information relating to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> sought by the borrower.</content>
+          </paragraph>
+        </paragraph>
+
+        <paragraph label="1024-31-ReverseMortgageTransaction" marker="">
+          <content><def term="reverse mortgage transaction">Reverse mortgage transaction</def> has the meaning set forth in 12 CFR 1026.33(a). </content>
+        </paragraph>
+
+        <paragraph label="1024-31-ServiceProvider" marker="">
+          <content><def term="service provider">Service provider</def> means any party retained by a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that interacts with a borrower or provides a service to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> for which a borrower may incur a fee.</content></paragraph>
+
+        <paragraph label="1024-31-Subservicer" marker="">
+          <content><def term="subservicer">Subservicer</def> means a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that does not own the right to perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>, but that performs <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> on behalf of the master <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>.</content></paragraph>
+
+        <paragraph label="1024-31-TransfereeServicer" marker="">
+          <content><def term="transferee servicer">Transferee servicer</def> means a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that obtains or will obtain the right to perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> pursuant to an agreement or understanding.</content></paragraph>
+
+        <paragraph label="1024-31-TransferorServicer" marker="">
+          <content><def term="transferor servicer">Transferor servicer</def> means a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, including a table-funding <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> on a first- lien <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">dealer loan</ref>, that transfers or will transfer the right to perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> pursuant to an agreement or understanding. </content></paragraph>
+
+
+      <analysis label="1024-31-Analysis">
           <analysisSection>
             <title>Section 1024.31 - Definitions</title>
             <analysisParagraph>For purposes of subpart C, proposed § 1024.31 would have provided definitions of the following terms: “Consumer reporting agency,” “Day,” “Hazard insurance,” “Loss mitigation application,” “Loss mitigation options,” “Master servicer,” “Mortgage loan,” “Qualified written request,” “Reverse mortgage transaction,” “Subservicer,” “Service provider,” “Transferee servicer,” and “Transferor servicer.” For the reasons set forth below, and except as otherwise discussed, § 1024.31 is adopted as proposed.</analysisParagraph>

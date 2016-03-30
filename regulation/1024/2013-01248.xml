@@ -3440,7 +3440,8 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
           <content><def term="mortgage loan">Mortgage loan</def> means any <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref>, as that term is defined in § 1024.2 subject to the exemptions in § 1024.5(b), but does not include open-end lines of credit (home equity plans).</content></paragraph>
 
         <paragraph label="1024-31-QualifiedWrittenRequest" marker="">
-          <content><def term="qualified written request">Qualified written request</def> means a written correspondence from the borrower to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that includes, or otherwise enables the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to identify, the name and account of the borrower, and either: </content><paragraph label="1024-31-QualifiedWrittenRequest-1" marker="(1)">
+          <content><def term="qualified written request">Qualified written request</def> means a written correspondence from the borrower to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that includes, or otherwise enables the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to identify, the name and account of the borrower, and either: </content>
+          <paragraph label="1024-31-QualifiedWrittenRequest-1" marker="(1)">
             <content>States the reasons the borrower believes the account is in error; or</content>
           </paragraph>
           <paragraph label="1024-31-QualifiedWrittenRequest-2" marker="(2)">
