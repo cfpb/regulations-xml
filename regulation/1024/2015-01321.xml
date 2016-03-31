@@ -4,7 +4,7 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2013-12-31</date>
+    <date>2015-02-19</date>
     <originalDate>2012-01-01</originalDate>
     <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
   </fdsys>
@@ -14,9 +14,9 @@
       <title>12</title>
       <section>1024</section>
     </cfr>
-    <documentNumber>2013-28210</documentNumber>
+    <documentNumber>2015-01321</documentNumber>
     <effectiveDate>2015-10-03</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2013/12/31/2013-28210/integrated-mortgage-disclosures-under-the-real-estate-settlement-procedures-act-regulation-x-and-the</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/articles/2015/02/19/2015-01321/amendments-to-the-2013-integrated-mortgage-disclosures-rule-under-the-real-estate-settlement</federalRegisterURL>
   </preamble>
   <part label="1024">
     <tableOfContents>
@@ -2043,8 +2043,8 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
         </paragraph>
         <paragraph label="1024-5-d" marker="(d)">
         <title type="keyterm">Partial exemptions for certain mortgage loans.</title>
-        <content><ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loans</ref>. Sections <ref target="1024-6" reftype="internal">1024.6</ref>, <ref target="1024-7" reftype="internal">1024.7</ref>, <ref target="1024-8" reftype="internal">1024.8</ref>, <ref target="1024-10" reftype="internal">1024.10</ref>, and 1024.21(b) and (c) do not apply to a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref>:</content>
-        <paragraph label="1024-5-d-1" marker="(1)">
+        <content>Sections <ref target="1024-6" reftype="internal">1024.6</ref>, <ref target="1024-7" reftype="internal">1024.7</ref>, <ref target="1024-8" reftype="internal">1024.8</ref>, <ref target="1024-10" reftype="internal">1024.10</ref>, and 1024.33(a) do not apply to a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref>:</content>
+    <paragraph label="1024-5-d-1" marker="(1)">
           <content>That is subject to the special disclosure requirements for certain consumer credit transactions secured by real property set forth in <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026-19" reftype="external">12 CFR 1026.19</ref>(e), (f), and (g); or</content>
         </paragraph>
         <paragraph label="1024-5-d-2" marker="(2)">
