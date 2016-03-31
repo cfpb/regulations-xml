@@ -4,7 +4,7 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2011-12-30</date>
+    <date>2016-01-01</date>
     <originalDate>2012-01-01</originalDate>
     <title>CONSUMER LEASING</title>
   </fdsys>
@@ -14,9 +14,9 @@
       <title>12</title>
       <section>1013</section>
     </cfr>
-    <documentNumber>2011-31723</documentNumber>
-    <effectiveDate>2011-12-30</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2011/12/19/2011-31723/consumer-leasing-regulation-m</federalRegisterURL>
+    <documentNumber>2015-30071</documentNumber>
+    <effectiveDate>2016-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/articles/2015/11/27/2015-30071/consumer-leasing-regulation-m</federalRegisterURL>
   </preamble>
   <part label="1013">
     <tableOfContents>
@@ -628,7 +628,7 @@
           <paragraph label="1013-A-1-p1" marker="">
             <content>
               <graphic>
-                <altText></altText>
+                <altText/>
                 <text>![](ER19DE11.010)</text>
                 <url>https://s3.amazonaws.com/images.federalregister.gov/ER19DE11.010/original.gif</url>
               </graphic>
@@ -637,7 +637,7 @@
           <paragraph label="1013-A-1-p2" marker="">
             <content>
               <graphic>
-                <altText></altText>
+                <altText/>
                 <text>![](ER19DE11.011)</text>
                 <url>https://s3.amazonaws.com/images.federalregister.gov/ER19DE11.011/original.gif</url>
               </graphic>
@@ -649,7 +649,7 @@
           <paragraph label="1013-A-2-p1" marker="">
             <content>
               <graphic>
-                <altText></altText>
+                <altText/>
                 <text>![](ER19DE11.012)</text>
                 <url>https://s3.amazonaws.com/images.federalregister.gov/ER19DE11.012/original.gif</url>
               </graphic>
@@ -658,7 +658,7 @@
           <paragraph label="1013-A-2-p2" marker="">
             <content>
               <graphic>
-                <altText></altText>
+                <altText/>
                 <text>![](ER19DE11.013)</text>
                 <url>https://s3.amazonaws.com/images.federalregister.gov/ER19DE11.013/original.gif</url>
               </graphic>
@@ -670,7 +670,7 @@
           <paragraph label="1013-A-3-p1" marker="">
             <content>
               <graphic>
-                <altText></altText>
+                <altText/>
                 <text>![](ER19DE11.014)</text>
                 <url>https://s3.amazonaws.com/images.federalregister.gov/ER19DE11.014/original.gif</url>
               </graphic>
@@ -679,7 +679,7 @@
           <paragraph label="1013-A-3-p2" marker="">
             <content>
               <graphic>
-                <altText></altText>
+                <altText/>
                 <text>![](ER19DE11.015)</text>
                 <url>https://s3.amazonaws.com/images.federalregister.gov/ER19DE11.015/original.gif</url>
               </graphic>
@@ -861,7 +861,19 @@
               <interpParagraph label="1013-2-e-Interp-9-iii" marker="iii.">
                 <content>From January 1, 2012 through December 31, 2012, the threshold amount is $51,800.</content>
               </interpParagraph>
-            </interpParagraph>
+            <interpParagraph label="1013-2-e-Interp-9-iv" marker="iv." target="1013-2-e-9-iv">
+        <content>From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.</content>
+      </interpParagraph>
+    <interpParagraph label="1013-2-e-Interp-9-v" marker="v." target="1013-2-e-9-v">
+        <content>From January 1, 2014 through December 31, 2014, the threshold amount is $53,500.</content>
+      </interpParagraph>
+    <interpParagraph label="1013-2-e-Interp-9-vi" marker="vi." target="1013-2-e-9-vi">
+      <content>From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.</content>
+    </interpParagraph>
+  <interpParagraph label="1013-2-e-Interp-9-vii" marker="vii." target="1013-2-e-9-vii">
+        <content>From January 1, 2016 through December 31, 2016, the threshold amount is $54,600.</content>
+      </interpParagraph>
+    </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1013-2-g-Interp" target="1013-2-g">
             <title>2(g) Lessee</title>
