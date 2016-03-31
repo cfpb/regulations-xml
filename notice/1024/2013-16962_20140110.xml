@@ -6038,7 +6038,7 @@
         </analysis>
       </paragraph>
     </change>
-    <change operation="added" label="1024-5-Interp">
+    <change operation="added" label="1024-5-Interp" before="1024-17-Interp">
       <interpSection label="1024-5-Interp" sectionNum="5">
         <title>§ 1024.5—Coverage of RESPA</title>
         <interpParagraph label="1024-5-c-Interp">

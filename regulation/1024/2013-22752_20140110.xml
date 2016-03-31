@@ -71,7 +71,7 @@
         <appendixSection appendixSecNum="1" label="1024-A-p1">
           <subject/>
           <paragraph label="1024-A-p1-p1" marker="">
-            <content>The following are instructions for completing the <ref target="1024-2-b-HUD1orHUD1ASettlementStatement" reftype="term">HUD-1 settlement statement</ref>, required under section 4 of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and 12 CFR part 1024 (Regulation X) of the Bureau of Consumer Financial Protection (Bureau) regulations. This form is to be used as a statement of actual charges and adjustments paid by the borrower and the seller, to be given to the parties in connection with the <ref target="1024-2-b-Settlement" reftype="term">settlements</ref>. The instructions for completion of the <ref target="1024-2-b-HUD1orHUD1ASettlementStatement" reftype="term">HUD-1</ref> are primarily for the benefit of the <ref target="1024-2-b-Settlement" reftype="term">settlements</ref> agents who prepare the statements and need not be transmitted to the parties as an integral part of the <ref target="1024-2-b-HUD1orHUD1ASettlementStatement" reftype="term">HUD-1</ref>. There is no objection to the use of the <ref target="1024-2-b-HUD1orHUD1ASettlementStatement" reftype="term">HUD-1</ref> in transactions in which its use is not legally required. Refer to the definitions section of the regulations (12 CFR <ref target="1024-2" reftype="internal">1024.2</ref>) for specific definitions of many of the terms that are used in these instructions.</content>
+            <content>The following are instructions for completing the <ref target="1024-2-b-HUD1orHUD1ASettlementStatement" reftype="term">HUD-1 settlement statement</ref>, required under section 4 of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and 12 CFR part 1024 (Regulation X) of the Bureau of Consumer Financial Protection (Bureau) regulations. This form is to be used as a statement of actual charges and adjustments paid by the borrower and the seller, to be given to the parties in connection with the <ref target="1024-2-b-Settlement" reftype="term">settlement</ref>. The instructions for completion of the <ref target="1024-2-b-HUD1orHUD1ASettlementStatement" reftype="term">HUD-1</ref> are primarily for the benefit of the <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agents who prepare the statements and need not be transmitted to the parties as an integral part of the <ref target="1024-2-b-HUD1orHUD1ASettlementStatement" reftype="term">HUD-1</ref>. There is no objection to the use of the <ref target="1024-2-b-HUD1orHUD1ASettlementStatement" reftype="term">HUD-1</ref> in transactions in which its use is not legally required. Refer to the definitions section of the regulations (12 CFR <ref target="1024-2" reftype="internal">1024.2</ref>) for specific definitions of many of the terms that are used in these instructions.</content>
           </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="2" label="1024-A-h1">
@@ -6682,7 +6682,21 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
             <content>Each comment in the commentary is identified by a number and the regulatory section or paragraph that the comment interprets. The comments are designated with as much specificity as possible according to the particular regulatory provision addressed. For example, some of the comments to § <ref target="1024-37-c-1" reftype="internal">1024.37(c)(1)</ref> are further divided by subparagraph, such as comment <ref target="1024-37-c-1-i-Interp-1" reftype="internal">37(c)(1)(i)-1</ref>. In other cases, comments have more general <ref target="1024-2-b-Application" reftype="term">application</ref> and are designated, for example, as comment <ref target="1024-40-a-Interp-1" reftype="internal">40(a)-1</ref>. This introduction may be cited as comments I-1 through I-5.</content>
           </interpParagraph>
         </interpSection>
-        <interpSection label="1024-17-Interp" sectionNum="17">
+        <interpSection label="1024-5-Interp" sectionNum="5">
+        <title>§ 1024.5—Coverage of RESPA</title>
+        <interpParagraph label="1024-5-c-Interp">
+          <title>5(c) Relation to State laws.</title>
+          <content/>
+          <interpParagraph label="1024-5-c-1-Interp" target="1024-5-c-1">
+            <title>Paragraph 5(c)(1).</title>
+            <content/>
+            <interpParagraph label="1024-5-c-1-Interp-1" marker="1.">
+              <content><ref target="1024-2-b-State" reftype="term">State</ref> laws that are inconsistent with the requirements of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X may be preempted by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X. <ref target="1024-2-b-State" reftype="term">State</ref> laws that give greater protection to consumers are not inconsistent with and are not preempted by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X. In addition, nothing in <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X should be construed to preempt the entire field of regulation of the practices covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X, including the regulations in Subpart C with respect to mortgage <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> or mortgage <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>.</content>
+            </interpParagraph>
+          </interpParagraph>
+        </interpParagraph>
+      </interpSection>
+    <interpSection label="1024-17-Interp" sectionNum="17">
           <title>Section § 1024.17—Escrow Accounts</title>
           <interpParagraph label="1024-17-k-Interp">
             <title>17(k) Timely payments.</title>
@@ -7920,21 +7934,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
             </interpParagraph>
           </interpParagraph>
         </interpSection>
-      <interpSection label="1024-5-Interp" sectionNum="5">
-        <title>§ 1024.5—Coverage of RESPA</title>
-        <interpParagraph label="1024-5-c-Interp">
-          <title>5(c) Relation to State laws.</title>
-          <content/>
-          <interpParagraph label="1024-5-c-1-Interp" target="1024-5-c-1">
-            <title>Paragraph 5(c)(1).</title>
-            <content/>
-            <interpParagraph label="1024-5-c-1-Interp-1" marker="1.">
-              <content><ref target="1024-2-b-State" reftype="term">State</ref> laws that are inconsistent with the requirements of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X may be preempted by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X. <ref target="1024-2-b-State" reftype="term">State</ref> laws that give greater protection to consumers are not inconsistent with and are not preempted by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X. In addition, nothing in <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X should be construed to preempt the entire field of regulation of the practices covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or Regulation X, including the regulations in Subpart C with respect to mortgage <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> or mortgage <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>.</content>
-            </interpParagraph>
-          </interpParagraph>
-        </interpParagraph>
-      </interpSection>
-    </interpretations>
+      </interpretations>
     <appendix appendixLetter="MS" label="1024-MS">
         <appendixTitle>Appendix MS to Part 1024—Mortgage Servicing</appendixTitle>
         <tableOfContents>
