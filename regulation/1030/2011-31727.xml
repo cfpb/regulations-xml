@@ -83,9 +83,13 @@
         <appendixLetter>Interp</appendixLetter>
         <appendixSubject>Supplement I to Part 1030&#8212;Official Interpretations</appendixSubject>
       </tocAppEntry>
+      <tocAppEntry target="1030-Interp-1">
+	<appendixLetter>Interp-1</appendixLetter>
+	<appendixSubject>Introduction</appendixSubject>
+      </tocAppEntry>
     </tableOfContents>
     <content>
-      <subpart>
+      <subpart label="1030-Subpart">
         <tableOfContents>
           <tocSecEntry target="1030-1">
             <sectionNum>1</sectionNum>
