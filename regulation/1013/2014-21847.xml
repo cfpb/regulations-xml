@@ -701,6 +701,11 @@
         </appendixSection>
       </appendix>
       <interpretations label="1013-Interp">
+	<tableOfContents>
+	  <tocInterpEntry target="1013-Interp-h1">
+	    <interpTitle>Introduction</interpTitle>
+	  </tocInterpEntry>
+	</tableOfContents>
         <title>Supplement I to Part 1013—Official Interpretations</title>
         <interpSection label="1013-Interp-h1">
           <title>Introduction</title>
