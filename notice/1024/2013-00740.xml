@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -197,8 +196,43 @@
             <paragraph label="1024-20-a-1-ii" marker="(ii)">
               <content>Data made available by the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> or <ref target="1024-2-b-HUD" reftype="term">HUD</ref> for <ref target="1024-2-b-Lender" reftype="term">lenders</ref> to use in complying with the requirements of this section, provided that the data is used in accordance with instructions provided with the data.</content>
             </paragraph>
-            <analysis>
-              <analysisSection>
+            </paragraph>
+          <paragraph label="1024-20-a-2" marker="(2)">
+            <content>The list of homeownership counseling organizations provided under this section may be combined and provided with other <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> disclosures required pursuant to <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref>, or this part unless prohibited by <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref> or this part.</content>
+            </paragraph>
+          <paragraph label="1024-20-a-3" marker="(3)">
+            <content>A <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> may provide the list of homeownership counseling organizations required under this section to any loan applicant from whom it receives or for whom it prepares an <ref target="1024-2-b-Application" reftype="term">application</ref>. If the <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> has provided the required list of homeownership counseling organizations, the <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an additional list. The <ref target="1024-2-b-Lender" reftype="term">lender</ref> is responsible for ensuring that the list of homeownership counseling organizations is provided to a loan applicant in accordance with this section.</content>
+            </paragraph>
+          <paragraph label="1024-20-a-4" marker="(4)">
+            <content>If the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref>, or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> does not provide the list of homeownership counseling organizations required under this section to the loan applicant in person, the <ref target="1024-2-b-Lender" reftype="term">lender</ref> must mail or deliver the list to the loan applicant by other means. The list may be provided in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act), <ref target="USC:15-7001" reftype="external">15 U.S.C. 7001</ref> et seq.</content>
+            </paragraph>
+          <paragraph label="1024-20-a-5" marker="(5)">
+            <content>The <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide the list of homeownership counseling organizations required under this section if, before the end of the three-business-day period provided in paragraph <ref target="1024-20-a-1" reftype="internal">(a)(1)</ref> of this section, the <ref target="1024-2-b-Lender" reftype="term">lender</ref> denies the <ref target="1024-2-b-Application" reftype="term">application</ref> or the loan applicant withdraws the <ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
+            </paragraph>
+          <paragraph label="1024-20-a-6" marker="(6)">
+            <content>If a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> transaction involves more than one <ref target="1024-2-b-Lender" reftype="term">lender</ref>, only one list of homeownership counseling organizations required under this section shall be given to the loan applicant and the <ref target="1024-2-b-Lender" reftype="term">lenders</ref> shall agree among themselves which <ref target="1024-2-b-Lender" reftype="term">lender</ref> will comply with the requirements that this section imposes on any or all of them. If there is more than one loan applicant, the required list of homeownership counseling organizations may be provided to any loan applicant with primary liability on the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> obligation.</content>
+            </paragraph>
+        </paragraph>
+        <paragraph label="1024-20-b" marker="(b)">
+          <title type="keyterm">Open-end lines of credit (home-equity plans) under Regulation Z.</title>
+          <content>For a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref> that is a home-equity line of credit subject to <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>, a <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> that provides the loan applicant with the list of homeownership organizations required under this section may comply with the timing and delivery requirements set out in either paragraph <ref target="1024-20-a" reftype="internal">(a)</ref> of this section or <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>(b).</content>
+          </paragraph>
+        <paragraph label="1024-20-c" marker="(c)">
+          <title type="keyterm">Exemptions.</title>
+          <content/>
+          <paragraph label="1024-20-c-1" marker="(1)">
+            <title type="keyterm">Reverse mortgage transactions.</title>
+            <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an applicant for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transaction subject to <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a) the list of homeownership counseling organizations required under this section.</content>
+            </paragraph>
+          <paragraph label="1024-20-c-2" marker="(2)">
+            <title type="keyterm">Timeshare plans.</title>
+            <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an applicant for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> secured by a timeshare, as described under <ref target="USC:11-101" reftype="external">11 U.S.C. 101</ref>(53D), the list of homeownership counseling organizations required under this section.</content>
+            </paragraph>
+        </paragraph>
+        </section>
+    </change>
+  </changeset>
+<analysis><analysisSection target="1024-20-a-1" notice="2013-00740" date="2013-01-31">
                 <title>20(a)(1)</title>
                 <analysisSection>
                   <title>Scope of Requirement</title>
@@ -250,32 +284,17 @@
                   <analysisParagraph>The Bureau believes that the counselor list should be provided no later than the same time period as other applicable disclosures, in order to be most beneficial to consumers. The Bureau agrees with consumer group commenters that obtaining information about counseling at a point earlier than application could be beneficial to consumers. The Bureau notes, however, that the statutory requirement provides that the list of homeownership counselors be provided with the home buying booklet. The Bureau agrees with commenters that stated a lender should only be required to provide a single list in conjunction with an application, and notes that the final rule does not require that more than one list be provided. In addition, because the Bureau has not yet finalized the 2012 TILA-RESPA Proposal, the Bureau declines to provide a different definition of application in the final rule. The Bureau is therefore finalizing the timing requirement in § 1024.20(a)(1) as proposed, consistent with the timing requirement of the booklet.</analysisParagraph>
                 </analysisSection>
               </analysisSection>
-            </analysis>
-          </paragraph>
-          <paragraph label="1024-20-a-2" marker="(2)">
-            <content>The list of homeownership counseling organizations provided under this section may be combined and provided with other <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> disclosures required pursuant to <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref>, or this part unless prohibited by <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref> or this part.</content>
-            <analysis>
-              <analysisSection>
+            <analysisSection target="1024-20-a-2" notice="2013-00740" date="2013-01-31">
                 <title>20(a)(2)</title>
                 <analysisParagraph>RESPA section 5(c) does not specify whether the required list of homeownership counselors can be combined with other disclosures. To afford lenders flexibility and ease compliance burden, proposed § 1024.20(a)(4) would have allowed the list to be combined with other mortgage loan disclosures, unless otherwise prohibited. The Bureau did not receive any comments addressing this provision, and is finalizing it substantially as proposed, except that it is renumbering the provision as § 1024.20(a)(2).</analysisParagraph>
               </analysisSection>
-            </analysis>
-          </paragraph>
-          <paragraph label="1024-20-a-3" marker="(3)">
-            <content>A <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> may provide the list of homeownership counseling organizations required under this section to any loan applicant from whom it receives or for whom it prepares an <ref target="1024-2-b-Application" reftype="term">application</ref>. If the <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> has provided the required list of homeownership counseling organizations, the <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an additional list. The <ref target="1024-2-b-Lender" reftype="term">lender</ref> is responsible for ensuring that the list of homeownership counseling organizations is provided to a loan applicant in accordance with this section.</content>
-            <analysis>
-              <analysisSection>
+            <analysisSection target="1024-20-a-3" notice="2013-00740" date="2013-01-31">
                 <title>20(a)(3)</title>
                 <analysisParagraph>Under RESPA section 5(c), a lender must provide a list of homeownership counselors to an applicant. To afford flexibility and help ease compliance burden, proposed § 1024.20(a)(5) would have allowed a mortgage broker or dealer to provide the list to those applicants from whom it receives or for whom it prepares applications. Under proposed § 1024.20(a)(5), where a mortgage broker or dealer provides the list, the lender is not required to provide an additional list but remains responsible for ensuring that the list has been provided to the loan applicant and satisfies the requirements of proposed § 1024.20.</analysisParagraph>
                 <analysisParagraph>The Bureau received one comment objecting to the language that a mortgage broker or dealer “may” provide the list to a loan applicant from whom it receives for whom it prepares an application. This commenter suggested that this language be changed to “must,” to reflect that mortgage brokers and dealers are required to provide the list to their loan applicants.</analysisParagraph>
                 <analysisParagraph>As discussed above however, under the language of proposed § 1024.20(a)(5) the lender would have been responsible for ensuring that the list of counseling organizations is provided to the loan applicant in accordance with the requirements of § 1024.20(a)(5). As a result, the provision would have required that a loan applicant receive the list, with the lender maintaining ultimate responsibility for ensuring that it is provided, regardless of who provides the list. Accordingly, the Bureau is finalizing proposed § 1024.20(a)(5) substantially as proposed, except that it is renumbering the provision as § 1024.20(a)(3).</analysisParagraph>
               </analysisSection>
-            </analysis>              
-          </paragraph>
-          <paragraph label="1024-20-a-4" marker="(4)">
-            <content>If the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref>, or <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> does not provide the list of homeownership counseling organizations required under this section to the loan applicant in person, the <ref target="1024-2-b-Lender" reftype="term">lender</ref> must mail or deliver the list to the loan applicant by other means. The list may be provided in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act), <ref target="USC:15-7001" reftype="external">15 U.S.C. 7001</ref> et seq.</content>
-            <analysis>
-              <analysisSection>
+            <analysisSection target="1024-20-a-4" notice="2013-00740" date="2013-01-31">
                 <title>20(a)(4)</title>
                 <analysisParagraph>RESPA section 5(c) does not specify how the required list must be delivered. Proposed § 1024.20(a)(6) would have set out the requirements for providing the list to the loan applicant,i.e.,in person, by mail, or by other means of delivery. As proposed, the list could have been provided to the loan applicant in electronic form, subject to the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act), 15 U.S.C. 7001 et seq.
                 </analysisParagraph>
@@ -286,46 +305,20 @@
                   </footnote>
                   Moreover, the Bureau believes it is important to retain the requirement that the list be in writing to provide for a retainable copy of the counseling organization names and contact information. In addition, the Bureau notes that permitting the electronic delivery of the disclosure is consistent with existing § 1024.23 of Regulation X, which provides for the applicability of the E-Sign Act to RESPA. For these reasons, the Bureau is finalizing § 1024.20(a)(6) substantially as proposed, but is renumbering it as § 1024.20(a)(4) for organizational purposes.</analysisParagraph>
               </analysisSection>
-            </analysis>
-          </paragraph>
-          <paragraph label="1024-20-a-5" marker="(5)">
-            <content>The <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide the list of homeownership counseling organizations required under this section if, before the end of the three-business-day period provided in paragraph <ref target="1024-20-a-1" reftype="internal">(a)(1)</ref> of this section, the <ref target="1024-2-b-Lender" reftype="term">lender</ref> denies the <ref target="1024-2-b-Application" reftype="term">application</ref> or the loan applicant withdraws the <ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
-            <analysis>
-              <analysisSection>
+            <analysisSection target="1024-20-a-5" notice="2013-00740" date="2013-01-31">
                 <title>20(a)(5)</title>
                 <analysisParagraph>Proposed § 1024.20(a)(7) would have provided that the lender is not required to provide the list if, before the end of the three business day period, the lender denies the loan application or the loan applicant withdraws the application. The Bureau did not receive any comments addressing this provision. The Bureau is therefore finalizing § 1024.20(a)(7) substantially as proposed, but is renumbering it as § 1024.20(a)(5).</analysisParagraph>
               </analysisSection>
-            </analysis>
-          </paragraph>
-          <paragraph label="1024-20-a-6" marker="(6)">
-            <content>If a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> transaction involves more than one <ref target="1024-2-b-Lender" reftype="term">lender</ref>, only one list of homeownership counseling organizations required under this section shall be given to the loan applicant and the <ref target="1024-2-b-Lender" reftype="term">lenders</ref> shall agree among themselves which <ref target="1024-2-b-Lender" reftype="term">lender</ref> will comply with the requirements that this section imposes on any or all of them. If there is more than one loan applicant, the required list of homeownership counseling organizations may be provided to any loan applicant with primary liability on the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> obligation.</content>
-            <analysis>
-              <analysisSection>
+            <analysisSection target="1024-20-a-6" notice="2013-00740" date="2013-01-31">
                 <title>20(a)(6)</title>
                 <analysisParagraph>Proposed § 1024.20(a)(8) would have provided flexibility related to the requirements for providing the list when there are multiple lenders and multiple applicants in a mortgage loan transaction. Under proposed § 1024.20(a)(8), if a mortgage loan transaction involved more than one lender, only one list was to be given to the loan applicant, and the lenders were to agree among themselves which lender would provide the list. Proposed § 1024.20(a)(8) also would have provided that if there were more than one loan applicant, the required list could be provided to any loan applicant that would have primary liability on the loan obligation.</analysisParagraph>
                 <analysisParagraph>Industry commenters stated that it should be permissible for multiple lenders to provide the list for operational convenience. The Bureau notes that proposed § 1024.20(a)(8) is consistent with Regulation Z § 1026.31(e), which also addresses disclosure requirements in the case of multiple creditors. The Bureau believes this consistency is appropriate, and that it could be confusing for consumers to receive multiple copies of a counselor list disclosure. Accordingly, the Bureau is finalizing § 1024.20(a)(8) as proposed, except for making minor edits for clarity and consistency and renumbering the provision as § 1024.20(a)(6).</analysisParagraph>
               </analysisSection>
-            </analysis>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1024-20-b" marker="(b)">
-          <title type="keyterm">Open-end lines of credit (home-equity plans) under Regulation Z.</title>
-          <content>For a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref> that is a home-equity line of credit subject to <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref>, <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>, a <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> that provides the loan applicant with the list of homeownership organizations required under this section may comply with the timing and delivery requirements set out in either paragraph <ref target="1024-20-a" reftype="internal">(a)</ref> of this section or <ref target="CFR:12-1026-40" reftype="external">12 CFR 1026.40</ref>(b).</content>
-          <analysis>
-            <analysisSection>
+            <analysisSection target="1024-20-b" notice="2013-00740" date="2013-01-31">
               <title>20(b) Open-End Lines of Credit (Home-Equity Plans) Under Regulation Z</title>
               <analysisParagraph>As noted above, RESPA section 5(c) requires that the list be included with the home buying information booklet that is to be distributed to applicants no later than three business days after the lender receives a loan application, and the Bureau proposed in § 1024.20(a)(1) to interpret the scope of the homeownership counselor list requirement to apply to all federally related loans, including HELOCs (except as described in the discussion of § 1024.20(c) below). Proposed § 1024.20(b) would have permitted a lender or broker, for an open-end credit plan subject to the requirements of § 1024.20, to comply with the timing and delivery requirement of either § 1024.20(a), or with the timing and delivery requirements set out in Regulation Z § 1026.40(b) for open-end disclosures. Several commenters noted that they appreciated this flexibility and asked the Bureau to retain this approach in the final rule. The Bureau agrees with commenters that the flexibility to provide the list under the timing requirements of § 1026.40(b) should be retained. The Bureau believes allowing this flexibility in timing will meet the purposes of the list requirement as well as help ease compliance burden. The Bureau is therefore adopting § 1024.20(b) as proposed, with minor edits for clarity and consistency.</analysisParagraph>
             </analysisSection>
-          </analysis>            
-        </paragraph>
-        <paragraph label="1024-20-c" marker="(c)">
-          <title type="keyterm">Exemptions.</title>
-          <content/>
-          <paragraph label="1024-20-c-1" marker="(1)">
-            <title type="keyterm">Reverse mortgage transactions.</title>
-            <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an applicant for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transaction subject to <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a) the list of homeownership counseling organizations required under this section.</content>
-            <analysis>
-              <analysisSection>
+          <analysisSection target="1024-20-c-1" notice="2013-00740" date="2013-01-31">
                 <title>20(c)(1) Reverse Mortgage Transactions</title>
                 <analysisParagraph>RESPA section 5(c) requires lenders to include a list of homeownership counselors with the home buying information booklet that is to be distributed to applicants. As noted above, the Bureau generally proposed in § 1024.20(a)(1) to interpret the scope of the homeownership counselor list requirement to apply to applicants of all federally related mortgage loans pursuant to section 19(a) of RESPA. Proposed § 1024.20(c) would have exempted a lender from providing an applicant for a HECM, as that type of reverse mortgage is defined in 12 U.S.C. 1715z-20(b)(3), with the list required by § 1024.20 if the lender is otherwise required by HUD to provide a list, and does provide a list, of HECM counselors or counseling agencies to the loan applicant. As discussed further below in the section-by-section analysis of Regulation Z, § 1026.34(a)(5), the Bureau's final pre-loan counseling requirement for high-cost mortgages, Federal law currently requires homeowners to receive counseling before obtaining a HECM reverse mortgage insured by the Federal Housing Administration (FHA),<footnote ref="31">
 
@@ -341,13 +334,7 @@
                   </footnote>
                   That rulemaking will provide an opportunity to consider further issues related to counseling or counseling information on reverse mortgages. Because the Bureau concludes that requiring lenders to provide a list of counselors to reverse mortgage borrowers under § 1024.20 is largely duplicative of HECM requirements and may not provide additional, useful information for borrowers of other types of reverse mortgages, final § 1024.20(c)(1) provides an exemption for reverse mortgages pursuant to the Bureau's authority under RESPA section 19(a).</analysisParagraph>
               </analysisSection>
-            </analysis>
-          </paragraph>
-          <paragraph label="1024-20-c-2" marker="(2)">
-            <title type="keyterm">Timeshare plans.</title>
-            <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an applicant for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> secured by a timeshare, as described under <ref target="USC:11-101" reftype="external">11 U.S.C. 101</ref>(53D), the list of homeownership counseling organizations required under this section.</content>
-            <analysis>
-              <analysisSection>
+            <analysisSection target="1024-20-c-2" notice="2013-00740" date="2013-01-31">
                 <title>20(c)(2) Timeshare Plans</title>
                 <analysisParagraph>The Bureau generally proposed in § 1024.20(a)(1) to interpret the scope of the homeownership counselor list requirement to apply to applicants of all federally related loans pursuant to section 19(a) of RESPA, which would include applicants for a mortgage secured by a consumer's interest in a timeshare. The Bureau did not propose any type of exemption from the list requirement for this category of applicants. Timeshare industry commenters argued that the requirement for a list of counselors should not apply to lenders receiving an application for a mortgage secured by a consumer's interest in a timeshare. They asserted an exception is warranted for mortgages secured by timeshares because of their belief that there was no Congressional intent to require counseling for timeshare buyers due to unique characteristics of the timeshare industry, the lack of predatory lending in this market, the lower risk to consumers associated with default of a mortgage secured by a timeshare,<footnote ref="33">
 
@@ -356,11 +343,7 @@
                   the protections provided by State law, and the timeshare business model that relies upon purchase and financing documents being executed simultaneously.</analysisParagraph>
                 <analysisParagraph>The Bureau agrees that lenders should not be obligated to provide a list of homeownership counselors to applicants for mortgages secured by a timeshare, and is therefore exercising its authority under section 19(a) of RESPA to provide an exemption for these transactions in final § 1024.20(c)(2). Although the Bureau believes that some form of counseling may be beneficial to such consumers, the Bureau is concerned that counselors at counseling agencies approved by HUD to counsel consumers on standard mortgage financing may not be trained to provide useful counseling addressing timeshare purchases. For that reason, the Bureau is concerned that the benefit of the list of counselors to a consumer purchasing a timeshare could be quite low. The Bureau has therefore determined that exempting timeshare purchases from the list requirement is reasonable, because it is unclear whether the list would provide helpful information to consumers. Accordingly, the final rule does not require a lender to provide an applicant for a mortgage loan secured by a timeshare, as described under 11 U.S.C. 101(53D), with the list of homeownership counseling organizations required under § 1024.20.</analysisParagraph>
               </analysisSection>
-            </analysis>
-          </paragraph>
-        </paragraph>
-        <analysis>
-          <analysisSection>
+            <analysisSection target="1024-20" notice="2013-00740" date="2013-01-31">
             <title>Section 1024.20 List of Homeownership Counseling Organizations</title>
             <analysisParagraph>The Dodd-Frank Act amended RESPA to create a new requirement that lenders provide a list of homeownership counselors to applicants for federally related mortgage loans. Specifically, section 1450 the Dodd-Frank Act amended RESPA section 5(c) to require lenders to provide applicants with a “reasonably complete or updated list of homeownership counselors who are certified pursuant to section 106(e) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(e)) and located in the area of the lender.”<footnote ref="24">
 
@@ -375,8 +358,4 @@
               Prior to the Dodd-Frank Act, HUD was charged with distributing the RESPA “special information booklet” to lenders to help purchase-money mortgage borrowers understand the nature and costs of real estate settlement services. The Dodd-Frank Act amended RESPA section 5(a) to direct the Bureau to distribute the “home buying information booklet” to all lenders that make federally related mortgage loans. The Dodd-Frank Act also amended section 5(a) to require the Bureau to distribute lists of homeownership counselors to such lenders.</analysisParagraph>
             <analysisParagraph>The proposal would have implemented the Dodd-Frank Act's requirement that a lender provide lists of homeownership counselors to applicants for federally related mortgage loans. Proposed § 1024.20 generally would have required a lender to provide an applicant for a federally related mortgage loan with a list of five homeownership counselors or counseling organizations in the location of the applicant, not later than three days after receiving an application. Proposed § 1024.20 also would have set forth additional requirements related to the content and delivery of the list. The Bureau is finalizing proposed § 1024.20 with certain changes, as discussed in further detail below.</analysisParagraph>
           </analysisSection>
-        </analysis>
-      </section>
-    </change>
-  </changeset>
-</notice>
+        </analysis></notice>
