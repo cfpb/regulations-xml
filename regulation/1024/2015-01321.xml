@@ -617,7 +617,8 @@
         <paragraph label="1024-C-h2-h3-p8-iii" marker="(iii)">
           <content>The initial interest rate.</content>
         </paragraph>
-      <paragraph label="1024-C-h2-h3-p9" marker="">
+      </paragraph>
+    <paragraph label="1024-C-h2-h3-p9" marker="">
         <content>For <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transactions:</content>
         <paragraph label="1024-C-h2-h3-p9-i" marker="(i)">
           <content>The initial loan amount disclosed on the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> is the amount of the initial principal limit of the loan;</content>
@@ -646,7 +647,6 @@
         <paragraph label="1024-C-h2-h3-p15" marker="">
           <content>The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate whether the loan requires a <ref target="1024-2-b-def0" reftype="term">balloon payment</ref> and, if so, the amount of the payment and in how many years it will be due. <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">Reverse mortgage</ref> transactions are not considered to be balloon transactions for the purposes of this disclosure on the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>.</content>
         </paragraph>
-      </paragraph>
       </paragraph>
     </paragraph>
           <paragraph label="1024-C-h2-h4" marker="">
@@ -1884,7 +1884,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
                 <content><def term="respa">RESPA</def> means the Real Estate Settlement Procedures Act of 1974 (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.).</content>
               </paragraph>
               <paragraph label="1024-2-b-Servicer" marker="">
-        <content><def term="servicer">Servicer</def> means a person responsible for the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref> (including the person who makes or holds a mortgage loan if such person also services the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>). The term does not include:</content>
+        <content><def term="servicer">Servicer</def> means a person responsible for the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref> (including the person who makes or holds such loan if such person also services the loan). The term does not include: </content>
         <paragraph label="1024-2-b-Servicer-1" marker="(1)">
           <content>The Federal Deposit Insurance Corporation (FDIC), in connection with assets acquired, assigned, sold, or transferred pursuant to section 13(c) of the Federal Deposit Insurance Act or as receiver or conservator of an insured depository institution;</content>
         </paragraph>

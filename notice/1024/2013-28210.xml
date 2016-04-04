@@ -146,6 +146,9 @@
         <paragraph label="1024-C-h2-h3-p8-iii" marker="(iii)">
           <content>The initial interest rate.</content>
         </paragraph>
+      </paragraph>
+    </change>
+    <change operation="added" label="1024-C-h2-h3-p9" after="1024-C-h2-h3-p8">
       <paragraph label="1024-C-h2-h3-p9" marker="">
         <content>For <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transactions:</content>
         <paragraph label="1024-C-h2-h3-p9-i" marker="(i)">
@@ -175,7 +178,6 @@
         <paragraph label="1024-C-h2-h3-p15" marker="">
           <content>The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate whether the loan requires a <ref target="1024-2-b-def0" reftype="term">balloon payment</ref> and, if so, the amount of the payment and in how many years it will be due. <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">Reverse mortgage</ref> transactions are not considered to be balloon transactions for the purposes of this disclosure on the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>.</content>
         </paragraph>
-      </paragraph>
       </paragraph>
     </change>
     <change operation="modified" label="1024-C-h2-h3-p8-p15">

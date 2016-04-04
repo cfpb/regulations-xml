@@ -1875,7 +1875,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
                 <content><def term="respa">RESPA</def> means the Real Estate Settlement Procedures Act of 1974 (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.).</content>
               </paragraph>
               <paragraph label="1024-2-b-Servicer" marker="">
-        <content><def term="servicer">Servicer</def> means a person responsible for the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref> (including the person who makes or holds a mortgage loan if such person also services the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>). The term does not include:</content>
+        <content><def term="servicer">Servicer</def> means a person responsible for the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref> (including the person who makes or holds such loan if such person also services the loan). The term does not include: </content>
         <paragraph label="1024-2-b-Servicer-1" marker="(1)">
           <content>The Federal Deposit Insurance Corporation (FDIC), in connection with assets acquired, assigned, sold, or transferred pursuant to section 13(c) of the Federal Deposit Insurance Act or as receiver or conservator of an insured depository institution;</content>
         </paragraph>
