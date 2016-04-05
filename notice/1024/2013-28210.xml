@@ -131,9 +131,6 @@
       </paragraph>
     </change>
 
-
-
-
     <change operation="modified" label="1024-C-h2-h3-p8">
       <paragraph label="1024-C-h2-h3-p8" marker="">
         <content>“Summary of your loan.”—In this section, for all loans the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must fill in, where indicated:</content>
@@ -178,11 +175,12 @@
         <paragraph label="1024-C-h2-h3-p15" marker="">
           <content>The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate whether the loan requires a <ref target="1024-2-b-def0" reftype="term">balloon payment</ref> and, if so, the amount of the payment and in how many years it will be due. <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">Reverse mortgage</ref> transactions are not considered to be balloon transactions for the purposes of this disclosure on the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>.</content>
         </paragraph>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1024-C-h2-h3-p8-p15">
-      <paragraph label="1024-C-h2-h3-p8-p15" marker="">
-        <content>“ <ref target="1024-2-b-Settlement" reftype="term">Escrow</ref> account information. ”—The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate whether the loan includes an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account for property taxes and other financial obligations. The amount shown in the “Summary of your loan” section for “Your initial monthly amount owed for principal, interest, and any mortgage insurance” must be entered in the space for the monthly amount owed in this section. For <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transactions where the <ref target="1024-2-b-Lender" reftype="term">lender</ref> will establish an arrangement to pay for such items as property taxes and homeowner's insurance through draws from the principal limit, the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate that an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account is included and the amount shown in this section must be disclosed as `N/A.'</content>
+        <paragraph label="1024-C-h2-h3-p8-p15" marker="">
+          <content>“ <ref target="1024-2-b-Settlement" reftype="term">Escrow</ref> account information. ”—The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate whether the loan includes an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account for property taxes and other financial obligations. The amount shown in the “Summary of your loan” section for “Your initial monthly amount owed for principal, interest, and any mortgage insurance” must be entered in the space for the monthly amount owed in this section. For <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transactions where the <ref target="1024-2-b-Lender" reftype="term">lender</ref> will establish an arrangement to pay for such items as property taxes and homeowner's insurance through draws from the principal limit, the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate that an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> account is included and the amount shown in this section must be disclosed as `N/A.'</content>
+        </paragraph>
+        <paragraph label="1024-C-h2-h3-p8-p16" marker="">
+          <content>“ Summary of your <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges. ”—On this line, the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must state the Adjusted Origination Charges from subtotal A of page 2, the Charges for All Other <ref target="1024-2-b-SettlementService" reftype="term">Settlement Services</ref> from subtotal B of page 2, and the Total Estimated <ref target="1024-2-b-Settlement" reftype="term">Settlement</ref> Charges from the bottom of page 2.</content>
+        </paragraph>
       </paragraph>
     </change>
     <change operation="modified" label="1024-C-h2-h5-p21">
