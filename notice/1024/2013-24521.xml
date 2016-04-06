@@ -33,7 +33,7 @@
           </paragraph>
         </paragraph>
     </change>
-    <change operation="deleted" label="1024-39-c-Interp" subpath="title"/>
+    <change operation="deleted" label="1024-39-c-Interp"/>
     <change operation="added" label="1024-39-d-Interp">
       <interpParagraph label="1024-39-d-Interp">
         <content/>

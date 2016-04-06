@@ -5197,14 +5197,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
               </interpParagraph>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1024-39-c-Interp" target="1024-39-c">
-            <content/>
-            <interpParagraph label="1024-39-c-Interp-1" marker="1.">
-              <title type="keyterm">Borrowers in bankruptcy.</title>
-              <content>Section <ref target="1024-39" reftype="internal">1024.39</ref> does not require a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> may adapt the requirements of § <ref target="1024-39" reftype="internal">1024.39</ref> in any manner that would permit them to notify borrowers of <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref>.</content>
-            </interpParagraph>
-          </interpParagraph>
-        <interpParagraph label="1024-39-d-Interp">
+          <interpParagraph label="1024-39-d-Interp">
         <content/>
         <interpParagraph label="1024-39-d-1-Interp" target="1024-39-d-1" marker="(1)">
           <title>39(d)(1) Borrowers in bankruptcy.</title>
@@ -5279,10 +5272,15 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
                 <title type="keyterm">Diligence requirements.</title>
                 <content>Although a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has flexibility to establish its own requirements regarding the documents and information necessary for a <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must act with reasonable diligence to collect information needed to complete the <ref target="1024-2-b-Application" reftype="term">application</ref>. Further, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must request information necessary to make a <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> complete promptly after receiving the <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>. Reasonable diligence includes, without limitation, the following actions:</content>
                 <interpParagraph label="1024-41-b-1-Interp-4-i" marker="i.">
-                  <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> requires additional information from the applicant, such as an address or a telephone number to verify employment; the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> contacts the applicant promptly to obtain such information after receiving a <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>; and</content>
+                  <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> requires additional information from the applicant, such as an address or a telephone number to verify employment; the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> contacts the applicant promptly to obtain such information after receiving a <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>; </content>
                 </interpParagraph>
                 <interpParagraph label="1024-41-b-1-Interp-4-ii" marker="ii.">
-                  <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is transferred to a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and the borrower makes an incomplete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> to the transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> after the transfer; the transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> reviews documents provided by the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to determine if information required to make the <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> complete is contained within documents transferred by the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>.</content>
+                  <content><ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is transferred to a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and the borrower makes an incomplete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> to the transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> after the transfer; the transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> reviews documents provided by the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to determine if information required to make the <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> complete is contained within documents transferred by the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>; and</content>
+                </interpParagraph>
+                <interpParagraph label="1024-41-b-1-Interp-4-iii" marker="iii.">
+                  <content>
+                    A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> offers a borrower a payment forbearance program based on an incomplete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>; the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> notifies the borrower that he or she is being offered a payment forbearance program based on an evaluation of an incomplete <ref target="1024-2-b-Application" reftype="term">application</ref>, and that the borrower has the option of completing the <ref target="1024-2-b-Application" reftype="term">application</ref> to receive a full evaluation of all <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref> available to the borrower. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> provides such a notification, the borrower remains in compliance with the payment forbearance program, and the borrower does not request further assistance, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> could suspend reasonable diligence efforts until near the end of the payment forbearance program. Near the end of the program, and prior to the end of the forbearance period, it may be necessary for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to contact the borrower to determine if the borrower wishes to complete the <ref target="1024-2-b-Application" reftype="term">application</ref> and proceed with a full loss mitigation evaluation.
+                  </content>
                 </interpParagraph>
               </interpParagraph>
               <interpParagraph label="1024-41-b-1-Interp-5" marker="5.">
@@ -5428,33 +5426,25 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
               <interpParagraph label="1024-41-d-1-Interp-2" marker="2.">
                 <title type="keyterm">Net present value calculation.</title>
                 <content>If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.</content>
+                <interpParagraph label="1024-41-d-1-Interp-2-p1" marker="">
+                  <title type="keyterm">(c)(1)(4) Other notices.</title>
+                  <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to § <ref target="1024-41-d" reftype="internal">1024.41(d)</ref>, unless otherwise prohibited by applicable law.</content>
+                </interpParagraph>
               </interpParagraph>
               <interpParagraph label="1024-41-d-1-Interp-3" marker="3.">
-                <title type="keyterm">Other notices.</title>
-                <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to § <ref target="1024-41-d" reftype="internal">1024.41(d)</ref>, unless otherwise prohibited by applicable law.</content>
-              </interpParagraph>
-              <interpParagraph label="1024-41-d-1-Interp-4" marker="4.">
                 <title type="keyterm">Determination not to offer a loan modification option constitutes a denial.</title>
                 <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> offers a borrower a different loan modification option or other <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref>.</content>
               </interpParagraph>
-            </interpParagraph>
-          <interpParagraph label="1024-41-d-Interp-4" marker="4.">
+            <interpParagraph label="1024-41-d-Interp-4" marker="4.">
         <title type="keyterm">Reasons listed.</title>
         <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is required to disclose the actual reason or reasons for the denial. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>’s systems establish a hierarchy of eligibility criteria and reach the first criterion that causes a denial but do not evaluate the borrower based on additional criteria, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with the rule by providing only the reason or reasons with respect to which the borrower was actually evaluated and rejected as well as notification that the borrower was not evaluated on other criteria. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to determine or disclose whether a borrower would have been denied on the basis of additional criteria if such criteria were not actually considered.</content>
       </interpParagraph>
     </interpParagraph>
+          </interpParagraph>
           <interpParagraph label="1024-41-f-Interp">
             <title>41(f) Prohibition on foreclosure referral.</title>
             <content/>
-            <interpParagraph label="1024-41-f-1-Interp" target="1024-41-f-1">
-              <title>41(f)(1) Pre-foreclosure review period.</title>
-              <content/>
-              <interpParagraph label="1024-41-f-1-Interp-1" marker="1.">
-                <title type="keyterm">First notice or filing required by applicable law.</title>
-                <content>The first notice or filing required by applicable law refers to any document required to be filed with a court, entered into a land record, or provided to a borrower as a requirement for proceeding with a judicial or non-judicial foreclosure process. Such notices or filings include, for example, a foreclosure complaint, a notice of default, a notice of election and demand, or any other notice that is required by applicable law in order to pursue acceleration of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> obligation or sale of a property securing a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> obligation.</content>
-              </interpParagraph>
-            </interpParagraph>
-          <interpParagraph label="1024-41-f-Interp-1" target="1024-41-f-1" marker="1.">
+            <interpParagraph label="1024-41-f-Interp-1" target="1024-41-f-1" marker="1.">
         <title type="keyterm">Prohibited activities.</title>
         <content>Section 1024.41(f) prohibits a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> from making the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process under certain circumstances. Whether a document is considered the first notice or filing is determined on the basis of foreclosure procedure under the applicable State law.</content>
         <interpParagraph label="1024-41-f-Interp-1-i" marker="i.">

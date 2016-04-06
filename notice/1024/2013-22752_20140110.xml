@@ -272,7 +272,8 @@
       <title>41(c) Evaluation of loss mitigation applications.</title>
     </change>
     <change operation="deleted" label="1024-41-d-1-Interp" subpath="title"/>
-    <change operation="added" label="1024-41-d-Interp-4">
+    <change operation="deleted" label="1024-41-f-1-Interp"/>
+    <change operation="added" label="1024-41-d-1-Interp-4" parent="1024-41-d-1-Interp" after="1024-41-d-1-Interp-3">
       <interpParagraph label="1024-41-d-Interp-4" marker="4.">
         <title type="keyterm">Reasons listed.</title>
         <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is required to disclose the actual reason or reasons for the denial. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>&#8217;s systems establish a hierarchy of eligibility criteria and reach the first criterion that causes a denial but do not evaluate the borrower based on additional criteria, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with the rule by providing only the reason or reasons with respect to which the borrower was actually evaluated and rejected as well as notification that the borrower was not evaluated on other criteria. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to determine or disclose whether a borrower would have been denied on the basis of additional criteria if such criteria were not actually considered.</content>
