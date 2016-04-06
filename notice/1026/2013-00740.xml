@@ -553,18 +553,6 @@
       </section>
     </change>
 
-    <change operation="added" label="1026-36-g" parent="1026-36" after="1026-36-h">
-      <paragraph label="1026-36-g">
-	<content>[Reserved]</content>
-      </paragraph>
-    </change>
-
-    <change operation="added" label="1026-36-j" parent="1026-36" after="1026-36-i">
-      <paragraph label="1026-36-j">
-	<content>[Reserved]</content>
-      </paragraph>
-    </change>
-
     <change operation="added" label="1026-36-k" parent="1026-36" after="1026-36-j">
       <paragraph label="1026-36-k" marker="(k)">
 	<title>Negative amortization counseling.</title>
@@ -1269,7 +1257,7 @@
       </interpParagraph>
     </change>
 
-    <change operation="added" label="1026-34-a-8-Interp" parent="1026-34-a-Interp" after="1026-34-a-6-Interp">
+    <change operation="added" label="1026-34-a-8-Interp" parent="1026-34-a-Interp">
       <interpParagraph label="1026-34-a-8-Interp">
 	<title>34(a)(8) Late fees.</title>
 	<content/>
@@ -1297,7 +1285,7 @@
       </interpParagraph>
     </change>
 
-    <change operation="added" label="1026-34-a-10-Interp" parent="1026-34-a-Interp" after="1026-34-a-8-Interp">
+    <change operation="added" label="1026-34-a-10-Interp" parent="1026-34-a-Interp">
       <interpParagraph label="1026-34-a-10-Interp" target="1026-34-a-10">
 	<title>34(a)(10) Financing of points and fees.</title>
 	<content/>
@@ -1333,7 +1321,7 @@
       </interpParagraph>
     </change>
 
-    <change opreation="added" label="1026-36-k-Interp" parent="1026-36-Interp" after="1026-36-g">
+    <change opreation="added" label="1026-36-k-Interp" parent="1026-36-Interp" after="1026-36-g-Interp">
       <interpParagraph label="1026-36-k-Interp">
 	<title>36(k) Negative amortization counseling.</title>
 	<content/>

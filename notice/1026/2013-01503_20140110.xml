@@ -1489,7 +1489,7 @@
       </section>
     </change>
 
-    <change operation="added" label="1026-25-c-Interp">
+    <change operation="modified" label="1026-25-c-Interp">
       <interpParagraph label="1026-25-c-Interp">
         <content/>
         <interpParagraph label="1026-25-c-2-Interp" target="1026-25-c-2">
