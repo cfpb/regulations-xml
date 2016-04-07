@@ -22,17 +22,17 @@
     <change operation="modified" label="1024-30-a">
       <paragraph label="1024-30-a" marker="(a)">
         <title type="keyterm">In general.</title>
-        <content>Except as provided in paragraphs <ref target="1024-30-b" reftype="internal">(b)</ref> and <ref target="1024-30-c" reftype="internal">(c)</ref> of this section, this subpart applies to any <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>, as that term is defined in &#167; <ref target="1024-31" reftype="internal">1024.31</ref>.</content>
+        <content>Except as provided in paragraphs <ref target="1024-30-b" reftype="internal">(b)</ref> and <ref target="1024-30-c" reftype="internal">(c)</ref> of this section, this subpart applies to any <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref>, as that term is defined in &#167; <ref target="1024-31" reftype="internal">1024.31</ref>.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1024-35-g-1-iii-B">
       <paragraph label="1024-35-g-1-iii-B" marker="(B)">
-        <content>The <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> is discharged.</content>
+        <content>The <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> is discharged.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1024-36-f-1-v-B">
       <paragraph label="1024-36-f-1-v-B" marker="(B)">
-        <content>The <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> balance was paid in full.</content>
+        <content>The <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> balance was paid in full.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1024-39-b-1">
@@ -61,7 +61,7 @@
     </change>
     <change operation="modified" label="1024-41-c-1-ii">
       <paragraph label="1024-41-c-1-ii" marker="(ii)">
-        <content xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Provide the borrower with a notice in writing stating the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination of which <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref>, if any, it will offer to the borrower on behalf of the owner or assignee of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>. The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph <ref target="1024-41-e" reftype="internal">(e)</ref> of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal, as provided for in paragraph <ref target="1024-41-h" reftype="internal">(h)</ref> of this section. The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph <ref target="1024-41-e" reftype="internal">(e)</ref> of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal, as provided for in paragraph <ref target="1024-41-h" reftype="internal">(h)</ref> of this section.</content>
+        <content xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Provide the borrower with a notice in writing stating the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination of which <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref>, if any, it will offer to the borrower on behalf of the owner or assignee of the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref>. The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph <ref target="1024-41-e" reftype="internal">(e)</ref> of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal, as provided for in paragraph <ref target="1024-41-h" reftype="internal">(h)</ref> of this section. The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph <ref target="1024-41-e" reftype="internal">(e)</ref> of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal, as provided for in paragraph <ref target="1024-41-h" reftype="internal">(h)</ref> of this section.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1024-41-c-2-i">

@@ -25,11 +25,11 @@
         <content>&#8212;</content>
         <paragraph label="1024-39-d-1" marker="(1)">
           <title type="keyterm">Borrowers in bankruptcy.</title>
-          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is exempt from the requirements of this section for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> while the borrower is a debtor in bankruptcy under Title 11 of the United States Code.</content>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is exempt from the requirements of this section for a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> while the borrower is a debtor in bankruptcy under Title 11 of the United States Code.</content>
           </paragraph>
         <paragraph label="1024-39-d-2" marker="(2)">
           <title type="keyterm">Fair Debt Collections Practices Act.</title>
-          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> subject to the Fair Debt Collections Practices Act (FDCPA) (<ref target="USC:15-1692" reftype="external">15 U.S.C. 1692</ref> et seq.) with respect to a borrower is exempt from the requirements of this section with regard to a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> for which the borrower has sent a notification pursuant to FDCPA section 805(c) (<ref target="USC:15-1692" reftype="external">15 U.S.C. 1692</ref>c(c)).</content>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> subject to the Fair Debt Collections Practices Act (FDCPA) (<ref target="USC:15-1692" reftype="external">15 U.S.C. 1692</ref> et seq.) with respect to a borrower is exempt from the requirements of this section with regard to a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> for which the borrower has sent a notification pursuant to FDCPA section 805(c) (<ref target="USC:15-1692" reftype="external">15 U.S.C. 1692</ref>c(c)).</content>
           </paragraph>
         </paragraph>
     </change>
@@ -56,7 +56,7 @@
           </interpParagraph>
           <interpParagraph label="1024-39-d-1-Interp-3" marker="3.">
             <title type="keyterm">Joint obligors.</title>
-            <content>When two or more borrowers are joint obligors with primary liability on a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> subject to &#167; <ref target="1024-39" reftype="internal">1024.39</ref>, the exemption in &#167; <ref target="1024-39-d-1" reftype="internal">1024.39(d)(1)</ref> applies if any of the borrowers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is exempt from complying with &#167; <ref target="1024-39" reftype="internal">1024.39</ref> as to both the husband and the wife.</content>
+            <content>When two or more borrowers are joint obligors with primary liability on a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> subject to &#167; <ref target="1024-39" reftype="internal">1024.39</ref>, the exemption in &#167; <ref target="1024-39-d-1" reftype="internal">1024.39(d)(1)</ref> applies if any of the borrowers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is exempt from complying with &#167; <ref target="1024-39" reftype="internal">1024.39</ref> as to both the husband and the wife.</content>
           </interpParagraph>
         </interpParagraph>
       </interpParagraph>
