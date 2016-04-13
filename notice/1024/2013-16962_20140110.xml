@@ -36,32 +36,32 @@
 
         <tocAppEntry target="1024-A">
           <appendixLetter>A</appendixLetter>
-          <appendixSubject>Appendix A to Part 1024&#8212;Instructions for Completing HUD-1 and HUD-1a Settlement Statements; Sample HUD-1 and HUD-1a Statements</appendixSubject>
+          <appendixSubject>Appendix A to Part 1024—Instructions for Completing HUD-1 and HUD-1a Settlement Statements; Sample HUD-1 and HUD-1a Statements</appendixSubject>
         </tocAppEntry>
         <tocAppEntry target="1024-B">
           <appendixLetter>B</appendixLetter>
-          <appendixSubject>Appendix B to Part 1024&#8212;Illustrations of Requirements of RESPA</appendixSubject>
+          <appendixSubject>Appendix B to Part 1024—Illustrations of Requirements of RESPA</appendixSubject>
         </tocAppEntry>
         <tocAppEntry target="1024-C">
           <appendixLetter>C</appendixLetter>
-          <appendixSubject>Appendix C to Part 1024&#8212;Instructions for Completing Good Faith Estimate (GFE) Form</appendixSubject>
+          <appendixSubject>Appendix C to Part 1024—Instructions for Completing Good Faith Estimate (GFE) Form</appendixSubject>
         </tocAppEntry>
         <tocAppEntry target="1024-D">
           <appendixLetter>D</appendixLetter>
-          <appendixSubject>Appendix D to Part 1024&#8212;Affiliated Business Arrangement Disclosure Statement Format</appendixSubject>
+          <appendixSubject>Appendix D to Part 1024—Affiliated Business Arrangement Disclosure Statement Format</appendixSubject>
         </tocAppEntry>
         <tocAppEntry target="1024-E">
           <appendixLetter>E</appendixLetter>
-          <appendixSubject>Appendix E to Part 1024&#8212;Arithmetic Steps</appendixSubject>
+          <appendixSubject>Appendix E to Part 1024—Arithmetic Steps</appendixSubject>
         </tocAppEntry>
         <tocAppEntry target="1024-MS">
           <appendixLetter>MS</appendixLetter>
-          <appendixSubject>Appendix MS &#8212; Mortgage Servicing</appendixSubject>
+          <appendixSubject>Appendix MS — Mortgage Servicing</appendixSubject>
         </tocAppEntry>
 
         <tocAppEntry target="1024-Interp">
           <appendixLetter>Interp</appendixLetter>
-          <appendixSubject>Supplement I to Part 1024&#8212;Official Bureau Interpretations</appendixSubject>
+          <appendixSubject>Supplement I to Part 1024—Official Bureau Interpretations</appendixSubject>
         </tocAppEntry>
       </tableOfContents>
     </change>
@@ -70,63 +70,63 @@
       <tableOfContents label="1024-Subpart-B-TOC">
         <tocSecEntry target="1024-6">
           <sectionNum>6</sectionNum>
-          <sectionSubject>&#167; 1024.6 Special information booklet at time of loan application.</sectionSubject>
+          <sectionSubject>§ 1024.6 Special information booklet at time of loan application.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-7">
           <sectionNum>7</sectionNum>
-          <sectionSubject>&#167; 1024.7 Good faith estimate.</sectionSubject>
+          <sectionSubject>§ 1024.7 Good faith estimate.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-8">
           <sectionNum>8</sectionNum>
-          <sectionSubject>&#167; 1024.8 Use of HUD-1 or HUD-1A settlement statements.</sectionSubject>
+          <sectionSubject>§ 1024.8 Use of HUD-1 or HUD-1A settlement statements.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-9">
           <sectionNum>9</sectionNum>
-          <sectionSubject>&#167; 1024.9 Reproduction of settlement statements.</sectionSubject>
+          <sectionSubject>§ 1024.9 Reproduction of settlement statements.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-10">
           <sectionNum>10</sectionNum>
-          <sectionSubject>&#167; 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</sectionSubject>
+          <sectionSubject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-11">
           <sectionNum>11</sectionNum>
-          <sectionSubject>&#167; 1024.11 Mailing.</sectionSubject>
+          <sectionSubject>§ 1024.11 Mailing.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-12">
           <sectionNum>12</sectionNum>
-          <sectionSubject>&#167; 1024.12 No fee.</sectionSubject>
+          <sectionSubject>§ 1024.12 No fee.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-13">
           <sectionNum>13</sectionNum>
-          <sectionSubject>&#167; 1024.13 [Reserved]</sectionSubject>
+          <sectionSubject>§ 1024.13 [Reserved]</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-14">
           <sectionNum>14</sectionNum>
-          <sectionSubject>&#167; 1024.14 Prohibition against kickbacks and unearned fees.</sectionSubject>
+          <sectionSubject>§ 1024.14 Prohibition against kickbacks and unearned fees.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-15">
           <sectionNum>15</sectionNum>
-          <sectionSubject>&#167; 1024.15 Affiliated business arrangements.</sectionSubject>
+          <sectionSubject>§ 1024.15 Affiliated business arrangements.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-16">
           <sectionNum>16</sectionNum>
-          <sectionSubject>&#167; 1024.16 Title companies.</sectionSubject>
+          <sectionSubject>§ 1024.16 Title companies.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-17">
           <sectionNum>17</sectionNum>
-          <sectionSubject>&#167; 1024.17 Escrow accounts.</sectionSubject>
+          <sectionSubject>§ 1024.17 Escrow accounts.</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-18">
           <sectionNum>17</sectionNum>
-          <sectionSubject>&#167; 1024.18 [Reserved]</sectionSubject>
+          <sectionSubject>§ 1024.18 [Reserved]</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-19">
           <sectionNum>17</sectionNum>
-          <sectionSubject>&#167; 1024.19 [Reserved]</sectionSubject>
+          <sectionSubject>§ 1024.19 [Reserved]</sectionSubject>
         </tocSecEntry>
         <tocSecEntry target="1024-20">
           <sectionNum>20</sectionNum>
-          <sectionSubject>&#167; 1024.20 List of homeownership counseling organizations.</sectionSubject>
+          <sectionSubject>§ 1024.20 List of homeownership counseling organizations.</sectionSubject>
         </tocSecEntry>
       </tableOfContents>
     </change>
@@ -140,11 +140,9 @@
         <title type="keyterm">Relation to State laws.</title>
         <content/>
         <paragraph label="1024-5-c-1" marker="(1)">
-          <content><ref target="1024-2-b-State" reftype="term">State</ref> laws that are inconsistent with <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this part are preempted to the extent of the inconsistency. However, <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and these regulations do not annul, alter, affect, or exempt any person subject to their provisions from complying with the laws of any <ref target="1024-2-b-State" reftype="term">State</ref> with respect to <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> practices, except to the extent of the inconsistency.</content>
-        </paragraph>
+          <content><ref target="1024-2-b-State" reftype="term">State</ref> laws that are inconsistent with <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this part are preempted to the extent of the inconsistency. However, <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and these regulations do not annul, alter, affect, or exempt any <ref target="1024-2-b-def3" reftype="term">person</ref> subject to their provisions from complying with the laws of any <ref target="1024-2-b-State" reftype="term">State</ref> with respect to <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> practices, except to the extent of the inconsistency.</content></paragraph>
         <paragraph label="1024-5-c-2" marker="(2)">
-          <content>Upon request by any person, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> is authorized to determine if inconsistencies with <ref target="1024-2-b-State" reftype="term">State</ref> law exist; in doing so, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> shall consult with appropriate Federal agencies.</content>
-          <paragraph label="1024-5-c-2-i" marker="(i)">
+          <content>Upon request by any <ref target="1024-2-b-def3" reftype="term">person</ref>, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> is authorized to determine if inconsistencies with <ref target="1024-2-b-State" reftype="term">State</ref> law exist; in doing so, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> shall consult with appropriate Federal agencies.</content><paragraph label="1024-5-c-2-i" marker="(i)">
             <content>The <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> may not determine that a <ref target="1024-2-b-State" reftype="term">State</ref> law or regulation is inconsistent with any provision of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> or this part, if the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> determines that such law or regulation gives greater protection to the consumer.</content>
           </paragraph>
           <paragraph label="1024-5-c-2-ii" marker="(ii)">
@@ -152,24 +150,23 @@
           </paragraph>
         </paragraph>
         <paragraph label="1024-5-c-3" marker="(3)">
-          <content>Any person may request the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> to determine whether an inconsistency exists by submitting to the address established by the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> to request an official interpretation, a copy of the <ref target="1024-2-b-State" reftype="term">State</ref> law in question, any other law or judicial or administrative opinion that implements, interprets or applies the relevant provision, and an explanation of the possible inconsistency. A determination by the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> that an inconsistency with <ref target="1024-2-b-State" reftype="term">State</ref> law exists will be made by publication of a notice in the Federal Register. &#8220;Law&#8221; as used in this section includes regulations and any enactment which has the force and effect of law and is issued by a <ref target="1024-2-b-State" reftype="term">State</ref> or any political subdivision of a <ref target="1024-2-b-State" reftype="term">State</ref>.</content>
-        </paragraph>
+          <content>Any <ref target="1024-2-b-def3" reftype="term">person</ref> may request the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> to determine whether an inconsistency exists by submitting to the address established by the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> to request an official interpretation, a copy of the <ref target="1024-2-b-State" reftype="term">State</ref> law in question, any other law or judicial or administrative opinion that implements, interprets or applies the relevant provision, and an explanation of the possible inconsistency. A determination by the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> that an inconsistency with <ref target="1024-2-b-State" reftype="term">State</ref> law exists will be made by publication of a notice in the Federal Register. “Law” as used in this section includes regulations and any enactment which has the force and effect of law and is issued by a <ref target="1024-2-b-State" reftype="term">State</ref> or any political subdivision of a <ref target="1024-2-b-State" reftype="term">State</ref>.</content></paragraph>
         <paragraph label="1024-5-c-4" marker="(4)">
-          <content>A specific preemption of conflicting <ref target="1024-2-b-State" reftype="term">State</ref> laws regarding notices and disclosures of mortgage <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfers is set forth in &#167; <ref target="1024-33-d" reftype="internal">1024.33(d)</ref>.</content>
+          <content>A specific preemption of conflicting <ref target="1024-2-b-State" reftype="term">State</ref> laws regarding notices and disclosures of mortgage <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfers is set forth in § <ref target="1024-33-d" reftype="internal">1024.33(d)</ref>.</content>
         </paragraph>
       </paragraph>
     </change>
     
     <change operation="modified" label="1024-13">
       <section label="1024-13" sectionNum="13">
-        <subject>&#167; 1024.13 [Reserved]</subject>
+        <subject>§ 1024.13 [Reserved]</subject>
         <reserved/>
       </section>
     </change>
 
     <change operation="added" label="1024-5-Interp" before="1024-17-Interp">
       <interpSection label="1024-5-Interp" sectionNum="5">
-        <title>&#167; 1024.5&#8212;Coverage of RESPA</title>
+        <title>§ 1024.5—Coverage of RESPA</title>
         <interpParagraph label="1024-5-c-Interp">
           <title>5(c) Relation to State laws.</title>
           <content/>
@@ -189,24 +186,24 @@
             <title>Section 1024.5 Coverage of RESPA</title>
             <analysisSection>
               <title>The Proposal</title>
-              <analysisParagraph>The Bureau proposed to redesignate &#167; 1024.13 as &#167; 1024.5(c). Section 1024.13, &#8220;Relation to State laws,&#8221; sets forth rules regarding the relationship of the requirements in RESPA and Regulation X to requirements established pursuant to State law. In the 2013 RESPA Servicing Final Rule, the Bureau divided Regulation X into subparts and &#167; 1024.13 was located in new &#8220;Subpart B&#8212;Mortgage Settlement and Escrow Accounts.&#8221; However, the provisions of &#167; 1024.13(a) are intended to apply with respect to all of Regulation X. Because &#167; 1024.13 applies for all sections of Regulation X, the Bureau proposed to redesignate &#167; 1024.13 as &#167; 1024.5(c), located within &#8220;Subpart A&#8212;General Provisions.&#8221; Further, the Bureau proposed to remove and reserve &#167; 1024.13.</analysisParagraph>
-              <analysisParagraph>The Bureau further proposed to add commentary for proposed &#167; 1024.5(c) to make clear that Regulation X does not create field preemption. Since issuing the 2013 RESPA Servicing Final Rule, the Bureau had received inquiries as to whether Regulation X's mortgage servicing rules result in preemption of the field of mortgage servicing regulation. The Bureau had addressed this question in the preamble to the final rule, stating that &#8220;the Final Servicing Rules generally do not have the effect of prohibiting State law from affording borrowers broader consumer protection relating to mortgage servicing than those conferred under the Final Servicing Rules.&#8221;<footnote ref="16">78 FR 10706 (Feb. 14, 2013).</footnote>
-            The preamble further stated that, although &#8220;in certain circumstances, the effect of specific requirements of the Final Servicing Rules is to preempt certain limited aspects of state law&#8221; in general, &#8220;the Bureau explicitly took into account existing standards (both State and Federal) and either built in flexibility or designed its rules to coexist with those standards.&#8221;<footnote ref="17">Id. (specifically identifying the National Mortgage Settlement and the California Homeowner Bill of Rights).</footnote>
+              <analysisParagraph>The Bureau proposed to redesignate § 1024.13 as § 1024.5(c). Section 1024.13, “Relation to State laws,” sets forth rules regarding the relationship of the requirements in RESPA and Regulation X to requirements established pursuant to State law. In the 2013 RESPA Servicing Final Rule, the Bureau divided Regulation X into subparts and § 1024.13 was located in new “Subpart B—Mortgage Settlement and Escrow Accounts.” However, the provisions of § 1024.13(a) are intended to apply with respect to all of Regulation X. Because § 1024.13 applies for all sections of Regulation X, the Bureau proposed to redesignate § 1024.13 as § 1024.5(c), located within “Subpart A—General Provisions.” Further, the Bureau proposed to remove and reserve § 1024.13.</analysisParagraph>
+              <analysisParagraph>The Bureau further proposed to add commentary for proposed § 1024.5(c) to make clear that Regulation X does not create field preemption. Since issuing the 2013 RESPA Servicing Final Rule, the Bureau had received inquiries as to whether Regulation X's mortgage servicing rules result in preemption of the field of mortgage servicing regulation. The Bureau had addressed this question in the preamble to the final rule, stating that “the Final Servicing Rules generally do not have the effect of prohibiting State law from affording borrowers broader consumer protection relating to mortgage servicing than those conferred under the Final Servicing Rules.”<footnote ref="16">78 FR 10706 (Feb. 14, 2013).</footnote>
+            The preamble further stated that, although “in certain circumstances, the effect of specific requirements of the Final Servicing Rules is to preempt certain limited aspects of state law” in general, “the Bureau explicitly took into account existing standards (both State and Federal) and either built in flexibility or designed its rules to coexist with those standards.”<footnote ref="17">Id. (specifically identifying the National Mortgage Settlement and the California Homeowner Bill of Rights).</footnote>
           </analysisParagraph>
-              <analysisParagraph>Because the Bureau continued to receive questions on this issue, the Bureau believed it was appropriate to propose commentary to clarify the scope of proposed &#167; 1024.5(c) and expressly address concerns about field preemption. Consistent with the preamble to the 2013 RESPA Servicing Final Rule, proposed comment 5(c)(1)-1 stated that State laws that are in conflict with the requirements of RESPA or Regulation X may be preempted by RESPA and Regulation X. Proposed comment 5(c)(1)-1 stated further that nothing in RESPA or Regulation X, including the provisions in subpart C with respect to mortgage servicers or mortgage servicing, should be construed to preempt the entire field of regulation of the covered practices. This proposed addition to the commentary was meant to clarify that RESPA and Regulation X do not effectuate field preemption of States' regulation of mortgage servicers or mortgage servicing. The comment also made clear that RESPA and Regulation X do not preempt State laws that give greater protection to consumers than do these federal laws.</analysisParagraph>
+              <analysisParagraph>Because the Bureau continued to receive questions on this issue, the Bureau believed it was appropriate to propose commentary to clarify the scope of proposed § 1024.5(c) and expressly address concerns about field preemption. Consistent with the preamble to the 2013 RESPA Servicing Final Rule, proposed comment 5(c)(1)-1 stated that State laws that are in conflict with the requirements of RESPA or Regulation X may be preempted by RESPA and Regulation X. Proposed comment 5(c)(1)-1 stated further that nothing in RESPA or Regulation X, including the provisions in subpart C with respect to mortgage servicers or mortgage servicing, should be construed to preempt the entire field of regulation of the covered practices. This proposed addition to the commentary was meant to clarify that RESPA and Regulation X do not effectuate field preemption of States' regulation of mortgage servicers or mortgage servicing. The comment also made clear that RESPA and Regulation X do not preempt State laws that give greater protection to consumers than do these federal laws.</analysisParagraph>
               <analysisParagraph>The Bureau requested comment regarding the addition of the proposed commentary, including whether further clarification regarding the preemption effects of RESPA and Regulation X was necessary or appropriate.</analysisParagraph>
             </analysisSection>
             <analysisSection>
               <title>Comments</title>
-              <analysisParagraph>Numerous consumer and community groups provided similar comments supporting the proposed changes to the Regulation X preemption provision. These commenters supported the relocation of the preemption provision to &#167; 1024.5(c) in the General Provisions subpart and the addition of comment 5(c)(1)-1. Many of these consumer and community groups further suggested that the regulatory text itself be changed to replace the phrase &#8220;settlement practices&#8221; with language more clearly inclusive of servicing activities. Several also requested that an example be included with comment 5(c)(1)-1 showing that a state law more protective of consumers will not be preempted by Regulation X.</analysisParagraph>
+              <analysisParagraph>Numerous consumer and community groups provided similar comments supporting the proposed changes to the Regulation X preemption provision. These commenters supported the relocation of the preemption provision to § 1024.5(c) in the General Provisions subpart and the addition of comment 5(c)(1)-1. Many of these consumer and community groups further suggested that the regulatory text itself be changed to replace the phrase “settlement practices” with language more clearly inclusive of servicing activities. Several also requested that an example be included with comment 5(c)(1)-1 showing that a state law more protective of consumers will not be preempted by Regulation X.</analysisParagraph>
               <analysisParagraph>Two industry commenters supported the proposed changes to the Regulation X preemption provision. One trade association suggested that the Bureau should promote uniform servicing standards to help create certainty in the market. Another industry commenter stated that the current regulation covered the situation sufficiently and the proposed guidance was unnecessary.</analysisParagraph>
               <analysisParagraph>Two trade associations stated that the Bureau was narrowing the existing preemption provision to reduce the likelihood of preemption. One opposed the idea that state laws more protective of consumers are not preempted, and so opposed the inclusion of the comment. The other stated that the preemption provision for mortgage servicing transfers functions statutorily as a general preemption of mortgage servicing.</analysisParagraph>
-              <analysisParagraph>Several industry commenters pointed out that the statute and regulation use the word &#8220;inconsistent&#8221; when explaining which state laws may be preempted, while the proposed comment uses the more common term &#8220;conflict&#8221; to describe the situation. They suggested that the comment also use the term &#8220;inconsistent&#8221; to avoid confusion.</analysisParagraph>
+              <analysisParagraph>Several industry commenters pointed out that the statute and regulation use the word “inconsistent” when explaining which state laws may be preempted, while the proposed comment uses the more common term “conflict” to describe the situation. They suggested that the comment also use the term “inconsistent” to avoid confusion.</analysisParagraph>
             </analysisSection>
             <analysisSection>
               <title>Final Rule</title>
               <analysisParagraph>The relocation of the preemption provision and the guidance in proposed comment 5(c)(1)-1 were not intended to change the current preemption regime under Regulation X and the Bureau does not believe that they do so. The sentence in the regulation that consumer and community groups urged the Bureau to change simply replicates text in RESPA section 18. Therefore the Bureau does not believe that a change to that sentence would be appropriate. Comment 5(c)(1)-1 provides the Bureau's official interpretation of that regulatory language. As stated in the proposal, the Bureau believes that the relocation of the preemption provision and the addition of the comment are necessary and appropriate to eliminate any confusion as to how the preemption provision operates. In addition, the Bureau believes that the comment is sufficiently clear and does not consider an example to be necessary.</analysisParagraph>
-              <analysisParagraph>The final rule adopts the amendments as proposed, but changes the word &#8220;conflict&#8221; in the comment to &#8220;inconsistent&#8221; to avoid confusion.</analysisParagraph>
+              <analysisParagraph>The final rule adopts the amendments as proposed, but changes the word “conflict” in the comment to “inconsistent” to avoid confusion.</analysisParagraph>
             </analysisSection>
           </analysisSection>
       </analysis>
