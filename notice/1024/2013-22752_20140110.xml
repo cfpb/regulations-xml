@@ -50,13 +50,13 @@
     <change operation="modified" label="1024-41-b-2-ii">
       <paragraph label="1024-41-b-2-ii" marker="(ii)">
         <title type="keyterm">Time period disclosure.</title>
-        <content>The notice required pursuant to paragraph <ref target="1024-41-b-2-i-B" reftype="internal">(b)(2)(i)(B)</ref> of this section must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> complete.</content>
+        <content>The notice required pursuant to paragraph <ref target="1024-41-b-2-i-B" reftype="internal">(b)(2)(i)(B)</ref> of this section must include a reasonable date by which the borrower should submit the documents and information necessary to make the <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> complete.</content>
       </paragraph>
     </change>
     <change operation="added" label="1024-41-b-3">
       <paragraph label="1024-41-b-3" marker="(3)">
         <title type="keyterm">Determining Protections.</title>
-        <content>To the extent a determination of whether protections under this section apply to a borrower is made on the basis of the number of days between when a complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> is received and when a foreclosure sale occurs, such determination shall be made as of the date a complete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref> is received.</content>
+        <content>To the extent a determination of whether protections under this section apply to a borrower is made on the basis of the number of days between when a complete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> is received and when a foreclosure sale occurs, such determination shall be made as of the date a complete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> is received.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1024-41-c-1-ii">
@@ -67,13 +67,13 @@
     <change operation="modified" label="1024-41-c-2-i">
       <paragraph label="1024-41-c-2-i" marker="(i)">
         <title type="keyterm">In general.</title>
-        <content>Except as set forth in paragraph <ref target="1024-41-c-2-ii" reftype="internal">(c)(2)(ii)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not evade the requirement to evaluate a complete loss mitigation option for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>.</content>
+        <content>Except as set forth in paragraph <ref target="1024-41-c-2-ii" reftype="internal">(c)(2)(ii)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not evade the requirement to evaluate a complete loss mitigation option for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>.</content>
       </paragraph>
     </change>
     <change operation="added" label="1024-41-c-2-iii">
       <paragraph label="1024-41-c-2-iii" marker="(iii)">
         <title type="keyterm">Payment forbearance.</title>
-        <content>Notwithstanding paragraph <ref target="1024-41-c-2-i" reftype="internal">(c)(2)(i)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may offer a shortterm payment forbearance program to a borrower based upon an evaluation of an incomplete loss mitigation <ref target="1024-2-b-Application" reftype="term">application</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or nonjudicial foreclosure process, and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of a payment forbearance program offered pursuant to this section.</content>
+        <content>Notwithstanding paragraph <ref target="1024-41-c-2-i" reftype="internal">(c)(2)(i)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may offer a shortterm payment forbearance program to a borrower based upon an evaluation of an incomplete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not make the first notice or filing required by applicable law for any judicial or nonjudicial foreclosure process, and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of a payment forbearance program offered pursuant to this section.</content>
       </paragraph>
     </change>
     <change operation="added" label="1024-41-c-2-iv">
