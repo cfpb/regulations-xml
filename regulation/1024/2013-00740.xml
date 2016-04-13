@@ -1480,7 +1480,7 @@
           <content/>
           <paragraph label="1024-20-c-1" marker="(1)">
             <title type="keyterm">Reverse mortgage transactions.</title>
-            <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an applicant for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> transaction subject to <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a) the list of homeownership counseling organizations required under this section.</content>
+            <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> is not required to provide an applicant for a <ref target="1024-31-ReverseMortgageTransaction" reftype="term">reverse mortgage transaction</ref> subject to <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a) the list of homeownership counseling organizations required under this section.</content>
             </paragraph>
           <paragraph label="1024-20-c-2" marker="(2)">
             <title type="keyterm">Timeshare plans.</title>
