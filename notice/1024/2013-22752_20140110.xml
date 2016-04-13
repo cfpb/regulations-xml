@@ -149,8 +149,7 @@
           <content>Any periodic statement or coupon book required pursuant to <ref target="CFR:12-1026-41" reftype="external">12 CFR 1026.41</ref>.</content>
         </interpParagraph>
         <interpParagraph label="1024-35-c-Interp-2-iii" marker="(iii)">
-          <content>Any Web site the servicer maintains in connection with the servicing of the loan. </content>
-        </interpParagraph>
+          <content>Any Web site the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> maintains in connection with the servicing of the loan. </content></interpParagraph>
         <interpParagraph label="1024-35-c-Interp-2-iv" marker="(iv)">
           <content>Any notice required pursuant to §§ <ref target="1024-39" reftype="internal">1024.39</ref> or <ref target="1024-41" reftype="internal">.41</ref> that includes contact information for assistance.</content>
         </interpParagraph>
@@ -167,8 +166,7 @@
           <content>Any periodic statement or coupon book required pursuant to <ref target="CFR:12-1026-41" reftype="external">12 CFR 1026.41</ref>.</content>
         </interpParagraph>
         <interpParagraph label="1024-36-b-Interp-2-iii" marker="(iii)">
-          <content>Any Web site the servicer maintains in connection with the servicing of the loan. </content>
-        </interpParagraph>
+          <content>Any Web site the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> maintains in connection with the servicing of the loan. </content></interpParagraph>
         <interpParagraph label="1024-36-b-Interp-2-iv" marker="(iv)">
           <content>Any notice required pursuant to §§ <ref target="1024-39" reftype="internal">1024.39</ref> or <ref target="1024-41" reftype="internal">.41</ref> that includes contact information for assistance.</content>
         </interpParagraph>
