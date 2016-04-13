@@ -135,7 +135,7 @@
     <change operation="modified" label="1024-33-c-1-Interp-2">
       <interpParagraph label="1024-33-c-1-Interp-2" marker="2.">
         <title type="keyterm">Compliance with § 1024.39.</title>
-        <content>A transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s compliance with § <ref target="1024-39" reftype="internal">1024.39</ref> during the 60-day period beginning on the effective date of a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfer does not constitute treating a payment as late for purposes of § <ref target="1024-33-c-1" reftype="internal">1024.33(c)(1)</ref>.</content>
+        <content>A <ref target="1024-31-TransfereeServicer" reftype="term">transferee servicer</ref>'s compliance with § <ref target="1024-39" reftype="internal">1024.39</ref> during the 60-day period beginning on the effective date of a <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfer does not constitute treating a payment as late for purposes of § <ref target="1024-33-c-1" reftype="internal">1024.33(c)(1)</ref>.</content>
       </interpParagraph>
     </change>
     <change operation="modified" label="1024-35-c-Interp-2">
