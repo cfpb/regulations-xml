@@ -874,7 +874,7 @@
           <section label="1024-11" sectionNum="11">
             <subject>§ 1024.11 Mailing.</subject>
             <paragraph label="1024-11-p1" marker="">
-              <content>The provisions of this part requiring or permitting mailing of documents shall be deemed to be satisfied by placing the document in the mail (whether or not received by the addressee) addressed to the addresses stated in the loan <ref target="1024-2-b-Application" reftype="term">application</ref> or in other information submitted to or obtained by the <ref target="1024-2-b-Lender" reftype="term">lender</ref> at the time of loan <ref target="1024-2-b-Application" reftype="term">application</ref> or submitted or obtained by the <ref target="1024-2-b-Lender" reftype="term">lender</ref> or settlement agent, except that a revised address shall be used where the <ref target="1024-2-b-Lender" reftype="term">lender</ref> or settlement agent has been expressly informed in writing of a change in address.</content></paragraph>
+              <content>The provisions of this part requiring or permitting mailing of documents shall be deemed to be satisfied by placing the document in the mail (whether or not received by the addressee) addressed to the addresses stated in the loan <ref target="1024-2-b-Application" reftype="term">application</ref> or in other information submitted to or obtained by the <ref target="1024-2-b-Lender" reftype="term">lender</ref> at the time of loan <ref target="1024-2-b-Application" reftype="term">application</ref> or submitted or obtained by the <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agent, except that a revised address shall be used where the <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agent has been expressly informed in writing of a change in address.</content></paragraph>
           </section>
           <section label="1024-12" sectionNum="12">
             <subject>§ 1024.12 No fee.</subject>
@@ -2381,8 +2381,7 @@
             <content>[A.] Set forth below is the estimated charge or range of charges for the <ref target="1024-2-b-SettlementService" reftype="term">settlement services</ref> listed. You are NOT required to use the listed provider(s) as a condition for [<ref target="1024-2-b-Settlement" reftype="term">settlement</ref> of your loan on] [or] [purchase, sale, or refinance of] the subject property. THERE ARE FREQUENTLY OTHER <ref target="1024-2-b-SettlementService" reftype="term">SETTLEMENT SERVICE</ref> PROVIDERS AVAILABLE WITH SIMILAR SERVICES. YOU ARE FREE TO SHOP AROUND TO DETERMINE THAT YOU ARE RECEIVING THE BEST SERVICES AND THE BEST RATE FOR THESE SERVICES.</content>
           </paragraph>
           <paragraph label="1024-D-h1-p8" marker="">
-            <content><dash>[provider and settlement service]</dash></content>
-          </paragraph>
+            <content><dash>[provider and <ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref>]</dash></content></paragraph>
           <paragraph label="1024-D-h1-p9" marker="">
             <content>
               <dash/>
@@ -2412,8 +2411,7 @@
             <content>[B.] Set forth below is the estimated charge or range of charges for the <ref target="1024-2-b-SettlementService" reftype="term">settlement services</ref> of an attorney, credit reporting agency, or real estate appraiser that we, as your <ref target="1024-2-b-Lender" reftype="term">lender</ref>, will require you to use, as a condition of your loan on this property, to represent our interests in the transaction.</content>
           </paragraph>
           <paragraph label="1024-D-h1-p15" marker="">
-            <content><dash>[provider and settlement service]</dash></content>
-          </paragraph>
+            <content><dash>[provider and <ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref>]</dash></content></paragraph>
           <paragraph label="1024-D-h1-p16" marker="">
             <content>
               <dash/>
