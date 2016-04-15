@@ -18,7 +18,7 @@
     <effectiveDate>2013-06-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/01/22/2013-00734/escrow-requirements-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
-  <changeset>
+  <changeset leftDocumentNumber="2013-10429" rightDocumentNumber="2013-00734">
     <change operation="added" label="1026-35-b-2-iii-Interp-1-ii">
       <interpParagraph label="1026-35-b-2-iii-Interp-1-ii" marker="ii.">
         <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> and its <ref target="1026-32-b-2" reftype="term">affiliates</ref> together originated 500 or fewer first-lien covered transactions, as defined in § 1026.43(b)(1), during the preceding calendar year.</content>

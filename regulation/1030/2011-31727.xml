@@ -85,7 +85,7 @@
       </tocAppEntry>
     </tableOfContents>
     <content>
-      <subpart>
+      <subpart label="1030-Subpart">
         <tableOfContents>
           <tocSecEntry target="1030-1">
             <sectionNum>1</sectionNum>
@@ -1734,6 +1734,11 @@
       </appendix>
       
       <interpretations label="1030-Interp">
+	<tableOfContents>
+	  <tocInterpEntry target="1030-Interp-h1">
+	    <interpTitle>Introduction</interpTitle>
+	  </tocInterpEntry>
+	</tableOfContents>
         <title>Supplement I to Part 1030&#8212;Official Interpretations</title>
         <interpSection label="1030-Interp-h1">
           <title>Introduction</title>

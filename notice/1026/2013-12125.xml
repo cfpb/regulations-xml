@@ -18,7 +18,7 @@
     <effectiveDate>2013-06-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/05/23/2013-12125/amendments-to-the-2013-escrows-final-rule-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
-  <changeset>
+  <changeset leftDocumentNumber="2013-01503_20130601" rightDocumentNumber="2013-12125">
     <change operation="modified" label="1026-35-a-2">
       <paragraph label="1026-35-a-2" marker="(2)">
         <content>“Average prime offer rate” means an annual percentage rate that is derived from average interest rates, points, and other loan pricing terms currently offered to <ref target="1026-2-a-11" reftype="term">consumers</ref> by a representative sample of <ref target="1026-2-a-17" reftype="term">creditors</ref> for mortgage transactions that have low-risk pricing characteristics. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> publishes average prime offer rates for a broad range of types of transactions in a table updated at least weekly as well as the methodology the <ref target="1026-2-a-5" reftype="term">Bureau</ref> uses to derive these rates.</content>
