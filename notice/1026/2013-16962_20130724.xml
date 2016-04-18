@@ -47,10 +47,10 @@
             </paragraph>
           </paragraph>
         </paragraph>
-	<paragraph label="1026-35-e-3" marker="(3)">
-	  <title type="keyterm">Exclusions.</title>
-	  <content>This paragraph (e) does not apply to a transaction to finance the initial construction of a dwelling; a temporary or “bridge” loan with a term of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months; or a reverse mortgage transaction subject to § 1026.33.</content>
-	</paragraph>
+      	<paragraph label="1026-35-e-3" marker="(3)">
+      	  <title type="keyterm">Exclusions.</title>
+      	  <content>This paragraph (e) does not apply to a transaction to finance the initial construction of a dwelling; a temporary or “bridge” loan with a term of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months; or a reverse mortgage transaction subject to § <ref target="1026-33" reftype="term">1026.33</ref>.</content>
+      	</paragraph>
         <paragraph label="1026-35-e-4" marker="(4)">
           <content>Sunset of requirements on repayment ability and prepayment penalties. The requirements described in this paragraph <ref target="1026-35-e" reftype="internal">(e)</ref> shall expire at 11:59 p.m. on January 9, 2014.</content>
         </paragraph>

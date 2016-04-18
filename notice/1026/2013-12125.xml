@@ -53,7 +53,7 @@
     
     <change operation="modified" label="1026-35-b-2-iv-B">
       <paragraph label="1026-35-b-2-iv-B" marker="(B)">
-        <content>A county is “underserved” during a calendar year if, according to Home Mortgage Disclosure Act (HMDA) data for the preceding calendar year, no more than two <ref target="1026-2-a-17" reftype="term">creditors</ref> extended covered transactions, as defined in § <ref target="1026-43-b-1">1026.43(b)(1)</ref>, secured by a first lien, five or more times in the county. A <ref target="1026-2-a-17" reftype="term">creditor</ref> may rely as a safe harbor on the list of counties published by the <ref target="1026-2-a-5" reftype="term">Bureau</ref> to determine whether a county qualifies as “underserved” for a particular calendar year.</content>
+        <content>A county is “underserved” during a calendar year if, according to Home Mortgage Disclosure Act (HMDA) data for the preceding calendar year, no more than two <ref target="1026-2-a-17" reftype="term">creditors</ref> extended covered transactions, as defined in § <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>, secured by a first lien, five or more times in the county. A <ref target="1026-2-a-17" reftype="term">creditor</ref> may rely as a safe harbor on the list of counties published by the <ref target="1026-2-a-5" reftype="term">Bureau</ref> to determine whether a county qualifies as “underserved” for a particular calendar year.</content>
       </paragraph>
     </change>
 
