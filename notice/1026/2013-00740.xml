@@ -999,7 +999,7 @@
       </interpParagraph>
     </change>
 
-    <change opreation="modified" label="1026-34-a-4-Interp">
+    <change operation="modified" label="1026-34-a-4-Interp">
       <interpParagraph label="1026-34-a-4-Interp" target="1026-34-a-4">
         <title>34(a)(4) Repayment ability for high-cost mortgages</title>
         <content/>
@@ -1322,7 +1322,7 @@
       </interpParagraph>
     </change>
 
-    <change opreation="added" label="1026-36-k-Interp" parent="1026-36-Interp" after="1026-36-g-Interp">
+    <change operation="added" label="1026-36-k-Interp" parent="1026-36-Interp" after="1026-36-g-Interp">
       <interpParagraph label="1026-36-k-Interp">
 	<title>36(k) Negative amortization counseling.</title>
 	<content/>

@@ -1313,7 +1313,7 @@
   </changeset>
   <!-- New analysis -->
   <analysis>
-    <analysisSection>
+    <analysisSection target="1026-43" notice="2013-16962_20140110" date="2014-01-10">
       <title>Section 1026.43 Minimum Standards for Transactions Secured by a Dwelling 43(a) Scope</title>
       <analysisParagraph>Sections 1411, 1412 and 1414 of the Dodd-Frank Act add new TILA section 129C, which requires creditors to determine a consumer's ability to repay a “residential mortgage loan” and establishes new rules and prohibitions on prepayment penalties. Section 1401 of the Dodd-Frank Act adds new TILA section 103(cc),<footnote ref="87">Two TILA subsections designated 103(cc) exist due to a discrepancy in the instructions given by the Dodd-Frank Act. See Dodd-Frank Act sections 1100A and 1401.</footnote>
       which defines “residential mortgage loan” to mean, with some exceptions, any consumer credit transaction secured by a mortgage, deed of trust, or other equivalent consensual security interest on “a dwelling or on residential real property that includes a dwelling.” TILA section 103(v) defines “dwelling” to mean a residential structure or mobile home which contains one- to four-family housing units, or individual units of condominiums or cooperatives. Thus, a “residential mortgage loan” is a dwelling-secured consumer credit transaction, regardless of whether the consumer credit transaction involves a home purchase, refinancing, home equity loan, first lien or subordinate lien, and regardless of whether the dwelling is a principal residence, second home, vacation home (other than a timeshare residence), a one- to four-unit residence, condominium, cooperative, mobile home, or manufactured home.</analysisParagraph>
