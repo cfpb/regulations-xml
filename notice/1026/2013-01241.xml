@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -18,20 +19,17 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/02/14/2013-01241/mortgage-servicing-rules-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-00740" rightDocumentNumber="2013-01241">
-
     <change operation="modified" label="1026-17-a-1">
       <paragraph label="1026-17-a-1" marker="(1)">
         <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make the disclosures required by this subpart clearly and conspicuously in writing, in a form that the <ref target="1026-2-a-11" reftype="term">consumer</ref> may keep. The disclosures required by this subpart may be provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref> in electronic form, subject to compliance with the <ref target="1026-2-a-11" reftype="term">consumer</ref> consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (<ref target="USC:15-7001" reftype="external">15 U.S.C. 7001</ref> et seq.). The disclosures required by §§ <ref target="1026-17-g" reftype="internal">1026.17(g)</ref>, <ref target="1026-19-b" reftype="internal">1026.19(b)</ref>, and <ref target="1026-24" reftype="internal">1026.24</ref> may be provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref> in electronic form without regard to the <ref target="1026-2-a-11" reftype="term">consumer</ref> consent or other provisions of the E-Sign Act in the circumstances set forth in those sections. The disclosures shall be grouped together, shall be segregated from everything else, and shall not contain any information not directly related to the disclosures required under § <ref target="1026-18" reftype="internal">1026.18</ref>, § 10<ref target="1026-47" reftype="internal">26.20(c</ref>) and (d), or § 1026.47. The disclosures required by § 1026.20(d) shall be provided as a separate document from all other written materials. The disclosures may include an acknowledgment of receipt, the date of the transaction, and the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s name, address, and account <ref target="1026-18-a" reftype="internal">number. Th</ref>e following disclosures may be made <ref target="1026-18-f-1-iv" reftype="internal">together with or </ref>separately from other required disclosure<ref target="1026-18-n" reftype="internal">s: The cre</ref><ref target="1026-2-a-17" reftype="term">creditor</ref>'s identity under § 1026.18(a), the variabl<ref target="1026-18-o" reftype="internal">e rate exa</ref>mple under § 1026.18(f)(1)(iv), insurance or debt<ref target="1026-18-c-1" reftype="internal"> cancellation</ref> under § 1026.18(n), and certain <ref target="1026-2-a-25" reftype="term">security interest</ref> ch<ref target="1026-18" reftype="internal">arges u</ref>nder § 1026.18(o). The itemization of the amount financed under § 1026.18(<ref target="1026-47" reftype="internal">c)(1) m</ref>ust be separate from the other disclosures under § 1026.18, except for private education loan disclosures made in compliance with § 1026.47.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1026-17-b">
       <paragraph label="1026-17-b" marker="(b)">
         <title type="keyterm">Time of disclosures.</title>
         <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make disclosures before <ref target="1026-2-a-13" reftype="term">consummation</ref> of the transaction. In certain <ref target="1026-2-a-24" reftype="term">residential mortgage transactions</ref>, special timing requirements are set forth in § <ref target="1026-19-a" reftype="internal">1026.19(a)</ref>. In certain variable-rate transactions, special timing requirements for variable-rate disclosures are set forth in § <ref target="1026-19-b" reftype="internal">1026.19(b)</ref> and § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref> and (d). For private education loan disclosures made in compliance<ref target="1026-47" reftype="internal"> with §</ref> 1026.47, special timing requirements are set for<ref target="1026-46-d" reftype="internal">th in § 10</ref>26.46(d). In certain transactions involving mail or telephone orders or a series of sales, the timing of disclosures may be delayed in accordance with par<ref target="1026-17-g" reftype="internal">agr</ref>aphs <ref target="1026-17-h" reftype="internal">(g)</ref> and (h) of this section.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1026-20">
       <section label="1026-20" sectionNum="20">
         <subject>§ 1026.20 Disclosure requirements regarding post-consummation events.</subject>
@@ -279,15 +277,8 @@
             </paragraph>
           </paragraph>
         </paragraph>
-        <analysis>
-          <analysisSection>
-            <title>Section 1026.20 Subsequent Disclosure Requirements</title>
-            <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed a new § 226.20(d) to implement the disclosure requirements of TILA sections 129D(j)(1)(B) and 129D(j)(2), as enacted by section 1462 of the Dodd-Frank Act. TILA section 129D(j)(1)(B) requires a creditor or servicer to provide the disclosures set forth in TILA section 129D(j)(2) when a consumer requests closure of an escrow account that was established in connection with a transaction secured by real property. Proposed § 226.20(d) would have directed the creditor or servicer to disclose the information about escrow accounts in accordance with certain format and timing requirements. As previously noted, the Bureau has delayed the implementation of certain disclosure requirements contained in title XIV of the Dodd-Frank Act, including those contained in sections 1461 and 1462. <em data-original="E-03">See</em> 77 FR 70105 (Nov. 23, 2012). Consequently, the Bureau will not be adopting a new § 1026.20(d) in this rule.</analysisParagraph>
-          </analysisSection>
-        </analysis>
       </section>
     </change>
-
     <change operation="modified" label="1026-36-c">
       <paragraph label="1026-36-c" marker="(c)">
         <title type="keyterm">Servicing practices.</title>
@@ -324,7 +315,6 @@
         </paragraph>
       </paragraph>
     </change>
-
     <change operation="modified" label="1026-41">
       <section label="1026-41" sectionNum="41">
         <subject>§ 1026.41 Periodic statements for residential mortgage loans.</subject>
@@ -505,7 +495,6 @@
         </paragraph>
       </section>
     </change>
-
     <change operation="modified" label="1026-H">
       <appendix appendixLetter="H" label="1026-H">
         <appendixTitle>Appendix H to Part 1026—Closed-End Model Forms and Clauses</appendixTitle>
@@ -1275,8 +1264,10 @@
             </paragraph>
             <paragraph label="1026-H-14-h11-p110" marker="">
               <content>
-                <callout type="note"><line>Note:</line>
-<line>To see what your payments would have been during that period, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, in 1996 the monthly payment for a mortgage amount of $60,000 taken out in 1982 would be: $60,000÷$10,000=6; 6×$106.73=$640.38.)</line></callout>
+                <callout type="note">
+                  <line>Note:</line>
+                  <line>To see what your payments would have been during that period, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, in 1996 the monthly payment for a mortgage amount of $60,000 taken out in 1982 would be: $60,000÷$10,000=6; 6×$106.73=$640.38.)</line>
+                </callout>
               </content>
             </paragraph>
             <paragraph label="1026-H-14-h11-p111" marker="">
@@ -1525,40 +1516,34 @@
         </appendixSection>
       </appendix>
     </change>
-
     <change operation="modified" label="1026-17-a-1-Interp-2-ii">
       <interpParagraph label="1026-17-a-1-Interp-2-ii" marker="ii.">
         <content>The general segregation requirement described in this subparagraph does not apply to the disclosures required under § 1<ref target="1026-19-b" reftype="internal">026.19(b) </ref>altho<ref target="1026-20-c" reftype="internal">ugh the di</ref>sclosures must be clear and conspicuous.</content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-17-c-1-Interp-1">
       <interpParagraph label="1026-17-c-1-Interp-1" marker="1.">
         <title type="keyterm">Legal obligation.</title>
         <content>The disclosures shall reflect the <ref target="1026-2-a-14" reftype="term">credit</ref> terms to which the parties are legally bound as of the outset of the transaction. In the case of disclosures required under § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref> and (d), the disclosures shall reflect the <ref target="1026-2-a-14" reftype="term">credit</ref> terms to which the parties are legally bound when the disclosures are provided. The legal obligation is determined by applicable <ref target="1026-2-a-26" reftype="term">State</ref> law or other law. (Certain transactions are specifically addressed in this commentary. See, for example, the discussion of buydown transactions elsewhere in the commenta<ref target="1026-17-c-Interp" reftype="internal">ry to § 10</ref>26.17(c).) The fact that a term or contract may later be deemed unenforceable by a court on the basis of equity or other grounds does not, by itself, mean that disclosures based on that term or contract did not reflect the legal obligation.</content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-19-b-Interp-4">
       <interpParagraph label="1026-19-b-Interp-4" marker="4.">
         <title type="keyterm">Other variable-rate regulations.</title>
         <content>Transactions in which the <ref target="1026-2-a-17" reftype="term">creditor</ref> is required to comply with and has complied with the disclosure requirements of the variable-rate regulations of other Federal agencies are exempt from the requirements of § <ref target="1026-19-b" reftype="internal">1026.19(b)</ref>, by virtue of § <ref target="1026-19-d" reftype="internal">1026.19(d)</ref>. The exception is also available to <ref target="1026-2-a-17" reftype="term">creditors</ref><ref target="1026-20-c" reftype="internal">rs that ar</ref>e required by <ref target="1026-2-a-26" reftype="term">State</ref><ref target="1026-20-d" reftype="internal">te law to </ref>comply with the Federal variable-rate regulations noted above. <ref target="1026-2-a-17" reftype="term">Creditors</ref> using this exception should comply with the timing requirements of those regulations rather than the timing requirements of Regulation Z in making the variable-rate disclosures.</content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-19-b-Interp-5-i-C">
       <interpParagraph label="1026-19-b-Interp-5-i-C" marker="C.">
         <content>“Price-level-adjusted mortgages” or other indexed mortgages that have a fixed rate of interest but provide for periodic adjustments to payments and the loan balance to reflect changes in an index measuring prices or inflation. The disclosures under § <ref target="1026-19-b-1" reftype="internal">1026.19(b)(1)</ref> are not applicable to such loans, nor are the following provisions to the extent they relate to the determination of the interest rate by the addition of a margin, changes in the interest rate, or interest rate discounts: § 1026.1<ref target="1026-19-b-2-i" reftype="internal">9(b)(2)(i), (iii)</ref>, <ref target="1026-19-b-2-iii" reftype="internal">(iv),</ref> (<ref target="1026-19-b-2-iv" reftype="internal">v), </ref>(vi), (vii), (viii), and (ix). (See comments 20(c)(1)(ii)-3.ii, 20(d)(1)(ii)-2.ii, and 30-1 regarding the inapplicability of variable-rate adjustment notices and interest rate limitations to price-level-adjusted or similar mortgages.)</content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-19-b-2-xi-Interp-1">
       <interpParagraph label="1026-19-b-2-xi-Interp-1" marker="1.">
         <title type="keyterm">Adjustment notices.</title>
         <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must disclose to the <ref target="1026-2-a-11" reftype="term">consumer</ref> the type of information that will be contained in subsequent notices of adjustments and when such notices will be provided. (See the commentary to § <ref target="1026-20-c-Interp" reftype="internal">1026.20(c)</ref> and (d) regarding notices of adjustments.) For example, the disclosure provided pursuant to § 1026.20(d) might <ref target="1026-2-a-26" reftype="term">state</ref>, “You will be notified at least 210, but no more than 240, days before the first payment at the adjusted level is due after the initial interest rate adjustment of the loan. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.” The disclosure provided pursuant to § 1026.20(c) might <ref target="1026-2-a-26" reftype="term">state</ref>, “You will be notified at least 60, but no more than 120, days before the first payment at the adjusted level is due after any interest rate adjustment resulting in a corresponding payment change. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.”</content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-20-Interp">
       <interpSection label="1026-20-Interp" sectionNum="20">
         <title>Section 1026.20—Disclosure Requirements Regarding Post-Consummation Events</title>
@@ -1860,7 +1845,7 @@
           <content/>
           <interpParagraph label="1026-20-d-Interp-1" marker="1.">
             <title type="keyterm">Creditors, assignees, and servicers.</title>
-            <content><ref target="1026-2-a-17" reftype="term">Creditors</ref> <ref target="1026-2-a-17" reftype="term">Creditors</ref>, assignees, and servicers that own either the applicable adjustable-rate mortgage or the applicable mortgage servicing rights or both are subject to the requirements of § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref>. <ref target="1026-2-a-17" reftype="term">Creditors</ref>, assignees, and servicers are also subject to the requirements of any provision of subpart C that governs § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref>. For example, the form requirements of § <ref target="1026-17-a" reftype="internal">1026.17(a)</ref> apply to § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref> disclosures and thus, assignees and servicers, as well as <ref target="1026-2-a-17" reftype="term">creditors</ref>, are subject to those requirements. While <ref target="1026-2-a-17" reftype="term">creditors</ref>, assignees, and servicers are all subject to the requirements of § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref>, they may decide among themselves which of them will provide the required disclosures.</content>
+            <content><ref target="1026-2-a-17" reftype="term">Creditors</ref><ref target="1026-2-a-17" reftype="term">Creditors</ref>, assignees, and servicers that own either the applicable adjustable-rate mortgage or the applicable mortgage servicing rights or both are subject to the requirements of § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref>. <ref target="1026-2-a-17" reftype="term">Creditors</ref>, assignees, and servicers are also subject to the requirements of any provision of subpart C that governs § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref>. For example, the form requirements of § <ref target="1026-17-a" reftype="internal">1026.17(a)</ref> apply to § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref> disclosures and thus, assignees and servicers, as well as <ref target="1026-2-a-17" reftype="term">creditors</ref>, are subject to those requirements. While <ref target="1026-2-a-17" reftype="term">creditors</ref>, assignees, and servicers are all subject to the requirements of § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref>, they may decide among themselves which of them will provide the required disclosures.</content>
           </interpParagraph>
           <interpParagraph label="1026-20-d-Interp-2" marker="2.">
             <title type="keyterm">Loan modifications.</title>
@@ -1976,14 +1961,12 @@
         </interpParagraph>
       </interpSection>
     </change>
-
     <change operation="modified" label="1026-36-c-1-i-Interp-2">
       <interpParagraph label="1026-36-c-1-i-Interp-2" marker="2.">
         <title type="keyterm">Payments to be credited.</title>
         <content>Method of crediting periodic payments. The method by which periodic payments shall be credited is based on the legal obligation between the <ref target="1026-2-a-17" reftype="term">creditor</ref> and <ref target="1026-2-a-11" reftype="term">consumer</ref>, subject to applicable law.</content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-36-c-1-ii-Interp">
       <interpParagraph label="1026-36-c-1-ii-Interp" target="1026-36-c-1-ii">
         <title>Paragraph 36(c)(1)(ii).</title>
@@ -2003,7 +1986,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-36-c-1-iii-Interp">
       <interpParagraph label="1026-36-c-1-iii-Interp" target="1026-36-c-1-iii">
         <title>Paragraph 36(c)(1)(iii).</title>
@@ -2022,7 +2004,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-36-c-2-Interp">
       <interpParagraph label="1026-36-c-2-Interp" target="1026-36-c-2">
         <title>Paragraph 36(c)(2).</title>
@@ -2033,7 +2014,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1026-36-c-3-Interp">
       <interpParagraph label="1026-36-c-3-Interp">
         <title>Paragraph 36(c)(3).</title>
@@ -2052,7 +2032,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1026-41-Interp">
       <interpSection label="1026-41-Interp" sectionNum="41">
         <title>Section 1026.41—Periodic Statements for Residential Mortgage Loans</title>
@@ -2231,7 +2210,6 @@
         </interpParagraph>
       </interpSection>
     </change>
-
     <change operation="modified" label="1026-H-Interp-7">
       <interpParagraph label="1026-H-Interp-7" marker="7.">
         <title type="keyterm">Models H-4(D) through H-4(J).</title>
@@ -2262,8 +2240,12 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-    
     <!-- end notice -->
-    
   </changeset>
+  <analysis>
+    <analysisSection target="1026-20" notice="2013-01241" date="2014-01-10">
+      <title>Section 1026.20 Subsequent Disclosure Requirements</title>
+      <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed a new § 226.20(d) to implement the disclosure requirements of TILA sections 129D(j)(1)(B) and 129D(j)(2), as enacted by section 1462 of the Dodd-Frank Act. TILA section 129D(j)(1)(B) requires a creditor or servicer to provide the disclosures set forth in TILA section 129D(j)(2) when a consumer requests closure of an escrow account that was established in connection with a transaction secured by real property. Proposed § 226.20(d) would have directed the creditor or servicer to disclose the information about escrow accounts in accordance with certain format and timing requirements. As previously noted, the Bureau has delayed the implementation of certain disclosure requirements contained in title XIV of the Dodd-Frank Act, including those contained in sections 1461 and 1462. <em data-original="E-03">See</em> 77 FR 70105 (Nov. 23, 2012). Consequently, the Bureau will not be adopting a new § 1026.20(d) in this rule.</analysisParagraph>
+    </analysisSection>
+  </analysis>
 </notice>
