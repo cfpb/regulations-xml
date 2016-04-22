@@ -188,7 +188,7 @@ a. Under Section 1026.25—Record Retention
 i. Under Paragraph 25(c)(2) Records related to requirements for loan originator compensation, as amended February 15, 2013, at 78 FR 11280, paragraph 1 is revised.
 ii. Under Paragraph 25(c)(3) Records related to minimum standards for transactions secured by a dwelling, as added January 30, 2013, at 78 FR 6408, paragraph 1 is revised. -->
 
-    <change operation="modified" label="1026-25-c-3-Interp">
+    <change operation="added" label="1026-25-c-3-Interp" parent="1026-25-Interp">
       <interpParagraph label="1026-25-c-3-Interp" target="1026-25-c-3">
 	<title>25(c)(3) Records related to minimum standards for transactions secured by a dwelling.</title>
 	<content/>
@@ -268,18 +268,22 @@ ii. Under Paragraph 25(c)(3) Records related to minimum standards for transactio
 
     <!--iv. Under Paragraph 32(b)(2)(i), as amended January 30, 2013, at 78 FR 6408, paragraph 1 is revised. -->
     
-    <change operation="modified" label="1026-32-b-2-i-Interp-1">
-      <interpParagraph label="1026-32-b-2-i-Interp-1" marker="1.">
-	<title>Finance charge.</title>
-	<content>The points and fees calculation under § 1026.32(b)(2) generally does not include items that are included in the finance charge but that are not known until after account opening, such as minimum monthly finance charges or charges based on account activity or inactivity. Transaction fees also generally are not included in the points and fees calculation, except as provided in § 1026.32(b)(2)(vi). See comments 32(b)(1)-1 and 32(b)(1)(i)-1 for additional guidance concerning the calculation of points and fees.</content>
+    <change operation="added" label="1026-32-b-2-i-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-i-Interp" target="1026-32-b-2-i">
+	<interpParagraph label="1026-32-b-2-i-Interp-1" marker="1.">
+	  <title>Finance charge.</title>
+	  <content>The points and fees calculation under § 1026.32(b)(2) generally does not include items that are included in the finance charge but that are not known until after account opening, such as minimum monthly finance charges or charges based on account activity or inactivity. Transaction fees also generally are not included in the points and fees calculation, except as provided in § 1026.32(b)(2)(vi). See comments 32(b)(1)-1 and 32(b)(1)(i)-1 for additional guidance concerning the calculation of points and fees.</content>
+	</interpParagraph>
       </interpParagraph>
     </change>
 
     <!-- v. Under Paragraph 32(b)(2)(i)(D), as amended January 30, 2013, at 78 FR 6408, paragraph 1 is revised. -->
 
-    <change operation="modified" label="1026-32-b-2-i-D-Interp-1">
-      <interpParagraph label="1026-32-b-2-i-D-Interp-1" marker="1.">
-	<content>For purposes of § 1026.32(b)(2)(i)(D), the term loan originator means a loan originator as that term is defined in § 1026.36(a)(1), without regard to § 1026.36(a)(2). See comments 32(b)(1)(i)(D)-1 through -4 for further guidance concerning the exclusion of bona fide third-party charges from points and fees.</content>
+    <change operation="added" label="1026-32-b-2-i-D-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-i-D-Interp" target="1026-32-b-2-i-D">
+	<interpParagraph label="1026-32-b-2-i-D-Interp-1" marker="1.">
+	  <content>For purposes of § 1026.32(b)(2)(i)(D), the term loan originator means a loan originator as that term is defined in § 1026.36(a)(1), without regard to § 1026.36(a)(2). See comments 32(b)(1)(i)(D)-1 through -4 for further guidance concerning the exclusion of bona fide third-party charges from points and fees.</content>
+	</interpParagraph>
       </interpParagraph>
     </change>
 
