@@ -830,6 +830,154 @@
       </interpParagraph>
     </change>
 
+    <!-- a. Paragraph 32(b)(2), Paragraph 32(b)(2)(i), and paragraph 1 are added. -->
+
+    <change operation="added" label="1026-32-b-2-i-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-i-Interp" target="1026-32-b-2-i">
+	<title>Paragraph 32(b)(2)(i)</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-i-Interp-1" marker="1.">
+	  <title>Finance charge.</title>
+	  <content> The points and fees calculation under § 1026.32(b)(2) generally does not include items that are included in the finance charge but that are not known until after account opening, such as minimum monthly finance charges or charges based on account activity or inactivity. Transaction fees also generally are not included in the points and fees calculation, except as provided in § 1026.32(b)(2)(vi). See comments 32(b)(1)-1 and 32(b)(1)(i)-1 and -2 for additional guidance concerning the calculation of points and fees.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+      
+    <!-- b. Paragraph 32(b)(2)(i)(B) and paragraph 1 are added. -->
+
+    <change operation="added" label="1026-32-b-2-i-B-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-i-B-Interp" target="1026-32-b-2-i-B">
+	<title>Paragraph 32(b)(2)(i)(B)</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-i-B-Interp-1" marker="1.">
+	  <title></title>
+	  <content>See comment 32(b)(1)(i)(B)-1 for further guidance concerning the exclusion of mortgage insurance premiums payable in connection with any Federal or State agency program.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+    
+    <!--c. Paragraph 32(b)(2)(i)(C) and paragraph 1 are added. -->
+
+    <change operation="added" label="1026-32-b-2-i-C-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-i-C-Interp" target="1026-32-b-2-i-C">
+	<title>Paragraph 32(b)(2)(i)(C).</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-i-C-Interp-1" marker="1.">
+	  <title></title>
+	  <content>See comment 32(b)(1)(i)(C)-1 and -2 for further guidance concerning the exclusion of mortgage insurance premiums payable for any guaranty or insurance that protects the creditor against the consumer's default or other credit loss and that is not in connection with any Federal or State agency program.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+    
+    <!-- d. Paragraph 32(b)(2)(i)(D) and paragraph 1 are added. -->
+
+    <change operation="added" label="1026-32-b-2-i-D-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-i-D-Interp" target="1026-32-b-2-i-D">
+	<title>Paragraph 32(b)(2)(i)(D)</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-i-D-Interp-1" marker="1.">
+	  <title></title>
+	  <content>For purposes of § 1026.32(b)(2)(i)(D), the term loan originator means a loan originator as that term is defined in § 1026.36(a)(1), without regard to § 1026.36(a)(2). See comments 32(b)(1)(i)(D)-1, -3, and -4 for further guidance concerning the exclusion of bona fide third-party charges from points and fees.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+    
+    <!-- e. Paragraph 32(b)(2)(i)(E) and paragraph 1 are added. -->
+
+    <change operation="added" label="1026-32-b-2-i-E-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-i-E-Interp" target="1026-32-b-2-i-E">
+	<title>Paragraph 32(b)(2)(i)(E).</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-i-E-Interp-1" marker="1.">
+	  <title></title>
+	  <content>See comments 32(b)(1)(i)(E)-1 through -3 for further guidance concerning the exclusion of up to two bona fide discount points from points and fees.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+
+    <!-- f. Paragraph 32(b)(2)(i)(F) and paragraph 1 are added. -->
+
+    <change operation="added" label="1026-32-b-2-i-F-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-i-F-Interp" target="1026-32-b-2-i-F">
+	<title>Paragraph 32(b)(2)(i)(F).</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-i-F-Interp-1" marker="1.">
+	  <title></title>
+	  <content>See comments 32(b)(1)(i)(F)-1 and -2 for further guidance concerning the exclusion of up to one bona fide discount point from points and fees.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+
+    <!-- g. Paragraph 32(b)(2)(ii) and paragraph 1 are added. -->
+
+        <change operation="added" label="1026-32-b-2-ii-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-ii-Interp" target="1026-32-b-2-ii">
+	<title>Paragraph 32(b)(2)(ii).</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-ii-Interp-1" marker="1.">
+	  <title></title>
+	  <content>For purposes of § 1026.32(b)(2)(ii), the term loan originator means a loan originator as that term is defined in § 1026.36(a)(1), without regard to § 1026.36(a)(2). See the commentary to § 1026.32(b)(1)(ii) for additional guidance concerning the inclusion of loan originator compensation in points and fees.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+
+    <!-- h. Paragraph 32(b)(2)(iii) and paragraph 1 are added -->
+
+    <change operation="added" label="1026-32-b-2-iii-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-iii-Interp" target="1026-32-b-2-iii">
+	<title>Paragraph 32(b)(2)(iii).</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-iii-Interp-1" marker="1.">
+	  <title>Other charges.</title>
+	  <content>See comment 32(b)(1)(iii)-1 for further guidance concerning the inclusion of items listed in § 1026.4(c)(7) in points and fees.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+
+    <!-- i. Paragraph 32(b)(2)(iv) and paragraph 1 are added. -->
+
+    <change operation="added" label="1026-32-b-2-iv-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-iv-Interp" target="1026-32-b-2-iv">
+	<title>Paragraph 32(b)(2)(iv).</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-iv-Interp-1" marker="1.">
+	  <title>Credit insurance and debt cancellation or suspension coverage.</title>
+	  <content>See comments 32(b)(1)(iv)-1 through -3 for further guidance concerning the inclusion of premiums for credit insurance and debt cancellation or suspension coverage in points and fees.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+
+    <!-- j. Paragraph 32(b)(2)(vii) and paragraph 1 are added. -->
+
+    <change operation="added" label="1026-32-b-2-vii-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-vii-Interp" target="1026-32-b-2-vii">
+	<title>Paragraph 32(b)(2)(vii).</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-vii-Interp-1" marker="1.">
+	  <title>Participation fees.</title>
+	  <content>Fees charged for participation in a credit plan must beincluded in the points and fees calculation for purposes of § 1026.32 if payable at or before account opening. These fees include annual fees or other periodic fees that must be paid as a condition of access to the plan itself. See commentary to § 1026.4(c)(4) for a description of these fees.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+
+    <!-- k. Paragraph 32(b)(2)(viii) and paragraphs 1 and 2 are added.-->
+
+    <change operation="added" label="1026-32-b-2-viii-Interp" parent="1026-32-Interp">
+      <interpParagraph label="1026-32-b-2-viii-Interp" target="1026-32-b-2-viii">
+	<title>Paragraph 32(b)(2)(viii).</title>
+	<content/>
+	<interpParagraph label="1026-32-b-2-viii-Interp-1" marker="1.">
+	  <title>Transaction fees to draw down the credit line.</title>
+	  <content>Section 1026.32(b)(2)(viii) requires creditors in open-end credit plans to include in points and fees any transaction fee, including any per-transaction fee, that will be charged for a draw on the credit line. Section 1026.32(b)(2)(viii) requires the creditor to assume that the consumer will make at least one draw during the term of the credit plan. Thus, if the terms of the open-end credit plan permit the creditor to charge a $10 transaction fee each time the consumer draws on the credit line, § 1026.32(b)(2)(viii) requires the creditor to include one $10 charge in the points and fees calculation.</content>
+	</interpParagraph>
+	<interpParagraph label="1026-32-b-2-viii-Interp-2" marker="2.">
+	  <title>Fixed-rate loan option.</title>
+	  <content>If the terms of an open-end credit plan permit a consumer to draw on the credit line using either a variable-rate feature or a fixed-rate feature, § 1026.32(b)(2)(viii) requires the creditor to use the terms applicable to the variable-rate feature for determining the transaction fee that must be included in the points and fees calculation.</content>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+
+    
     <change operation="added" label="1026-32-b-6-Interp-3" parent="1026-32-b-6-Interp" after="1026-32-b-6-Interp-2">
       <interpParagraph label="1026-32-b-6-Interp-3" marker="3.">
 	<title>Examples of prepayment penalties; open-end credit.</title>

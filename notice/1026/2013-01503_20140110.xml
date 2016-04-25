@@ -19,6 +19,9 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/02/15/2013-01503/loan-originator-compensation-requirements-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-01241" rightDocumentNumber="2013-01503_20140110">
+
+    <!-- Section 1026.25, as amended in a final rule published January 30, 2013, is further amended by adding paragraph (c)(2) to read as follows: -->
+    
     <change operation="modified" label="1026-25">
       <section label="1026-25" sectionNum="25">
         <subject>§ 1026.25 Record retention.</subject>
@@ -402,6 +405,12 @@
         </paragraph>
       </section>
     </change>
+
+    <!-- ii. 25(c)(2) Records related to requirements for loan originator compensation and paragraphs 1 and 2 are added. -->
+
+    <!-- <change operation="added" label="1026-25-c-2-Interp-1" parent="1026-25-c-2-Interp"> -->
+      
+    <!--
     <change operation="modified" label="1026-25-c-Interp">
       <interpParagraph label="1026-25-c-Interp">
         <content/>
@@ -430,7 +439,8 @@
           </interpParagraph>
         </interpParagraph>
       </interpParagraph>
-    </change>
+    </change> -->
+    
     <change operation="modified" label="1026-36-Interp">
       <interpSection label="1026-36-Interp" sectionNum="36" target="1026-36">
         <title>§ 1026.36—Prohibited Acts or Practices and Certain Requirements for Credit Secured by a Dwelling</title>
