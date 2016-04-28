@@ -1,9 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2013-06-01</date>
+    <date>2013-05-23</date>
     <originalDate>2012-01-01</originalDate>
     <title>TRUTH IN LENDING</title>
   </fdsys>
@@ -18,45 +19,38 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/05/23/2013-12125/amendments-to-the-2013-escrows-final-rule-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-01503_20130601" rightDocumentNumber="2013-12125">
-
     <change operation="modified" label="1026-23-a-3-ii">
       <paragraph label="1026-23-a-3-ii" marker="(ii)">
         <content>For purposes of this paragraph <ref target="1026-23-a-3" reftype="internal">(a)(3)</ref>, the term “<def term="material disclosure">material disclosures</def>” means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in §§ <ref target="1026-32-c" reftype="internal">1026.32(c)</ref> and <ref target="1026-32-d" reftype="internal">(d)</ref> and <ref target="1026-35-b-2" reftype="internal">1026.35(e)(2)</ref>.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1026-34-a-4-i">
       <paragraph label="1026-34-a-4-i" marker="(i)">
         <title type="keyterm">Mortgage-related obligations.</title>
         <content>For purposes of this paragraph <ref target="1026-34-a-4" reftype="internal">(a)(4)</ref>, mortgage-related obligations are expected property taxes, premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref> as set forth in § <ref target="1026-35-b-3-i" reftype="internal">1026.35(b), and </ref>similar expenses.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1026-35-b-1">
       <paragraph label="1026-35-b-1" marker="(1)">
         <title type="keyterm">Repayment ability.</title>
         <content>Requirement to escrow for property taxes and insurance. Except as provided in paragraph (b)(2) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first li<ref target="1026-34-a-4" reftype="internal">en on a consu</ref><ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an escrow account is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph (b), the term “escrow account” has the same meaning as under Regulation X (12 CFR 1024.17(b)), as amended.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1026-35-b-2-iii-A">
       <paragraph label="1026-35-b-2-iii-A" marker="(A)">
         <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> extended more than 50 percent of its total covered transactions, as defined by § 1026.43(b)(1), secured by a first lien, on properties that are located in counties that are either “rural” or “underserved,” as set forth in paragraph <ref target="1026-35-b-2-iv" reftype="internal">(b)(2)(iv)</ref> of this section;</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1026-35-b-2-iv-A">
       <paragraph label="1026-35-b-2-iv-A" marker="(A)">
         <content>A county is “rural” during a calendar year if it is neither in a metropolitan statistical area nor in a micropolitan statistical area that is adjacent to a metropolitan statistical area, as those terms are defined by the U.S. Office of Management and Budget and as they are applied under currently applicable Urban Influence Codes (UICs), established by the United States Department of Agriculture's Economic Research Service (USDA-ERS). A <ref target="1026-2-a-17" reftype="term">creditor</ref> may rely as a safe harbor on the list of counties published by the <ref target="1026-2-a-5" reftype="term">Bureau</ref> to determine whether a county qualifies as “rural” for a particular calendar year.</content>
       </paragraph>
     </change>
-    
     <change operation="modified" label="1026-35-b-2-iv-B">
       <paragraph label="1026-35-b-2-iv-B" marker="(B)">
         <content>A county is “underserved” during a calendar year if, according to Home Mortgage Disclosure Act (HMDA) data for the preceding calendar year, no more than two <ref target="1026-2-a-17" reftype="term">creditors</ref> extended covered transactions, as defined in § <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>, secured by a first lien, five or more times in the county. A <ref target="1026-2-a-17" reftype="term">creditor</ref> may rely as a safe harbor on the list of counties published by the <ref target="1026-2-a-5" reftype="term">Bureau</ref> to determine whether a county qualifies as “underserved” for a particular calendar year.</content>
       </paragraph>
     </change>
-
     <change operation="added" label="1026-35-e">
       <paragraph label="1026-35-e" marker="(e)">
         <title type="keyterm">Repayment ability, prepayment penalties.</title>
@@ -90,36 +84,30 @@
         </paragraph>
       </paragraph>
     </change>
-
     <change operation="modified" label="1026-32-d-Interp-1">
       <interpParagraph label="1026-32-d-Interp-1" marker="1.">
         <title type="keyterm">Additional prohibitions applicable under other sections.</title>
         <content>Section <ref target="1026-34" reftype="internal">1026.34</ref> sets forth certain prohibitions in connection with mortgage <ref target="1026-2-a-14" reftype="term">credit</ref> subject to § <ref target="1026-32" reftype="internal">1026.32</ref>, in addition to the limitations in § <ref target="1026-32-d" reftype="internal">1026.32(d)</ref>. Further, § <ref target="1026-35-b" reftype="internal">1026.35 pr</ref>ohibits certain practices in connection with transactions that meet the coverage test in § 102<ref target="1026-35-a" reftype="internal">6.35(a). B</ref>ecause the coverage test in § 102<ref target="1026-35-a" reftype="internal">6.35(a) is</ref> generally broader than the coverage test in § 102<ref target="1026-32-a" reftype="internal">6.32(a), m</ref>ost § 102<ref target="1026-32" reftype="internal">6.32 mo</ref>rtgage loans are also subject to the prohibitions set forth in § 102<ref target="1026-35-b" reftype="internal">6.35 (such</ref> as escrows), in addition to the limitations in § 1026.3<ref target="1026-32-d" reftype="internal">2(d).</ref></content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-34-a-4-Interp-1">
       <interpParagraph label="1026-34-a-4-Interp-1" marker="1.">
         <title type="keyterm">Application of repayment ability rule.</title>
         <content>The § <ref target="1026-34-a-4" reftype="internal">1026.34(a)(4)</ref> prohibition against making loans without regard to <ref target="1026-2-a-11" reftype="term">consumers</ref>' repayment ability applies to mortgage loans described in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>. In addition, the § <ref target="1026-34-a-4" reftype="internal">1026.34(a)(4)</ref> prohibition applies to higher-priced mortgage loans described in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. See § <ref target="1026-35-b-1" reftype="internal">1026.35(e)(1)</ref>.</content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-34-a-4-i-Interp-1">
       <interpParagraph label="1026-34-a-4-i-Interp-1" marker="1.">
         <title type="keyterm">Mortgage-related obligations.</title>
         <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must include in its repayment ability analysis the expected property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref> as set forth in § <ref target="1026-35-b-3-i" reftype="internal">1026.35(b), as w</ref>ell as similar mortgage-related expenses. Similar mortgage-related expenses include homeowners' association dues and condominium or cooperative fees.</content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1026-35-b-2-iii-Interp-1" subpath="content">
       <content>Under § 1026.35(b)(2)(iii), except as provided in § 1026.35(b)(2)(v), a creditor need not establish an escrow account for taxes and insurance for a higher-priced mortgage loan, provided the following four conditions are satisfied when the higher-priced mortgage loan is consummated:</content>
     </change>
-
     <change operation="modified" label="1026-35-b-2-iii-Interp-1-i" subpath="content">
       <content>During the preceding calendar year, more than 50 percent of the creditor's total first-lien covered transactions, as defined in § 1026.43(b)(1), are secured by properties located in counties that are either “rural” or “underserved,” as set forth in § 1026.35(b)(2)(iv). Pursuant to that section, a creditor may rely as a safe harbor on a list of counties published by the Bureau to determine whether counties in the United States are rural or underserved for a particular calendar year. Thus, for example, if a creditor originated 90 covered transactions, as defined by § 1026.43(b)(1), secured by a first lien, during 2013, the creditor meets this condition for an exemption in 2014 if at least 46 of those transactions are secured by first liens on properties that are located in such counties.</content>
     </change>
-
     <change operation="modified" label="1026-35-b-2-iv-Interp-1">
       <interpParagraph label="1026-35-b-2-iv-Interp-1" marker="1.">
         <title type="keyterm">Requirements for “rural” or “underserved” status.</title>
@@ -131,8 +119,7 @@
           <content>Under § <ref target="1026-35-b-2-iv-B" reftype="internal">1026.35(b)(2)(iv)(B)</ref>, a county is underserved during a calendar year if, according to Home Mortgage Disclosure Act (HMDA) data for the preceding calendar year, no more than two <ref target="1026-2-a-17" reftype="term">creditors</ref> extended covered transactions, as defined in § 1026.43(b)(1), secured by a first lien, five or more times in the county. Specifically, a county is “underserved” if, in the applicable calendar year's public HMDA aggregate dataset, no more than two <ref target="1026-2-a-17" reftype="term">creditors</ref> have reported five or more first-lien covered transactions with HMDA geocoding that places the properties in that county. For purposes of this determination, because only covered transactions are counted, all first-lien originations (and only first-lien originations) reported in the HMDA data are counted except those for which the owner-occupancy status is reported as “Not owner-occupied” (HMDA code 2), the property type is reported as “Multifamily” (HMDA code 3), the applicant's or co-applicant's race is reported as “Not applicable” (HMDA code 7), or the applicant's or co-applicant's sex is reported as “Not applicable” (HMDA code 4). The most recent HMDA data are available at http://www.ffiec.gov/hmda.</content>
         </interpParagraph>
       </interpParagraph>
-    </change>    
-
+    </change>
     <change operation="added" label="1026-35-b-2-iv-Interp-2">
       <interpParagraph label="1026-35-b-2-iv-Interp-2" marker="2.">
         <title type="keyterm">Examples.</title>
@@ -145,7 +132,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1026-35-e-Interp">
       <interpParagraph label="1026-35-e-Interp">
         <title>35(e) Rules for Higher-Priced Mortgage Loans</title>
@@ -178,4 +164,109 @@
     </change>
     <!-- end of notice -->
   </changeset>
+  <analysis>
+    <analysisSection target="1026-35-b-1" notice="2013-12125" date="2013-06-01">
+      <title>35(b)(1)</title>
+      <analysisParagraph>The Bureau proposed a technical correction to § 1026.35(b)(1) to update a citation. The Bureau did not receive comments on this correction, and adopts it as proposed.</analysisParagraph>
+    </analysisSection>
+    <analysisSection target="1026-35-b-2" notice="2013-12125" date="2013-06-01">
+      <title>35(b)(2) Exemptions</title>
+      <analysisSection>
+        <title>Overview</title>
+        <analysisParagraph>Four of the Bureau's January 2013 mortgage rules included provisions that provide for special treatment under various Regulation Z requirements forcertain credit transactions in connection with “rural” or “underserved” areas: (1) § 1026.35(b)(2)(iii) provides an exemption to the 2013 Escrows Final Rule's escrow requirement for HPMLs; (2) § 1026.43(f) provides an allowance to originate balloon-payment qualified mortgages under the 2013 ATR Final Rule; (3) § 1026.32(d)(1)(ii)(C) provides an exemption from the balloon payment prohibition on high-cost mortgages under the 2013 HOEPA Final Rule for balloon-payment qualified mortgages; and (4) § 1026.35(c)(4)(vii)(H) provides an exemption from a requirement to obtain a second appraisal for certain HPMLs under the 2013 Interagency Appraisals Final Rule. These provisions rely on the criteria for “rural” and/or “underserved” counties set forth in § 1026.35(b)(2)(iv)(A) and (B), respectively, adopted in the 2013 Escrows Final Rule, which takes effect on June 1, 2013. Two of the special provisions for creditors operating predominantly in “rural” or “underserved” areas were set forth in the Dodd-Frank Act amendments to TILA, but the terms were not defined by statute. TILA section 129D, as added and amended by Dodd-Frank Act sections 1461 and 1462 and implemented by § 1026.35(b), generally requires that creditors establish escrow accounts for HPMLs secured by a first lien on a consumer's principal dwelling, but the statute also authorizes the Bureau to exempt from this requirement transactions by a creditor that, among other criteria, “operates predominantly in rural or underserved areas.” TILA section 129D(c)(1). Similarly, the ability-to-repay provisions in Dodd-Frank Act section 1412 contain a set of criteria with regard to certain balloon-payment mortgages originated and held in portfolio by certain creditors that operate predominantly in rural or underserved areas, allowing those loans to be considered qualified mortgages.SeeTILA section 129C(b)(2)(E), 15 U.S.C. 1639c(b)(2)(E). In the 2013 Escrows and ATR Final Rules, the Bureau implemented the HPML escrows requirement and the section 1412 balloon-payment qualified mortgage provision through §§ 1026.35(b)(2)(iii) and 1026.43(f), respectively. In addition, the Bureau adopted an exemption to the general prohibition of balloon payments for high-cost mortgages when those mortgages meet the criteria for balloon-payment qualified mortgages set forth in § 1026.43(f), as part of the 2013 HOEPA Final Rule, in § 1026.32(d)(1)(ii)(C). Finally, the Bureau and other Federal agencies adopted § 1026.35(c)(4)(vii)(H), which provides an exemption from a requirement to obtain a second appraisal for certain HPMLs under the 2013 Interagency Appraisals Final Rule for credit transactions used to acquire property in rural counties.</analysisParagraph>
+        <analysisParagraph>Through the 2013 Escrows Final Rule, the Bureau adopted § 1026.35(b)(2)(iv)(A) and (B) to define “rural” and “underserved” respectively for the purposes of the four rules discussed above that contain special provisions that use one or both of those terms. The 2013 Escrows Final Rule also provided comment 35(b)(2)(iv)-1 to clarify further the criteria for “rural” and “underserved” counties, and provided that the Bureau will annually update on its public Web site a list of counties that meet the definitions of rural and underserved in § 1026.35(b)(2)(iv). In advance of the rule's June 1, 2013, effective date, the Bureau proposed to amend § 1026.35(b)(2)(iv) and comment 35(b)(2)(iv)-1 to clarify how to determine whether a county is rural or underserved for the purposes of these provisions.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>Comments</title>
+        <analysisParagraph>The Bureau received several comments discussing the overall regulatory scheme regarding how “rural” and “underserved” should be defined. Most of these comments argued for an expanded scope for the “rural” and “underserved” definitions. One industry trade association suggested that the rural definition should include all non-metropolitan counties, as well as communities with populations of less than 50,000. Other commenters suggested that the Bureau should use Census Bureau data differently, and one suggested that any place not within one of the Census Bureau's “Urbanized Areas,” which contain 50,000 or more people, be considered rural. A credit union association suggested that credit unions with “rural” community charters should be exempt, and that only those creditors with a physical presence in an underserved area should be considered in relation to the underserved exemption. Some commenters felt that the rule was too confusing, making compliance difficult.<footnote ref="14">The Bureau notes that it has now posted the official list of rural and underserved counties on its public Web site for use with mortgages consummated from June 1, 2013, through December 31, 2013. The final, official list is identical to the preliminary list posted on the Bureau's public Web site on March 12, 2013. Creditors may rely as a safe harbor for compliance with the relevant regulations on the official lists of rural and underserved counties posted by the Bureau. The official list for use in 2014 will be posted when the necessary data become available.</footnote>
+          One credit union was concerned about the impact the escrows rule would have on mobile home lending. One commenter stated that, although the clarification presented in the proposal was welcome, there is still too much confusion regarding the escrows rule, and that its effective date should be postponed to January 2014. In addition, two commenters suggested that the Bureau apply exemptions based solely on the size of a creditor, regardless of location.</analysisParagraph>
+        <analysisParagraph>Although the Bureau has examined these comments, the proposed rule presented only very limited changes and clarifications to the 2013 Final Escrows Rule, and solicited comments on those narrow issues. Broader concerns such as those expressed by the foregoing commenters about preserving consumers' access to credit will be addressed in the Bureau's final rule under the 2013 ATR Concurrent Proposal, which the Bureau expects to issue shortly. The specific provisions included in the proposal are discussed below, along with comments responsive to those issues.</analysisParagraph>
+        <analysisParagraph>One industry commenter supported generally the clarifications provided in the rule. Other industry commenters chose to neither support nor oppose the “adjacent” clarification, and asked that there be more analysis of the impact of excluding counties from the rural definition if they are “adjacent” to a metropolitan area.</analysisParagraph>
+        <analysisParagraph>Industry commenters opposed the proposed method for determining the status of a new county, arguing that a new county should be considered rural if 50% of its land is taken from counties that were previously considered rural.</analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1026-35-b-2-iii" notice="2013-12125" date="2013-06-01">
+      <title>35(b)(2)(iii)</title>
+      <analysisSection>
+        <title>The Proposal</title>
+        <analysisParagraph>The Bureau proposed modifications to § 1026.35(b)(2)(iii) and comment 35(b)(2)(iii)-1.i for clarification purposes and for consistency with other provisions. As adopted in January, § 1026.35(b)(2)(iii) and its commentary stated that the Bureau would designate or determine which counties are rural or underserved for the purposes of the special provisions of the four rules discussed above. However, that was not the Bureau's intent. Rather, the Bureau intended to require determinations of “rural” or “underserved” status to be made by creditors as prescribed by § 1026.35(b)(2)(iv)(A) and (B), but also intended for the Bureau to apply both tests to each U.S. county and publish an annual list of counties that satisfy either test for a given calendar year, which creditors may rely upon as a safe harbor. Therefore, the Bureau proposed modifications to § 1026.35(b)(2)(iii)(A) and comment 35(b)(2)(iii)-1.i for the purposes of clarification and consistency with these provisions.</analysisParagraph>
+        <analysisParagraph>As adopted in January 2013, § 1026.35(b)(2)(iv)(A) defines “rural”based on currently applicable UICs established by the USDA-ERS. The UICs are based on the definitions of “metropolitan statistical area” and “micropolitan statistical area” as developed by the Office of Management and Budget (OMB), along with other factors reviewed by the ERS that place counties into twelve separately defined UICs depending, in part, on the size of the largest city and town in the county. Based on these definitions, § 1026.35(b)(2)(iv)(A) as adopted states that a county is “rural” during a calendar year if it is neither in a metropolitan statistical area nor in a micropolitan statistical area that is adjacent to a metropolitan statistical area, as those terms are defined by OMB and applied under currently applicable UICs.</analysisParagraph>
+        <analysisParagraph>As adopted, comment 35(b)(2)(iv)-1.i explained that, for the purposes of the provision, the terms “metropolitan statistical areas” and “micropolitan statistical areas adjacent to a metropolitan statistical area” are given the same meanings used by USDA-ERS for the purposes of determining UICs. The USDA-ERS considers micropolitan counties as “adjacent” to a metropolitan statistical area for this purpose if they abut a metropolitan statistical area and have at least 2% of employed persons commuting to work in the core of the metropolitan statistical area.<footnote ref="15">See http://www.ers.usda.gov/data-products/urban-influence-codes/documentation.aspx.</footnote>
+          It was thus implicit in this comment that “adjacent” is given the same meaning used by the USDA-ERS for the purposes of § 1026.35(b)(2)(iv)(A).</analysisParagraph>
+        <analysisParagraph>Nevertheless, the Bureau believed that additional commentary explaining the meaning of “adjacent” more directly would be useful to facilitate compliance with § 1026.35(b)(2)(iv) and the provisions that rely on it. Accordingly, the Bureau proposed to amend comment 35(b)(2)(iv)-1.i to state expressly that “adjacent” entails physical contiguity with a metropolitan statistical area where certain minimum commuting standards are also met, as defined by the USDA-ERS. The Bureau believed that this would be consistent with USDA-ERS's use of “adjacent” and better explain the rule for compliance purposes.</analysisParagraph>
+        <analysisParagraph>Similarly, the Bureau proposed language to specify under § 1026.35(b)(2)(iv)(A) how “rural” status should be determined for a county that does not have a currently applicable UIC because it was created after the USDA-ERS last categorized counties by UIC. Because the USDA-ERS only updates UICs decennially based on the most recent census, it is possible that new counties may be created that will not have a designated UIC until after the next census. In such instances, clarification was needed to explain how “rural” status would be determined. The Bureau thus proposed to amend comment 35(b)(2)(iv)-1.i to address this issue and explain that any such county is considered “rural” for the purposes of § 1026.35(b)(2)(iv) only if all counties from which the new county's land was taken were themselves rural under the rule.</analysisParagraph>
+        <analysisParagraph>The Bureau also proposed comment 35(b)(2)(iv)-2.i to provide an example of how “rural” status would be determined. In addition, the Bureau proposed small technical changes to the rule provision and commentary to enhance clarity.</analysisParagraph>
+        <analysisParagraph>Section 1026.35(b)(2)(iii)(A) creates an exemption from the HPML escrow requirement for transactions by creditors operating in rural or underserved counties, if they meet certain criteria involving the loans they originatedduring the preceding calendar year.Thus, the availability of the rural or underserved exemption always follows a year after the origination activity that makes a creditor eligible for the exemption.</analysisParagraph>
+        <analysisParagraph>As adopted by the 2013 Escrows Final Rule, § 1026.35(b)(2)(iv)(B) stated that a county would be “underserved” during a calendar year if, “according to Home Mortgage Disclosure Act (HMDA) data for that year,” no more than two creditors extended covered transactions, as defined in § 1026.43(b)(1), secured by a first lien, five or more times in the county. However, HMDA data typically are released for a given calendar year during the third quarter of each subsequent calendar year. It is thus not generally possible for creditors to make determinations concerning whether a county was underserved during the preceding calendar year based on that preceding year's HMDA data, because such data likely will not be available until late in the following year. In wording § 1026.35(b)(2)(iv)(B) as it did, the Bureau did not intend to require the use of HMDA data that would not be available at the time the determination of a county's “underserved” status was made; the Bureau's intent was to provide for the use of the most recent HMDA data available at the time of the determination.</analysisParagraph>
+        <analysisParagraph>The Bureau therefore proposed to amend § 1026.35(b)(2)(iv)(B) to clarify that a county is considered “underserved” during a given calendar year based on HMDA data for “the preceding calendar year” as opposed to “that calendar year.” This look-back feature coordinates with the look-back feature in the exemption itself at § 1026.35(b)(2)(iii)(A), so that a creditor would rely on the underserved status of a county based on HMDA data from two years previous to the use of the exemption, which are the most recent data available for use as the Bureau intended. The Bureau also proposed to amend comment 35(b)(2)(iv)-1.ii to conform to this change, and to add comment 35(b)(2)(iv)-2.ii to provide an example.</analysisParagraph>
+        <analysisParagraph>The Bureau proposed language in § 1026.35(e) to keep in place existing requirements contained in § 1026.35(b)concerning assessment of consumers' ability to repay an HPML and limitations on prepayment penalties for HPMLs. These provisions were originally adopted by the Board in 2008,<footnote ref="16">73 FR 44522 (July 30, 2008).</footnote>
+          and will be supplanted by the Bureau's new rules implementing similar Dodd-Frank requirements in § 1026.43 on January 10, 2014.</analysisParagraph>
+        <analysisParagraph>The 2013 Escrows Final Rule inadvertently removed the existing language of § 1026.35(b) between June 1, 2013, and the January 10, 2014, effective date for the ability-to-repay and prepayment penalty provisions in § 1026.43. The Bureau proposed restoring this language at § 1026.35(e) and keeping it in effect during that intervening period. The Bureau also proposed updating existing cross-references to the § 1026.35(b) HPML provisions.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>Comments and Final Rule</title>
+        <analysisParagraph>All the comments the Bureau received on this specific provision supported the proposed change. For the reasons stated above, the provision is adopted as proposed.</analysisParagraph>
+        <analysisParagraph>The only commenter to reference this provision, an industry trade group, supported it. For the reasons stated above, the provision is adopted as proposed.</analysisParagraph>
+        <analysisParagraph>The industry groups specifically commenting on this provision supported the proposal. To maintain consumer protections and avoid disruptions in the market, the provision is adopted as proposed.</analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1026-35-b-2-iv-A" notice="2013-12125" date="2013-06-01">
+      <title>35(b)(2)(iv)(A)</title>
+      <analysisSection>
+        <title>The Proposal</title>
+        <analysisParagraph>As adopted in January 2013, § 1026.35(b)(2)(iv)(A) defines “rural”based on currently applicable UICs established by the USDA-ERS. The UICs are based on the definitions of “metropolitan statistical area” and “micropolitan statistical area” as developed by the Office of Management and Budget (OMB), along with other factors reviewed by the ERS that place counties into twelve separately defined UICs depending, in part, on the size of the largest city and town in the county. Based on these definitions, § 1026.35(b)(2)(iv)(A) as adopted states that a county is “rural” during a calendar year if it is neither in a metropolitan statistical area nor in a micropolitan statistical area that is adjacent to a metropolitan statistical area, as those terms are defined by OMB and applied under currently applicable UICs.</analysisParagraph>
+        <analysisParagraph>As adopted, comment 35(b)(2)(iv)-1.i explained that, for the purposes of the provision, the terms “metropolitan statistical areas” and “micropolitan statistical areas adjacent to a metropolitan statistical area” are given the same meanings used by USDA-ERS for the purposes of determining UICs. The USDA-ERS considers micropolitan counties as “adjacent” to a metropolitan statistical area for this purpose if they abut a metropolitan statistical area and have at least 2% of employed persons commuting to work in the core of the metropolitan statistical area.<footnote ref="15">See http://www.ers.usda.gov/data-products/urban-influence-codes/documentation.aspx.</footnote>
+          It was thus implicit in this comment that “adjacent” is given the same meaning used by the USDA-ERS for the purposes of § 1026.35(b)(2)(iv)(A).</analysisParagraph>
+        <analysisParagraph>Nevertheless, the Bureau believed that additional commentary explaining the meaning of “adjacent” more directly would be useful to facilitate compliance with § 1026.35(b)(2)(iv) and the provisions that rely on it. Accordingly, the Bureau proposed to amend comment 35(b)(2)(iv)-1.i to state expressly that “adjacent” entails physical contiguity with a metropolitan statistical area where certain minimum commuting standards are also met, as defined by the USDA-ERS. The Bureau believed that this would be consistent with USDA-ERS's use of “adjacent” and better explain the rule for compliance purposes.</analysisParagraph>
+        <analysisParagraph>Similarly, the Bureau proposed language to specify under § 1026.35(b)(2)(iv)(A) how “rural” status should be determined for a county that does not have a currently applicable UIC because it was created after the USDA-ERS last categorized counties by UIC. Because the USDA-ERS only updates UICs decennially based on the most recent census, it is possible that new counties may be created that will not have a designated UIC until after the next census. In such instances, clarification was needed to explain how “rural” status would be determined. The Bureau thus proposed to amend comment 35(b)(2)(iv)-1.i to address this issue and explain that any such county is considered “rural” for the purposes of § 1026.35(b)(2)(iv) only if all counties from which the new county's land was taken were themselves rural under the rule.</analysisParagraph>
+        <analysisParagraph>The Bureau also proposed comment 35(b)(2)(iv)-2.i to provide an example of how “rural” status would be determined. In addition, the Bureau proposed small technical changes to the rule provision and commentary to enhance clarity.</analysisParagraph>
+        <analysisParagraph>Section 1026.35(b)(2)(iii)(A) creates an exemption from the HPML escrow requirement for transactions by creditors operating in rural or underserved counties, if they meet certain criteria involving the loans they originatedduring the preceding calendar year.Thus, the availability of the rural or underserved exemption always follows a year after the origination activity that makes a creditor eligible for the exemption.</analysisParagraph>
+        <analysisParagraph>As adopted by the 2013 Escrows Final Rule, § 1026.35(b)(2)(iv)(B) stated that a county would be “underserved” during a calendar year if, “according to Home Mortgage Disclosure Act (HMDA) data for that year,” no more than two creditors extended covered transactions, as defined in § 1026.43(b)(1), secured by a first lien, five or more times in the county. However, HMDA data typically are released for a given calendar year during the third quarter of each subsequent calendar year. It is thus not generally possible for creditors to make determinations concerning whether a county was underserved during the preceding calendar year based on that preceding year's HMDA data, because such data likely will not be available until late in the following year. In wording § 1026.35(b)(2)(iv)(B) as it did, the Bureau did not intend to require the use of HMDA data that would not be available at the time the determination of a county's “underserved” status was made; the Bureau's intent was to provide for the use of the most recent HMDA data available at the time of the determination.</analysisParagraph>
+        <analysisParagraph>The Bureau therefore proposed to amend § 1026.35(b)(2)(iv)(B) to clarify that a county is considered “underserved” during a given calendar year based on HMDA data for “the preceding calendar year” as opposed to “that calendar year.” This look-back feature coordinates with the look-back feature in the exemption itself at § 1026.35(b)(2)(iii)(A), so that a creditor would rely on the underserved status of a county based on HMDA data from two years previous to the use of the exemption, which are the most recent data available for use as the Bureau intended. The Bureau also proposed to amend comment 35(b)(2)(iv)-1.ii to conform to this change, and to add comment 35(b)(2)(iv)-2.ii to provide an example.</analysisParagraph>
+        <analysisParagraph>The Bureau proposed language in § 1026.35(e) to keep in place existing requirements contained in § 1026.35(b)concerning assessment of consumers' ability to repay an HPML and limitations on prepayment penalties for HPMLs. These provisions were originally adopted by the Board in 2008,<footnote ref="16">73 FR 44522 (July 30, 2008).</footnote>
+          and will be supplanted by the Bureau's new rules implementing similar Dodd-Frank requirements in § 1026.43 on January 10, 2014.</analysisParagraph>
+        <analysisParagraph>The 2013 Escrows Final Rule inadvertently removed the existing language of § 1026.35(b) between June 1, 2013, and the January 10, 2014, effective date for the ability-to-repay and prepayment penalty provisions in § 1026.43. The Bureau proposed restoring this language at § 1026.35(e) and keeping it in effect during that intervening period. The Bureau also proposed updating existing cross-references to the § 1026.35(b) HPML provisions.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>Comments</title>
+        <analysisParagraph>One industry commenter supported generally the clarifications provided in the rule. Other industry commenters chose to neither support nor oppose the “adjacent” clarification, and asked that there be more analysis of the impact of excluding counties from the rural definition if they are “adjacent” to a metropolitan area.</analysisParagraph>
+        <analysisParagraph>Industry commenters opposed the proposed method for determining the status of a new county, arguing that a new county should be considered rural if 50% of its land is taken from counties that were previously considered rural.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>Final Rule</title>
+        <analysisParagraph>The Bureau is adopting the provisions as proposed. The definition of “adjacent” was already implicit in the 2013 Escrows Final Rule, and the Bureau's earlier impact analyses already accounted for that definition. The present rule's guidance provision merely clarifies what was adopted then.</analysisParagraph>
+        <analysisParagraph>The Bureau considered the suggestion to allow rural status for new counties if at least 50% of the counties' land comes from previously rural counties, but was concerned that making such determinations would be burdensome and inexact for compliance purposes and incongruent with the rule's overall rural designations. Accordingly, the Bureau is adopting the clarification as proposed.</analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1026-35-b-2-iv-B" notice="2013-12125" date="2013-06-01">
+      <title>35(b)(2)(iv)(B)</title>
+      <analysisSection>
+        <title>The Proposal</title>
+        <analysisParagraph>Section 1026.35(b)(2)(iii)(A) creates an exemption from the HPML escrow requirement for transactions by creditors operating in rural or underserved counties, if they meet certain criteria involving the loans they originatedduring the preceding calendar year.Thus, the availability of the rural or underserved exemption always follows a year after the origination activity that makes a creditor eligible for the exemption.</analysisParagraph>
+        <analysisParagraph>As adopted by the 2013 Escrows Final Rule, § 1026.35(b)(2)(iv)(B) stated that a county would be “underserved” during a calendar year if, “according to Home Mortgage Disclosure Act (HMDA) data for that year,” no more than two creditors extended covered transactions, as defined in § 1026.43(b)(1), secured by a first lien, five or more times in the county. However, HMDA data typically are released for a given calendar year during the third quarter of each subsequent calendar year. It is thus not generally possible for creditors to make determinations concerning whether a county was underserved during the preceding calendar year based on that preceding year's HMDA data, because such data likely will not be available until late in the following year. In wording § 1026.35(b)(2)(iv)(B) as it did, the Bureau did not intend to require the use of HMDA data that would not be available at the time the determination of a county's “underserved” status was made; the Bureau's intent was to provide for the use of the most recent HMDA data available at the time of the determination.</analysisParagraph>
+        <analysisParagraph>The Bureau therefore proposed to amend § 1026.35(b)(2)(iv)(B) to clarify that a county is considered “underserved” during a given calendar year based on HMDA data for “the preceding calendar year” as opposed to “that calendar year.” This look-back feature coordinates with the look-back feature in the exemption itself at § 1026.35(b)(2)(iii)(A), so that a creditor would rely on the underserved status of a county based on HMDA data from two years previous to the use of the exemption, which are the most recent data available for use as the Bureau intended. The Bureau also proposed to amend comment 35(b)(2)(iv)-1.ii to conform to this change, and to add comment 35(b)(2)(iv)-2.ii to provide an example.</analysisParagraph>
+        <analysisParagraph>The Bureau proposed language in § 1026.35(e) to keep in place existing requirements contained in § 1026.35(b)concerning assessment of consumers' ability to repay an HPML and limitations on prepayment penalties for HPMLs. These provisions were originally adopted by the Board in 2008,<footnote ref="16">73 FR 44522 (July 30, 2008).</footnote>
+          and will be supplanted by the Bureau's new rules implementing similar Dodd-Frank requirements in § 1026.43 on January 10, 2014.</analysisParagraph>
+        <analysisParagraph>The 2013 Escrows Final Rule inadvertently removed the existing language of § 1026.35(b) between June 1, 2013, and the January 10, 2014, effective date for the ability-to-repay and prepayment penalty provisions in § 1026.43. The Bureau proposed restoring this language at § 1026.35(e) and keeping it in effect during that intervening period. The Bureau also proposed updating existing cross-references to the § 1026.35(b) HPML provisions.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>Comments and Final Rule</title>
+        <analysisParagraph>The only commenter to reference this provision, an industry trade group, supported it. For the reasons stated above, the provision is adopted as proposed.</analysisParagraph>
+        <analysisParagraph>The industry groups specifically commenting on this provision supported the proposal. To maintain consumer protections and avoid disruptions in the market, the provision is adopted as proposed.</analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1026-35-e" notice="2013-12125" date="2013-06-01">
+      <title>1026.35(e) Repayment Ability, Prepayment Penalties</title>
+      <analysisSection>
+        <title>The Proposal</title>
+        <analysisParagraph>The Bureau proposed language in § 1026.35(e) to keep in place existing requirements contained in § 1026.35(b)concerning assessment of consumers' ability to repay an HPML and limitations on prepayment penalties for HPMLs. These provisions were originally adopted by the Board in 2008,<footnote ref="16">73 FR 44522 (July 30, 2008).</footnote>
+          and will be supplanted by the Bureau's new rules implementing similar Dodd-Frank requirements in § 1026.43 on January 10, 2014.</analysisParagraph>
+        <analysisParagraph>The 2013 Escrows Final Rule inadvertently removed the existing language of § 1026.35(b) between June 1, 2013, and the January 10, 2014, effective date for the ability-to-repay and prepayment penalty provisions in § 1026.43. The Bureau proposed restoring this language at § 1026.35(e) and keeping it in effect during that intervening period. The Bureau also proposed updating existing cross-references to the § 1026.35(b) HPML provisions.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>Comments and Final Rule</title>
+        <analysisParagraph>The industry groups specifically commenting on this provision supported the proposal. To maintain consumer protections and avoid disruptions in the market, the provision is adopted as proposed.</analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+  </analysis>
 </notice>
