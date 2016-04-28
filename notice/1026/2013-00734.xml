@@ -112,7 +112,7 @@
     <change operation="deleted" label="1026-35-b-2-ii-A"/>
     <change operation="deleted" label="1026-35-b-2-ii-C"/>
     <change operation="added" label="1026-35-a-1-Interp">
-      <interpParagraph label="1026-35-a-1-Interp">
+      <interpParagraph target="1026-35-a-1" label="1026-35-a-1-Interp">
         <title>Paragraph 35(a)(1).</title>
         <content/>
         <interpParagraph label="1026-35-a-1-Interp-1" marker="1.">
@@ -671,10 +671,10 @@
       <section label="1026-35" sectionNum="35">
         <subject>§ 1026.35 Requirements for higher-priced mortgage loans.</subject>
         <paragraph label="1026-35-a" marker="(a)">
-          <title type="keyterm">Higher-priced mortgage loans.</title>
-          <content>Definitions. For purposes of this section:</content>
+          <title type="keyterm">Definitions.</title>
+          <content>For purposes of this section:</content>
           <paragraph label="1026-35-a-1" marker="(1)">
-            <content>“<def term="higher-priced mortgage loan">Higher-priced mortgage loan</def>” means a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref><ref target="1026-35-b-3-v" reftype="internal">it transa</ref>ction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with an annual percentage rate that exceeds the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set:</content>
+            <content>“<def term="higher-priced mortgage loan">Higher-priced mortgage loan</def>” means a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> st transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with an annual percentage rate that exceeds the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set:</content>
             <paragraph label="1026-35-a-1-i" marker="(i)">
               <content>By 1.5 or more percentage points for loans secured by a first lien with a principal obligation at <ref target="1026-2-a-13" reftype="term">consummation</ref> that does not exceed the limit in effect as of the date the transaction's interest rate is set for the maximum principal obligation eligible for purchase by Freddie Mac;</content>
             </paragraph>
@@ -690,15 +690,15 @@
           </paragraph>
         </paragraph>
         <paragraph label="1026-35-b" marker="(b)">
-          <title type="keyterm">Rules for higher-priced mortgage loans.</title>
-          <content>Escrow accounts—</content>
+          <title type="keyterm">Escrow accounts-</title>
+          <content></content>
           <paragraph label="1026-35-b-1" marker="(1)">
-            <title type="keyterm">Repayment ability.</title>
-            <content>Requirement to escrow for property taxes and insurance. Except as provided in paragraph (b)(2) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first li<ref target="1026-34-a-4" reftype="internal">en on a consu</ref><ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an escrow account is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph (b), the term “escrow account” has the same meaning as under Regulation X (24 CFR 3500.17(b)), as amended.</content>
+            <title type="keyterm">Requiresent to escrow for property taxes and insurance.</title>
+            <content> Except as provided in paragraph (b)(2) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an escrow account is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph (b), the term “escrow account” has the same meaning as under Regulation X (24 CFR 3500.17(b)), as amended.</content>
           </paragraph>
           <paragraph label="1026-35-b-2" marker="(2)">
-            <title type="keyterm">Prepayment penalties.</title>
-            <content>Exemptions. Notwithstanding paragraph (b)(1) of this section:</content>
+            <title type="keyterm">Exemptions. </title>
+            <content>Notwithstanding paragraph (b)(1) of this section:</content>
             <paragraph label="1026-35-b-2-i" marker="(i)">
               <content>An escrow account need not be established for:</content>
               <paragraph label="1026-35-b-2-i-A" marker="(A)">
@@ -752,11 +752,11 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-35-b-3" marker="(3)">
-            <title type="keyterm">Escrows</title>
-            <content>Cancellation—</content>
+            <title type="keyterm">Cancellation—</title>
+            <content></content>
             <paragraph label="1026-35-b-3-i" marker="(i)">
-              <title type="keyterm">Failure to escrow for property taxes and insurance.</title>
-              <content>General. Except as provided in paragraph (b)(3)(ii) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or s<ref target="1026-35-b-3-ii" reftype="internal">ervicer ma</ref>y cancel an escrow account required in paragraph (b)(1) of this section only upon the earlier of:</content>
+              <title type="keyterm">General. </title>
+              <content>Except as provided in paragraph (b)(3)(ii) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or s<ref target="1026-35-b-3-ii" reftype="internal">ervicer ma</ref>y cancel an escrow account required in paragraph (b)(1) of this section only upon the earlier of:</content>
               <paragraph label="1026-35-b-3-i-A" marker="(A)">
                 <content>Termination of the underlying debt obligation; or</content>
               </paragraph>
@@ -765,8 +765,8 @@
               </paragraph>
             </paragraph>
             <paragraph label="1026-35-b-3-ii" marker="(ii)">
-              <title type="keyterm">Exemptions for loans secured by shares in a cooperative and for certain condominium units.</title>
-              <content>Delayed cancellation. Notwithstanding paragraph (b)(3)(i) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer shall not cancel an escrow account pursuant to a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s request described in paragraph (b)(3)(i)(B) of this section unless the following conditions are satisfied:</content>
+              <title type="keyterm">Delayed cancellation. </title>
+              <content>Notwithstanding paragraph (b)(3)(i) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer shall not cancel an escrow account pursuant to a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s request described in paragraph (b)(3)(i)(B) of this section unless the following conditions are satisfied:</content>
               <paragraph label="1026-35-b-3-ii-A" marker="(A)">
                 <content>The unpaid principal balance is less than 80 percent of the original value of the property securing the underlying debt obligation; and</content>
               </paragraph>
@@ -781,7 +781,7 @@
         </paragraph>
         <paragraph label="1026-35-d" marker="(d)">
           <title type="keyterm">Evasion; open-end credit.</title>
-          <content><ref target="1026-2-a-20" reftype="term">open-end credit</ref>. In connection with <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> that does not meet the definition of <ref target="1026-2-a-20" reftype="term">open-end credit</ref> in § <ref target="1026-2-a-20" reftype="internal">1026.2(a)(20)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not structure a home-secured loan as an open-end plan to evade the requirements of this section.</content>
+          <content>In connection with <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> that does not meet the definition of <ref target="1026-2-a-20" reftype="term">open-end credit</ref> in § <ref target="1026-2-a-20" reftype="internal">1026.2(a)(20)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not structure a home-secured loan as an open-end plan to evade the requirements of this section.</content>
         </paragraph>
       </section>
     </change>
