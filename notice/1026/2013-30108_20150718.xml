@@ -43,6 +43,8 @@
     <!-- Interps: 35(c)(2)(viii)(A), (B), (B)(2), (C)(3) -->
     <change operation="added" label="1026-35-c-2-viii-Interp" parent="1026-35-c-2-Interp">
       <interpParagraph label="1026-35-c-2-viii-Interp" marker="">
+	<title/>
+	<content/>
         <interpParagraph label="1026-35-c-2-viii-A-Interp" marker="" target="1026-35-c-2-viii-A">
           <title type="keyterm">Paragraph 35(c)(2)(viii)(A)</title>
           <content/>
@@ -61,7 +63,7 @@
           <interpParagraph label="1026-35-c-2-viii-B-2-Interp" marker="" target="1026-35-c-2-viii-B-2">
             <title type="keyterm">Paragraph 35(c)(2)(viii)(B)(2)</title>
             <content/>
-            <interpParagraph label="1026-35-c-2-viii-B-Interp-1" marker="1.">
+            <interpParagraph label="1026-35-c-2-viii-B-2-Interp-1" marker="1.">
               <title type="keyterm">Independent.</title>
               <content>A cost service provider from which the creditor obtains a manufactured home unit cost estimate under § 1026.35(c)(2)(viii)(B)(2) is ‘‘independent’’ if that person is not affiliated with the creditor in the transaction, such as by common corporate ownership, and receives no direct or indirect financial benefits based on whether the transaction is consummated.</content>
             </interpParagraph>
