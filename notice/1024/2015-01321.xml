@@ -21,7 +21,7 @@
   <changeset leftDocumentNumber="2013-28210" rightDocumentNumber="2015-01321">
 
     <change operation="modified" label="1024-5-d" subpath="content">
-      <content>Sections <ref target="1024-6" reftype="internal">1024.6</ref>, <ref target="1024-7" reftype="internal">1024.7</ref>, <ref target="1024-8" reftype="internal">1024.8</ref>, <ref target="1024-10" reftype="internal">1024.10</ref>, and 1024.33(a) do not apply to a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref>:</content>
+      <content>Sections <ref target="1024-6" reftype="internal">1024.6</ref>, <ref target="1024-7" reftype="internal">1024.7</ref>, <ref target="1024-8" reftype="internal">1024.8</ref>, <ref target="1024-10" reftype="internal">1024.10</ref>, and <ref target="1024-33-a" reftype="internal">1024.33(a)</ref> do not apply to a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref>:</content>
     </change>
 
   </changeset>

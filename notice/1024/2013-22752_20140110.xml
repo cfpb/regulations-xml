@@ -225,7 +225,7 @@
           <content>If no foreclosure sale has been scheduled as of the date that a complete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> is received, the <ref target="1024-2-b-Application" reftype="term">application</ref> is considered to have been received more than 90 days before any foreclosure sale.</content></interpParagraph>
         <interpParagraph label="1024-41-b-3-Interp-2" marker="2.">
           <title type="keyterm">Foreclosure sale re-scheduled.</title>
-          <content>The protections under § 1024.41 that have been determined to apply to a borrower pursuant to § <ref target="1024-41-b-3" reftype="internal">1024.41(b)(3)</ref> remain in effect thereafter, even if a foreclosure sale is later scheduled or rescheduled.</content>
+          <content>The protections under § <ref target="1024-41" reftype="internal">1024.41</ref> that have been determined to apply to a borrower pursuant to § <ref target="1024-41-b-3" reftype="internal">1024.41(b)(3)</ref> remain in effect thereafter, even if a foreclosure sale is later scheduled or rescheduled.</content>
         </interpParagraph>
       </interpParagraph>
     </change>

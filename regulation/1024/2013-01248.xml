@@ -3650,7 +3650,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
                 <content>The date of the notice;</content>
               </paragraph>
               <paragraph label="1024-37-d-2-ii-B" marker="(B)">
-                <content>The information required by paragraphs <ref target="1024-37-c-2-ii" reftype="internal">(c)(2)(ii)</ref> through <ref target="1024-37-c-2-iv" reftype="internal">(iv)</ref>, (x), (xi), and <ref target="1024-37-d-2-i-B" reftype="internal">(d)(2)(i)(B)</ref> and <ref target="1024-37-d-2-i-D" reftype="internal">(D)</ref> of this section;</content>
+                <content>The information required by paragraphs <ref target="1024-37-c-2-ii" reftype="internal">(c)(2)(ii)</ref> through <ref target="1024-37-c-2-iv" reftype="internal">(iv)</ref>, <ref target="1024-37-c-2-x" reftype="internal">(x)</ref>, <ref target="1024-37-c-2-xi" reftype="internal">(xi)</ref>, and <ref target="1024-37-d-2-i-B" reftype="internal">(d)(2)(i)(B)</ref> and <ref target="1024-37-d-2-i-D" reftype="internal">(D)</ref> of this section;</content>
               </paragraph>
               <paragraph label="1024-37-d-2-ii-C" marker="(C)">
                 <content>A statement that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has received the <ref target="1024-31-HazardInsurance" reftype="term">hazard insurance</ref> information that the borrower provided;</content>
@@ -5230,7 +5230,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
           <title>Appendix MS—Mortgage Servicing Model Forms and Clauses</title>
           <interpParagraph label="1024-MS-Interp-1" marker="1.">
             <title type="keyterm">In general.</title>
-            <content>This appendix contains model forms and clauses for mortgage <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosures required by §§ <ref target="1024-33" reftype="internal">1024.33</ref>, 37, and 39. Each of the model forms is designated for uses in a particular set of circumstances as indicated by the title of that model form or clause. Although use of the model forms and clauses is not required, <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> using them appropriately will be in compliance with disclosure requirements of §§ <ref target="1024-33" reftype="internal">1024.33</ref>, 37, and 39. To use the forms appropriately, information required by regulation must be set forth in the disclosures.</content>
+            <content>This appendix contains model forms and clauses for mortgage <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> disclosures required by §§ <ref target="1024-33" reftype="internal">1024.33</ref>, <ref target="1024-37" reftype="internal">37</ref>, and <ref target="1024-39" reftype="internal">39</ref>. Each of the model forms is designated for uses in a particular set of circumstances as indicated by the title of that model form or clause. Although use of the model forms and clauses is not required, <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> using them appropriately will be in compliance with disclosure requirements of §§ <ref target="1024-33" reftype="internal">1024.33</ref>, 37, and 39. To use the forms appropriately, information required by regulation must be set forth in the disclosures.</content>
           </interpParagraph>
           <interpParagraph label="1024-MS-Interp-2" marker="2.">
             <title type="keyterm">Permissible changes.</title>
