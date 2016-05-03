@@ -21,7 +21,7 @@
   <changeset leftDocumentNumber="2013-30108_20150718" rightDocumentNumber="2015-12719">
     <!-- Notice changes: authority citation, 1026.1, 1026.42(h) -->
     <!-- Authority: 12 U.S.C. 2601, 2603–2605, 2607, 2609, 2617, 3353, 5511, 5512, 5532, 5581; 15 U.S.C. 1601 et seq. -->
-    <change operation="modified" target="1026-1-a" subpath="content">
+    <change operation="modified" label="1026-1-a" subpath="content">
       <content>This part, known as Regulation Z, is issued by the Bureau of Consumer Financial Protection to implement the Federal Truth in Lending Act, which is contained in title I of the Consumer Credit Protection Act, as amended (<ref target="USC:15-1601" reftype="external">15 U.S.C. 1601</ref> et seq.). This part also implements title XII, section 1204 of the Competitive Equality Banking Act of 1987 (Pub. L. 100-86, <ref target="STATUTES_AT_LARGE:101-Stat.-552" reftype="external">101 Stat. 552</ref>). Furthermore, this part implements certain provisions of the Financial Institutions Reform, Recovery, and Enforcement Act, as amended (<ref target="USC:12-3331" reftype="external">12 U.S.C. 3331</ref> et seq.). The <ref target="1026-2-a-5" reftype="term">Bureau</ref>'s information-collection requirements contained in this part have been approved by the Office of Management and Budget (OMB) under the provisions of <ref target="USC:44-3501" reftype="external">44 U.S.C. 3501</ref> et seq. and have been assigned OMB No. 3170-0015 (Truth in Lending).</content>
     </change>
     <change operation="added" label="1026-42-h">
