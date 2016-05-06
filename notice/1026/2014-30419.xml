@@ -27,8 +27,8 @@
     </change>
     <!-- End of notice changes -->
   </changeset>
+  <!-- SxS Analysis -->
   <analysis>
-    <!-- SxS Analysis -->
     <analysisSection target="1026-35-c-2-ii" notice="2014-30419" date="2015-01-01">
       <title>35(c)(2)(ii)</title>
       <analysisSection>
