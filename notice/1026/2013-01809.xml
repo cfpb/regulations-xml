@@ -18,6 +18,116 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/02/13/2013-01809/appraisals-for-higher-priced-mortgage-loans</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-24521" rightDocumentNumber="2013-01809">
+    <!-- Update TOC with N & O title changes -->
+    <change operation="modified" label="1026-TOC">
+      <tableOfContents label="1026-TOC">
+        <tocAppEntry target="1026-Subpart-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>General</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Open-End Credit</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-C">
+          <appendixLetter>C</appendixLetter>
+          <appendixSubject>Closed-End Credit</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-D">
+          <appendixLetter>D</appendixLetter>
+          <appendixSubject>Miscellaneous</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-E">
+          <appendixLetter>E</appendixLetter>
+          <appendixSubject>Special Rules for Certain Home Mortgage Transactions</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-F">
+          <appendixLetter>F</appendixLetter>
+          <appendixSubject>Special Rules for Private Education Loans</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-G">
+          <appendixLetter>G</appendixLetter>
+          <appendixSubject>Special Rules Applicable to Credit Card Accounts and Open-End Credit Offered to College Students</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>Appendix A to Part 1026—Effect on State Laws</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Appendix B to Part 1026—State Exemptions</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-C">
+          <appendixLetter>C</appendixLetter>
+          <appendixSubject>Appendix C to Part 1026—Issuance of Official Interpretations</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-D">
+          <appendixLetter>D</appendixLetter>
+          <appendixSubject>Appendix D to Part 1026—Multiple Advance Construction Loans</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-E">
+          <appendixLetter>E</appendixLetter>
+          <appendixSubject>Appendix E to Part 1026—Rules for Card Issuers That Bill on a Transaction-by-Transaction Basis</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-F">
+          <appendixLetter>F</appendixLetter>
+          <appendixSubject>Appendix F to Part 1026—Optional Annual Percentage Rate Computations for Creditors Offering Open-End Credit Plans Secured by a Consumer's Dwelling</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-G">
+          <appendixLetter>G</appendixLetter>
+          <appendixSubject>Appendix G to Part 1026—Open-End Model Forms and Clauses</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-H">
+          <appendixLetter>H</appendixLetter>
+          <appendixSubject>Appendix H to Part 1026—Closed-End Model Forms and Clauses</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-I">
+          <appendixLetter>I</appendixLetter>
+          <appendixSubject>Appendix I to Part 1026 [Reserved]</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-J">
+          <appendixLetter>J</appendixLetter>
+          <appendixSubject>Appendix J to Part 1026—Annual Percentage Rate Computations for Closed-End Credit Transactions</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-K">
+          <appendixLetter>K</appendixLetter>
+          <appendixSubject>Appendix K to Part 1026—Total Annual Loan Cost Rate Computations for Reverse Mortgage Transactions</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-L">
+          <appendixLetter>L</appendixLetter>
+          <appendixSubject>Appendix L to Part 1026—Assumed Loan Periods for Computations of Total Annual Loan Cost Rates</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-M1">
+          <appendixLetter>M1</appendixLetter>
+          <appendixSubject>Appendix M1 to Part 1026—Repayment Disclosures</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-M2">
+          <appendixLetter>M2</appendixLetter>
+          <appendixSubject>Appendix M2 to Part 1026—Sample Calculations of Repayment Disclosures</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-N">
+          <appendixLetter>N</appendixLetter>
+          <appendixSubject>Appendix N to Part 1026—Higher-Priced Mortgage Loan Appraisal Safe Harbor Review</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-O">
+          <appendixLetter>O</appendixLetter>
+          <appendixSubject>Appendix O to Part 1026—Illustrative Written Source Documents for Higher-Priced Mortgage Loan Appraisal Rules</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-P">
+          <appendixLetter>P</appendixLetter>
+          <appendixSubject>Appendix P to Part 1026-[Reserved]</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Q">
+          <appendixLetter>Q</appendixLetter>
+          <appendixSubject>Appendix Q to Part 1026—Standards for Determining Monthly Debt and Income</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Interp">
+          <appendixLetter>Interp</appendixLetter>
+          <appendixSubject>Supplement I to Part 1026—Official Interpretations</appendixSubject>
+        </tocAppEntry>
+      </tableOfContents>
+    </change>
+
     <!-- 2013-01809 changes the following: 1026.35, 1026-N, 1026-O -->
     <change operation="modified" label="1026-35" subpath="subject">
       <subject>§ 1026.35 Prohibited acts or practices in connection with higher-priced mortgage loans.</subject>

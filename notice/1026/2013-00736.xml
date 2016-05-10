@@ -19,6 +19,116 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/01/30/2013-00736/ability-to-repay-and-qualified-mortgage-standards-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-31225" rightDocumentNumber="2013-00736">
+    <!-- Update TOC with new appendices -->
+    <change operation="modified" label="1026-TOC">
+      <tableOfContents label="1026-TOC">
+        <tocAppEntry target="1026-Subpart-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>General</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Open-End Credit</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-C">
+          <appendixLetter>C</appendixLetter>
+          <appendixSubject>Closed-End Credit</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-D">
+          <appendixLetter>D</appendixLetter>
+          <appendixSubject>Miscellaneous</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-E">
+          <appendixLetter>E</appendixLetter>
+          <appendixSubject>Special Rules for Certain Home Mortgage Transactions</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-F">
+          <appendixLetter>F</appendixLetter>
+          <appendixSubject>Special Rules for Private Education Loans</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Subpart-G">
+          <appendixLetter>G</appendixLetter>
+          <appendixSubject>Special Rules Applicable to Credit Card Accounts and Open-End Credit Offered to College Students</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>Appendix A to Part 1026—Effect on State Laws</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Appendix B to Part 1026—State Exemptions</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-C">
+          <appendixLetter>C</appendixLetter>
+          <appendixSubject>Appendix C to Part 1026—Issuance of Official Interpretations</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-D">
+          <appendixLetter>D</appendixLetter>
+          <appendixSubject>Appendix D to Part 1026—Multiple Advance Construction Loans</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-E">
+          <appendixLetter>E</appendixLetter>
+          <appendixSubject>Appendix E to Part 1026—Rules for Card Issuers That Bill on a Transaction-by-Transaction Basis</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-F">
+          <appendixLetter>F</appendixLetter>
+          <appendixSubject>Appendix F to Part 1026—Optional Annual Percentage Rate Computations for Creditors Offering Open-End Credit Plans Secured by a Consumer's Dwelling</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-G">
+          <appendixLetter>G</appendixLetter>
+          <appendixSubject>Appendix G to Part 1026—Open-End Model Forms and Clauses</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-H">
+          <appendixLetter>H</appendixLetter>
+          <appendixSubject>Appendix H to Part 1026—Closed-End Model Forms and Clauses</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-I">
+          <appendixLetter>I</appendixLetter>
+          <appendixSubject>Appendix I to Part 1026 [Reserved]</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-J">
+          <appendixLetter>J</appendixLetter>
+          <appendixSubject>Appendix J to Part 1026—Annual Percentage Rate Computations for Closed-End Credit Transactions</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-K">
+          <appendixLetter>K</appendixLetter>
+          <appendixSubject>Appendix K to Part 1026—Total Annual Loan Cost Rate Computations for Reverse Mortgage Transactions</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-L">
+          <appendixLetter>L</appendixLetter>
+          <appendixSubject>Appendix L to Part 1026—Assumed Loan Periods for Computations of Total Annual Loan Cost Rates</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-M1">
+          <appendixLetter>M1</appendixLetter>
+          <appendixSubject>Appendix M1 to Part 1026—Repayment Disclosures</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-M2">
+          <appendixLetter>M2</appendixLetter>
+          <appendixSubject>Appendix M2 to Part 1026—Sample Calculations of Repayment Disclosures</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-N">
+          <appendixLetter>N</appendixLetter>
+          <appendixSubject>Appendix N to Part 1026-[Reserved]</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-O">
+          <appendixLetter>O</appendixLetter>
+          <appendixSubject>Appendix O to Part 1026-[Reserved]</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-P">
+          <appendixLetter>P</appendixLetter>
+          <appendixSubject>Appendix P to Part 1026-[Reserved]</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Q">
+          <appendixLetter>Q</appendixLetter>
+          <appendixSubject>Appendix Q to Part 1026—Standards for Determining Monthly Debt and Income</appendixSubject>
+        </tocAppEntry>
+        <tocAppEntry target="1026-Interp">
+          <appendixLetter>Interp</appendixLetter>
+          <appendixSubject>Supplement I to Part 1026—Official Interpretations</appendixSubject>
+        </tocAppEntry>
+      </tableOfContents>
+    </change>
+    
     <!-- Section 1026.25: Revising paragraph (a) -->
     <change operation="modified" label="1026-25-a" subpath="content">
       <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with this regulation, other than advertising requirements under §§ <ref target="1026-16" reftype="internal">1026.16</ref> and <ref target="1026-24" reftype="internal">1026.24</ref> and certain requirements for mortgage loans under paragraph <ref target="1026-25-c" reftype="internal">(c)</ref> of this section, for two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing the regulation may require a <ref target="1026-2-a-17" reftype="term">creditor</ref> under their jurisdictions to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 108 of <ref target="USC:12-2601" reftype="external">the Act</ref>.</content>
@@ -2042,7 +2152,7 @@
     </change>
 
     <!-- Section 25(c), 25(c)(3), and paragraphs 1 and 2 are added. -->
-    <change operation="added" label="1026-25-c-Interp" subpath="title">
+    <change operation="modified" label="1026-25-c-Interp" subpath="title">
       <title>25(c) Records related to certain requirements for mortgage loans.</title>
     </change>
     <change operation="added" label="1026-25-c-3-Interp">
