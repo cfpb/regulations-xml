@@ -19,6 +19,109 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/02/14/2013-01241/mortgage-servicing-rules-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-00740" rightDocumentNumber="2013-01241">
+    <!-- Update TOC for Section 20 and 41 subject changes -->
+    <change operation="modified" label="1026-Subpart-C-TOC">
+      <tableOfContents label="1026-Subpart-C-TOC">
+        <tocSecEntry target="1026-17">
+          <sectionNum>17</sectionNum>
+          <sectionSubject>§ 1026.17 General disclosure requirements.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-18">
+          <sectionNum>18</sectionNum>
+          <sectionSubject>§ 1026.18 Content of disclosures.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-19">
+          <sectionNum>19</sectionNum>
+          <sectionSubject>§ 1026.19 Certain mortgage and variable-rate transactions.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-20">
+          <sectionNum>20</sectionNum>
+          <sectionSubject>§ 1026.20 Disclosure requirements regarding post-consummation events.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-21">
+          <sectionNum>21</sectionNum>
+          <sectionSubject>§ 1026.21 Treatment of credit balances.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-22">
+          <sectionNum>22</sectionNum>
+          <sectionSubject>§ 1026.22 Determination of annual percentage rate.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-23">
+          <sectionNum>23</sectionNum>
+          <sectionSubject>§ 1026.23 Right of rescission.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-24">
+          <sectionNum>24</sectionNum>
+          <sectionSubject>§ 1026.24 Advertising.</sectionSubject>
+        </tocSecEntry>
+      </tableOfContents>
+    </change>
+    <change operation="modified" label="1026-Subpart-E-TOC">
+      <tableOfContents label="1026-Subpart-E-TOC">
+        <tocSecEntry target="1026-31">
+          <sectionNum>31</sectionNum>
+          <sectionSubject>§ 1026.31 General rules.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-32">
+          <sectionNum>32</sectionNum>
+          <sectionSubject>§ 1026.32 Requirements for certain closed-end home mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-33">
+          <sectionNum>33</sectionNum>
+          <sectionSubject>§ 1026.33 Requirements for reverse mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-34">
+          <sectionNum>34</sectionNum>
+          <sectionSubject>§ 1026.34 Prohibited acts or practices in connection with high-cost mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-35">
+          <sectionNum>35</sectionNum>
+          <sectionSubject>§ 1026.35 Prohibited acts or practices in connection with higher-priced mortgage loans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-36">
+          <sectionNum>36</sectionNum>
+          <sectionSubject>§ 1026.36 Prohibited acts or practices in connection with credit secured by a dwelling.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-37">
+          <sectionNum>37</sectionNum>
+          <sectionSubject>§ 1026.37 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-38">
+          <sectionNum>38</sectionNum>
+          <sectionSubject>§ 1026.38 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-39">
+          <sectionNum>39</sectionNum>
+          <sectionSubject>§ 1026.39 Mortgage transfer disclosures.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-40">
+          <sectionNum>40</sectionNum>
+          <sectionSubject>§ 1026.40 Requirements for home equity plans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-41">
+          <sectionNum>41</sectionNum>
+          <sectionSubject>§ 1026.41 Periodic statements for residential mortgage loans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-42">
+          <sectionNum>42</sectionNum>
+          <sectionSubject>§ 1026.42 Valuation independence.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-43">
+          <sectionNum>43</sectionNum>
+          <sectionSubject>§ 1026.43 Minimum standards for transactions secured by a dwelling.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-44">
+          <sectionNum>44</sectionNum>
+          <sectionSubject>§ 1026.44 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-45">
+          <sectionNum>45</sectionNum>
+          <sectionSubject>§ 1026.45 [Reserved]</sectionSubject>
+        </tocSecEntry>
+      </tableOfContents>
+    </change>
+
+    <!-- Revise paragraph 17-a-1 -->
     <change operation="modified" label="1026-17-a-1">
       <paragraph label="1026-17-a-1" marker="(1)">
         <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make the disclosures required by this subpart clearly and conspicuously in writing, in a form that the <ref target="1026-2-a-11" reftype="term">consumer</ref> may keep. The disclosures required by this subpart may be provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref> in electronic form, subject to compliance with the <ref target="1026-2-a-11" reftype="term">consumer</ref> consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (<ref target="USC:15-7001" reftype="external">15 U.S.C. 7001</ref> et seq.). The disclosures required by §§ <ref target="1026-17-g" reftype="internal">1026.17(g)</ref>, <ref target="1026-19-b" reftype="internal">1026.19(b)</ref>, and <ref target="1026-24" reftype="internal">1026.24</ref> may be provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref> in electronic form without regard to the <ref target="1026-2-a-11" reftype="term">consumer</ref> consent or other provisions of the E-Sign Act in the circumstances set forth in those sections. The disclosures shall be grouped together, shall be segregated from everything else, and shall not contain any information not directly related to the disclosures required under § <ref target="1026-18" reftype="internal">1026.18</ref>, § 10<ref target="1026-47" reftype="internal">26.20(c</ref>) and (d), or § 1026.47. The disclosures required by § 1026.20(d) shall be provided as a separate document from all other written materials. The disclosures may include an acknowledgment of receipt, the date of the transaction, and the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s name, address, and account <ref target="1026-18-a" reftype="internal">number. Th</ref>e following disclosures may be made <ref target="1026-18-f-1-iv" reftype="internal">together with or </ref>separately from other required disclosure<ref target="1026-18-n" reftype="internal">s: The cre</ref><ref target="1026-2-a-17" reftype="term">creditor</ref>'s identity under § 1026.18(a), the variabl<ref target="1026-18-o" reftype="internal">e rate exa</ref>mple under § 1026.18(f)(1)(iv), insurance or debt<ref target="1026-18-c-1" reftype="internal"> cancellation</ref> under § 1026.18(n), and certain <ref target="1026-2-a-25" reftype="term">security interest</ref> ch<ref target="1026-18" reftype="internal">arges u</ref>nder § 1026.18(o). The itemization of the amount financed under § 1026.18(<ref target="1026-47" reftype="internal">c)(1) m</ref>ust be separate from the other disclosures under § 1026.18, except for private education loan disclosures made in compliance with § 1026.47.</content>
@@ -498,7 +601,7 @@
     <change operation="modified" label="1026-H">
       <appendix appendixLetter="H" label="1026-H">
         <appendixTitle>Appendix H to Part 1026—Closed-End Model Forms and Clauses</appendixTitle>
-        <tableOfContents>
+        <tableOfContents label="1026-H-TOC">
           <tocAppEntry target="1026-H-1">
             <appendixLetter>1</appendixLetter>
             <appendixSubject>H-1—Credit Sale Model Form</appendixSubject>
