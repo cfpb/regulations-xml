@@ -47,6 +47,73 @@
         </section>
     </change>
 
+    <!-- Revise TOC with updated 1026.36 title -->
+    <change operation="modified" label="1026-Subpart-E-TOC">
+      <tableOfContents label="1026-Subpart-E-TOC">
+        <tocSecEntry target="1026-31">
+          <sectionNum>31</sectionNum>
+          <sectionSubject>§ 1026.31 General rules.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-32">
+          <sectionNum>32</sectionNum>
+          <sectionSubject>§ 1026.32 Requirements for certain closed-end home mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-33">
+          <sectionNum>33</sectionNum>
+          <sectionSubject>§ 1026.33 Requirements for reverse mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-34">
+          <sectionNum>34</sectionNum>
+          <sectionSubject>§ 1026.34 Prohibited acts or practices in connection with high-cost mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-35">
+          <sectionNum>35</sectionNum>
+          <sectionSubject>§ 1026.35 Prohibited acts or practices in connection with higher-priced mortgage loans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-36">
+          <sectionNum>36</sectionNum>
+          <sectionSubject>§ 1026.36 Prohibited acts or practices and certain requirements for credit secured by a dwelling.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-37">
+          <sectionNum>37</sectionNum>
+          <sectionSubject>§ 1026.37 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-38">
+          <sectionNum>38</sectionNum>
+          <sectionSubject>§ 1026.38 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-39">
+          <sectionNum>39</sectionNum>
+          <sectionSubject>§ 1026.39 Mortgage transfer disclosures.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-40">
+          <sectionNum>40</sectionNum>
+          <sectionSubject>§ 1026.40 Requirements for home equity plans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-41">
+          <sectionNum>41</sectionNum>
+          <sectionSubject>§ 1026.41 Periodic statements for residential mortgage loans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-42">
+          <sectionNum>42</sectionNum>
+          <sectionSubject>§ 1026.42 Valuation independence.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-43">
+          <sectionNum>43</sectionNum>
+          <sectionSubject>§ 1026.43 Minimum standards for transactions secured by a dwelling.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-44">
+          <sectionNum>44</sectionNum>
+          <sectionSubject>§ 1026.44 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-45">
+          <sectionNum>45</sectionNum>
+          <sectionSubject>§ 1026.45 [Reserved]</sectionSubject>
+        </tocSecEntry>
+      </tableOfContents>
+    </change>
+
+    <!-- Revise 1026.36 -->
     <change operation="modified" label="1026-36">
       <section label="1026-36" sectionNum="36">
         <subject>&#167; 1026.36 Prohibited acts or practices and certain requirements for credit secured by a dwelling.</subject>

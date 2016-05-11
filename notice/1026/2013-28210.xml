@@ -19,9 +19,74 @@
   </preamble>
   <changeset leftDocumentNumber="2015-12719" rightDocumentNumber="2013-28210">
     <!-- Notice changes: -->
+    <!-- Update TOC for 1026.37, 1026.38 title changes -->
+    <change operation="modified" label="1026-Subpart-E-TOC">
+        <tableOfContents label="1026-Subpart-E-TOC">
+        <tocSecEntry target="1026-31">
+          <sectionNum>31</sectionNum>
+          <sectionSubject>§ 1026.31 General rules.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-32">
+          <sectionNum>32</sectionNum>
+          <sectionSubject>§ 1026.32 Requirements for certain closed-end home mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-33">
+          <sectionNum>33</sectionNum>
+          <sectionSubject>§ 1026.33 Requirements for reverse mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-34">
+          <sectionNum>34</sectionNum>
+          <sectionSubject>§ 1026.34 Prohibited acts or practices in connection with high-cost mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-35">
+          <sectionNum>35</sectionNum>
+          <sectionSubject>§ 1026.35 Prohibited acts or practices in connection with higher-priced mortgage loans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-36">
+          <sectionNum>36</sectionNum>
+          <sectionSubject>§ 1026.36 Prohibited acts or practices and certain requirements for credit secured by a dwelling.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-37">
+          <sectionNum>37</sectionNum>
+          <sectionSubject>§ 1026.37 Content of disclosures for certain mortgage transactions (Loan Estimate).</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-38">
+          <sectionNum>38</sectionNum>
+          <sectionSubject>§ 1026.38 Content of disclosures for certain mortgage transactions (Closing Disclosure).</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-39">
+          <sectionNum>39</sectionNum>
+          <sectionSubject>§ 1026.39 Mortgage transfer disclosures.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-40">
+          <sectionNum>40</sectionNum>
+          <sectionSubject>§ 1026.40 Requirements for home equity plans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-41">
+          <sectionNum>41</sectionNum>
+          <sectionSubject>§ 1026.41 Periodic statements for residential mortgage loans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-42">
+          <sectionNum>42</sectionNum>
+          <sectionSubject>§ 1026.42 Valuation independence.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-43">
+          <sectionNum>43</sectionNum>
+          <sectionSubject>§ 1026.43 Minimum standards for transactions secured by a dwelling.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-44">
+          <sectionNum>44</sectionNum>
+          <sectionSubject>§ 1026.44 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-45">
+          <sectionNum>45</sectionNum>
+          <sectionSubject>§ 1026.45 [Reserved]</sectionSubject>
+        </tocSecEntry>
+      </tableOfContents>
+    </change>
     <!-- Section 1026.1 is amended by revising paragraph (b) -->
     <change operation="modified" label="1026-1-b" subpath="content">
-      <content>The purpose of this part is to promote the informed use of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> by requiring disclosures about its terms and cost. The regulation also includes substantive protections. It gives <ref target="1026-2-a-11" reftype="term">consumers</ref> the right to cancel certain <ref target="1026-2-a-14" reftype="term">credit</ref> transactions that involve a lien on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>, regulates certain <ref target="1026-2-a-15-i" reftype="term">credit card</ref> practices, and provides a means for fair and timely resolution of <ref target="1026-2-a-14" reftype="term">credit</ref> billing disputes. The regulation does not generally govern charges for <ref target="1026-2-a-12" reftype="term">consumer credit</ref>, except that several provisions in subpart G set forth special rules addressing certain charges applicable to <ref target="1026-2-a-15-i" reftype="term">credit card</ref> accounts under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan. The regulation requires a maximum interest rate to be stated in variable-rate contracts secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-19" reftype="term">dwelling</ref>. It also imposes limitations on home-equity plans that are subject to the requirements of § <ref target="1026-40" reftype="internal">1026.40</ref> and mortgages that are subject to the requirements of § <ref target="1026-32" reftype="internal">1026.32</ref>. The regulation prohibits certain <ref target="1026-2-a-1" reftype="term">acts</ref> or practices in connection with <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> in § <ref target="1026-36" reftype="internal">1026.36</ref>, and <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> in § <ref target="1026-35" reftype="internal">1026.35</ref>. The regulation also regulates certain practices of <ref target="1026-2-a-17" reftype="term">creditors</ref> who extend private education loans as defined in § <ref target="1026-46-b-5" reftype="internal">1026.46(b)(5)</ref>. In addition, it imposes certain limitations on increases in costs for mortgage transactions subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>.</content>
+      <content>The purpose of this part is to promote the informed use of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> by requiring disclosures about its terms and cost, to ensure that <ref target="1026-2-a-11" reftype="term">consumers</ref> are provided with greater and more timely information on the nature and costs of the residential real estate settlement process, and to effect certain changes in the settlement process for residential real estate that will result in more effective advance disclosure to home buyers and sellers of settlement costs. The regulation also includes substantive protections. It gives <ref target="1026-2-a-11" reftype="term">consumers</ref> the right to cancel certain <ref target="1026-2-a-14" reftype="term">credit</ref> transactions that involve a lien on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>, regulates certain <ref target="1026-2-a-15-i" reftype="term">credit card</ref> practices, and provides a means for fair and timely resolution of <ref target="1026-2-a-14" reftype="term">credit</ref> billing disputes. The regulation does not generally govern charges for <ref target="1026-2-a-12" reftype="term">consumer credit</ref>, except that several provisions in subpart G set forth special rules addressing certain charges applicable to <ref target="1026-2-a-15-i" reftype="term">credit card</ref> accounts under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan. The regulation requires a maximum interest rate to be stated in variable-rate contracts secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-19" reftype="term">dwelling</ref>. It also imposes limitations on home-equity plans that are subject to the requirements of § <ref target="1026-40" reftype="internal">1026.40</ref> and mortgages that are subject to the requirements of § <ref target="1026-32" reftype="internal">1026.32</ref>. The regulation prohibits certain <ref target="1026-2-a-1" reftype="term">acts</ref> or practices in connection with <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> in § <ref target="1026-36" reftype="internal">1026.36</ref>, and <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> in § <ref target="1026-35" reftype="internal">1026.35</ref>. The regulation also regulates certain practices of <ref target="1026-2-a-17" reftype="term">creditors</ref> who extend private education loans as defined in § <ref target="1026-46-b-5" reftype="internal">1026.46(b)(5)</ref>. In addition, it imposes certain limitations on increases in costs for mortgage transactions subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>.</content>
     </change>
     <!-- Section 1026.1 is amended by revising paragraph (c)(5) -->
     <change operation="modified" label="1026-1-c-5">
@@ -183,6 +248,9 @@
     </change>
 
     <!-- Section 1026.19 is amended by revising paragraph (a)(1)(i) and (ii), -->
+    <change operation="modified" label="1026-19-a" subpath="title">
+      <title>Reverse mortgage transactions subject to RESPA.</title>
+    </change>
     <change operation="modified" label="1026-19-a-1-i" subpath="content">
       <content>In a reverse mortgage transaction subject to both § <ref target="1026-33" reftype="internal">1026.33</ref> and the Real Estate Settlement Procedures Act (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.) that is secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-19" reftype="term">dwelling</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall provide the <ref target="1026-2-a-11" reftype="term">consumer</ref> with good faith estimates of the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref> and shall deliver or place them in the mail not later than the third <ref target="1026-2-a-6" reftype="term">business day</ref> after the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written application.</content>
     </change>
@@ -628,15 +696,13 @@
     </change>
 
     <!-- Section 1026.25 is amended by revising paragraph (a) -->
-    <!-- Todo: needs a fix for the Section 108 reference -->
     <change operation="modified" label="1026-25-a">
       <paragraph label="1026-25-a" marker="(a)">
         <title type="keyterm">General rule.</title>
-        <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with this regulation (other than advertising requirements under §§ <ref target="1026-16" reftype="internal">1026.16</ref> and <ref target="1026-24" reftype="internal">1026.24</ref>, and other than the requirements under § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>) for two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing the regulation may require a <ref target="1026-2-a-17" reftype="term">creditor</ref> under their jurisdictions to retain records for a longer period if necessary to carry out their enforcement responsibilities under <ref target="USC:0-0" reftype="external">section 108</ref> of the Act.</content>
+        <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with this part (other than advertising requirements under §§ <ref target="1026-16" reftype="internal">1026.16</ref> and <ref target="1026-24" reftype="internal">1026.24</ref>, and other than the requirements under § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>) for two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing the regulation may require <ref target="1026-2-a-17" reftype="term">creditors</ref> under their jurisdictions to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 108 of the Act.</content>
       </paragraph>
     </change>
     <!-- Section 1026.25 is amended by adding paragraph (c)(1) -->
-    <!-- Todo: Needs references -->
     <change operation="modified" label="1026-25-c-1">
       <paragraph label="1026-25-c-1" marker="(1)">
         <title type="keyterm">Records related to requirements for loans secured by real property—</title>
@@ -2651,8 +2717,8 @@
     </change>
 
     <!-- Appendix H to part 1026 is amended by revising and adding to the appendix' TOC -->
-    <change operation="modified" label="1026-H" subpath="tableOfContents">
-      <tableOfContents>
+    <change operation="modified" label="1026-H-TOC">
+      <tableOfContents label="1026-H-TOC">
         <tocAppEntry target="1026-H-1">
           <appendixLetter>1</appendixLetter>
           <appendixSubject>H-1—Credit Sale Model Form</appendixSubject>
@@ -2939,7 +3005,7 @@
         </tocAppEntry>
         <tocAppEntry target="1026-H-30(C)">
           <appendixLetter>30(C)</appendixLetter>
-          <appendixSubject>H-30(C) Sample Form of Periodic Statement for a Payment-Options Loan</appendixSubject>
+          <appendixSubject>H-30(C) Sample Form of Periodic Statement for a Payment-Option Loan</appendixSubject>
         </tocAppEntry>
         <tocAppEntry target="1026-H-30(D)">
           <appendixLetter>30(D)</appendixLetter>
@@ -2948,12 +3014,36 @@
       </tableOfContents>
     </change>
     <!-- Appendix H to part 1026 is amended by revising H–13's image -->
-    <change operation="modified" label="1026-H-13" subpath="subject">
-      <subject>H-13—Mortgage with Demand Feature Sample</subject>
+    <change operation="modified" label="1026-H-13">
+      <appendixSection appendixSecNum="26" label="1026-H-13">
+        <subject>H-13—Closed-End Transaction with Demand Feature Sample</subject>
+        <paragraph label="1026-H-13-p93" marker="">
+          <content>
+            <graphic>
+              <altText/>
+              <text>![](ER31DE13.004)</text>
+              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.004.png</url>
+              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.004.thumb.png</thumbUrl>
+            </graphic>
+          </content>
+        </paragraph>
+      </appendixSection>
     </change>
-    <!-- Appendix H to part 1026 is amended by revising H–15's image -->
-    <change operation="modified" label="1026-H-15" subpath="subject">
-      <subject>H-15—Graduated Payment Mortgage Sample</subject>
+    <!-- Appendix H to part 1026 is amended by revising H–15 -->
+    <change operation="modified" label="1026-H-15">
+      <appendixSection appendixSecNum="28" label="1026-H-15">
+        <subject>H-15—Closed-End Graduated Payment Mortgage Sample</subject>
+        <paragraph label="1026-H-15-p112" marker="">
+          <content>
+            <graphic>
+              <altText/>
+              <text>![](ER31DE13.005)</text>
+              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.005.png</url>
+              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.005.thumb.png</thumbUrl>
+            </graphic>
+          </content>
+        </paragraph>
+      </appendixSection>
     </change>
     <!-- Appendix H to part 1026 is amended by adding H–24 through H–29, revising and adding to the appendix' TOC -->
     <change operation="added" label="1026-H-24(A)" after="1026-H-23">
