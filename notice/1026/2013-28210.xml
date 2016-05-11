@@ -2679,12 +2679,13 @@
         </paragraph>
       </paragraph>
     </change>
+
     <!-- Section 1026.39 is amended by revising (d) introductory text -->
     <change operation="modified" label="1026-39-d" subpath="content">
-      <content>The disclosures required by this section shall identify the loan that was sold, assigned or otherwise transferred, and state the following, except that the information required by paragraph <ref target="1026-39-d-5" reftype="internal">(d)(5)</ref> of this section shall be stated only for a mortgage loan that is a closed-end consumer credit transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> or real property other than a reverse mortgage transaction subject to § <ref target="1026-333" reftype="internal">1026.33</ref> of this part:</content>
+      <content>The disclosures required by this section shall identify the mortgage loan that was sold, assigned or otherwise transferred, and state the following, except that the information required by paragraph <ref target="1026-39-d-5" reftype="internal">(d)(5)</ref> of this section shall be stated only for a mortgage loan that is a closed-end consumer credit transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> or real property other than a reverse mortgage transaction subject to § <ref target="1026-333" reftype="internal">1026.33</ref> of this part:</content>
     </change>
+
     <!-- Section 1026.39 is amended by adding paragraph (d)(5) -->
-    <!-- Todo: References -->
     <change operation="added" label="1026-39-d-5">
       <paragraph label="1026-39-d-5" marker="(5)">
         <title type="keyterm">Partial payment policy.</title>
