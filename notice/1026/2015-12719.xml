@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -26,12 +25,8 @@
     </change>
     <change operation="added" label="1026-42-h">
       <paragraph label="1026-42-h" marker="(h)">
-        <content>The <ref target="1026-2-a-5" reftype="term">Bureau</ref> issued a joint rule to implement the appraisal management company minimum requirements in the Financial Institutions Reform, Recovery, and Enforcement Act, as amended by section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. See <ref target="CFR:12-34" reftype="external">12 CFR part 34</ref>.</content>
-      </paragraph>
+        <content>The <ref target="1026-2-a-5" reftype="term">Bureau</ref> issued a joint rule to implement the <ref target="1026-42-f-4-iii" reftype="term">appraisal management company</ref> minimum requirements in the Financial Institutions Reform, Recovery, and Enforcement Act, as amended by section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. See <ref target="CFR:12-34" reftype="external">12 CFR part 34</ref>.</content></paragraph>
     </change>
     <!-- End notice changes -->
   </changeset>
-  <analysis>
-    <!-- SxS Analysis -->
-  </analysis>
 </notice>
