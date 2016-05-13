@@ -128,6 +128,18 @@
           <sectionNum>20</sectionNum>
           <sectionSubject>§ 1024.20 List of homeownership counseling organizations.</sectionSubject>
         </tocSecEntry>
+        <tocSecEntry target="1024-21">
+          <sectionNum>21</sectionNum>
+          <sectionSubject>§ 1024.21 Mortgage servicing transfers.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-22">
+          <sectionNum>22</sectionNum>
+          <sectionSubject>§ 1024.22 Severability.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-23">
+          <sectionNum>23</sectionNum>
+          <sectionSubject>§ 1024.23 ESIGN applicability.</sectionSubject>
+        </tocSecEntry>
       </tableOfContents>
     </change>
 

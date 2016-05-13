@@ -790,7 +790,7 @@
             <content>[A.] Set forth below is the estimated charge or range of charges for the <ref target="1024-2-b-SettlementService" reftype="term">settlement services</ref> listed. You are NOT required to use the listed provider(s) as a condition for [<ref target="1024-2-b-Settlement" reftype="term">settlement</ref> of your loan on] [or] [purchase, sale, or refinance of] the subject property. THERE ARE FREQUENTLY OTHER <ref target="1024-2-b-SettlementService" reftype="term">SETTLEMENT SERVICE</ref> PROVIDERS AVAILABLE WITH SIMILAR SERVICES. YOU ARE FREE TO SHOP AROUND TO DETERMINE THAT YOU ARE RECEIVING THE BEST SERVICES AND THE BEST RATE FOR THESE SERVICES.</content>
           </paragraph>
           <paragraph label="1024-D-h1-p8" marker="">
-            <content><dash>[provider and <ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref>]</dash></content></paragraph>
+            <content><dash>[provider and settlement service]</dash></content></paragraph>
           <paragraph label="1024-D-h1-p9" marker="">
             <content>
               <dash/>
@@ -2099,6 +2099,18 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
           <sectionNum>20</sectionNum>
           <sectionSubject>§ 1024.20 List of homeownership counseling organizations.</sectionSubject>
         </tocSecEntry>
+        <tocSecEntry target="1024-21">
+          <sectionNum>21</sectionNum>
+          <sectionSubject>§ 1024.21 Mortgage servicing transfers.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-22">
+          <sectionNum>22</sectionNum>
+          <sectionSubject>§ 1024.22 Severability.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1024-23">
+          <sectionNum>23</sectionNum>
+          <sectionSubject>§ 1024.23 ESIGN applicability.</sectionSubject>
+        </tocSecEntry>
       </tableOfContents>
     <content><section label="1024-10" sectionNum="10">
             <subject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</subject>
@@ -2656,14 +2668,14 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
         <content>Any borrower's discretionary payment (such as credit life or disability insurance) made as part of a monthly mortgage payment is to be noted on the initial and annual statements. If a discretionary payment is established or terminated during the <ref target="1024-17-b-def1" reftype="term">escrow account computation year</ref>, this change should be noted on the next annual statement. A discretionary payment is not part of the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> unless the payment is required by the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, in accordance with the definition of “<ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref>” in § <ref target="1024-2" reftype="internal">1024.2</ref>, or the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> chooses to place the discretionary payment in the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has not established an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref> and only receives payments for discretionary items, this section is not applicable.</content>
         </paragraph>
     </section>
-          <section label="1024-18" sectionNum="13">
+          <section label="1024-18" sectionNum="18">
         <subject>§ 1024.18 [Reserved]</subject>
         <reserved/>
-        </section>
-    <section label="1024-19" sectionNum="13">
+      </section>
+    <section label="1024-19" sectionNum="19">
         <subject>§ 1024.19 [Reserved]</subject>
         <reserved/>
-        </section>
+      </section>
     <section label="1024-20" sectionNum="20">
         <subject>§ 1024.20 List of homeownership counseling organizations.</subject>
         <paragraph label="1024-20-a" marker="(a)">
@@ -2708,6 +2720,18 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
             </paragraph>
         </paragraph>
         </section>
+    <section label="1024-21" sectionNum="21">
+        <subject>§ 1024.21 [Reserved]</subject>
+        <reserved/>
+      </section>
+    <section label="1024-22" sectionNum="22">
+        <subject>§ 1024.22 [Reserved]</subject>
+        <reserved/>
+      </section>
+    <section label="1024-23" sectionNum="23">
+        <subject>§ 1024.23 [Reserved]</subject>
+        <reserved/>
+      </section>
     <section label="1024-6" sectionNum="6">
             <subject>§ 1024.6 Special information booklet at time of loan application.</subject>
             <paragraph label="1024-6-a" marker="(a)">
@@ -3098,7 +3122,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
           <content><def term="loss mitigation application">Loss mitigation application</def> means an oral or written request for a <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref> that is accompanied by any information required by a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> for evaluation for a <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref>.</content></paragraph>
 
         <paragraph label="1024-31-LossMitigationOption" marker="">
-          <content><def term="loss mitigation option">Loss mitigation option</def> means an alternative to foreclosure offered by the owner or assignee of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> that is made available through the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to the borrower. Master <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> means the owner of the right to perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>. A master <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may perform the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> itself or do so through a <ref target="1024-31-Subservicer" reftype="term">subservicer</ref>.</content></paragraph>
+          <content><def term="loss mitigation option">Loss mitigation option</def> means an alternative to foreclosure offered by the owner or assignee of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> that is made available through the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to the borrower. <def term="master servicer">Master servicer</def> means the owner of the right to perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>. A <ref target="1024-31-LossMitigationOption" reftype="term">master servicer</ref> may perform the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> itself or do so through a <ref target="1024-31-Subservicer" reftype="term">subservicer</ref>.</content></paragraph>
 
         <paragraph label="1024-31-MortgageLoan" marker="">
           <content><def term="mortgage loan">Mortgage loan</def> means any <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">federally related mortgage loan</ref>, as that term is defined in § <ref target="1024-2" reftype="internal">1024.2</ref> subject to the exemptions in § <ref target="1024-5-b" reftype="internal">1024.5(b)</ref>, but does not include open-end lines of credit (home equity plans).</content></paragraph>
@@ -3121,7 +3145,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
           <content><def term="service provider">Service provider</def> means any party retained by a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that interacts with a borrower or provides a service to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> for which a borrower may incur a fee.</content></paragraph>
 
         <paragraph label="1024-31-Subservicer" marker="">
-          <content><def term="subservicer">Subservicer</def> means a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that does not own the right to perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>, but that performs <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> on behalf of the master <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>.</content></paragraph>
+          <content><def term="subservicer">Subservicer</def> means a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that does not own the right to perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>, but that performs <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> on behalf of the <ref target="1024-31-LossMitigationOption" reftype="term">master servicer</ref>.</content></paragraph>
 
         <paragraph label="1024-31-TransfereeServicer" marker="">
           <content><def term="transferee servicer">Transferee servicer</def> means a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> that obtains or will obtain the right to perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> pursuant to an agreement or understanding.</content></paragraph>
@@ -3174,7 +3198,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
                 <content>A transfer that results from mergers or acquisitions of <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> or <ref target="1024-31-Subservicer" reftype="term">subservicers</ref>;</content>
               </paragraph>
               <paragraph label="1024-33-b-2-i-C" marker="(C)">
-                <content>A transfer that occurs between master <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> without changing the <ref target="1024-31-Subservicer" reftype="term">subservicer</ref>;</content>
+                <content>A transfer that occurs between <ref target="1024-31-LossMitigationOption" reftype="term">master servicers</ref> without changing the <ref target="1024-31-Subservicer" reftype="term">subservicer</ref>;</content>
               </paragraph>
             </paragraph>
             <paragraph label="1024-33-b-2-ii" marker="(ii)">
@@ -3863,7 +3887,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
               <content>As a <ref target="1024-38-b-4-iii" reftype="term">transferee servicer</ref>, identify necessary documents or information that may not have been transferred by a <ref target="1024-31-TransferorServicer" reftype="term">transferor servicer</ref> and obtain such documents from the <ref target="1024-31-TransferorServicer" reftype="term">transferor servicer</ref>.</content>
             </paragraph>
             <paragraph label="1024-38-b-4-iii" marker="(iii)">
-              <content>For the purposes of this paragraph <ref target="1024-38-b-4" reftype="internal">(b)(4)</ref>, <def term="transferee servicer">transferee servicer</def> means a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, including a master <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> or a <ref target="1024-31-Subservicer" reftype="term">subservicer</ref>, that performs or will perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> and <ref target="1024-31-TransferorServicer" reftype="term">transferor servicer</ref> means a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, including a master <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> or a <ref target="1024-31-Subservicer" reftype="term">subservicer</ref>, that transfers or will transfer the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref>.</content>
+              <content>For the purposes of this paragraph <ref target="1024-38-b-4" reftype="internal">(b)(4)</ref>, <def term="transferee servicer">transferee servicer</def> means a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, including a <ref target="1024-31-LossMitigationOption" reftype="term">master servicer</ref> or a <ref target="1024-31-Subservicer" reftype="term">subservicer</ref>, that performs or will perform <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> and <ref target="1024-31-TransferorServicer" reftype="term">transferor servicer</ref> means a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, including a <ref target="1024-31-LossMitigationOption" reftype="term">master servicer</ref> or a <ref target="1024-31-Subservicer" reftype="term">subservicer</ref>, that transfers or will transfer the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref>.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1024-38-b-5" marker="(5)">
@@ -4568,7 +4592,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
               <content>An information request is submitted by a borrower if the information request is submitted by an agent of the borrower. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may undertake reasonable procedures to determine if a <ref target="1024-2-b-def3" reftype="term">person</ref> that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf, for example, by requiring that a <ref target="1024-2-b-def3" reftype="term">person</ref> that claims to be an agent of the borrower provide documentation from the borrower stating that the purported agent is acting on the borrower's behalf. Upon receipt of such documentation, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall treat the request for information as having been submitted by the borrower.</content></interpParagraph>
             <interpParagraph label="1024-36-a-Interp-2" marker="2.">
               <title type="keyterm">Owner or assignee of a mortgage loan.</title>
-              <content> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with § <ref target="1024-36-d" reftype="internal">1024.36(d)</ref> by responding to an information request for the owner or assignee of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> by identifying the <ref target="1024-2-b-def3" reftype="term">person</ref> on whose behalf the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives payments from the borrower. Although investors or guarantors, including among others the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Government National Mortgage Association, may be exposed to risks related to the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loans</ref> held by a trust either in connection with an investment in securities issued by the trust or the issuance of a guaranty agreement to the trust, such investors or guarantors are not the owners or assignees of the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loans</ref> solely as a result of their roles as such. In certain circumstances, however, a party such as a guarantor may assume multiple roles for a securitization transaction. For example, the Federal National Mortgage Association may act as trustee, master <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, and guarantor in connection with a securitization transaction in which a trust owns a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> subject to a request. In this example, because the Federal National Mortgage Association is the trustee of the trust that owns the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with § <ref target="1024-36-d" reftype="internal">1024.36(d)</ref> by responding to a borrower's request for information regarding the owner or assignee of the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> by providing the name of the trust, and the name, address, and appropriate contact information for the Federal National Mortgage Association as the trustee. The following examples identify the owner or assignee for different forms of <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> ownership:</content><interpParagraph label="1024-36-a-Interp-2-i" marker="i.">
+              <content> A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with § <ref target="1024-36-d" reftype="internal">1024.36(d)</ref> by responding to an information request for the owner or assignee of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> by identifying the <ref target="1024-2-b-def3" reftype="term">person</ref> on whose behalf the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> receives payments from the borrower. Although investors or guarantors, including among others the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Government National Mortgage Association, may be exposed to risks related to the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loans</ref> held by a trust either in connection with an investment in securities issued by the trust or the issuance of a guaranty agreement to the trust, such investors or guarantors are not the owners or assignees of the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loans</ref> solely as a result of their roles as such. In certain circumstances, however, a party such as a guarantor may assume multiple roles for a securitization transaction. For example, the Federal National Mortgage Association may act as trustee, <ref target="1024-31-LossMitigationOption" reftype="term">master servicer</ref>, and guarantor in connection with a securitization transaction in which a trust owns a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> subject to a request. In this example, because the Federal National Mortgage Association is the trustee of the trust that owns the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref>, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with § <ref target="1024-36-d" reftype="internal">1024.36(d)</ref> by responding to a borrower's request for information regarding the owner or assignee of the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> by providing the name of the trust, and the name, address, and appropriate contact information for the Federal National Mortgage Association as the trustee. The following examples identify the owner or assignee for different forms of <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> ownership:</content><interpParagraph label="1024-36-a-Interp-2-i" marker="i.">
                 <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> services a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> that is owned by the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, or an affiliate of the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>, in portfolio. The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> therefore receives the borrower's payments on behalf of itself or its affiliate. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with § <ref target="1024-36-d" reftype="internal">1024.36(d)</ref> by responding to a borrower's request for information regarding the owner or assignee of the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> with the name, address, and appropriate contact information for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> or the affiliate, as applicable.</content>
               </interpParagraph>
               <interpParagraph label="1024-36-a-Interp-2-ii" marker="ii.">
@@ -5983,21 +6007,21 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
               </footnote>
               The Bureau observes that section 6(k) also establishes the Bureau's authority to create obligations the Bureau finds appropriate to carry out the consumer protection purposes of RESPA.</analysisParagraph>
             <analysisParagraph>Section 1463 of the Dodd-Frank Act also amended existing provisions in section 6 of RESPA with respect to a servicer's obligation to respond to qualified written requests, a servicer's administration of an escrow account. Section 1463 also increased the dollar amounts for damages for which a servicer may be liable for violations of section 6 of RESPA.</analysisParagraph>
-            <analysisParagraph>In order to implement the amendments the Dodd-Frank Act added to RESPA in a consistent and clear manner, the Bureau proposed to reorganize Regulation X to combine current Regulation X provisions relating to mortgage servicing in existing § 1024.21 with new mortgage servicing provisions the Bureau proposed to implement Dodd-Frank Act's amendment of section 6 of RESPA in a newly created subpart C. As discussed above, no comments were received on the proposed reorganization of Regulation X into three subparts and the Bureau is adopting subpart C asproposed as a separate subpart in Regulation X.</analysisParagraph>
-          <analysisSection>
+            <analysisParagraph>In order to implement the amendments the Dodd-Frank Act added to RESPA in a consistent and clear manner, the Bureau proposed to reorganize Regulation X to combine current Regulation X provisions relating to mortgage servicing in existing § 1024.21 with new mortgage servicing provisions the Bureau proposed to implement Dodd-Frank Act's amendment of section 6 of RESPA in a newly created subpart C. As discussed above, no comments were received on the proposed reorganization of Regulation X into three subparts and the Bureau is adopting subpart C as proposed as a separate subpart in Regulation X.</analysisParagraph>
+          </analysisSection>
+          <analysisSection target="1024-21" notice="2013-01248" date="2013-02-14">
             <title>Section 1024.21 Mortgage Servicing Transfers</title>
             <analysisParagraph>To incorporate mortgage servicing-related provisions within subpart C, the proposed rule would have removed § 1024.21 and would implement the provisions of § 1024.21, subject to proposed changes as discussed below, in proposed §§ 1024.31-1024.34 within subpart C. No comments were received on the removal of § 1024.21 and its incorporation within subpart C. The final rule adopts the removal of § 1024.21 as proposed and implements the provisions of § 1024.21, subject to changes adopted as discussed below, in §§ 1024.31-1024.34 within subpart C.</analysisParagraph>
           </analysisSection>
-          <analysisSection>
+          <analysisSection target="1024-22" notice="2013-01248" date="2013-02-14">
             <title>Section 1024.22 Severability</title>
             <analysisParagraph>Current § 1024.22 states that if any particular provision of Regulation X, or its application to any particular person or circumstance is held invalid, the remainder of Regulation X or the application of such provision to any other person or circumstance shall not be affected. The Bureau proposed removing current § 1024.22 because the Bureau believes the section may create unnecessary inconsistency with respect to other Bureau regulations that do not contain corresponding provisions. By removing § 1024.22, the Bureau is not suggesting that the severability of Regulation X is changing or that the Bureau intends the new provisions to be non-severable. The Bureau intends that the provisions of Regulation X are severable and believes that if any particular provision of Regulation X, or its application to any particular person or circumstance is held invalid, the remainder of Regulation X or the application of such provision to any other provision or circumstance should not be affected. The Bureau's proposal to remove current § 1024.22 should not be construed to indicate a contrary position. The Bureau did not receive comments on the proposed removal of current § 1024.22, and accordingly, is adopting the removal of current § 1024.22 as proposed.</analysisParagraph>
           </analysisSection>
-          <analysisSection>
+          <analysisSection target="1024-23" notice="2013-01248" date="2013-02-14">
             <title>Section 1024.23 E-Sign Applicability</title>
             <analysisParagraph>Current § 1024.23 states that provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) permitting electronic disclosures to consumers if certain conditions are met apply to Regulation X. For reasons discussed above in the section-by-section analysis of § 1024.3, the Bureau has concluded that the E-Sign Act provisions are applicable to all provisions in Regulation X. Accordingly, the Bureau decided that the best place for this language was in § 1024.3. Having received no comments on the removal of § 1024.3 or the placing of the E-Sign Act provisions in § 1024.3, the Bureau, as discussed above, is removing current § 1024.23 from Regulation X.</analysisParagraph>
           </analysisSection>
-          </analysisSection>
-        <analysisSection target="1024-30" notice="2013-01248" date="2013-02-14">
+          <analysisSection target="1024-30" notice="2013-01248" date="2013-02-14">
             <title>Section 1024.30 Scope</title>
             <analysisParagraph>The proposal would have defined the scope of subpart C as any mortgage loan, as that term is defined in § 1024.31. A “mortgage loan,” as proposed would be any federally related mortgage loan, as defined in § 1024.2, except for open-end loans (home equity plans) and except for loans exempt from RESPA and Regulation X pursuant to § 1024.5(b). The Bureau received a significant number of comments relating to the scope of the mortgage servicing rules.</analysisParagraph>
             <analysisParagraph><em data-original="E-03">Small servicer exemption.</em> In the 2012 TILA Servicing Proposal, the Bureau proposed an exemption to the periodic statement requirement for small servicers, defined in the 2012 TILA Servicing Proposal as servicers that service 1,000 mortgage loans or fewer and only servicer mortgage loan that the servicer or an affiliate owns or originated. The Bureau requested comment in the 2012 TILA Servicing Proposal regarding that exemption and, in the 2012 RESPA Servicing Proposal, further requested comment regarding whether the Bureau should implement a small servicer exemption for any mortgage servicing requirements proposed in Regulation X.</analysisParagraph>
