@@ -270,8 +270,8 @@
                   <interpParagraph label="1026-35-b-2-iii-D-2-Interp-1" marker="1.">
                     <title type="keyterm">Exception for post-consummation escrow accounts for distressed consumers.</title>
                     <content>An <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> established after <ref target="1026-2-a-13" reftype="term">consummation</ref> for a distressed <ref target="1026-2-a-11" reftype="term">consumer</ref> does not count for purposes of § <ref target="1026-35-b-2-iii-D" reftype="internal">1026.35(b)(2)(iii)(D)</ref>. Distressed <ref target="1026-2-a-11" reftype="term">consumers</ref> are <ref target="1026-2-a-11" reftype="term">consumers</ref> who are working with the <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer to attempt to bring the loan into a current status through a modification, deferral, or other accommodation to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. A <ref target="1026-2-a-17" reftype="term">creditor</ref>, together with its <ref target="1026-32-b-2" reftype="term">affiliates</ref>, that establishes <ref target="1026-35-b-3-iv" reftype="term">escrow accounts</ref> after <ref target="1026-2-a-13" reftype="term">consummation</ref> as a regular business practice, regardless of whether <ref target="1026-2-a-11" reftype="term">consumers</ref> are in distress, does not qualify for the exception described in § <ref target="1026-35-b-2-iii-D-2" reftype="internal">1026.35(b)(2)(iii)(D)(2)</ref>.
-		    </content>
-		  </interpParagraph>
+                    </content>
+                  </interpParagraph>
                 </interpParagraph>
               </interpParagraph>
             </interpParagraph>
@@ -329,8 +329,8 @@
         <interpParagraph label="1026-35-b-1-Interp-3" marker="3.">
           <title type="keyterm">Transactions not subject to § 1026.35(b)(1).</title>
           <content>Section <ref target="1026-35-b-1" reftype="internal">1026.35(b)(1)</ref> requires a <ref target="1026-2-a-17" reftype="term">creditor</ref> to establish an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref> of a first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref>. This requirement does not affect a <ref target="1026-2-a-17" reftype="term">creditor</ref>'s ability, right, or obligation, pursuant to the terms of the legal obligation or applicable law, to offer or require an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> for a transaction that is not subject to § <ref target="1026-35-b-1" reftype="internal">1026.35(b)(1)</ref>.
-	  </content>
-	</interpParagraph>
+          </content>
+        </interpParagraph>
       </interpParagraph>
     </change>
     <change operation="added" label="1026-35-b-2-iii-Interp">
@@ -364,8 +364,8 @@
             <interpParagraph label="1026-35-b-2-iii-D-2-Interp-1" marker="1.">
               <title type="keyterm">Exception for post-consummation escrow accounts for distressed consumers.</title>
               <content>An <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> established after <ref target="1026-2-a-13" reftype="term">consummation</ref> for a distressed <ref target="1026-2-a-11" reftype="term">consumer</ref> does not count for purposes of § <ref target="1026-35-b-2-iii-D" reftype="internal">1026.35(b)(2)(iii)(D)</ref>. Distressed <ref target="1026-2-a-11" reftype="term">consumers</ref> are <ref target="1026-2-a-11" reftype="term">consumers</ref> who are working with the <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer to attempt to bring the loan into a current status through a modification, deferral, or other accommodation to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. A <ref target="1026-2-a-17" reftype="term">creditor</ref>, together with its <ref target="1026-32-b-2" reftype="term">affiliates</ref>, that establishes <ref target="1026-35-b-3-iv" reftype="term">escrow accounts</ref> after <ref target="1026-2-a-13" reftype="term">consummation</ref> as a regular business practice, regardless of whether <ref target="1026-2-a-11" reftype="term">consumers</ref> are in distress, does not qualify for the exception described in § <ref target="1026-35-b-2-iii-D-2" reftype="internal">1026.35(b)(2)(iii)(D)(2)</ref>.
-	      </content>
-	    </interpParagraph>
+              </content>
+            </interpParagraph>
           </interpParagraph>
         </interpParagraph>
       </interpParagraph>
@@ -797,7 +797,7 @@
       <paragraph label="1026-35-b-1" marker="(1)">
         <title type="keyterm">Repayment ability.</title>
         <content>Requirement to escrow for property taxes and insurance. Except as provided in paragraph <ref target="1026-35-b-2" reftype="internal">(b)(2)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first li<ref target="1026-34-a-4" reftype="internal">en on a consu</ref><ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph <ref target="1026-35-b" reftype="internal">(b)</ref>, the term “<ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>” has the same meaning as under Regulation X (24 CFR 3500.17(b)), as amended.
-	</content>
+        </content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-35-b-3">
@@ -863,17 +863,17 @@
     </change>
   </changeset>
   <analysis>
-    <analysisSection target="1026-20" notice="2013-00734" date="2013-06-01">
-      <title>Section 1026.20 Subsequent Disclosure Requirements</title>
-      <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed a new § 226.20(d) to implement the disclosure requirements of TILA sections 129D(j)(1)(B) and 129D(j)(2), as enacted by section 1462 of the Dodd-Frank Act. TILA section 129D(j)(1)(B) requires a creditor or servicer to provide the disclosures set forth in TILA section 129D(j)(2) when a consumer requests closure of an escrow account that was established in connection with a transaction secured by real property. Proposed § 226.20(d) would have directed the creditor or servicer to disclose the information about escrow accounts in accordance with certain format and timing requirements. As previously noted, the Bureau has delayed the implementation of certain disclosure requirements contained in title XIV of the Dodd-Frank Act, including those contained in sections 1461 and 1462. <em data-original="E-03">See</em> 77 FR 70105 (Nov. 23, 2012). Consequently, the Bureau will not be adopting a new § 1026.20(d) in this rule.</analysisParagraph>
+    <analysisSection target="1026-34-a-4-i" notice="2013-00734" date="2013-06-01">
+      <title>34(a)(4)(i) Mortgage-Related Obligations</title>
+      <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed amendments to the definition of mortgage-related obligations in § 226.34(a)(4)(i) and comment 34(a)(4)(i)-1, which contained cross-references to the definition of mortgage-related insurance in § 226.35(b)(3)(i). Because the Board proposed removing and reserving § 226.35(b)(3)(i) and preserving the substance of that provision in the proposed new § 226.45(b)(1), the Board made conforming amendments to § 226.34(a)(4)(i) and staff comment 34(a)(4)(i))-1 to reflect the new cross-reference. Section 1026.34(a)(4)(i) and staff comment 34(a)(4)(i)-1 are being amended under the 2013 HOEPA Final Rule to remove the cross-reference to § 1026.35(b)(3)(i). Consequently, the Bureau will not be adopting conforming amendments in this rule.</analysisParagraph>
     </analysisSection>
     <analysisSection target="1026-19" notice="2013-00734" date="2013-06-01">
       <title>Section 1026.19 Certain Mortgage and Variable-Rate Transactions</title>
       <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed a new § 226.19(f) to implement the account disclosure requirements of TILA section 129D, as enacted by Sections 1461 and 1462 of the Dodd- Frank Act. Proposed § 226.19(f)<footnote ref="24">This section-by-section analysis discusses the Board's 2011 Escrows Proposal by reference to the Board's Regulation Z, 12 CFR part 226, which the Board proposed to amend, and discusses this final rule by reference to the Bureau's Regulation Z, 12 CFR part 1026, which this final rule amends.</footnote> would have required disclosures for the establishment or non-establishment of an escrow account in connection with consummation of a transaction secured by a first lien, but not a subordinate lien. As discussed above, on November 23, 2012, the Bureau published in the <em data-original="E-04">Federal Register</em> a rule that delays the implementation of certain disclosure requirements contained in title XIV of the Dodd-Frank Act, including those contained in sections 1461 and 1462. <em data-original="E-03">See</em> 77 FR 70105 (Nov. 23, 2012). Consequently, the Bureau will not be adopting a new § 1026.19(f) in this rule.</analysisParagraph>
     </analysisSection>
-    <analysisSection target="1026-34-a-4-i" notice="2013-00734" date="2013-06-01">
-      <title>34(a)(4)(i) Mortgage-Related Obligations</title>
-      <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed amendments to the definition of mortgage-related obligations in § 226.34(a)(4)(i) and comment 34(a)(4)(i)-1, which contained cross-references to the definition of mortgage-related insurance in § 226.35(b)(3)(i). Because the Board proposed removing and reserving § 226.35(b)(3)(i) and preserving the substance of that provision in the proposed new § 226.45(b)(1), the Board made conforming amendments to § 226.34(a)(4)(i) and staff comment 34(a)(4)(i))-1 to reflect the new cross-reference. Section 1026.34(a)(4)(i) and staff comment 34(a)(4)(i)-1 are being amended under the 2013 HOEPA Final Rule to remove the cross-reference to § 1026.35(b)(3)(i). Consequently, the Bureau will not be adopting conforming amendments in this rule.</analysisParagraph>
+    <analysisSection target="1026-20" notice="2013-00734" date="2013-06-01">
+      <title>Section 1026.20 Subsequent Disclosure Requirements</title>
+      <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed a new § 226.20(d) to implement the disclosure requirements of TILA sections 129D(j)(1)(B) and 129D(j)(2), as enacted by section 1462 of the Dodd-Frank Act. TILA section 129D(j)(1)(B) requires a creditor or servicer to provide the disclosures set forth in TILA section 129D(j)(2) when a consumer requests closure of an escrow account that was established in connection with a transaction secured by real property. Proposed § 226.20(d) would have directed the creditor or servicer to disclose the information about escrow accounts in accordance with certain format and timing requirements. As previously noted, the Bureau has delayed the implementation of certain disclosure requirements contained in title XIV of the Dodd-Frank Act, including those contained in sections 1461 and 1462. <em data-original="E-03">See</em> 77 FR 70105 (Nov. 23, 2012). Consequently, the Bureau will not be adopting a new § 1026.20(d) in this rule.</analysisParagraph>
     </analysisSection>
     <analysisSection target="1026-35-a-1" notice="2013-00734" date="2013-06-01">
       <title>35(a)(1)</title>
