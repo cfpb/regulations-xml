@@ -18,124 +18,47 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/10/01/2013-22752/amendments-to-the-2013-mortgage-rules-under-the-equal-credit-opportunity-act-regulation-b-real</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-01503_20140101" rightDocumentNumber="2013-22752_20140101">
-    <change operation="modified" label="1026-35-b-2-iii">
-      <paragraph label="1026-35-b-2-iii" marker="(iii)">
-        <content>Except as provided in paragraph <ref target="1026-35-b-2-v" reftype="internal">(b)(2)(v)</ref> of this section, an escrow account need not be established for a transaction if, at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>:</content>
-        <paragraph label="1026-35-b-2-iii-A" marker="(A)">
-          <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> extended more than 50 percent of its total <ref target="1026-42-b-2" reftype="term">covered transactions</ref>, as defined by &#167; <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>, secured by a first lien, on properties that are located in counties that are either &#8220;rural&#8221; or &#8220;underserved,&#8221; as set forth in paragraph (b)(2)(iv) of th<ref target="1026-35-b-2-iv" reftype="internal">is section</ref>;</content></paragraph>
-        <paragraph label="1026-35-b-2-iii-B" marker="(B)">
-          <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> and its <ref target="1026-32-b-2" reftype="term">affiliates</ref> together originated 500 or fewer <ref target="1026-42-b-2" reftype="term">covered transactions</ref>, as defined by &#167; <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>, secured by a first lien; and</content></paragraph>
-        <paragraph label="1026-35-b-2-iii-C" marker="(C)">
-          <content>As of the end of the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> had total assets of less than $2,000,000,000; this asset threshold shall adjust automatically each year, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each 12-month period ending in November, with rounding to the nearest million dollars (see comment <ref target="1026-35-b-2-iii-Interp-1-iii" reftype="internal">35(b)(2)(iii)-1.iii</ref> for the current threshold); and</content>
-        </paragraph>
-        <paragraph label="1026-35-b-2-iii-D" marker="(D)">
-          <content>Neither the <ref target="1026-2-a-17" reftype="term">creditor</ref> nor its <ref target="1026-32-b-2" reftype="term">affiliate</ref> maintains an escrow account of the type described in paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section for any extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> secured by real property or a <ref target="1026-2-a-19" reftype="term">dwelling</ref> that the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-2" reftype="term">affiliate</ref> currently services, other than:</content>
-          <paragraph label="1026-35-b-2-iii-D-1" marker="(1)">
-            <content>Escrow accounts established for first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> on or after April 1, 2010, and before June 1, 2013; or</content>
-          </paragraph>
-          <paragraph label="1026-35-b-2-iii-D-2" marker="(2)">
-            <content>Escrow accounts established after <ref target="1026-2-a-13" reftype="term">consummation</ref> as an accommodation to distressed <ref target="1026-2-a-11" reftype="term">consumers</ref> to assist such <ref target="1026-2-a-11" reftype="term">consumers</ref> in avoiding default or foreclosure.</content>
-          </paragraph>
-        </paragraph>
+    <!-- Effective 1-1-2014: Amendments to §§ 1026.35(b)(2)(iii), 1026.36(a), (b), and (j) -->
+    <change operation="modified" label="1026-35-b-2-iii-A">
+      <paragraph label="1026-35-b-2-iii-A" marker="(A)">
+        <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> extended more than 50 percent of its total <ref target="1026-42-b-2" reftype="term">covered transactions</ref>, as defined by &#167; <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>, secured by a first lien, on properties that are located in counties that are either &#8220;rural&#8221; or &#8220;underserved,&#8221; as set forth in paragraph (b)(2)(iv) of th<ref target="1026-35-b-2-iv" reftype="internal">is section</ref>;</content>
       </paragraph>
     </change>
-    <change operation="modified" label="1026-36-a">
-      <paragraph label="1026-36-a" marker="(a)">
-        <title type="keyterm">Loan originator and mortgage broker defined</title>
-        <content>Definitions.</content>
-        <paragraph label="1026-36-a-1" marker="(1)">
-          <title type="keyterm">Loan originator.</title>
-          <content>
-            <ref target="1026-36-a-1-i" reftype="term">Loan originator</ref>
-          </content>
-          <paragraph label="1026-36-a-1-i" marker="(i)">
-            <content>For purposes of this section, the term &#8220;<def term="loan originator">loan originator</def>&#8221; means a <ref target="1026-2-a-22" reftype="term">person</ref> who, in expectation of direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain or for direct or indirect <ref target="1026-36-a-3" reftype="term">compensation</ref> or other monetary gain, performs any of the following activities: takes an application, offers, arranges, assists a <ref target="1026-2-a-11" reftype="term">consumer</ref> in obtaining or applying to obtain, negotiates, or otherwise obtains or makes an extension of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> for another <ref target="1026-2-a-22" reftype="term">person</ref>; or through advertising or other means of communication represents to the public that such <ref target="1026-2-a-22" reftype="term">person</ref> can or will perform any of these activities. The term &#8220;loan originator&#8221; includes an employee, agent, or contractor of the <ref target="1026-2-a-17" reftype="term">creditor</ref> or <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref> if the employee, agent, or contractor meets this definition. The term &#8220;loan originator&#8221; includes a <ref target="1026-2-a-17" reftype="term">creditor</ref> that engages in loan origination activities if the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not finance the transaction at <ref target="1026-2-a-13" reftype="term">consummation</ref> out of the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s own resources, including by drawing on a bona fide warehouse line of <ref target="1026-2-a-14" reftype="term">credit</ref> or out of deposits held by the <ref target="1026-2-a-17" reftype="term">creditor</ref>. All <ref target="1026-2-a-17" reftype="term">creditors</ref> that engage in any of the foregoing loan origination activities are loan originators for purposes of paragraphs <ref target="1026-36-f" reftype="internal">(f)</ref> and <ref target="1026-36-g" reftype="internal">(g)</ref> of this section. The term does not include:</content>
-            <paragraph label="1026-36-a-1-i-A" marker="(A)">
-              <content>A <ref target="1026-2-a-22" reftype="term">person</ref> who does not take a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> application or <ref target="1026-58-b-5" reftype="term">offer</ref> or negotiate <ref target="1026-2-a-14" reftype="term">credit</ref> terms available from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, but who performs purely administrative or clerical tasks on behalf of a <ref target="1026-2-a-22" reftype="term">person</ref> who does engage in such activities.</content></paragraph>
-            <paragraph label="1026-36-a-1-i-B" marker="(B)">
-              <content>An employee of a manufactured home retailer who does not take a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> application, offer or negotiate <ref target="1026-2-a-14" reftype="term">credit</ref> terms available from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, or advise a <ref target="1026-2-a-11" reftype="term">consumer</ref> on <ref target="1026-2-a-14" reftype="term">credit</ref> terms (including rates, fees, and other costs) available from a <ref target="1026-2-a-17" reftype="term">creditor</ref>.</content>
-            </paragraph>
-            <paragraph label="1026-36-a-1-i-C" marker="(C)">
-              <content>A <ref target="1026-2-a-22" reftype="term">person</ref> that performs only real estate brokerage activities and is licensed or registered in accordance with applicable <ref target="1026-2-a-26" reftype="term">State</ref> law, unless such <ref target="1026-2-a-22" reftype="term">person</ref> is compensated by a <ref target="1026-2-a-17" reftype="term">creditor</ref> or <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> or by any agent of such <ref target="1026-2-a-17" reftype="term">creditor</ref> or <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> for a particular <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction subject to this section.</content>
-            </paragraph>
-            <paragraph label="1026-36-a-1-i-D" marker="(D)">
-              <content>A seller financer that meets the criteria in paragraph <ref target="1026-36-a-4" reftype="internal">(a)(4)</ref> or <ref target="1026-36-a-5" reftype="internal">(a)(5)</ref> of this section, as applicable.</content>
-            </paragraph>
-            <paragraph label="1026-36-a-1-i-E" marker="(E)">
-              <content>A servicer or servicer's employees, agents, and contractors who offer or negotiate terms for purposes of renegotiating, modifying, replacing, or subordinating principal of existing mortgages where <ref target="1026-2-a-11" reftype="term">consumers</ref> are behind in their payments, in default, or have a reasonable likelihood of defaulting or falling behind. This exception does not apply, however, to a servicer or servicer's employees, agents, and contractors who offer or negotiate a transaction that constitutes a refinancing under &#167; <ref target="1026-20-a" reftype="internal">1026.20(a)</ref> or obligates a different <ref target="1026-2-a-11" reftype="term">consumer</ref> on the existing debt.</content>
-            </paragraph>
-          </paragraph>
-          <paragraph label="1026-36-a-1-ii" marker="(ii)">
-            <content>An &#8220;<def term="individual loan originator">individual loan originator</def>&#8221; is a natural <ref target="1026-2-a-22" reftype="term">person</ref> who meets the definition of &#8220;<ref target="1026-36-a-1-i" reftype="term">loan originator</ref>&#8221; in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section.</content></paragraph>
-          <paragraph label="1026-36-a-1-iii" marker="(iii)">
-            <content>A &#8220;<def term="loan originator organization">loan originator organization</def>&#8221; is any <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in paragraph <ref target="1026-36-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, that is not an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-36-a-2" marker="(2)">
-          <title type="keyterm">Mortgage broker.</title>
-          <content>For purposes of this section, a mortgage broker with respect to a particular transaction is any <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> that is not an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref>.</content>
-        </paragraph>
-        <paragraph label="1026-36-a-3" marker="(3)">
-          <title type="keyterm">Compensation.</title>
-          <content>The term &#8220;<def term="compensation">compensation</def>&#8221; includes salaries, commissions, and any financial or similar incentive.</content>
-        </paragraph>
-        <paragraph label="1026-36-a-4" marker="(4)">
-          <title type="keyterm">Seller financers; three properties.</title>
-          <content>A <ref target="1026-2-a-22" reftype="term">person</ref> (as defined in &#167; <ref target="1026-2-a-22" reftype="internal">1026.2(a)(22)</ref>) that meets all of the following criteria is not a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> under paragraph <ref target="1026-36-a-1" reftype="internal">(a)(1)</ref> of this section:</content>
-          <paragraph label="1026-36-a-4-i" marker="(i)">
-            <content>The <ref target="1026-2-a-22" reftype="term">person</ref> provides seller financing for the sale of three or fewer properties in any 12-month period to purchasers of such properties, each of which is owned by the <ref target="1026-2-a-22" reftype="term">person</ref> and serves as security for the financing.</content>
-          </paragraph>
-          <paragraph label="1026-36-a-4-ii" marker="(ii)">
-            <content>The <ref target="1026-2-a-22" reftype="term">person</ref> has not constructed, or acted as a contractor for the construction of, a residence on the property in the ordinary course of business of the <ref target="1026-2-a-22" reftype="term">person</ref>.</content>
-          </paragraph>
-          <paragraph label="1026-36-a-4-iii" marker="(iii)">
-            <content>The <ref target="1026-2-a-22" reftype="term">person</ref> provides seller financing that meets the following requirements:</content>
-            <paragraph label="1026-36-a-4-iii-A" marker="(A)">
-              <content>The financing is fully amortizing.</content>
-            </paragraph>
-            <paragraph label="1026-36-a-4-iii-B" marker="(B)">
-              <content>The financing is one that the <ref target="1026-2-a-22" reftype="term">person</ref> determines in good faith the <ref target="1026-2-a-11" reftype="term">consumer</ref> has a reasonable ability to repay.</content>
-            </paragraph>
-            <paragraph label="1026-36-a-4-iii-C" marker="(C)">
-              <content>The financing has a fixed rate or an adjustable rate that is adjustable after five or more years, subject to reasonable annual and lifetime limitations on interest rate increases. If the financing <ref target="1026-58-b-1" reftype="term">agreement</ref> has an adjustable rate, the rate is determined by the addition of a margin to an index rate and is subject to reasonable rate adjustment limitations. The index the adjustable rate is based on is a widely available index such as indices for U.S. Treasury securities or LIBOR.</content></paragraph>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-36-a-5" marker="(5)">
-          <title type="keyterm">Seller financers; one property.</title>
-          <content>A natural <ref target="1026-2-a-22" reftype="term">person</ref>, estate, or trust that meets all of the following criteria is not a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> under paragraph <ref target="1026-36-a-1" reftype="internal">(a)(1)</ref> of this section:</content>
-          <paragraph label="1026-36-a-5-i" marker="(i)">
-            <content>The natural <ref target="1026-2-a-22" reftype="term">person</ref>, estate, or trust provides seller financing for the sale of only one property in any 12-month period to purchasers of such property, which is owned by the natural <ref target="1026-2-a-22" reftype="term">person</ref>, estate, or trust and serves as security for the financing.</content>
-          </paragraph>
-          <paragraph label="1026-36-a-5-ii" marker="(ii)">
-            <content>The natural <ref target="1026-2-a-22" reftype="term">person</ref>, estate, or trust has not constructed, or acted as a contractor for the construction of, a residence on the property in the ordinary course of business of the <ref target="1026-2-a-22" reftype="term">person</ref>.</content>
-          </paragraph>
-          <paragraph label="1026-36-a-5-iii" marker="(iii)">
-            <content>The natural <ref target="1026-2-a-22" reftype="term">person</ref>, estate, or trust provides seller financing that meets the following requirements:</content>
-            <paragraph label="1026-36-a-5-iii-A" marker="(A)">
-              <content>The financing has a repayment schedule that does not result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>.</content></paragraph>
-            <paragraph label="1026-36-a-5-iii-B" marker="(B)">
-              <content>The financing has a fixed rate or an adjustable rate that is adjustable after five or more years, subject to reasonable annual and lifetime limitations on interest rate increases. If the financing <ref target="1026-58-b-1" reftype="term">agreement</ref> has an adjustable rate, the rate is determined by the addition of a margin to an index rate and is subject to reasonable rate adjustment limitations. The index the adjustable rate is based on is a widely available index such as indices for U.S. Treasury securities or LIBOR.</content></paragraph>
-          </paragraph>
-        </paragraph>
+    <change operation="modified" label="1026-35-b-2-iii-D-1">
+      <paragraph label="1026-35-b-2-iii-D-1" marker="(1)">
+        <content>Escrow accounts established for first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> on or after April 1, 2010, and before June 1, 2013; or</content>
       </paragraph>
     </change>
+    
+    <change operation="modified" label="1026-36-a-1-i-A">
+      <paragraph label="1026-36-a-1-i-A" marker="(A)">
+        <content>A <ref target="1026-2-a-22" reftype="term">person</ref> who does not take a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> application or <ref target="1026-58-b-5" reftype="term">offer</ref> or negotiate <ref target="1026-2-a-14" reftype="term">credit</ref> terms available from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, but who performs purely administrative or clerical tasks on behalf of a <ref target="1026-2-a-22" reftype="term">person</ref> who does engage in such activities.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-36-a-1-i-B">
+      <paragraph label="1026-36-a-1-i-B" marker="(B)">
+        <content>An employee of a manufactured home retailer who does not take a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> application, offer or negotiate <ref target="1026-2-a-14" reftype="term">credit</ref> terms available from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, or advise a <ref target="1026-2-a-11" reftype="term">consumer</ref> on <ref target="1026-2-a-14" reftype="term">credit</ref> terms (including rates, fees, and other costs) available from a <ref target="1026-2-a-17" reftype="term">creditor</ref>.</content>
+      </paragraph>
+    </change>
+    <change operation="added" label="1026-36-a-6">
+      <paragraph label="1026-36-a-6" marker="(6)">
+        <title type="keyterm">Credit terms.</title>
+        <content>For purposes of this section, the term &#8220;credit terms&#8221; includes rates, fees, and other costs. <ref target="1026-2-a-14" reftype="term">Credit</ref> terms are selected based on the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s financial characteristics when those terms are selected based on any factors that may influence a <ref target="1026-2-a-14" reftype="term">credit</ref> decision, such as debts, income, assets, or <ref target="1026-2-a-14" reftype="term">credit</ref> history.</content>
+      </paragraph>
+    </change>
+
     <change operation="modified" label="1026-36-b">
       <paragraph label="1026-36-b" marker="(b)">
         <title type="keyterm">Scope.</title>
-        <content>Paragraphs (c)(1) and (2) of this section apply to closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transactions secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>. Paragraph (c)(3) of this section applies to a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>. Paragraphs (d) through (i) of this section apply to closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transactions secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>. This section does not apply to a home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> subject to &#167; 1026.40, except that paragraphs (h) and (i) of this section apply to such <ref target="1026-2-a-14" reftype="term">credit</ref> when secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>. Paragraphs (d) through (i) of this section do not apply to a loan that is secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in 11 U.S.C. 101(53D).</content></paragraph>
+        <content>Paragraphs <ref target="1026-36-c-1" reftype="internal">(c)(1)</ref> and <ref target="1026-36-c-2" reftype="internal">(2)</ref> of this section apply to closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transactions secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>. Paragraph <ref target="1026-36-c-3" reftype="internal">(c)(3)</ref> of this section applies to a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>. Paragraphs <ref target="1026-36-d" reftype="internal">(d)</ref> through <ref target="1026-36-i" reftype="internal">(i)</ref> of this section apply to closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transactions secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>. This section does not apply to a home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> subject to &#167; <ref target="1026-40" reftype="internal">1026.40</ref>, except that paragraphs <ref target="1026-36-h" reftype="internal">(h)</ref> and <ref target="1026-36-i" reftype="internal">(i)</ref> of this section apply to such <ref target="1026-2-a-14" reftype="term">credit</ref> when secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>. Paragraphs <ref target="1026-36-d" reftype="internal">(d)</ref> through <ref target="1026-36-i" reftype="internal">(i)</ref> of this section do not apply to a loan that is secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in 11 U.S.C. 101(53D).</content></paragraph>
     </change>
-    <change operation="modified" label="1026-36-j">
-      <paragraph label="1026-36-j" marker="(j)">
-        <title type="keyterm">Policies and procedures to ensure and monitor compliance.</title>
-        <content/>
-        <paragraph label="1026-36-j-1" marker="(1)">
-          <content>A depository institution must establish and maintain written policies and procedures reasonably designed to ensure and monitor the compliance of the depository institution, its employees, its subsidiaries, and its subsidiaries' employees with the requirements of paragraphs <ref target="1026-36-d" reftype="internal">(d)</ref>, <ref target="1026-36-e" reftype="internal">(e)</ref>, <ref target="1026-36-f" reftype="internal">(f)</ref>, and <ref target="1026-36-g" reftype="internal">(g)</ref> of this section. These written policies and procedures must be appropriate to the nature, size, complexity, and scope of the mortgage lending activities of the depository institution and its subsidiaries.</content>
-        </paragraph>
-        <paragraph label="1026-36-j-2" marker="(2)">
-          <content>For purposes of this paragraph <ref target="1026-36-j" reftype="internal">(j)</ref>, &#8220;depository institution&#8221; has the meaning in section 1503(2) of the SAFE Act, <ref target="USC:12-5102" reftype="external">12 U.S.C. 5102</ref>(2). For purposes of this paragraph <ref target="1026-36-j" reftype="internal">(j)</ref>, &#8220;subsidiary&#8221; has the meaning in section 3 of the Federal Deposit Insurance Act, <ref target="USC:12-1813" reftype="external">12 U.S.C. 1813</ref>.</content>
-        </paragraph>
+
+    <change operation="modified" label="1026-36-j-2">
+      <paragraph label="1026-36-j-2" marker="(2)">
+        <content>For purposes of this paragraph <ref target="1026-36-j" reftype="internal">(j)</ref>, &#8220;depository institution&#8221; has the meaning in section 1503(2) of the SAFE Act, <ref target="USC:12-5102" reftype="external">12 U.S.C. 5102</ref>(2). For purposes of this paragraph <ref target="1026-36-j" reftype="internal">(j)</ref>, &#8220;subsidiary&#8221; has the meaning in section 3 of the Federal Deposit Insurance Act, <ref target="USC:12-1813" reftype="external">12 U.S.C. 1813</ref>.</content>
       </paragraph>
     </change>
+    <!-- Effective 1-1-2014: Interps to §§ 1026.25(c)(2), 1026.35, and 1026.36(a), (b), (d), and (f) -->
     <change operation="modified" label="1026-25-c-2-Interp-1-i">
       <interpParagraph label="1026-25-c-2-Interp-1-i" marker="i.">
         <title>Records sufficient to evidence payment and receipt of compensation.</title>
