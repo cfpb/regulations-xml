@@ -133,21 +133,14 @@
       <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with this regulation, other than advertising requirements under §§ <ref target="1026-16" reftype="internal">1026.16</ref> and <ref target="1026-24" reftype="internal">1026.24</ref> and certain requirements for mortgage loans under paragraph <ref target="1026-25-c" reftype="internal">(c)</ref> of this section, for two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing the regulation may require a <ref target="1026-2-a-17" reftype="term">creditor</ref> under their jurisdictions to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 108 of <ref target="USC:12-2601" reftype="external">the Act</ref>.</content>
     </change>
 
-    <!-- Section 1026.25: Adding and reserving paragraphs (c)(1) and (c)(2).
-    Section 1026.25: Adding paragraph (c)(3).  -->
-    <change operation="modified" label="1026-25-c">
-      <paragraph label="1026-25-c" marker="(c)">
-        <title type="keyterm">Records related to certain requirements for mortgage loans.</title>
-        <content/>
-        <paragraph label="1026-25-c-1" marker="(1)">
-          <content>[Reserved]</content>
-        </paragraph>
-        <paragraph label="1026-25-c-2" marker="(2)">
-          <content>[Reserved]</content>
-        </paragraph>
-        <paragraph label="1026-25-c-3" marker="(3)">
-          <title type="keyterm">Records related to minimum standards for transactions secured by a dwelling.</title>
-          <content>Notwithstanding paragraph (a) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with § 1026.43 of this regulation for three years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a transaction covered by that section.</content></paragraph>
+    <!-- Section 1026.25: Adding and reserving paragraphs (c)(1) and (c)(2). -->
+    <!-- 2013-22752 changes the effective dates from 20140110 to 20140101 for: -->
+    <!-- amendments to §§ 1026.25(c)(2); (c)(1) is reserved there as well -->
+    <!-- Section 1026.25: Adding paragraph (c)(3).  -->
+    <change operation="added" label="1026-25-c-3">
+      <paragraph label="1026-25-c-3" marker="(3)">
+        <title type="keyterm">Records related to minimum standards for transactions secured by a dwelling.</title>
+        <content>Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with &#167; <ref target="1026-43" reftype="internal">1026.43</ref> of this regulation for three years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a transaction covered by that section.</content>
       </paragraph>
     </change>
 
@@ -280,7 +273,8 @@
         <paragraph label="1026-32-b-1-v" marker="(v)">
           <content>The maximum prepayment penalty, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> of this section, that may be charged or collected under the terms of the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref>; and</content></paragraph>
         <paragraph label="1026-32-b-1-vi" marker="(vi)">
-          <content>The total prepayment penalty, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> of this section, incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> refinances the existing <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> with the current holder of the existing loan, a servicer acting on behalf of the current holder, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either.</content></paragraph>
+          <content>The total prepayment penalty, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> of this section, incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> refinances the existing <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> with the current holder of the existing loan, a servicer acting on behalf of the current holder, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either.</content>
+        </paragraph>
       </paragraph>
     </change>
 

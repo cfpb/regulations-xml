@@ -18,42 +18,183 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/01/22/2013-00734/escrow-requirements-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-10429" rightDocumentNumber="2013-00734">
-    <change operation="modified" label="1026-51-b">
-      <paragraph label="1026-51-b" marker="(b)">
-        <title type="keyterm">Rules affecting young consumers</title>
-        <content/>
-        <paragraph label="1026-51-b-1" marker="(1)">
-          <title type="keyterm">Applications from young consumers.</title>
-          <content>A <ref target="1026-2-a-7" reftype="term">card issuer</ref> may not open a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan for a <ref target="1026-2-a-11" reftype="term">consumer</ref> less than 21 years old, unless the <ref target="1026-2-a-11" reftype="term">consumer</ref> has submitted a written application and the <ref target="1026-2-a-7" reftype="term">card issuer</ref> has:</content>
-          <paragraph label="1026-51-b-1-i" marker="(i)">
-            <content>Financial information indicating the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the proposed extension of <ref target="1026-2-a-14" reftype="term">credit</ref> in connection with the account; or</content>
-          </paragraph>
-          <paragraph label="1026-51-b-1-ii" marker="(ii)">
-            <content/>
-            <paragraph label="1026-51-b-1-ii-A" marker="(A)">
-              <content>A signed <ref target="1026-58-b-1" reftype="term">agreement</ref> of a cosigner, guarantor, or joint applicant who is at least 21 years old to be either secondarily liable for any debt on the account incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has attained the age of 21 or jointly liable with the <ref target="1026-2-a-11" reftype="term">consumer</ref> for any debt on the account; and</content></paragraph>
-            <paragraph label="1026-51-b-1-ii-B" marker="(B)">
-              <content>Financial information indicating such cosigner, guarantor, or joint applicant has the ability to make the required minimum periodic payments on such debts, consistent with paragraph (a) of this <ref target="1026-51-a" reftype="internal">sec</ref>tion.</content>
-            </paragraph>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-51-b-2" marker="(2)">
-          <title type="keyterm">Credit line increases for young consumers.</title>
+    <change operation="modified" label="1026-19">
+      <section label="1026-19" sectionNum="19">
+        <subject>§ 1026.19 Certain mortgage and variable-rate transactions.</subject>
+        <paragraph label="1026-19-a" marker="(a)">
+          <title type="keyterm">Mortgage transactions subject to RESPA—</title>
           <content/>
-          <paragraph label="1026-51-b-2-i" marker="(i)">
-            <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless:</content>
-            <paragraph label="1026-51-b-2-i-A" marker="(A)">
-              <content>At the time of the contemplated increase, the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section; or</content>
+          <paragraph label="1026-19-a-1" marker="(1)">
+            <content/>
+            <paragraph label="1026-19-a-1-i" marker="(i)">
+              <title type="keyterm">Time of disclosures.</title>
+              <content>In a mortgage transaction subject to the Real Estate Settlement Procedures Act (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.) that is secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> subject to § <ref target="1026-40" reftype="internal">1026.40</ref> or mortgage transaction subject to paragraph <ref target="1026-19-a-5" reftype="internal">(a)(5)</ref> of this section, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make good faith estimates of the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref> and shall deliver or place them in the mail not later than the third <ref target="1026-2-a-6" reftype="term">business day</ref> after the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written application.</content></paragraph>
+            <paragraph label="1026-19-a-1-ii" marker="(ii)">
+              <title type="keyterm">Imposition of fees.</title>
+              <content>Except as provided in paragraph <ref target="1026-19-a-1-iii" reftype="internal">(a)(1)(iii)</ref> of this section, neither a <ref target="1026-2-a-17" reftype="term">creditor</ref> nor any other <ref target="1026-2-a-22" reftype="term">person</ref> may impose a fee on a <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s application for a mortgage transaction subject to paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has received the disclosures required by paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section. If the disclosures are mailed to the <ref target="1026-2-a-11" reftype="term">consumer</ref>, the <ref target="1026-2-a-11" reftype="term">consumer</ref> is considered to have received them three <ref target="1026-2-a-6" reftype="term">business days</ref> after they are mailed.</content>
             </paragraph>
-            <paragraph label="1026-51-b-2-i-B" marker="(B)">
-              <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section.</content>
+            <paragraph label="1026-19-a-1-iii" marker="(iii)">
+              <title type="keyterm">Exception to fee restriction.</title>
+              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> or other <ref target="1026-2-a-22" reftype="term">person</ref> may impose a fee for obtaining the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-14" reftype="term">credit</ref> history before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has received the disclosures required by paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, provided the fee is bona fide and reasonable in amount.</content></paragraph>
+          </paragraph>
+          <paragraph label="1026-19-a-2" marker="(2)">
+            <title type="keyterm">Waiting periods for early disclosures and corrected disclosures.</title>
+            <content/>
+            <paragraph label="1026-19-a-2-i" marker="(i)">
+              <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall deliver or place in the mail the good faith estimates required by paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section not later than the seventh <ref target="1026-2-a-6" reftype="term">business day</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref> of the transaction.</content>
+            </paragraph>
+            <paragraph label="1026-19-a-2-ii" marker="(ii)">
+              <content>If the annual percentage rate disclosed under paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section becomes inaccurate, as defined in § <ref target="1026-22" reftype="internal">1026.22</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall provide corrected disclosures with all changed terms. The <ref target="1026-2-a-11" reftype="term">consumer</ref> must receive the corrected disclosures no later than three <ref target="1026-2-a-6" reftype="term">business days</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref>. If the corrected disclosures are mailed to the <ref target="1026-2-a-11" reftype="term">consumer</ref> or delivered to the <ref target="1026-2-a-11" reftype="term">consumer</ref> by means other than delivery in person, the <ref target="1026-2-a-11" reftype="term">consumer</ref> is deemed to have received the corrected disclosures three <ref target="1026-2-a-6" reftype="term">business days</ref> after they are mailed or delivered.</content>
             </paragraph>
           </paragraph>
-          <paragraph label="1026-51-b-2-ii" marker="(ii)">
-            <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.</content>
+          <paragraph label="1026-19-a-3" marker="(3)">
+            <title type="keyterm">Consumer's waiver of waiting period before consummation.</title>
+            <content>If the <ref target="1026-2-a-11" reftype="term">consumer</ref> determines that the extension of <ref target="1026-2-a-14" reftype="term">credit</ref> is needed to meet a bona fide personal financial emergency, the <ref target="1026-2-a-11" reftype="term">consumer</ref> may modify or waive the seven-business-day waiting period or the three-business-day waiting period required by paragraph <ref target="1026-19-a-2" reftype="internal">(a)(2)</ref> of this section, after receiving the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref>. To modify or waive a waiting period, the <ref target="1026-2-a-11" reftype="term">consumer</ref> shall give the <ref target="1026-2-a-17" reftype="term">creditor</ref> a dated written statement that describes the emergency, specifically modifies or waives the waiting period, and bears the signature of all the <ref target="1026-2-a-11" reftype="term">consumers</ref> who are primarily liable on the legal obligation. Printed forms for this purpose are prohibited.</content>
+          </paragraph>
+          <paragraph label="1026-19-a-4" marker="(4)">
+            <title type="keyterm">Notice.</title>
+            <content>Disclosures made pursuant to paragraph <ref target="1026-19-a-1" reftype="internal">(a)(1)</ref> or paragraph <ref target="1026-19-a-2" reftype="internal">(a)(2)</ref> of this section shall contain the following statement: “You are not required to complete this <ref target="1026-58-b-1" reftype="term">agreement</ref> merely because you have received these disclosures or signed a loan application.” The disclosure required by this paragraph shall be grouped together with the disclosures required by paragraphs <ref target="1026-19-a-1" reftype="internal">(a)(1)</ref> or <ref target="1026-19-a-2" reftype="internal">(a)(2)</ref> of this section.</content></paragraph>
+          <paragraph label="1026-19-a-5" marker="(5)">
+            <title type="keyterm">Timeshare plans.</title>
+            <content>In a mortgage transaction subject to the Real Estate Settlement Procedures Act (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.) that is secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in <ref target="USC:11-101" reftype="external">11 U.S.C. 101</ref>(53(D)):</content>
+            <paragraph label="1026-19-a-5-i" marker="(i)">
+              <content>The requirements of paragraphs <ref target="1026-19-a-1" reftype="internal">(a)(1)</ref> through <ref target="1026-19-a-4" reftype="internal">(a)(4)</ref> of this section do not apply;</content>
+            </paragraph>
+            <paragraph label="1026-19-a-5-ii" marker="(ii)">
+              <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make good faith estimates of the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref>, or shall deliver or place them in the mail not later than three <ref target="1026-2-a-6" reftype="term">business days</ref> after the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written application, whichever is earlier; and</content></paragraph>
+            <paragraph label="1026-19-a-5-iii" marker="(iii)">
+              <content>If the annual percentage rate at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref> varies from the annual percentage rate disclosed under paragraph <ref target="1026-19-a-5-ii" reftype="internal">(a)(5)(ii)</ref> of this section by more than 1/8 of 1 percentage point in a regular transaction or more than 1/4 of 1 percentage point in an irregular transaction, as defined in § <ref target="1026-22" reftype="internal">1026.22</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose all the changed terms no later than <ref target="1026-2-a-13" reftype="term">consummation</ref> or settlement.</content>
+            </paragraph>
           </paragraph>
         </paragraph>
-      </paragraph>
+        <paragraph label="1026-19-b" marker="(b)">
+          <title type="keyterm">Certain variable-rate transactions.</title>
+          <content>Except as provided in paragraph <ref target="1026-19-d" reftype="internal">(d)</ref> of this section, if the annual percentage rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> in a transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with a term greater than one year, the following disclosures must be provided at the time an application form is provided or before the <ref target="1026-2-a-11" reftype="term">consumer</ref> pays a non-refundable fee, whichever is earlier (except that the disclosures may be delivered or placed in the mail not later than three <ref target="1026-2-a-6" reftype="term">business days</ref> following receipt of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s application when the application reaches the <ref target="1026-2-a-17" reftype="term">creditor</ref> by telephone, or through an intermediary agent or broker):</content>
+          <paragraph label="1026-19-b-1" marker="(1)">
+            <content>The booklet titled <ref target="1026-2-a-11" reftype="term">Consumer</ref> Handbook on Adjustable Rate Mortgages, or a suitable substitute.</content>
+          </paragraph>
+          <paragraph label="1026-19-b-2" marker="(2)">
+            <content>A loan program disclosure for each variable-rate program in which the <ref target="1026-2-a-11" reftype="term">consumer</ref> expresses an interest. The following disclosures, as applicable, shall be provided:</content>
+            <paragraph label="1026-19-b-2-i" marker="(i)">
+              <content>The fact that the interest rate, payment, or term of the loan can change.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-ii" marker="(ii)">
+              <content>The index or formula used in making adjustments, and a source of information about the index or formula.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-iii" marker="(iii)">
+              <content>An explanation of how the interest rate and payment will be determined, including an explanation of how the index is adjusted, such as by the addition of a margin.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-iv" marker="(iv)">
+              <content>A statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> should ask about the current margin value and current interest rate.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-v" marker="(v)">
+              <content>The fact that the interest rate will be discounted, and a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> should ask about the amount of the interest rate discount.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-vi" marker="(vi)">
+              <content>The frequency of interest rate and payment changes.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-vii" marker="(vii)">
+              <content>Any rules relating to changes in the index, interest rate, payment amount, and outstanding loan balance including, for example, an explanation of interest rate or payment limitations, <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, and interest rate carryover.</content></paragraph>
+            <paragraph label="1026-19-b-2-viii" marker="(viii)">
+              <content>At the option of the <ref target="1026-2-a-17" reftype="term">creditor</ref>, either of the following:</content>
+              <paragraph label="1026-19-b-2-viii-A" marker="(A)">
+                <content>A historical example, based on a $10,000 loan amount, illustrating how payments and the loan balance would have been affected by interest rate changes implemented according to the terms of the loan program disclosure. The example shall reflect the most recent 15 years of index values. The example shall reflect all significant loan program terms, such as <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, interest rate carryover, interest rate discounts, and interest rate and payment limitations, that would have been affected by the index movement during the period.</content></paragraph>
+              <paragraph label="1026-19-b-2-viii-B" marker="(B)">
+                <content>The maximum interest rate and payment for a $10,000 loan originated at the initial interest rate (index value plus margin, adjusted by the amount of any discount or premium) in effect as of an identified month and year for the loan program disclosure assuming the maximum periodic increases in rates and payments under the program; and the initial interest rate and payment for that loan and a statement that the periodic payment may increase or decrease substantially depending on changes in the rate.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1026-19-b-2-ix" marker="(ix)">
+              <content>An explanation of how the <ref target="1026-2-a-11" reftype="term">consumer</ref> may calculate the payments for the loan amount to be borrowed based on either:</content>
+              <paragraph label="1026-19-b-2-ix-A" marker="(A)">
+                <content>The most recent payment shown in the historical example in paragraph <ref target="1026-19-b-2-viii-A" reftype="internal">(b)(2)(viii)(A)</ref> of this section; or</content>
+              </paragraph>
+              <paragraph label="1026-19-b-2-ix-B" marker="(B)">
+                <content>The initial interest rate used to calculate the maximum interest rate and payment in paragraph <ref target="1026-19-b-2-viii-B" reftype="internal">(b)(2)(viii)(B)</ref> of this section.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1026-19-b-2-x" marker="(x)">
+              <content>The fact that the loan program contains a demand feature.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-xi" marker="(xi)">
+              <content>The type of information that will be provided in notices of adjustments and the timing of such notices.</content>
+            </paragraph>
+            <paragraph label="1026-19-b-2-xii" marker="(xii)">
+              <content>A statement that disclosure forms are available for the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s other variable-rate loan programs.</content>
+            </paragraph>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-19-c" marker="(c)">
+          <title type="keyterm">Electronic disclosures.</title>
+          <content>For an application that is accessed by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in electronic form, the disclosures required by paragraph <ref target="1026-19-b" reftype="internal">(b)</ref> of this section may be provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref> in electronic form on or with the application.</content>
+        </paragraph>
+        <paragraph label="1026-19-d" marker="(d)">
+          <content>Information provided in accordance with variable-rate regulations of other Federal agencies may be substituted for the disclosures required by paragraph <ref target="1026-19-b" reftype="internal">(b)</ref> of this section.</content>
+        </paragraph>
+      </section>
+    </change>
+    <change operation="modified" label="1026-20">
+      <section label="1026-20" sectionNum="20">
+        <subject>§ 1026.20 Subsequent disclosure requirements.</subject>
+        <paragraph label="1026-20-a" marker="(a)">
+          <title type="keyterm">Refinancings.</title>
+          <content>A refinancing occurs when an existing obligation that was subject to this subpart is satisfied and replaced by a new obligation undertaken by the same <ref target="1026-2-a-11" reftype="term">consumer</ref>. A refinancing is a new transaction requiring new disclosures to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. The new finance charge shall include any unearned portion of the old finance charge that is not credited to the existing obligation. The following shall not be treated as a refinancing:</content>
+          <paragraph label="1026-20-a-1" marker="(1)">
+            <content>A renewal of a single payment obligation with no change in the original terms.</content>
+          </paragraph>
+          <paragraph label="1026-20-a-2" marker="(2)">
+            <content>A reduction in the annual percentage rate with a corresponding change in the payment schedule.</content>
+          </paragraph>
+          <paragraph label="1026-20-a-3" marker="(3)">
+            <content>An <ref target="1026-58-b-1" reftype="term">agreement</ref> involving a court proceeding.</content></paragraph>
+          <paragraph label="1026-20-a-4" marker="(4)">
+            <content>A change in the payment schedule or a change in collateral requirements as a result of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or delinquency, unless the rate is increased, or the new amount financed exceeds the unpaid balance plus earned finance charge and premiums for continuation of insurance of the types described in § <ref target="1026-4-d" reftype="internal">1026.4(d)</ref>.</content>
+          </paragraph>
+          <paragraph label="1026-20-a-5" marker="(5)">
+            <content>The renewal of optional insurance purchased by the <ref target="1026-2-a-11" reftype="term">consumer</ref> and added to an existing transaction, if disclosures relating to the initial purchase were provided as required by this subpart.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-20-b" marker="(b)">
+          <title type="keyterm">Assumptions.</title>
+          <content>An assumption occurs when a <ref target="1026-2-a-17" reftype="term">creditor</ref> expressly agrees in writing with a subsequent <ref target="1026-2-a-11" reftype="term">consumer</ref> to accept that <ref target="1026-2-a-11" reftype="term">consumer</ref> as a primary obligor on an existing <ref target="1026-2-a-24" reftype="term">residential mortgage transaction</ref>. Before the assumption occurs, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make new disclosures to the subsequent <ref target="1026-2-a-11" reftype="term">consumer</ref>, based on the remaining obligation. If the finance charge originally imposed on the existing obligation was an add-on or discount finance charge, the <ref target="1026-2-a-17" reftype="term">creditor</ref> need only disclose:</content>
+          <paragraph label="1026-20-b-1" marker="(1)">
+            <content>The unpaid balance of the obligation assumed.</content>
+          </paragraph>
+          <paragraph label="1026-20-b-2" marker="(2)">
+            <content>The total charges imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> in connection with the assumption.</content>
+          </paragraph>
+          <paragraph label="1026-20-b-3" marker="(3)">
+            <content>The information required to be disclosed under § <ref target="1026-18-k" reftype="internal">1026.18(k)</ref>, <ref target="1026-18-l" reftype="internal">(l)</ref>, <ref target="1026-18-m" reftype="internal">(m)</ref>, and <ref target="1026-18-n" reftype="internal">(n)</ref>.</content>
+          </paragraph>
+          <paragraph label="1026-20-b-4" marker="(4)">
+            <content>The annual percentage rate originally imposed on the obligation.</content>
+          </paragraph>
+          <paragraph label="1026-20-b-5" marker="(5)">
+            <content>The payment schedule under § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> and the total of payments under § <ref target="1026-18-h" reftype="internal">1026.18(h)</ref> based on the remaining obligation.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-20-c" marker="(c)">
+          <title type="keyterm">Variable-rate adjustments.</title>
+          <content>Except as provided in paragraph <ref target="1026-20-d" reftype="internal">(d)</ref> of this section, an adjustment to the interest rate with or without a corresponding adjustment to the payment in a variable-rate transaction subject to § <ref target="1026-19-b" reftype="internal">1026.19(b)</ref> is an event requiring new disclosures to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. At least once each year during which an interest rate adjustment is implemented without an accompanying payment change, and at least 25, but no more than 120, calendar days before a payment at a new level is due, the following disclosures, as applicable, must be delivered or placed in the mail:</content>
+          <paragraph label="1026-20-c-1" marker="(1)">
+            <content>The current and prior interest rates.</content>
+          </paragraph>
+          <paragraph label="1026-20-c-2" marker="(2)">
+            <content>The index values upon which the current and prior interest rates are based.</content>
+          </paragraph>
+          <paragraph label="1026-20-c-3" marker="(3)">
+            <content>The extent to which the <ref target="1026-2-a-17" reftype="term">creditor</ref> has foregone any increase in the interest rate.</content>
+          </paragraph>
+          <paragraph label="1026-20-c-4" marker="(4)">
+            <content>The contractual effects of the adjustment, including the payment due after the adjustment is made, and a statement of the loan balance.</content>
+          </paragraph>
+          <paragraph label="1026-20-c-5" marker="(5)">
+            <content>The payment, if different from that referred to in paragraph <ref target="1026-20-c-4" reftype="internal">(c)(4)</ref> of this section, that would be required to fully amortize the loan at the new interest rate over the remainder of the loan term.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-20-d" marker="(d)">
+          <content>Information provided in accordance with variable-rate subsequent disclosure regulations of other Federal agencies may be substituted for the disclosure required by paragraph <ref target="1026-20-c" reftype="internal">(c)</ref> of this section.</content>
+        </paragraph>
+      </section>
     </change>
     <change operation="modified" label="1026-34-a-4-i">
       <paragraph label="1026-34-a-4-i" marker="(i)">
@@ -61,6 +202,7 @@
         <content>For purposes of this paragraph <ref target="1026-34-a-4" reftype="internal">(a)(4)</ref>, mortgage-related obligations are expected property taxes, premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref> as set forth in § <ref target="1026-35-b-3-i" reftype="internal">1026.35(b)(3)(i)</ref>, and similar expenses.</content>
       </paragraph>
     </change>
+    <!-- Update 1026-35 -->
     <change operation="added" label="1026-35-b-2-iv">
       <paragraph label="1026-35-b-2-iv" marker="(iv)">
         <content>For purposes of paragraph <ref target="1026-35-b-2-iii-A" reftype="internal">(b)(2)(iii)(A)</ref> of this section:</content>
@@ -401,70 +543,6 @@
         <content>The limited exemption provided pursuant to § <ref target="1026-35-b-2-ii" reftype="internal">1026.35(b)(2)(ii)</ref> applies to each master insurance policy for properties with multiple governing associations, to the extent each governing association has an obligation to maintain a master insurance policy.</content>
       </interpParagraph>
     </change>
-    <change operation="modified" label="1026-20">
-      <section label="1026-20" sectionNum="20">
-        <subject>§ 1026.20 Subsequent disclosure requirements.</subject>
-        <paragraph label="1026-20-a" marker="(a)">
-          <title type="keyterm">Refinancings.</title>
-          <content>A refinancing occurs when an existing obligation that was subject to this subpart is satisfied and replaced by a new obligation undertaken by the same <ref target="1026-2-a-11" reftype="term">consumer</ref>. A refinancing is a new transaction requiring new disclosures to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. The new finance charge shall include any unearned portion of the old finance charge that is not credited to the existing obligation. The following shall not be treated as a refinancing:</content>
-          <paragraph label="1026-20-a-1" marker="(1)">
-            <content>A renewal of a single payment obligation with no change in the original terms.</content>
-          </paragraph>
-          <paragraph label="1026-20-a-2" marker="(2)">
-            <content>A reduction in the annual percentage rate with a corresponding change in the payment schedule.</content>
-          </paragraph>
-          <paragraph label="1026-20-a-3" marker="(3)">
-            <content>An <ref target="1026-58-b-1" reftype="term">agreement</ref> involving a court proceeding.</content></paragraph>
-          <paragraph label="1026-20-a-4" marker="(4)">
-            <content>A change in the payment schedule or a change in collateral requirements as a result of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or delinquency, unless the rate is increased, or the new amount financed exceeds the unpaid balance plus earned finance charge and premiums for continuation of insurance of the types described in § <ref target="1026-4-d" reftype="internal">1026.4(d)</ref>.</content>
-          </paragraph>
-          <paragraph label="1026-20-a-5" marker="(5)">
-            <content>The renewal of optional insurance purchased by the <ref target="1026-2-a-11" reftype="term">consumer</ref> and added to an existing transaction, if disclosures relating to the initial purchase were provided as required by this subpart.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-20-b" marker="(b)">
-          <title type="keyterm">Assumptions.</title>
-          <content>An assumption occurs when a <ref target="1026-2-a-17" reftype="term">creditor</ref> expressly agrees in writing with a subsequent <ref target="1026-2-a-11" reftype="term">consumer</ref> to accept that <ref target="1026-2-a-11" reftype="term">consumer</ref> as a primary obligor on an existing <ref target="1026-2-a-24" reftype="term">residential mortgage transaction</ref>. Before the assumption occurs, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make new disclosures to the subsequent <ref target="1026-2-a-11" reftype="term">consumer</ref>, based on the remaining obligation. If the finance charge originally imposed on the existing obligation was an add-on or discount finance charge, the <ref target="1026-2-a-17" reftype="term">creditor</ref> need only disclose:</content>
-          <paragraph label="1026-20-b-1" marker="(1)">
-            <content>The unpaid balance of the obligation assumed.</content>
-          </paragraph>
-          <paragraph label="1026-20-b-2" marker="(2)">
-            <content>The total charges imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> in connection with the assumption.</content>
-          </paragraph>
-          <paragraph label="1026-20-b-3" marker="(3)">
-            <content>The information required to be disclosed under § <ref target="1026-18-k" reftype="internal">1026.18(k)</ref>, <ref target="1026-18-l" reftype="internal">(l)</ref>, <ref target="1026-18-m" reftype="internal">(m)</ref>, and <ref target="1026-18-n" reftype="internal">(n)</ref>.</content>
-          </paragraph>
-          <paragraph label="1026-20-b-4" marker="(4)">
-            <content>The annual percentage rate originally imposed on the obligation.</content>
-          </paragraph>
-          <paragraph label="1026-20-b-5" marker="(5)">
-            <content>The payment schedule under § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> and the total of payments under § <ref target="1026-18-h" reftype="internal">1026.18(h)</ref> based on the remaining obligation.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-20-c" marker="(c)">
-          <title type="keyterm">Variable-rate adjustments.</title>
-          <content>Except as provided in paragraph <ref target="1026-20-d" reftype="internal">(d)</ref> of this section, an adjustment to the interest rate with or without a corresponding adjustment to the payment in a variable-rate transaction subject to § <ref target="1026-19-b" reftype="internal">1026.19(b)</ref> is an event requiring new disclosures to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. At least once each year during which an interest rate adjustment is implemented without an accompanying payment change, and at least 25, but no more than 120, calendar days before a payment at a new level is due, the following disclosures, as applicable, must be delivered or placed in the mail:</content>
-          <paragraph label="1026-20-c-1" marker="(1)">
-            <content>The current and prior interest rates.</content>
-          </paragraph>
-          <paragraph label="1026-20-c-2" marker="(2)">
-            <content>The index values upon which the current and prior interest rates are based.</content>
-          </paragraph>
-          <paragraph label="1026-20-c-3" marker="(3)">
-            <content>The extent to which the <ref target="1026-2-a-17" reftype="term">creditor</ref> has foregone any increase in the interest rate.</content>
-          </paragraph>
-          <paragraph label="1026-20-c-4" marker="(4)">
-            <content>The contractual effects of the adjustment, including the payment due after the adjustment is made, and a statement of the loan balance.</content>
-          </paragraph>
-          <paragraph label="1026-20-c-5" marker="(5)">
-            <content>The payment, if different from that referred to in paragraph <ref target="1026-20-c-4" reftype="internal">(c)(4)</ref> of this section, that would be required to fully amortize the loan at the new interest rate over the remainder of the loan term.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-20-d" marker="(d)">
-          <content>Information provided in accordance with variable-rate subsequent disclosure regulations of other Federal agencies may be substituted for the disclosure required by paragraph <ref target="1026-20-c" reftype="internal">(c)</ref> of this section.</content>
-        </paragraph>
-      </section>
-    </change>
     <change operation="modified" label="1026-35-a-2-Interp-3">
       <interpParagraph label="1026-35-a-2-Interp-3" marker="3.">
         <title type="keyterm">Rate set.</title>
@@ -478,120 +556,6 @@
       </interpParagraph>
     </change>
     <change operation="deleted" label="1026-35-a-2-Interp-4"/>
-    <change operation="modified" label="1026-19">
-      <section label="1026-19" sectionNum="19">
-        <subject>§ 1026.19 Certain mortgage and variable-rate transactions.</subject>
-        <paragraph label="1026-19-a" marker="(a)">
-          <title type="keyterm">Mortgage transactions subject to RESPA—</title>
-          <content/>
-          <paragraph label="1026-19-a-1" marker="(1)">
-            <content/>
-            <paragraph label="1026-19-a-1-i" marker="(i)">
-              <title type="keyterm">Time of disclosures.</title>
-              <content>In a mortgage transaction subject to the Real Estate Settlement Procedures Act (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.) that is secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> subject to § <ref target="1026-40" reftype="internal">1026.40</ref> or mortgage transaction subject to paragraph <ref target="1026-19-a-5" reftype="internal">(a)(5)</ref> of this section, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make good faith estimates of the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref> and shall deliver or place them in the mail not later than the third <ref target="1026-2-a-6" reftype="term">business day</ref> after the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written application.</content></paragraph>
-            <paragraph label="1026-19-a-1-ii" marker="(ii)">
-              <title type="keyterm">Imposition of fees.</title>
-              <content>Except as provided in paragraph <ref target="1026-19-a-1-iii" reftype="internal">(a)(1)(iii)</ref> of this section, neither a <ref target="1026-2-a-17" reftype="term">creditor</ref> nor any other <ref target="1026-2-a-22" reftype="term">person</ref> may impose a fee on a <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s application for a mortgage transaction subject to paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has received the disclosures required by paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section. If the disclosures are mailed to the <ref target="1026-2-a-11" reftype="term">consumer</ref>, the <ref target="1026-2-a-11" reftype="term">consumer</ref> is considered to have received them three <ref target="1026-2-a-6" reftype="term">business days</ref> after they are mailed.</content>
-            </paragraph>
-            <paragraph label="1026-19-a-1-iii" marker="(iii)">
-              <title type="keyterm">Exception to fee restriction.</title>
-              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> or other <ref target="1026-2-a-22" reftype="term">person</ref> may impose a fee for obtaining the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-14" reftype="term">credit</ref> history before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has received the disclosures required by paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, provided the fee is bona fide and reasonable in amount.</content></paragraph>
-          </paragraph>
-          <paragraph label="1026-19-a-2" marker="(2)">
-            <title type="keyterm">Waiting periods for early disclosures and corrected disclosures.</title>
-            <content/>
-            <paragraph label="1026-19-a-2-i" marker="(i)">
-              <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall deliver or place in the mail the good faith estimates required by paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section not later than the seventh <ref target="1026-2-a-6" reftype="term">business day</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref> of the transaction.</content>
-            </paragraph>
-            <paragraph label="1026-19-a-2-ii" marker="(ii)">
-              <content>If the annual percentage rate disclosed under paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section becomes inaccurate, as defined in § <ref target="1026-22" reftype="internal">1026.22</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall provide corrected disclosures with all changed terms. The <ref target="1026-2-a-11" reftype="term">consumer</ref> must receive the corrected disclosures no later than three <ref target="1026-2-a-6" reftype="term">business days</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref>. If the corrected disclosures are mailed to the <ref target="1026-2-a-11" reftype="term">consumer</ref> or delivered to the <ref target="1026-2-a-11" reftype="term">consumer</ref> by means other than delivery in person, the <ref target="1026-2-a-11" reftype="term">consumer</ref> is deemed to have received the corrected disclosures three <ref target="1026-2-a-6" reftype="term">business days</ref> after they are mailed or delivered.</content>
-            </paragraph>
-          </paragraph>
-          <paragraph label="1026-19-a-3" marker="(3)">
-            <title type="keyterm">Consumer's waiver of waiting period before consummation.</title>
-            <content>If the <ref target="1026-2-a-11" reftype="term">consumer</ref> determines that the extension of <ref target="1026-2-a-14" reftype="term">credit</ref> is needed to meet a bona fide personal financial emergency, the <ref target="1026-2-a-11" reftype="term">consumer</ref> may modify or waive the seven-business-day waiting period or the three-business-day waiting period required by paragraph <ref target="1026-19-a-2" reftype="internal">(a)(2)</ref> of this section, after receiving the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref>. To modify or waive a waiting period, the <ref target="1026-2-a-11" reftype="term">consumer</ref> shall give the <ref target="1026-2-a-17" reftype="term">creditor</ref> a dated written statement that describes the emergency, specifically modifies or waives the waiting period, and bears the signature of all the <ref target="1026-2-a-11" reftype="term">consumers</ref> who are primarily liable on the legal obligation. Printed forms for this purpose are prohibited.</content>
-          </paragraph>
-          <paragraph label="1026-19-a-4" marker="(4)">
-            <title type="keyterm">Notice.</title>
-            <content>Disclosures made pursuant to paragraph <ref target="1026-19-a-1" reftype="internal">(a)(1)</ref> or paragraph <ref target="1026-19-a-2" reftype="internal">(a)(2)</ref> of this section shall contain the following statement: “You are not required to complete this <ref target="1026-58-b-1" reftype="term">agreement</ref> merely because you have received these disclosures or signed a loan application.” The disclosure required by this paragraph shall be grouped together with the disclosures required by paragraphs <ref target="1026-19-a-1" reftype="internal">(a)(1)</ref> or <ref target="1026-19-a-2" reftype="internal">(a)(2)</ref> of this section.</content></paragraph>
-          <paragraph label="1026-19-a-5" marker="(5)">
-            <title type="keyterm">Timeshare plans.</title>
-            <content>In a mortgage transaction subject to the Real Estate Settlement Procedures Act (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.) that is secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in <ref target="USC:11-101" reftype="external">11 U.S.C. 101</ref>(53(D)):</content>
-            <paragraph label="1026-19-a-5-i" marker="(i)">
-              <content>The requirements of paragraphs <ref target="1026-19-a-1" reftype="internal">(a)(1)</ref> through <ref target="1026-19-a-4" reftype="internal">(a)(4)</ref> of this section do not apply;</content>
-            </paragraph>
-            <paragraph label="1026-19-a-5-ii" marker="(ii)">
-              <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make good faith estimates of the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref>, or shall deliver or place them in the mail not later than three <ref target="1026-2-a-6" reftype="term">business days</ref> after the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written application, whichever is earlier; and</content></paragraph>
-            <paragraph label="1026-19-a-5-iii" marker="(iii)">
-              <content>If the annual percentage rate at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref> varies from the annual percentage rate disclosed under paragraph <ref target="1026-19-a-5-ii" reftype="internal">(a)(5)(ii)</ref> of this section by more than 1/8 of 1 percentage point in a regular transaction or more than 1/4 of 1 percentage point in an irregular transaction, as defined in § <ref target="1026-22" reftype="internal">1026.22</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose all the changed terms no later than <ref target="1026-2-a-13" reftype="term">consummation</ref> or settlement.</content>
-            </paragraph>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-19-b" marker="(b)">
-          <title type="keyterm">Certain variable-rate transactions.</title>
-          <content>Except as provided in paragraph <ref target="1026-19-d" reftype="internal">(d)</ref> of this section, if the annual percentage rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> in a transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with a term greater than one year, the following disclosures must be provided at the time an application form is provided or before the <ref target="1026-2-a-11" reftype="term">consumer</ref> pays a non-refundable fee, whichever is earlier (except that the disclosures may be delivered or placed in the mail not later than three <ref target="1026-2-a-6" reftype="term">business days</ref> following receipt of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s application when the application reaches the <ref target="1026-2-a-17" reftype="term">creditor</ref> by telephone, or through an intermediary agent or broker):</content>
-          <paragraph label="1026-19-b-1" marker="(1)">
-            <content>The booklet titled <ref target="1026-2-a-11" reftype="term">Consumer</ref> Handbook on Adjustable Rate Mortgages, or a suitable substitute.</content>
-          </paragraph>
-          <paragraph label="1026-19-b-2" marker="(2)">
-            <content>A loan program disclosure for each variable-rate program in which the <ref target="1026-2-a-11" reftype="term">consumer</ref> expresses an interest. The following disclosures, as applicable, shall be provided:</content>
-            <paragraph label="1026-19-b-2-i" marker="(i)">
-              <content>The fact that the interest rate, payment, or term of the loan can change.</content>
-            </paragraph>
-            <paragraph label="1026-19-b-2-ii" marker="(ii)">
-              <content>The index or formula used in making adjustments, and a source of information about the index or formula.</content>
-            </paragraph>
-            <paragraph label="1026-19-b-2-iii" marker="(iii)">
-              <content>An explanation of how the interest rate and payment will be determined, including an explanation of how the index is adjusted, such as by the addition of a margin.</content>
-            </paragraph>
-            <paragraph label="1026-19-b-2-iv" marker="(iv)">
-              <content>A statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> should ask about the current margin value and current interest rate.</content>
-            </paragraph>
-            <paragraph label="1026-19-b-2-v" marker="(v)">
-              <content>The fact that the interest rate will be discounted, and a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> should ask about the amount of the interest rate discount.</content>
-            </paragraph>
-            <paragraph label="1026-19-b-2-vi" marker="(vi)">
-              <content>The frequency of interest rate and payment changes.</content>
-            </paragraph>
-            <paragraph label="1026-19-b-2-vii" marker="(vii)">
-              <content>Any rules relating to changes in the index, interest rate, payment amount, and outstanding loan balance including, for example, an explanation of interest rate or payment limitations, <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, and interest rate carryover.</content></paragraph>
-            <paragraph label="1026-19-b-2-viii" marker="(viii)">
-              <content>At the option of the <ref target="1026-2-a-17" reftype="term">creditor</ref>, either of the following:</content>
-              <paragraph label="1026-19-b-2-viii-A" marker="(A)">
-                <content>A historical example, based on a $10,000 loan amount, illustrating how payments and the loan balance would have been affected by interest rate changes implemented according to the terms of the loan program disclosure. The example shall reflect the most recent 15 years of index values. The example shall reflect all significant loan program terms, such as <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, interest rate carryover, interest rate discounts, and interest rate and payment limitations, that would have been affected by the index movement during the period.</content></paragraph>
-              <paragraph label="1026-19-b-2-viii-B" marker="(B)">
-                <content>The maximum interest rate and payment for a $10,000 loan originated at the initial interest rate (index value plus margin, adjusted by the amount of any discount or premium) in effect as of an identified month and year for the loan program disclosure assuming the maximum periodic increases in rates and payments under the program; and the initial interest rate and payment for that loan and a statement that the periodic payment may increase or decrease substantially depending on changes in the rate.</content>
-              </paragraph>
-            </paragraph>
-            <paragraph label="1026-19-b-2-ix" marker="(ix)">
-              <content>An explanation of how the <ref target="1026-2-a-11" reftype="term">consumer</ref> may calculate the payments for the loan amount to be borrowed based on either:</content>
-              <paragraph label="1026-19-b-2-ix-A" marker="(A)">
-                <content>The most recent payment shown in the historical example in paragraph <ref target="1026-19-b-2-viii-A" reftype="internal">(b)(2)(viii)(A)</ref> of this section; or</content>
-              </paragraph>
-              <paragraph label="1026-19-b-2-ix-B" marker="(B)">
-                <content>The initial interest rate used to calculate the maximum interest rate and payment in paragraph <ref target="1026-19-b-2-viii-B" reftype="internal">(b)(2)(viii)(B)</ref> of this section.</content>
-              </paragraph>
-            </paragraph>
-            <paragraph label="1026-19-b-2-x" marker="(x)">
-              <content>The fact that the loan program contains a demand feature.</content>
-            </paragraph>
-            <paragraph label="1026-19-b-2-xi" marker="(xi)">
-              <content>The type of information that will be provided in notices of adjustments and the timing of such notices.</content>
-            </paragraph>
-            <paragraph label="1026-19-b-2-xii" marker="(xii)">
-              <content>A statement that disclosure forms are available for the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s other variable-rate loan programs.</content>
-            </paragraph>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-19-c" marker="(c)">
-          <title type="keyterm">Electronic disclosures.</title>
-          <content>For an application that is accessed by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in electronic form, the disclosures required by paragraph <ref target="1026-19-b" reftype="internal">(b)</ref> of this section may be provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref> in electronic form on or with the application.</content>
-        </paragraph>
-        <paragraph label="1026-19-d" marker="(d)">
-          <content>Information provided in accordance with variable-rate regulations of other Federal agencies may be substituted for the disclosures required by paragraph <ref target="1026-19-b" reftype="internal">(b)</ref> of this section.</content>
-        </paragraph>
-      </section>
-    </change>
     <change operation="added" label="1026-35-b-2-iii">
       <paragraph label="1026-35-b-2-iii" marker="(iii)">
         <content>Except as provided in paragraph <ref target="1026-35-b-2-v" reftype="internal">(b)(2)(v)</ref> of this section, an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> need not be established for a transaction if, at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>:</content><paragraph label="1026-35-b-2-iii-A" marker="(A)">
@@ -618,74 +582,44 @@
           <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may make a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> that will be transferred or sold to a purchaser pursuant to an <ref target="1026-58-b-1" reftype="term">agreement</ref> that has been entered into at or before the time the loan is consummated. Such an <ref target="1026-58-b-1" reftype="term">agreement</ref> is sometimes known as a “forward commitment.” Even if a <ref target="1026-2-a-17" reftype="term">creditor</ref> is otherwise eligible for the exemption in § <ref target="1026-35-b-2-iii" reftype="internal">1026.35(b)(2)(iii)</ref>, a first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> that will be acquired by a purchaser pursuant to a forward commitment is subject to the requirement to establish an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> under § <ref target="1026-35-b-1" reftype="internal">1026.35(b)(1)</ref> unless the purchaser is also eligible for the exemption in § <ref target="1026-35-b-2-iii" reftype="internal">1026.35(b)(2)(iii)</ref> or the transaction is otherwise exempt under § <ref target="1026-35-b-2" reftype="internal">1026.35(b)(2)</ref>. The escrow requirement applies to any such transaction, whether the forward commitment provides for the purchase and sale of the specific transaction or for the purchase and sale of mortgage obligations with certain prescribed criteria that the transaction meets. For example, assume a <ref target="1026-2-a-17" reftype="term">creditor</ref> that qualifies for the exemption in § <ref target="1026-35-b-2-iii" reftype="internal">1026.35(b)(2)(iii)</ref> makes a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> that meets the purchase criteria of an investor with which the <ref target="1026-2-a-17" reftype="term">creditor</ref> has an <ref target="1026-58-b-1" reftype="term">agreement</ref> to sell such mortgage obligations after <ref target="1026-2-a-13" reftype="term">consummation</ref>. If the investor is ineligible for the exemption in § <ref target="1026-35-b-2-iii" reftype="internal">1026.35(b)(2)(iii)</ref>, an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> must be established for the transaction before <ref target="1026-2-a-13" reftype="term">consummation</ref> in accordance with § <ref target="1026-35-b-1" reftype="internal">1026.35(b)(1)</ref> unless the transaction is otherwise exempt (such as a reverse mortgage or home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref>).</content></interpParagraph>
       </interpParagraph>
     </change>
-
-    <!-- Update TOC for new 1026-35 title -->
-    <change operation="modified" label="1026-Subpart-E-TOC">
-      <tableOfContents label="1026-Subpart-E-TOC">
-        <tocSecEntry target="1026-31">
-          <sectionNum>31</sectionNum>
-          <sectionSubject>§ 1026.31 General rules.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-32">
-          <sectionNum>32</sectionNum>
-          <sectionSubject>§ 1026.32 Requirements for certain closed-end home mortgages.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-33">
-          <sectionNum>33</sectionNum>
-          <sectionSubject>§ 1026.33 Requirements for reverse mortgages.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-34">
-          <sectionNum>34</sectionNum>
-          <sectionSubject>§ 1026.34 Prohibited acts or practices in connection with high-cost mortgages.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-35">
-          <sectionNum>35</sectionNum>
-          <sectionSubject>§ 1026.35 Requirements for higher-priced mortgage loans.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-36">
-          <sectionNum>36</sectionNum>
-          <sectionSubject>§ 1026.36 Prohibited acts or practices in connection with credit secured by a dwelling.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-37">
-          <sectionNum>37</sectionNum>
-          <sectionSubject>§ 1026.37 [Reserved]</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-38">
-          <sectionNum>38</sectionNum>
-          <sectionSubject>§ 1026.38 [Reserved]</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-39">
-          <sectionNum>39</sectionNum>
-          <sectionSubject>§ 1026.39 Mortgage transfer disclosures.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-40">
-          <sectionNum>40</sectionNum>
-          <sectionSubject>§ 1026.40 Requirements for home equity plans.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-41">
-          <sectionNum>41</sectionNum>
-          <sectionSubject>§ 1026.41 [Reserved]</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-42">
-          <sectionNum>42</sectionNum>
-          <sectionSubject>§ 1026.42 Valuation independence.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-43">
-          <sectionNum>43</sectionNum>
-          <sectionSubject>§ 1026.43 [Reserved]</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-44">
-          <sectionNum>44</sectionNum>
-          <sectionSubject>§ 1026.44 [Reserved]</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1026-45">
-          <sectionNum>45</sectionNum>
-          <sectionSubject>§ 1026.45 [Reserved]</sectionSubject>
-        </tocSecEntry>
-      </tableOfContents>
+    <change operation="deleted" label="1026-35-b-3-v-Interp"/>
+    <change operation="deleted" label="1026-35-b-2-ii-B"/>
+    <change operation="deleted" label="1026-35-b-3-v"/>
+    <change operation="modified" label="1026-35-b-1">
+      <paragraph label="1026-35-b-1" marker="(1)">
+        <title type="keyterm">Repayment ability.</title>
+        <content/>
+        <paragraph label="1026-35-b-1-i" marker="(i)">
+          <title type="keyterm">Requirement to escrow for property taxes and insurance.</title>
+          <content>Except as provided in paragraph <ref target="1026-35-b-2" reftype="internal">(b)(2)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph <ref target="1026-35-b" reftype="internal">(b)</ref>, the term “<ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>” has the same meaning as under Regulation X (<ref target="CFR:24-3500-17" reftype="external">24 CFR 3500.17</ref>(b)), as amended.</content>
+        </paragraph>
+      </paragraph>
     </change>
-
-    <!-- Update 1026-35 -->
+    <change operation="modified" label="1026-35-b-3">
+      <paragraph label="1026-35-b-3" marker="(3)">
+        <title type="keyterm">Escrows</title>
+        <content>Cancellation—</content>
+        <paragraph label="1026-35-b-3-i" marker="(i)">
+          <title type="keyterm">Failure to escrow for property taxes and insurance.</title>
+          <content>General. Except as provided in paragraph <ref target="1026-35-b-3-ii" reftype="internal">(b)(3)(ii)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or s<ref target="1026-35-b-3-ii" reftype="internal">ervicer ma</ref>y cancel an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> required in paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section only upon the earlier of:</content>
+          <paragraph label="1026-35-b-3-i-A" marker="(A)">
+            <content>Termination of the underlying debt obligation; or</content>
+          </paragraph>
+          <paragraph label="1026-35-b-3-i-B" marker="(B)">
+            <content>Receipt no earlier than five years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s request to cancel the <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-35-b-3-ii" marker="(ii)">
+          <title type="keyterm">Exemptions for loans secured by shares in a cooperative and for certain condominium units.</title>
+          <content>Delayed cancellation. Notwithstanding paragraph (b)(3)(i) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer shall not cancel an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> pursuant to a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s request described in paragraph (b)(3)(i)(B) of this section unless the following conditions are satisfied:</content><paragraph label="1026-35-b-3-ii-A" marker="(A)">
+            <content>The unpaid principal balance is less than 80 percent of the original value of the property securing the underlying debt obligation; and</content>
+          </paragraph>
+          <paragraph label="1026-35-b-3-ii-B" marker="(B)">
+            <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> currently is not delinquent o<ref target="1026-35-b-3-i" reftype="internal">r in defa</ref>ult on the underlying debt obligation.</content>
+          </paragraph>
+        </paragraph>
+      </paragraph>
+    </change>
     <change operation="modified" label="1026-35">
       <section label="1026-35" sectionNum="35">
         <subject>§ 1026.35 Requirements for higher-priced mortgage loans.</subject>
@@ -711,10 +645,15 @@
           <title type="keyterm">Escrow accounts-</title>
           <content/>
           <paragraph label="1026-35-b-1" marker="(1)">
-            <title type="keyterm">Requiresent to escrow for property taxes and insurance.</title>
-            <content> Except as provided in paragraph <ref target="1026-35-b-2" reftype="internal">(b)(2)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph <ref target="1026-35-b" reftype="internal">(b)</ref>, the term “<ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>” has the same meaning as under Regulation X (24 CFR 3500.17(b)), as amended.</content></paragraph>
+            <title type="keyterm">Repayment ability.</title>
+            <content/>
+            <paragraph label="1026-35-b-1-i" marker="(i)">
+              <title type="keyterm">Requirement to escrow for property taxes and insurance.</title>
+              <content>Except as provided in paragraph <ref target="1026-35-b-2" reftype="internal">(b)(2)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph <ref target="1026-35-b" reftype="internal">(b)</ref>, the term “<ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>” has the same meaning as under Regulation X (<ref target="CFR:24-3500-17" reftype="external">24 CFR 3500.17</ref>(b)), as amended.</content>
+            </paragraph>
+          </paragraph>
           <paragraph label="1026-35-b-2" marker="(2)">
-            <title type="keyterm">Exemptions. </title>
+            <title type="keyterm">Exemptions.</title>
             <content>Notwithstanding paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section:</content>
             <paragraph label="1026-35-b-2-i" marker="(i)">
               <content>An <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> need not be established for:</content><paragraph label="1026-35-b-2-i-A" marker="(A)">
@@ -792,40 +731,73 @@
         </paragraph>
       </section>
     </change>
-    <change operation="deleted" label="1026-35-b-3-v-Interp"/>
-    <change operation="deleted" label="1026-35-b-2-ii-B"/>
-    <change operation="deleted" label="1026-35-b-3-v"/>
-    <change operation="modified" label="1026-35-b-1">
-      <paragraph label="1026-35-b-1" marker="(1)">
-        <title type="keyterm">Repayment ability.</title>
-        <content>Requirement to escrow for property taxes and insurance. Except as provided in paragraph <ref target="1026-35-b-2" reftype="internal">(b)(2)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph <ref target="1026-35-b" reftype="internal">(b)</ref>, the term “<ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>” has the same meaning as under Regulation X (<ref target="CFR:24-3500-17" reftype="external">24 CFR 3500.17</ref>(b)), as amended.</content>
-      </paragraph>
+
+    <!-- Update TOC for new 1026-35 title -->
+    <change operation="modified" label="1026-Subpart-E-TOC">
+      <tableOfContents label="1026-Subpart-E-TOC">
+        <tocSecEntry target="1026-31">
+          <sectionNum>31</sectionNum>
+          <sectionSubject>§ 1026.31 General rules.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-32">
+          <sectionNum>32</sectionNum>
+          <sectionSubject>§ 1026.32 Requirements for certain closed-end home mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-33">
+          <sectionNum>33</sectionNum>
+          <sectionSubject>§ 1026.33 Requirements for reverse mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-34">
+          <sectionNum>34</sectionNum>
+          <sectionSubject>§ 1026.34 Prohibited acts or practices in connection with high-cost mortgages.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-35">
+          <sectionNum>35</sectionNum>
+          <sectionSubject>§ 1026.35 Requirements for higher-priced mortgage loans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-36">
+          <sectionNum>36</sectionNum>
+          <sectionSubject>§ 1026.36 Prohibited acts or practices in connection with credit secured by a dwelling.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-37">
+          <sectionNum>37</sectionNum>
+          <sectionSubject>§ 1026.37 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-38">
+          <sectionNum>38</sectionNum>
+          <sectionSubject>§ 1026.38 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-39">
+          <sectionNum>39</sectionNum>
+          <sectionSubject>§ 1026.39 Mortgage transfer disclosures.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-40">
+          <sectionNum>40</sectionNum>
+          <sectionSubject>§ 1026.40 Requirements for home equity plans.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-41">
+          <sectionNum>41</sectionNum>
+          <sectionSubject>§ 1026.41 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-42">
+          <sectionNum>42</sectionNum>
+          <sectionSubject>§ 1026.42 Valuation independence.</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-43">
+          <sectionNum>43</sectionNum>
+          <sectionSubject>§ 1026.43 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-44">
+          <sectionNum>44</sectionNum>
+          <sectionSubject>§ 1026.44 [Reserved]</sectionSubject>
+        </tocSecEntry>
+        <tocSecEntry target="1026-45">
+          <sectionNum>45</sectionNum>
+          <sectionSubject>§ 1026.45 [Reserved]</sectionSubject>
+        </tocSecEntry>
+      </tableOfContents>
     </change>
-    <change operation="modified" label="1026-35-b-3">
-      <paragraph label="1026-35-b-3" marker="(3)">
-        <title type="keyterm">Escrows</title>
-        <content>Cancellation—</content>
-        <paragraph label="1026-35-b-3-i" marker="(i)">
-          <title type="keyterm">Failure to escrow for property taxes and insurance.</title>
-          <content>General. Except as provided in paragraph <ref target="1026-35-b-3-ii" reftype="internal">(b)(3)(ii)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or s<ref target="1026-35-b-3-ii" reftype="internal">ervicer ma</ref>y cancel an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> required in paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section only upon the earlier of:</content>
-          <paragraph label="1026-35-b-3-i-A" marker="(A)">
-            <content>Termination of the underlying debt obligation; or</content>
-          </paragraph>
-          <paragraph label="1026-35-b-3-i-B" marker="(B)">
-            <content>Receipt no earlier than five years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s request to cancel the <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-35-b-3-ii" marker="(ii)">
-          <title type="keyterm">Exemptions for loans secured by shares in a cooperative and for certain condominium units.</title>
-          <content>Delayed cancellation. Notwithstanding paragraph (b)(3)(i) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer shall not cancel an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> pursuant to a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s request described in paragraph (b)(3)(i)(B) of this section unless the following conditions are satisfied:</content><paragraph label="1026-35-b-3-ii-A" marker="(A)">
-            <content>The unpaid principal balance is less than 80 percent of the original value of the property securing the underlying debt obligation; and</content>
-          </paragraph>
-          <paragraph label="1026-35-b-3-ii-B" marker="(B)">
-            <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> currently is not delinquent o<ref target="1026-35-b-3-i" reftype="internal">r in defa</ref>ult on the underlying debt obligation.</content>
-          </paragraph>
-        </paragraph>
-      </paragraph>
-    </change>
+
     <change operation="modified" label="1026-51-a">
       <paragraph label="1026-51-a" marker="(a)">
         <title type="keyterm">General rule—</title>
@@ -860,6 +832,43 @@
                 <content>If the applicable minimum payment formula includes mandatory fees, the <ref target="1026-2-a-7" reftype="term">card issuer</ref> must assume that such fees have been charged to the account.</content>
               </paragraph>
             </paragraph>
+          </paragraph>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-51-b">
+      <paragraph label="1026-51-b" marker="(b)">
+        <title type="keyterm">Rules affecting young consumers</title>
+        <content/>
+        <paragraph label="1026-51-b-1" marker="(1)">
+          <title type="keyterm">Applications from young consumers.</title>
+          <content>A <ref target="1026-2-a-7" reftype="term">card issuer</ref> may not open a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan for a <ref target="1026-2-a-11" reftype="term">consumer</ref> less than 21 years old, unless the <ref target="1026-2-a-11" reftype="term">consumer</ref> has submitted a written application and the <ref target="1026-2-a-7" reftype="term">card issuer</ref> has:</content>
+          <paragraph label="1026-51-b-1-i" marker="(i)">
+            <content>Financial information indicating the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the proposed extension of <ref target="1026-2-a-14" reftype="term">credit</ref> in connection with the account; or</content>
+          </paragraph>
+          <paragraph label="1026-51-b-1-ii" marker="(ii)">
+            <content/>
+            <paragraph label="1026-51-b-1-ii-A" marker="(A)">
+              <content>A signed <ref target="1026-58-b-1" reftype="term">agreement</ref> of a cosigner, guarantor, or joint applicant who is at least 21 years old to be either secondarily liable for any debt on the account incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> before the <ref target="1026-2-a-11" reftype="term">consumer</ref> has attained the age of 21 or jointly liable with the <ref target="1026-2-a-11" reftype="term">consumer</ref> for any debt on the account; and</content></paragraph>
+            <paragraph label="1026-51-b-1-ii-B" marker="(B)">
+              <content>Financial information indicating such cosigner, guarantor, or joint applicant has the ability to make the required minimum periodic payments on such debts, consistent with paragraph (a) of this <ref target="1026-51-a" reftype="internal">sec</ref>tion.</content>
+            </paragraph>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-51-b-2" marker="(2)">
+          <title type="keyterm">Credit line increases for young consumers.</title>
+          <content/>
+          <paragraph label="1026-51-b-2-i" marker="(i)">
+            <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless:</content>
+            <paragraph label="1026-51-b-2-i-A" marker="(A)">
+              <content>At the time of the contemplated increase, the <ref target="1026-2-a-11" reftype="term">consumer</ref> has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph <ref target="1026-51-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section; or</content>
+            </paragraph>
+            <paragraph label="1026-51-b-2-i-B" marker="(B)">
+              <content>A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1026-51-b-2-ii" marker="(ii)">
+            <content>If a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account has been opened pursuant to paragraph <ref target="1026-51-b-1-ii" reftype="internal">(b)(1)(ii)</ref> of this section, no increase in the <ref target="1026-2-a-14" reftype="term">credit</ref> limit may be made on such account before the <ref target="1026-2-a-11" reftype="term">consumer</ref> attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.</content>
           </paragraph>
         </paragraph>
       </paragraph>
