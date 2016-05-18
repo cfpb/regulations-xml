@@ -296,7 +296,7 @@
     <change operation="added" label="1026-32-b-3">
       <paragraph label="1026-32-b-3" marker="(3)">
         <title type="keyterm">Bona fide discount point</title>
-        <content>—</content>
+        <content/>
         <paragraph label="1026-32-b-3-i" marker="(i)">
           <title type="keyterm">Closed-end credit.</title>
           <content>The term <def term="bona fide discount point">bona fide discount point</def> means an amount equal to 1 percent of the loan amount paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> that reduces the interest rate or time-price differential applicable to the transaction based on a calculation that is consistent with established industry practices for determining the amount of reduction in the interest rate or time-price differential appropriate for the amount of discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content>
@@ -430,7 +430,7 @@
         </paragraph>
         <paragraph label="1026-43-c" marker="(c)">
           <title type="keyterm">Repayment ability</title>
-          <content>—</content>
+          <content/>
           <paragraph label="1026-43-c-1" marker="(1)">
             <title type="keyterm">General requirement.</title>
             <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not make a loan that is a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> unless the <ref target="1026-2-a-17" reftype="term">creditor</ref> makes a reasonable and good faith determination at or before <ref target="1026-2-a-13" reftype="term">consummation</ref> that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will have a reasonable ability to repay the loan according to its terms.</content>
@@ -504,7 +504,7 @@
           </paragraph>
           <paragraph label="1026-43-c-5" marker="(5)">
             <title type="keyterm">Payment calculation</title>
-            <content>—</content>
+            <content/>
             <paragraph label="1026-43-c-5-i" marker="(i)">
               <title type="keyterm">General rule.</title>
               <content>Except as provided in paragraph <ref target="1026-43-c-5-ii" reftype="internal">(c)(5)(ii)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> must make the consideration required under paragraph <ref target="1026-43-c-2-iii" reftype="internal">(c)(2)(iii)</ref> of this section using:</content>
@@ -557,7 +557,7 @@
           </paragraph>
           <paragraph label="1026-43-c-7" marker="(7)">
             <title type="keyterm">Monthly debt-to-income ratio or residual income</title>
-            <content>—</content>
+            <content/>
             <paragraph label="1026-43-c-7-i" marker="(i)">
               <title type="keyterm">Definitions.</title>
               <content>For purposes of this paragraph <ref target="1026-43-c-7" reftype="internal">(c)(7)</ref>, the following definitions apply:</content>
@@ -586,7 +586,7 @@
         </paragraph>
         <paragraph label="1026-43-d" marker="(d)">
           <title type="keyterm">Refinancing of non-standard mortgages</title>
-          <content>—</content>
+          <content/>
           <paragraph label="1026-43-d-1" marker="(1)">
             <title type="keyterm">Definitions.</title>
             <content>For purposes of this paragraph <ref target="1026-43-d" reftype="internal">(d)</ref>, the following definitions apply:</content>
@@ -810,7 +810,7 @@
           </paragraph>
           <paragraph label="1026-43-e-4" marker="(4)">
             <title type="keyterm">Qualified mortgage defined—special rules</title>
-            <content>—</content>
+            <content/>
             <paragraph label="1026-43-e-4-i" marker="(i)">
               <title type="keyterm">General.</title>
               <content>Notwithstanding paragraph <ref target="1026-43-e-2" reftype="internal">(e)(2)</ref> of this section, a qualified mortgage is a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> that satisfies:</content>

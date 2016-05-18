@@ -25,7 +25,8 @@
         <paragraph label="1026-35-c-2-viii-A" marker="(A)">
           <content>A <ref target="1026-35-c-1-vi" reftype="term">new manufactured home</ref> and land, but the exemption shall only apply to the requirement in paragraph <ref target="1026-35-c-3-i" reftype="internal">(c)(3)(i)</ref> of this section that the appraiser conduct a physical visit of the interior of the <ref target="1026-35-c-1-vi" reftype="term">new manufactured home</ref>; or</content></paragraph>
         <paragraph label="1026-35-c-2-viii-B" marker="(B)">
-          <content>A <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref> and not land, for which the <ref target="1026-2-a-17" reftype="term">creditor</ref> obtains one of the following and provides a copy to the <ref target="1026-2-a-11" reftype="term">consumer</ref> no later than three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to <ref target="1026-2-a-13" reftype="term">consummation</ref> of the transaction&#8212;</content><paragraph label="1026-35-c-2-viii-B-1" marker="(1)">
+          <content>A <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref> and not land, for which the <ref target="1026-2-a-17" reftype="term">creditor</ref> obtains one of the following and provides a copy to the <ref target="1026-2-a-11" reftype="term">consumer</ref> no later than three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to <ref target="1026-2-a-13" reftype="term">consummation</ref> of the transaction&#8212;</content>
+          <paragraph label="1026-35-c-2-viii-B-1" marker="(1)">
             <content>For a <ref target="1026-35-c-1-vi" reftype="term">new manufactured home</ref>, the manufacturer&#8217;s invoice for the <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref> securing the transaction, provided that the date of manufacture is no earlier than 18 months prior to the <ref target="1026-2-a-17" reftype="term">creditor</ref>&#8217;s receipt of the <ref target="1026-2-a-11" reftype="term">consumer</ref>&#8217;s application for <ref target="1026-2-a-14" reftype="term">credit</ref>;</content></paragraph>
           <paragraph label="1026-35-c-2-viii-B-2" marker="(2)">
             <content>A cost estimate of the value of the <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref> securing the transaction obtained from an independent cost service provider; or</content></paragraph>
@@ -37,8 +38,8 @@
     <!-- Interps: 35(c)(2)(viii)(A), (B), (B)(2), (C)(3) -->
     <change operation="added" label="1026-35-c-2-viii-Interp" parent="1026-35-c-2-Interp">
       <interpParagraph label="1026-35-c-2-viii-Interp" marker="">
-	<title/>
-	<content/>
+        <title/>
+        <content/>
         <interpParagraph label="1026-35-c-2-viii-A-Interp" marker="" target="1026-35-c-2-viii-A">
           <title type="keyterm">Paragraph 35(c)(2)(viii)(A)</title>
           <content/>

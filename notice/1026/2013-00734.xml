@@ -158,7 +158,8 @@
     <change operation="modified" label="1026-35-b-Interp-1">
       <interpParagraph label="1026-35-b-Interp-1" marker="1.">
         <title type="keyterm">Principal dwelling.</title>
-        <content>Section 1026.35(b)(1) applies to principal <ref target="1026-2-a-19" reftype="term">dwellings</ref>including structures that are classified as personal property under <ref target="1026-2-a-26" reftype="term">State</ref> law. For example, an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> must be established on a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a manufactured home, boat, or trailer used as the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>. See the commentary under §§ 1026.2(a)(19) and(24), 1026.15, and 1026.23. Section 1026.35(b)(1) also applies to a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a condominium if it is in fact used as the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>. But see § 1026.35(b)(2) for exemptions from the escrow requirement that may apply to such transactions.</content></interpParagraph>
+        <content>Section <ref target="1026-35-b-1" reftype="internal">1026.35(b)(1)</ref> applies to principal <ref target="1026-2-a-19" reftype="term">dwellings</ref>, including structures that are classified as personal property under <ref target="1026-2-a-26" reftype="term">State</ref> law. For example, an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> must be established on a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a manufactured home, boat, or trailer used as the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>. See the commentary under §§ <ref target="1026-2-a" reftype="internal">1026.2(a)</ref>, <ref target="1026-19" reftype="internal">(19)</ref> and <ref target="1026-24" reftype="internal">(24)</ref>, <ref target="1026-15" reftype="internal">1026.15</ref>, and <ref target="1026-23" reftype="internal">1026.23</ref>. Section <ref target="1026-35-b-1" reftype="internal">1026.35(b)(1)</ref> also applies to a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a condominium if it is in fact used as the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>. But see § <ref target="1026-35-b-2" reftype="internal">1026.35(b)(2)</ref> for exemptions from the escrow requirement that may apply to such transactions.</content>
+      </interpParagraph>
     </change>
     <change operation="modified" label="1026-35-Interp">
       <interpSection label="1026-35-Interp" sectionNum="35">
@@ -481,8 +482,8 @@
       <section label="1026-19" sectionNum="19">
         <subject>§ 1026.19 Certain mortgage and variable-rate transactions.</subject>
         <paragraph label="1026-19-a" marker="(a)">
-          <title type="keyterm">Mortgage transactions subject to RESPA</title>
-          <content>—</content>
+          <title type="keyterm">Mortgage transactions subject to RESPA—</title>
+          <content/>
           <paragraph label="1026-19-a-1" marker="(1)">
             <content/>
             <paragraph label="1026-19-a-1-i" marker="(i)">
@@ -528,7 +529,8 @@
         </paragraph>
         <paragraph label="1026-19-b" marker="(b)">
           <title type="keyterm">Certain variable-rate transactions.</title>
-          <content>Except as provided in paragraph <ref target="1026-19-d" reftype="internal">(d)</ref> of this section, if the annual percentage rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> in a transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with a term greater than one year, the following disclosures must be provided at the time an application form is provided or before the <ref target="1026-2-a-11" reftype="term">consumer</ref> pays a non-refundable fee, whichever is earlier (except that the disclosures may be delivered or placed in the mail not later than three <ref target="1026-2-a-6" reftype="term">business days</ref> following receipt of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s application when the application reaches the <ref target="1026-2-a-17" reftype="term">creditor</ref> by telephone, or through an intermediary agent or broker):</content><paragraph label="1026-19-b-1" marker="(1)">
+          <content>Except as provided in paragraph <ref target="1026-19-d" reftype="internal">(d)</ref> of this section, if the annual percentage rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> in a transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> with a term greater than one year, the following disclosures must be provided at the time an application form is provided or before the <ref target="1026-2-a-11" reftype="term">consumer</ref> pays a non-refundable fee, whichever is earlier (except that the disclosures may be delivered or placed in the mail not later than three <ref target="1026-2-a-6" reftype="term">business days</ref> following receipt of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s application when the application reaches the <ref target="1026-2-a-17" reftype="term">creditor</ref> by telephone, or through an intermediary agent or broker):</content>
+          <paragraph label="1026-19-b-1" marker="(1)">
             <content>The booklet titled <ref target="1026-2-a-11" reftype="term">Consumer</ref> Handbook on Adjustable Rate Mortgages, or a suitable substitute.</content>
           </paragraph>
           <paragraph label="1026-19-b-2" marker="(2)">
@@ -796,8 +798,7 @@
     <change operation="modified" label="1026-35-b-1">
       <paragraph label="1026-35-b-1" marker="(1)">
         <title type="keyterm">Repayment ability.</title>
-        <content>Requirement to escrow for property taxes and insurance. Except as provided in paragraph <ref target="1026-35-b-2" reftype="internal">(b)(2)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph <ref target="1026-35-b" reftype="internal">(b)</ref>, the term “<ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>” has the same meaning as under Regulation X (24 CFR 3500.17(b)), as amended.
-        </content>
+        <content>Requirement to escrow for property taxes and insurance. Except as provided in paragraph <ref target="1026-35-b-2" reftype="internal">(b)(2)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> secured by a first lien on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> unless an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> is established before <ref target="1026-2-a-13" reftype="term">consummation</ref> for payment of property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss. For purposes of this paragraph <ref target="1026-35-b" reftype="internal">(b)</ref>, the term “<ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>” has the same meaning as under Regulation X (<ref target="CFR:24-3500-17" reftype="external">24 CFR 3500.17</ref>(b)), as amended.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-35-b-3">
@@ -806,11 +807,13 @@
         <content>Cancellation—</content>
         <paragraph label="1026-35-b-3-i" marker="(i)">
           <title type="keyterm">Failure to escrow for property taxes and insurance.</title>
-          <content>General. Except as provided in paragraph (b)(3)(ii) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or s<ref target="1026-35-b-3-ii" reftype="internal">ervicer ma</ref>y cancel an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> required in paragraph (b)(1) of this section only upon the earlier of:</content><paragraph label="1026-35-b-3-i-A" marker="(A)">
+          <content>General. Except as provided in paragraph <ref target="1026-35-b-3-ii" reftype="internal">(b)(3)(ii)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or s<ref target="1026-35-b-3-ii" reftype="internal">ervicer ma</ref>y cancel an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> required in paragraph <ref target="1026-35-b-1" reftype="internal">(b)(1)</ref> of this section only upon the earlier of:</content>
+          <paragraph label="1026-35-b-3-i-A" marker="(A)">
             <content>Termination of the underlying debt obligation; or</content>
           </paragraph>
           <paragraph label="1026-35-b-3-i-B" marker="(B)">
-            <content>Receipt no earlier than five years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s request to cancel the <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>.</content></paragraph>
+            <content>Receipt no earlier than five years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s request to cancel the <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>.</content>
+          </paragraph>
         </paragraph>
         <paragraph label="1026-35-b-3-ii" marker="(ii)">
           <title type="keyterm">Exemptions for loans secured by shares in a cooperative and for certain condominium units.</title>
@@ -825,8 +828,8 @@
     </change>
     <change operation="modified" label="1026-51-a">
       <paragraph label="1026-51-a" marker="(a)">
-        <title type="keyterm">General rule</title>
-        <content>—</content>
+        <title type="keyterm">General rule—</title>
+        <content/>
         <paragraph label="1026-51-a-1" marker="(1)">
           <content/>
           <paragraph label="1026-51-a-1-i" marker="(i)">
@@ -839,8 +842,8 @@
           </paragraph>
         </paragraph>
         <paragraph label="1026-51-a-2" marker="(2)">
-          <title type="keyterm">Minimum periodic payments</title>
-          <content>—</content>
+          <title type="keyterm">Minimum periodic payments—</title>
+          <content/>
           <paragraph label="1026-51-a-2-i" marker="(i)">
             <title type="keyterm">Reasonable method.</title>
             <content>For purposes of paragraph <ref target="1026-51-a-1" reftype="internal">(a)(1)</ref> of this section, a <ref target="1026-2-a-7" reftype="term">card issuer</ref> must use a reasonable method for estimating the minimum periodic payments the <ref target="1026-2-a-11" reftype="term">consumer</ref> would be required to pay under the terms of the account.</content>
