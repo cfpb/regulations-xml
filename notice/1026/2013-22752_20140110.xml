@@ -122,7 +122,7 @@
 
     <!-- Section 1026.35 is amended by revising paragraphs (b)(2)(i)(D) -->
     <!-- Revisions previously effective: (b)(2)(iii)(A), and (b)(2)(iii)(D)(1) -->
-    <change operation="modified" target="1026-35-b-2-i-D" subpath="content">
+    <change operation="modified" label="1026-35-b-2-i-D" subpath="content">
       <content>A <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33" reftype="internal">1026.33</ref>.</content>
     </change>
 
