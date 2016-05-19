@@ -21,12 +21,14 @@
 
     <!-- This final rule is effective January 10, 2014, except for the amendments to Sec. Sec. 1026.35(b)(2)(iii), 1026.36(a), (b), and (j), and commentary to Sec. Sec. 1026.25(c)(2), 1026.35, and 1026.36(a), (b), (d), and (f) in Supp. I to part 1026, which are effective January 1, 2014, and the amendments to commentary to Sec. 1002.14(b)(3) in Supplement I to part 1002, which are effective January 18, 2014. -->
 
+    <!-- Section 1026.23 is amended by revising paragraph (a)(3)(ii) -->
     <change operation="modified" label="1026-23-a-3-ii">
       <paragraph label="1026-23-a-3-ii" marker="(ii)">
         <content>For purposes of this paragraph <ref target="1026-23-a-3" reftype="internal">(a)(3)</ref>, the term &#8220;material disclosures&#8221; means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in &#167;&#167; <ref target="1026-32-c" reftype="internal">1026.32(c)</ref> and <ref target="1026-32-d" reftype="internal">(d)</ref> and <ref target="1026-35-b-2" reftype="internal">1026.35(e)(2)</ref>.</content>
       </paragraph>
     </change>
 
+    <!-- Section 1026.31 is amended by revising paragraphs (g), (h)(1)(iii)(A), and (h)(2)(iii)(A) -->
     <change operation="modified" label="1026-31-g">
       <paragraph label="1026-31-g" marker="(g)">
         <title type="keyterm">Accuracy of annual percentage rate.</title>
@@ -118,6 +120,13 @@
         <content>A <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to &#167; 1026.33.</content></paragraph>
     </change>
 
+    <!-- Section 1026.35 is amended by revising paragraphs (b)(2)(i)(D) -->
+    <!-- Revisions previously effective: (b)(2)(iii)(A), and (b)(2)(iii)(D)(1) -->
+    <change operation="modified" target="1026-35-b-2-i-D" subpath="content">
+      <content>A <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33" reftype="internal">1026.33</ref>.</content>
+    </change>
+
+    <!-- Section 1026.36 is amended by revising paragraphs (f)(3)(i) introductory text, (f)(3)(ii), and (i) -->
     <change operation="modified" label="1026-36-f-3-i" subpath="content">
       <content>Obtain for any individual whom the loan originator organization hired on or after January 1, 2014 (or whom the loan originator organization hired before this date but for whom there were no applicable statutory or regulatory background standards in effect at the time of hire or before January 1, 2014, used to screen the individual) and for any individual regardless of when hired who, based on reliable information known to the loan originator organization, likely does not meet the standards under &#167; 1026.36(f)(3)(ii), before the individual acts as a loan originator in a consumer credit transaction secured by a dwelling:</content>
     </change>
@@ -148,6 +157,7 @@
       </paragraph>
     </change>
 
+    <!-- Section 1026.43 is amended by revising paragraphs (a)(2), (e)(4)(ii) and (e)(4)(ii)(C) -->
     <change operation="modified" label="1026-43-a-2">
       <paragraph label="1026-43-a-2" marker="(2)">
         <content>A mortgage transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan, as defined in <ref target="USC:11-101" reftype="external">11 U.S.C. 101</ref>(53(D)); or</content>
@@ -365,7 +375,7 @@
       </interpParagraph>
     </change>
     
-    <!--b. Under Section 1026.32&#8212;Requirements for High-Cost Mortgages:
+    <!--b. Under Section 1026.32-Requirements for High-Cost Mortgages:
         i. Under Paragraph 32(b)(1), as amended January 30, 2013, at 78 FR 6408, paragraph 2 is added.-->
 
     <change operation="added" label="1026-32-b-1-i-Interp-2" parent="1026-32-b-1-i-Interp" after="1026-32-b-1-i-Interp-1">
