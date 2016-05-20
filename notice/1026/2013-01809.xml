@@ -147,7 +147,7 @@
             <content>Manufactured home has the same meaning as in <ref target="CFR:24-3280-2" reftype="external">24 CFR 3280.2</ref>.</content>
           </paragraph>
           <paragraph label="1026-35-c-1-iii" marker="(iii)">
-            <content>National Registry means the database of information about <ref target="1026-2-a-26" reftype="term">State</ref> certified and licensed appraisers maintained by the Appraisal Subcommittee of the Federal Financial Institutions Examination Council.</content>
+            <content><def term="national registry">National Registry</def> means the database of information about <ref target="1026-2-a-26" reftype="term">State</ref> certified and licensed appraisers maintained by the Appraisal Subcommittee of the Federal Financial Institutions Examination Council.</content>
           </paragraph>
           <paragraph label="1026-35-c-1-iv" marker="(iv)">
             <content><ref target="1026-42-g-3" reftype="term">State agency</ref> means a “<ref target="1026-2-a-26" reftype="term">State</ref> appraiser certifying and licensing agency” recognized in accordance with section 1118(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (<ref target="USC:12-3347" reftype="external">12 U.S.C. 3347</ref>(b)) and any implementing regulations.</content></paragraph>
@@ -422,7 +422,7 @@
             </interpParagraph>
           </interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1026-35-c-2-Interp">
+        <interpParagraph label="1026-35-c-2-Interp" target="1026-35-c-2">
           <title>35(c)(2) Exemptions</title>
           <content/>
           <interpParagraph label="1026-35-c-2-ii-Interp" target="1026-35-c-2-ii">
