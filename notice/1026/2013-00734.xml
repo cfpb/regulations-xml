@@ -381,7 +381,7 @@
                 <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may make a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> that will be transferred or sold to a purchaser pursuant to an <ref target="1026-58-b-1" reftype="term">agreement</ref> that has been entered into at or before the time the loan is consummated. Such an <ref target="1026-58-b-1" reftype="term">agreement</ref> is sometimes known as a “forward commitment.” Even if a <ref target="1026-2-a-17" reftype="term">creditor</ref> is otherwise eligible for the exemption in § <ref target="1026-35-b-2-iii" reftype="internal">1026.35(b)(2)(iii)</ref>, a first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> that will be acquired by a purchaser pursuant to a forward commitment is subject to the requirement to establish an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> under § <ref target="1026-35-b-1" reftype="internal">1026.35(b)(1)</ref> unless the purchaser is also eligible for the exemption in § <ref target="1026-35-b-2-iii" reftype="internal">1026.35(b)(2)(iii)</ref> or the transaction is otherwise exempt under § <ref target="1026-35-b-2" reftype="internal">1026.35(b)(2)</ref>. The escrow requirement applies to any such transaction, whether the forward commitment provides for the purchase and sale of the specific transaction or for the purchase and sale of mortgage obligations with certain prescribed criteria that the transaction meets. For example, assume a <ref target="1026-2-a-17" reftype="term">creditor</ref> that qualifies for the exemption in § <ref target="1026-35-b-2-iii" reftype="internal">1026.35(b)(2)(iii)</ref> makes a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> that meets the purchase criteria of an investor with which the <ref target="1026-2-a-17" reftype="term">creditor</ref> has an <ref target="1026-58-b-1" reftype="term">agreement</ref> to sell such mortgage obligations after <ref target="1026-2-a-13" reftype="term">consummation</ref>. If the investor is ineligible for the exemption in § <ref target="1026-35-b-2-iii" reftype="internal">1026.35(b)(2)(iii)</ref>, an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> must be established for the transaction before <ref target="1026-2-a-13" reftype="term">consummation</ref> in accordance with § <ref target="1026-35-b-1" reftype="internal">1026.35(b)(1)</ref> unless the transaction is otherwise exempt (such as a reverse mortgage or home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref>).</content></interpParagraph>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1026-35-b-3-Interp">
+          <interpParagraph label="1026-35-b-3-Interp" target="1026-35-b-3">
             <title>35(b)(3) Cancellation.</title>
             <content/>
             <interpParagraph label="1026-35-b-3-Interp-1" marker="1.">
@@ -403,7 +403,7 @@
     </change>
     <change operation="deleted" label="1026-35-b-3-i-Interp"/>
     <change operation="added" label="1026-35-b-1-Interp">
-      <interpParagraph label="1026-35-b-1-Interp">
+      <interpParagraph label="1026-35-b-1-Interp" target="1026-35-b-1">
         <title>35(b)(1) Requirement to escrow for property taxes and insurance.</title>
         <content/>
         <interpParagraph label="1026-35-b-1-Interp-1" marker="1.">

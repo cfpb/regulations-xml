@@ -2341,7 +2341,7 @@
         <interpParagraph label="1026-32-b-Interp">
           <title>32(b) Definitions</title>
           <content/>
-          <interpParagraph label="1026-32-b-1-Interp">
+          <interpParagraph label="1026-32-b-1-Interp" target="1026-32-b-1">
             <title>Paragraph 32(b)(1).</title>
             <content/>
             <interpParagraph label="1026-32-b-1-Interp-1" marker="1.">
@@ -2475,7 +2475,7 @@
                   <content>Assume that, according to a <ref target="1026-2-a-17" reftype="term">creditor</ref>'s <ref target="1026-36-a-3" reftype="term">compensation</ref> policies, the <ref target="1026-2-a-17" reftype="term">creditor</ref> pays its loan officers a base salary of $500 per week and awards its loan officers a bonus of $250 for each consummated transaction. For each transaction, none of the $500 base salary is counted in <ref target="1026-32-b-1" reftype="term">points and fees</ref> as <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref> under § <ref target="1026-32-b-1-ii" reftype="internal">1026.32(b)(1)(ii)</ref> because no precise portion of the base salary can be attributed to a particular transaction, but the $250 bonus is counted as <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref> that is included in <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
               </interpParagraph>
             </interpParagraph>
-            <interpParagraph label="1026-32-b-1-iii-Interp">
+            <interpParagraph label="1026-32-b-1-iii-Interp" target="1026-32-b-1-iii">
               <title>Paragraph 32(b)(1)(iii).</title>
               <content/>
               <interpParagraph label="1026-32-b-1-iii-Interp-1" marker="1.">
