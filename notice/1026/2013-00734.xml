@@ -489,8 +489,8 @@
     </change>
     <change operation="modified" label="1026-35-a-2-Interp-2">
       <interpParagraph label="1026-35-a-2-Interp-2" marker="2.">
-        <title type="keyterm">Comparable transaction.</title>
-        <content><ref target="1026-2-a-5" reftype="term">Bureau</ref> table. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> publishes on the Internet, in table form, <ref target="1026-35-a-2" reftype="term">average prime offer rates</ref> for a wide variety of transaction types. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> calculates an annual percentage rate, consistent with Regulation Z (see § 1026.22 and appendix J), for each transaction type for which pricing terms are available from a survey. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> estimates annual percentage rates for other types of transactions for which direct survey data are not available based on the loan pricing terms available in the survey and other information. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> publishes on the Internet the methodology it uses to arrive at these estimates.</content>
+        <title type="keyterm">Bureau table.</title>
+        <content>The <ref target="1026-2-a-5" reftype="term">Bureau</ref> publishes on the Internet, in table form, <ref target="1026-35-a-2" reftype="term">average prime offer rates</ref> for a wide variety of transaction types. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> calculates an annual percentage rate, consistent with Regulation Z (see § 1026.22 and appendix J), for each transaction type for which pricing terms are available from a survey. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> estimates annual percentage rates for other types of transactions for which direct survey data are not available based on the loan pricing terms available in the survey and other information. The <ref target="1026-2-a-5" reftype="term">Bureau</ref> publishes on the Internet the methodology it uses to arrive at these estimates.</content>
       </interpParagraph>
     </change>
     <change operation="deleted" label="1026-35-a-2-Interp-4"/>

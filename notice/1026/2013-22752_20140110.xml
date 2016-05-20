@@ -423,12 +423,13 @@
 
     <!-- iii. Paragraph 32(b)(2) and paragraph 1 are added.-->
 
-    <change operation="added" label="1026-32-b-2-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-Interp" target="1026-32-b-2">
-        <title>Paragraph 32(b)(2).</title>
-        <content/>
+    <change operation="modified" label="1026-32-b-2-Interp" subpath="title">
+      <title>Paragraph 32(b)(2).</title>
+    </change>
+
+    <change operation="added" label="1026-32-b-2-Interp-1" parent="1026-32-b-2-Interp">
         <interpParagraph label="1026-32-b-2-Interp-1" marker="1.">
-          <content>See comment 32(b)(1)-2 for guidance concerning the inclusion in <ref target="1026-32-b-1" reftype="term">points and fees</ref> of charges paid by parties other than the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content></interpParagraph>
+          <content>See comment 32(b)(1)-2 for guidance concerning the inclusion in <ref target="1026-32-b-1" reftype="term">points and fees</ref> of charges paid by parties other than the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content>
       </interpParagraph>
     </change>
 
