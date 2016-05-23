@@ -77,7 +77,7 @@
     <change operation="modified" label="1026-Q">
       <appendix appendixLetter="Q" label="1026-Q">
         <appendixTitle>Appendix Q to Part 1026&#8212;Standards for Determining Monthly Debt and Income</appendixTitle>
-        <appendixSection appendixSecNum="" label="1026-Q-p1">
+        <appendixSection appendixSecNum="0" label="1026-Q-p1">
           <subject/>
           <paragraph label="1026-Q-p1-p1" marker="">
             <content>Section <ref target="1026-43-e-2-vi" reftype="internal">1026.43(e)(2)(vi)</ref> provides that, to satisfy the requirements for a qualified mortgage under &#167; <ref target="1026-43-e-2" reftype="internal">1026.43(e)(2)</ref>, the ratio of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s total monthly debt payments to total monthly income at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref> cannot exceed 43 percent. Section <ref target="1026-43-e-2-vi-A" reftype="internal">1026.43(e)(2)(vi)(A)</ref> requires the <ref target="1026-2-a-17" reftype="term">creditor</ref> to calculate the ratio of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s total monthly debt payments to total monthly income using the following standards, with additional requirements for calculating debt and income appearing in &#167; <ref target="1026-43-e-2-vi-B" reftype="internal">1026.43(e)(2)(vi)(B)</ref>. Where guidance issued by the U.S. Department of Housing and Urban Development, the U.S. Department of Veterans Affairs, the U.S. Department of Agriculture, or the Rural Housing Service, or issued by the Federal National Mortgage Association (Fannie Mae) or the Federal Home Loan Mortgage Corporation (Freddie Mac) while operating under the conservatorship or receivership of the Federal Housing Finance Agency, or issued by a limited-life regulatory entity succeeding the charter of either Fannie Mae or Freddie Mac (collectively, Agency or GSE guidance) is in accordance with appendix Q, <ref target="1026-2-a-17" reftype="term">creditors</ref> may look to that guidance as a helpful resource in applying appendix Q. Moreover, when the following standards do not resolve how a specific kind of debt or income should be treated, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may either (1) exclude the income or include the debt, or (2) rely on Agency or GSE guidance to resolve the issue. The following standards resolve the appropriate treatment of a specific kind of debt or income where the standards provide a discernible answer to the question of how to treat the debt or income. However, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not rely on Agency or GSE guidance to reach a resolution contrary to that provided by the following standards, even if such Agency or GSE guidance specifically addresses the particular type of debt or income but the following standards provide more generalized guidance.</content></paragraph>
@@ -138,7 +138,7 @@
             </paragraph>
             <paragraph label="1026-Q-h1-A-4" marker="4.">
               <title type="keyterm">Consumers Returning to Work After an Extended Absence.</title>
-              <content><ref target="1026-2-a-11" reftype="term">Consumers</ref> A <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income may be considered effective and stable when recently returning to work after an extended absence if he/she:</content>
+              <content>A <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income may be considered effective and stable when recently returning to work after an extended absence if he/she:</content>
               <paragraph label="1026-Q-h1-A-4-a" marker="a.">
                 <content>Is employed in the current job for six months or longer; and</content>
               </paragraph>
@@ -437,7 +437,7 @@
             </paragraph>
             <paragraph label="1026-Q-h1-D-5" marker="5.">
               <title type="keyterm">Establishing a Self-Employed Consumer's Earnings Trend.</title>
-              <content><ref target="1026-2-a-11" reftype="term">Consumer</ref>'s Earnings Trend.</content>
+              <content/>
               <paragraph label="1026-Q-h1-D-5-a" marker="a.">
                 <content>When qualifying income, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must establish the <ref target="1026-2-a-11" reftype="term">consumer</ref>&#8217;s earnings trend from the previous two years using the <ref target="1026-2-a-11" reftype="term">consumer</ref>&#8217;s tax returns.</content>
               </paragraph>
@@ -764,7 +764,7 @@
             </paragraph>
             <paragraph label="1026-Q-h2-C-4" marker="4.">
               <title type="keyterm">Mortgage Credit Certificates.</title>
-              <content><ref target="1026-2-a-14" reftype="term">Credit</ref> Certificates.</content>
+              <content/>
               <paragraph label="1026-Q-h2-C-4-a" marker="a.">
                 <content>If a government entity subsidizes the mortgage payments either through direct payments or tax rebates, these payments may be considered as acceptable income.</content>
               </paragraph>

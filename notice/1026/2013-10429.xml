@@ -174,7 +174,7 @@
     <change operation="modified" label="1026-51-a">
       <paragraph label="1026-51-a" marker="(a)">
         <title type="keyterm">General rule</title>
-        <content>—</content>
+        <content/>
         <paragraph label="1026-51-a-1" marker="(1)">
           <content/>
           <paragraph label="1026-51-a-1-i" marker="(i)">
@@ -188,7 +188,7 @@
         </paragraph>
         <paragraph label="1026-51-a-2" marker="(2)">
           <title type="keyterm">Minimum periodic payments</title>
-          <content>—</content>
+          <content/>
           <paragraph label="1026-51-a-2-i" marker="(i)">
             <title type="keyterm">Reasonable method.</title>
             <content>For purposes of paragraph <ref target="1026-51-a-1" reftype="internal">(a)(1)</ref> of this section, a <ref target="1026-2-a-7" reftype="term">card issuer</ref> must use a reasonable method for estimating the minimum periodic payments the <ref target="1026-2-a-11" reftype="term">consumer</ref> would be required to pay under the terms of the account.</content>
@@ -212,7 +212,7 @@
     <change operation="modified" label="1026-51-b">
       <paragraph label="1026-51-b" marker="(b)">
         <title type="keyterm">Rules affecting young consumers</title>
-        <content>—</content>
+        <content/>
         <paragraph label="1026-51-b-1" marker="(1)">
           <title type="keyterm">Applications from young consumers.</title>
           <content>A <ref target="1026-2-a-7" reftype="term">card issuer</ref> may not open a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> account under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan for a <ref target="1026-2-a-11" reftype="term">consumer</ref> less than 21 years old, unless the <ref target="1026-2-a-11" reftype="term">consumer</ref> has submitted a written application and the <ref target="1026-2-a-7" reftype="term">card issuer</ref> has:</content>
@@ -297,7 +297,8 @@
           <content>Information provided by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the account, including information provided by the <ref target="1026-2-a-11" reftype="term">consumer</ref> through the application process. For example, <ref target="1026-2-a-7" reftype="term">card issuers</ref> may rely without further inquiry on information provided by applicants in response to a request for “salary,” “income,” “assets,” “available income,” “accessible income,” or other language requesting that the applicant provide information regarding current or reasonably expected income or assets or any income or assets to which the applicant has a reasonable expectation of access. However, <ref target="1026-2-a-7" reftype="term">card issuers</ref> may not rely solely on information provided in response to a request for “household income.” In that case, the <ref target="1026-2-a-7" reftype="term">card issuer</ref> would need to obtain additional information about an applicant's current or reasonably expected income, including income and assets to which the applicant has a reasonable expectation of access (such as by contacting the applicant). See comments 51(a)(1)-4, -5, and -6 for additional guidance on determining the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current or reasonably expected income under § <ref target="1026-51-a-1" reftype="internal">1026.51(a)(1)</ref>. See comment <ref target="1026-51-a-1-i-Interp-9" reftype="internal">51(a)(1)-9</ref> for guidance regarding the use of a single, common application form or process for all <ref target="1026-2-a-15-i" reftype="term">credit card</ref> applicants, regardless of age.</content>
         </interpParagraph>
         <interpParagraph label="1026-51-a-1-i-Interp-5-ii" marker="ii.">
-          <content>Information provided by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with any other financial relationship the <ref target="1026-2-a-7" reftype="term">card issuer</ref> or its <ref target="1026-32-b-2" reftype="term">affiliates</ref> have with the <ref target="1026-2-a-11" reftype="term">consumer</ref> (subject to any applicable information-sharing rules).</content></interpParagraph>
+          <content>Information provided by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with any other financial relationship the <ref target="1026-2-a-7" reftype="term">card issuer</ref> or its <ref target="1026-32-b-2" reftype="term">affiliates</ref> have with the <ref target="1026-2-a-11" reftype="term">consumer</ref> (subject to any applicable information-sharing rules).</content>
+        </interpParagraph>
         <interpParagraph label="1026-51-a-1-i-Interp-5-iii" marker="iii.">
           <content>Information obtained through third parties (subject to any applicable information-sharing rules).</content>
         </interpParagraph>
@@ -360,7 +361,8 @@
     <change operation="deleted" label="1026-51-b-1-Interp-2"/>
     <change operation="added" label="1026-51-a-1-i-Interp-5-ii">
       <interpParagraph label="1026-51-a-1-i-Interp-5-ii" marker="ii.">
-        <content>Information provided by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with any other financial relationship the <ref target="1026-2-a-7" reftype="term">card issuer</ref> or its <ref target="1026-32-b-2" reftype="term">affiliates</ref> have with the <ref target="1026-2-a-11" reftype="term">consumer</ref> (subject to any applicable information-sharing rules).</content></interpParagraph>
+        <content>Information provided by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with any other financial relationship the <ref target="1026-2-a-7" reftype="term">card issuer</ref> or its <ref target="1026-32-b-2" reftype="term">affiliates</ref> have with the <ref target="1026-2-a-11" reftype="term">consumer</ref> (subject to any applicable information-sharing rules).</content>
+      </interpParagraph>
     </change>
     <change operation="modified" label="1026-51-b-1-ii-B">
       <paragraph label="1026-51-b-1-ii-B" marker="(B)">

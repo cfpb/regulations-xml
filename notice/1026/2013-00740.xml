@@ -18,10 +18,12 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/01/31/2013-00740/high-cost-mortgage-and-homeownership-counseling-amendments-to-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-00736" rightDocumentNumber="2013-00740">
+
     <!-- Section 1026.1 is amended by revising paragraph (d)(5) -->
     <change operation="modified" label="1026-1-d-5">
       <paragraph label="1026-1-d-5" marker="(5)">
-        <content>Subpart E contains special rules for mortgage transactions. Section <ref target="1026-32" reftype="internal">1026.32</ref> requires certain disclosures and provides limitations for closed-end loans that have rates or fees above specified amounts. Section <ref target="1026-33" reftype="internal">1026.33</ref> requires special disclosures, including the total annual loan cost rate, for <ref target="1026-33-a" reftype="term">reverse mortgage transactions</ref>. Section <ref target="1026-34" reftype="internal">1026.34</ref> prohibits specific <ref target="1026-2-a-1" reftype="term">acts</ref> and practices in connection with closed-end mortgage transactions that are subject to § <ref target="1026-32" reftype="internal">1026.32</ref>. Section <ref target="1026-35" reftype="internal">1026.35</ref> prohibits specific <ref target="1026-2-a-1" reftype="term">acts</ref> and practices in connection with closed-end <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref>, as defined in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Section <ref target="1026-36" reftype="internal">1026.36</ref> prohibits specific <ref target="1026-2-a-1" reftype="term">acts</ref> and practices in connection with an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>.</content></paragraph>
+        <content>Subpart E contains special rules for mortgage transactions. Section <ref target="1026-32" reftype="internal">1026.32</ref> requires certain disclosures and provides limitations for <ref target="1026-2-a-14" reftype="term">credit</ref> transactions and open-end <ref target="1026-2-a-14" reftype="term">credit</ref> plans that have rates or fees above specified amounts or certain prepayment penalties. Section <ref target="1026-33" reftype="internal">1026.33</ref> requires special disclosures, including the total annual loan cost rate, for <ref target="1026-33-a" reftype="term">reverse mortgage transactions</ref>. Section <ref target="1026-34" reftype="internal">1026.34</ref> prohibits specific acts and practices in connection with high-cost mortgages, as defined in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>. Section <ref target="1026-35" reftype="internal">1026.35</ref> prohibits specific acts and practices in connection with closed-end <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref>, as defined in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Section <ref target="1026-36" reftype="internal">1026.36</ref> prohibits specific acts and practices in connection with an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>.</content>
+      </paragraph>
     </change>
 
     <!-- Section 1026.31 is amended by revising paragraph (c)(1) -->
@@ -91,11 +93,11 @@
         <content/>
         <paragraph label="1026-32-a-1" marker="(1)">
           <title/>
-          <content>The requirements of this section apply to a high-cost mortgage, which is any <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction that is secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than as provided in paragraph (a)(2) of this section, and in which:</content><paragraph label="1026-32-a-1-i" marker="(i)">
+          <content>The requirements of this section apply to a high-cost mortgage, which is any <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction that is secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than as provided in paragraph <ref target="1026-32-a-2" reftype="internal">(a)(2)</ref> of this section, and in which:</content><paragraph label="1026-32-a-1-i" marker="(i)">
             <title/>
-            <content>The annual percentage rate applicable to the transaction, as determined in accordance with paragraph (a)(3) of this section, will exceed the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref>, as defined in § <ref target="1026-35-a-2" reftype="internal">1026.35(a)(2)</ref>, for a comparable transaction by more than:</content><paragraph label="1026-32-a-1-i-A" marker="(A)">
+            <content>The annual percentage rate applicable to the transaction, as determined in accordance with paragraph <ref target="1026-32-a-3" reftype="internal">(a)(3)</ref> of this section, will exceed the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref>, as defined in § <ref target="1026-35-a-2" reftype="internal">1026.35(a)(2)</ref>, for a comparable transaction by more than:</content><paragraph label="1026-32-a-1-i-A" marker="(A)">
               <title/>
-              <content>6.5 percentage points for a first-lien transaction, other than as described in paragraph (a)(1)(i)(B) of this section;</content>
+              <content>6.5 percentage points for a first-lien transaction, other than as described in paragraph <ref target="1026-32-a-1-i-B" reftype="internal">(a)(1)(i)(B)</ref> of this section;</content>
             </paragraph>
             <paragraph label="1026-32-a-1-i-B" marker="(B)">
               <title/>
@@ -107,7 +109,7 @@
           </paragraph>
           <paragraph label="1026-32-a-1-ii" marker="(ii)">
             <title/>
-            <content>The transaction's total <ref target="1026-32-b-1" reftype="term">points and fees</ref>, as defined in paragraphs (b)(1) and (2) of this section, will exceed:</content><paragraph label="1026-32-a-1-ii-A" marker="(A)">
+            <content>The transaction's total <ref target="1026-32-b-1" reftype="term">points and fees</ref>, as defined in paragraphs <ref target="1026-32-b-1" reftype="internal">(b)(1)</ref> and <ref target="1026-32-b-2" reftype="internal">(2)</ref> of this section, will exceed:</content><paragraph label="1026-32-a-1-ii-A" marker="(A)">
               <title/>
               <content>5 percent of the total <ref target="1026-43-b-5" reftype="term">loan amount</ref> for a transaction with a <ref target="1026-43-b-5" reftype="term">loan amount</ref> of $20,000 or more; the $20,000 figure shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index that was reported on the preceding June 1; or</content></paragraph>
             <paragraph label="1026-32-a-1-ii-B" marker="(B)">
@@ -116,14 +118,14 @@
           </paragraph>
           <paragraph label="1026-32-a-1-iii" marker="(iii)">
             <title/>
-            <content>Under the terms of the loan contract or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> can charge a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in paragraph (b)(6) of this section, more than 36 months after <ref target="1026-2-a-13" reftype="term">consummation</ref> or account opening, or <ref target="1026-32-b-6-i" reftype="term">prepayment penalties</ref> that can exceed, in total, more than 2 percent of the amount prepaid.</content></paragraph>
+            <content>Under the terms of the loan contract or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> can charge a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in paragraph <ref target="1026-32-b-6" reftype="internal">(b)(6)</ref> of this section, more than 36 months after <ref target="1026-2-a-13" reftype="term">consummation</ref> or account opening, or <ref target="1026-32-b-6-i" reftype="term">prepayment penalties</ref> that can exceed, in total, more than 2 percent of the amount prepaid.</content></paragraph>
         </paragraph>
         <paragraph label="1026-32-a-2" marker="(2)">
           <title>Exemptions.</title>
           <content>This section does not apply to the following:</content>
           <paragraph label="1026-32-a-2-i" marker="(i)">
             <title/>
-            <content>A <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § 1026.33;</content></paragraph>
+            <content>A <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33" reftype="internal">1026.33</ref>;</content></paragraph>
           <paragraph label="1026-32-a-2-ii" marker="(ii)">
             <title/>
             <content>A transaction to finance the initial construction of a <ref target="1026-2-a-19" reftype="term">dwelling</ref>;</content></paragraph>
@@ -137,7 +139,7 @@
         </paragraph>
         <paragraph label="1026-32-a-3" marker="(3)">
           <title>Determination of annual percentage rate.</title>
-          <content>For purposes of paragraph (a)(1)(i) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall determine the annual percentage rate for a closed- or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> transaction based on the following:</content><paragraph label="1026-32-a-3-i" marker="(i)">
+          <content>For purposes of paragraph <ref target="1026-32-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall determine the annual percentage rate for a closed- or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> transaction based on the following:</content><paragraph label="1026-32-a-3-i" marker="(i)">
             <title/>
             <content>For a transaction in which the annual percentage rate will not vary during the term of the loan or <ref target="1026-2-a-14" reftype="term">credit</ref> plan, the interest rate in effect as of the date the interest rate for the transaction is set;</content></paragraph>
           <paragraph label="1026-32-a-3-ii" marker="(ii)">
@@ -154,7 +156,7 @@
     <change operation="modified" label="1026-32-b-2">
       <paragraph label="1026-32-b-2" marker="(2)">        
         <content>In connection with an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, <ref target="1026-32-b-1" reftype="term">points and fees</ref> means the following fees or charges that are known at or before account opening:</content><paragraph label="1026-32-b-2-i" marker="(i)">
-           <content>All items included in the finance charge under § <ref target="1026-4-a" reftype="internal">1026.4(a)</ref> and (b), except that the following items are excluded:</content><paragraph label="1026-32-b-2-i-A" marker="(A)">            
+           <content>All items included in the finance charge under § <ref target="1026-4-a" reftype="internal">1026.4(a)</ref> and <ref target="1026-4-a" reftype="internal">(b)</ref>, except that the following items are excluded:</content><paragraph label="1026-32-b-2-i-A" marker="(A)">            
             <content>Interest or the time-price differential;</content>
           </paragraph>
           <paragraph label="1026-32-b-2-i-B" marker="(B)">
@@ -313,7 +315,7 @@
         </paragraph>
         <paragraph label="1026-32-d-6" marker="(6)">
           <title type="keyterm">Prepayment penalties.</title>
-          <content>A <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in paragraph (b)(6) of this section.</content></paragraph>
+          <content>A <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in paragraph <ref target="1026-32-b-6" reftype="internal">(b)(6)</ref> of this section.</content></paragraph>
         <paragraph label="1026-32-d-7" marker="(7)">
           <content>[Reserved]</content>
         </paragraph>
@@ -347,7 +349,7 @@
           </paragraph>
           <paragraph label="1026-34-a-2" marker="(2)">
             <title type="keyterm">Notice to assignee.</title>
-            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may not sell or otherwise assign a high-cost mortgage without furnishing the following statement to the purchaser or assignee: “Notice: This is a mortgage subject to special rules under the Federal Truth in Lending Act. Purchasers or assignees of this mortgage could be liable for all claims anddefenses with respect to the mortgage that the <ref target="1026-2-a-11" reftype="term">consumer</ref> could assert against the <ref target="1026-2-a-17" reftype="term">creditor</ref>.”</content></paragraph>
+            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may not sell or otherwise assign a high-cost mortgage without furnishing the following statement to the purchaser or assignee: “Notice: This is a mortgage subject to special rules under the Federal Truth in Lending Act. Purchasers or assignees of this mortgage could be liable for all claims and defenses with respect to the mortgage that the <ref target="1026-2-a-11" reftype="term">consumer</ref> could assert against the <ref target="1026-2-a-17" reftype="term">creditor</ref>.”</content></paragraph>
           <paragraph label="1026-34-a-3" marker="(3)">
             <title type="keyterm">Refinancings within one-year period.</title>
             <content>Within one year of having extended a high-cost mortgage, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not refinance any high-cost mortgage to the same <ref target="1026-2-a-11" reftype="term">consumer</ref> into another high-cost mortgage, unless the refinancing is in the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest. An assignee holding or servicing a high-cost mortgage shall not, for the remainder of the one-year period following the date of origination of the <ref target="1026-2-a-14" reftype="term">credit</ref>, refinance any high-cost mortgage to the same <ref target="1026-2-a-11" reftype="term">consumer</ref> into another high-cost mortgage, unless the refinancing is in the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest. A <ref target="1026-2-a-17" reftype="term">creditor</ref> (or assignee) is prohibited from engaging in acts or practices to evade this provision, including a pattern or practice of arranging for the refinancing of its own loans by affiliated or unaffiliated <ref target="1026-2-a-17" reftype="term">creditors</ref>.</content></paragraph>
@@ -358,7 +360,7 @@
               <content>For purposes of this paragraph <ref target="1026-34-a-4" reftype="internal">(a)(4)</ref>, <ref target="1026-43-b-8" reftype="term">mortgage-related obligations</ref> are property taxes; premiums and similar charges identified in § <ref target="1026-4-b-5" reftype="internal">1026.4(b)(5)</ref>, (7), (8), and (10) that are required by the <ref target="1026-2-a-17" reftype="term">creditor</ref>; fees and special assessments imposed by a condominium, cooperative, or homeowners association; ground rent; and leasehold payments.</content></paragraph>
             <paragraph label="1026-34-a-4-ii" marker="(ii)">
               <title type="keyterm">Basis for determination of repayment ability.</title>
-              <content>Under this paragraph <ref target="1026-34-a-4" reftype="internal">(a)(4)</ref> a <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s repayment ability in connection with an open-end, high cost morgage as follows:</content>
+              <content>Under this paragraph <ref target="1026-34-a-4" reftype="internal">(a)(4)</ref> a <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s repayment ability in connection with an open-end, high cost mortgage as follows:</content>
               <paragraph label="1026-34-a-4-ii-A" marker="(A)">
                 <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must verify amounts of income or assets that it relies on to determine repayment ability, including expected income or assets, by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s Internal Revenue Service Form W-2, tax returns, payroll receipts, financial institution records, or other third-party documents that provide reasonably reliable evidence of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income or assets.</content>
               </paragraph>
@@ -416,7 +418,7 @@
             </paragraph>
             <paragraph label="1026-34-a-5-v" marker="(v)">
               <title>Counseling fees.</title>
-              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may pay the fees of a counselor or counseling organization for providing counseling required under this paragraph (a)(5) but may not condition the payment of such fees on the <ref target="1026-2-a-13" reftype="term">consummation</ref> or account-opening of a mortgage transaction. If the <ref target="1026-2-a-11" reftype="term">consumer</ref> withdraws the application that would result in the extension of a high-cost mortgage, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not condition the payment of such fees on the receipt of certification from the counselor required by paragraph (a)(5)(i) of this section. A <ref target="1026-2-a-17" reftype="term">creditor</ref> may, however, confirm that a counselor has provided counseling to the <ref target="1026-2-a-11" reftype="term">consumer</ref> pursuant to this paragraph (a)(5) prior to paying thefee of a counselor or counseling organization.</content></paragraph>
+              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may pay the fees of a counselor or counseling organization for providing counseling required under this paragraph (a)(5) but may not condition the payment of such fees on the <ref target="1026-2-a-13" reftype="term">consummation</ref> or account-opening of a mortgage transaction. If the <ref target="1026-2-a-11" reftype="term">consumer</ref> withdraws the application that would result in the extension of a high-cost mortgage, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not condition the payment of such fees on the receipt of certification from the counselor required by paragraph <ref target="1026-34-a-5-i" reftype="internal">(a)(5)(i)</ref> of this section. A <ref target="1026-2-a-17" reftype="term">creditor</ref> may, however, confirm that a counselor has provided counseling to the <ref target="1026-2-a-11" reftype="term">consumer</ref> pursuant to this paragraph <ref target="1026-34-a-5" reftype="internal">(a)(5)</ref> prior to paying the fee of a counselor or counseling organization.</content></paragraph>
             <paragraph label="1026-34-a-5-vi" marker="(vi)">
               <title>Steering prohibited.</title>
               <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> that extends a high-cost mortgage shall not steer or otherwise direct a <ref target="1026-2-a-11" reftype="term">consumer</ref> to choose a particular counselor or counseling organization for the counseling required under this paragraph (a)(5).</content></paragraph>
@@ -452,20 +454,20 @@
               <content>In general, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer (as defined in <ref target="CFR:12-1024" reftype="external">12 CFR 1024</ref>.2(b)) may not charge a fee for providing to a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain such information, a statement of the amount due to pay off the outstanding balance of a high-cost mortgage.</content></paragraph>
             <paragraph label="1026-34-a-9-ii" marker="(ii)">
               <title>Processing fee.</title>
-              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer may charge a processing fee to cover the cost of providing a payoff statement, as described in paragraph (a)(9)(i) of this section, by fax or courier, provided that such fee may not exceed an amount that is comparable to fees imposed for similar services provided in connection with <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transactions that are secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> and are not high-cost mortgages. A <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer shall make a payoff statement available to a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain such information, by a method other than by fax or courier and without charge pursuant to paragraph (a)(9)(i) of this section.</content></paragraph>
+              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer may charge a processing fee to cover the cost of providing a payoff statement, as described in paragraph <ref target="1026-34-a-9-i" reftype="internal">(a)(9)(i)</ref> of this section, by fax or courier, provided that such fee may not exceed an amount that is comparable to fees imposed for similar services provided in connection with <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transactions that are secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> and are not high-cost mortgages. A <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer shall make a payoff statement available to a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain such information, by a method other than by fax or courier and without charge pursuant to paragraph <ref target="1026-34-a-9-i" reftype="internal">(a)(9)(i)</ref> of this section.</content></paragraph>
             <paragraph label="1026-34-a-9-iii" marker="(iii)">
               <title>Processing fee disclosure.</title>
-              <content>Prior to charging a processing fee for provision of a payoff statement by fax or courier, as permitted pursuant to paragraph (a)(9)(ii) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer shall disclose to a <ref target="1026-2-a-11" reftype="term">consumer</ref> or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s payoff statement that payoff statements, as described in paragraph (a)(9)(i) of this section, are available by a method other than by fax or courier without charge.</content></paragraph>
+              <content>Prior to charging a processing fee for provision of a payoff statement by fax or courier, as permitted pursuant to paragraph <ref target="1026-34-a-9-ii" reftype="internal">(a)(9)(ii)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer shall disclose to a <ref target="1026-2-a-11" reftype="term">consumer</ref> or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s payoff statement that payoff statements, as described in paragraph <ref target="1026-34-a-9-i" reftype="internal">(a)(9)(i)</ref> of this section, are available by a method other than by fax or courier without charge.</content></paragraph>
             <paragraph label="1026-34-a-9-iv" marker="(iv)">
               <title>Fees permitted after multiple requests.</title>
-              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer that has provided a payoff statement, as described in paragraph (a)(9)(i) of this section, to a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain such information, without charge, other than the processing fee permitted under paragraph (a)(9)(ii) of this section, four times during a calendar year, may thereafter charge a reasonable fee for providing such statements during the remainder of the calendar year. Fees for payoff statements provided to a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain such information, in a subsequent calendar year are subject to the requirements of this section.</content></paragraph>
+              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer that has provided a payoff statement, as described in paragraph <ref target="1026-34-a-9-i" reftype="internal">(a)(9)(i)</ref> of this section, to a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain such information, without charge, other than the processing fee permitted under paragraph <ref target="1026-34-a-9-ii" reftype="internal">(a)(9)(ii)</ref> of this section, four times during a calendar year, may thereafter charge a reasonable fee for providing such statements during the remainder of the calendar year. Fees for payoff statements provided to a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain such information, in a subsequent calendar year are subject to the requirements of this section.</content></paragraph>
             <paragraph label="1026-34-a-9-v" marker="(v)">
               <title>Timing of delivery of payoff statements.</title>
-              <content>A payoff statement, as described in paragraph (a)(9)(i) of this section, for a high-cost mortgage shall be provided by a <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer within five <ref target="1026-2-a-6" reftype="term">business days</ref> after receiving a request for such statement by a <ref target="1026-2-a-11" reftype="term">consumer</ref> or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain such statement.</content></paragraph>
+              <content>A payoff statement, as described in paragraph <ref target="1026-34-a-9-i" reftype="internal">(a)(9)(i)</ref> of this section, for a high-cost mortgage shall be provided by a <ref target="1026-2-a-17" reftype="term">creditor</ref> or servicer within five <ref target="1026-2-a-6" reftype="term">business days</ref> after receiving a request for such statement by a <ref target="1026-2-a-11" reftype="term">consumer</ref> or a <ref target="1026-2-a-22" reftype="term">person</ref> authorized by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to obtain such statement.</content></paragraph>
           </paragraph>
           <paragraph label="1026-34-a-10" marker="(10)">
             <title>Financing of points and fees.</title>
-            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> that extends <ref target="1026-2-a-14" reftype="term">credit</ref> under a high-cost mortgage may not finance charges that are required to be included in the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref>, as that term is defined in § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref> and (2). <ref target="1026-2-a-14" reftype="term">Credit</ref> insurance premiums or debt cancellation or suspension fees that are required to be included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-iv" reftype="internal">1026.32(b)(1)(iv)</ref> or (2)(iv) shall not be considered financed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> when they are calculated and paid in full on a monthly basis.</content></paragraph>
+            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> that extends <ref target="1026-2-a-14" reftype="term">credit</ref> under a high-cost mortgage may not finance charges that are required to be included in the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref>, as that term is defined in § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref> and (2). <ref target="1026-2-a-14" reftype="term">Credit</ref> insurance premiums or debt cancellation or suspension fees that are required to be included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-iv" reftype="internal">1026.32(b)(1)(iv)</ref> or <ref target="1026-32-b-2-iv" reftype="internal">(2)(iv)</ref> shall not be considered financed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> when they are calculated and paid in full on a monthly basis.</content></paragraph>
         </paragraph>
         <paragraph label="1026-34-b" marker="(b)">
           <title>Prohibited acts or practices for dwelling-secured loans; structuring loans to evade high-cost mortgage requirements.</title>
@@ -506,7 +508,8 @@
         </paragraph>
         <paragraph label="1026-36-k-3" marker="(3)">
           <title>Steering prohibited.</title>
-          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> that extends <ref target="1026-2-a-14" reftype="term">credit</ref> to a first-time borrower in connection with a closed-end transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § 1026.33 or a transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in 11 U.S.C. 101(53D), that may result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref> shall not steer or otherwise direct a <ref target="1026-2-a-11" reftype="term">consumer</ref> to choose a particular counselor or counseling organization for the counseling required under this paragraph (k).</content></paragraph>
+          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> that extends <ref target="1026-2-a-14" reftype="term">credit</ref> to a first-time borrower in connection with a closed-end transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § 1026.33 or a transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in 11 U.S.C. 101(53D), that may result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref> shall not steer or otherwise direct a <ref target="1026-2-a-11" reftype="term">consumer</ref> to choose a particular counselor or counseling organization for the counseling required under this paragraph (k).</content>
+        </paragraph>
       </paragraph>
     </change>
 
@@ -526,13 +529,13 @@
     </change>
     
     <change operation="modified" label="1026-31-c-1-Interp-1" subpath="content">
-      <content>Pre-consummation or account opening waiting period. A creditor must furnish § 1026.32 disclosures at least three business days prior to consummation for a closed-end, high-cost mortgage and at least three business days prior to account opening for an open-end, high-cost mortgage. Under § 1026.32, “business day” has the same meaning as the rescission rule in comment 2(a)(6)-2—all calendar days except Sundays and the Federal legal holidays listed in 5 U.S.C. 6103(a). However, while the disclosure rule under §§ 1026.15 and 1026.23 extends to midnight of the third business day, the rule under § 1026.32 does not. For example, under § 1026.32, if disclosures were provided on a Friday, consummation or account opening could occur any time on Tuesday, the third business day following receipt ofthe disclosures. If the timing of the rescission rule were to be used, consummation or account opening could not occur until after midnight on Tuesday.</content>
+      <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must furnish § <ref target="1026-32" reftype="internal">1026.32</ref> disclosures at least three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to consummation for a closed-end, high-cost mortgage and at least three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to account opening for an open-end, high-cost mortgage. Under § <ref target="1026-32" reftype="internal">1026.32</ref>, “<ref target="1026-2-a-6" reftype="term">business day</ref>” has the same meaning as the rescission rule in comment 2(a)(6)-2—all calendar days except Sundays and the Federal legal holidays listed in <ref target="USC:5-6103" reftype="external">5 U.S.C. 6103</ref>(a). However, while the disclosure rule under §§ <ref target="1026-15" reftype="internal">1026.15</ref> and <ref target="1026-23" reftype="internal">1026.23</ref> extends to midnight of the third <ref target="1026-2-a-6" reftype="term">business day</ref>, the rule under § <ref target="1026-32" reftype="internal">1026.32</ref> does not. For example, under § <ref target="1026-32" reftype="internal">1026.32</ref>, if disclosures were provided on a Friday, consummation or account opening could occur any time on Tuesday, the third <ref target="1026-2-a-6" reftype="term">business day</ref> following receipt of the disclosures. If the timing of the rescission rule were to be used, consummation or account opening could not occur until after midnight on Tuesday.</content>
     </change>
 
     <change operation="modified" label="1026-31-c-1-i-Interp-2">
       <interpParagraph label="1026-31-c-1-i-Interp-2" marker="2.">
         <title>Premiums or other charges financed at consummation or account opening.</title>
-        <content>If the <ref target="1026-2-a-11" reftype="term">consumer</ref> finances the payment of premiums or other charges as permitted under § <ref target="1026-34-a-10" reftype="internal">1026.34(a)(10)</ref>, and as a result the monthly payment differs from what was previously disclosed under § 1026.32, redisclosure is required and a new three-day waiting period applies.</content></interpParagraph>
+        <content>If the <ref target="1026-2-a-11" reftype="term">consumer</ref> finances the payment of premiums or other charges as permitted under § <ref target="1026-34-a-10" reftype="internal">1026.34(a)(10)</ref>, and as a result the monthly payment differs from what was previously disclosed under § <ref target="1026-32" reftype="internal">1026.32</ref>, redisclosure is required and a new three-day waiting period applies.</content></interpParagraph>
     </change>
 
     <change operation="modified" label="1026-31-c-1-ii-Interp-1">
@@ -668,7 +671,7 @@
             </interpParagraph>
             <interpParagraph label="1026-32-a-1-ii-Interp-3" marker="3.">
               <title>Applicable threshold.</title>
-              <content>For purposes of § <ref target="1026-32-a-1-ii" reftype="internal">1026.32(a)(1)(ii)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine the applicable <ref target="1026-32-b-1" reftype="term">points and fees</ref> threshold based on the face amount of the note (or, in the case of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, the <ref target="1026-2-a-14" reftype="term">credit</ref> limit for the plan when the account is opened). However, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must apply the allowable <ref target="1026-32-b-1" reftype="term">points and fees</ref> percentage to the “total <ref target="1026-43-b-5" reftype="term">loan amount</ref>,” as defined in § <ref target="1026-32-b-4" reftype="internal">1026.32(b)(4)</ref>. For <ref target="1026-2-a-10" reftype="term">closed-end credit</ref> transactions, the total <ref target="1026-43-b-5" reftype="term">loan amount</ref> may be different than the face amount of the note. The $20,000 amount in § <ref target="1026-32-a-1-ii-A" reftype="internal">1026.32(a)(1)(ii)(A)</ref> and (B) is adjusted annually on January 1 by the annual percentage change in the CPI that was in effect on the preceding June 1.Show citation box</content></interpParagraph>
+              <content>For purposes of § <ref target="1026-32-a-1-ii" reftype="internal">1026.32(a)(1)(ii)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine the applicable <ref target="1026-32-b-1" reftype="term">points and fees</ref> threshold based on the face amount of the note (or, in the case of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, the <ref target="1026-2-a-14" reftype="term">credit</ref> limit for the plan when the account is opened). However, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must apply the allowable <ref target="1026-32-b-1" reftype="term">points and fees</ref> percentage to the “total <ref target="1026-43-b-5" reftype="term">loan amount</ref>,” as defined in § <ref target="1026-32-b-4" reftype="internal">1026.32(b)(4)</ref>. For <ref target="1026-2-a-10" reftype="term">closed-end credit</ref> transactions, the total <ref target="1026-43-b-5" reftype="term">loan amount</ref> may be different than the face amount of the note. The $20,000 amount in § <ref target="1026-32-a-1-ii-A" reftype="internal">1026.32(a)(1)(ii)(A)</ref> and (B) is adjusted annually on January 1 by the annual percentage change in the CPI that was in effect on the preceding June 1.</content></interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-32-a-1-iii-Interp" target="1026-32-a-1-iii">
             <title>Paragraph 32(a)(1)(iii)</title>
@@ -683,7 +686,8 @@
               <interpParagraph label="1026-32-a-1-iii-Interp-2-ii" marker="ii.">
                 <content>Assume that the terms of a home-equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> with an initial <ref target="1026-2-a-14" reftype="term">credit</ref> limit of $10,000 and a ten-year term require the <ref target="1026-2-a-11" reftype="term">consumer</ref> to pay a $200 flat fee if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the plan prior to its normal expiration. The $200 <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> does not exceed 2 percent of the initial <ref target="1026-2-a-14" reftype="term">credit</ref> limit, but the terms of the <ref target="1026-58-b-1" reftype="term">agreement</ref> permit the <ref target="1026-2-a-17" reftype="term">creditor</ref> to charge the fee more than 36 months after account opening. Thus, under § <ref target="1026-32-a-1-iii" reftype="internal">1026.32(a)(1)(iii)</ref>, the plan is a high-cost mortgage subject to the requirements and restrictions set forth in §§ 1026.32 and 1026.34.</content></interpParagraph>
               <interpParagraph label="1026-32-a-1-iii-Interp-2-iii" marker="iii.">
-                <content>Assume that, under the terms of a home-equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> with an initial <ref target="1026-2-a-14" reftype="term">credit</ref> limit of $150,000, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may charge the <ref target="1026-2-a-11" reftype="term">consumer</ref> any closing costs waived by the <ref target="1026-2-a-17" reftype="term">creditor</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the plan less than 36 months after account opening. Assume also that the <ref target="1026-2-a-17" reftype="term">creditor</ref> waived closing costs of $1,000. Bona fide third-party charges comprised $800 of the $1,000 in waived closing costs, and origination charges retained by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-5" reftype="term">affiliate</ref> comprised the remaining $200. Under § <ref target="1026-32-b-6-ii" reftype="internal">1026.32(b)(6)(ii)</ref>, the $800 in bona fide third-party charges is not a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, while the $200 for the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s own originations costs is a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>. The total <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> of $200 is less than 2 percent of the initial $150,000 <ref target="1026-2-a-14" reftype="term">credit</ref> limit, and the penalty does not apply if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the plan more than 36 months after account opening. Thus, the plan is not a high-cost mortgage under § <ref target="1026-32-a-1-iii" reftype="internal">1026.32(a)(1)(iii)</ref>.</content></interpParagraph>
+                <content>Assume that, under the terms of a home-equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> with an initial <ref target="1026-2-a-14" reftype="term">credit</ref> limit of $150,000, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may charge the <ref target="1026-2-a-11" reftype="term">consumer</ref> any closing costs waived by the <ref target="1026-2-a-17" reftype="term">creditor</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the plan less than 36 months after account opening. Assume also that the <ref target="1026-2-a-17" reftype="term">creditor</ref> waived closing costs of $1,000. Bona fide third-party charges comprised $800 of the $1,000 in waived closing costs, and origination charges retained by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or its <ref target="1026-32-b-5" reftype="term">affiliate</ref> comprised the remaining $200. Under § <ref target="1026-32-b-6-ii" reftype="internal">1026.32(b)(6)(ii)</ref>, the $800 in bona fide third-party charges is not a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, while the $200 for the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s own originations costs is a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>. The total <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> of $200 is less than 2 percent of the initial $150,000 <ref target="1026-2-a-14" reftype="term">credit</ref> limit, and the penalty does not apply if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the plan more than 36 months after account opening. Thus, the plan is not a high-cost mortgage under § <ref target="1026-32-a-1-iii" reftype="internal">1026.32(a)(1)(iii)</ref>.</content>
+              </interpParagraph>
             </interpParagraph>
           </interpParagraph>
         </interpParagraph>
@@ -744,144 +748,119 @@
             <title>Rates that vary other than in accordance with an index.</title>
             <content>Section <ref target="1026-32-a-3-iii" reftype="internal">1026.32(a)(3)(iii)</ref> applies when the interest rate applicable to a closed- or open-end transaction may or will vary, except as described in § <ref target="1026-32-a-3-ii" reftype="internal">1026.32(a)(3)(ii)</ref>. Section <ref target="1026-32-a-3-iii" reftype="internal">1026.32(a)(3)(iii)</ref> thus applies where multiple fixed rates apply to a transaction, such as in a <ref target="1026-18-s-7-ii" reftype="term">step-rate mortgage</ref>. For example, assume the following interest rates will apply to a transaction: 3 percent for the first six months, 4 percent for the next 10 years, and 5 percent for the remaining <ref target="1026-43-b-6" reftype="term">loan term</ref>. In this example, § <ref target="1026-32-a-3-iii" reftype="internal">1026.32(a)(3)(iii)</ref> would be used to determine the interest rate, and 5 percent would be the maximum interest rate applicable to the transaction used to determine the annual percentage rate for purposes of § <ref target="1026-32-a-1-i" reftype="internal">1026.32(a)(1)(i)</ref>. Section <ref target="1026-32-a-3-iii" reftype="internal">1026.32(a)(3)(iii)</ref> also applies to any other adjustable-rate loan where the interest rate may vary but according to a formula other than the sum of an index and a margin.</content></interpParagraph>
           <interpParagraph label="1026-32-a-3-Interp-5" marker="5.">
-            <title>Fixed-rate and -term payment options..</title>
+            <title>Fixed-rate and -term payment options.</title>
             <content>If an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan has only a fixed rate during the draw period, a <ref target="1026-2-a-17" reftype="term">creditor</ref> must use the interest rate applicable to that feature to determine the annual percentage rate, as required by § <ref target="1026-32-a-3-i" reftype="internal">1026.32(a)(3)(i)</ref>. However, if an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan has a variable rate, but also <ref target="1026-58-b-5" reftype="term">offers</ref> a fixed-rate and -term payment option during the draw period, § <ref target="1026-32-a-3" reftype="internal">1026.32(a)(3)</ref> requires a <ref target="1026-2-a-17" reftype="term">creditor</ref> to use the terms applicable to the variable-rate feature for determining the annual percentage rate, as described in § <ref target="1026-32-a-3-ii" reftype="internal">1026.32(a)(3)(ii)</ref>.</content></interpParagraph>
         </interpParagraph>
       </interpParagraph>
     </change>
 
     <!-- a. Paragraph 32(b)(2), Paragraph 32(b)(2)(i), and paragraph 1 are added. -->
-
-    <change operation="added" label="1026-32-b-2-i-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-i-Interp" target="1026-32-b-2-i">
-        <title>Paragraph 32(b)(2)(i)</title>
-        <content/>
-        <interpParagraph label="1026-32-b-2-i-Interp-1" marker="1.">
-          <title>Finance charge.</title>
-          <content> The <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation under § <ref target="1026-32-b-2" reftype="internal">1026.32(b)(2)</ref> generally does not include items that are included in the finance charge but that are not known until after account opening, such as minimum monthly finance charges or charges based on account activity or inactivity. Transaction fees also generally are not included in the <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation, except as provided in § <ref target="1026-32-b-2-vi" reftype="internal">1026.32(b)(2)(vi)</ref>. See comments 32(b)(1)-1 and 32(b)(1)(i)-1 and -2 for additional guidance concerning the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
-      </interpParagraph>
-    </change>
-      
     <!-- b. Paragraph 32(b)(2)(i)(B) and paragraph 1 are added. -->
-
-    <change operation="added" label="1026-32-b-2-i-B-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-i-B-Interp" target="1026-32-b-2-i-B">
-        <title>Paragraph 32(b)(2)(i)(B)</title>
-        <content/>
-        <interpParagraph label="1026-32-b-2-i-B-Interp-1" marker="1.">
-          <title/>
-          <content>See comment 32(b)(1)(i)(B)-1 for further guidance concerning the exclusion of mortgage insurance premiums payable in connection with any Federal or <ref target="1026-42-g-3" reftype="term">State agency</ref> program.</content></interpParagraph>
-      </interpParagraph>
-    </change>
-    
-    <!--c. Paragraph 32(b)(2)(i)(C) and paragraph 1 are added. -->
-
-    <change operation="added" label="1026-32-b-2-i-C-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-i-C-Interp" target="1026-32-b-2-i-C">
-        <title>Paragraph 32(b)(2)(i)(C).</title>
-        <content/>
-        <interpParagraph label="1026-32-b-2-i-C-Interp-1" marker="1.">
-          <title/>
-          <content>See comment 32(b)(1)(i)(C)-1 and -2 for further guidance concerning the exclusion of mortgage insurance premiums payable for any guaranty or insurance that protects the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss and that is not in connection with any Federal or <ref target="1026-42-g-3" reftype="term">State agency</ref> program.</content></interpParagraph>
-      </interpParagraph>
-    </change>
-    
+    <!-- c. Paragraph 32(b)(2)(i)(C) and paragraph 1 are added. -->
     <!-- d. Paragraph 32(b)(2)(i)(D) and paragraph 1 are added. -->
-
-    <change operation="added" label="1026-32-b-2-i-D-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-i-D-Interp" target="1026-32-b-2-i-D">
-        <title>Paragraph 32(b)(2)(i)(D)</title>
-        <content/>
-        <interpParagraph label="1026-32-b-2-i-D-Interp-1" marker="1.">
-          <title/>
-          <content>For purposes of § <ref target="1026-32-b-2-i-D" reftype="internal">1026.32(b)(2)(i)(D)</ref>, the term <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> means a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> as that term is defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, without regard to § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>. See comments 32(b)(1)(i)(D)-1, -3, and -4 for further guidance concerning the exclusion of bona fide third-party charges from <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
-      </interpParagraph>
-    </change>
-    
     <!-- e. Paragraph 32(b)(2)(i)(E) and paragraph 1 are added. -->
-
-    <change operation="added" label="1026-32-b-2-i-E-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-i-E-Interp" target="1026-32-b-2-i-E">
-        <title>Paragraph 32(b)(2)(i)(E).</title>
-        <content/>
-        <interpParagraph label="1026-32-b-2-i-E-Interp-1" marker="1.">
-          <title/>
-          <content>See comments 32(b)(1)(i)(E)-1 through -3 for further guidance concerning the exclusion of up to two <ref target="1026-32-b-3-i" reftype="term">bona fide discount points</ref> from <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
-      </interpParagraph>
-    </change>
-
     <!-- f. Paragraph 32(b)(2)(i)(F) and paragraph 1 are added. -->
-
-    <change operation="added" label="1026-32-b-2-i-F-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-i-F-Interp" target="1026-32-b-2-i-F">
-        <title>Paragraph 32(b)(2)(i)(F).</title>
-        <content/>
-        <interpParagraph label="1026-32-b-2-i-F-Interp-1" marker="1.">
-          <title/>
-          <content>See comments 32(b)(1)(i)(F)-1 and -2 for further guidance concerning the exclusion of up to one <ref target="1026-32-b-3-i" reftype="term">bona fide discount point</ref> from <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
-      </interpParagraph>
-    </change>
-
     <!-- g. Paragraph 32(b)(2)(ii) and paragraph 1 are added. -->
-
-        <change operation="added" label="1026-32-b-2-ii-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-ii-Interp" target="1026-32-b-2-ii">
-        <title>Paragraph 32(b)(2)(ii).</title>
-        <content/>
-        <interpParagraph label="1026-32-b-2-ii-Interp-1" marker="1.">
-          <title/>
-          <content>For purposes of § <ref target="1026-32-b-2-ii" reftype="internal">1026.32(b)(2)(ii)</ref>, the term <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> means a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> as that term is defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, without regard to § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>. See the commentary to § <ref target="1026-32-b-1-ii" reftype="internal">1026.32(b)(1)(ii)</ref> for additional guidance concerning the inclusion of <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref> in <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
-      </interpParagraph>
-    </change>
-
     <!-- h. Paragraph 32(b)(2)(iii) and paragraph 1 are added -->
-
-    <change operation="added" label="1026-32-b-2-iii-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-iii-Interp" target="1026-32-b-2-iii">
-        <title>Paragraph 32(b)(2)(iii).</title>
-        <content/>
-        <interpParagraph label="1026-32-b-2-iii-Interp-1" marker="1.">
-          <title>Other charges.</title>
-          <content>See comment 32(b)(1)(iii)-1 for further guidance concerning the inclusion of items listed in § <ref target="1026-4-c-7" reftype="internal">1026.4(c)(7)</ref> in <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
-      </interpParagraph>
-    </change>
-
     <!-- i. Paragraph 32(b)(2)(iv) and paragraph 1 are added. -->
-
-    <change operation="added" label="1026-32-b-2-iv-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-iv-Interp" target="1026-32-b-2-iv">
-        <title>Paragraph 32(b)(2)(iv).</title>
-        <content/>
-        <interpParagraph label="1026-32-b-2-iv-Interp-1" marker="1.">
-          <title>Credit insurance and debt cancellation or suspension coverage.</title>
-          <content>See comments 32(b)(1)(iv)-1 through -3 for further guidance concerning the inclusion of premiums for <ref target="1026-2-a-14" reftype="term">credit</ref> insurance and debt cancellation or suspension coverage in <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
-      </interpParagraph>
-    </change>
-
     <!-- j. Paragraph 32(b)(2)(vii) and paragraph 1 are added. -->
-
-    <change operation="added" label="1026-32-b-2-vii-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-vii-Interp" target="1026-32-b-2-vii">
-        <title>Paragraph 32(b)(2)(vii).</title>
-        <content/>
-        <interpParagraph label="1026-32-b-2-vii-Interp-1" marker="1.">
-          <title>Participation fees.</title>
-          <content>Fees charged for participation in a <ref target="1026-2-a-14" reftype="term">credit</ref> plan must beincluded in the <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation for purposes of § 1026.32 if payable at or before account opening. These fees include annual fees or other periodic fees that must be paid as a condition of access to the plan itself. See commentary to § <ref target="1026-4-c-4" reftype="internal">1026.4(c)(4)</ref> for a description of these fees.</content></interpParagraph>
-      </interpParagraph>
-    </change>
-
     <!-- k. Paragraph 32(b)(2)(viii) and paragraphs 1 and 2 are added.-->
 
-    <change operation="added" label="1026-32-b-2-viii-Interp" parent="1026-32-Interp">
-      <interpParagraph label="1026-32-b-2-viii-Interp" target="1026-32-b-2-viii">
-        <title>Paragraph 32(b)(2)(viii).</title>
+    <change operation="added" label="1026-32-b-2-Interp" parent="1026-32-b-Interp" after="1026-32-b-1-Interp">
+      <interpParagraph label="1026-32-b-2-Interp">
+        <title/>
         <content/>
-        <interpParagraph label="1026-32-b-2-viii-Interp-1" marker="1.">
-          <title>Transaction fees to draw down the credit line.</title>
-          <content>Section <ref target="1026-32-b-2-viii" reftype="internal">1026.32(b)(2)(viii)</ref> requires <ref target="1026-2-a-17" reftype="term">creditors</ref> in <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plans to include in <ref target="1026-32-b-1" reftype="term">points and fees</ref> any transaction fee, including any per-transaction fee, that will be charged for a draw on the <ref target="1026-2-a-14" reftype="term">credit</ref> line. Section <ref target="1026-32-b-2-viii" reftype="internal">1026.32(b)(2)(viii)</ref> requires the <ref target="1026-2-a-17" reftype="term">creditor</ref> to assume that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will make at least one draw during the term of the <ref target="1026-2-a-14" reftype="term">credit</ref> plan. Thus, if the terms of the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan permit the <ref target="1026-2-a-17" reftype="term">creditor</ref> to charge a $10 transaction fee each time the <ref target="1026-2-a-11" reftype="term">consumer</ref> draws on the <ref target="1026-2-a-14" reftype="term">credit</ref> line, § <ref target="1026-32-b-2-viii" reftype="internal">1026.32(b)(2)(viii)</ref> requires the <ref target="1026-2-a-17" reftype="term">creditor</ref> to include one $10 charge in the <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation.</content></interpParagraph>
-        <interpParagraph label="1026-32-b-2-viii-Interp-2" marker="2.">
-          <title>Fixed-rate loan option.</title>
-          <content>If the terms of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan permit a <ref target="1026-2-a-11" reftype="term">consumer</ref> to draw on the <ref target="1026-2-a-14" reftype="term">credit</ref> line using either a variable-rate feature or a fixed-rate feature, § <ref target="1026-32-b-2-viii" reftype="internal">1026.32(b)(2)(viii)</ref> requires the <ref target="1026-2-a-17" reftype="term">creditor</ref> to use the terms applicable to the variable-rate feature for determining the transaction fee that must be included in the <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation.</content></interpParagraph>
+        <interpParagraph label="1026-32-b-2-i-Interp" target="1026-32-b-2-i">
+          <title>Paragraph 32(b)(2)(i)</title>
+          <content/>
+          <interpParagraph label="1026-32-b-2-i-Interp-1" marker="1.">
+            <title>Finance charge.</title>
+            <content> The <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation under § <ref target="1026-32-b-2" reftype="internal">1026.32(b)(2)</ref> generally does not include items that are included in the finance charge but that are not known until after account opening, such as minimum monthly finance charges or charges based on account activity or inactivity. Transaction fees also generally are not included in the <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation, except as provided in § <ref target="1026-32-b-2-vi" reftype="internal">1026.32(b)(2)(vi)</ref>. See comments 32(b)(1)-1 and 32(b)(1)(i)-1 and -2 for additional guidance concerning the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-32-b-2-i-B-Interp" target="1026-32-b-2-i-B">
+            <title>Paragraph 32(b)(2)(i)(B)</title>
+            <content/>
+            <interpParagraph label="1026-32-b-2-i-B-Interp-1" marker="1.">
+              <title/>
+              <content>See comment 32(b)(1)(i)(B)-1 for further guidance concerning the exclusion of mortgage insurance premiums payable in connection with any Federal or <ref target="1026-42-g-3" reftype="term">State agency</ref> program.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1026-32-b-2-i-C-Interp" target="1026-32-b-2-i-C">
+            <title>Paragraph 32(b)(2)(i)(C).</title>
+            <content/>
+            <interpParagraph label="1026-32-b-2-i-C-Interp-1" marker="1.">
+              <title/>
+              <content>See comment 32(b)(1)(i)(C)-1 and -2 for further guidance concerning the exclusion of mortgage insurance premiums payable for any guaranty or insurance that protects the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss and that is not in connection with any Federal or <ref target="1026-42-g-3" reftype="term">State agency</ref> program.</content></interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1026-32-b-2-i-D-Interp" target="1026-32-b-2-i-D">
+            <title>Paragraph 32(b)(2)(i)(D)</title>
+            <content/>
+            <interpParagraph label="1026-32-b-2-i-D-Interp-1" marker="1.">
+              <title/>
+              <content>For purposes of § <ref target="1026-32-b-2-i-D" reftype="internal">1026.32(b)(2)(i)(D)</ref>, the term <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> means a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> as that term is defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, without regard to § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>. See comments 32(b)(1)(i)(D)-1, -3, and -4 for further guidance concerning the exclusion of bona fide third-party charges from <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1026-32-b-2-i-E-Interp" target="1026-32-b-2-i-E">
+            <title>Paragraph 32(b)(2)(i)(E).</title>
+            <content/>
+            <interpParagraph label="1026-32-b-2-i-E-Interp-1" marker="1.">
+              <title/>
+              <content>See comments 32(b)(1)(i)(E)-1 through -3 for further guidance concerning the exclusion of up to two <ref target="1026-32-b-3-i" reftype="term">bona fide discount points</ref> from <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1026-32-b-2-i-F-Interp" target="1026-32-b-2-i-F">
+            <title>Paragraph 32(b)(2)(i)(F).</title>
+            <content/>
+            <interpParagraph label="1026-32-b-2-i-F-Interp-1" marker="1.">
+              <title/>
+              <content>See comments 32(b)(1)(i)(F)-1 and -2 for further guidance concerning the exclusion of up to one <ref target="1026-32-b-3-i" reftype="term">bona fide discount point</ref> from <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content>
+            </interpParagraph>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-32-b-2-ii-Interp" target="1026-32-b-2-ii">
+          <title>Paragraph 32(b)(2)(ii).</title>
+          <content/>
+          <interpParagraph label="1026-32-b-2-ii-Interp-1" marker="1.">
+            <title/>
+            <content>For purposes of § <ref target="1026-32-b-2-ii" reftype="internal">1026.32(b)(2)(ii)</ref>, the term <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> means a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> as that term is defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, without regard to § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>. See the commentary to § <ref target="1026-32-b-1-ii" reftype="internal">1026.32(b)(1)(ii)</ref> for additional guidance concerning the inclusion of <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref> in <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-32-b-2-iii-Interp" target="1026-32-b-2-iii">
+          <title>Paragraph 32(b)(2)(iii).</title>
+          <content/>
+          <interpParagraph label="1026-32-b-2-iii-Interp-1" marker="1.">
+            <title>Other charges.</title>
+            <content>See comment 32(b)(1)(iii)-1 for further guidance concerning the inclusion of items listed in § <ref target="1026-4-c-7" reftype="internal">1026.4(c)(7)</ref> in <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-32-b-2-iv-Interp" target="1026-32-b-2-iv">
+          <title>Paragraph 32(b)(2)(iv).</title>
+          <content/>
+          <interpParagraph label="1026-32-b-2-iv-Interp-1" marker="1.">
+            <title>Credit insurance and debt cancellation or suspension coverage.</title>
+            <content>See comments 32(b)(1)(iv)-1 through -3 for further guidance concerning the inclusion of premiums for <ref target="1026-2-a-14" reftype="term">credit</ref> insurance and debt cancellation or suspension coverage in <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-32-b-2-vii-Interp" target="1026-32-b-2-vii">
+          <title>Paragraph 32(b)(2)(vii).</title>
+          <content/>
+          <interpParagraph label="1026-32-b-2-vii-Interp-1" marker="1.">
+            <title>Participation fees.</title>
+            <content>Fees charged for participation in a <ref target="1026-2-a-14" reftype="term">credit</ref> plan must beincluded in the <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation for purposes of § 1026.32 if payable at or before account opening. These fees include annual fees or other periodic fees that must be paid as a condition of access to the plan itself. See commentary to § <ref target="1026-4-c-4" reftype="internal">1026.4(c)(4)</ref> for a description of these fees.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-32-b-2-viii-Interp" target="1026-32-b-2-viii">
+          <title>Paragraph 32(b)(2)(viii).</title>
+          <content/>
+          <interpParagraph label="1026-32-b-2-viii-Interp-1" marker="1.">
+            <title>Transaction fees to draw down the credit line.</title>
+            <content>Section <ref target="1026-32-b-2-viii" reftype="internal">1026.32(b)(2)(viii)</ref> requires <ref target="1026-2-a-17" reftype="term">creditors</ref> in <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plans to include in <ref target="1026-32-b-1" reftype="term">points and fees</ref> any transaction fee, including any per-transaction fee, that will be charged for a draw on the <ref target="1026-2-a-14" reftype="term">credit</ref> line. Section <ref target="1026-32-b-2-viii" reftype="internal">1026.32(b)(2)(viii)</ref> requires the <ref target="1026-2-a-17" reftype="term">creditor</ref> to assume that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will make at least one draw during the term of the <ref target="1026-2-a-14" reftype="term">credit</ref> plan. Thus, if the terms of the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan permit the <ref target="1026-2-a-17" reftype="term">creditor</ref> to charge a $10 transaction fee each time the <ref target="1026-2-a-11" reftype="term">consumer</ref> draws on the <ref target="1026-2-a-14" reftype="term">credit</ref> line, § <ref target="1026-32-b-2-viii" reftype="internal">1026.32(b)(2)(viii)</ref> requires the <ref target="1026-2-a-17" reftype="term">creditor</ref> to include one $10 charge in the <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-32-b-2-viii-Interp-2" marker="2.">
+            <title>Fixed-rate loan option.</title>
+            <content>If the terms of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan permit a <ref target="1026-2-a-11" reftype="term">consumer</ref> to draw on the <ref target="1026-2-a-14" reftype="term">credit</ref> line using either a variable-rate feature or a fixed-rate feature, § <ref target="1026-32-b-2-viii" reftype="internal">1026.32(b)(2)(viii)</ref> requires the <ref target="1026-2-a-17" reftype="term">creditor</ref> to use the terms applicable to the variable-rate feature for determining the transaction fee that must be included in the <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation.</content>
+          </interpParagraph>
+        </interpParagraph>
       </interpParagraph>
     </change>
 
@@ -889,7 +868,8 @@
     <change operation="added" label="1026-32-b-6-Interp-3" parent="1026-32-b-6-Interp" after="1026-32-b-6-Interp-2">
       <interpParagraph label="1026-32-b-6-Interp-3" marker="3.">
         <title>Examples of prepayment penalties; open-end credit.</title>
-        <content>For purposes of § <ref target="1026-32-b-6-ii" reftype="internal">1026.32(b)(6)(ii)</ref>, the term <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> includes a charge, including a waived closing cost, imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan prior to the end of its term. This includes a charge imposed if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the plan outright or, for example, if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the plan in connection with obtaining a new loan or plan with the current holder of the existing plan, a servicer acting on behalf of the current holder, or an <ref target="1026-42-d-5-iii" reftype="term">affiliate</ref> of either. However, the term <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> does not include a waived bona fide third-party charge imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan during the first 36 months after account opening.</content></interpParagraph>
+        <content>For purposes of § <ref target="1026-32-b-6-ii" reftype="internal">1026.32(b)(6)(ii)</ref>, the term <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> includes a charge, including a waived closing cost, imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan prior to the end of its term. This includes a charge imposed if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the plan outright or, for example, if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the plan in connection with obtaining a new loan or plan with the current holder of the existing plan, a servicer acting on behalf of the current holder, or an <ref target="1026-42-d-5-iii" reftype="term">affiliate</ref> of either. However, the term <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> does not include a waived bona fide third-party charge imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan during the first 36 months after account opening.</content>
+      </interpParagraph>
     </change>
     <change operation="added" label="1026-32-b-6-Interp-4" parent="1026-32-b-6-Interp" after="1026-32-b-6-Interp-3">
       <interpParagraph label="1026-32-b-6-Interp-4" marker="4.">
@@ -900,7 +880,8 @@
           <content>Loan guarantee fees.</content>
         </interpParagraph>
         <interpParagraph label="1026-32-b-6-Interp-4-iii" marker="iii.">
-          <content>Any fee that the <ref target="1026-2-a-17" reftype="term">creditor</ref> may impose in lieu of termination and acceleration under comment 40(f)(2)-2..</content></interpParagraph>
+          <content>Any fee that the <ref target="1026-2-a-17" reftype="term">creditor</ref> may impose in lieu of termination and acceleration under comment 40(f)(2)-2.</content>
+        </interpParagraph>
       </interpParagraph>
     </change>
 
@@ -925,11 +906,11 @@
             <content>In disclosing the annual percentage rate for an open-end, high-cost mortgage under § <ref target="1026-32-c-2" reftype="internal">1026.32(c)(2)</ref>, <ref target="1026-2-a-17" reftype="term">creditors</ref> must comply with § <ref target="1026-6-a-1" reftype="internal">1026.6(a)(1)</ref>. If a fixed-rate, discounted introductory or initial interest rate is offered on the transaction, § <ref target="1026-32-c-2" reftype="internal">1026.32(c)(2)</ref> requires a <ref target="1026-2-a-17" reftype="term">creditor</ref> to disclose the annual percentage rate of the fixed-rate, discounted introductory or initial interest rate feature, and the rate that would apply when the feature expires.</content></interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-32-c-3-Interp" target="1026-32-c-3">
-          <title>32(c)(3) Regular payment; minimum period payment example; balloon payment.</title>
+          <title>32(c)(3) Regular payment; minimum periodic payment example; balloon payment.</title>
           <content/>
           <interpParagraph label="1026-32-c-3-Interp-1" marker="1.">
             <title type="keyterm">Balloon payment.</title>
-            <content>Except as provided in § <ref target="1026-32-d-1-ii" reftype="internal">1026.32(d)(1)(ii)</ref> and (iii), a mortgage transaction subject to this section may not include a payment schedule that results in a balloon payment.</content></interpParagraph>
+            <content>Except as provided in § <ref target="1026-32-d-1-ii" reftype="internal">1026.32(d)(1)(ii)</ref> and <ref target="1026-32-d-1-iii" reftype="internal">(iii)</ref>, a mortgage transaction subject to this section may not include a payment schedule that results in a balloon payment.</content></interpParagraph>
         </interpParagraph>
         
         <interpParagraph label="1026-32-c-3-i-Interp" target="1026-32-c-3-i">
@@ -982,7 +963,7 @@
     <change operation="modified" label="1026-32-d-Interp-1">
       <interpParagraph label="1026-32-d-Interp-1" marker="1.">
         <title type="keyterm">Additional prohibitions applicable under other sections.</title>
-        <content>Section 1026.34 sets forth certain prohibitions in connection with high-cost mortgages, in addition to the limitations in § <ref target="1026-32-d" reftype="internal">1026.32(d)</ref>. Further, § <ref target="1026-35-b" reftype="internal">1026.35(b)</ref> prohibits certain practices in connection with closed-end transactions that meet the coverage test in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Because the coverage test in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref> is generally broader than the coverage test in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>, most closed-end high-cost mortgages are also subject tothe prohibitions set forth in § <ref target="1026-35-b" reftype="internal">1026.35(b)</ref> (such as escrows), in addition to the limitations in § <ref target="1026-32-d" reftype="internal">1026.32(d)</ref>.</content></interpParagraph>
+        <content>Section 1026.34 sets forth certain prohibitions in connection with high-cost mortgages, in addition to the limitations in § <ref target="1026-32-d" reftype="internal">1026.32(d)</ref>. Further, § <ref target="1026-35-b" reftype="internal">1026.35(b)</ref> prohibits certain practices in connection with closed-end transactions that meet the coverage test in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Because the coverage test in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref> is generally broader than the coverage test in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>, most closed-end high-cost mortgages are also subject to the prohibitions set forth in § <ref target="1026-35-b" reftype="internal">1026.35(b)</ref> (such as escrows), in addition to the limitations in § <ref target="1026-32-d" reftype="internal">1026.32(d)</ref>.</content></interpParagraph>
     </change>
 
     <!-- Under 32(d) Limitations: Paragraph 1 is revised. -->
@@ -1103,7 +1084,7 @@
           <content>A <ref target="1026-2-a-14" reftype="term">credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> may determine a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s initial payments using a temporarily discounted interest rate or permit the <ref target="1026-2-a-11" reftype="term">consumer</ref> to make initial payments that are non-amortizing. In such cases the <ref target="1026-2-a-17" reftype="term">creditor</ref> may determine repayment ability using the assumptions provided in § <ref target="1026-34-a-4-iv" reftype="internal">1026.34(a)(4)(iv)</ref>.</content></interpParagraph>
         <interpParagraph label="1026-34-a-4-Interp-5" marker="5.">
           <title type="keyterm">Repayment ability as of account opening.</title>
-          <content>Section <ref target="1026-34-a-4" reftype="internal">1026.34(a)(4)</ref> prohibits a <ref target="1026-2-a-17" reftype="term">creditor</ref> from disregarding repayment ability based on the facts andcircumstances known to the <ref target="1026-2-a-17" reftype="term">creditor</ref> as of account opening. In general, a <ref target="1026-2-a-17" reftype="term">creditor</ref> does not violate this provision if a <ref target="1026-2-a-11" reftype="term">consumer</ref> defaults because of a significant reduction in income (for example, a job loss) or a significant obligation (for example, an obligation arising from a major medical expense) that occurs after account opening. However, if a <ref target="1026-2-a-17" reftype="term">creditor</ref> has knowledge as of account opening of reductions in income (for example, if a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written application states that the <ref target="1026-2-a-11" reftype="term">consumer</ref> plans to retire within twelve months without obtaining new employment, or states that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will transition from full-time to part-time employment), the <ref target="1026-2-a-17" reftype="term">creditor</ref> must consider that information.</content></interpParagraph>
+          <content>Section <ref target="1026-34-a-4" reftype="internal">1026.34(a)(4)</ref> prohibits a <ref target="1026-2-a-17" reftype="term">creditor</ref> from disregarding repayment ability based on the facts and circumstances known to the <ref target="1026-2-a-17" reftype="term">creditor</ref> as of account opening. In general, a <ref target="1026-2-a-17" reftype="term">creditor</ref> does not violate this provision if a <ref target="1026-2-a-11" reftype="term">consumer</ref> defaults because of a significant reduction in income (for example, a job loss) or a significant obligation (for example, an obligation arising from a major medical expense) that occurs after account opening. However, if a <ref target="1026-2-a-17" reftype="term">creditor</ref> has knowledge as of account opening of reductions in income (for example, if a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written application states that the <ref target="1026-2-a-11" reftype="term">consumer</ref> plans to retire within twelve months without obtaining new employment, or states that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will transition from full-time to part-time employment), the <ref target="1026-2-a-17" reftype="term">creditor</ref> must consider that information.</content></interpParagraph>
         <interpParagraph label="1026-34-a-4-Interp-6" marker="6.">
           <title type="keyterm">Income, assets, and employment.</title>
           <content>Any current or reasonably expected assets or income may be considered by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, except the collateral itself. For example, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may use information about current or expected salary, wages, bonus pay, tips, and commissions. Employment may be full-time, part-time, seasonal, irregular, military, or self-employment. Other sources of income could include interest or dividends; retirement benefits; public assistance; and alimony, child support, or separate maintenance payments. A <ref target="1026-2-a-17" reftype="term">creditor</ref> may also take into account assets such as savings accounts or investments that the <ref target="1026-2-a-11" reftype="term">consumer</ref> can or will be able to use.</content>
@@ -1117,7 +1098,7 @@
           <content/>
           <interpParagraph label="1026-34-a-4-i-Interp-1" marker="1.">
             <title type="keyterm">Mortgage-related obligations.</title>
-            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must include in its repayment ability analysis the expected property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref> as set forth in § <ref target="1026-35-b-3-i" reftype="internal">1026.35(b), as w</ref>ell as similar mortgage-related expenses. Similar mortgage-related expenses include homeowners' association dues and condominium or cooperative fees.</content>
+            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must include in its repayment ability analysis the expected property taxes and premiums for mortgage-related insurance required by the <ref target="1026-2-a-17" reftype="term">creditor</ref> as set forth in § <ref target="1026-35-b-3-i" reftype="internal">1026.35(b)</ref>, as well as similar mortgage-related expenses. Similar mortgage-related expenses include homeowners' association dues and condominium or cooperative fees.</content>
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-34-a-4-ii-Interp" target="1026-34-a-4-ii">
@@ -1304,17 +1285,22 @@
         <content/>
         <interpParagraph label="1026-34-a-6-Interp-1" marker="1.">
           <title>Facts and circumstances.</title>
-          <content>Whether a <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker “recommends or encourages” default for purposes of § <ref target="1026-34-a-6" reftype="internal">1026.34(a)(6)</ref> depends on all of the relevant facts and circumstances.</content></interpParagraph>
+          <content>Whether a <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker “recommends or encourages” default for purposes of § <ref target="1026-34-a-6" reftype="internal">1026.34(a)(6)</ref> depends on all of the relevant facts and circumstances.</content>
+        </interpParagraph>
         <interpParagraph label="1026-34-a-6-Interp-2" marker="2.">
           <title>Examples.</title>
           <content/>
           <interpParagraph label="1026-34-a-6-Interp-2-i" marker="i.">
-            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker “recommends or encourages” default when the <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker advises the <ref target="1026-2-a-11" reftype="term">consumer</ref> to stop making payments on an existing loan in a manner that is likely to cause the <ref target="1026-2-a-11" reftype="term">consumer</ref> to default on the existing loan.</content></interpParagraph>
+            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker “recommends or encourages” default when the <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker advises the <ref target="1026-2-a-11" reftype="term">consumer</ref> to stop making payments on an existing loan in a manner that is likely to cause the <ref target="1026-2-a-11" reftype="term">consumer</ref> to default on the existing loan.</content>
+          </interpParagraph>
           <interpParagraph label="1026-34-a-6-Interp-2-ii" marker="ii.">
-            <content>When delay of <ref target="1026-2-a-13" reftype="term">consummation</ref> of a high-cost mortgage occurs for reasons outside the control of a <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker, that <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker does not “recommend or encourage” default because the <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker informed a <ref target="1026-2-a-11" reftype="term">consumer</ref> that:</content><interpParagraph label="1026-34-a-6-Interp-2-ii-A" marker="A.">
-              <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref>'s high-cost mortgage is scheduled to be consummated prior to the due date for the next payment due on the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s existing loan, which is intended to be paid by the proceeds of the new high-cost mortgage; and</content></interpParagraph>
+            <content>When delay of <ref target="1026-2-a-13" reftype="term">consummation</ref> of a high-cost mortgage occurs for reasons outside the control of a <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker, that <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker does not “recommend or encourage” default because the <ref target="1026-2-a-17" reftype="term">creditor</ref> or mortgage broker informed a <ref target="1026-2-a-11" reftype="term">consumer</ref> that:</content>
+            <interpParagraph label="1026-34-a-6-Interp-2-ii-A" marker="A.">
+              <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref>'s high-cost mortgage is scheduled to be consummated prior to the due date for the next payment due on the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s existing loan, which is intended to be paid by the proceeds of the new high-cost mortgage; and</content>
+            </interpParagraph>
             <interpParagraph label="1026-34-a-6-Interp-2-ii-B" marker="B.">
-              <content>Any delay of <ref target="1026-2-a-13" reftype="term">consummation</ref> of the new high-cost mortgage beyond the payment due date of the existing loan will not relieve the <ref target="1026-2-a-11" reftype="term">consumer</ref> of the obligation to make timely payment on that loan.</content></interpParagraph>
+              <content>Any delay of <ref target="1026-2-a-13" reftype="term">consummation</ref> of the new high-cost mortgage beyond the payment due date of the existing loan will not relieve the <ref target="1026-2-a-11" reftype="term">consumer</ref> of the obligation to make timely payment on that loan.</content>
+            </interpParagraph>
           </interpParagraph>
         </interpParagraph>
       </interpParagraph>
@@ -1331,7 +1317,8 @@
           <title>34(a)(8)(i) General.</title>
           <content/>
           <interpParagraph label="1026-34-a-8-i-Interp-1" marker="1.">
-            <content>For purposes of § <ref target="1026-34-a-8" reftype="internal">1026.34(a)(8)</ref>, in connection with an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, the amount of the payment past due is the required minimum periodic payment as provided under the terms of the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref>.</content></interpParagraph>
+            <content>For purposes of § <ref target="1026-34-a-8" reftype="internal">1026.34(a)(8)</ref>, in connection with an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, the amount of the payment past due is the required minimum periodic payment as provided under the terms of the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref>.</content>
+          </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-34-a-8-iii-Interp" target="1026-34-a-8-iii">
           <title>34(a)(8)(iii) Multiple late charges assessed on payment subsequently paid.</title>
@@ -1343,7 +1330,8 @@
           <title>34(a)(8)(iv) Failure to make required payment.</title>
           <content/>
           <interpParagraph label="1026-34-a-8-iv-Interp-1" marker="1.">
-            <content>Under § <ref target="1026-34-a-8-iv" reftype="internal">1026.34(a)(8)(iv)</ref>, if a <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to make one or more required payments and then resumes making payments but fails to bring the account current, it is permissible, if permitted by the terms of the loan contract or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref>, to apply the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s payments first to the past due payment(s) and to impose a late charge on each subsequent required payment until the account is brought current. To illustrate: Assume that a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s regular periodic payment of $500 is due on the 1st of each month, or before the expiration of a 15-day <ref target="1026-54-a-2" reftype="term">grace period</ref>. Also assume that the <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to make a timely installment payment by August 1 (or within the applicable <ref target="1026-54-a-2" reftype="term">grace period</ref>, and a $10 late charge therefore is imposed. The <ref target="1026-2-a-11" reftype="term">consumer</ref> resumes making monthly payments on September 1. Under § <ref target="1026-34-a-8-iv" reftype="internal">1026.34(a)(8)(iv)</ref>, if permitted by the terms of the loan contract, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may apply the $500 payment made on September 1 to satisfy the missed $500 payment that was due on August 1. If the <ref target="1026-2-a-11" reftype="term">consumer</ref> makes no other payment prior to the end of the <ref target="1026-54-a-2" reftype="term">grace period</ref> for the payment that was due on September 1, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may also impose a $10 late fee for the payment that was due on September 1.</content></interpParagraph>
+            <content>Under § <ref target="1026-34-a-8-iv" reftype="internal">1026.34(a)(8)(iv)</ref>, if a <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to make one or more required payments and then resumes making payments but fails to bring the account current, it is permissible, if permitted by the terms of the loan contract or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref>, to apply the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s payments first to the past due payment(s) and to impose a late charge on each subsequent required payment until the account is brought current. To illustrate: Assume that a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s regular periodic payment of $500 is due on the 1st of each month, or before the expiration of a 15-day <ref target="1026-54-a-2" reftype="term">grace period</ref>. Also assume that the <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to make a timely installment payment by August 1 (or within the applicable <ref target="1026-54-a-2" reftype="term">grace period</ref>, and a $10 late charge therefore is imposed. The <ref target="1026-2-a-11" reftype="term">consumer</ref> resumes making monthly payments on September 1. Under § <ref target="1026-34-a-8-iv" reftype="internal">1026.34(a)(8)(iv)</ref>, if permitted by the terms of the loan contract, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may apply the $500 payment made on September 1 to satisfy the missed $500 payment that was due on August 1. If the <ref target="1026-2-a-11" reftype="term">consumer</ref> makes no other payment prior to the end of the <ref target="1026-54-a-2" reftype="term">grace period</ref> for the payment that was due on September 1, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may also impose a $10 late fee for the payment that was due on September 1.</content>
+          </interpParagraph>
         </interpParagraph>
       </interpParagraph>
     </change>
@@ -1355,10 +1343,12 @@
         <content/>
         <interpParagraph label="1026-34-a-10-Interp-1" marker="1.">
           <title>Points and fees.</title>
-          <content>For purposes of § <ref target="1026-34-a-10" reftype="internal">1026.34(a)(10)</ref>, “<ref target="1026-32-b-1" reftype="term">points and fees</ref>” means those items that are required to be included in the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref> and (2). Thus, for example, in connection with the extension of <ref target="1026-2-a-14" reftype="term">credit</ref> under a high-cost mortgage, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may finance a fee charged by a third-party counselor in connection with the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s receipt of pre-loan counseling under § <ref target="1026-34-a-5" reftype="internal">1026.34(a)(5)</ref>, because, pursuant to § <ref target="1026-32-b-1-i-D" reftype="internal">1026.32(b)(1)(i)(D)</ref> and (b)(2)(i)(D), such a fee is excluded from the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref> as a bona fide third-party charge.</content></interpParagraph>
+          <content>For purposes of § <ref target="1026-34-a-10" reftype="internal">1026.34(a)(10)</ref>, “<ref target="1026-32-b-1" reftype="term">points and fees</ref>” means those items that are required to be included in the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref> and <ref target="1026-32-b-2" reftype="internal">(2)</ref>. Thus, for example, in connection with the extension of <ref target="1026-2-a-14" reftype="term">credit</ref> under a high-cost mortgage, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may finance a fee charged by a third-party counselor in connection with the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s receipt of pre-loan counseling under § <ref target="1026-34-a-5" reftype="internal">1026.34(a)(5)</ref>, because, pursuant to § <ref target="1026-32-b-1-i-D" reftype="internal">1026.32(b)(1)(i)(D)</ref> and <ref target="1026-32-b-2-i-D" reftype="internal">(b)(2)(i)(D)</ref>, such a fee is excluded from the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref> as a bona fide third-party charge.</content>
+        </interpParagraph>
         <interpParagraph label="1026-34-a-10-Interp-2" marker="2.">
           <title>Examples of financing points and fees.</title>
-          <content>For purposes of § <ref target="1026-34-a-10" reftype="internal">1026.34(a)(10)</ref>, <ref target="1026-32-b-1" reftype="term">points and fees</ref> are financed if, for example, they are added to the loan balance or financed through a separate note, if the note is payable to the <ref target="1026-2-a-17" reftype="term">creditor</ref> or to an <ref target="1026-42-d-5-iii" reftype="term">affiliate</ref> of the <ref target="1026-2-a-17" reftype="term">creditor</ref>. In the case of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, a <ref target="1026-2-a-17" reftype="term">creditor</ref> also finances <ref target="1026-32-b-1" reftype="term">points and fees</ref> if the <ref target="1026-2-a-17" reftype="term">creditor</ref> advances funds from the <ref target="1026-2-a-14" reftype="term">credit</ref> line to cover the fees.</content></interpParagraph>
+          <content>For purposes of § <ref target="1026-34-a-10" reftype="internal">1026.34(a)(10)</ref>, <ref target="1026-32-b-1" reftype="term">points and fees</ref> are financed if, for example, they are added to the loan balance or financed through a separate note, if the note is payable to the <ref target="1026-2-a-17" reftype="term">creditor</ref> or to an <ref target="1026-42-d-5-iii" reftype="term">affiliate</ref> of the <ref target="1026-2-a-17" reftype="term">creditor</ref>. In the case of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, a <ref target="1026-2-a-17" reftype="term">creditor</ref> also finances <ref target="1026-32-b-1" reftype="term">points and fees</ref> if the <ref target="1026-2-a-17" reftype="term">creditor</ref> advances funds from the <ref target="1026-2-a-14" reftype="term">credit</ref> line to cover the fees.</content>
+        </interpParagraph>
       </interpParagraph>
     </change>
 

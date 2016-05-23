@@ -133,21 +133,14 @@
       <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with this regulation, other than advertising requirements under §§ <ref target="1026-16" reftype="internal">1026.16</ref> and <ref target="1026-24" reftype="internal">1026.24</ref> and certain requirements for mortgage loans under paragraph <ref target="1026-25-c" reftype="internal">(c)</ref> of this section, for two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing the regulation may require a <ref target="1026-2-a-17" reftype="term">creditor</ref> under their jurisdictions to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 108 of <ref target="USC:12-2601" reftype="external">the Act</ref>.</content>
     </change>
 
-    <!-- Section 1026.25: Adding and reserving paragraphs (c)(1) and (c)(2).
-    Section 1026.25: Adding paragraph (c)(3).  -->
-    <change operation="modified" label="1026-25-c">
-      <paragraph label="1026-25-c" marker="(c)">
-        <title type="keyterm">Records related to certain requirements for mortgage loans.</title>
-        <content/>
-        <paragraph label="1026-25-c-1" marker="(1)">
-          <content>[Reserved]</content>
-        </paragraph>
-        <paragraph label="1026-25-c-2" marker="(2)">
-          <content>[Reserved]</content>
-        </paragraph>
-        <paragraph label="1026-25-c-3" marker="(3)">
-          <title type="keyterm">Records related to minimum standards for transactions secured by a dwelling.</title>
-          <content>Notwithstanding paragraph (a) of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with § 1026.43 of this regulation for three years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a transaction covered by that section.</content></paragraph>
+    <!-- Section 1026.25: Adding and reserving paragraphs (c)(1) and (c)(2). -->
+    <!-- 2013-22752 changes the effective dates from 20140110 to 20140101 for: -->
+    <!-- amendments to §§ 1026.25(c)(2); (c)(1) is reserved there as well -->
+    <!-- Section 1026.25: Adding paragraph (c)(3).  -->
+    <change operation="added" label="1026-25-c-3">
+      <paragraph label="1026-25-c-3" marker="(3)">
+        <title type="keyterm">Records related to minimum standards for transactions secured by a dwelling.</title>
+        <content>Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with &#167; <ref target="1026-43" reftype="internal">1026.43</ref> of this regulation for three years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a transaction covered by that section.</content>
       </paragraph>
     </change>
 
@@ -280,7 +273,8 @@
         <paragraph label="1026-32-b-1-v" marker="(v)">
           <content>The maximum prepayment penalty, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> of this section, that may be charged or collected under the terms of the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref>; and</content></paragraph>
         <paragraph label="1026-32-b-1-vi" marker="(vi)">
-          <content>The total prepayment penalty, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> of this section, incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> refinances the existing <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> with the current holder of the existing loan, a servicer acting on behalf of the current holder, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either.</content></paragraph>
+          <content>The total prepayment penalty, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> of this section, incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> refinances the existing <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> with the current holder of the existing loan, a servicer acting on behalf of the current holder, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either.</content>
+        </paragraph>
       </paragraph>
     </change>
 
@@ -296,7 +290,7 @@
     <change operation="added" label="1026-32-b-3">
       <paragraph label="1026-32-b-3" marker="(3)">
         <title type="keyterm">Bona fide discount point</title>
-        <content>—</content>
+        <content/>
         <paragraph label="1026-32-b-3-i" marker="(i)">
           <title type="keyterm">Closed-end credit.</title>
           <content>The term <def term="bona fide discount point">bona fide discount point</def> means an amount equal to 1 percent of the loan amount paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> that reduces the interest rate or time-price differential applicable to the transaction based on a calculation that is consistent with established industry practices for determining the amount of reduction in the interest rate or time-price differential appropriate for the amount of discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content>
@@ -430,7 +424,7 @@
         </paragraph>
         <paragraph label="1026-43-c" marker="(c)">
           <title type="keyterm">Repayment ability</title>
-          <content>—</content>
+          <content/>
           <paragraph label="1026-43-c-1" marker="(1)">
             <title type="keyterm">General requirement.</title>
             <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not make a loan that is a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> unless the <ref target="1026-2-a-17" reftype="term">creditor</ref> makes a reasonable and good faith determination at or before <ref target="1026-2-a-13" reftype="term">consummation</ref> that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will have a reasonable ability to repay the loan according to its terms.</content>
@@ -504,7 +498,7 @@
           </paragraph>
           <paragraph label="1026-43-c-5" marker="(5)">
             <title type="keyterm">Payment calculation</title>
-            <content>—</content>
+            <content/>
             <paragraph label="1026-43-c-5-i" marker="(i)">
               <title type="keyterm">General rule.</title>
               <content>Except as provided in paragraph <ref target="1026-43-c-5-ii" reftype="internal">(c)(5)(ii)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> must make the consideration required under paragraph <ref target="1026-43-c-2-iii" reftype="internal">(c)(2)(iii)</ref> of this section using:</content>
@@ -557,7 +551,7 @@
           </paragraph>
           <paragraph label="1026-43-c-7" marker="(7)">
             <title type="keyterm">Monthly debt-to-income ratio or residual income</title>
-            <content>—</content>
+            <content/>
             <paragraph label="1026-43-c-7-i" marker="(i)">
               <title type="keyterm">Definitions.</title>
               <content>For purposes of this paragraph <ref target="1026-43-c-7" reftype="internal">(c)(7)</ref>, the following definitions apply:</content>
@@ -586,7 +580,7 @@
         </paragraph>
         <paragraph label="1026-43-d" marker="(d)">
           <title type="keyterm">Refinancing of non-standard mortgages</title>
-          <content>—</content>
+          <content/>
           <paragraph label="1026-43-d-1" marker="(1)">
             <title type="keyterm">Definitions.</title>
             <content>For purposes of this paragraph <ref target="1026-43-d" reftype="internal">(d)</ref>, the following definitions apply:</content>
@@ -810,7 +804,7 @@
           </paragraph>
           <paragraph label="1026-43-e-4" marker="(4)">
             <title type="keyterm">Qualified mortgage defined—special rules</title>
-            <content>—</content>
+            <content/>
             <paragraph label="1026-43-e-4-i" marker="(i)">
               <title type="keyterm">General.</title>
               <content>Notwithstanding paragraph <ref target="1026-43-e-2" reftype="internal">(e)(2)</ref> of this section, a qualified mortgage is a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> that satisfies:</content>
@@ -2347,7 +2341,7 @@
         <interpParagraph label="1026-32-b-Interp">
           <title>32(b) Definitions</title>
           <content/>
-          <interpParagraph label="1026-32-b-1-Interp">
+          <interpParagraph label="1026-32-b-1-Interp" target="1026-32-b-1">
             <title>Paragraph 32(b)(1).</title>
             <content/>
             <interpParagraph label="1026-32-b-1-Interp-1" marker="1.">
@@ -2367,7 +2361,8 @@
               <content/>
               <interpParagraph label="1026-32-b-1-i-Interp-1" marker="1.">
                 <title type="keyterm">General.</title>
-                <content>Section <ref target="1026-32-b-1-i" reftype="internal">1026.32(b)(1)(i)</ref> includes in the total “<ref target="1026-32-b-1" reftype="term">points and fees</ref>” items included in the finance charge under<ref target="1026-4-a" reftype="internal"> § 1026.4</ref>(a) and (b). However, certain items that may be included in the finance charge are ex<ref target="1026-4" reftype="internal">cluded</ref> from <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-i-A" reftype="internal">1026.32(b)(1)(i)(A)</ref> through (F). It<ref target="1026-32-b-1-i" reftype="internal">ems exclude</ref>d from the finance charge under other provisions of § 1026.4<ref target="1026-32-b-1-ii" reftype="internal"> are not inc</ref>luded<ref target="1026-32-b-1-iii" reftype="internal"> in the total</ref> <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-i" reftype="internal">1026.32(b)(1)(i)</ref>, but may be included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> un<ref target="1026-32-b-1" reftype="internal">der § 1026.32</ref>(b)(1)(ii) through (vi). To illustrate: A fee imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> for an appraisal performed by an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref> meets the definition of “finance charge” under § <ref target="1026-4-a" reftype="internal">1026.4(a)</ref> as “any charge payable directly or indirectly by the <ref target="1026-2-a-11" reftype="term">consumer</ref> and imposed directly or indirectly by the <ref target="1026-2-a-17" reftype="term">creditor</ref> as an incident to or a condition of the extension of <ref target="1026-2-a-14" reftype="term">credit</ref>.” However, § <ref target="1026-4-c-7" reftype="internal">1026.4(c)(7)</ref> specifies that appraisal fees are not included in the finance charge. A fee imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> for an appraisal performed by an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref> therefore would not be included in the finance charge and would not be counted in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-i" reftype="internal">1026.32(b)(1)(i)</ref>. Section <ref target="1026-32-b-1-iii" reftype="internal">1026.32(b)(1)(iii)</ref>, however, expressly includes in <ref target="1026-32-b-1" reftype="term">points and fees</ref> items listed in § <ref target="1026-4-c-7" reftype="internal">1026.4(c)(7)</ref> (including appraisal fees) if the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives <ref target="1026-36-a-3" reftype="term">compensation</ref> in connection with the charge. A <ref target="1026-2-a-17" reftype="term">creditor</ref> would receive <ref target="1026-36-a-3" reftype="term">compensation</ref> for an appraisal performed by its own employee. Thus, the appraisal fee in this example must be included in the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
+                <content>Section <ref target="1026-32-b-1-i" reftype="internal">1026.32(b)(1)(i)</ref> includes in the total “<ref target="1026-32-b-1" reftype="term">points and fees</ref>” items included in the finance charge under § <ref target="1026-4-a" reftype="internal">1026.4(a)</ref> and <ref target="1026-4-b" reftype="internal">(b)</ref>. However, certain items that may be included in the finance charge are excluded from <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-i-A" reftype="internal">1026.32(b)(1)(i)(A)</ref> through <ref target="1026-32-b-1-i-F" reftype="internal">(F)</ref>. Items excluded from the finance charge under other provisions of § <ref target="1026-4" reftype="internal">1026.4</ref> are not included in the total <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-i" reftype="internal">1026.32(b)(1)(i)</ref>, but may be included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-ii" reftype="internal">1026.32(b)(1)(ii</ref>) through <ref target="1026-32-b-1-vi" reftype="internal">(vi)</ref>. To illustrate: A fee imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> for an appraisal performed by an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref> meets the definition of “finance charge” under § <ref target="1026-4-a" reftype="internal">1026.4(a)</ref> as “any charge payable directly or indirectly by the <ref target="1026-2-a-11" reftype="term">consumer</ref> and imposed directly or indirectly by the <ref target="1026-2-a-17" reftype="term">creditor</ref> as an incident to or a condition of the extension of <ref target="1026-2-a-14" reftype="term">credit</ref>.” However, § <ref target="1026-4-c-7" reftype="internal">1026.4(c)(7)</ref> specifies that appraisal fees are not included in the finance charge. A fee imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> for an appraisal performed by an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref> therefore would not be included in the finance charge and would not be counted in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-i" reftype="internal">1026.32(b)(1)(i)</ref>. Section <ref target="1026-32-b-1-iii" reftype="internal">1026.32(b)(1)(iii)</ref>, however, expressly includes in <ref target="1026-32-b-1" reftype="term">points and fees</ref> items listed in § <ref target="1026-4-c-7" reftype="internal">1026.4(c)(7)</ref> (including appraisal fees) if the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives <ref target="1026-36-a-3" reftype="term">compensation</ref> in connection with the charge. A <ref target="1026-2-a-17" reftype="term">creditor</ref> would receive <ref target="1026-36-a-3" reftype="term">compensation</ref> for an appraisal performed by its own employee. Thus, the appraisal fee in this example must be included in the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content>
+              </interpParagraph>
               <interpParagraph label="1026-32-b-1-i-B-Interp" target="1026-32-b-1-i-B">
                 <title>Paragraph 32(b)(1)(i)(B).</title>
                 <content/>
@@ -2481,7 +2476,7 @@
                   <content>Assume that, according to a <ref target="1026-2-a-17" reftype="term">creditor</ref>'s <ref target="1026-36-a-3" reftype="term">compensation</ref> policies, the <ref target="1026-2-a-17" reftype="term">creditor</ref> pays its loan officers a base salary of $500 per week and awards its loan officers a bonus of $250 for each consummated transaction. For each transaction, none of the $500 base salary is counted in <ref target="1026-32-b-1" reftype="term">points and fees</ref> as <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref> under § <ref target="1026-32-b-1-ii" reftype="internal">1026.32(b)(1)(ii)</ref> because no precise portion of the base salary can be attributed to a particular transaction, but the $250 bonus is counted as <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> <ref target="1026-36-a-3" reftype="term">compensation</ref> that is included in <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
               </interpParagraph>
             </interpParagraph>
-            <interpParagraph label="1026-32-b-1-iii-Interp">
+            <interpParagraph label="1026-32-b-1-iii-Interp" target="1026-32-b-1-iii">
               <title>Paragraph 32(b)(1)(iii).</title>
               <content/>
               <interpParagraph label="1026-32-b-1-iii-Interp-1" marker="1.">
@@ -2492,8 +2487,8 @@
               <title>Paragraph 32(b)(1)(iv)</title>
               <content/>
               <interpParagraph label="1026-32-b-1-iv-Interp-1" marker="1.">
-                <title type="keyterm">Premium amount.</title>
-                <content><ref target="1026-2-a-14" reftype="term">Credit</ref> insurance and debt cancellation or suspension coverage. In determining <ref target="1026-32-b-1" reftype="term">points and fees</ref> for purposes of § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref>, premiums paid at or before <ref target="1026-2-a-13" reftype="term">consummation</ref> for <ref target="1026-2-a-14" reftype="term">credit</ref> insurance or any debt cancellation or suspension <ref target="1026-58-b-1" reftype="term">agreement</ref> or contract are included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> whether they are paid in cash or, if permitted by applicable law, financed and whether the insurance or coverage is optional or required. Such charges are also included whether the amount represents the entire premium or payment for the coverage or an initial payment.</content></interpParagraph>
+                <title type="keyterm">Credit insurance and debt cancellation or suspension coverage.</title>
+                <content>In determining <ref target="1026-32-b-1" reftype="term">points and fees</ref> for purposes of § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref>, premiums paid at or before <ref target="1026-2-a-13" reftype="term">consummation</ref> for <ref target="1026-2-a-14" reftype="term">credit</ref> insurance or any debt cancellation or suspension <ref target="1026-58-b-1" reftype="term">agreement</ref> or contract are included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> whether they are paid in cash or, if permitted by applicable law, financed and whether the insurance or coverage is optional or required. Such charges are also included whether the amount represents the entire premium or payment for the coverage or an initial payment.</content></interpParagraph>
               <interpParagraph label="1026-32-b-1-iv-Interp-2" marker="2.">
                 <title type="keyterm">Credit property insurance.</title>
                 <content><ref target="1026-2-a-14" reftype="term">Credit</ref> property insurance includes insurance against loss of or damage to personal property, such as a houseboat or manufactured home. <ref target="1026-2-a-14" reftype="term">Credit</ref> property insurance covers the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s <ref target="1026-2-a-25" reftype="term">security interest</ref> in the property. <ref target="1026-2-a-14" reftype="term">Credit</ref> property insurance does not include homeowners' insurance, which, unlike <ref target="1026-2-a-14" reftype="term">credit</ref> property insurance, typically covers not only the <ref target="1026-2-a-19" reftype="term">dwelling</ref> but its contents and protects the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in the property.</content>
@@ -3270,7 +3265,7 @@
                   <content>The following are examples of how to determine the maximum payment scheduled during the first five years after the date on which the first regular periodic payment will be due (all amounts shown are rounded, and all amounts are calculated using non-rounded values):</content>
                   <interpParagraph label="1026-43-c-5-ii-A-Interp-4-i" marker="i.">
                     <title type="keyterm">Balloon-payment mortgage with a three-year loan term; fixed interest rate.</title>
-                    <content>; fixed interest rate. A loan <ref target="1026-58-b-1" reftype="term">agreement</ref> provides for a fixed interest rate of 6 percent, which is below the APOR-calculated threshold for a comparable transaction; thus the loan is not a <ref target="1026-43-b-4" reftype="term">higher-priced covered transaction</ref>. The <ref target="1026-43-b-5" reftype="term">loan amount</ref> is $200,000, and the loan has a three-year <ref target="1026-43-b-6" reftype="term">loan term</ref> but is amortized over 30 years. The monthly payment scheduled for the first three years following <ref target="1026-2-a-13" reftype="term">consummation</ref> is $1,199, with a balloon payment of $193,367 due at the end of the third year. For purposes of § <ref target="1026-43-c-2-iii" reftype="internal">1026.43(c)(2)(iii)</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s ability to repay the loan based on the balloon payment of $193,367.</content></interpParagraph>
+                    <content>A loan <ref target="1026-58-b-1" reftype="term">agreement</ref> provides for a fixed interest rate of 6 percent, which is below the APOR-calculated threshold for a comparable transaction; thus the loan is not a <ref target="1026-43-b-4" reftype="term">higher-priced covered transaction</ref>. The <ref target="1026-43-b-5" reftype="term">loan amount</ref> is $200,000, and the loan has a three-year <ref target="1026-43-b-6" reftype="term">loan term</ref> but is amortized over 30 years. The monthly payment scheduled for the first three years following <ref target="1026-2-a-13" reftype="term">consummation</ref> is $1,199, with a balloon payment of $193,367 due at the end of the third year. For purposes of § <ref target="1026-43-c-2-iii" reftype="internal">1026.43(c)(2)(iii)</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s ability to repay the loan based on the balloon payment of $193,367.</content></interpParagraph>
                   <interpParagraph label="1026-43-c-5-ii-A-Interp-4-ii" marker="ii.">
                     <title type="keyterm">Renewable balloon-payment mortgage with a three-year loan term.</title>
                     <content>Assume the same facts above in comment <ref target="1026-43-c-5-ii-A-Interp-4-i" reftype="internal">43(c)(5)(ii)(A)-4.i</ref>, except that the loan <ref target="1026-58-b-1" reftype="term">agreement</ref> also provides that the <ref target="1026-2-a-17" reftype="term">creditor</ref> is unconditionally obligated to renew the balloon-payment mortgage at the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s option at the end of the three-year term for another three years. In determining the maximum payment scheduled during the first five years after the date on which the first regular periodic payment will be due, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must use a <ref target="1026-43-b-6" reftype="term">loan term</ref> of three years. Accordingly, for purposes of § <ref target="1026-43-c-2-iii" reftype="internal">1026.43(c)(2)(iii)</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s ability to repay the loan based on the balloon payment of $193,367.</content></interpParagraph>
