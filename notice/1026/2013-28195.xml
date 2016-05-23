@@ -20,7 +20,7 @@
   </preamble>
   <changeset leftDocumentNumber="2013-22752_20140101" rightDocumentNumber="2013-28195">
     <change operation="added" label="1026-3-b-Interp-1-v" parent="1026-3-b-Interp-1" after="1026-3-b-Interp-1-iv">
-      <interpParagraph label="1026-3-b-Interp-1-v">
+      <interpParagraph label="1026-3-b-Interp-1-v" marker="v.">
 	<content>From January 1, 2014 through December 31, 2014, the threshold amount is $53,500.</content>
       </interpParagraph>
     </change>
