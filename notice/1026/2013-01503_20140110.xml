@@ -138,7 +138,7 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="added" label="1026-36-i">
+    <change operation="added" label="1026-36-i" parent="1026-36" after="1026-36-h">
       <paragraph label="1026-36-i" marker="(i)">
         <title type="keyterm">Prohibition on financing single-premium credit insurance.</title>
         <content/>
