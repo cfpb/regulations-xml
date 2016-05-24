@@ -94,7 +94,8 @@
     <!-- Section 1026.36 is amended by adding paragraphs (g) through (i).  -->
     <change operation="modified" label="1026-36-g">
       <paragraph label="1026-36-g" marker="(g)">
-        <content>Name and NMLSR ID on loan documents.</content>
+        <title>Name and NMLSR ID on loan documents.</title>
+        <content/>
         <paragraph label="1026-36-g-1" marker="(1)">
           <content>For a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, a <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref> must include on the loan documents described in paragraph <ref target="1026-36-g-2" reftype="internal">(g)(2)</ref> of this section, whenever each such loan document is provided to a <ref target="1026-2-a-11" reftype="term">consumer</ref> or presented to a <ref target="1026-2-a-11" reftype="term">consumer</ref> for signature, as applicable:</content>
           <paragraph label="1026-36-g-1-i" marker="(i)">

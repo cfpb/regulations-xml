@@ -21,12 +21,12 @@
     <!-- Effective 1-1-2014: Amendments to §§ 1026.35(b)(2)(iii), 1026.36(a), (b), and (j) -->
     <change operation="modified" label="1026-35-b-2-iii-A">
       <paragraph label="1026-35-b-2-iii-A" marker="(A)">
-        <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> extended more than 50 percent of its total <ref target="1026-42-b-2" reftype="term">covered transactions</ref>, as defined by &#167; <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>, secured by a first lien, on properties that are located in counties that are either &#8220;rural&#8221; or &#8220;underserved,&#8221; as set forth in paragraph (b)(2)(iv) of th<ref target="1026-35-b-2-iv" reftype="internal">is section</ref>;</content>
+        <content>During the preceding calendar year, the <ref target="1026-2-a-17" reftype="term">creditor</ref> extended more than 50 percent of its total <ref target="1026-42-b-2" reftype="term">covered transactions</ref>, as defined by &#167; <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>, secured by a first lien, on properties that are located in counties that are either &#8220;rural&#8221; or &#8220;underserved,&#8221; as set forth in paragraph <ref target="1026-35-b-2-iv" reftype="internal">(b)(2)(iv)</ref> of this section;</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-35-b-2-iii-D-1">
       <paragraph label="1026-35-b-2-iii-D-1" marker="(1)">
-        <content>Escrow accounts established for first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> on or after April 1, 2010, and before June 1, 2013; or</content>
+        <content>Escrow accounts established for first-lien <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> on or after April 1, 2010, and before June 1, 2014; or</content>
       </paragraph>
     </change>
 

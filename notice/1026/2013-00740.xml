@@ -1309,7 +1309,7 @@
     <!-- 34(a)(8) Late Fees, 34(a)(8)(i) General, and paragraph 1 are added.
     34(a)(8)(iii) Multiple late charges assessed on payment subsequently paid and paragraph 1 are added.
     34(a)(8)(iv) Failure to make required payment and paragraph 1 are added. -->
-    <change operation="added" label="1026-34-a-8-Interp" parent="1026-34-a-Interp">
+    <change operation="added" label="1026-34-a-8-Interp" parent="1026-34-a-Interp" after="1026-34-a-6-Interp">
       <interpParagraph label="1026-34-a-8-Interp">
         <title>34(a)(8) Late fees.</title>
         <content/>

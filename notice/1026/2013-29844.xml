@@ -25,7 +25,7 @@
     </change>
     <change operation="modified" label="1026-52-b-1-ii-B">
       <paragraph label="1026-52-b-1-ii-B" marker="(B)">
-        <content>$37 if the <ref target="1026-2-a-7" reftype="term">card issuer</ref> previously imposed a fee pursuant to paragraph <ref target="1026-52-b-1-ii-A" reftype="internal">(b)(1)(ii)(A) of</ref> this section for a violation of the same type that occurred during the same <ref target="1026-2-a-4" reftype="term">billing cycle</ref> or one of the next six <ref target="1026-2-a-4" reftype="term">billing cycles</ref>; or</content>
+        <content>$37 if the <ref target="1026-2-a-7" reftype="term">card issuer</ref> previously imposed a fee pursuant to paragraph <ref target="1026-52-b-1-ii-A" reftype="internal">(b)(1)(ii)(A)</ref> of this section for a violation of the same type that occurred during the same <ref target="1026-2-a-4" reftype="term">billing cycle</ref> or one of the next six <ref target="1026-2-a-4" reftype="term">billing cycles</ref>; or</content>
       </paragraph>
     </change>
     <change operation="added" label="1026-32-a-1-ii-Interp-2-xix" parent="1026-32-a-1-ii-Interp-2" after="1026-32-a-1-ii-Interp-2-xviii">
