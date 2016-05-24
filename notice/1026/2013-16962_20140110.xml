@@ -3,7 +3,7 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2014-01-10</date>
+    <date>2013-07-24</date>
     <originalDate>2012-01-01</originalDate>
     <title>TRUTH IN LENDING</title>
   </fdsys>
@@ -77,7 +77,7 @@
     <change operation="modified" label="1026-Q">
       <appendix appendixLetter="Q" label="1026-Q">
         <appendixTitle>Appendix Q to Part 1026&#8212;Standards for Determining Monthly Debt and Income</appendixTitle>
-        <appendixSection appendixSecNum="0" label="1026-Q-p1">
+        <appendixSection appendixSecNum="10" label="1026-Q-p1">
           <subject/>
           <paragraph label="1026-Q-p1-p1" marker="">
             <content>Section <ref target="1026-43-e-2-vi" reftype="internal">1026.43(e)(2)(vi)</ref> provides that, to satisfy the requirements for a qualified mortgage under &#167; <ref target="1026-43-e-2" reftype="internal">1026.43(e)(2)</ref>, the ratio of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s total monthly debt payments to total monthly income at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref> cannot exceed 43 percent. Section <ref target="1026-43-e-2-vi-A" reftype="internal">1026.43(e)(2)(vi)(A)</ref> requires the <ref target="1026-2-a-17" reftype="term">creditor</ref> to calculate the ratio of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s total monthly debt payments to total monthly income using the following standards, with additional requirements for calculating debt and income appearing in &#167; <ref target="1026-43-e-2-vi-B" reftype="internal">1026.43(e)(2)(vi)(B)</ref>. Where guidance issued by the U.S. Department of Housing and Urban Development, the U.S. Department of Veterans Affairs, the U.S. Department of Agriculture, or the Rural Housing Service, or issued by the Federal National Mortgage Association (Fannie Mae) or the Federal Home Loan Mortgage Corporation (Freddie Mac) while operating under the conservatorship or receivership of the Federal Housing Finance Agency, or issued by a limited-life regulatory entity succeeding the charter of either Fannie Mae or Freddie Mac (collectively, Agency or GSE guidance) is in accordance with appendix Q, <ref target="1026-2-a-17" reftype="term">creditors</ref> may look to that guidance as a helpful resource in applying appendix Q. Moreover, when the following standards do not resolve how a specific kind of debt or income should be treated, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may either (1) exclude the income or include the debt, or (2) rely on Agency or GSE guidance to resolve the issue. The following standards resolve the appropriate treatment of a specific kind of debt or income where the standards provide a discernible answer to the question of how to treat the debt or income. However, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not rely on Agency or GSE guidance to reach a resolution contrary to that provided by the following standards, even if such Agency or GSE guidance specifically addresses the particular type of debt or income but the following standards provide more generalized guidance.</content></paragraph>
@@ -110,7 +110,7 @@
                 <content>
                   <callout type="note">
                     <line>Note:</line>
-                    <line>A <ref target="1026-2-a-11" reftype="term">consumer</ref> with a 25 percent or greater ownership interest in a business is considered self-employed and will be evaluated as a self-employed <ref target="1026-2-a-11" reftype="term">consumer</ref>.</line>
+                    <line>A consumer with a 25 percent or greater ownership interest in a business is considered self-employed and will be evaluated as a self-employed consumer.</line>
                   </callout>
                 </content></paragraph>
             </paragraph>
@@ -130,7 +130,7 @@
                 <content>
                   <callout type="note">
                     <line>Note:</line>
-                    <line><ref target="1026-2-a-17" reftype="term">Creditors</ref> may assume that employment is ongoing if a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s employer verifies current employment and does not indicate that employment has been, or is set to be terminated. <ref target="1026-2-a-17" reftype="term">Creditors</ref> should not rely upon a verification of current employment that includes an affirmative statement that the employment is likely to cease, such as a statement that indicates the employee has given (or been given) notice of employment suspension or termination.</line>
+                    <line>Creditors may assume that employment is ongoing if a consumer's employer verifies current employment and does not indicate that employment has been, or is set to be terminated. Creditors should not rely upon a verification of current employment that includes an affirmative statement that the employment is likely to cease, such as a statement that indicates the employee has given (or been given) notice of employment suspension or termination.</line>
                   </callout>
                 </content></paragraph>
               <paragraph label="1026-Q-h1-A-3-b" marker="b.">
@@ -180,12 +180,12 @@
                 <content>
                   <callout type="note">
                     <line>Notes:</line>
-                    <line>i. Effective income for <ref target="1026-2-a-11" reftype="term">consumers</ref> planning to retire during the first three-year period must include the amount of:</line>
+                    <line>i. Effective income for consumers planning to retire during the first three-year period must include the amount of:</line>
                     <line>a. Documented retirement benefits;</line>
                     <line>b. Social Security payments; or</line>
                     <line>c. Other payments expected to be received in retirement.</line>
-                    <line>ii. <ref target="1026-2-a-17" reftype="term">Creditors</ref> must not ask the <ref target="1026-2-a-11" reftype="term">consumer</ref> about possible, future maternity leave.</line>
-                    <line>iii. <ref target="1026-2-a-17" reftype="term">Creditors</ref> may assume that salary or wage income from employment verified in accordance with section I.A.3 above can be reasonably expected to continue if a <ref target="1026-2-a-11" reftype="term">consumer</ref>&#8217;s employer verifies current employment and income and does not indicate that employment has been, or is set to be terminated. <ref target="1026-2-a-17" reftype="term">Creditors</ref> should not assume that income can be reasonably expected to continue if a verification of current employment includes an affirmative statement that the employment is likely to cease, such as a statement that indicates the employee has given (or been given) notice of employment suspension or termination.</line>
+                    <line>ii. Creditors must not ask the consumer about ©possible, future maternity leave.</line>
+                    <line>iii. Creditors may assume that salary or wage income from employment verified in accordance with section I.A.3 above can be reasonably expected to continue if a consumer&#8217;s employer verifies current employment and income and does not indicate that employment has been, or is set to be terminated. Creditors should not assume that income can be reasonably expected to continue if a verification of current employment includes an affirmative statement that the employment is likely to cease, such as a statement that indicates the employee has given (or been given) notice of employment suspension or termination.</line>
                   </callout>
                 </content></paragraph>
             </paragraph>
@@ -224,7 +224,7 @@
               <paragraph label="1026-Q-h1-B-4-callout" marker="">
                 <content>
                   <callout type="note">
-                    <line>Note: For qualifying purposes, &#8220;part-time&#8221; income refers to employment taken to supplement the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income from regular employment; part-time employment is not a primary job and it is worked less than 40 hours.</line>
+                    <line>Note: For qualifying purposes, &#8220;part-time&#8221; income refers to employment taken to supplement the consumer's income from regular employment; part-time employment is not a primary job and it is worked less than 40 hours.</line>
                   </callout>
                 </content></paragraph>
             </paragraph>
@@ -285,7 +285,7 @@
                     <callout type="note">
                       <line>Notes:</line>
                       <line>i. Unreimbursed business expenses must be subtracted from gross income.</line>
-                      <line>ii. A commissioned <ref target="1026-2-a-11" reftype="term">consumer</ref> is one who receives more than 25 percent of his/her annual income from commissions.</line>
+                      <line>ii. A commissioned consumer is one who receives more than 25 percent of his/her annual income from commissions.</line>
                       <line>iii. A tax transcript obtained directly from the IRS may be used in lieu of signed tax returns.</line>
                     </callout>
                   </content></paragraph>
@@ -321,7 +321,7 @@
                 <content>
                   <callout type="note">
                     <line>Notes:</line>
-                    <line>i. If the Social Security Administration benefit verification letter does not indicate a defined expiration date within three years of loan origination, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall consider the income effective and likely to continue. Pending or current reevaluation of medical eligibility for benefit payments is not considered an indication that the benefit payments are not likely to continue.</line>
+                    <line>i. If the Social Security Administration benefit verification letter does not indicate a defined expiration date within three years of loan origination, the creditor shall consider the income effective and likely to continue. Pending or current reevaluation of medical eligibility for benefit payments is not considered an indication that the benefit payments are not likely to continue.</line>
                     <line>ii. Some portion of Social Security income may be &#8220;grossed up&#8221; if deemed nontaxable by the IRS.</line>
                   </callout>
                 </content></paragraph>
@@ -624,7 +624,7 @@
                 <content>
                   <callout type="note">
                     <line>Notes:</line>
-                    <line>i. Periods less than 12 months may be acceptable, provided the <ref target="1026-2-a-17" reftype="term">creditor</ref> can adequately document the payer's ability and willingness to make timely payments.</line>
+                    <line>i. Periods less than 12 months may be acceptable, provided the creditor can adequately document the payer's ability and willingness to make timely payments.</line>
                     <line>ii. Child support may be &#8220;grossed up&#8221; under the same provisions as non-taxable income sources.</line>
                   </callout>
                 </content></paragraph>
@@ -795,7 +795,7 @@
                 <paragraph label="1026-Q-h2-C-5-d-callout" marker="">
                   <content>
                     <callout type="note">
-                      <line>Note: Assistance payments made directly to the <ref target="1026-2-a-11" reftype="term">consumer</ref> must be treated as income.</line>
+                      <line>Note: Assistance payments made directly to the consumer must be treated as income.</line>
                     </callout>
                   </content></paragraph>
               </paragraph>
@@ -824,7 +824,7 @@
               <paragraph label="1026-Q-h2-D-1-callout" marker="">
                 <content>
                   <callout type="note">
-                    <line>Note: The underwriting analysis may not consider rental income from any property being vacated by the <ref target="1026-2-a-11" reftype="term">consumer</ref>, except under the circumstances described below.</line>
+                    <line>Note: The underwriting analysis may not consider rental income from any property being vacated by the consumer, except under the circumstances described below.</line>
                   </callout>
                 </content></paragraph>
             </paragraph>
@@ -901,7 +901,7 @@
                 <content>
                   <callout type="note">
                     <line>Notes:</line>
-                    <line>i. This policy assures that a <ref target="1026-2-a-11" reftype="term">consumer</ref> either has sufficient income to make both mortgage payments without any rental income, or has an equity position not likely to result in defaulting on the mortgage on the property being vacated.</line>
+                    <line>i. This policy assures that a consumer either has sufficient income to make both mortgage payments without any rental income, or has an equity position not likely to result in defaulting on the mortgage on the property being vacated.</line>
                     <line>ii. This applies solely to a principal residence being vacated in favor of another principal residence. It does not apply to existing rental properties disclosed on the loan application and confirmed by tax returns (Schedule E of form IRS 1040).</line>
                   </callout>
                 </content></paragraph>
@@ -961,7 +961,7 @@
                   <paragraph label="1026-Q-h2-E-2-c-p23" marker="">
                     <content>
                       <callout type="note">
-                        <line>Note: If the <ref target="1026-2-a-11" reftype="term">consumer</ref> is not required to file a Federal tax return, the tax rate to use is 25 percent.</line>
+                        <line>Note: If the consumer is not required to file a Federal tax return, the tax rate to use is 25 percent.</line>
                       </callout>
                     </content></paragraph>
                 </paragraph>
@@ -1076,7 +1076,7 @@
             <paragraph label="1026-Q-h3-3-p25" marker="">
               <content>
                 <callout type="note">
-                  <line>Note: If the actual monthly payment is documented from the <ref target="1026-2-a-17" reftype="term">creditor</ref> or the <ref target="1026-2-a-17" reftype="term">creditor</ref> obtains a copy of the current statement reflecting the monthly payment, that amount may be used for qualifying purposes.</line>
+                  <line>Note: If the actual monthly payment is documented from the creditor or the creditor obtains a copy of the current statement reflecting the monthly payment, that amount may be used for qualifying purposes.</line>
                 </callout>
               </content></paragraph>
           </paragraph>
