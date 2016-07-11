@@ -1,0 +1,2059 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2016-06-10</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>LAND REGISTRATION</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <cfr>
+      <title>12</title>
+      <section>1010</section>
+    </cfr>
+    <documentNumber>2016-10715</documentNumber>
+    <effectiveDate>2016-06-10</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/articles/2016/05/11/2016-10715/amendments-to-filing-requirements-under-the-interstate-land-sales-full-disclosure-act-regulations-j</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2011-31713" rightDocumentNumber="2016-10715">
+    <change operation="modified" label="1010-20-a">
+      <paragraph label="1010-20-a" marker="(a)">
+        <title type="keyterm">Filing.</title>
+        <content/>
+        <paragraph label="1010-20-a-1" marker="(1)">
+          <content>In order to register a subdivision and receive an effective date, the developer or <ref target="1010-1-b-9" reftype="term">owner</ref> of the subdivision must file a Statement of Record with the Director by either:</content>
+          <paragraph label="1010-20-a-1-i" marker="(i)">
+            <content>U.S. Mail, to the following official address: Consumer Financial Protection Bureau, Interstate Land Sales Registration Program, 1700 G Street NW., Washington, DC 20552; or</content>
+          </paragraph>
+          <paragraph label="1010-20-a-1-ii" marker="(ii)">
+            <content>Electronic means designated on the ILSA program page on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> at www.consumerfinance.gov/.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1010-20-a-2" marker="(2)">
+          <content>When the Statement of Record is filed, a fee in the amount set out in § 1010.35(b) must be paid in accordance with § 1010.35(a).</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-20-b">
+      <paragraph label="1010-20-b" marker="(b)">
+        <title type="keyterm">Form.</title>
+        <content/>
+        <paragraph label="1010-20-b-1" marker="(1)">
+          <content>The Statement of Record shall be in the format specified in § 1010.100 and shall be completed in accordance with the instructions in §§ 1010.102, 1010.105 through 1010.118, 1010.200, 1010.208 through 1010.216, and 1010.219. It shall be supported by the documents required by §§ 1010.208 through 1010.216 and 1010.219. It shall include any other information or documents which the Director may require as being necessary or appropriate for the protection of purchasers.</content>
+        </paragraph>
+        <paragraph label="1010-20-b-2" marker="(2)">
+          <content>The requirements relating to paper type, tabs, folding, and ordering for filings with the Bureau in § 1010.102(a), (g), and (h) do not apply if a Statement of Record is filed with the Bureau via electronic means designated on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> pursuant to § 1010.20(a).</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-A">
+      <appendix appendixLetter="A" label="1010-A">
+        <appendixTitle>Appendix A to Part 1010—Standard and Model Forms and Clauses</appendixTitle>
+        <tableOfContents>
+          <tocAppEntry target="1010-A-I">
+            <appendixLetter>I</appendixLetter>
+            <appendixSubject>I. Forms for Developer's Affirmation for Land Sale— § 1010.13(a)(9)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-II">
+            <appendixLetter>II</appendixLetter>
+            <appendixSubject>II. Language Notifying Buyer of Option to Cancel Contract— § 1010.15(b)(5)(i)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-III">
+            <appendixLetter>III</appendixLetter>
+            <appendixSubject>III. Sample Lot Information Statement and Sample Receipt— § 1010.15(b)(11)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-IV">
+            <appendixLetter>IV</appendixLetter>
+            <appendixSubject>IV. Request for Multiple Site Subdivision Exemption— § 1010.15(c)(1)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-V">
+            <appendixLetter>V</appendixLetter>
+            <appendixSubject>V. Request for Regulatory Exemption Order— § 1010.16(c)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-VI">
+            <appendixLetter>VI</appendixLetter>
+            <appendixSubject>VI. Developer's Affirmation for Advisory Opinion— § 1010.17(b)(3)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-VII">
+            <appendixLetter>VII</appendixLetter>
+            <appendixSubject>VII. Initial and Consolidated Registration Fee Schedule— § 1010.35(b)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-VIII">
+            <appendixLetter>VIII</appendixLetter>
+            <appendixSubject>VIII. Property Report for Statement of Record— § 1010.100(b)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-IX">
+            <appendixLetter>IX</appendixLetter>
+            <appendixSubject>IX. Sample Page for Statement of Record —1010.102(e)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-X">
+            <appendixLetter>X</appendixLetter>
+            <appendixSubject>X. Language for Warning on Cover Page of Property Report —§ 1010.105(c)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XI">
+            <appendixLetter>XI</appendixLetter>
+            <appendixSubject>XI. Sample Entry in Table of Contents for Statement of Record —§ 1010.106(a)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XII">
+            <appendixLetter>XII</appendixLetter>
+            <appendixSubject>XII. Required Language for Risks of Buying Land —§ 1010.107(a)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XIII">
+            <appendixLetter>XIII</appendixLetter>
+            <appendixSubject>XIII. Format for General Information —§ 1010.108</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XIV">
+            <appendixLetter>XIV</appendixLetter>
+            <appendixSubject>XIV. Paragraphs to be included in the General Report—Title to the Property and Land Use —§ 1010.109(a)(1)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XV">
+            <appendixLetter>XV</appendixLetter>
+            <appendixSubject>XV. Statement on Release Provisions —§ 1010.109(c)(2)(i)(A)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XVI">
+            <appendixLetter>XVI</appendixLetter>
+            <appendixSubject>XVI. Warning for Release Provisions —§ 1010.109(c)(2)(i)(C)(1)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XVII">
+            <appendixLetter>XVII</appendixLetter>
+            <appendixSubject>XVII. Method and Purpose of Recording Warning —§ 1010.109(d)(1)(iv)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XVIII">
+            <appendixLetter>XVIII</appendixLetter>
+            <appendixSubject>XVIII. Escrow Statement—Disclosure § 1010.109(e)(1)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XIX">
+            <appendixLetter>XIX</appendixLetter>
+            <appendixSubject>XIX. Road Chart —§ 1010.110(b)(3)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XX">
+            <appendixLetter>XX</appendixLetter>
+            <appendixSubject>XX. Nearby Communities Chart —§ 1010.110(b)(6)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXI">
+            <appendixLetter>XXI</appendixLetter>
+            <appendixSubject>XXI. Water Chart Form —§ 1010.111(a)(1)(ii)(B)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXII">
+            <appendixLetter>XXII</appendixLetter>
+            <appendixSubject>XXII. Comfort Station Chart —§ 1010.111(b)(1)(ii)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXIII">
+            <appendixLetter>XXIII</appendixLetter>
+            <appendixSubject>XXIII. Sewer Chart —§ 1010.111(b)(1)(iii)(B)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXIV">
+            <appendixLetter>XXIV</appendixLetter>
+            <appendixSubject>XXIV. Electric Service Chart—§ 1010.111(c)(2)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXV">
+            <appendixLetter>XXV</appendixLetter>
+            <appendixSubject>XXV. Recreational Facility Chart —§ 1010.114(b)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXVI">
+            <appendixLetter>XXVI</appendixLetter>
+            <appendixSubject>XXVI. Cost Sheet Format —§ 1010.117(a)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXVII">
+            <appendixLetter>XXVII</appendixLetter>
+            <appendixSubject>XXVII. Sample Receipt, Agent Certification and Cancellation Page —§ 1010.118(a)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXVIII">
+            <appendixLetter>XXVIII</appendixLetter>
+            <appendixSubject>XXVIII. Affirmation of Senior Executive Officer —§ 1010.219</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXIX">
+            <appendixLetter>XXIX</appendixLetter>
+            <appendixSubject>XXIX. Form for Certification for Disclosure Documents —§ 1010.504(a)(2)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXX">
+            <appendixLetter>XXX</appendixLetter>
+            <appendixSubject>XXX. Language to be Included on Property Report Cover Page —§ 1010.558(a)(1)</appendixSubject>
+          </tocAppEntry>
+          <tocAppEntry target="1010-A-XXXI">
+            <appendixLetter>XXXI</appendixLetter>
+            <appendixSubject>XXXI. Notice of Revocation Rights —§ 1010.559(a)(1)</appendixSubject>
+          </tocAppEntry>
+        </tableOfContents>
+        <appendixSection appendixSecNum="1" label="1010-A-I">
+          <subject>I. Forms for Developer's Affirmation for Land Sale— § 1010.13(a)(9)</subject>
+          <paragraph label="1010-A-I-p1" marker="">
+            <content>
+              <dash>Developer's Name</dash>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-I-p2" marker="">
+            <content>
+              <dash>Developer's Address</dash>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-I-p3" marker="">
+            <content>
+              <dash>Purchaser's Name(s)</dash>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-I-p4" marker="">
+            <content>
+              <dash>Purchaser's Address(es) (including county)</dash>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-I-p5" marker="">
+            <content>
+              <dash>Name of Subdivision</dash>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-I-p6" marker="">
+            <content><dash>Legal Description of Lot(s) Purchased</dash><ref target="1010-1-b-8" reftype="term">Lot</ref>(s) Purchased_____</content>
+          </paragraph>
+          <paragraph label="1010-A-I-p7" marker="">
+            <content>I hereby affirm that all of the requirements of the MSA exemption as set forth in <ref target="USC:15-1702" reftype="external">15 U.S.C. 1702</ref>(b)(8) and <ref target="CFR:12-1010-13" reftype="external">12 CFR 1010.13</ref><ref target="1010-13" reftype="internal">12 CFR 1010.13</ref> have been met in the <ref target="1010-1-b-13" reftype="term">sale</ref> or <ref target="1010-1-b-13" reftype="term">lease</ref> of the <ref target="1010-1-b-8" reftype="term">lot</ref>(s) described above.</content>
+          </paragraph>
+          <paragraph label="1010-A-I-p8" marker="">
+            <content>I also affirm that I submit to the jurisdiction of the Interstate Land Sales Full Disclosure <ref target="1010-1-b-1" reftype="term">Act</ref> with regard to the <ref target="1010-1-b-13" reftype="term">sale</ref> or <ref target="1010-1-b-13" reftype="term">lease</ref> cited above.</content>
+          </paragraph>
+          <paragraph label="1010-A-I-p9" marker="">
+            <content>
+              <dash>(Date)</dash>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-I-p10" marker="">
+            <content>
+              <dash>(Signature of Developer or Authorized Agent)</dash>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-I-p11" marker="">
+            <content>
+              <dash>(Title)</dash>
+            </content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="2" label="1010-A-II">
+          <subject>II. Language Notifying Buyer of Option to Cancel Contract— § 1010.15(b)(5)(i)</subject>
+          <paragraph label="1010-A-II-p12" marker="">
+            <content>You have the option to cancel your contract or agreement of <ref target="1010-1-b-13" reftype="term">sale</ref> by notice to the <ref target="1010-1-b-13" reftype="term">seller</ref> until midnight of the seventh day following the date of signing of the contract or agreement.</content>
+          </paragraph>
+          <paragraph label="1010-A-II-p13" marker="">
+            <content>If you did not receive a <ref target="1010-1-b-8" reftype="term">Lot</ref> Information Statement prepared pursuant to the <ref target="1010-1-b-12" reftype="term">rules</ref> and regulations of the Bureau of Consumer Financial Protection in advance of your signing the contract or agreement, the contract or agreement of <ref target="1010-1-b-13" reftype="term">sale</ref> may be cancelled at your option for two years from the date of signing.</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="3" label="1010-A-III">
+          <subject>III. Sample Lot Information Statement and Sample Receipt— § 1010.15(b)(11)</subject>
+          <paragraph label="1010-A-III-h1" marker="">
+            <title>Sample Format</title>
+            <content/>
+            <paragraph label="1010-A-III-h1-p14" marker="">
+              <content>(Use of the following headings and first paragraph are mandatory.)</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h1-h2" marker="">
+              <title>Lot Information Statement</title>
+              <content/>
+            </paragraph>
+            <paragraph label="1010-A-III-h1-h3" marker="">
+              <title>Important: Read Carefully Before Signing Anything</title>
+              <content/>
+              <paragraph label="1010-A-III-h1-h3-p15" marker="">
+                <content>The developer has obtained a regulatory exemption from registration under the Interstate Land Sales Full Disclosure <ref target="1010-1-b-1" reftype="term">Act</ref>. One requirement of that exemption is that you must receive this Statement prior to the time you sign an agreement (contract) to purchase a <ref target="1010-1-b-8" reftype="term">lot</ref>.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1010-A-III-h4" marker="">
+            <title>Right To Cancel</title>
+            <content/>
+            <paragraph label="1010-A-III-h4-p16" marker="">
+              <content>(Under this heading the developer is to state the specific rescission rights provided for in the contract pursuant to 1010.15(b)(5)(i)).</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1010-A-III-h5" marker="">
+            <title>Risk of Buying Land</title>
+            <content/>
+            <paragraph label="1010-A-III-h5-p17" marker="">
+              <content>(Under this heading the developer is to list the following information:)</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h5-p18" marker="">
+              <content>There are certain risks in purchasing real estate that you should be aware of. The following are some of those risks:</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h5-p19" marker="">
+              <content>The future value of land is uncertain and dependent upon many factors. Do not expect all land to automatically increase in value.</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h5-p20" marker="">
+              <content>Any value which your <ref target="1010-1-b-8" reftype="term">lot</ref> may have will be affected if roads, utilities and/or amenities cannot be completed or maintained.</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h5-p21" marker="">
+              <content>Any development will likely have some impact on the surrounding environment. Development which adversely affects the environment may cause governmental agencies to impose restriction on the use of the land.</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h5-p22" marker="">
+              <content>In the purchase of real estate, many technical requirements must be met to assure that you receive proper title and that you will be able to use the land for its intended purpose. Since this purchase involves a major expenditure of money, it is recommended that you seek professional advice before you obligate yourself.</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h5-p23" marker="">
+              <content>If adequate provisions have not been made for maintenance of the roads or if the land is not served by publicly maintained roads, you may have to maintain the roads at your expense.</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h5-p24" marker="">
+              <content>If the land is not served by a central sewage system and/or water system, you should contact the local authorities to determine whether a permit will be given for an on-<ref target="1010-1-b-15" reftype="term">site</ref> sewage disposal system and/or well and whether there is an adequate supply of water. You should also become familiar with the requirements for, and the cost of, obtaining electrical service to the <ref target="1010-1-b-8" reftype="term">lot</ref>.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1010-A-III-h6" marker="">
+            <title>Developer Information</title>
+            <content/>
+            <paragraph label="1010-A-III-h6-p25" marker="">
+              <content>(Under this heading the developer is to list the following information:)</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h6-p26" marker="">
+              <content>
+                <dash>Developer's Name:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h6-p27" marker="">
+              <content>
+                <dash>Address:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h6-p28" marker="">
+              <content>
+                <dash>Telephone Number:</dash>
+              </content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1010-A-III-h7" marker="">
+            <title>Lot Information</title>
+            <content/>
+            <paragraph label="1010-A-III-h7-p29" marker="">
+              <content>(Under this heading the developer is to list the following information:)</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h7-p30" marker="">
+              <content>
+                <ref target="1010-1-b-8" reftype="term">Lot</ref>
+                <dash>Lot Location:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h7-p31" marker="">
+              <content>(Enter a statement disclosing all liens, reservations, taxes, assessments, easements and restrictions applicable to the <ref target="1010-1-b-8" reftype="term">lot</ref>. A copy of the restrictions may be attached in lieu of recitation.)</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1010-A-III-h8" marker="">
+            <title>Suppliers of Utilities and Issuers of Permits</title>
+            <content/>
+            <paragraph label="1010-A-III-h8-p32" marker="">
+              <content>(Under this heading the developer is to list the name, address and phone number of the appropriate governmental agency or agencies, if any, that will provide information on permits or other requirements for water, sewer and electrical installations. The information will also contain the name, address and telephone number of the suppliers of such utilities which can provide information to the purchaser on costs and availability of such services. A chart similar to the one below may be used to supply this information).</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h8-p33" marker="">
+              <content>Listed below are contact points for determining permit requirements, if any, and to obtain information on approximate costs and availability for the listed services:</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h8-p34" marker="">
+              <content>
+                <table>
+                  <header>
+                    <columnHeaderRow>
+                      <column colspan="1" rowspan="2"/>
+                      <column colspan="2" rowspan="1">Name, address and telephone number of</column>
+                    </columnHeaderRow>
+                    <columnHeaderRow>
+                      <column colspan="1" rowspan="1">Governmental agency</column>
+                      <column colspan="1" rowspan="1">Supplier</column>
+                    </columnHeaderRow>
+                  </header>
+                  <row>
+                    <cell>Water</cell>
+                  </row>
+                  <row>
+                    <cell>Sewer</cell>
+                  </row>
+                  <row>
+                    <cell>Electricity</cell>
+                  </row>
+                </table>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h8-p35" marker="">
+              <content>If misrepresentations are made in the <ref target="1010-1-b-13" reftype="term">sale</ref> of this <ref target="1010-1-b-8" reftype="term">lot</ref> to you, you may have rights under the Interstate Land Sales Full Disclosure <ref target="1010-1-b-1" reftype="term">Act</ref>. If you have evidence of any scheme, artifice or device used to defraud you, you may wish to contact: Office of Nonbank Supervision, Interstate Land Sales Registration Program, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20006.</content>
+            </paragraph>
+            <paragraph label="1010-A-III-h8-p36" marker="">
+              <content>(The Receipt is to be in the following form:)</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1010-A-III-h9" marker="">
+            <title>Sample Receipt for Lot Information Statement</title>
+            <content/>
+            <paragraph label="1010-A-III-h9-p37" marker="">
+              <content>
+                <dash>Purchaser (print or type):</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h9-p38" marker="">
+              <content>
+                <dash>Date:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h9-p39" marker="">
+              <content>
+                <dash>Signature of purchaser:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h9-p40" marker="">
+              <content>
+                <dash/>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h9-p41" marker="">
+              <content>
+                <dash>Street Address:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h9-p42" marker="">
+              <content>
+                <dash>City:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h9-p43" marker="">
+              <content>
+                <dash>State:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h9-p44" marker="">
+              <content>
+                <dash>Zip:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h9-p45" marker="">
+              <content>
+                <dash>Name of salesperson (print or type):</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-III-h9-p46" marker="">
+              <content>
+                <dash>Signature of salesperson:</dash>
+              </content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="4" label="1010-A-IV">
+          <subject>IV. Request for Multiple Site Subdivision Exemption— § 1010.15(c)(1)</subject>
+          <paragraph label="1010-A-IV-h10" marker="">
+            <title>Request for Multiple Site Subdivision Exemption</title>
+            <content/>
+            <paragraph label="1010-A-IV-h10-p47" marker="">
+              <content>Developer:</content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p48" marker="">
+              <content>
+                <dash>Name:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p49" marker="">
+              <content>
+                <dash>Address:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p50" marker="">
+              <content>
+                <dash>Telephone No.:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p51" marker="">
+              <content>Agent:</content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p52" marker="">
+              <content>
+                <dash>Name:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p53" marker="">
+              <content>
+                <dash>Address:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p54" marker="">
+              <content>
+                <dash>Telephone No.:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p55" marker="">
+              <content>(Insert a general description of the developer's method of operation.)</content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p56" marker="">
+              <content>I affirm that I am, or will be, the developer of the property and/or method of operation described above.</content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p57" marker="">
+              <content>I affirm that the <ref target="1010-1-b-8" reftype="term">lots</ref> in said property will be sold in compliance with all of the requirements of <ref target="CFR:12-1010-15" reftype="external">12 CFR 1010.15</ref><ref target="1010-15" reftype="internal">12 CFR 1010.15</ref>.</content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p58" marker="">
+              <content>I further affirm that the statements contained in all documents submitted with this request for an Exemption Order are true and complete.</content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p59" marker="">
+              <content>
+                <dash>Date:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p60" marker="">
+              <content>
+                <dash>Signature:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p61" marker="">
+              <content>
+                <dash>Title:</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-IV-h10-p62" marker="">
+              <content>WARNING: <ref target="USC:18-1001" reftype="external">18 U.S.C. 1001</ref> provides, among other things, that whoever knowingly and willingly makes or uses a document or writing containing any false, fictitious, or fraudulent statement or entry, in any matter within the jurisdiction of any department or agency of the United States, shall be fined not more than $10,000 or imprisoned for not more than 5 years or both.</content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="5" label="1010-A-V">
+          <subject>V. Request for Regulatory Exemption Order— § 1010.16(c)</subject>
+          <paragraph label="1010-A-V-h11" marker="">
+            <title>REQUEST FOR EXEMPTION ORDER</title>
+            <content/>
+            <paragraph label="1010-A-V-h11-p63" marker="">
+              <content>
+                <dash>Subdivision</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p64" marker="">
+              <content>
+                <dash>Location (including county)</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p65" marker="">
+              <content>
+                <dash>Developer</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p66" marker="">
+              <content>
+                <dash>Address</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p67" marker="">
+              <content>
+                <dash>Authorized Agent or President of Developer</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p68" marker="">
+              <content>
+                <dash/>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p69" marker="">
+              <content>
+                <dash>Address</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p70" marker="">
+              <content><dash>Number of Lots Subject to Exemption Request</dash><ref target="1010-1-b-8" reftype="term">Lots</ref> Subject to Exemption Request_____</content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p71" marker="">
+              <content><dash>Description of Lots (list lot and block number or other identifying designation)</dash><ref target="1010-1-b-8" reftype="term">Lots</ref> (list <ref target="1010-1-b-8" reftype="term">lot</ref> and block number or other identifying designation)_____</content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p72" marker="">
+              <content>
+                <dash/>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p73" marker="">
+              <content>I affirm that I am the developer or <ref target="1010-1-b-9" reftype="term">owner</ref> of the property described above or will be the developer or <ref target="1010-1-b-9" reftype="term">owner</ref> at the time the <ref target="1010-1-b-8" reftype="term">lots</ref> are offered for <ref target="1010-1-b-13" reftype="term">sale</ref> to the public, or that I am the agent authorized by the developer or <ref target="1010-1-b-9" reftype="term">owner</ref> to complete this statement.</content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p74" marker="">
+              <content>I further affirm that the statements contained in all documents submitted with the request for an exemption order are true and complete.</content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p75" marker="">
+              <content>
+                <dash/>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p76" marker="">
+              <content>(Date)</content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p77" marker="">
+              <content>
+                <dash/>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p78" marker="">
+              <content>(Signature of Developer, <ref target="1010-1-b-9" reftype="term">Owner</ref> or Authorized Agent)</content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p79" marker="">
+              <content>
+                <dash/>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p80" marker="">
+              <content>(Title)</content>
+            </paragraph>
+            <paragraph label="1010-A-V-h11-p81" marker="">
+              <content>WARNING: Section <ref target="USC:15-1717" reftype="external">15 U.S.C. 1717</ref> provides: “Any person who willfully violates any of the provisions of this title or of the <ref target="1010-1-b-12" reftype="term">rules</ref> and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”</content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="6" label="1010-A-VI">
+          <subject>VI. Developer's Affirmation for Advisory Opinion— § 1010.17(b)(3)</subject>
+          <paragraph label="1010-A-VI-h12" marker="">
+            <title>Developer's Affirmation</title>
+            <content/>
+            <paragraph label="1010-A-VI-h12-p82" marker="">
+              <content>
+                <dash>Name of Subdivision</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p83" marker="">
+              <content>
+                <dash>Location (Including County and State)</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p84" marker="">
+              <content>
+                <dash>Name of Developer</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p85" marker="">
+              <content>
+                <dash>Address of Developer</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p86" marker="">
+              <content>
+                <dash>Name of Agent</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p87" marker="">
+              <content>
+                <dash>Address of Agent</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p88" marker="">
+              <content><dash>Number of Lots in Subdivision</dash><ref target="1010-1-b-8" reftype="term">Lots</ref> in Subdivision_____</content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p89" marker="">
+              <content>
+                <dash>Number of Acres in Subdivision</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p90" marker="">
+              <content>I affirm that I am the developer or <ref target="1010-1-b-9" reftype="term">owner</ref> of the property described above or will be the developer or <ref target="1010-1-b-9" reftype="term">owner</ref> at the time the <ref target="1010-1-b-8" reftype="term">lots</ref> are offered for <ref target="1010-1-b-13" reftype="term">sale</ref> to the public, or that I am the agent authorized by the developer or <ref target="1010-1-b-9" reftype="term">owner</ref> to complete this statement.</content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p91" marker="">
+              <content>I further affirm that the statements contained in all documents submitted with the request for an <ref target="1010-1-b-2" reftype="term">Advisory Opinion</ref> are true and complete.</content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p92" marker="">
+              <content>
+                <dash/>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p93" marker="">
+              <content>(Date)</content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p94" marker="">
+              <content>
+                <dash/>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p95" marker="">
+              <content>(Signature)</content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p96" marker="">
+              <content>
+                <dash/>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p97" marker="">
+              <content>(Title);</content>
+            </paragraph>
+            <paragraph label="1010-A-VI-h12-p98" marker="">
+              <content>WARNING: <ref target="USC:15-1717" reftype="external">15 U.S.C. 1717</ref> provides: “Any person who willfully violates any of the provisions of this title or of the <ref target="1010-1-b-12" reftype="term">rules</ref> and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”</content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="7" label="1010-A-VII">
+          <subject>VII. Initial and Consolidated Registration Fee Schedule— § 1010.35(b)</subject>
+          <paragraph label="1010-A-VII-p99" marker="">
+            <content>
+              <table>
+                <header>
+                  <columnHeaderRow>
+                    <column colspan="1" rowspan="1">Number of lots</column>
+                    <column colspan="1" rowspan="1">Fees</column>
+                  </columnHeaderRow>
+                </header>
+                <row>
+                  <cell>200 or fewer lots</cell>
+                  <cell>$800</cell>
+                </row>
+                <row>
+                  <cell>201 or more lots</cell>
+                  <cell>1,000</cell>
+                </row>
+              </table>
+              <ref target="1010-1-b-8" reftype="term">lots</ref>
+              <ref target="1010-1-b-8" reftype="term">lots</ref>
+              <ref target="1010-1-b-8" reftype="term">lots</ref>
+            </content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="8" label="1010-A-VIII">
+          <subject>VIII. Property Report for Statement of Record— § 1010.100(b)</subject>
+          <paragraph label="1010-A-VIII-h13" marker="">
+            <title>Property Report</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1010-A-VIII-h14" marker="">
+            <title>Heading and Section Number</title>
+            <content/>
+            <paragraph label="1010-A-VIII-h14-p100" marker="">
+              <content>
+                <table>
+                  <header/>
+                  <row>
+                    <cell>Cover Sheet</cell>
+                    <cell>1010.105</cell>
+                  </row>
+                  <row>
+                    <cell>Table of Contents</cell>
+                    <cell>1010.106</cell>
+                  </row>
+                  <row>
+                    <cell>Risks of Buying Land, Warnings</cell>
+                    <cell>1010.107</cell>
+                  </row>
+                  <row>
+                    <cell>General Information</cell>
+                    <cell>1010.108</cell>
+                  </row>
+                  <row>
+                    <cell>Title and Land Use</cell>
+                    <cell>1010.109</cell>
+                  </row>
+                  <row>
+                    <cell>(a) General Instructions</cell>
+                  </row>
+                  <row>
+                    <cell>(b) Method of Sale</cell>
+                  </row>
+                  <row>
+                    <cell>(c) Encumbrances, Mortgages and Liens</cell>
+                  </row>
+                  <row>
+                    <cell>(d) Recording the Contract and Deed</cell>
+                  </row>
+                  <row>
+                    <cell>(e) Payments</cell>
+                  </row>
+                  <row>
+                    <cell>(f) Restrictions</cell>
+                  </row>
+                  <row>
+                    <cell>(g) Plats, Zoning, Surveying, Permits, Environment</cell>
+                  </row>
+                  <row>
+                    <cell>Roads</cell>
+                    <cell>1010.110</cell>
+                  </row>
+                  <row>
+                    <cell>Utilities</cell>
+                    <cell>1010.111</cell>
+                  </row>
+                  <row>
+                    <cell>(a) Water</cell>
+                  </row>
+                  <row>
+                    <cell>(b) Sewer</cell>
+                  </row>
+                  <row>
+                    <cell>(c) Electricity</cell>
+                  </row>
+                  <row>
+                    <cell>(d) Telephone</cell>
+                  </row>
+                  <row>
+                    <cell>(e) Fuel or other Energy Source</cell>
+                  </row>
+                  <row>
+                    <cell>Financial Information</cell>
+                    <cell>1010.112</cell>
+                  </row>
+                  <row>
+                    <cell>Local Services</cell>
+                    <cell>1010.113</cell>
+                  </row>
+                  <row>
+                    <cell>Recreational Facilities</cell>
+                    <cell>1010.114</cell>
+                  </row>
+                  <row>
+                    <cell>Subdivision Characteristics and Climate</cell>
+                    <cell>1010.115</cell>
+                  </row>
+                  <row>
+                    <cell>(a) General Topography</cell>
+                  </row>
+                  <row>
+                    <cell>(b) Water Coverage</cell>
+                  </row>
+                  <row>
+                    <cell>(c) Drainage and Fill</cell>
+                  </row>
+                  <row>
+                    <cell>(d) Flood Plain</cell>
+                  </row>
+                  <row>
+                    <cell>(e) Flooding and Soil Erosion</cell>
+                  </row>
+                  <row>
+                    <cell>(f) Nuisances</cell>
+                  </row>
+                  <row>
+                    <cell>(g) Hazards</cell>
+                  </row>
+                  <row>
+                    <cell>(h) Climate</cell>
+                  </row>
+                  <row>
+                    <cell>(i) Occupancy</cell>
+                  </row>
+                  <row>
+                    <cell>Additional Information</cell>
+                    <cell>1010.116</cell>
+                  </row>
+                  <row>
+                    <cell>(a) Property Owners' Association</cell>
+                  </row>
+                  <row>
+                    <cell>(b) Taxes</cell>
+                  </row>
+                  <row>
+                    <cell>(c) Violations and Litigation</cell>
+                  </row>
+                  <row>
+                    <cell>(d) Resale or Exchange Program</cell>
+                  </row>
+                  <row>
+                    <cell>(e) Unusual Situations</cell>
+                  </row>
+                  <row>
+                    <cell>1. Leases</cell>
+                  </row>
+                  <row>
+                    <cell>2. Foreign Subdivision</cell>
+                  </row>
+                  <row>
+                    <cell>3. Time Sharing</cell>
+                  </row>
+                  <row>
+                    <cell>4. Membership</cell>
+                  </row>
+                  <row>
+                    <cell>(f) Equal Opportunity in Lot Sales</cell>
+                  </row>
+                  <row>
+                    <cell>(g) Listing of lots</cell>
+                  </row>
+                  <row>
+                    <cell>Cost Sheet</cell>
+                    <cell>1010.117</cell>
+                  </row>
+                  <row>
+                    <cell>Receipt, Agent Certification and Cancellation Page</cell>
+                    <cell>1010.118</cell>
+                  </row>
+                  <row>
+                    <cell>ADDITIONAL INFORMATION AND DOCUMENTATION</cell>
+                  </row>
+                  <row>
+                    <cell>General Information</cell>
+                    <cell>1010.208</cell>
+                  </row>
+                  <row>
+                    <cell>Title and Land Use</cell>
+                    <cell>1010.209</cell>
+                  </row>
+                  <row>
+                    <cell>Roads</cell>
+                    <cell>1010.210</cell>
+                  </row>
+                  <row>
+                    <cell>Utilities</cell>
+                    <cell>1010.211</cell>
+                  </row>
+                  <row>
+                    <cell>Financial Information</cell>
+                    <cell>1010.212</cell>
+                  </row>
+                  <row>
+                    <cell>Recreational Facilities</cell>
+                    <cell>1010.214</cell>
+                  </row>
+                  <row>
+                    <cell>Subdivision Characteristics</cell>
+                    <cell>1010.215</cell>
+                  </row>
+                  <row>
+                    <cell>Additional Information</cell>
+                    <cell>1010.216</cell>
+                  </row>
+                  <row>
+                    <cell>Affirmation</cell>
+                    <cell>1010.219</cell>
+                  </row>
+                  <row>
+                    <cell>The Bureau's OMB control number for this information collection is: 3170-0012.</cell>
+                  </row>
+                </table>
+                <ref target="1010-1-b-13" reftype="term">Sale</ref>
+                <ref target="1010-1-b-9" reftype="term">Owners</ref>
+                <ref target="1010-1-b-13" reftype="term">Leases</ref>
+                <ref target="1010-1-b-8" reftype="term">Lot</ref>
+                <ref target="1010-1-b-13" reftype="term">Sales</ref>
+                <ref target="1010-1-b-8" reftype="term">lots</ref>
+              </content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="9" label="1010-A-IX">
+          <subject>IX. Sample Page for Statement of Record —1010.102(e)</subject>
+          <paragraph label="1010-A-IX-h15" marker="">
+            <title>SAMPLE PAGE</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1010-A-IX-h16" marker="">
+            <title>ROADS</title>
+            <content/>
+            <paragraph label="1010-A-IX-h16-p101" marker="">
+              <content>Here we discuss the roads that lead to the subdivision, those within the subdivision and the location of nearby communities.</content>
+            </paragraph>
+            <paragraph label="1010-A-IX-h16-p102" marker="">
+              <content>ACCESS TO THE SUBDIVISION.</content>
+            </paragraph>
+            <paragraph label="1010-A-IX-h16-p103" marker="">
+              <content>County road #43 leads to the subdivision. It has two lanes and the width of the wearing surface is 22 feet. It's <ref target="1010-10-c-3" reftype="term">paved</ref> with a macadam surface.</content>
+            </paragraph>
+            <paragraph label="1010-A-IX-h16-p104" marker="">
+              <content>This road is maintained by Bottineau County with County funds. No improvements are planned at this time.</content>
+            </paragraph>
+            <paragraph label="1010-A-IX-h16-p105" marker="">
+              <content>ACCESS WITHIN THE SUBDIVISION.</content>
+            </paragraph>
+            <paragraph label="1010-A-IX-h16-p106" marker="">
+              <content>The roads within the subdivision will be located on rights of way dedicated to the public.</content>
+            </paragraph>
+            <paragraph label="1010-A-IX-h16-p107" marker="">
+              <content>We are responsible for constructing the interior roads. There will be no additional cost to you for this construction.</content>
+            </paragraph>
+            <paragraph label="1010-A-IX-h16-p108" marker="">
+              <content>WE HAVE NOT SET ASIDE ANY FUNDS IN AN ESCROW OR TRUST ACCOUNT OR MADE ANY OTHER FINANCIAL ARRANGEMENTS TO ASSURE COMPLETION OF THE ROADS, SO THERE IS NO ASSURANCE WE WILL BE ABLE TO COMPLETE THE ROADS.</content>
+            </paragraph>
+            <paragraph label="1010-A-IX-h16-p109" marker="">
+              <content>At present, the roads are under construction and do not provide access to the <ref target="1010-1-b-8" reftype="term">lots</ref> in Units 2 and 3 during wet weather. The succeeding chart describes their present condition and estimated completion dates.</content>
+            </paragraph>
+            <paragraph label="1010-A-IX-h16-p110" marker="">
+              <content>
+                <table>
+                  <header>
+                    <columnHeaderRow>
+                      <column colspan="1" rowspan="1">UUnit</column>
+                      <column colspan="1" rowspan="1">Estimated starting date (month and year)</column>
+                      <column colspan="1" rowspan="1">Percentage of construction now complete</column>
+                      <column colspan="1" rowspan="1">Estimated completion date (month and year)</column>
+                      <column colspan="1" rowspan="1">Present surface</column>
+                      <column colspan="1" rowspan="1">Final surface</column>
+                    </columnHeaderRow>
+                  </header>
+                  <row>
+                    <cell>1</cell>
+                    <cell>February 2010</cell>
+                    <cell>50</cell>
+                    <cell>December 2010</cell>
+                    <cell>Gravel</cell>
+                    <cell>Asphalt.</cell>
+                  </row>
+                  <row>
+                    <cell>2</cell>
+                    <cell>August 2010</cell>
+                    <cell>0</cell>
+                    <cell>June 2011</cell>
+                    <cell>Dirt</cell>
+                    <cell>Do.</cell>
+                  </row>
+                  <row>
+                    <cell>3</cell>
+                    <cell>April 2011</cell>
+                    <cell>0</cell>
+                    <cell>October 2011</cell>
+                    <cell>None</cell>
+                    <cell>Do.</cell>
+                  </row>
+                </table>
+              </content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="10" label="1010-A-X">
+          <subject>X. Language for Warning on Cover Page of Property Report —§ 1010.105(c)</subject>
+          <paragraph label="1010-A-X-p111" marker="">
+            <content>This Report is prepared and issued by the developer of this subdivision. It is not prepared or issued by the Federal Government.</content>
+          </paragraph>
+          <paragraph label="1010-A-X-p112" marker="">
+            <content>Federal law requires that you receive this Report prior to your signing a contract or agreement to buy or <ref target="1010-1-b-13" reftype="term">lease</ref> a <ref target="1010-1-b-8" reftype="term">lot</ref> in this subdivision. However, NO FEDERAL AGENCY HAS JUDGED THE MERITS OR VALUE, IF ANY, OF THIS PROPERTY.</content>
+          </paragraph>
+          <paragraph label="1010-A-X-p113" marker="">
+            <content>If you received this Report prior to signing a contract or agreement, you may cancel your contract or agreement by giving notice to the <ref target="1010-1-b-13" reftype="term">seller</ref> any time before midnight of the seventh day following the signing of the contract or agreement.</content>
+          </paragraph>
+          <paragraph label="1010-A-X-p114" marker="">
+            <content>If you did not receive this Report before you signed a contract or agreement, you may cancel the contract or agreement any time within two years from the date of signing.</content>
+          </paragraph>
+          <paragraph label="1010-A-X-p115" marker="">
+            <content>
+              <dash>Name of Subdivision</dash>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-X-p116" marker="">
+            <content>
+              <dash>Name of Developer</dash>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-X-p117" marker="">
+            <content>
+              <dash>Date of This Report</dash>
+            </content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="11" label="1010-A-XI">
+          <subject>XI. Sample Entry in Table of Contents for Statement of Record —§ 1010.106(a)</subject>
+          <paragraph label="1010-A-XI-p118" marker="">
+            <content>Title and Land Use # Page #</content>
+          </paragraph>
+          <paragraph label="1010-A-XI-p119" marker="">
+            <content>Method of <ref target="1010-1-b-13" reftype="term">Sale</ref></content>
+          </paragraph>
+          <paragraph label="1010-A-XI-p120" marker="">
+            <content>Encumbrances, Mortgages and Liens</content>
+          </paragraph>
+          <paragraph label="1010-A-XI-p121" marker="">
+            <content>Recording the Contract and Deed</content>
+          </paragraph>
+          <paragraph label="1010-A-XI-p122" marker="">
+            <content>Payments</content>
+          </paragraph>
+          <paragraph label="1010-A-XI-p123" marker="">
+            <content>Restrictions on the Use of Your <ref target="1010-1-b-8" reftype="term">Lot</ref></content>
+          </paragraph>
+          <paragraph label="1010-A-XI-p124" marker="">
+            <content>Plat Maps, Zoning, Surveying, Permits and Environment</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="12" label="1010-A-XII">
+          <subject>XII. Required Language for Risks of Buying Land —§ 1010.107(a)</subject>
+          <paragraph label="1010-A-XII-1" marker="(1)">
+            <content>The future value of any land is uncertain and dependent upon many factors. DO NOT expect all land to increase in value.</content>
+          </paragraph>
+          <paragraph label="1010-A-XII-2" marker="(2)">
+            <content>Any value which your <ref target="1010-1-b-8" reftype="term">lot</ref> may have will be affected if the roads, utilities and all proposed improvements are not completed. This paragraph may be omitted if all improvements have been completed or if no improvements are proposed.</content>
+          </paragraph>
+          <paragraph label="1010-A-XII-3" marker="(3)">
+            <content>Resale of your <ref target="1010-1-b-8" reftype="term">lot</ref> may be difficult or impossible, since you may face the competition of our own <ref target="1010-1-b-13" reftype="term">sales</ref> program and local real estate brokers may not be interested in listing your <ref target="1010-1-b-8" reftype="term">lot</ref>.</content>
+          </paragraph>
+          <paragraph label="1010-A-XII-4" marker="(4)">
+            <content>Any subdivision will have an impact on the surrounding environment. Whether or not the impact is adverse and the degree of impact, will depend on the location, size, planning and extent of development. Subdivisions which adversely affect the environment may cause governmental agencies to impose restrictions on the use of the land. Changes in plant and animal life, air and water quality and noise levels may affect your use and enjoyment of your <ref target="1010-1-b-8" reftype="term">lot</ref> and your ability to sell it.</content>
+          </paragraph>
+          <paragraph label="1010-A-XII-5" marker="(5)">
+            <content>In the purchase of real estate, many technical requirements must be met to assure that you receive proper title. Since this purchase involves a major expenditure of money, it is recommended that you seek professional advice before you obligate yourself.</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="13" label="1010-A-XIII">
+          <subject>XIII. Format for General Information —§ 1010.108</subject>
+          <paragraph label="1010-A-XIII-p125" marker="">
+            <content>“This Report covers __ <ref target="1010-1-b-8" reftype="term">lots</ref> located in ______ County, (State ). See Page __ for a listing of these <ref target="1010-1-b-8" reftype="term">lots</ref>. It is estimated that this subdivision will eventually contain __ <ref target="1010-1-b-8" reftype="term">lots</ref>.”</content>
+          </paragraph>
+          <paragraph label="1010-A-XIII-p126" marker="">
+            <content>“The developer of this subdivision is:</content>
+          </paragraph>
+          <paragraph label="1010-A-XIII-p127" marker="">
+            <content>
+              <dash/>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-XIII-p128" marker="">
+            <content>(Developer's Name)</content>
+          </paragraph>
+          <paragraph label="1010-A-XIII-p129" marker="">
+            <content>
+              <dash/>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-XIII-p130" marker="">
+            <content>(Developer's Address)</content>
+          </paragraph>
+          <paragraph label="1010-A-XIII-p131" marker="">
+            <content>
+              <dash/>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-XIII-p132" marker="">
+            <content>(Developer's telephone number)</content>
+          </paragraph>
+          <paragraph label="1010-A-XIII-p133" marker="">
+            <content>“Answers to questions and information about this subdivision may be obtained by telephoning the developer at the number listed above.”</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="14" label="1010-A-XIV">
+          <subject>XIV. Paragraphs to be included in the General Report—Title to the Property and Land Use —§ 1010.109(a)(1)</subject>
+          <paragraph label="1010-A-XIV-p134" marker="">
+            <content>“A person with legal title to property generally has the right to own, use and enjoy the property. A contract to buy a <ref target="1010-1-b-8" reftype="term">lot</ref> may give you possession but doesn't give you legal title. You won't have legal title until you receive a valid deed. A restriction or an encumbrance on your <ref target="1010-1-b-8" reftype="term">lot</ref>, or on the subdivision, could adversely affect your title.”</content>
+          </paragraph>
+          <paragraph label="1010-A-XIV-p135" marker="">
+            <content>“Here we will discuss the <ref target="1010-1-b-13" reftype="term">sales</ref> contract you will sign and the deed you will receive. We will also provide you with information about any land use restrictions and encumbrances, mortgages, or liens affecting your <ref target="1010-1-b-8" reftype="term">lot</ref> and some important facts about payments, recording, and title insurance.”</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="15" label="1010-A-XV">
+          <subject>XV. Statement on Release Provisions —§ 1010.109(c)(2)(i)(A)</subject>
+          <paragraph label="1010-A-XV-p136" marker="">
+            <content>“The release provisions for the (indicate all or particular <ref target="1010-1-b-8" reftype="term">lots</ref>) have not been recorded. Therefore, they may not be honored by subsequent holders of the mortgage. If they are not honored, you may not be able to obtain clear title to a <ref target="1010-1-b-8" reftype="term">lot</ref> covered by this mortgage until we have paid the mortgage in full, even if you have paid the full purchase price of the <ref target="1010-1-b-8" reftype="term">lot</ref>. If we should default on the mortgage prior to obtaining a release of your <ref target="1010-1-b-8" reftype="term">lot</ref>, you may lose your <ref target="1010-1-b-8" reftype="term">lot</ref> and all monies paid.”</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="16" label="1010-A-XVI">
+          <subject>XVI. Warning for Release Provisions —§ 1010.109(c)(2)(i)(C)(1)</subject>
+          <paragraph label="1010-A-XVI-p137" marker="">
+            <content>“The (state type of encumbrance) on (indicate all or particular <ref target="1010-1-b-8" reftype="term">lots</ref>) in this subdivision does not contain any provisions for the release of an individual <ref target="1010-1-b-8" reftype="term">lot</ref> when the full purchase price of the <ref target="1010-1-b-8" reftype="term">lot</ref> has been paid. Therefore, if your <ref target="1010-1-b-8" reftype="term">lot</ref> is subject to this (state type of encumbrance), you may not be able to obtain clear title to your <ref target="1010-1-b-8" reftype="term">lot</ref> until we have paid the (state type of encumbrance) in full, even though you may have received a deed and paid the full purchase price of the <ref target="1010-1-b-8" reftype="term">lot</ref>. If we should default on the (state type of encumbrance) prior to obtaining a release, you may lose your <ref target="1010-1-b-8" reftype="term">lot</ref> and all monies paid.”</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="17" label="1010-A-XVII">
+          <subject>XVII. Method and Purpose of Recording Warning —§ 1010.109(d)(1)(iv)</subject>
+          <paragraph label="1010-A-XVII-p138" marker="">
+            <content>“Unless your contract or deed is recorded you may lose your <ref target="1010-1-b-8" reftype="term">lot</ref> through the claims of subsequent purchasers or subsequent creditors of anyone having an interest in the land”.</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="18" label="1010-A-XVIII">
+          <subject>XVIII. Escrow Statement—Disclosure § 1010.109(e)(1)</subject>
+          <paragraph label="1010-A-XVIII-p139" marker="">
+            <content>“You may lose your (indicate deposit, down payment and/or installment payments) on your <ref target="1010-1-b-8" reftype="term">lot</ref> if we fail to deliver legal title to you as called for in the contract, because (they are/it is) not held in an escrow account which fully protects you.”</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="19" label="1010-A-XIX">
+          <subject>XIX. Road Chart —§ 1010.110(b)(3)</subject>
+          <paragraph label="1010-A-XIX-p140" marker="">
+            <content>
+              <table>
+                <header>
+                  <columnHeaderRow>
+                    <column colspan="1" rowspan="1">UUnit</column>
+                    <column colspan="1" rowspan="1">Estimated starting date (month/year)</column>
+                    <column colspan="1" rowspan="1">Percentage of construction now complete</column>
+                    <column colspan="1" rowspan="1">Estimated completion date (month/year)</column>
+                    <column colspan="1" rowspan="1">Present surface</column>
+                    <column colspan="1" rowspan="1">Final surface</column>
+                  </columnHeaderRow>
+                </header>
+                <row>
+                  <cell/>
+                  <cell/>
+                </row>
+              </table>
+            </content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="20" label="1010-A-XX">
+          <subject>XX. Nearby Communities Chart —§ 1010.110(b)(6)</subject>
+          <paragraph label="1010-A-XX-p141" marker="">
+            <content>
+              <table>
+                <header/>
+                <row>
+                  <cell>Nearby Communities</cell>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>Population</cell>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>Distance Over Paved Roads</cell>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>Distance Over Unpaved Roads</cell>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>Total</cell>
+                </row>
+              </table>
+              <ref target="1010-10-c-3" reftype="term">Paved</ref>
+            </content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="21" label="1010-A-XXI">
+          <subject>XXI. Water Chart Form —§ 1010.111(a)(1)(ii)(B)</subject>
+          <paragraph label="1010-A-XXI-p142" marker="">
+            <content>
+              <table>
+                <header>
+                  <columnHeaderRow>
+                    <column colspan="1" rowspan="1">UUnit</column>
+                    <column colspan="1" rowspan="1">Estimated starting date (month and year)</column>
+                    <column colspan="1" rowspan="1">Percentage of construction now 
+              complete</column>
+                    <column colspan="1" rowspan="1">Estimated service availability date (month and year)</column>
+                  </columnHeaderRow>
+                </header>
+                <row>
+                  <cell/>
+                  <cell/>
+                </row>
+              </table>
+            </content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="22" label="1010-A-XXII">
+          <subject>XXII. Comfort Station Chart —§ 1010.111(b)(1)(ii)</subject>
+          <paragraph label="1010-A-XXII-h17" marker="">
+            <title>Comfort Stations</title>
+            <content/>
+            <paragraph label="1010-A-XXII-h17-p143" marker="">
+              <content>
+                <dash>Unit</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXII-h17-p144" marker="">
+              <content>
+                <dash>Estimated Starting Date (month-year)</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXII-h17-p145" marker="">
+              <content>
+                <dash>Percentage of Construction now complete</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXII-h17-p146" marker="">
+              <content>
+                <dash>Estimated Service Availability Date (month and year)</dash>
+              </content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="23" label="1010-A-XXIII">
+          <subject>XXIII. Sewer Chart —§ 1010.111(b)(1)(iii)(B)</subject>
+          <paragraph label="1010-A-XXIII-h18" marker="">
+            <title>Sewer</title>
+            <content/>
+            <paragraph label="1010-A-XXIII-h18-p147" marker="">
+              <content>
+                <dash>Unit Estimated Starting Date (month/year)</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXIII-h18-p148" marker="">
+              <content>
+                <dash>Percentage of Construction now complete</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXIII-h18-p149" marker="">
+              <content>
+                <dash>Estimated Service Availability Date (month/year)</dash>
+              </content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="24" label="1010-A-XXIV">
+          <subject>XXIV. Electric Service Chart—§ 1010.111(c)(2)</subject>
+          <paragraph label="1010-A-XXIV-p150" marker="">
+            <content>
+              <table>
+                <header>
+                  <columnHeaderRow>
+                    <column colspan="1" rowspan="1">UUnit</column>
+                    <column colspan="1" rowspan="1">Estimated starting date (month and year)</column>
+                    <column colspan="1" rowspan="1">Percentage of construction complete</column>
+                    <column colspan="1" rowspan="1">Estimated service availability date (month and year)</column>
+                  </columnHeaderRow>
+                </header>
+                <row>
+                  <cell/>
+                  <cell/>
+                </row>
+              </table>
+            </content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="25" label="1010-A-XXV">
+          <subject>XXV. Recreational Facility Chart —§ 1010.114(b)</subject>
+          <paragraph label="1010-A-XXV-p151" marker="">
+            <content>
+              <table>
+                <header>
+                  <columnHeaderRow>
+                    <column colspan="1" rowspan="1">Facility</column>
+                    <column colspan="1" rowspan="1">Percentage of construction now 
+              complete</column>
+                    <column colspan="1" rowspan="1">Estimated date of start of construction (month/year)</column>
+                    <column colspan="1" rowspan="1">Estimated date available for use
+              (month/year)</column>
+                    <column colspan="1" rowspan="1">Financial assurance of completion</column>
+                    <column colspan="1" rowspan="1">Buyer's annual cost or assessments</column>
+                  </columnHeaderRow>
+                </header>
+                <row>
+                  <cell/>
+                  <cell/>
+                </row>
+              </table>
+              <ref target="1010-1-b-16" reftype="term">start of construction</ref>
+              <ref target="1010-1-b-3" reftype="term">available for use</ref>
+            </content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="26" label="1010-A-XXVI">
+          <subject>XXVI. Cost Sheet Format —§ 1010.117(a)</subject>
+          <paragraph label="1010-A-XXVI-h19" marker="">
+            <title>Cost Sheet</title>
+            <content/>
+            <paragraph label="1010-A-XXVI-h19-p152" marker="">
+              <content>In addition to the purchase price of your <ref target="1010-1-b-8" reftype="term">lot</ref>, there are other expenditures which must be made.</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVI-h19-p153" marker="">
+              <content>Listed below are the major costs. There may be other fees for use of the recreational facilities.</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVI-h19-p154" marker="">
+              <content>All costs are subject to change.</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVI-h19-p155" marker="">
+              <content>
+                <table>
+                  <header/>
+                  <row>
+                    <cell>Sales Price</cell>
+                  </row>
+                  <row>
+                    <cell>Cash Price of lot</cell>
+                    <cell>$</cell>
+                  </row>
+                  <row>
+                    <cell>Finance Charge</cell>
+                    <cell>$</cell>
+                  </row>
+                  <row>
+                    <cell>Total</cell>
+                    <cell>$</cell>
+                  </row>
+                  <row>
+                    <cell>Estimated one-time charges</cell>
+                  </row>
+                  <row>
+                    <cell>1. Water connection fee/installation or private well</cell>
+                    <cell>$</cell>
+                  </row>
+                  <row>
+                    <cell>2. Sewer connection fee/installation of private on-site sewer system</cell>
+                    <cell>$</cell>
+                  </row>
+                  <row>
+                    <cell>3. Construction costs to extend electric and/or telephone services</cell>
+                    <cell>$</cell>
+                  </row>
+                  <row>
+                    <cell>4. Other (Identify)</cell>
+                    <cell>$</cell>
+                  </row>
+                  <row>
+                    <cell/>
+                    <cell>$</cell>
+                  </row>
+                  <row>
+                    <cell>Total of estimated sales price and one-time charges</cell>
+                    <cell>$</cell>
+                  </row>
+                  <row>
+                    <cell>Estimated monthly/annual charges, exclusive of utility use fees</cell>
+                  </row>
+                  <row>
+                    <cell>1. Taxes—Average unimproved lot after sale to purchaser</cell>
+                    <cell>$</cell>
+                  </row>
+                  <row>
+                    <cell>2. Dues and assessments</cell>
+                    <cell>$</cell>
+                  </row>
+                </table>
+                <ref target="1010-1-b-13" reftype="term">Sales</ref>
+                <ref target="1010-1-b-8" reftype="term">lot</ref>
+                <ref target="1010-1-b-15" reftype="term">site</ref>
+                <ref target="1010-1-b-13" reftype="term">sales</ref>
+                <ref target="1010-1-b-8" reftype="term">lot</ref>
+                <ref target="1010-1-b-13" reftype="term">sale</ref>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVI-h19-p156" marker="">
+              <content>The information contained in this Property Report is an accurate description of our subdivision and development plans.</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVI-h19-p157" marker="">
+              <content>
+                <dash/>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVI-h19-p158" marker="">
+              <content>Signature of <ref target="1010-1-b-14" reftype="term">Senior Executive Officer</ref></content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="27" label="1010-A-XXVII">
+          <subject>XXVII. Sample Receipt, Agent Certification and Cancellation Page —§ 1010.118(a)</subject>
+          <paragraph label="1010-A-XXVII-h20" marker="">
+            <title>Receipt, Agent Certification and Cancellation Page purchaser receipt Important: Read Carefully</title>
+            <content/>
+            <paragraph label="1010-A-XXVII-h20-p159" marker="">
+              <content>
+                <dash>Name of subdivision</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p160" marker="">
+              <content>
+                <ref target="1010-1-b-7" reftype="term">ILSRP</ref>
+                <dash>ILSRP number</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p161" marker="">
+              <content>
+                <dash>Date of report</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p162" marker="">
+              <content>We must give you a copy of this Property Report and give you an opportunity to read it before you sign any contract or agreement. By signing this receipt, you acknowledge that you have received a copy of our Property Report.</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p163" marker="">
+              <content>
+                <dash>Received by</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p164" marker="">
+              <content>
+                <dash>Date</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p165" marker="">
+              <content>
+                <dash>Street address</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p166" marker="">
+              <content>
+                <dash>City</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p167" marker="">
+              <content>
+                <dash>State</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p168" marker="">
+              <content>
+                <dash>Zip</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p169" marker="">
+              <content>If any representations are made to you which are contrary to those in this Report, please notify the:</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p170" marker="">
+              <content>Bureau of Consumer Financial Protection</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p171" marker="">
+              <content>1700 G Street NW</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h20-p172" marker="">
+              <content>Washington, DC 20006</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1010-A-XXVII-h21" marker="">
+            <title>Agent Certification</title>
+            <content/>
+            <paragraph label="1010-A-XXVII-h21-p173" marker="">
+              <content>I certify that I have made no representations to the person(s) receiving this Property Report which are contrary to the information contained in this Property Report.</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h21-p174" marker="">
+              <content>
+                <dash>Lot</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h21-p175" marker="">
+              <content>
+                <dash>Block</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h21-p176" marker="">
+              <content>
+                <dash>Section</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h21-p177" marker="">
+              <content>
+                <dash>Name of salesperson</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h21-p178" marker="">
+              <content>
+                <dash>Signature</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h21-p179" marker="">
+              <content>
+                <dash>Date</dash>
+              </content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1010-A-XXVII-h22" marker="">
+            <title>Purchase Cancellation</title>
+            <content/>
+            <paragraph label="1010-A-XXVII-h22-p180" marker="">
+              <content>If you are entitled to cancel your purchase contract, and wish to do so, you may cancel by personal notice, or in writing. If you cancel in person or by telephone, it is recommended that you immediately confirm the cancellation by certified mail. You may use the form below.</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h22-p181" marker="">
+              <content>
+                <dash>Name of subdivision</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h22-p182" marker="">
+              <content>
+                <dash>Date of contract</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h22-p183" marker="">
+              <content>This will confirm that I/we wish to cancel our purchase contract.</content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h22-p184" marker="">
+              <content>
+                <dash>Purchaser(s) signature</dash>
+              </content>
+            </paragraph>
+            <paragraph label="1010-A-XXVII-h22-p185" marker="">
+              <content>
+                <dash>Date</dash>
+              </content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="28" label="1010-A-XXVIII">
+          <subject>XXVIII. Affirmation of Senior Executive Officer —§ 1010.219</subject>
+          <paragraph label="1010-A-XXVIII-p186" marker="">
+            <content>I hereby affirm that I am the <ref target="1010-1-b-14" reftype="term">Senior Executive Officer</ref> of the developer of the <ref target="1010-1-b-8" reftype="term">lots</ref> herein described or will be the <ref target="1010-1-b-14" reftype="term">Senior Executive Officer</ref> of the developer at the time <ref target="1010-1-b-8" reftype="term">lots</ref> are offered for <ref target="1010-1-b-13" reftype="term">sale</ref> or <ref target="1010-1-b-13" reftype="term">lease</ref> to the public, or that I am the agent authorized by the <ref target="1010-1-b-14" reftype="term">Senior Executive Officer</ref> of such developer to complete this statement (if agent, submit written authorization to act as agent); and,</content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p187" marker="">
+            <content>That the statements contained in this Statement of Record and any supplement hereto, together with any documents submitted herein, are full, true, complete, and correct; and,</content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p188" marker="">
+            <content>That the developer is bound to carry out the promises and obligations set forth in this Statement of Record and Property Report or I have clearly stated who is or will be responsible; and</content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p189" marker="">
+            <content>That the fees accompanying this submission are in the amount required by the <ref target="1010-1-b-12" reftype="term">rules</ref> and regulations of the Bureau of Consumer Financial Protection.</content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p190" marker="">
+            <content>
+              <dash/>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p191" marker="">
+            <content>(Date)</content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p192" marker="">
+            <content>
+              <dash/>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p193" marker="">
+            <content>(Signature)</content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p194" marker="">
+            <content>
+              <dash/>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p195" marker="">
+            <content>(Corporate seal if applicable)</content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p196" marker="">
+            <content>
+              <dash/>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p197" marker="">
+            <content>(Title)</content>
+          </paragraph>
+          <paragraph label="1010-A-XXVIII-p198" marker="">
+            <content>WARNING: <ref target="USC:15-1717" reftype="external">15 U.S.C. 1717</ref> provides: “Any person who willfully violates any of the provisions of this title or of the <ref target="1010-1-b-12" reftype="term">rules</ref> and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="29" label="1010-A-XXIX">
+          <subject>XXIX. Form for Certification for Disclosure Documents —§ 1010.504(a)(2)</subject>
+          <paragraph label="1010-A-XXIX-p199" marker="">
+            <content>The (indicate the State Department of Real Estate or other appropriate entity) has reviewed the attached materials and finds they are true copies of (1) the (indicate Property Report or other similar state accepted document or amendment to such document) for (indicate the name of the subdivision), made effective by the state of ______ on ______ (give date) and still in effect; and (2) the supporting documentation upon which such (indicate the document or amendment) is based.</content>
+          </paragraph>
+          <paragraph label="1010-A-XXIX-p200" marker="">
+            <content>
+              <dash/>
+            </content>
+          </paragraph>
+          <paragraph label="1010-A-XXIX-p201" marker="">
+            <content>Signature</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="30" label="1010-A-XXX">
+          <subject>XXX. Language to be Included on Property Report Cover Page —§ 1010.558(a)(1)</subject>
+          <paragraph label="1010-A-XXX-p202" marker="">
+            <content>“If you received this Report prior to signing a contract or agreement, you may cancel your contract or agreement by giving notice to the <ref target="1010-1-b-13" reftype="term">seller</ref> anytime before midnight of the seventh day following the signing of the contract or agreement.</content>
+          </paragraph>
+          <paragraph label="1010-A-XXX-p203" marker="">
+            <content>“If you did not receive this Report before you signed a contract or agreement, you may cancel the contract or agreement anytime within two years from the date of signing.”</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="31" label="1010-A-XXXI">
+          <subject>XXXI. Notice of Revocation Rights —§ 1010.559(a)(1)</subject>
+          <paragraph label="1010-A-XXXI-p204" marker="">
+            <content>You have the option to cancel your contract or agreement of <ref target="1010-1-b-13" reftype="term">sale</ref> by notice to the <ref target="1010-1-b-13" reftype="term">seller</ref> until midnight of the seventh day following the signing of the contract or agreement. If you did not receive a Property Report prepared pursuant to the <ref target="1010-1-b-12" reftype="term">rules</ref> and regulations of the Bureau of Consumer Financial Protection, in advance of your signing the contract or agreement, this contract or agreement may be revoked at your option for two years from the date of signing.</content>
+          </paragraph>
+        </appendixSection>
+      </appendix>
+    </change>
+    <change operation="modified" label="1010-504-a-1">
+      <paragraph label="1010-504-a-1" marker="(1)">
+        <content>Accept for filing and allow to be distributed as the sole disclosure document, a disclosure document currently in effect in the situs certified State. Only those documents filed with the situs state after certification by the Director must automatically be accepted by other certified states;</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-102-a">
+      <paragraph label="1010-102-a" marker="(a)">
+        <title type="keyterm">Paper and type.</title>
+        <content>The Statement of Record shall be on good quality, unglazed white or pastel paper. Letter size paper, approximately 8 1/2 × 11 inches in size, will be used for the Property Report portion, and either letter size paper, approximately 8 1/2 × 11 inches in size, or legal size paper, approximately 8 1/2 × 14 inches in size, will be used for the Additional Information and Documentation portion. Side margins shall be no less than 1 inch and no greater than 1 1/2 inches. Top and bottom margins shall be no less than 1 inch. In the preparation of the charts to be included in the Property Report, the developer may vary from the above margin requirements or print the charts lengthwise on the required size paper if such measures are necessary to make the charts readable. The Statement of Record shall be prepared in an easily readable, uniform font.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-102-e">
+      <paragraph label="1010-102-e" marker="(e)">
+        <title type="keyterm">Headings, subheadings, captions, introductory paragraphs, warnings.</title>
+        <content>Property Report subject “headings” are those descriptive introductory words which appear immediately after section numbers 1010.106 through 1010.116 (e.g. § 1010.108 has “General Information” and § 1010.111 has “Utilities”). Each such heading shall be printed in the Property Report in underlined capital letters and centered at the top of a new page. Section numbers shall not be printed in the Property Report. Property Report subheadings are those descriptive introductory words which appear in italics in the regulations at the beginning of paragraphs designated by paragraph letters (a), (b), (c) etc. An example of a subheading is “water” found immediately after the paragraph letter (a) in § 1010.111. These subheadings will be printed in the Property Report only if they are relevant to the subject subdivision. If printed these subheadings shall be capitalized and shall begin at the left hand margin of the page. Property Report “captions” are those descriptive introductory words which appear in italics in the Regulations at the beginning of paragraphs designated by numbers (1), (2), (3), etc. An example of such captions is “<ref target="1010-1-b-13" reftype="term">Sales</ref> Contract and Delivery of Deed” found immediately after the paragraph number “(1)” in § 1010.109(b). These captions are to be printed in the Property Report only if they are applicable to the subject subdivision. If printed, these captions shall be centered on the page from the side margins, and shall have only the first letter of each word capitalized. Headings and subheadings will be used in the Property Report in accordance with the sample page appearing in <ref target="1010-A-IX" reftype="internal">section IX of the appendix to this part</ref>. Introductory paragraphs will follow headings if they are applicable and necessary for a readable entry into the subject matters, but note, the introductory paragraphs for “Title to the Property and Land Use” are to be used in every case as provided in § 1010.109(a)(1). Subheadings and captions which do not apply to the subdivision should be omitted from the Property Report portion and answered “not applicable” in the Additional Information and Documentation portion, unless specifically required to be included elsewhere in these instructions. Warnings shall be printed substantially as they appear in the instructions in §§ 1010.105 through 1010.118. They shall be printed in capital letters and may be enclosed in a box. The paragraphs in the Property Report portion need not be numbered. A sample page is set forth in <ref target="1010-A-IX" reftype="internal">section IX of the appendix to this part</ref>: Sample Page for Statement of Record.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-103-a">
+      <paragraph label="1010-103-a" marker="(a)">
+        <content>If the developer represents either orally or in writing that it will provide or complete roads or facilities for water, sewer, gas, electricity or recreational amenities, it must be contractually obligated to do so, and the obligation shall be clearly stated in the Property Report. While the developer may disclose relevant facts about completion, the obligation to complete cannot be conditioned, other than as permitted by <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>(a)(2), and an estimated completion date (month and year) must be stated in the Property Report. However, a developer that has only tentative plans to complete may so state in the Property Report, provided that the statement clearly identifies conditions to which the completion of the facilities are subject and states that there are no guarantees the facilities will be completed.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-21-b">
+      <paragraph label="1010-21-b" marker="(b)">
+        <title type="keyterm">Suspension of effective date by developer.</title>
+        <content/>
+        <paragraph label="1010-21-b-1" marker="(1)">
+          <content>A developer, or <ref target="1010-1-b-9" reftype="term">owner</ref>, may request that the effective date of its Statement of Record be suspended, provided there are no administrative proceedings pending against either of them at the time the request is submitted. The request must include any consolidations or amendments which have been made to the initial Statement of Record and may be submitted via the electronic means of submission described in § 1010.20(a). Forms for this purpose will be furnished by the Director upon request.</content>
+        </paragraph>
+        <paragraph label="1010-21-b-2" marker="(2)">
+          <content>Upon acceptance by the Director, the effectiveness of the Statement of Record shall be suspended as of the date the request was executed by the developer or <ref target="1010-1-b-9" reftype="term">owner</ref>.</content>
+        </paragraph>
+        <paragraph label="1010-21-b-3" marker="(3)">
+          <content>The suspension shall continue until the developer, or <ref target="1010-1-b-9" reftype="term">owner</ref>, submits all amendments necessary to bring the registration into full compliance with the Regulations which are in effect on the date of the amendments and the Director allows those amendments to become effective.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-506-a-2">
+      <paragraph label="1010-506-a-2" marker="(2)">
+        <content>Retroactive application of the effectiveness of state's certification to a specified date may be granted on a state-by-state basis, where the Director determines that retroactive application will not result in automatic Federal registration of any state filing that has not met the requirements of the certified state laws.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-310-b">
+      <paragraph label="1010-310-b" marker="(b)">
+        <content>The report shall be submitted within 30 days of the annual anniversary of the effective date of the initial Statement of Record. The report may be submitted via the electronic means described in § 1010.20(a).</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-102-h">
+      <paragraph label="1010-102-h" marker="(h)">
+        <title type="keyterm">Ordering.</title>
+        <content>The Statement of Record shall be filed with the Property Report portion on top, including any documents which may be required to be attached when delivered to the purchaser, followed by the Additional Information and Documentation portion.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-102-m">
+      <paragraph label="1010-102-m" marker="(m)">
+        <title type="keyterm">Final version of Property Report.</title>
+        <content>On the date that a Statement of Record becomes effective, the Property Report portion shall become the Property Report for the subject subdivision. The version of the Property Report delivered to prospective <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers shall be verbatim to that found effective by the Director and shall have no covers, pictures, emblems, logograms or identifying insignia other than as required by these regulations. It shall meet the same standards as to grade of paper, type size, margins, style and color of print as those set herein for the Statement of Record, except where required otherwise by these regulations. However, the date of typing or preparation of the pages and the <ref target="1010-1-b-7" reftype="term">ILSRP</ref> number shall not appear in the final version. If the final version of the Property Report is commercially printed, or photocopied by a process which results in a commercial printing quality, and is bound on the left side, both sides of the pages may be used for printed material. If it is typed or photocopied by a process which does not result in a clear and legible product on both sides of the page or is bound at the top, printing shall be done on only one side of the page. If a Statement of Record is filed with the Bureau via electronic means pursuant to § 1010.20(a), the version of the Property Report delivered to prospective <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers shall meet the same standards that apply under these regulations to a Statement of Record not filed with the Bureau via electronic means. One copy of the final version of the Property Report, in the exact form in which it is delivered to prospective <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers, shall be sent to <ref target="1010-1-b-7" reftype="term">ILSRP</ref> Office within 20 days of the date on which the Statement of Record, amendment, or consolidation is allowed to become effective by the Director. If a Property Report in a foreign language is used as required by § 1011.25(g), a copy of that Property Report together with a copy of the translated documents shall be furnished the Director within 20 days of the date on which the advertising is first used. A Property Report prepared pursuant to these regulations shall not be distributed to potential <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers until after the Statement of Record of which it is a part or any amendment to that Statement of Record has been made effective by the Director.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-215-a">
+      <paragraph label="1010-215-a" marker="(a)">
+        <content>Submit a copy of a current geological survey topographic map, or maps, of the largest scale available from the U.S. Geological Survey with an outline of the entire subdivision and the area included in this Statement of Record clearly indicated. Do not shade the areas on the maps which have been outlined.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-507">
+      <section label="1010-507" sectionNum="507">
+        <subject>§ 1010.507 Effect of suspension or withdrawal of certification granted under 15 U.S.C. 1708(a)(1): Full disclosure requirement.</subject>
+        <paragraph label="1010-507-a" marker="(a)">
+          <content>If a state certified under <ref target="USC:15-1708" reftype="external">15 U.S.C. 1708</ref>(a)(1) suspends its own certification or has its certification withdrawn under § 1010.505, the Federal disclosure materials accepted and made effective by the Director, pursuant to § 1010.506, prior to the suspension or withdrawal shall remain in effect unless otherwise suspended by the Director.</content>
+        </paragraph>
+        <paragraph label="1010-507-b" marker="(b)">
+          <content>In the event that there is a change in a material fact with regard to a subdivision that remains registered under the provisions of paragraph <ref target="1010-507-a" reftype="internal">(a)</ref> of this section, the developer shall file a new registration with the Director meeting the requirements of the then applicable Federal registration regulations. Modifications of the Federal format may be used as specified by the Director.</content>
+        </paragraph>
+      </section>
+    </change>
+    <change operation="modified" label="1010-505">
+      <section label="1010-505" sectionNum="505">
+        <subject>§ 1010.505 Withdrawal of State certification.</subject>
+        <paragraph label="1010-505-a" marker="(a)">
+          <content>The Director shall periodically review the laws, regulations and administration thereof, of a certified state. If the Director finds that, taken as a whole, the laws, regulations or administration thereof, no longer meet the requirements of subpart C, then the Director may issue a notice to withdraw the certification of that state.</content>
+        </paragraph>
+        <paragraph label="1010-505-b" marker="(b)">
+          <content>The notice of proceedings to withdraw a state's certification will be issued to the state by the Director pursuant to § 1012.236. The Director may, after notice and after an opportunity for a hearing, pursuant to § 1012.237, issue an order withdrawing certification. In the event that a withdrawal order is issued, the order shall remain in effect until the state has amended its laws, regulations or the administration thereof or has otherwise complied with the requirements of the order. When the state has complied with the requirements of the order, the Director shall so declare and the withdrawal order shall cease to be effective.</content>
+        </paragraph>
+        <paragraph label="1010-505-c" marker="(c)">
+          <content>Withdrawal orders issued pursuant to this subsection will be effective as of the date the order is received by the state. The withdrawal order shall be published in the Federal Register.</content>
+        </paragraph>
+        <paragraph label="1010-505-d" marker="(d)">
+          <content>The <ref target="1010-1-b-12" reftype="term">rules</ref> of <ref target="CFR:12-1080" reftype="external">12 CFR part 1080</ref>, unless otherwise specified in <ref target="CFR:12-1012" reftype="external">12 CFR part 1012</ref>, subpart D, will generally apply to hearings on withdrawal of a state's certification.</content>
+        </paragraph>
+      </section>
+    </change>
+    <change operation="modified" label="1010-503-a">
+      <paragraph label="1010-503-a" marker="(a)">
+        <content>If the Director determines that a state qualifies for certification under this subpart, the Director shall so notify the state in writing. The state will be effectively certified under the section and as of the date specified in the notice.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-21-b-1">
+      <paragraph label="1010-21-b-1" marker="(1)">
+        <content>A developer, or <ref target="1010-1-b-9" reftype="term">owner</ref>, may request that the effective date of its Statement of Record be suspended, provided there are no administrative proceedings pending against either of them at the time the request is submitted. The request must include any consolidations or amendments which have been made to the initial Statement of Record and may be submitted via the electronic means of submission described in § 1010.20(a). Forms for this purpose will be furnished by the Director upon request.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-1-a">
+      <paragraph label="1010-1-a" marker="(a)">
+        <title type="keyterm">Statutory terms.</title>
+        <content>All terms are used in accordance with their statutory meaning in <ref target="USC:15-1702" reftype="external">15 U.S.C. 1702</ref>, unless otherwise defined in paragraph <ref target="1010-1-b" reftype="internal">(b)</ref> of this section or elsewhere in this part.</content>
+      </paragraph>
+    </change>
+    <change operation="added" label="1010-20-a-1">
+      <paragraph label="1010-20-a-1" marker="(1)">
+        <content>In order to register a subdivision and receive an effective date, the developer or <ref target="1010-1-b-9" reftype="term">owner</ref> of the subdivision must file a Statement of Record with the Director by either:</content>
+        <paragraph label="1010-20-a-1-i" marker="(i)">
+          <content>U.S. Mail, to the following official address: Consumer Financial Protection Bureau, Interstate Land Sales Registration Program, 1700 G Street NW., Washington, DC 20552; or</content>
+        </paragraph>
+        <paragraph label="1010-20-a-1-ii" marker="(ii)">
+          <content>Electronic means designated on the ILSA program page on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> at www.consumerfinance.gov/.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-4-e">
+      <paragraph label="1010-4-e" marker="(e)">
+        <content>A developer may present evidence, or otherwise discuss, in an informal hearing before the Office of Supervision Examinations, the Bureau's position on the jurisdiction or non-exempt status of a particular subdivision.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-35-a-2">
+      <paragraph label="1010-35-a-2" marker="(2)">
+        <content>Information regarding the current mailing address or electronic payment procedures is available from: Consumer Financial Protection Bureau, Interstate Land Sales Registration Program, 1700 G Street NW., Washington, DC 20552, or on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> at www.consumerfinance.gov.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-4-c">
+      <paragraph label="1010-4-c" marker="(c)">
+        <content>The anti-fraud provisions of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1010-1-b-1" reftype="term">Act</ref> require that certain representations be included in the contract in transactions which are not exempt under § 1010.5. Specifically, <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1010-1-b-1" reftype="term">Act</ref> requires that if a developer or agent represents that roads, sewers, water, gas or electric service or recreational amenities will be provided or completed by the developer, the contract must stipulate that the services or amenities will be provided or completed.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-508-a">
+      <paragraph label="1010-508-a" marker="(a)">
+        <content>If a state certified under 15 U.S.C 1708(a)(2) suspends its own certification or has its certification withdrawn under § 1010.505, the effectiveness of the Federal disclosure materials accepted and made effective by the Director, pursuant to § 1010.506, prior to the suspension or withdrawal shall terminate ninety (90) days after the notice of withdrawal order is published in the Federal Register as provided in § 1010.505(c).</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-23-a">
+      <paragraph label="1010-23-a" marker="(a)">
+        <title type="keyterm">Filing.</title>
+        <content>If any change occurs in any representation of material fact required to be stated in an effective Statement of Record, an amendment shall be filed. The amendment shall be filed within 15 days of the date on which the developer knows, or should have known, that there has been a change in material fact. The amendment may be filed via the electronic means of submission described in § 1010.20(a).</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-500-a">
+      <paragraph label="1010-500-a" marker="(a)">
+        <content>This subpart establishes procedures and criteria for certifying state land <ref target="1010-1-b-13" reftype="term">sale</ref> or <ref target="1010-1-b-13" reftype="term">lease</ref> disclosure programs and state land development standards programs. The purpose of State Certification is to lessen the administrative burden on the individual developer, arising where there are duplicative state and Federal registration and disclosure requirements, without affecting the level of protection given to the individual purchaser or lessee. If the Director determines that a state has adopted and is effectively administering a program that gives purchasers and lessees the same level of protection given to them by the Interstate Land Sales Registration Program, then the Director shall certify that state. Developers who accomplish an effective registration with a state in which the land is located after the Director has certified the state may satisfy the registration requirements of the Director by filing with the Director materials designated by agreement with certified states in lieu of the Federal Statement of Record and Property Report.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-507-a">
+      <paragraph label="1010-507-a" marker="(a)">
+        <content>If a state certified under <ref target="USC:15-1708" reftype="external">15 U.S.C. 1708</ref>(a)(1) suspends its own certification or has its certification withdrawn under § 1010.505, the Federal disclosure materials accepted and made effective by the Director, pursuant to § 1010.506, prior to the suspension or withdrawal shall remain in effect unless otherwise suspended by the Director.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-506-f">
+      <paragraph label="1010-506-f" marker="(f)">
+        <content>If a certified state suspends the registration of a particular subdivision for any reason, the subdivision's Federal registration with the Director shall be automatically suspended as a result of the state action. No action need be taken by the Director to effect the suspension.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-504-c">
+      <paragraph label="1010-504-c" marker="(c)">
+        <content>No state shall be prevented from establishing substantive or disclosure requirements which exceed the Federal standard provided that such requirements are not in conflict with <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1010-1-b-1" reftype="term">Act</ref> or these regulations. For example, a certified State may impose additional disclosure requirements on developers of land located within its borders but may not impose additional disclosure requirements on developers whose disclosure documents it is required to accept pursuant to paragraph <ref target="1010-504-a-1" reftype="internal">(a)(1)</ref> of this section. However, a certified state may impose additional nondisclosure requirements on out of state developers even though the developer is registered in the certified State in which the land is located.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-504-a">
+      <paragraph label="1010-504-a" marker="(a)">
+        <content>By filing an Application for Certification of State Land <ref target="1010-1-b-13" reftype="term">Sales</ref> Program pursuant to this subpart, a state agrees that, if it is certified by the Director, it will:</content>
+        <paragraph label="1010-504-a-1" marker="(1)">
+          <content>Accept for filing and allow to be distributed as the sole disclosure document, a disclosure document currently in effect in the situs certified State. Only those documents filed with the situs state after certification by the Director must automatically be accepted by other certified states;</content>
+        </paragraph>
+        <paragraph label="1010-504-a-2" marker="(2)">
+          <content>Certify copies of all disclosure documents, amendments and consolidations filed with it by developers of land located within its borders for and as needed by developers required to submit certified copies to the Director and all other certified states. The certification shall indicate whether the documents are currently in effect. The certification should be in the format set forth in <ref target="1010-A-XXIX" reftype="internal">section XXIX of the appendix to this part</ref>: Form for Certification for Disclosure Documents.</content>
+        </paragraph>
+        <paragraph label="1010-504-a-3" marker="(3)">
+          <content>Assist and cooperate with the Director and other certified states by requiring that developers of land within its borders amend disclosure documents if any change occurs in any representation of material fact required to be stated in the disclosure documents, including a change resulting from the developer's compliance with the requirements of the law in another certified state. The state shall require developers to send certified copies of the amended documents to the Director and requesting certified states. All amendments to such materials, which reflect changes in material facts regarding the subdivision, shall be submitted to the situs certified state authorities within 15 days of the date on which the developer knows, or should have known, of such change. Certified copies of the disclosure documents shall be submitted by the developer to the Director and the other certified states within 15 days after it becomes effective under the situs certified state laws.</content>
+        </paragraph>
+        <paragraph label="1010-504-a-4" marker="(4)">
+          <content>Continue to effectively operate its Land <ref target="1010-1-b-13" reftype="term">Sales</ref> Program as that Program is described in the Application for Certification and as it was certified by the Director.</content>
+        </paragraph>
+        <paragraph label="1010-504-a-5" marker="(5)">
+          <content>Assist and cooperate with the Director by monitoring the <ref target="1010-1-b-13" reftype="term">sales</ref> practices of developers registered with it directly or through another certified state, and by reporting to the Director any violations of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1010-1-b-1" reftype="term">Act</ref>, including but not limited to the required contract provisions, revocation rights and anti-fraud provisions of <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>, or the regulations.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="added" label="1010-20-b-2">
+      <paragraph label="1010-20-b-2" marker="(2)">
+        <content>The requirements relating to paper type, tabs, folding, and ordering for filings with the Bureau in § 1010.102(a), (g), and (h) do not apply if a Statement of Record is filed with the Bureau via electronic means designated on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> pursuant to § 1010.20(a).</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-35-a">
+      <paragraph label="1010-35-a" marker="(a)">
+        <title type="keyterm">Method of payment.</title>
+        <content/>
+        <paragraph label="1010-35-a-1" marker="(1)">
+          <content>Each fee must be paid by:</content>
+          <paragraph label="1010-35-a-1-i" marker="(i)">
+            <content>Certified check, cashier's check, or postal money order made payable to the Treasurer of the United States, with the registration number, when known, and the name, of the subdivision on the face of the check, and mailed to an address specified by the Director; or</content>
+          </paragraph>
+          <paragraph label="1010-35-a-1-ii" marker="(ii)">
+            <content>Electronic payment in a manner specified by the Director.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1010-35-a-2" marker="(2)">
+          <content>Information regarding the current mailing address or electronic payment procedures is available from: Consumer Financial Protection Bureau, Interstate Land Sales Registration Program, 1700 G Street NW., Washington, DC 20552, or on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> at www.consumerfinance.gov.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="added" label="1010-20-b-1">
+      <paragraph label="1010-20-b-1" marker="(1)">
+        <content>The Statement of Record shall be in the format specified in § 1010.100 and shall be completed in accordance with the instructions in §§ 1010.102, 1010.105 through 1010.118, 1010.200, 1010.208 through 1010.216, and 1010.219. It shall be supported by the documents required by §§ 1010.208 through 1010.216 and 1010.219. It shall include any other information or documents which the Director may require as being necessary or appropriate for the protection of purchasers.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-552-a">
+      <paragraph label="1010-552-a" marker="(a)">
+        <content>Materials filed with a state and accepted by the HUD Secretary as a Statement of Record prior to January 1, 1981, pursuant to <ref target="CFR:24-1010-52" reftype="external">24 CFR 1010.52</ref> through 1010.59 (as published in the Federal Register on April 10, 1979) may continue in effect. However, developers must comply with the applicable amendments to the Federal act and the regulations thereunder. In particular, see §§ 1010.558 and 1010.559, which require that the Property Report and contracts or agreements contain notice of purchaser's revocation rights. In addition, see <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>(a)(2)(D), which provides that it is unlawful to make any representations with regard to the developer's obligation to provide or complete roads, water, sewers, gas, electrical facilities or recreational amenities, unless the developer is obligated to do so in the contract.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-209-f-3-iv">
+      <paragraph label="1010-209-f-3-iv" marker="(iv)">
+        <content>If it is represented that the developer will provide or complete roads or facilities for waters, sewer, gas, electric service or recreational amenities, the contract must contain a provision that the developer is obligated to provide or complete such roads, facilities and amenities.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-506-a-1">
+      <paragraph label="1010-506-a-1" marker="(1)">
+        <content>If the Director has certified a state under this subpart, the Director shall accept for filing disclosure materials or other acceptable documents which have been approved by the certified state within which the subdivision is located. Only those filings made by the developer with the state after the state was certified by the Director shall be automatically accepted by the Director.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-5">
+      <section label="1010-5" sectionNum="5">
+        <subject>§ 1010.5 Statutory exemptions.</subject>
+        <paragraph label="1010-5-p1" marker="">
+          <content>A listing of the statutory exemptions is contained in 15 U.S.C. 1702. In accordance with 15 U.S.C. 1702(a)(2), if the sale involves a condominium or multi-unit construction, a presale clause conditioning the sale of a unit on a certain percentage of sales of other units is permissible if it is legally binding on the parties and is for a period not to exceed 180 days. However, the 180-day provision cannot extend the 2-year period for performance. The permissible 180 days is calculated from the date the first purchaser signs a sales contract in the project or, if a phased project, from the date the first purchaser signs the first sales contract in each phase.</content>
+        </paragraph>
+      </section>
+    </change>
+    <change operation="modified" label="1010-508">
+      <section label="1010-508" sectionNum="508">
+        <subject>§ 1010.508 Effect of suspension of certification granted under 15 U.S.C. 1708(a)(2): Sufficient protection requirement.</subject>
+        <paragraph label="1010-508-a" marker="(a)">
+          <content>If a state certified under 15 U.S.C 1708(a)(2) suspends its own certification or has its certification withdrawn under § 1010.505, the effectiveness of the Federal disclosure materials accepted and made effective by the Director, pursuant to § 1010.506, prior to the suspension or withdrawal shall terminate ninety (90) days after the notice of withdrawal order is published in the Federal Register as provided in § 1010.505(c).</content>
+        </paragraph>
+        <paragraph label="1010-508-b" marker="(b)">
+          <content>At the end of the ninety day period, or during the ninety day period in the event that there is a change in material fact with regard to a subdivision that remains registered under the provisions of paragraph <ref target="1010-508-a" reftype="internal">(a)</ref> of this section, the developer shall file a new registration with the Director meeting the requirements of the then applicable Federal registration regulations. Modifications of the Federal format may be used as specified by the Director.</content>
+        </paragraph>
+      </section>
+    </change>
+  </changeset>
+  <analysis>
+    <analysisSection target="1010-20-a" notice="2016-10715" date="2016-05-11">
+      <title>20(a) Filing</title>
+      <analysisParagraph>Section 1010.20(a) provides filing requirements for registering a subdivision. The Bureau is amending this section to update the address to which developers should send Statements of Record because the Bureau will no longer be using a third-party contractor to receive incoming Statements of Record.</analysisParagraph>
+      <analysisParagraph>In addition to amending the U.S. mail address, the final rule permits submission of Statements of Record via electronic means that are designated on the ILSA program page of the Bureau's Web site, <em data-original="E-03">www.consumerfinance.gov.</em> The Bureau's Web site specifies uploading, file naming, and other requirements for electronic submissions. Electronic filing of Statements of Record will reduce the burden on filers and facilitate the Bureau's processing of submissions, by reducing costs spent on mailing and eliminating the time in transit for physical mailings and the time required for the Bureau to scan paper submissions. Filers may choose different submission options for each filing, only exercising the electronic option when it is beneficial. Further, the Bureau will achieve cost savings by receiving and processing filings in house rather than through a third-party contractor.</analysisParagraph>
+    </analysisSection>
+    <analysisSection target="1010-35-a" notice="2016-10715" date="2016-05-11">
+      <title>35(a) Method of Payment</title>
+      <analysisParagraph>The Bureau is amending § 1010.35(a) to reflect changes in the internal organization of the Bureau and to provide contact information for the relevant Bureau office. The final rule also notes that information regarding the current mailing address or electronic payment procedures can be obtained from the ILSA program page of the Bureau's Web site at <em data-original="E-03">www.consumerfinance.gov.</em>
+        </analysisParagraph>
+      <analysisSection>
+        <title>1010.102 General Instructions for Completing the Statement of Record</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1010-20-b" notice="2016-10715" date="2016-05-11">
+      <title>20(b) Form</title>
+      <analysisParagraph>The Bureau is amending § 1010.20(b) to clarify that electronic filings made pursuant to § 1010.20(a) are not subject to the requirements in § 1010.102(a), (g), and (h) relating to paper type, tabs, folding, and ordering for filings. The Bureau is making this change because it would be difficult or impossible for electronic filings to comply with these paper-specific requirements.</analysisParagraph>
+      <analysisSection>
+        <title>1010.21 Effective Dates</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1010-A" notice="2016-10715" date="2016-05-11">
+      <title>Appendix A to Part 1010</title>
+      <analysisParagraph>This Appendix provides Standard and Model Forms and Clauses. The Bureau is making a technical amendment to section III, Sample Lot Information Statement and Sample Receipt—§ 1010.15(b)(11), to provide contact information for the relevant Bureau office. The Bureau is also making a technical amendment to section VIII, Property Report for Statement of Record—§ 1010.100(b), to harmonize a heading label with the requirements of § 1010.107.</analysisParagraph>
+      <analysisSection>
+        <title>B. Regulation L</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1012.35 Prefiling Assistance</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1012.35 to reflect changes in the internal organization of the Bureau and to provide contact information for the relevant Bureau office.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1012.40 Processing of Filings</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(a)</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1012.40(a) to reflect changes in the internal organization of the Bureau.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1012.236 Notice of Proceedings To Withdraw a State's Certification</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(b)</title>
+        <analysisParagraph>Section 1012.236(b) refers to a determination by the Director pursuant to § 1010.505 that a State's laws, regulations, and the administration thereof, taken as a whole, no longer meet the requirements of § 1010.501. The Bureau is making a technical amendment to § 1012.236(b) to conform the language of § 1012.236(b) to that of § 1010.505. The final rule substitutes subpart C of part 1010 for § 1010.501, which does not exist. This technical amendment does not alter or change the substance of the requirements of § 1012.236(b).</analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1010-23-a" notice="2016-10715" date="2016-05-11">
+      <title>23(a) Filing</title>
+      <analysisParagraph>The Bureau is amending § 1010.23(a) to allow for submission of amendments to Statements of Record through the electronic means described in § 1010.20(a). The Bureau believes that permitting electronic submission of such amendments will reduce the burden on filers and facilitate the Bureau's processing of submissions.</analysisParagraph>
+      <analysisSection>
+        <title>1010.35 Payment of Fees</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1010-1-a" notice="2016-10715" date="2016-05-11">
+      <title>1(a) Statutory Terms</title>
+      <analysisParagraph>The Bureau is making a technical amendment to § 1010.1(a) to correct a citation to the United States Code.</analysisParagraph>
+      <analysisSection>
+        <title>1010.4 Exemptions—General</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1010-102-a" notice="2016-10715" date="2016-05-11">
+      <title>102(a) Paper and Type</title>
+      <analysisParagraph>Section 1010.102(a) currently requires the use of legal size paper for the Additional Information and Documentation portion of the Statement of Record. The Bureau is amending § 1010.102(a) to allow developers that file on paper to use either legal size or letter size paper for the Additional Information and Documentation portion of the Statement of Record. The Bureau believes that allowing this flexibility could reduce costs for both developers and the Bureau.</analysisParagraph>
+    </analysisSection>
+    <analysisSection target="1010-102-e" notice="2016-10715" date="2016-05-11">
+      <title>102(e) Headings, Subheadings, Captions, Introductory Paragraphs, Warnings</title>
+      <analysisParagraph>The Bureau is making a technical amendment to § 1010.102(e) to correct a reference to the location of the sample page that shows how headings and subheadings should be used in the Property Report. The Bureau is also removing the requirement in § 1010.102(e) that warnings be enclosed in a box and is instead making the use of the box optional for developers, in order to facilitate compliance.</analysisParagraph>
+    </analysisSection>
+    <analysisSection target="1010-21-b" notice="2016-10715" date="2016-05-11">
+      <title>21(b) Suspension of Effective Date by Developer</title>
+      <analysisParagraph>The Bureau is amending § 1010.21(b) to allow for submission of requests for the suspension of the effective date of a Statement of Record through the electronic means described in § 1010.20(a). The Bureau believes that permitting electronic submission of such requests will reduce the burden on filers and facilitate the Bureau's processing of submissions.</analysisParagraph>
+      <analysisSection>
+        <title>1010.23 Amendment—Filing and Form</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1010-102-h" notice="2016-10715" date="2016-05-11">
+      <title>102(h) Ordering</title>
+      <analysisParagraph>Section 1010.102(h) requires the Statement of Record to be bound with the Property Report on top (including any documents required to be attached when delivered to the purchaser), followed by the Additional Information and Documentation. The Bureau is amending § 1010.102(h) to remove the requirement that the Statement of Record be bound with the Property Report, while still requiring that the filing be presented in the specified order.<footnote ref="6">As noted above in the section-by-section discussion of § 1010.20(a) and (b), electronic filings made pursuant to § 1010.20(a) are not subject to the requirements in § 1010.102(a), (g), and (h) relating to paper type, tabs, folding, and ordering for filings but must comply with instructions for electronic filing designated on the ILSA program page of the Bureau's Web site.</footnote>
+           The Bureau believes allowing developers to decide whether to bind filings facilitates compliance.</analysisParagraph>
+    </analysisSection>
+    <analysisSection target="1010-4-e" notice="2016-10715" date="2016-05-11">
+      <title>4(e)</title>
+      <analysisParagraph>The Bureau is making a technical amendment that changes the name of the Bureau office designated in § 1010.4(e), to reflect changes in the internal organization of the Bureau since the Bureau issued the Restatement in 2011.</analysisParagraph>
+      <analysisSection>
+        <title>1010.5 Statutory Exemptions</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1010.5 to correct two citations to the United States Code.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1010.20 Requirements for Registering a Subdivision—Statement of Record—Filing and Form</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1010-102-m" notice="2016-10715" date="2016-05-11">
+      <title>102(m) Final Version of Property Report</title>
+      <analysisParagraph>Section 1010.102(m) provides general instructions relating to the final version of the Property Report and indicates that the version of the Property Report delivered to prospective lot purchasers must meet many of the same standards as those set forth in the regulations for the Statement of Record. Section 1010.102(m) requires developers to submit to the Bureau three copies of the final Property Report or, if a Property Report in a foreign language is used, three copies of the Property Report together with copies of the translated documents. The Bureau is amending § 1010.102(m) to require submission of only one copy of these documents to the Bureau. The Bureau believes that reducing the number of copies required to be filed could reduce costs for developers and for the Bureau.</analysisParagraph>
+      <analysisParagraph>The final rule also indicates that if a developer submits a Statement of Record to the Bureau via electronic means pursuant to § 1010.20(a), the version of the Property Report delivered to prospective lot purchasers must meet the same standards that apply to a Statement of Record submitted on paper to the Bureau.</analysisParagraph>
+      <analysisSection>
+        <title>1010.103 Developer Obligated Improvements</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(a)</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1010.103(a) to remove one erroneous citation and replace another erroneous citation. Prior to the Restatement, 24 CFR 1710.103(a) cited 24 CFR 1715.15(f), which implemented the requirements of 15 U.S.C. 1703(a)(2)(D). As part of the Restatement, the Bureau replaced § 1715.15(f) with § 1011.15(f) in this paragraph, even though HUD had eliminated § 1715.15(f) in 1996 and § 1011.15(f) does not exist.<footnote ref="7">61 FR 13596, 13598 (Mar. 27, 1996).</footnote>
+           These technical amendments do not modify any requirements or obligations under Regulation J.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1010.209 Title and Land Use</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(f) Supplemental Title Information</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(3)</title>
+        <analysisParagraph>(<em data-original="E-03">iv</em>) The Bureau is making a technical amendment to § 1010.209(f)(3)(iv) to remove an erroneous citation to § 1011.15(f). Prior to the Restatement, 24 CFR 1710.209(f)(3)(iv) cited 24 CFR 1715.15(f), which implemented the requirements of 15 U.S.C. 1703(a)(2)(D). As part of the Restatement, the Bureau replaced § 1715.15(f) with § 1011.15(f) in this paragraph, even though HUD had eliminated § 1711.15(f) in 1996 and § 1011.15(f) does not exist. The technical amendment to remove the citation to § 1011.15(f) does not modify any requirements or obligations under Regulation J.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1010.215 Subdivision Characteristics and Climate</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(a)</title>
+        <analysisParagraph>Section 1010.215(a) requires submission of two copies of a current geological survey topographic map or maps from the U.S. Geological Survey and prohibits use of photocopies made by the developer. The final rule amends this section to require submission of only one copy and to eliminate the prohibition on photocopying. The Bureau believes that reducing the number of copies required to be filed could reduce costs for developers and for the Bureau, and anticipates that these changes will facilitate compliance and electronic filing.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1010.310 Annual Report of Activity</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(b)</title>
+        <analysisParagraph>The Bureau is amending § 1010.310(b) to allow for submission of annual reports through the electronic means described in § 1010.20(a). Permitting electronic submission will reduce the burden on filers and facilitate the Bureau's processing of submissions.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1010.500 General</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(a)</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1010.500(a) to remove duplicated words.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1010.503 Notice of Certification</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(a)</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1010.503(a), which currently erroneously refers to § 1010.501(a) or (b) as the provisions pursuant to which a State may qualify for certification. Prior to the Restatement, 24 CFR 1710.503(a) referred to 24 CFR 1710.501(a) or (b), which implemented the requirements of 15 U.S.C. 1708(a). As part of the Restatement, the Bureau replaced § 1710.501 with § 1010.501 in this paragraph, even though HUD had removed § 1710.501 from codification in 1996 <footnote ref="8">61 FR 13596, 13597 (Mar. 27, 1996).</footnote>
+           and § 1010.501 does not exist. Because § 1010.501 does not exist, the final rule substitutes a reference to subpart C of part 1010, which is the subpart pursuant to which a State may qualify for certification. This technical amendment does not alter or change the substance of the requirements of § 1010.503(a).</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1010.504 Cooperation Among Certified States and Between Certified States and the Director</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(a)</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1010.504(a), which currently erroneously refers to § 1010.502 as the provision pursuant to which an Application for Certification of State Land Sales Program is filed. Because § 1010.502 does not exist, the final rule substitutes a reference to subpart C of part 1010, which is the subpart pursuant to which an Application for Certification of State Land Sales Program is filed. This technical amendment does not alter or change the substance of the requirements of § 1010.504(a).</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(c)</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1010.504(c) to remove a duplicated word.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1010.505 Withdrawal of State Certification</title>
+        <analysisParagraph>The Bureau is making a technical amendment to the title of § 1010.505 to remove a duplicated word.
+        </analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>1010.506 State/Federal Filing Requirements</title>
+        <analysisParagraph></analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(a)(1)</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1010.506(a)(1), which currently erroneously refers to § 1010.501 as the provision under which the Director certifies States. Because § 1010.501 does not exist, the final rule substitutes a reference to subpart C of part 1010, which is the subpart under which the Director certifies States. This technical amendment does not alter or change the substance of the requirements of § 1010.506(a)(1).</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(a)(2)</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1010.506(a)(2) to remove a duplicated word.</analysisParagraph>
+      </analysisSection>
+      <analysisSection>
+        <title>(f)</title>
+        <analysisParagraph>The Bureau is making a technical amendment to § 1010.506(f) to remove a duplicated word.</analysisParagraph>
+      </analysisSection>
+    </analysisSection>
+    <analysisSection target="1010-4-c" notice="2016-10715" date="2016-05-11">
+      <title>4(c)</title>
+      <analysisParagraph>The Bureau is making a technical amendment to § 1010.4(c) to remove a citation to a regulation that does not exist, § 1011.15(f). Prior to the Restatement, 24 CFR 1710.4(c) cited 24 CFR 1715.15(f), which implemented the requirements of 15 U.S.C. 1703(a)(2)(D). HUD eliminated § 1715.15(f) in 1996 but retained the cross-reference.<footnote ref="5">61 FR 13596, 13598 (Mar. 27, 1996).</footnote>
+           As part of the Restatement, the Bureau substituted § 1011.15(f) for § 1715.15(f), even though § 1011.15(f) does not exist. This technical amendment to remove the citation to § 1011.15(f) does not modify any requirements or obligations under Regulation J.</analysisParagraph>
+    </analysisSection>
+  </analysis>
+
+</notice>
