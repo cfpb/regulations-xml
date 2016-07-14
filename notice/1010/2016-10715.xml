@@ -19,6 +19,31 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2016/05/11/2016-10715/amendments-to-filing-requirements-under-the-interstate-land-sales-full-disclosure-act-regulations-j</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2011-31713" rightDocumentNumber="2016-10715">
+
+    <change operation="modified" label="1010-1-a">
+      <paragraph label="1010-1-a" marker="(a)">
+        <title type="keyterm">Statutory terms.</title>
+        <content>All terms are used in accordance with their statutory meaning in <ref target="USC:15-1702" reftype="external">15 U.S.C. 1702</ref>, unless otherwise defined in paragraph <ref target="1010-1-b" reftype="internal">(b)</ref> of this section or elsewhere in this part.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-4-c">
+      <paragraph label="1010-4-c" marker="(c)">
+        <content>The anti-fraud provisions of <ref target="1010-1-b-1" reftype="term">Act</ref> require that certain representations be included in the contract in transactions which are not exempt under § 1010.5. Specifically, <ref target="1010-1-b-1" reftype="term">Act</ref> requires that if a developer or agent represents that roads, sewers, water, gas or electric service or recreational amenities will be provided or completed by the developer, the contract must stipulate that the services or amenities will be provided or completed.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-4-e">
+      <paragraph label="1010-4-e" marker="(e)">
+        <content>A developer may present evidence, or otherwise discuss, in an informal hearing before the Office of Supervision Examinations, the Bureau's position on the jurisdiction or non-exempt status of a particular subdivision.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-5">
+      <section label="1010-5" sectionNum="5">
+        <subject>§ 1010.5 Statutory exemptions.</subject>
+        <paragraph label="1010-5-p1" marker="">
+          <content>A listing of the statutory exemptions is contained in 15 U.S.C. 1702. In accordance with 15 U.S.C. 1702(a)(2), if the sale involves a condominium or multi-unit construction, a presale clause conditioning the sale of a unit on a certain percentage of sales of other units is permissible if it is legally binding on the parties and is for a period not to exceed 180 days. However, the 180-day provision cannot extend the 2-year period for performance. The permissible 180 days is calculated from the date the first purchaser signs a sales contract in the project or, if a phased project, from the date the first purchaser signs the first sales contract in each phase.</content>
+        </paragraph>
+      </section>
+    </change>
     <change operation="modified" label="1010-20-a">
       <paragraph label="1010-20-a" marker="(a)">
         <title type="keyterm">Filing.</title>
@@ -47,6 +72,137 @@
         <paragraph label="1010-20-b-2" marker="(2)">
           <content>The requirements relating to paper type, tabs, folding, and ordering for filings with the Bureau in § 1010.102(a), (g), and (h) do not apply if a Statement of Record is filed with the Bureau via electronic means designated on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> pursuant to § 1010.20(a).</content>
         </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-21-b-1">
+      <paragraph label="1010-21-b-1" marker="(1)">
+        <content>A developer, or <ref target="1010-1-b-9" reftype="term">owner</ref>, may request that the effective date of its Statement of Record be suspended, provided there are no administrative proceedings pending against either of them at the time the request is submitted. The request must include any consolidations or amendments which have been made to the initial Statement of Record and may be submitted via the electronic means of submission described in § 1010.20(a). Forms for this purpose will be furnished by the Director upon request.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-23-a">
+      <paragraph label="1010-23-a" marker="(a)">
+        <title type="keyterm">Filing.</title>
+        <content>If any change occurs in any representation of material fact required to be stated in an effective Statement of Record, an amendment shall be filed. The amendment shall be filed within 15 days of the date on which the developer knows, or should have known, that there has been a change in material fact. The amendment may be filed via the electronic means of submission described in § 1010.20(a).</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-35-a-2">
+      <paragraph label="1010-35-a-2" marker="(2)">
+        <content>Information regarding the current mailing address or electronic payment procedures is available from: Consumer Financial Protection Bureau, Interstate Land Sales Registration Program, 1700 G Street NW., Washington, DC 20552, or on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> at www.consumerfinance.gov.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-102-a">
+      <paragraph label="1010-102-a" marker="(a)">
+        <title type="keyterm">Paper and type.</title>
+        <content>The Statement of Record shall be on good quality, unglazed white or pastel paper. Letter size paper, approximately 8 1/2 × 11 inches in size, will be used for the Property Report portion, and either letter size paper, approximately 8 1/2 × 11 inches in size, or legal size paper, approximately 8 1/2 × 14 inches in size, will be used for the Additional Information and Documentation portion. Side margins shall be no less than 1 inch and no greater than 1 1/2 inches. Top and bottom margins shall be no less than 1 inch. In the preparation of the charts to be included in the Property Report, the developer may vary from the above margin requirements or print the charts lengthwise on the required size paper if such measures are necessary to make the charts readable. The Statement of Record shall be prepared in an easily readable, uniform font.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-102-e">
+      <paragraph label="1010-102-e" marker="(e)">
+        <title type="keyterm">Headings, subheadings, captions, introductory paragraphs, warnings.</title>
+        <content>Property Report subject “headings” are those descriptive introductory words which appear immediately after section numbers 1010.106 through 1010.116 (e.g. § 1010.108 has “General Information” and § 1010.111 has “Utilities”). Each such heading shall be printed in the Property Report in underlined capital letters and centered at the top of a new page. Section numbers shall not be printed in the Property Report. Property Report subheadings are those descriptive introductory words which appear in italics in the regulations at the beginning of paragraphs designated by paragraph letters (a), (b), (c) etc. An example of a subheading is “water” found immediately after the paragraph letter (a) in § 1010.111. These subheadings will be printed in the Property Report only if they are relevant to the subject subdivision. If printed these subheadings shall be capitalized and shall begin at the left hand margin of the page. Property Report “captions” are those descriptive introductory words which appear in italics in the Regulations at the beginning of paragraphs designated by numbers (1), (2), (3), etc. An example of such captions is “<ref target="1010-1-b-13" reftype="term">Sales</ref> Contract and Delivery of Deed” found immediately after the paragraph number “(1)” in § 1010.109(b). These captions are to be printed in the Property Report only if they are applicable to the subject subdivision. If printed, these captions shall be centered on the page from the side margins, and shall have only the first letter of each word capitalized. Headings and subheadings will be used in the Property Report in accordance with the sample page appearing in <ref target="1010-A-IX" reftype="internal">section IX of the appendix to this part</ref>. Introductory paragraphs will follow headings if they are applicable and necessary for a readable entry into the subject matters, but note, the introductory paragraphs for “Title to the Property and Land Use” are to be used in every case as provided in § 1010.109(a)(1). Subheadings and captions which do not apply to the subdivision should be omitted from the Property Report portion and answered “not applicable” in the Additional Information and Documentation portion, unless specifically required to be included elsewhere in these instructions. Warnings shall be printed substantially as they appear in the instructions in §§ 1010.105 through 1010.118. They shall be printed in capital letters and may be enclosed in a box. The paragraphs in the Property Report portion need not be numbered. A sample page is set forth in <ref target="1010-A-IX" reftype="internal">section IX of the appendix to this part</ref>: Sample Page for Statement of Record.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-102-h">
+      <paragraph label="1010-102-h" marker="(h)">
+        <title type="keyterm">Ordering.</title>
+        <content>The Statement of Record shall be filed with the Property Report portion on top, including any documents which may be required to be attached when delivered to the purchaser, followed by the Additional Information and Documentation portion.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-102-m">
+      <paragraph label="1010-102-m" marker="(m)">
+        <title type="keyterm">Final version of Property Report.</title>
+        <content>On the date that a Statement of Record becomes effective, the Property Report portion shall become the Property Report for the subject subdivision. The version of the Property Report delivered to prospective <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers shall be verbatim to that found effective by the Director and shall have no covers, pictures, emblems, logograms or identifying insignia other than as required by these regulations. It shall meet the same standards as to grade of paper, type size, margins, style and color of print as those set herein for the Statement of Record, except where required otherwise by these regulations. However, the date of typing or preparation of the pages and the <ref target="1010-1-b-7" reftype="term">ILSRP</ref> number shall not appear in the final version. If the final version of the Property Report is commercially printed, or photocopied by a process which results in a commercial printing quality, and is bound on the left side, both sides of the pages may be used for printed material. If it is typed or photocopied by a process which does not result in a clear and legible product on both sides of the page or is bound at the top, printing shall be done on only one side of the page. If a Statement of Record is filed with the Bureau via electronic means pursuant to § 1010.20(a), the version of the Property Report delivered to prospective <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers shall meet the same standards that apply under these regulations to a Statement of Record not filed with the Bureau via electronic means. One copy of the final version of the Property Report, in the exact form in which it is delivered to prospective <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers, shall be sent to <ref target="1010-1-b-7" reftype="term">ILSRP</ref> Office within 20 days of the date on which the Statement of Record, amendment, or consolidation is allowed to become effective by the Director. If a Property Report in a foreign language is used as required by § 1011.25(g), a copy of that Property Report together with a copy of the translated documents shall be furnished the Director within 20 days of the date on which the advertising is first used. A Property Report prepared pursuant to these regulations shall not be distributed to potential <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers until after the Statement of Record of which it is a part or any amendment to that Statement of Record has been made effective by the Director.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-103-a">
+      <paragraph label="1010-103-a" marker="(a)">
+        <content>If the developer represents either orally or in writing that it will provide or complete roads or facilities for water, sewer, gas, electricity or recreational amenities, it must be contractually obligated to do so, and the obligation shall be clearly stated in the Property Report. While the developer may disclose relevant facts about completion, the obligation to complete cannot be conditioned, other than as permitted by <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>(a)(2), and an estimated completion date (month and year) must be stated in the Property Report. However, a developer that has only tentative plans to complete may so state in the Property Report, provided that the statement clearly identifies conditions to which the completion of the facilities are subject and states that there are no guarantees the facilities will be completed.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-209-f-3-iv">
+      <paragraph label="1010-209-f-3-iv" marker="(iv)">
+        <content>If it is represented that the developer will provide or complete roads or facilities for waters, sewer, gas, electric service or recreational amenities, the contract must contain a provision that the developer is obligated to provide or complete such roads, facilities and amenities.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-215-a">
+      <paragraph label="1010-215-a" marker="(a)">
+        <content>Submit a copy of a current geological survey topographic map, or maps, of the largest scale available from the U.S. Geological Survey with an outline of the entire subdivision and the area included in this Statement of Record clearly indicated. Do not shade the areas on the maps which have been outlined.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-310-b">
+      <paragraph label="1010-310-b" marker="(b)">
+        <content>The report shall be submitted within 30 days of the annual anniversary of the effective date of the initial Statement of Record. The report may be submitted via the electronic means described in § 1010.20(a).</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-500-a">
+      <paragraph label="1010-500-a" marker="(a)">
+        <content>This subpart establishes procedures and criteria for certifying state land <ref target="1010-1-b-13" reftype="term">sale</ref> or <ref target="1010-1-b-13" reftype="term">lease</ref> disclosure programs and state land development standards programs. The purpose of State Certification is to lessen the administrative burden on the individual developer, arising where there are duplicative state and Federal registration and disclosure requirements, without affecting the level of protection given to the individual purchaser or lessee. If the Director determines that a state has adopted and is effectively administering a program that gives purchasers and lessees the same level of protection given to them by the Interstate Land Sales Registration Program, then the Director shall certify that state. Developers who accomplish an effective registration with a state in which the land is located after the Director has certified the state may satisfy the registration requirements of the Director by filing with the Director materials designated by agreement with certified states in lieu of the Federal Statement of Record and Property Report.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-503-a">
+      <paragraph label="1010-503-a" marker="(a)">
+        <content>If the Director determines that a state qualifies for certification under this subpart, the Director shall so notify the state in writing. The state will be effectively certified under the section and as of the date specified in the notice.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-504-a">
+      <paragraph label="1010-504-a" marker="(a)">
+        <content>By filing an Application for Certification of State Land <ref target="1010-1-b-13" reftype="term">Sales</ref> Program pursuant to this subpart, a state agrees that, if it is certified by the Director, it will:</content>
+        <paragraph label="1010-504-a-1" marker="(1)">
+          <content>Accept for filing and allow to be distributed as the sole disclosure document, a disclosure document currently in effect in the situs certified State. Only those documents filed with the situs state after certification by the Director must automatically be accepted by other certified states;</content>
+        </paragraph>
+        <paragraph label="1010-504-a-2" marker="(2)">
+          <content>Certify copies of all disclosure documents, amendments and consolidations filed with it by developers of land located within its borders for and as needed by developers required to submit certified copies to the Director and all other certified states. The certification shall indicate whether the documents are currently in effect. The certification should be in the format set forth in <ref target="1010-A-XXIX" reftype="internal">section XXIX of the appendix to this part</ref>: Form for Certification for Disclosure Documents.</content>
+        </paragraph>
+        <paragraph label="1010-504-a-3" marker="(3)">
+          <content>Assist and cooperate with the Director and other certified states by requiring that developers of land within its borders amend disclosure documents if any change occurs in any representation of material fact required to be stated in the disclosure documents, including a change resulting from the developer's compliance with the requirements of the law in another certified state. The state shall require developers to send certified copies of the amended documents to the Director and requesting certified states. All amendments to such materials, which reflect changes in material facts regarding the subdivision, shall be submitted to the situs certified state authorities within 15 days of the date on which the developer knows, or should have known, of such change. Certified copies of the disclosure documents shall be submitted by the developer to the Director and the other certified states within 15 days after it becomes effective under the situs certified state laws.</content>
+        </paragraph>
+        <paragraph label="1010-504-a-4" marker="(4)">
+          <content>Continue to effectively operate its Land <ref target="1010-1-b-13" reftype="term">Sales</ref> Program as that Program is described in the Application for Certification and as it was certified by the Director.</content>
+        </paragraph>
+        <paragraph label="1010-504-a-5" marker="(5)">
+          <content>Assist and cooperate with the Director by monitoring the <ref target="1010-1-b-13" reftype="term">sales</ref> practices of developers registered with it directly or through another certified state, and by reporting to the Director any violations of <ref target="1010-1-b-1" reftype="term">Act</ref>, including but not limited to the required contract provisions, revocation rights and anti-fraud provisions of <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>, or the regulations.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-504-c">
+      <paragraph label="1010-504-c" marker="(c)">
+        <content>No state shall be prevented from establishing substantive or disclosure requirements which exceed the Federal standard provided that such requirements are not in conflict with <ref target="1010-1-b-1" reftype="term">Act</ref> or these regulations. For example, a certified State may impose additional disclosure requirements on developers of land located within its borders but may not impose additional disclosure requirements on developers whose disclosure documents it is required to accept pursuant to paragraph <ref target="1010-504-a-1" reftype="internal">(a)(1)</ref> of this section. However, a certified state may impose additional nondisclosure requirements on out of state developers even though the developer is registered in the certified State in which the land is located.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-505" subpath="subject">
+      <subject>§ 1010.505 Withdrawal of State certification.</subject>
+    </change>
+    <change operation="modified" label="1010-506-a-1">
+      <paragraph label="1010-506-a-1" marker="(1)">
+        <content>If the Director has certified a state under this subpart, the Director shall accept for filing disclosure materials or other acceptable documents which have been approved by the certified state within which the subdivision is located. Only those filings made by the developer with the state after the state was certified by the Director shall be automatically accepted by the Director.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-506-a-2">
+      <paragraph label="1010-506-a-2" marker="(2)">
+        <content>Retroactive application of the effectiveness of state's certification to a specified date may be granted on a state-by-state basis, where the Director determines that retroactive application will not result in automatic Federal registration of any state filing that has not met the requirements of the certified state laws.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-506-f">
+      <paragraph label="1010-506-f" marker="(f)">
+        <content>If a certified state suspends the registration of a particular subdivision for any reason, the subdivision's Federal registration with the Director shall be automatically suspended as a result of the state action. No action need be taken by the Director to effect the suspension.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-507-a">
+      <paragraph label="1010-507-a" marker="(a)">
+        <content>If a state certified under <ref target="USC:15-1708" reftype="external">15 U.S.C. 1708</ref>(a)(1) suspends its own certification or has its certification withdrawn under § 1010.505, the Federal disclosure materials accepted and made effective by the Director, pursuant to § 1010.506, prior to the suspension or withdrawal shall remain in effect unless otherwise suspended by the Director.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-508" subpath="subject">
+      <subject>§ 1010.508 Effect of suspension of certification granted under 15 U.S.C. 1708(a)(2): Sufficient protection requirement.</subject>
+    </change>
+    <change operation="modified" label="1010-508-a">
+      <paragraph label="1010-508-a" marker="(a)">
+        <content>If a state certified under 15 U.S.C 1708(a)(2) suspends its own certification or has its certification withdrawn under § 1010.505, the effectiveness of the Federal disclosure materials accepted and made effective by the Director, pursuant to § 1010.506, prior to the suspension or withdrawal shall terminate ninety (90) days after the notice of withdrawal order is published in the Federal Register as provided in § 1010.505(c).</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1010-552-a">
+      <paragraph label="1010-552-a" marker="(a)">
+        <content>Materials filed with a state and accepted by the HUD Secretary as a Statement of Record prior to January 1, 1981, pursuant to 24 CFR <ref target="1010-52" reftype="internal">1010.52</ref> through <ref target="1010-59" reftype="internal">1010.59</ref> (as published in the Federal Register on April 10, 1979) may continue in effect. However, developers must comply with the applicable amendments to the Federal act and the regulations thereunder. In particular, see §§ <ref target="1010-558" reftype="internal">1010.558</ref> and <ref target="1010-559" reftype="internal">1010.559</ref>, which require that the Property Report and contracts or agreements contain notice of purchaser's revocation rights. In addition, see <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>(a)(2)(D), which provides that it is unlawful to make any representations with regard to the developer's obligation to provide or complete roads, water, sewers, gas, electrical facilities or recreational amenities, unless the developer is obligated to do so in the contract.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1010-A">
@@ -209,7 +365,7 @@
             <content><dash>Legal Description of Lot(s) Purchased</dash><ref target="1010-1-b-8" reftype="term">Lot</ref>(s) Purchased_____</content>
           </paragraph>
           <paragraph label="1010-A-I-p7" marker="">
-            <content>I hereby affirm that all of the requirements of the MSA exemption as set forth in <ref target="USC:15-1702" reftype="external">15 U.S.C. 1702</ref>(b)(8) and <ref target="CFR:12-1010-13" reftype="external">12 CFR 1010.13</ref><ref target="1010-13" reftype="internal">12 CFR 1010.13</ref> have been met in the <ref target="1010-1-b-13" reftype="term">sale</ref> or <ref target="1010-1-b-13" reftype="term">lease</ref> of the <ref target="1010-1-b-8" reftype="term">lot</ref>(s) described above.</content>
+            <content>I hereby affirm that all of the requirements of the MSA exemption as set forth in <ref target="USC:15-1702" reftype="external">15 U.S.C. 1702</ref>(b)(8) and <ref target="1010-13" reftype="internal">12 CFR 1010.13</ref> have been met in the <ref target="1010-1-b-13" reftype="term">sale</ref> or <ref target="1010-1-b-13" reftype="term">lease</ref> of the <ref target="1010-1-b-8" reftype="term">lot</ref>(s) described above.</content>
           </paragraph>
           <paragraph label="1010-A-I-p8" marker="">
             <content>I also affirm that I submit to the jurisdiction of the Interstate Land Sales Full Disclosure <ref target="1010-1-b-1" reftype="term">Act</ref> with regard to the <ref target="1010-1-b-13" reftype="term">sale</ref> or <ref target="1010-1-b-13" reftype="term">lease</ref> cited above.</content>
@@ -476,7 +632,7 @@
               <content>I affirm that I am, or will be, the developer of the property and/or method of operation described above.</content>
             </paragraph>
             <paragraph label="1010-A-IV-h10-p57" marker="">
-              <content>I affirm that the <ref target="1010-1-b-8" reftype="term">lots</ref> in said property will be sold in compliance with all of the requirements of <ref target="CFR:12-1010-15" reftype="external">12 CFR 1010.15</ref><ref target="1010-15" reftype="internal">12 CFR 1010.15</ref>.</content>
+              <content>I affirm that the <ref target="1010-1-b-8" reftype="term">lots</ref> in said property will be sold in compliance with all of the requirements of <ref target="1010-15" reftype="internal">12 CFR 1010.15</ref>.</content>
             </paragraph>
             <paragraph label="1010-A-IV-h10-p58" marker="">
               <content>I further affirm that the statements contained in all documents submitted with this request for an Exemption Order are true and complete.</content>
@@ -1609,254 +1765,8 @@
         </appendixSection>
       </appendix>
     </change>
-    <change operation="modified" label="1010-504-a-1">
-      <paragraph label="1010-504-a-1" marker="(1)">
-        <content>Accept for filing and allow to be distributed as the sole disclosure document, a disclosure document currently in effect in the situs certified State. Only those documents filed with the situs state after certification by the Director must automatically be accepted by other certified states;</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-102-a">
-      <paragraph label="1010-102-a" marker="(a)">
-        <title type="keyterm">Paper and type.</title>
-        <content>The Statement of Record shall be on good quality, unglazed white or pastel paper. Letter size paper, approximately 8 1/2 × 11 inches in size, will be used for the Property Report portion, and either letter size paper, approximately 8 1/2 × 11 inches in size, or legal size paper, approximately 8 1/2 × 14 inches in size, will be used for the Additional Information and Documentation portion. Side margins shall be no less than 1 inch and no greater than 1 1/2 inches. Top and bottom margins shall be no less than 1 inch. In the preparation of the charts to be included in the Property Report, the developer may vary from the above margin requirements or print the charts lengthwise on the required size paper if such measures are necessary to make the charts readable. The Statement of Record shall be prepared in an easily readable, uniform font.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-102-e">
-      <paragraph label="1010-102-e" marker="(e)">
-        <title type="keyterm">Headings, subheadings, captions, introductory paragraphs, warnings.</title>
-        <content>Property Report subject “headings” are those descriptive introductory words which appear immediately after section numbers 1010.106 through 1010.116 (e.g. § 1010.108 has “General Information” and § 1010.111 has “Utilities”). Each such heading shall be printed in the Property Report in underlined capital letters and centered at the top of a new page. Section numbers shall not be printed in the Property Report. Property Report subheadings are those descriptive introductory words which appear in italics in the regulations at the beginning of paragraphs designated by paragraph letters (a), (b), (c) etc. An example of a subheading is “water” found immediately after the paragraph letter (a) in § 1010.111. These subheadings will be printed in the Property Report only if they are relevant to the subject subdivision. If printed these subheadings shall be capitalized and shall begin at the left hand margin of the page. Property Report “captions” are those descriptive introductory words which appear in italics in the Regulations at the beginning of paragraphs designated by numbers (1), (2), (3), etc. An example of such captions is “<ref target="1010-1-b-13" reftype="term">Sales</ref> Contract and Delivery of Deed” found immediately after the paragraph number “(1)” in § 1010.109(b). These captions are to be printed in the Property Report only if they are applicable to the subject subdivision. If printed, these captions shall be centered on the page from the side margins, and shall have only the first letter of each word capitalized. Headings and subheadings will be used in the Property Report in accordance with the sample page appearing in <ref target="1010-A-IX" reftype="internal">section IX of the appendix to this part</ref>. Introductory paragraphs will follow headings if they are applicable and necessary for a readable entry into the subject matters, but note, the introductory paragraphs for “Title to the Property and Land Use” are to be used in every case as provided in § 1010.109(a)(1). Subheadings and captions which do not apply to the subdivision should be omitted from the Property Report portion and answered “not applicable” in the Additional Information and Documentation portion, unless specifically required to be included elsewhere in these instructions. Warnings shall be printed substantially as they appear in the instructions in §§ 1010.105 through 1010.118. They shall be printed in capital letters and may be enclosed in a box. The paragraphs in the Property Report portion need not be numbered. A sample page is set forth in <ref target="1010-A-IX" reftype="internal">section IX of the appendix to this part</ref>: Sample Page for Statement of Record.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-103-a">
-      <paragraph label="1010-103-a" marker="(a)">
-        <content>If the developer represents either orally or in writing that it will provide or complete roads or facilities for water, sewer, gas, electricity or recreational amenities, it must be contractually obligated to do so, and the obligation shall be clearly stated in the Property Report. While the developer may disclose relevant facts about completion, the obligation to complete cannot be conditioned, other than as permitted by <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>(a)(2), and an estimated completion date (month and year) must be stated in the Property Report. However, a developer that has only tentative plans to complete may so state in the Property Report, provided that the statement clearly identifies conditions to which the completion of the facilities are subject and states that there are no guarantees the facilities will be completed.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-21-b">
-      <paragraph label="1010-21-b" marker="(b)">
-        <title type="keyterm">Suspension of effective date by developer.</title>
-        <content/>
-        <paragraph label="1010-21-b-1" marker="(1)">
-          <content>A developer, or <ref target="1010-1-b-9" reftype="term">owner</ref>, may request that the effective date of its Statement of Record be suspended, provided there are no administrative proceedings pending against either of them at the time the request is submitted. The request must include any consolidations or amendments which have been made to the initial Statement of Record and may be submitted via the electronic means of submission described in § 1010.20(a). Forms for this purpose will be furnished by the Director upon request.</content>
-        </paragraph>
-        <paragraph label="1010-21-b-2" marker="(2)">
-          <content>Upon acceptance by the Director, the effectiveness of the Statement of Record shall be suspended as of the date the request was executed by the developer or <ref target="1010-1-b-9" reftype="term">owner</ref>.</content>
-        </paragraph>
-        <paragraph label="1010-21-b-3" marker="(3)">
-          <content>The suspension shall continue until the developer, or <ref target="1010-1-b-9" reftype="term">owner</ref>, submits all amendments necessary to bring the registration into full compliance with the Regulations which are in effect on the date of the amendments and the Director allows those amendments to become effective.</content>
-        </paragraph>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-506-a-2">
-      <paragraph label="1010-506-a-2" marker="(2)">
-        <content>Retroactive application of the effectiveness of state's certification to a specified date may be granted on a state-by-state basis, where the Director determines that retroactive application will not result in automatic Federal registration of any state filing that has not met the requirements of the certified state laws.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-310-b">
-      <paragraph label="1010-310-b" marker="(b)">
-        <content>The report shall be submitted within 30 days of the annual anniversary of the effective date of the initial Statement of Record. The report may be submitted via the electronic means described in § 1010.20(a).</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-102-h">
-      <paragraph label="1010-102-h" marker="(h)">
-        <title type="keyterm">Ordering.</title>
-        <content>The Statement of Record shall be filed with the Property Report portion on top, including any documents which may be required to be attached when delivered to the purchaser, followed by the Additional Information and Documentation portion.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-102-m">
-      <paragraph label="1010-102-m" marker="(m)">
-        <title type="keyterm">Final version of Property Report.</title>
-        <content>On the date that a Statement of Record becomes effective, the Property Report portion shall become the Property Report for the subject subdivision. The version of the Property Report delivered to prospective <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers shall be verbatim to that found effective by the Director and shall have no covers, pictures, emblems, logograms or identifying insignia other than as required by these regulations. It shall meet the same standards as to grade of paper, type size, margins, style and color of print as those set herein for the Statement of Record, except where required otherwise by these regulations. However, the date of typing or preparation of the pages and the <ref target="1010-1-b-7" reftype="term">ILSRP</ref> number shall not appear in the final version. If the final version of the Property Report is commercially printed, or photocopied by a process which results in a commercial printing quality, and is bound on the left side, both sides of the pages may be used for printed material. If it is typed or photocopied by a process which does not result in a clear and legible product on both sides of the page or is bound at the top, printing shall be done on only one side of the page. If a Statement of Record is filed with the Bureau via electronic means pursuant to § 1010.20(a), the version of the Property Report delivered to prospective <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers shall meet the same standards that apply under these regulations to a Statement of Record not filed with the Bureau via electronic means. One copy of the final version of the Property Report, in the exact form in which it is delivered to prospective <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers, shall be sent to <ref target="1010-1-b-7" reftype="term">ILSRP</ref> Office within 20 days of the date on which the Statement of Record, amendment, or consolidation is allowed to become effective by the Director. If a Property Report in a foreign language is used as required by § 1011.25(g), a copy of that Property Report together with a copy of the translated documents shall be furnished the Director within 20 days of the date on which the advertising is first used. A Property Report prepared pursuant to these regulations shall not be distributed to potential <ref target="1010-1-b-8" reftype="term">lot</ref> purchasers until after the Statement of Record of which it is a part or any amendment to that Statement of Record has been made effective by the Director.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-215-a">
-      <paragraph label="1010-215-a" marker="(a)">
-        <content>Submit a copy of a current geological survey topographic map, or maps, of the largest scale available from the U.S. Geological Survey with an outline of the entire subdivision and the area included in this Statement of Record clearly indicated. Do not shade the areas on the maps which have been outlined.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-507">
-      <section label="1010-507" sectionNum="507">
-        <subject>§ 1010.507 Effect of suspension or withdrawal of certification granted under 15 U.S.C. 1708(a)(1): Full disclosure requirement.</subject>
-        <paragraph label="1010-507-a" marker="(a)">
-          <content>If a state certified under <ref target="USC:15-1708" reftype="external">15 U.S.C. 1708</ref>(a)(1) suspends its own certification or has its certification withdrawn under § 1010.505, the Federal disclosure materials accepted and made effective by the Director, pursuant to § 1010.506, prior to the suspension or withdrawal shall remain in effect unless otherwise suspended by the Director.</content>
-        </paragraph>
-        <paragraph label="1010-507-b" marker="(b)">
-          <content>In the event that there is a change in a material fact with regard to a subdivision that remains registered under the provisions of paragraph <ref target="1010-507-a" reftype="internal">(a)</ref> of this section, the developer shall file a new registration with the Director meeting the requirements of the then applicable Federal registration regulations. Modifications of the Federal format may be used as specified by the Director.</content>
-        </paragraph>
-      </section>
-    </change>
-    <change operation="modified" label="1010-505">
-      <section label="1010-505" sectionNum="505">
-        <subject>§ 1010.505 Withdrawal of State certification.</subject>
-        <paragraph label="1010-505-a" marker="(a)">
-          <content>The Director shall periodically review the laws, regulations and administration thereof, of a certified state. If the Director finds that, taken as a whole, the laws, regulations or administration thereof, no longer meet the requirements of subpart C, then the Director may issue a notice to withdraw the certification of that state.</content>
-        </paragraph>
-        <paragraph label="1010-505-b" marker="(b)">
-          <content>The notice of proceedings to withdraw a state's certification will be issued to the state by the Director pursuant to § 1012.236. The Director may, after notice and after an opportunity for a hearing, pursuant to § 1012.237, issue an order withdrawing certification. In the event that a withdrawal order is issued, the order shall remain in effect until the state has amended its laws, regulations or the administration thereof or has otherwise complied with the requirements of the order. When the state has complied with the requirements of the order, the Director shall so declare and the withdrawal order shall cease to be effective.</content>
-        </paragraph>
-        <paragraph label="1010-505-c" marker="(c)">
-          <content>Withdrawal orders issued pursuant to this subsection will be effective as of the date the order is received by the state. The withdrawal order shall be published in the Federal Register.</content>
-        </paragraph>
-        <paragraph label="1010-505-d" marker="(d)">
-          <content>The <ref target="1010-1-b-12" reftype="term">rules</ref> of <ref target="CFR:12-1080" reftype="external">12 CFR part 1080</ref>, unless otherwise specified in <ref target="CFR:12-1012" reftype="external">12 CFR part 1012</ref>, subpart D, will generally apply to hearings on withdrawal of a state's certification.</content>
-        </paragraph>
-      </section>
-    </change>
-    <change operation="modified" label="1010-503-a">
-      <paragraph label="1010-503-a" marker="(a)">
-        <content>If the Director determines that a state qualifies for certification under this subpart, the Director shall so notify the state in writing. The state will be effectively certified under the section and as of the date specified in the notice.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-21-b-1">
-      <paragraph label="1010-21-b-1" marker="(1)">
-        <content>A developer, or <ref target="1010-1-b-9" reftype="term">owner</ref>, may request that the effective date of its Statement of Record be suspended, provided there are no administrative proceedings pending against either of them at the time the request is submitted. The request must include any consolidations or amendments which have been made to the initial Statement of Record and may be submitted via the electronic means of submission described in § 1010.20(a). Forms for this purpose will be furnished by the Director upon request.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-1-a">
-      <paragraph label="1010-1-a" marker="(a)">
-        <title type="keyterm">Statutory terms.</title>
-        <content>All terms are used in accordance with their statutory meaning in <ref target="USC:15-1702" reftype="external">15 U.S.C. 1702</ref>, unless otherwise defined in paragraph <ref target="1010-1-b" reftype="internal">(b)</ref> of this section or elsewhere in this part.</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1010-20-a-1">
-      <paragraph label="1010-20-a-1" marker="(1)">
-        <content>In order to register a subdivision and receive an effective date, the developer or <ref target="1010-1-b-9" reftype="term">owner</ref> of the subdivision must file a Statement of Record with the Director by either:</content>
-        <paragraph label="1010-20-a-1-i" marker="(i)">
-          <content>U.S. Mail, to the following official address: Consumer Financial Protection Bureau, Interstate Land Sales Registration Program, 1700 G Street NW., Washington, DC 20552; or</content>
-        </paragraph>
-        <paragraph label="1010-20-a-1-ii" marker="(ii)">
-          <content>Electronic means designated on the ILSA program page on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> at www.consumerfinance.gov/.</content>
-        </paragraph>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-4-e">
-      <paragraph label="1010-4-e" marker="(e)">
-        <content>A developer may present evidence, or otherwise discuss, in an informal hearing before the Office of Supervision Examinations, the Bureau's position on the jurisdiction or non-exempt status of a particular subdivision.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-35-a-2">
-      <paragraph label="1010-35-a-2" marker="(2)">
-        <content>Information regarding the current mailing address or electronic payment procedures is available from: Consumer Financial Protection Bureau, Interstate Land Sales Registration Program, 1700 G Street NW., Washington, DC 20552, or on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> at www.consumerfinance.gov.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-4-c">
-      <paragraph label="1010-4-c" marker="(c)">
-        <content>The anti-fraud provisions of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1010-1-b-1" reftype="term">Act</ref> require that certain representations be included in the contract in transactions which are not exempt under § 1010.5. Specifically, <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1010-1-b-1" reftype="term">Act</ref> requires that if a developer or agent represents that roads, sewers, water, gas or electric service or recreational amenities will be provided or completed by the developer, the contract must stipulate that the services or amenities will be provided or completed.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-508-a">
-      <paragraph label="1010-508-a" marker="(a)">
-        <content>If a state certified under 15 U.S.C 1708(a)(2) suspends its own certification or has its certification withdrawn under § 1010.505, the effectiveness of the Federal disclosure materials accepted and made effective by the Director, pursuant to § 1010.506, prior to the suspension or withdrawal shall terminate ninety (90) days after the notice of withdrawal order is published in the Federal Register as provided in § 1010.505(c).</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-23-a">
-      <paragraph label="1010-23-a" marker="(a)">
-        <title type="keyterm">Filing.</title>
-        <content>If any change occurs in any representation of material fact required to be stated in an effective Statement of Record, an amendment shall be filed. The amendment shall be filed within 15 days of the date on which the developer knows, or should have known, that there has been a change in material fact. The amendment may be filed via the electronic means of submission described in § 1010.20(a).</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-500-a">
-      <paragraph label="1010-500-a" marker="(a)">
-        <content>This subpart establishes procedures and criteria for certifying state land <ref target="1010-1-b-13" reftype="term">sale</ref> or <ref target="1010-1-b-13" reftype="term">lease</ref> disclosure programs and state land development standards programs. The purpose of State Certification is to lessen the administrative burden on the individual developer, arising where there are duplicative state and Federal registration and disclosure requirements, without affecting the level of protection given to the individual purchaser or lessee. If the Director determines that a state has adopted and is effectively administering a program that gives purchasers and lessees the same level of protection given to them by the Interstate Land Sales Registration Program, then the Director shall certify that state. Developers who accomplish an effective registration with a state in which the land is located after the Director has certified the state may satisfy the registration requirements of the Director by filing with the Director materials designated by agreement with certified states in lieu of the Federal Statement of Record and Property Report.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-507-a">
-      <paragraph label="1010-507-a" marker="(a)">
-        <content>If a state certified under <ref target="USC:15-1708" reftype="external">15 U.S.C. 1708</ref>(a)(1) suspends its own certification or has its certification withdrawn under § 1010.505, the Federal disclosure materials accepted and made effective by the Director, pursuant to § 1010.506, prior to the suspension or withdrawal shall remain in effect unless otherwise suspended by the Director.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-506-f">
-      <paragraph label="1010-506-f" marker="(f)">
-        <content>If a certified state suspends the registration of a particular subdivision for any reason, the subdivision's Federal registration with the Director shall be automatically suspended as a result of the state action. No action need be taken by the Director to effect the suspension.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-504-c">
-      <paragraph label="1010-504-c" marker="(c)">
-        <content>No state shall be prevented from establishing substantive or disclosure requirements which exceed the Federal standard provided that such requirements are not in conflict with <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1010-1-b-1" reftype="term">Act</ref> or these regulations. For example, a certified State may impose additional disclosure requirements on developers of land located within its borders but may not impose additional disclosure requirements on developers whose disclosure documents it is required to accept pursuant to paragraph <ref target="1010-504-a-1" reftype="internal">(a)(1)</ref> of this section. However, a certified state may impose additional nondisclosure requirements on out of state developers even though the developer is registered in the certified State in which the land is located.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-504-a">
-      <paragraph label="1010-504-a" marker="(a)">
-        <content>By filing an Application for Certification of State Land <ref target="1010-1-b-13" reftype="term">Sales</ref> Program pursuant to this subpart, a state agrees that, if it is certified by the Director, it will:</content>
-        <paragraph label="1010-504-a-1" marker="(1)">
-          <content>Accept for filing and allow to be distributed as the sole disclosure document, a disclosure document currently in effect in the situs certified State. Only those documents filed with the situs state after certification by the Director must automatically be accepted by other certified states;</content>
-        </paragraph>
-        <paragraph label="1010-504-a-2" marker="(2)">
-          <content>Certify copies of all disclosure documents, amendments and consolidations filed with it by developers of land located within its borders for and as needed by developers required to submit certified copies to the Director and all other certified states. The certification shall indicate whether the documents are currently in effect. The certification should be in the format set forth in <ref target="1010-A-XXIX" reftype="internal">section XXIX of the appendix to this part</ref>: Form for Certification for Disclosure Documents.</content>
-        </paragraph>
-        <paragraph label="1010-504-a-3" marker="(3)">
-          <content>Assist and cooperate with the Director and other certified states by requiring that developers of land within its borders amend disclosure documents if any change occurs in any representation of material fact required to be stated in the disclosure documents, including a change resulting from the developer's compliance with the requirements of the law in another certified state. The state shall require developers to send certified copies of the amended documents to the Director and requesting certified states. All amendments to such materials, which reflect changes in material facts regarding the subdivision, shall be submitted to the situs certified state authorities within 15 days of the date on which the developer knows, or should have known, of such change. Certified copies of the disclosure documents shall be submitted by the developer to the Director and the other certified states within 15 days after it becomes effective under the situs certified state laws.</content>
-        </paragraph>
-        <paragraph label="1010-504-a-4" marker="(4)">
-          <content>Continue to effectively operate its Land <ref target="1010-1-b-13" reftype="term">Sales</ref> Program as that Program is described in the Application for Certification and as it was certified by the Director.</content>
-        </paragraph>
-        <paragraph label="1010-504-a-5" marker="(5)">
-          <content>Assist and cooperate with the Director by monitoring the <ref target="1010-1-b-13" reftype="term">sales</ref> practices of developers registered with it directly or through another certified state, and by reporting to the Director any violations of <ref target="USC:0-0" reftype="external">the Act</ref><ref target="1010-1-b-1" reftype="term">Act</ref>, including but not limited to the required contract provisions, revocation rights and anti-fraud provisions of <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>, or the regulations.</content>
-        </paragraph>
-      </paragraph>
-    </change>
-    <change operation="added" label="1010-20-b-2">
-      <paragraph label="1010-20-b-2" marker="(2)">
-        <content>The requirements relating to paper type, tabs, folding, and ordering for filings with the Bureau in § 1010.102(a), (g), and (h) do not apply if a Statement of Record is filed with the Bureau via electronic means designated on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> pursuant to § 1010.20(a).</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-35-a">
-      <paragraph label="1010-35-a" marker="(a)">
-        <title type="keyterm">Method of payment.</title>
-        <content/>
-        <paragraph label="1010-35-a-1" marker="(1)">
-          <content>Each fee must be paid by:</content>
-          <paragraph label="1010-35-a-1-i" marker="(i)">
-            <content>Certified check, cashier's check, or postal money order made payable to the Treasurer of the United States, with the registration number, when known, and the name, of the subdivision on the face of the check, and mailed to an address specified by the Director; or</content>
-          </paragraph>
-          <paragraph label="1010-35-a-1-ii" marker="(ii)">
-            <content>Electronic payment in a manner specified by the Director.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1010-35-a-2" marker="(2)">
-          <content>Information regarding the current mailing address or electronic payment procedures is available from: Consumer Financial Protection Bureau, Interstate Land Sales Registration Program, 1700 G Street NW., Washington, DC 20552, or on the Bureau's Web <ref target="1010-1-b-15" reftype="term">site</ref> at www.consumerfinance.gov.</content>
-        </paragraph>
-      </paragraph>
-    </change>
-    <change operation="added" label="1010-20-b-1">
-      <paragraph label="1010-20-b-1" marker="(1)">
-        <content>The Statement of Record shall be in the format specified in § 1010.100 and shall be completed in accordance with the instructions in §§ 1010.102, 1010.105 through 1010.118, 1010.200, 1010.208 through 1010.216, and 1010.219. It shall be supported by the documents required by §§ 1010.208 through 1010.216 and 1010.219. It shall include any other information or documents which the Director may require as being necessary or appropriate for the protection of purchasers.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-552-a">
-      <paragraph label="1010-552-a" marker="(a)">
-        <content>Materials filed with a state and accepted by the HUD Secretary as a Statement of Record prior to January 1, 1981, pursuant to <ref target="CFR:24-1010-52" reftype="external">24 CFR 1010.52</ref> through 1010.59 (as published in the Federal Register on April 10, 1979) may continue in effect. However, developers must comply with the applicable amendments to the Federal act and the regulations thereunder. In particular, see §§ 1010.558 and 1010.559, which require that the Property Report and contracts or agreements contain notice of purchaser's revocation rights. In addition, see <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>(a)(2)(D), which provides that it is unlawful to make any representations with regard to the developer's obligation to provide or complete roads, water, sewers, gas, electrical facilities or recreational amenities, unless the developer is obligated to do so in the contract.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-209-f-3-iv">
-      <paragraph label="1010-209-f-3-iv" marker="(iv)">
-        <content>If it is represented that the developer will provide or complete roads or facilities for waters, sewer, gas, electric service or recreational amenities, the contract must contain a provision that the developer is obligated to provide or complete such roads, facilities and amenities.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-506-a-1">
-      <paragraph label="1010-506-a-1" marker="(1)">
-        <content>If the Director has certified a state under this subpart, the Director shall accept for filing disclosure materials or other acceptable documents which have been approved by the certified state within which the subdivision is located. Only those filings made by the developer with the state after the state was certified by the Director shall be automatically accepted by the Director.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1010-5">
-      <section label="1010-5" sectionNum="5">
-        <subject>§ 1010.5 Statutory exemptions.</subject>
-        <paragraph label="1010-5-p1" marker="">
-          <content>A listing of the statutory exemptions is contained in 15 U.S.C. 1702. In accordance with 15 U.S.C. 1702(a)(2), if the sale involves a condominium or multi-unit construction, a presale clause conditioning the sale of a unit on a certain percentage of sales of other units is permissible if it is legally binding on the parties and is for a period not to exceed 180 days. However, the 180-day provision cannot extend the 2-year period for performance. The permissible 180 days is calculated from the date the first purchaser signs a sales contract in the project or, if a phased project, from the date the first purchaser signs the first sales contract in each phase.</content>
-        </paragraph>
-      </section>
-    </change>
-    <change operation="modified" label="1010-508">
-      <section label="1010-508" sectionNum="508">
-        <subject>§ 1010.508 Effect of suspension of certification granted under 15 U.S.C. 1708(a)(2): Sufficient protection requirement.</subject>
-        <paragraph label="1010-508-a" marker="(a)">
-          <content>If a state certified under 15 U.S.C 1708(a)(2) suspends its own certification or has its certification withdrawn under § 1010.505, the effectiveness of the Federal disclosure materials accepted and made effective by the Director, pursuant to § 1010.506, prior to the suspension or withdrawal shall terminate ninety (90) days after the notice of withdrawal order is published in the Federal Register as provided in § 1010.505(c).</content>
-        </paragraph>
-        <paragraph label="1010-508-b" marker="(b)">
-          <content>At the end of the ninety day period, or during the ninety day period in the event that there is a change in material fact with regard to a subdivision that remains registered under the provisions of paragraph <ref target="1010-508-a" reftype="internal">(a)</ref> of this section, the developer shall file a new registration with the Director meeting the requirements of the then applicable Federal registration regulations. Modifications of the Federal format may be used as specified by the Director.</content>
-        </paragraph>
-      </section>
-    </change>
   </changeset>
+
   <analysis>
     <analysisSection target="1010-20-a" notice="2016-10715" date="2016-05-11">
       <title>20(a) Filing</title>
