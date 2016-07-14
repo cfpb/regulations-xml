@@ -1,0 +1,1050 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2011-12-30</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>LAND REGISTRATION</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <cfr>
+      <title>12</title>
+      <section>1012</section>
+    </cfr>
+    <documentNumber>2011-31713</documentNumber>
+    <effectiveDate>2011-12-30</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/articles/2011/12/21/2011-31713/no-title-available</federalRegisterURL>
+  </preamble>
+  <part label="1012">
+    <tableOfContents>
+      <tocAppEntry target="1012-Subpart-A">
+        <appendixLetter>A</appendixLetter>
+        <appendixSubject>[Reserved]</appendixSubject>
+      </tocAppEntry>
+      <tocAppEntry target="1012-Subpart-B">
+        <appendixLetter>B</appendixLetter>
+        <appendixSubject>Filing Assistance</appendixSubject>
+      </tocAppEntry>
+      <tocAppEntry target="1012-Subpart-C">
+        <appendixLetter>C</appendixLetter>
+        <appendixSubject>[Reserved]</appendixSubject>
+      </tocAppEntry>
+      <tocAppEntry target="1012-Subpart-D">
+        <appendixLetter>D</appendixLetter>
+        <appendixSubject>Adjudicatory Proceedings</appendixSubject>
+      </tocAppEntry>
+    </tableOfContents>
+    <content>
+      <subpart label="1012-Subpart-A" subpartLetter="A">
+        <title>[Reserved]</title>
+        <tableOfContents>
+        </tableOfContents>
+        <content>
+        </content>
+      </subpart>
+      <subpart label="1012-Subpart-B" subpartLetter="B">
+        <title>Filing Assistance</title>
+        <tableOfContents>
+          <tocSecEntry target="1012-30">
+            <sectionNum>100</sectionNum>
+            <sectionSubject>§ 1012.30 Scope of this subpart.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1012-35">
+            <sectionNum>35</sectionNum>
+            <sectionSubject>§ 1012.35 Prefiling assistance.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1012-40">
+            <sectionNum>40</sectionNum>
+            <sectionSubject>§ 1012.40 Processing of filings.</sectionSubject>
+          </tocSecEntry>
+        </tableOfContents>
+        <content>
+	  <section label="1012-30" sectionNum="30">
+	    <subject>§ 1012.30 Scope of this subpart.</subject>
+	    <paragraph label="1012-30-p1" marker="none">
+	      <content>This subpart applies to and governs procedures under which developers may obtain prefiling assistance and be notified of and permitted to correct deficiencies in the Statement of Record.</content>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-35" sectionNum="35">
+	    <subject>§ 1012.30 Prefiling assistance.</subject>
+	    <paragraph label="1012-35-p1" marker="none">
+	      <content>Persons intending to file with the Bureau of Consumer Financial Protection, Office of Nonbank Supervision may receive advice of a general nature as to the preparation of the filing including information as to proper format to be used and the scope of the items to be included in the format. Inquiries and requests for informal discussions with staff members should be directed to the Office of Nonbank Supervision, Interstate Land Sales Registration Program, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20006.</content>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-40" sectionNum="40">
+	    <subject>§ 1012.40 Processing of filings.</subject>
+	    <paragraph label="1012-40-a" marker="(a)">
+	      <content>Statements of Record and accompanying filing fees will be received on behalf of the Director by the Office of Nonbank Supervision, for determination of whether the criteria set forth in paragraphs <ref target="1012-40-a-1" reftype="internal">(a)(1)</ref> through <ref target="1012-40-a-3" reftype="internal">(3)</ref> of this section have been satisfied. Where it appears that all three criteria are satisfied and it is otherwise practicable, acceleration of the effectiveness of the Statement of Record will normally be granted.</content>
+	      <paragraph label="1012-40-a-1" marker="(1)">
+		<content>Completeness of the statement</content>
+	      </paragraph>
+	      <paragraph label="1012-40-a-2" marker="(2)">
+		<content>Adequacy of the filing fee, and</content>
+	      </paragraph>
+	      <paragraph label="1012-40-a-3" marker="(3)">
+		<content>Adequacy of disclosure.</content>
+	      </paragraph>
+	    </paragraph>
+	    <paragraph label="1012-40-b" marker="(b)">
+	      <content>Filings intended as Statements of Record but which do not comply in form with §§ 1010.105 and 1010.120 of this chapter, whichever is applicable, and Statements of Record accompanied by inadequate filing fees will not be effective to accomplish any purpose under the Act. At the discretion of the Interstate Land Sales Registration Program, such filings and any moneys accompanying them may be immediately returned to the sender or after notification may be held pending the sender's appropriate response.</content>
+	    </paragraph>
+	    <paragraph label="1012-40-c" marker="(c)">
+	      <content>Persons filing incomplete or inaccurate Statements of Record will be notified of the deficiencies therein by the Suspension Notice procedure described in § 1010.45(a) of this chapter.</content>
+	    </paragraph>
+	  </section>
+        </content>
+      </subpart>
+      
+      <subpart label="1012-Subpart-C" subpartLetter="C">
+        <title>[Reserved]</title>
+        <tableOfContents/>
+	<content/>
+      </subpart>
+
+      <subpart label="1012-Subpart-D" subpartLetter="D">
+	<title>Adjudicatory Proceedings</title>
+	<tableOfContents>
+	  <tocSecEntry target="1012-105">
+	    <sectionNum>105</sectionNum>
+	    <sectionSubject>§ 1012.105 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-106">
+	    <sectionNum>106</sectionNum>
+	    <sectionSubject>§ 1012.106 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-107">
+	    <sectionNum>107</sectionNum>
+	    <sectionSubject>§ 1012.107 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-108">
+	    <sectionNum>108</sectionNum>
+	    <sectionSubject>§ 1012.108 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-109">
+	    <sectionNum>109</sectionNum>
+	    <sectionSubject>§ 1012.109 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-110">
+	    <sectionNum>110</sectionNum>
+	    <sectionSubject>§ 1012.110 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-111">
+	    <sectionNum>111</sectionNum>
+	    <sectionSubject>§ 1012.111 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-112">
+	    <sectionNum>112</sectionNum>
+	    <sectionSubject>§ 1012.112 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-113">
+	    <sectionNum>113</sectionNum>
+	    <sectionSubject>§ 1012.113 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-114">
+	    <sectionNum>114</sectionNum>
+	    <sectionSubject>§ 1012.114 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-115">
+	    <sectionNum>115</sectionNum>
+	    <sectionSubject>§ 1012.115 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-116">
+	    <sectionNum>116</sectionNum>
+	    <sectionSubject>§ 1012.116 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-117">
+	    <sectionNum>117</sectionNum>
+	    <sectionSubject>§ 1012.117 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-118">
+	    <sectionNum>118</sectionNum>
+	    <sectionSubject>§ 1012.118 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-119">
+	    <sectionNum>119</sectionNum>
+	    <sectionSubject>§ 1012.119 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-120">
+	    <sectionNum>120</sectionNum>
+	    <sectionSubject>§ 1012.120 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-121">
+	    <sectionNum>121</sectionNum>
+	    <sectionSubject>§ 1012.121 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-122">
+	    <sectionNum>122</sectionNum>
+	    <sectionSubject>§ 1012.122 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-123">
+	    <sectionNum>123</sectionNum>
+	    <sectionSubject>§ 1012.123 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-124">
+	    <sectionNum>124</sectionNum>
+	    <sectionSubject>§ 1012.124 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-125">
+	    <sectionNum>125</sectionNum>
+	    <sectionSubject>§ 1012.125 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-126">
+	    <sectionNum>126</sectionNum>
+	    <sectionSubject>§ 1012.126 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-127">
+	    <sectionNum>127</sectionNum>
+	    <sectionSubject>§ 1012.127 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-128">
+	    <sectionNum>128</sectionNum>
+	    <sectionSubject>§ 1012.128 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-129">
+	    <sectionNum>129</sectionNum>
+	    <sectionSubject>§ 1012.129 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-130">
+	    <sectionNum>130</sectionNum>
+	    <sectionSubject>§ 1012.130 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+
+	  <tocSecEntry target="1012-131">
+	    <sectionNum>131</sectionNum>
+	    <sectionSubject>§ 1012.131 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-132">
+	    <sectionNum>132</sectionNum>
+	    <sectionSubject>§ 1012.132 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-133">
+	    <sectionNum>133</sectionNum>
+	    <sectionSubject>§ 1012.133 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-134">
+	    <sectionNum>134</sectionNum>
+	    <sectionSubject>§ 1012.134 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-135">
+	    <sectionNum>135</sectionNum>
+	    <sectionSubject>§ 1012.135 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-136">
+	    <sectionNum>136</sectionNum>
+	    <sectionSubject>§ 1012.136 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-137">
+	    <sectionNum>137</sectionNum>
+	    <sectionSubject>§ 1012.137 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-138">
+	    <sectionNum>138</sectionNum>
+	    <sectionSubject>§ 1012.138 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-139">
+	    <sectionNum>139</sectionNum>
+	    <sectionSubject>§ 1012.139 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-140">
+	    <sectionNum>140</sectionNum>
+	    <sectionSubject>§ 1012.140 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-141">
+	    <sectionNum>141</sectionNum>
+	    <sectionSubject>§ 1012.141 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-142">
+	    <sectionNum>142</sectionNum>
+	    <sectionSubject>§ 1012.142 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-143">
+	    <sectionNum>143</sectionNum>
+	    <sectionSubject>§ 1012.143 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-144">
+	    <sectionNum>144</sectionNum>
+	    <sectionSubject>§ 1012.144 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-145">
+	    <sectionNum>145</sectionNum>
+	    <sectionSubject>§ 1012.145 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-146">
+	    <sectionNum>146</sectionNum>
+	    <sectionSubject>§ 1012.146 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-147">
+	    <sectionNum>147</sectionNum>
+	    <sectionSubject>§ 1012.147 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-148">
+	    <sectionNum>148</sectionNum>
+	    <sectionSubject>§ 1012.148 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-149">
+	    <sectionNum>149</sectionNum>
+	    <sectionSubject>§ 1012.149 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-150">
+	    <sectionNum>150</sectionNum>
+	    <sectionSubject>§ 1012.150 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+
+	  <tocSecEntry target="1012-151">
+	    <sectionNum>151</sectionNum>
+	    <sectionSubject>§ 1012.151 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-152">
+	    <sectionNum>152</sectionNum>
+	    <sectionSubject>§ 1012.152 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-153">
+	    <sectionNum>153</sectionNum>
+	    <sectionSubject>§ 1012.153 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-154">
+	    <sectionNum>154</sectionNum>
+	    <sectionSubject>§ 1012.154 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-155">
+	    <sectionNum>155</sectionNum>
+	    <sectionSubject>§ 1012.155 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-156">
+	    <sectionNum>156</sectionNum>
+	    <sectionSubject>§ 1012.156 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-157">
+	    <sectionNum>157</sectionNum>
+	    <sectionSubject>§ 1012.157 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-158">
+	    <sectionNum>158</sectionNum>
+	    <sectionSubject>§ 1012.158 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-159">
+	    <sectionNum>159</sectionNum>
+	    <sectionSubject>§ 1012.159 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-160">
+	    <sectionNum>160</sectionNum>
+	    <sectionSubject>§ 1012.160 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-161">
+	    <sectionNum>161</sectionNum>
+	    <sectionSubject>§ 1012.161 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-162">
+	    <sectionNum>162</sectionNum>
+	    <sectionSubject>§ 1012.162 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-163">
+	    <sectionNum>163</sectionNum>
+	    <sectionSubject>§ 1012.163 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-164">
+	    <sectionNum>164</sectionNum>
+	    <sectionSubject>§ 1012.164 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-165">
+	    <sectionNum>165</sectionNum>
+	    <sectionSubject>§ 1012.165 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-166">
+	    <sectionNum>166</sectionNum>
+	    <sectionSubject>§ 1012.166 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-167">
+	    <sectionNum>167</sectionNum>
+	    <sectionSubject>§ 1012.167 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-168">
+	    <sectionNum>168</sectionNum>
+	    <sectionSubject>§ 1012.168 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-169">
+	    <sectionNum>169</sectionNum>
+	    <sectionSubject>§ 1012.169 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-170">
+	    <sectionNum>170</sectionNum>
+	    <sectionSubject>§ 1012.170 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+
+	  <tocSecEntry target="1012-171">
+	    <sectionNum>171</sectionNum>
+	    <sectionSubject>§ 1012.171 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-172">
+	    <sectionNum>172</sectionNum>
+	    <sectionSubject>§ 1012.172 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-173">
+	    <sectionNum>173</sectionNum>
+	    <sectionSubject>§ 1012.173 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-174">
+	    <sectionNum>174</sectionNum>
+	    <sectionSubject>§ 1012.174 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-175">
+	    <sectionNum>175</sectionNum>
+	    <sectionSubject>§ 1012.175 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-176">
+	    <sectionNum>176</sectionNum>
+	    <sectionSubject>§ 1012.176 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-177">
+	    <sectionNum>177</sectionNum>
+	    <sectionSubject>§ 1012.177 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-178">
+	    <sectionNum>178</sectionNum>
+	    <sectionSubject>§ 1012.178 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-179">
+	    <sectionNum>179</sectionNum>
+	    <sectionSubject>§ 1012.179 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-180">
+	    <sectionNum>180</sectionNum>
+	    <sectionSubject>§ 1012.180 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-181">
+	    <sectionNum>181</sectionNum>
+	    <sectionSubject>§ 1012.181 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-182">
+	    <sectionNum>182</sectionNum>
+	    <sectionSubject>§ 1012.182 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-183">
+	    <sectionNum>183</sectionNum>
+	    <sectionSubject>§ 1012.183 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-184">
+	    <sectionNum>184</sectionNum>
+	    <sectionSubject>§ 1012.184 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-185">
+	    <sectionNum>185</sectionNum>
+	    <sectionSubject>§ 1012.185 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-186">
+	    <sectionNum>186</sectionNum>
+	    <sectionSubject>§ 1012.186 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-187">
+	    <sectionNum>187</sectionNum>
+	    <sectionSubject>§ 1012.187 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-188">
+	    <sectionNum>188</sectionNum>
+	    <sectionSubject>§ 1012.188 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-189">
+	    <sectionNum>189</sectionNum>
+	    <sectionSubject>§ 1012.189 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-190">
+	    <sectionNum>190</sectionNum>
+	    <sectionSubject>§ 1012.190 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+
+	  <tocSecEntry target="1012-191">
+	    <sectionNum>191</sectionNum>
+	    <sectionSubject>§ 1012.191 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-192">
+	    <sectionNum>192</sectionNum>
+	    <sectionSubject>§ 1012.192 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-193">
+	    <sectionNum>193</sectionNum>
+	    <sectionSubject>§ 1012.193 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-194">
+	    <sectionNum>194</sectionNum>
+	    <sectionSubject>§ 1012.194 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-195">
+	    <sectionNum>195</sectionNum>
+	    <sectionSubject>§ 1012.195 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-196">
+	    <sectionNum>196</sectionNum>
+	    <sectionSubject>§ 1012.196 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-197">
+	    <sectionNum>197</sectionNum>
+	    <sectionSubject>§ 1012.197 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-198">
+	    <sectionNum>198</sectionNum>
+	    <sectionSubject>§ 1012.198 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-199">
+	    <sectionNum>199</sectionNum>
+	    <sectionSubject>§ 1012.199 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-200">
+	    <sectionNum>200</sectionNum>
+	    <sectionSubject>§ 1012.200 [Reserved]</sectionSubject>
+	  </tocSecEntry>
+
+	  <tocSecEntry target="1012-205">
+	    <sectionNum>205</sectionNum>
+	    <sectionSubject>§ 1012.205 Suspension notice prior to effective date.</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-210">
+	    <sectionNum>210</sectionNum>
+	    <sectionSubject>§ 1012.210 Hearings—suspension notice prior to effective date.</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-215">
+	    <sectionNum>215</sectionNum>
+	    <sectionSubject>§ 1012.215 Notice of proceedings subsequent to effective date.</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-220">
+	    <sectionNum>220</sectionNum>
+	    <sectionSubject>§ 1012.220 Hearings—notice of proceedings subsequent to effective date.</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-225">
+	    <sectionNum>225</sectionNum>
+	    <sectionSubject>§ 1012.225 Suspension order for failure to cooperate.</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-230">
+	    <sectionNum>230</sectionNum>
+	    <sectionSubject>§ 1012.230 Suspension order pending amendments.</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-235">
+	    <sectionNum>235</sectionNum>
+	    <sectionSubject>§ 1012.235 Hearings—suspension orders for failure to cooperate and pending amendments.</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-236">
+	    <sectionNum>236</sectionNum>
+	    <sectionSubject>§ 1012.236 Notice of proceedings to withdraw a State's certification.</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-237">
+	    <sectionNum>237</sectionNum>
+	    <sectionSubject>§ 1012.237 Hearings—notice of proceedings pursuant to withdrawal of state certification.</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-238">
+	    <sectionNum>238</sectionNum>
+	    <sectionSubject>§ 1012.238 Notices of proceedings to terminate exemptions.</sectionSubject>
+	  </tocSecEntry>
+	  <tocSecEntry target="1012-239">
+	    <sectionNum>239</sectionNum>
+	    <sectionSubject>§ 1012.239 Hearings—notice of proceedings pursuant to exemptions.</sectionSubject>
+	  </tocSecEntry>
+	  
+	</tableOfContents>
+	<content>
+	  <section label="1012-105" sectionNum="105">
+	    <subject>§ 1012.105 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-106" sectionNum="106">
+	    <subject>§ 1012.106 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-107" sectionNum="107">
+	    <subject>§ 1012.107 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-108" sectionNum="108">
+	    <subject>§ 1012.108 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-109" sectionNum="109">
+	    <subject>§ 1012.109 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-110" sectionNum="110">
+	    <subject>§ 1012.110 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-111" sectionNum="111">
+	    <subject>§ 1012.111 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-112" sectionNum="112">
+	    <subject>§ 1012.112 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-113" sectionNum="113">
+	    <subject>§ 1012.113 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-114" sectionNum="114">
+	    <subject>§ 1012.114 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-115" sectionNum="115">
+	    <subject>§ 1012.115 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-116" sectionNum="116">
+	    <subject>§ 1012.116 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-117" sectionNum="117">
+	    <subject>§ 1012.117 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-118" sectionNum="118">
+	    <subject>§ 1012.118 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-119" sectionNum="119">
+	    <subject>§ 1012.119 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-120" sectionNum="120">
+	    <subject>§ 1012.120 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+
+	  <section label="1012-121" sectionNum="121">
+	    <subject>§ 1012.121 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-122" sectionNum="122">
+	    <subject>§ 1012.122 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-123" sectionNum="123">
+	    <subject>§ 1012.123 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-124" sectionNum="124">
+	    <subject>§ 1012.124 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-125" sectionNum="125">
+	    <subject>§ 1012.125 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-126" sectionNum="126">
+	    <subject>§ 1012.126 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-127" sectionNum="127">
+	    <subject>§ 1012.127 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-128" sectionNum="128">
+	    <subject>§ 1012.128 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-129" sectionNum="129">
+	    <subject>§ 1012.129 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-130" sectionNum="130">
+	    <subject>§ 1012.130 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+
+	  <section label="1012-131" sectionNum="131">
+	    <subject>§ 1012.131 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-132" sectionNum="132">
+	    <subject>§ 1012.132 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-133" sectionNum="133">
+	    <subject>§ 1012.133 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-134" sectionNum="134">
+	    <subject>§ 1012.134 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-135" sectionNum="135">
+	    <subject>§ 1012.135 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-136" sectionNum="136">
+	    <subject>§ 1012.136 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-137" sectionNum="137">
+	    <subject>§ 1012.137 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-138" sectionNum="138">
+	    <subject>§ 1012.138 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-139" sectionNum="139">
+	    <subject>§ 1012.139 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-140" sectionNum="140">
+	    <subject>§ 1012.140 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+
+	  <section label="1012-151" sectionNum="151">
+	    <subject>§ 1012.151 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-152" sectionNum="152">
+	    <subject>§ 1012.152 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-153" sectionNum="153">
+	    <subject>§ 1012.153 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-154" sectionNum="154">
+	    <subject>§ 1012.154 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-155" sectionNum="155">
+	    <subject>§ 1012.155 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-156" sectionNum="156">
+	    <subject>§ 1012.156 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-157" sectionNum="157">
+	    <subject>§ 1012.157 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-158" sectionNum="158">
+	    <subject>§ 1012.158 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-159" sectionNum="159">
+	    <subject>§ 1012.159 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-160" sectionNum="160">
+	    <subject>§ 1012.160 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+
+	  <section label="1012-171" sectionNum="171">
+	    <subject>§ 1012.171 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-172" sectionNum="172">
+	    <subject>§ 1012.172 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-173" sectionNum="173">
+	    <subject>§ 1012.173 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-174" sectionNum="174">
+	    <subject>§ 1012.174 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-175" sectionNum="175">
+	    <subject>§ 1012.175 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-176" sectionNum="176">
+	    <subject>§ 1012.176 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-177" sectionNum="177">
+	    <subject>§ 1012.177 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-178" sectionNum="178">
+	    <subject>§ 1012.178 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-179" sectionNum="179">
+	    <subject>§ 1012.179 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-180" sectionNum="180">
+	    <subject>§ 1012.180 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+
+	  <section label="1012-181" sectionNum="181">
+	    <subject>§ 1012.181 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-182" sectionNum="182">
+	    <subject>§ 1012.182 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-183" sectionNum="183">
+	    <subject>§ 1012.183 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-184" sectionNum="184">
+	    <subject>§ 1012.184 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-185" sectionNum="185">
+	    <subject>§ 1012.185 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-186" sectionNum="186">
+	    <subject>§ 1012.186 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-187" sectionNum="187">
+	    <subject>§ 1012.187 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-188" sectionNum="188">
+	    <subject>§ 1012.188 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-189" sectionNum="189">
+	    <subject>§ 1012.189 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-190" sectionNum="190">
+	    <subject>§ 1012.190 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+
+	  <section label="1012-191" sectionNum="191">
+	    <subject>§ 1012.191 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-192" sectionNum="192">
+	    <subject>§ 1012.192 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-193" sectionNum="193">
+	    <subject>§ 1012.193 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-194" sectionNum="194">
+	    <subject>§ 1012.194 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-195" sectionNum="195">
+	    <subject>§ 1012.195 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-196" sectionNum="196">
+	    <subject>§ 1012.196 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-197" sectionNum="197">
+	    <subject>§ 1012.197 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-198" sectionNum="198">
+	    <subject>§ 1012.198 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-199" sectionNum="199">
+	    <subject>§ 1012.199 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+	  <section label="1012-200" sectionNum="200">
+	    <subject>§ 1012.200 [Reserved]</subject>
+	    <reserved/>
+	  </section>
+
+	  <section label="1012-205" sectionNum="205">
+	    <subject>§ 1012.205 Suspension notice prior to effective date.</subject>
+	    <paragraph label="1012-205-p1" marker="none">
+	      <content>A suspension pursuant to § 1010.45(a) of this chapter shall be effected by service of a suspension notice which shall contain:</content>
+	      <paragraph label="1012-205-p1-a" marker="(a)">
+		<content>An identification of the filing to which the notice applies.</content>
+	      </paragraph>
+	      <paragraph label="1012-205-p1-b" marker="(b)">
+		<content>A specification of the deficiencies of form, disclosure, accuracy, documentation or fee tender which constitute the grounds under § 1010.45(a) of this chapter, of the suspension, and of the additional or corrective procedure, information, documentation, or tender which will satisfy the Director's requirements.</content>
+	      </paragraph>
+	      <paragraph label="1012-205-p1-c" marker="(c)">
+		<content>A notice of the hearing rights of the developer under § <ref target="1012-210" reftype="internal">1012.210</ref> and of the procedures for invoking those rights.</content>
+	      </paragraph>
+	      <paragraph label="1012-205-p1-d" marker="(d)">
+		<content>A notice that, unless otherwise ordered, the suspension shall remain in effect until 30 days after the developer cures the specified deficiencies as required by the notice.</content>
+	      </paragraph>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-210" sectionNum="210">
+	    <subject>§ 1012.210 Hearings—suspension notice prior to effective date.</subject>
+	    <paragraph label="1012-210-a" marker="(a)">
+	      <content>A developer, upon receipt of a suspension notice issued pursuant to § 1010.45(a) of this chapter, may obtain a hearing by filing a written request in accordance with the instructions regarding such request contained in the suspension notice. Such a request must be filed within 15 days of receipt of the suspension notice and must be accompanied by an answer and 3 copies thereof signed by the respondent or the respondent's attorney conforming to the requirements of 1081.201(b) and (c).</content>
+	    </paragraph>
+	    <paragraph label="1012-210-b" marker="(b)">
+	      <content>When a hearing is requested pursuant to paragraph <ref target="1012-210-a" reftype="internal">(a)</ref> of this section, such hearing shall be held within 20 days of receipt of the request. The time and place for hearing shall be fixed with due regard for the public interest and the convenience and necessity of the parties or their representatives.</content>
+	    </paragraph>
+	    <paragraph label="1012-210-c" marker="(c)">
+	      <content>A request for hearing filed pursuant to paragraph <ref target="1012-210-a" reftype="internal">(a)</ref> of this section shall not interrupt or annul the effectiveness of the suspension notice, and suspension of the effective date of the Statement or amendment shall continue until vacated by order of the Director or administrative law judge. Except in cases in which the developer shall waive or withdraw the request for such hearing, or shall fail to pursue the same by appropriate appearance at a hearing duly scheduled, noticed and convened, the suspended filing shall be reinstated in the event of failure of the Director to schedule, give notice of or hold a duly-requested hearing within the time specified in paragraph <ref target="1012-210-b" reftype="internal">(b)</ref> of this section, or in the event of a finding that the Director has failed to support at such hearing the propriety of the suspension with respect to the material issues of law and fact raised by the answer. Such reinstatement shall be effective on the date on which the filing would have become effective had no notice of suspension been issued with respect to it.</content>
+	    </paragraph>
+	    <paragraph label="1012-210-d" marker="(d)">
+	      <content>If there is an outstanding suspension notice under § 1010.45(a) with respect to the same matter for which a suspension order under § 1010.45(b)(3) is issued, the notice and order shall be consolidated for the purposes of hearing. In the event that allegations upon which the suspension notice and suspension order are based are identical, only one answer need be filed.</content>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-215" sectionNum="215">
+	    <subject>§ 1012.215 Notice of proceedings subsequent to effective date.</subject>
+	    <paragraph label="1012-215-p1" marker="none">
+	      <content>A proceeding pursuant to § 1010.45(b)(1) of this chapter is commenced by issuance and service of a notice which shall contain:</content>
+	      <paragraph label="1012-215-a" marker="(a)">
+		<content>A clear and accurate identification of the filing or filings to which the notice relates.</content>
+	      </paragraph>
+	      <paragraph label="1012-215-b" marker="(b)">
+		<content>A clear and concise statement of material facts, sufficient to inform the respondent with reasonable definiteness of the statements, omissions, conduct, circumstances or practices alleged to constitute the grounds for the proposed suspension order under § 1010.45(b)(1) of this chapter.</content>
+	      </paragraph>
+	      <paragraph label="1012-215-c" marker="(c)">
+		<content>A notice of hearing rights of the developer under § <ref target="1012-220" reftype="internal">1012.220</ref> and of the procedures for invoking those rights.</content>
+	      </paragraph>
+	      <paragraph label="1012-215-d" marker="(d)">
+		<content>Designation of the administrative law judge appointed to preside over pre-hearing procedures and over the hearings.</content>
+	      </paragraph>
+	      <paragraph label="1012-215-e" marker="(e)">
+		<content>A notice that failure to file an answer conforming to the requirements of § 1081.201(b) and (c) will result in an order suspending the Statement of Record.</content>
+	      </paragraph>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-220" sectionNum="220">
+	    <subject>§ 1012.220 Hearings—notice of proceedings subsequent to effective date.</subject>
+	    <paragraph label="1012-220-a" marker="(a)">
+	      <content>A developer, upon receipt of a notice of proceedings issued pursuant to § 1010.45(b)(1) of this chapter, may obtain a hearing by filing a written request in accordance with the instructions regarding such request contained in the notice of proceedings. Such a request must be filed within 15 days of receipt of the notice of proceedings and must be accompanied by an answer conforming to the requirements of § 1081.201(b) and (c).</content>
+	    </paragraph>
+	    <paragraph label="1012-220-b" marker="(b)">
+	      <content>When a hearing is requested pursuant to paragraph <ref target="1012-220-a" reftype="internal">(a)</ref> of this section, such hearing shall be held within 45 days of receipt of the request by the Director unless it is determined that it is not in the public interest. The time and place for hearing shall be fixed with due regard for the public interest and the convenience and necessity of the parties or their representatives.</content>
+	    </paragraph>
+	    <paragraph label="1012-220-c" marker="(c)">
+	      <content>Failure to answer within the time allowed by paragraph <ref target="1012-220-a" reftype="internal">(a)</ref> of this section or failure of a developer to appear at a hearing duly scheduled shall result in an appropriate order under § 1010.45(b)(1) of this chapter suspending the statement of record. Such order shall be effective as of the date of service or receipt.</content>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-225" sectionNum="225">
+	    <subject>§ 1012.225 Suspension order for failure to cooperate.</subject>
+	    <paragraph label="1012-225-p1" marker="none">
+	      <content>A suspension pursuant to § 1010.45(b)(2) of this chapter shall be effected by service of a suspension order which shall contain:</content>
+	      <paragraph label="1012-225-a" marker="(a)">
+		<content>An identification of the filing to which the order applies.</content>
+	      </paragraph>
+	      <paragraph label="1012-225-b" marker="(b)">
+		<content>Bases for issuance of order.</content>
+	      </paragraph>
+	      <paragraph label="1012-225-c" marker="(c)">
+		<content>A notice of the hearing rights of the developer under § <ref target="1012-235" reftype="internal">1012.235</ref> the procedures for invoking those rights.</content>
+	      </paragraph>
+	      <paragraph label="1012-225-d" marker="(d)">
+		<content>A statement that the order shall remain in effect until the developer has complied with the Director's requirements.</content>
+	      </paragraph>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-230" sectionNum="230">
+	    <subject>§ 1012.230 Suspension order pending amendments.</subject>
+	    <paragraph label="1012-230-p1" marker="none">
+	      <content>A suspension pursuant to paragraph (b)(3) of § 1010.45 of this chapter shall be effected by service of a suspension order which shall contain:</content>
+	      <paragraph label="1012-230-a" marker="(a)">
+		<content>An identification of the filing to which the order applies.</content>
+	      </paragraph>
+	      <paragraph label="1012-230-b" marker="(b)">
+		<content>An identification of the amendment to the filing which generated the order.</content>
+	      </paragraph>
+	      <paragraph label="1012-230-c" marker="(c)">
+		<content>A statement that the issuance of the order is necessary or appropriate in the public interest or for the protection of purchasers.</content>
+	      </paragraph>
+	      <paragraph label="1012-230-d" marker="(d)">
+		<content>A statement that the order shall remain in effect until the amendment becomes effective.</content>
+	      </paragraph>
+	      <paragraph label="1012-230-e" marker="(e)">
+		<content>A notice of the hearing rights of the developer under § <ref target="1012-235" reftype="internal">1012.235</ref> and of the procedure for invoking those rights.</content>
+	      </paragraph>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-235" sectionNum="235">
+	    <subject>§ 1012.235 Hearings—suspension orders for failure to cooperate and pending amendments.</subject>
+	    <paragraph label="1012-235-a" marker="(a)">
+	      <content>A developer, upon receipt of a suspension order issued pursuant to § 1010.45(b)(2) or § 1010.45(b)(3) of this chapter, may obtain a hearing by filing a written request in accordance with the instructions regarding such request contained in the suspension order. Such request must be filed within 15 days of receipt of the suspension order and must be accompanied by an answer and 3 copies thereof signed by the respondent or respondent's attorney conforming to the requirements of § 1081.201(b) and (c).</content>
+	    </paragraph>
+	    <paragraph label="1012-235-b" marker="(b)">
+	      <content>When a hearing is requested pursuant to paragraph <ref target="1012-235-a" reftype="internal">(a)</ref> of this section, such hearing shall be held within 20 days of receipt of the request. The time and place for hearing shall be fixed with due regard for the public interest and the convenience and necessity of the parties or their representatives.</content>
+	    </paragraph>
+	    <paragraph label="1012-235-c" marker="(c)">
+	      <content>A request for hearing filed pursuant to paragraph <ref target="1012-235-a" reftype="internal">(a)</ref> of this section shall not interrupt or annul the effectiveness of the suspension order.</content>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-236" sectionNum="236">
+	    <subject>§ 1012.236 Notice of proceedings to withdraw a State's certification.</subject>
+	    <paragraph label="1012-236-p1" marker="none">
+	      <content>A proceeding pursuant to § 1010.505 of this chapter is commenced by issuance and service of a notice which shall contain:</content>
+	      <paragraph label="1012-236-a" marker="(a)">
+		<content>An identification of the state certification to which the notice applies.</content>
+	      </paragraph>
+	      <paragraph label="1012-236-b" marker="(b)">
+		<content>A clear and concise statement of material facts, sufficient to inform the respondent with reasonable definiteness of the basis for the Director's determination, pursuant to § 1010.505, that the State's laws, regulations and the administration thereof, taken as a whole, no longer meet the requirements of § 1010.501.</content>
+	      </paragraph>
+	      <paragraph label="1012-236-c" marker="(c)">
+		<content>A notice of hearing rights of the state under § <ref target="1012-237" reftype="internal">1012.237</ref> and of the procedures for invoking those rights.</content>
+	      </paragraph>
+	      <paragraph label="1012-236-d" marker="(d)">
+		<content>A notice that failure to file an answer conforming to the requirements of § 1081.201(b) and (c) will result in an order suspending the State's certification.</content>
+	      </paragraph>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-237" sectionNum="237">
+	    <subject>§ 1012.237 Hearings—suspension orders for failure to cooperate and pending amendments.</subject>
+	    <paragraph label="1012-237-a" marker="(a)">
+	      <content>A State, upon receipt of a notice of proceedings issued pursuant to § 1010.505 of this chapter, may obtain a hearing by filing a written request in accordance with the instructions regarding such request contained in the notice of proceedings. Such request must be filed within 15 days of receipt of the notice of proceedings and must be accompanied by an answer conforming to the requirements of § 1081.201(b) and (c).</content>
+	    </paragraph>
+	    <paragraph label="1012-237-b" marker="(b)">
+	      <content>When a hearing is requested pursuant to paragraph <ref target="1012-237-a" reftype="internal">(a)</ref> of this section, such hearing shall be held within 45 days of receipt of this request. The time and place for the hearing shall be fixed with due regard for the public interest and the convenience and necessity of the parties or their representatives.</content>
+	    </paragraph>
+	    <paragraph label="1012-237-c" marker="(c)">
+	      <content>Failure to answer within the time allowed by paragraph <ref target="1012-237-a" reftype="internal">(a)</ref> of this section or failure to appear at a hearing duly scheduled shall result in an appropriate order under § 1010.505 of this chapter withdrawing the State's certification. Such order shall be effective as of the date of service or receipt.</content>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-238" sectionNum="238">
+	    <subject>§ 1012.238 Notices of proceedings to terminate exemptions.</subject>
+	    <paragraph label="1012-238-p1" marker="none">
+	      <content>A proceeding to terminate a self-determining exemption under § 1010.14 or an exemption order under § 1010.15 or § 1010.16 is commenced by issuance and service of a notice which shall contain:</content>
+	      <paragraph label="1012-238-a" marker="(a)">
+		<content>In the case of an exemption under § 1010.14, an identification of the developer and subdivision to which this notice applies. In the case of an exemption under either § 1010.15 or § 1010.16, an identification of the exemption order to which the notice applies.</content>
+	      </paragraph>
+	      <paragraph label="1012-238-b" marker="(b)">
+		<content>A clear and concise statement of material facts, sufficient to inform the respondent with reasonable definiteness of the basis for the Director's determination that further exemption from the registration and disclosure requirements is not in the public interest or that the sales or leases do not meet the requirements for exemption, or both.</content>
+	      </paragraph>
+	      <paragraph label="1012-238-c" marker="(c)">
+		<content>A notice of hearing rights of the respondent under § <ref target="1012-239" reftype="internal">1012.239</ref> and of the procedures for invoking those rights.</content>
+	      </paragraph>
+	      <paragraph label="1012-238-d" marker="(d)">
+		<content>A notice that failure to file an answer conforming to the requirements of § 1081.201(b) and (c) will result, in the case of a notice issued under § 1010.14, in an order terminating eligibility for the exemption, or, in the case of a notice issued under either § 1010.15 or § 1010.16, in an order terminating the exemption order.</content>
+	      </paragraph>
+	    </paragraph>
+	  </section>
+
+	  <section label="1012-239" sectionNum="239">
+	    <subject>§ 1012.239 Hearings—notice of proceedings pursuant to exemptions.</subject>
+	    <paragraph label="1012-239-a" marker="(a)">
+	      <content>A developer, upon receipt of a notice of proceedings issued under §§ 1010.14, 1010.15, and 1010.16 of this chapter, may obtain a hearing by filing a written request contained in the notice of proceedings. The request must be filed within 15 days of receipt of the notice of proceedings and must be accompanied by an answer conforming to the requirements of § 1081.201(b) and (c).</content>
+	    </paragraph>
+	    <paragraph label="1012-239-b" marker="(b)">
+	      <content>When a hearing is requested pursuant to paragraph <ref target="1012-239-a" reftype="internal">(a)</ref> of this section, such hearing shall be held within 45 days of receipt of this request. The time and place for the hearing shall be fixed with due regard for the public interest and the convenience and necessity of the parties of their representatives.</content>
+	    </paragraph>
+	    <paragraph label="1012-239-c" marker="(c)">
+	      <content>Failure to answer within the time allowed by paragraph <ref target="1012-239-a" reftype="internal">(a)</ref> of this section, or failure to appear at a duly scheduled hearing shall result in an appropriate order under § 1010.14, § 1010.15, or § 1010.16 of this chapter terminating the developer's exemption. The order shall be effective as of the date of service or receipt.</content>
+	    </paragraph>
+	  </section>
+	</content>
+      </subpart>
+    </content>
+  </part>
+</regulation>
