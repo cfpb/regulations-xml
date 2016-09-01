@@ -734,7 +734,11 @@
                 <content>If the terms of the legal obligation expressly provide that regular periodic payments are not scheduled between specified unitperiods on a regular basis, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose that the loan product has a &#8220;Seasonal Payment&#8221; feature.</content></paragraph>
             </paragraph>
             <paragraph label="1026-37-a-10-iii" marker="(iii)">
-              <content>The disclosure of a loan feature under paragraph (a)(10)(ii) of this section shall precede the disclosure of the loan product under paragraph (a)(10)(i) of this section. If a transaction has more than one of the loan features described in paragraph (a)(10)(ii) of this section, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose only the first applicable feature in the order the features are listed in paragraph (a)(10)(ii) of this section. (iv) The disclosures required by paragraphs (a)(10)(i)(A) and (B), and (a)(10)(ii)(A) through (D) of this section must each be preceded by the duration of any <ref target="1026-16-g-2-ii" reftype="term">introductory rate</ref> or payment period, and the first adjustment period, as applicable.</content></paragraph>
+              <content>The disclosure of a loan feature under paragraph (a)(10)(ii) of this section shall precede the disclosure of the loan product under paragraph (a)(10)(i) of this section. If a transaction has more than one of the loan features described in paragraph (a)(10)(ii) of this section, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose only the first applicable feature in the order the features are listed in paragraph (a)(10)(ii) of this section.</content>
+            </paragraph>
+            <paragraph label="1026-37-a-10-iv" marker="(iv)">
+              <content>The disclosures required by paragraphs (a)(10)(i)(A) and (B), and (a)(10)(ii)(A) through (D) of this section must each be preceded by the duration of any <ref target="1026-16-g-2-ii" reftype="term">introductory rate</ref> or payment period, and the first adjustment period, as applicable.</content>
+            </paragraph>
           </paragraph>
           <paragraph label="1026-37-a-11" marker="(11)">
             <title type="keyterm">Loan type.</title>
@@ -966,7 +970,7 @@
         </paragraph>
         <paragraph label="1026-37-e" marker="(e)">
           <title type="keyterm">Web site reference.</title>
-          <content>A statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> may obtain general information and tools at the Web site of the <ref target="1026-2-a-5" reftype="term">Bureau</ref>, and the link or uniform resource locator address to the Web site: www.consumerfinance.gov/mortgageestimate.</content></paragraph>
+          <content>A statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> may obtain general information and tools at the Web site of the <ref target="1026-2-a-5" reftype="term">Bureau</ref>, and the link or uniform resource locator address to the Web site: www.consumerfinance.gov/mortgage-estimate.</content></paragraph>
         <paragraph label="1026-37-f" marker="(f)">
           <title type="keyterm">Closing cost details; loan costs.</title>
           <content>Under the master heading &#8220;Closing Cost Details,&#8221; in a table under the heading &#8220;Loan Costs,&#8221; all loan costs associated with the transaction. The table shall contain the items and amounts listed under four subheadings, described in paragraphs (f)(1) through (4) of this section.</content>
@@ -1591,7 +1595,7 @@
               <content>Under the subheading &#8220;Loan Estimate,&#8221; the amount of $0;</content>
             </paragraph>
             <paragraph label="1026-38-e-3-ii" marker="(ii)">
-              <content>Under the subheading &#8220;Final,&#8221; any amount designated as borrower-paid before closing under paragraph (h)(2) of this section, disclosed as a positive number; and</content>
+              <content>Under the subheading &#8220;Final,&#8221; any amount designated as borrower&#8211;paid before closing under paragraph (h)(2) of this section, disclosed as a positive number; and</content>
             </paragraph>
             <paragraph label="1026-38-e-3-iii" marker="(iii)">
               <content>Disclosed more prominently than the other disclosures under this paragraph (e)(3)(i) and (ii) of this section, under the subheading &#8220;Did this change?&#8221;:</content>
