@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -8908,8 +8907,191 @@
         <paragraph label="1003-2-q" marker="(q)">
           <content><def term="reverse mortgage" id="dddbb9b4e734f8ca5bd653b387928227480f36a5">Reverse mortgage</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is a reverse mortgage transaction as defined in Regulation Z, <ref target="CFR:12-1026-33" reftype="external">12 CFR 1026.33</ref>(a), but without regard to whether the security interest is created in a principal <ref target="1003-2-f" reftype="term">dwelling</ref>.</content>
         </paragraph>
-        <analysis>
-          <analysisSection>
+        </section>
+    </change>
+    <change operation="modified" label="1003-5">
+      <section label="1003-5" sectionNum="5">
+        <subject>§ 1003.5 Disclosure and reporting.</subject>
+        <paragraph label="1003-5-a" marker="(a)">
+          <title type="keyterm">Reporting to agency.</title>
+          <content>Reporting to agency.</content>
+          <paragraph label="1003-5-a-1" marker="(1)">
+            <content>
+              <ref target="1003-A" reftype="internal"/>
+            </content>
+            <paragraph label="1003-5-a-1-i" marker="(i)">
+              <title type="keyterm">Annual reporting.</title>
+              <content>Annual reporting. By March 1 following the calendar year for which data are collected and recorded as required by § <ref target="1003-4" reftype="internal">1003.4</ref>, a <ref target="1003-2-g" reftype="term">financial institution</ref> shall submit its annual loan/application register in electronic format to the <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> at the address identified by such agency. An authorized representative of the <ref target="1003-2-g" reftype="term">financial institution</ref> with knowledge of the data submitted shall certify to the accuracy and completeness of data submitted pursuant to this paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref>. The <ref target="1003-2-g" reftype="term">financial institution</ref> shall retain a copy of its annual loan/application register submitted pursuant to this paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref> for its records for at least three years.</content>
+            </paragraph>
+            <paragraph label="1003-5-a-1-ii" marker="(ii)">
+              <content>[Reserved]</content>
+            </paragraph>
+            <paragraph label="1003-5-a-1-iii" marker="(iii)">
+              <content>When the last day for submission of data prescribed under this paragraph <ref target="1003-5-a-1" reftype="internal">(a)(1)</ref> falls on a Saturday or Sunday, a submission shall be considered timely if it is submitted on the next succeeding Monday.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1003-5-a-2" marker="(2)">
+            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> that is a subsidiary of a bank or savings association shall complete a separate loan/application register. The subsidiary shall submit the loan/application register, directly or through its parent, to the <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> for the subsidiary's parent at the address identified by the agency.</content>
+          </paragraph>
+          <paragraph label="1003-5-a-3" marker="(3)">
+            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall provide with its submission:</content>
+            <paragraph label="1003-5-a-3-i" marker="(i)">
+              <content>Its name;</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-ii" marker="(ii)">
+              <content>The calendar year the data submission covers pursuant to paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section or calendar quarter and year the data submission covers pursuant to paragraph <ref target="1003-5-a-1-ii" reftype="internal">(a)(1)(ii)</ref> of this section;</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-iii" marker="(iii)">
+              <content>The name and contact information of a person who may be contacted with questions about the institution's submission;</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-iv" marker="(iv)">
+              <content>Its <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref>;</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-v" marker="(v)">
+              <content>The total number of entries contained in the submission;</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-vi" marker="(vi)">
+              <content>Its Federal Taxpayer Identification number; and</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-vii" marker="(vii)">
+              <content>Its Legal Entity Identifier (LEI) as described in § 1003.4(a)(1)(i)(A).</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1003-5-a-4" marker="(4)">
+            <content>For purposes of paragraph <ref target="1003-5-a" reftype="internal">(a)</ref> of this section, “<def term="appropriate federal agency" id="b035a6f833914f594079df068bf7534307c06727">appropriate Federal agency</def>” means the appropriate agency for the <ref target="1003-2-g" reftype="term">financial institution</ref> as determined pursuant to section 304(h)(2) of the Home Mortgage Disclosure <ref target="1003-2-a" reftype="term">Act</ref> (<ref target="USC:12-2803" reftype="external">12 U.S.C. 2803</ref>(h)(2)) or, with respect to a <ref target="1003-2-g" reftype="term">financial institution</ref> subject to the Bureau's supervisory authority under section 1025(a) of the Consumer Financial Protection Act of 2010 (<ref target="USC:12-5515" reftype="external">12 U.S.C. 5515</ref>(a)), the Bureau.</content>
+          </paragraph>
+          <paragraph label="1003-5-a-5" marker="(5)">
+            <content>Procedures for the submission of data pursuant to paragraph <ref target="1003-5-a" reftype="internal">(a)</ref> of this section are available at www.consumerfinance.gov/hmda.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1003-5-b" marker="(b)">
+          <title type="keyterm">Public disclosure of statement.</title>
+          <content>Disclosure statement.</content>
+          <paragraph label="1003-5-b-1" marker="(1)">
+            <content>The Federal <ref target="1003-2-g" reftype="term">Financial Institutions</ref> Examination Council (FFIEC) will make available a disclosure statement based on the data each <ref target="1003-2-g" reftype="term">financial institution</ref> submits for the preceding calendar year pursuant to paragraph (a)(1)(i) of this section.</content>
+          </paragraph>
+          <paragraph label="1003-5-b-2" marker="(2)">
+            <content>No later than three business days after receiving notice from the FFIEC that a <ref target="1003-2-g" reftype="term">financial institution</ref>'s disclosure statement is available, the <ref target="1003-2-g" reftype="term">financial institution</ref> shall make available to the public upon request at its home office, and each <ref target="1003-2-c" reftype="term">branch office</ref> physically located in each <ref target="1003-2-m-1" reftype="term">MSA</ref> and each MD, a written notice that clearly conveys that the institution's disclosure statement may be obtained on the Bureau's Web site at www.consumerfinance.gov/hmda.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1003-5-c" marker="(c)">
+          <title type="keyterm">Public disclosure of modified loan/application register.</title>
+          <content>Modified loan/application register.</content>
+          <paragraph label="1003-5-c-1" marker="(1)">
+            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall make available to the public upon request at its home office, and each <ref target="1003-2-c" reftype="term">branch office</ref> physically located in each <ref target="1003-2-m-1" reftype="term">MSA</ref> and each MD, a written notice that clearly conveys that the institution's loan/application register, as modified by the Bureau to protect applicant and borrower privacy, may be obtained on the Bureau's Web site at www.consumerfinance.gov/hmda.</content>
+          </paragraph>
+          <paragraph label="1003-5-c-2" marker="(2)">
+            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall make available the notice required by paragraph <ref target="1003-5-c-1" reftype="internal">(c)(1)</ref> of this section following the calendar year for which the data are collected.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1003-5-d" marker="(d)">
+          <title type="keyterm">Availability of data.</title>
+          <content>Availability of written notices.</content>
+          <paragraph label="1003-5-d-1" marker="(1)">
+            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall make the notice required by paragraph <ref target="1003-5-c" reftype="internal">(c)</ref> of this section available to the public for a period of three years and the notice required by paragraph <ref target="1003-5-b-2" reftype="internal">(b)(2)</ref> of this section available to the public for a period of five years. An institution shall make these notices available during the hours the office is normally open to the public for business.</content>
+          </paragraph>
+          <paragraph label="1003-5-d-2" marker="(2)">
+            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> may make available to the public, at its discretion and in addition to the written notices required by paragraphs <ref target="1003-5-b-2" reftype="internal">(b)(2)</ref> or <ref target="1003-5-c-1" reftype="internal">(c)(1)</ref> of this section, as applicable, its disclosure statement or its loan/application register, as modified by the Bureau to protect applicant and borrower privacy. A <ref target="1003-2-g" reftype="term">financial institution</ref> may impose a reasonable fee for any cost incurred in providing or reproducing these data.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1003-5-e" marker="(e)">
+          <title type="keyterm">Notice of availability.</title>
+          <content>Posted notice of availability of data. A <ref target="1003-2-g" reftype="term">financial institution</ref> shall post a general notice about the availability of its HMDA data in the lobby of its home office and of each <ref target="1003-2-c" reftype="term">branch office</ref> physically located in each <ref target="1003-2-m-1" reftype="term">MSA</ref> and each MD. This notice must clearly convey that the institution's HMDA data is available on the Bureau's Web site at www.consumerfinance.gov/hmda.</content>
+        </paragraph>
+        <paragraph label="1003-5-f" marker="(f)">
+          <title type="keyterm">Loan aggregation and central data depositories.</title>
+          <content>Aggregated data. Using data submitted by <ref target="1003-2-g" reftype="term">financial institutions</ref> pursuant to paragraph (a)(1)(i) of this section, the FFIEC will make available aggregate data for each <ref target="1003-2-m-1" reftype="term">MSA</ref> and MD, showing lending patterns by property location, age of housing stock, and income level, sex, ethnicity, and race.</content>
+        </paragraph>
+      </section>
+    </change>
+    <change operation="deleted" label="1003-A-h2-h8-2-a"/>
+    <change operation="deleted" label="1003-A-h2-h8-2-b"/>
+    <change operation="modified" label="1003-6">
+      <section label="1003-6" sectionNum="6">
+        <subject>§ 1003.6 Enforcement.</subject>
+        <paragraph label="1003-6-a" marker="(a)">
+          <title type="keyterm">Administrative enforcement.</title>
+          <content>Administrative enforcement. A violation of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> or this part is subject to administrative sanctions as provided in section 305 of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> (12 U.S.C. 2804), including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed i<ref target="USC:12-2601" reftype="external">n secti</ref>on<ref target="USC:12-2804" reftype="external"> 305 of the Ac</ref><ref target="1003-2-a" reftype="term">Act</ref>.</content>
+        </paragraph>
+        <paragraph label="1003-6-b" marker="(b)">
+          <title type="keyterm">Bona fide errors.</title>
+          <content>Bona fide errors.</content>
+          <paragraph label="1003-6-b-1" marker="(1)">
+            <content>An error in compiling or recording data for a <ref target="1003-2-e" reftype="term">covered loan</ref> or application is not a violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such an error.</content>
+          </paragraph>
+          <paragraph label="1003-6-b-2" marker="(2)">
+            <content>An incorrect entry for a census tract number is deemed a bona fide error, and is not a violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part, provided that the <ref target="1003-2-g" reftype="term">financial institution</ref> maintains procedures reasonably adapted to avoid such an error.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1003-6-c" marker="(c)">
+          <title type="keyterm">Quarterly recording and reporting.</title>
+          <content>Quarterly recording and reporting.</content>
+          <paragraph label="1003-6-c-1" marker="(1)">
+            <content>If a <ref target="1003-2-g" reftype="term">financial institution</ref> makes a good-faith effort to record all data required to be recorded pursuant to § 1003.4(f) fully and accurately within 30 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> or this part provided that the institution corrects or completes the data prior to submitting its annual loan/application register pursuant to § <ref target="1003-5-a-1-i" reftype="internal">1003.5(a)(1)(i)</ref>.</content>
+          </paragraph>
+          <paragraph label="1003-6-c-2" marker="(2)">
+            <content>If a <ref target="1003-2-g" reftype="term">financial institution</ref> required to comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> makes a good-faith effort to report all data required to be reported pursuant to § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> fully and accurately within 60 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> or this part provided that the institution corrects or completes the data prior to submitting its annual loan/application register pursuant to § <ref target="1003-5-a-1-i" reftype="internal">1003.5(a)(1)(i)</ref>.</content>
+          </paragraph>
+        </paragraph>
+      </section>
+    </change>
+    <change operation="deleted" label="1003-A"/>
+    <change operation="deleted" label="1003-2-Interp-iii"/>
+    <change operation="added" label="1003-4-a-Interp-4">
+      <interpParagraph label="1003-4-a-Interp-4" marker="4." target="1003-4-a-4">
+        <content>Agents. If a <ref target="1003-2-g" reftype="term">financial institution</ref> made the credit decision on a <ref target="1003-2-e" reftype="term">covered loan</ref> or application through the actions of an agent, the institution reports the application or origination. State law determines whether one party is the agent of another. For example, acting as <ref target="1003-2-g" reftype="term">Financial Institution</ref> A's agent, <ref target="1003-2-g" reftype="term">Financial Institution</ref> B approved an application prior to closing and a <ref target="1003-2-e" reftype="term">covered loan</ref> was originated. <ref target="1003-2-g" reftype="term">Financial Institution</ref> A reports the loan as an origination.</content>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1003-5-c-Interp-2">
+      <interpParagraph label="1003-5-c-Interp-2" marker="2." target="1003-5-c-2">
+        <content>Notice—suggested text. A <ref target="1003-2-g" reftype="term">financial institution</ref> may use any text that meets the requirements of § <ref target="1003-5-c-1" reftype="internal">1003.5(c)(1)</ref>. The following language is suggested but is not required:</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1003-5-c-Interp-1">
+      <interpParagraph label="1003-5-c-Interp-1" marker="1." target="1003-5-c-1">
+        <content>Format of notice. A <ref target="1003-2-g" reftype="term">financial institution</ref> may make the written notice required under § 1003.5(c)(1) available in paper or electronic form.</content>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1003-3-c-3-Interp-1-iv">
+      <interpParagraph label="1003-3-c-3-Interp-1-iv" marker="iv." target="1003-3-c-3-1-iv">
+        <content>Lender A extends credit to finance construction of a <ref target="1003-2-f" reftype="term">dwelling</ref>. The loan automatically will convert to permanent financing with Lender A once the construction phase is complete. Under § 1003.3(c)(3), the loan is not designed to be replaced by permanent financing and therefore the temporary financing exclusion does not apply. See also comment <ref target="1003-2-j-Interp-3" reftype="internal">2(j)-3</ref>.</content>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1003-2-n-Interp">
+      <interpParagraph label="1003-2-n-Interp" marker="Interp" target="1003-2-n">
+        <title>2(n) Multifamily Dwelling</title>
+        <content/>
+        <interpParagraph label="1003-2-n-Interp-1" marker="1." target="1003-2-n-1">
+          <content>Multifamily residential structures. The definition of <ref target="1003-2-f" reftype="term">dwelling</ref> in § <ref target="1003-2-f" reftype="internal">1003.2(f)</ref> includes multifamily residential structures and the corresponding commentary provides guidance on when such residential structures are included in that definition. See comments <ref target="1003-2-f-Interp-2" reftype="internal">2(f)-2</ref> through <ref target="1003-2-f-Interp-5" reftype="internal">-5</ref>.</content>
+        </interpParagraph>
+        <interpParagraph label="1003-2-n-Interp-2" marker="2." target="1003-2-n-2">
+          <content>Special reporting requirements for <ref target="1003-2-n" reftype="term">multifamily dwellings</ref>. The definition of <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> in § <ref target="1003-2-n" reftype="internal">1003.2(n)</ref> includes a <ref target="1003-2-f" reftype="term">dwelling</ref>, regardless of construction method, that contains five or more individual <ref target="1003-2-f" reftype="term">dwelling</ref> units. <ref target="1003-2-e" reftype="term">Covered loans</ref> secured by a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> are subject to additional reporting requirements under § 1003.4(a)(32), but are not subject to reporting requirements under § <ref target="1003-4-a-4" reftype="internal">1003.4(a)(4)</ref>, (10)(iii), (23), (29), or (30).</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1003-3-c-6-Interp-1">
+      <interpParagraph label="1003-3-c-6-Interp-1" marker="1." target="1003-3-c-6-1">
+        <content>Mergers and acquisitions. Section 1003.3(c)(6) provides that the purchase of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or open-end lines of credit as part of a merger or acquisition, or as part of the acquisition of all of the assets and liabilities of a <ref target="1003-2-c" reftype="term">branch office</ref>, are excluded transactions. If a <ref target="1003-2-g" reftype="term">financial institution</ref> acquires loans or lines of credit in bulk from another institution (for example, from the receiver for a failed institution), but no merger or acquisition of an institution, or acquisition of a <ref target="1003-2-c" reftype="term">branch office</ref>, is involved and no other exclusion applies, the acquired loans or lines of credit are <ref target="1003-2-e" reftype="term">covered loans</ref> and are reported as described in comment <ref target="1003-4-a-Interp-1-iii" reftype="internal">4(a)-1.iii</ref>.</content>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1003-2-m-2">
+      <paragraph label="1003-2-m-2" marker="(2)">
+        <title type="keyterm">Metropolitan Division</title>
+        <content>Metropolitan Division (MD) means a Metropolitan Division of an <ref target="1003-2-m-1" reftype="term">MSA</ref>, as defined by the U.S. Office of Management and Budget.</content>
+      </paragraph>
+    </change>
+    <change operation="added" label="1003-4-a-3-Interp-2-iii">
+      <interpParagraph label="1003-4-a-3-Interp-2-iii" marker="iii." target="1003-4-a-3-2-iii">
+        <content>Assume a <ref target="1003-2-g" reftype="term">financial institution</ref> does not distinguish between a cash-out <ref target="1003-2-p" reftype="term">refinancing</ref> and a <ref target="1003-2-p" reftype="term">refinancing</ref> under its own guidelines, and sets the terms of all <ref target="1003-2-p" reftype="term">refinancings</ref> without regard to the amount of cash received by the borrower at closing or account opening, and does not offer loan products under investor guidelines. In this example, the <ref target="1003-2-g" reftype="term">financial institution</ref> reports all <ref target="1003-2-e" reftype="term">covered loans</ref> and applications for <ref target="1003-2-e" reftype="term">covered loans</ref> that are defined by § <ref target="1003-2-p" reftype="internal">1003.2(p)</ref> as <ref target="1003-2-p" reftype="term">refinancings</ref> for purposes of § <ref target="1003-4-a-3" reftype="internal">1003.4(a)(3)</ref>.</content>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1003-2-m-1">
+      <paragraph label="1003-2-m-1" marker="(1)">
+        <content>Metropolitan Statistical Area or <def term="msa" id="57d8b85e9b3fcfb3ad242cb19340092b7b959026">MSA</def> means a Metropolitan Statistical Area as defined by the U.S. Office of Management and Budget.</content>
+      </paragraph>
+    </change>
+  </changeset>
+<analysis><analysisSection target="1003-2" notice="2015-26607" date="2018-01-01">
             <title>Section 1003.2 Definitions</title>
             <analysisParagraph>Section 1003.2 of Regulation C sets forth definitions that are used in the regulation. As discussed below, the Bureau proposed both substantive revisions to several definitions and technical revisions to § 1003.2 to enumerate the terms defined therein. The Bureau addresses comments concerning its proposed substantive revisions below. The Bureau received no comments opposing its proposal to enumerate the terms in § 1003.2, and the final rule sets forth enumerations for all such terms. The Bureau believes that this technical revision will facilitate compliance with Regulation C by making defined terms easier to locate and cross-reference in the regulation, commentary, and the procedures published by the Bureau.</analysisParagraph>
             <analysisSection>
@@ -9418,189 +9600,4 @@
               <analysisParagraph>Final § 1003.2(q) is adopted pursuant to the Bureau's authority under section 305(a) of HMDA. For the reasons given above, the Bureau believes that including reverse mortgages within the scope of the regulation is a reasonable interpretation of HMDA section 303(2), which defines “mortgage loan” to mean a loan which is secured by residential real property or a home improvement loan. The Bureau interprets that term to include reverse mortgages, as those transactions are secured by residential real property, and they may be used for home improvement. In addition, pursuant to its authority under section 305(a) of HMDA, the Bureau believes that this proposed adjustment is necessary and proper to effectuate the purposes of HMDA, to prevent circumvention or evasion thereof, and to facilitate compliance therewith. For the reasons given above, by requiring all financial institutions to report information regarding reverse mortgages, this proposed modification would ensure that the citizens and public officials of the United States are provided with sufficient information to enable them to determine whether depository institutions are filling their obligations to serve the housing needs of the communities and neighborhoods in which they are located. Furthermore, as reverse mortgages are a common method of obtaining credit, this proposed modification would assist in identifying possible discriminatory lending patterns and enforcing antidiscrimination statutes.</analysisParagraph>
             </analysisSection>
           </analysisSection>
-        </analysis>
-      </section>
-    </change>
-    <change operation="modified" label="1003-5">
-      <section label="1003-5" sectionNum="5">
-        <subject>§ 1003.5 Disclosure and reporting.</subject>
-        <paragraph label="1003-5-a" marker="(a)">
-          <title type="keyterm">Reporting to agency.</title>
-          <content>Reporting to agency.</content>
-          <paragraph label="1003-5-a-1" marker="(1)">
-            <content>
-              <ref target="1003-A" reftype="internal"/>
-            </content>
-            <paragraph label="1003-5-a-1-i" marker="(i)">
-              <title type="keyterm">Annual reporting.</title>
-              <content>Annual reporting. By March 1 following the calendar year for which data are collected and recorded as required by § <ref target="1003-4" reftype="internal">1003.4</ref>, a <ref target="1003-2-g" reftype="term">financial institution</ref> shall submit its annual loan/application register in electronic format to the <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> at the address identified by such agency. An authorized representative of the <ref target="1003-2-g" reftype="term">financial institution</ref> with knowledge of the data submitted shall certify to the accuracy and completeness of data submitted pursuant to this paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref>. The <ref target="1003-2-g" reftype="term">financial institution</ref> shall retain a copy of its annual loan/application register submitted pursuant to this paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref> for its records for at least three years.</content>
-            </paragraph>
-            <paragraph label="1003-5-a-1-ii" marker="(ii)">
-              <content>[Reserved]</content>
-            </paragraph>
-            <paragraph label="1003-5-a-1-iii" marker="(iii)">
-              <content>When the last day for submission of data prescribed under this paragraph <ref target="1003-5-a-1" reftype="internal">(a)(1)</ref> falls on a Saturday or Sunday, a submission shall be considered timely if it is submitted on the next succeeding Monday.</content>
-            </paragraph>
-          </paragraph>
-          <paragraph label="1003-5-a-2" marker="(2)">
-            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> that is a subsidiary of a bank or savings association shall complete a separate loan/application register. The subsidiary shall submit the loan/application register, directly or through its parent, to the <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> for the subsidiary's parent at the address identified by the agency.</content>
-          </paragraph>
-          <paragraph label="1003-5-a-3" marker="(3)">
-            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall provide with its submission:</content>
-            <paragraph label="1003-5-a-3-i" marker="(i)">
-              <content>Its name;</content>
-            </paragraph>
-            <paragraph label="1003-5-a-3-ii" marker="(ii)">
-              <content>The calendar year the data submission covers pursuant to paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section or calendar quarter and year the data submission covers pursuant to paragraph <ref target="1003-5-a-1-ii" reftype="internal">(a)(1)(ii)</ref> of this section;</content>
-            </paragraph>
-            <paragraph label="1003-5-a-3-iii" marker="(iii)">
-              <content>The name and contact information of a person who may be contacted with questions about the institution's submission;</content>
-            </paragraph>
-            <paragraph label="1003-5-a-3-iv" marker="(iv)">
-              <content>Its <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref>;</content>
-            </paragraph>
-            <paragraph label="1003-5-a-3-v" marker="(v)">
-              <content>The total number of entries contained in the submission;</content>
-            </paragraph>
-            <paragraph label="1003-5-a-3-vi" marker="(vi)">
-              <content>Its Federal Taxpayer Identification number; and</content>
-            </paragraph>
-            <paragraph label="1003-5-a-3-vii" marker="(vii)">
-              <content>Its Legal Entity Identifier (LEI) as described in § 1003.4(a)(1)(i)(A).</content>
-            </paragraph>
-          </paragraph>
-          <paragraph label="1003-5-a-4" marker="(4)">
-            <content>For purposes of paragraph <ref target="1003-5-a" reftype="internal">(a)</ref> of this section, “<def term="appropriate federal agency" id="b035a6f833914f594079df068bf7534307c06727">appropriate Federal agency</def>” means the appropriate agency for the <ref target="1003-2-g" reftype="term">financial institution</ref> as determined pursuant to section 304(h)(2) of the Home Mortgage Disclosure <ref target="1003-2-a" reftype="term">Act</ref> (<ref target="USC:12-2803" reftype="external">12 U.S.C. 2803</ref>(h)(2)) or, with respect to a <ref target="1003-2-g" reftype="term">financial institution</ref> subject to the Bureau's supervisory authority under section 1025(a) of the Consumer Financial Protection Act of 2010 (<ref target="USC:12-5515" reftype="external">12 U.S.C. 5515</ref>(a)), the Bureau.</content>
-          </paragraph>
-          <paragraph label="1003-5-a-5" marker="(5)">
-            <content>Procedures for the submission of data pursuant to paragraph <ref target="1003-5-a" reftype="internal">(a)</ref> of this section are available at www.consumerfinance.gov/hmda.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1003-5-b" marker="(b)">
-          <title type="keyterm">Public disclosure of statement.</title>
-          <content>Disclosure statement.</content>
-          <paragraph label="1003-5-b-1" marker="(1)">
-            <content>The Federal <ref target="1003-2-g" reftype="term">Financial Institutions</ref> Examination Council (FFIEC) will make available a disclosure statement based on the data each <ref target="1003-2-g" reftype="term">financial institution</ref> submits for the preceding calendar year pursuant to paragraph (a)(1)(i) of this section.</content>
-          </paragraph>
-          <paragraph label="1003-5-b-2" marker="(2)">
-            <content>No later than three business days after receiving notice from the FFIEC that a <ref target="1003-2-g" reftype="term">financial institution</ref>'s disclosure statement is available, the <ref target="1003-2-g" reftype="term">financial institution</ref> shall make available to the public upon request at its home office, and each <ref target="1003-2-c" reftype="term">branch office</ref> physically located in each <ref target="1003-2-m-1" reftype="term">MSA</ref> and each MD, a written notice that clearly conveys that the institution's disclosure statement may be obtained on the Bureau's Web site at www.consumerfinance.gov/hmda.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1003-5-c" marker="(c)">
-          <title type="keyterm">Public disclosure of modified loan/application register.</title>
-          <content>Modified loan/application register.</content>
-          <paragraph label="1003-5-c-1" marker="(1)">
-            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall make available to the public upon request at its home office, and each <ref target="1003-2-c" reftype="term">branch office</ref> physically located in each <ref target="1003-2-m-1" reftype="term">MSA</ref> and each MD, a written notice that clearly conveys that the institution's loan/application register, as modified by the Bureau to protect applicant and borrower privacy, may be obtained on the Bureau's Web site at www.consumerfinance.gov/hmda.</content>
-          </paragraph>
-          <paragraph label="1003-5-c-2" marker="(2)">
-            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall make available the notice required by paragraph <ref target="1003-5-c-1" reftype="internal">(c)(1)</ref> of this section following the calendar year for which the data are collected.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1003-5-d" marker="(d)">
-          <title type="keyterm">Availability of data.</title>
-          <content>Availability of written notices.</content>
-          <paragraph label="1003-5-d-1" marker="(1)">
-            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall make the notice required by paragraph <ref target="1003-5-c" reftype="internal">(c)</ref> of this section available to the public for a period of three years and the notice required by paragraph <ref target="1003-5-b-2" reftype="internal">(b)(2)</ref> of this section available to the public for a period of five years. An institution shall make these notices available during the hours the office is normally open to the public for business.</content>
-          </paragraph>
-          <paragraph label="1003-5-d-2" marker="(2)">
-            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> may make available to the public, at its discretion and in addition to the written notices required by paragraphs <ref target="1003-5-b-2" reftype="internal">(b)(2)</ref> or <ref target="1003-5-c-1" reftype="internal">(c)(1)</ref> of this section, as applicable, its disclosure statement or its loan/application register, as modified by the Bureau to protect applicant and borrower privacy. A <ref target="1003-2-g" reftype="term">financial institution</ref> may impose a reasonable fee for any cost incurred in providing or reproducing these data.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1003-5-e" marker="(e)">
-          <title type="keyterm">Notice of availability.</title>
-          <content>Posted notice of availability of data. A <ref target="1003-2-g" reftype="term">financial institution</ref> shall post a general notice about the availability of its HMDA data in the lobby of its home office and of each <ref target="1003-2-c" reftype="term">branch office</ref> physically located in each <ref target="1003-2-m-1" reftype="term">MSA</ref> and each MD. This notice must clearly convey that the institution's HMDA data is available on the Bureau's Web site at www.consumerfinance.gov/hmda.</content>
-        </paragraph>
-        <paragraph label="1003-5-f" marker="(f)">
-          <title type="keyterm">Loan aggregation and central data depositories.</title>
-          <content>Aggregated data. Using data submitted by <ref target="1003-2-g" reftype="term">financial institutions</ref> pursuant to paragraph (a)(1)(i) of this section, the FFIEC will make available aggregate data for each <ref target="1003-2-m-1" reftype="term">MSA</ref> and MD, showing lending patterns by property location, age of housing stock, and income level, sex, ethnicity, and race.</content>
-        </paragraph>
-      </section>
-    </change>
-    <change operation="deleted" label="1003-A-h2-h8-2-a"/>
-    <change operation="deleted" label="1003-A-h2-h8-2-b"/>
-    <change operation="modified" label="1003-6">
-      <section label="1003-6" sectionNum="6">
-        <subject>§ 1003.6 Enforcement.</subject>
-        <paragraph label="1003-6-a" marker="(a)">
-          <title type="keyterm">Administrative enforcement.</title>
-          <content>Administrative enforcement. A violation of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> or this part is subject to administrative sanctions as provided in section 305 of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> (12 U.S.C. 2804), including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed i<ref target="USC:12-2601" reftype="external">n secti</ref>on<ref target="USC:12-2804" reftype="external"> 305 of the Ac</ref><ref target="1003-2-a" reftype="term">Act</ref>.</content>
-        </paragraph>
-        <paragraph label="1003-6-b" marker="(b)">
-          <title type="keyterm">Bona fide errors.</title>
-          <content>Bona fide errors.</content>
-          <paragraph label="1003-6-b-1" marker="(1)">
-            <content>An error in compiling or recording data for a <ref target="1003-2-e" reftype="term">covered loan</ref> or application is not a violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such an error.</content>
-          </paragraph>
-          <paragraph label="1003-6-b-2" marker="(2)">
-            <content>An incorrect entry for a census tract number is deemed a bona fide error, and is not a violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part, provided that the <ref target="1003-2-g" reftype="term">financial institution</ref> maintains procedures reasonably adapted to avoid such an error.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1003-6-c" marker="(c)">
-          <title type="keyterm">Quarterly recording and reporting.</title>
-          <content>Quarterly recording and reporting.</content>
-          <paragraph label="1003-6-c-1" marker="(1)">
-            <content>If a <ref target="1003-2-g" reftype="term">financial institution</ref> makes a good-faith effort to record all data required to be recorded pursuant to § 1003.4(f) fully and accurately within 30 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> or this part provided that the institution corrects or completes the data prior to submitting its annual loan/application register pursuant to § <ref target="1003-5-a-1-i" reftype="internal">1003.5(a)(1)(i)</ref>.</content>
-          </paragraph>
-          <paragraph label="1003-6-c-2" marker="(2)">
-            <content>If a <ref target="1003-2-g" reftype="term">financial institution</ref> required to comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> makes a good-faith effort to report all data required to be reported pursuant to § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> fully and accurately within 60 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of <ref target="USC:12-2601" reftype="external">the Act</ref><ref target="1003-2-a" reftype="term">Act</ref> or this part provided that the institution corrects or completes the data prior to submitting its annual loan/application register pursuant to § <ref target="1003-5-a-1-i" reftype="internal">1003.5(a)(1)(i)</ref>.</content>
-          </paragraph>
-        </paragraph>
-      </section>
-    </change>
-    <change operation="deleted" label="1003-A"/>
-    <change operation="deleted" label="1003-2-Interp-iii"/>
-    <change operation="added" label="1003-4-a-Interp-4">
-      <interpParagraph label="1003-4-a-Interp-4" marker="4." target="1003-4-a-4">
-        <content>Agents. If a <ref target="1003-2-g" reftype="term">financial institution</ref> made the credit decision on a <ref target="1003-2-e" reftype="term">covered loan</ref> or application through the actions of an agent, the institution reports the application or origination. State law determines whether one party is the agent of another. For example, acting as <ref target="1003-2-g" reftype="term">Financial Institution</ref> A's agent, <ref target="1003-2-g" reftype="term">Financial Institution</ref> B approved an application prior to closing and a <ref target="1003-2-e" reftype="term">covered loan</ref> was originated. <ref target="1003-2-g" reftype="term">Financial Institution</ref> A reports the loan as an origination.</content>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1003-5-c-Interp-2">
-      <interpParagraph label="1003-5-c-Interp-2" marker="2." target="1003-5-c-2">
-        <content>Notice—suggested text. A <ref target="1003-2-g" reftype="term">financial institution</ref> may use any text that meets the requirements of § <ref target="1003-5-c-1" reftype="internal">1003.5(c)(1)</ref>. The following language is suggested but is not required:</content>
-      </interpParagraph>
-    </change>
-    <change operation="modified" label="1003-5-c-Interp-1">
-      <interpParagraph label="1003-5-c-Interp-1" marker="1." target="1003-5-c-1">
-        <content>Format of notice. A <ref target="1003-2-g" reftype="term">financial institution</ref> may make the written notice required under § 1003.5(c)(1) available in paper or electronic form.</content>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1003-3-c-3-Interp-1-iv">
-      <interpParagraph label="1003-3-c-3-Interp-1-iv" marker="iv." target="1003-3-c-3-1-iv">
-        <content>Lender A extends credit to finance construction of a <ref target="1003-2-f" reftype="term">dwelling</ref>. The loan automatically will convert to permanent financing with Lender A once the construction phase is complete. Under § 1003.3(c)(3), the loan is not designed to be replaced by permanent financing and therefore the temporary financing exclusion does not apply. See also comment <ref target="1003-2-j-Interp-3" reftype="internal">2(j)-3</ref>.</content>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1003-2-n-Interp">
-      <interpParagraph label="1003-2-n-Interp" marker="Interp" target="1003-2-n">
-        <title>2(n) Multifamily Dwelling</title>
-        <content/>
-        <interpParagraph label="1003-2-n-Interp-1" marker="1." target="1003-2-n-1">
-          <content>Multifamily residential structures. The definition of <ref target="1003-2-f" reftype="term">dwelling</ref> in § <ref target="1003-2-f" reftype="internal">1003.2(f)</ref> includes multifamily residential structures and the corresponding commentary provides guidance on when such residential structures are included in that definition. See comments <ref target="1003-2-f-Interp-2" reftype="internal">2(f)-2</ref> through <ref target="1003-2-f-Interp-5" reftype="internal">-5</ref>.</content>
-        </interpParagraph>
-        <interpParagraph label="1003-2-n-Interp-2" marker="2." target="1003-2-n-2">
-          <content>Special reporting requirements for <ref target="1003-2-n" reftype="term">multifamily dwellings</ref>. The definition of <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> in § <ref target="1003-2-n" reftype="internal">1003.2(n)</ref> includes a <ref target="1003-2-f" reftype="term">dwelling</ref>, regardless of construction method, that contains five or more individual <ref target="1003-2-f" reftype="term">dwelling</ref> units. <ref target="1003-2-e" reftype="term">Covered loans</ref> secured by a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> are subject to additional reporting requirements under § 1003.4(a)(32), but are not subject to reporting requirements under § <ref target="1003-4-a-4" reftype="internal">1003.4(a)(4)</ref>, (10)(iii), (23), (29), or (30).</content>
-        </interpParagraph>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1003-3-c-6-Interp-1">
-      <interpParagraph label="1003-3-c-6-Interp-1" marker="1." target="1003-3-c-6-1">
-        <content>Mergers and acquisitions. Section 1003.3(c)(6) provides that the purchase of <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> or open-end lines of credit as part of a merger or acquisition, or as part of the acquisition of all of the assets and liabilities of a <ref target="1003-2-c" reftype="term">branch office</ref>, are excluded transactions. If a <ref target="1003-2-g" reftype="term">financial institution</ref> acquires loans or lines of credit in bulk from another institution (for example, from the receiver for a failed institution), but no merger or acquisition of an institution, or acquisition of a <ref target="1003-2-c" reftype="term">branch office</ref>, is involved and no other exclusion applies, the acquired loans or lines of credit are <ref target="1003-2-e" reftype="term">covered loans</ref> and are reported as described in comment <ref target="1003-4-a-Interp-1-iii" reftype="internal">4(a)-1.iii</ref>.</content>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1003-2-m-2">
-      <paragraph label="1003-2-m-2" marker="(2)">
-        <title type="keyterm">Metropolitan Division</title>
-        <content>Metropolitan Division (MD) means a Metropolitan Division of an <ref target="1003-2-m-1" reftype="term">MSA</ref>, as defined by the U.S. Office of Management and Budget.</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1003-4-a-3-Interp-2-iii">
-      <interpParagraph label="1003-4-a-3-Interp-2-iii" marker="iii." target="1003-4-a-3-2-iii">
-        <content>Assume a <ref target="1003-2-g" reftype="term">financial institution</ref> does not distinguish between a cash-out <ref target="1003-2-p" reftype="term">refinancing</ref> and a <ref target="1003-2-p" reftype="term">refinancing</ref> under its own guidelines, and sets the terms of all <ref target="1003-2-p" reftype="term">refinancings</ref> without regard to the amount of cash received by the borrower at closing or account opening, and does not offer loan products under investor guidelines. In this example, the <ref target="1003-2-g" reftype="term">financial institution</ref> reports all <ref target="1003-2-e" reftype="term">covered loans</ref> and applications for <ref target="1003-2-e" reftype="term">covered loans</ref> that are defined by § <ref target="1003-2-p" reftype="internal">1003.2(p)</ref> as <ref target="1003-2-p" reftype="term">refinancings</ref> for purposes of § <ref target="1003-4-a-3" reftype="internal">1003.4(a)(3)</ref>.</content>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1003-2-m-1">
-      <paragraph label="1003-2-m-1" marker="(1)">
-        <content>Metropolitan Statistical Area or <def term="msa" id="57d8b85e9b3fcfb3ad242cb19340092b7b959026">MSA</def> means a Metropolitan Statistical Area as defined by the U.S. Office of Management and Budget.</content>
-      </paragraph>
-    </change>
-  </changeset>
-</notice>
+        </analysis></notice>

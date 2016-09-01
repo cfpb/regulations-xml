@@ -24,7 +24,7 @@
     <!-- Section 1026.23 is amended by revising paragraph (a)(3)(ii) -->
     <change operation="modified" label="1026-23-a-3-ii">
       <paragraph label="1026-23-a-3-ii" marker="(ii)">
-        <content>For purposes of this paragraph <ref target="1026-23-a-3" reftype="internal">(a)(3)</ref>, the term &#8220;material disclosures&#8221; means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in &#167;&#167; <ref target="1026-32-c" reftype="internal">1026.32(c)</ref> and <ref target="1026-32-d" reftype="internal">(d)</ref> and <ref target="1026-35-b-2" reftype="internal">1026.35(e)(2)</ref>.</content>
+        <content>For purposes of this paragraph <ref target="1026-23-a-3" reftype="internal">(a)(3)</ref>, the term &#8220;material disclosures&#8221; means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in &#167;&#167; <ref target="1026-32-c" reftype="internal">1026.32(c)</ref> and <ref target="1026-32-d" reftype="internal">(d)</ref> and <ref target="1026-43-g" reftype="internal">1026.32(g)</ref>.</content>
       </paragraph>
     </change>
 
@@ -71,14 +71,14 @@
           <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> that is an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; or</content>
         </paragraph>
         <paragraph label="1026-32-b-1-ii-D" marker="(D)">
-          <content>That compensation is paid by a retailer of manufactured homes of its employee.</content>
+          <content>That compensation is paid by a retailer of manufactured homes to its employee.</content>
         </paragraph>
       </paragraph>
     </change>
 
     <change operation="modified" label="1026-32-b-1-vi">
       <paragraph label="1026-32-b-1-vi" marker="(vi)">
-        <content>The total <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> or <ref target="1026-32-b-6-ii" reftype="internal">(ii)</ref> of this section, as applicable, incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> refinances the existing <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> with the current holder of the existing loan or plan, a servicer acting on behalf of the current holder, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either;</content>
+        <content>The total <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> or <ref target="1026-32-b-6-ii" reftype="internal">(ii)</ref> of this section, as applicable, incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> refinances the existing <ref target="1026-39-a-2" reftype="term">mortgage loan</ref>, with the current holder of the existing loan or plan, a servicer acting on behalf of the current holder, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either.</content>
       </paragraph>
     </change>
 
@@ -88,7 +88,7 @@
         <paragraph label="1026-32-b-2-ii-A" marker="(A)">
           <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a <ref target="1026-2-a-11" reftype="term">consumer</ref> to a mortgage broker, as defined in &#167; <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, and already has been included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under paragraph (b)(2)(i) of this section;</content></paragraph>
         <paragraph label="1026-32-b-2-ii-B" marker="(B)">
-          <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a mortgage broker, as defined in &#167; <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> that is an employee of the mortgage broker; or</content>
+          <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a mortgage broker, as defined in &#167; <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> that is an employee of the mortgage broker;</content>
         </paragraph>
         <paragraph label="1026-32-b-2-ii-C" marker="(C)">
           <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> that is an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; or</content>
@@ -113,11 +113,6 @@
     <change operation="modified" label="1026-32-d-1-ii-C">
       <paragraph label="1026-32-d-1-ii-C" marker="(C)">
         <content>A loan that meets the criteria set forth in &#167;&#167; <ref target="1026-43-f-1-i" reftype="internal">1026.43(f)(1)(i)</ref> through (vi) and <ref target="1026-43-f-2" reftype="internal">1026.43(f)(2)</ref>, or the conditions set forth in &#167; <ref target="1026-43-e-6" reftype="internal">1026.43(e)(6)</ref>.</content></paragraph>
-    </change>
-
-    <change operation="modified" label="1026-32-b-2-i-D">
-      <paragraph label="1026-32-b-2-i-D" marker="(D)">
-        <content>A <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to &#167; <ref target="1026-33" reftype="internal">1026.33</ref>.</content></paragraph>
     </change>
 
     <!-- Section 1026.35 is amended by revising paragraphs (b)(2)(i)(D) -->
@@ -488,7 +483,7 @@
     <!-- ii. Under Paragraph 41(d), as amended February 14, 2013, at 78 FR 10901, paragraph 3 is revised. -->
 
     <change operation="modified" label="1026-41-d-Interp-3" subpath="title">
-      <title>Terminology</title>
+      <title type="keyterm">Terminology</title>
     </change>
 
     <change operation="modified" label="1026-41-d-Interp-3" subpath="content">

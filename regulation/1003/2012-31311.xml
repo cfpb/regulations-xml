@@ -58,7 +58,7 @@
       </tocAppEntry>
     </tableOfContents>
     <content>
-      <subpart>
+      <subpart label="1003-Subpart">
         <tableOfContents>
           <tocSecEntry target="1003-1">
             <sectionNum>1</sectionNum>
@@ -916,10 +916,15 @@
         </appendixSection>
       </appendix>
       <interpretations label="1003-Interp">
+	<tableOfContents>
+	  <tocInterpEntry target="1003-Interp-h1">
+	    <interpTitle>Introduction</interpTitle>
+	  </tocInterpEntry>
+	</tableOfContents>
         <title>Supplement I to Part 1003—Staff Commentary</title>
         <interpSection label="1003-Interp-h1">
           <title>Introduction</title>
-          <interpParagraph label="1003-h1-Interp-1">
+          <interpParagraph label="1003-h1-Interp-1" marker="1.">
 	    <title>Status</title>
             <content>The commentary in this supplement is the vehicle by which the Bureau of Consumer Financial Protection issues formal staff interpretations of Regulation C (<ref target="CFR:12-1003" reftype="external">12 CFR part 1003</ref>).</content>
           </interpParagraph>
