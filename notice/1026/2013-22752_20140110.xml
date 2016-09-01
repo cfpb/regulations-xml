@@ -24,7 +24,7 @@
     <!-- Section 1026.23 is amended by revising paragraph (a)(3)(ii) -->
     <change operation="modified" label="1026-23-a-3-ii">
       <paragraph label="1026-23-a-3-ii" marker="(ii)">
-        <content>For purposes of this paragraph <ref target="1026-23-a-3" reftype="internal">(a)(3)</ref>, the term &#8220;material disclosures&#8221; means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in &#167;&#167; <ref target="1026-32-c" reftype="internal">1026.32(c)</ref> and <ref target="1026-32-d" reftype="internal">(d)</ref> and <ref target="1026-35-b-2" reftype="internal">1026.35(e)(2)</ref>.</content>
+        <content>For purposes of this paragraph <ref target="1026-23-a-3" reftype="internal">(a)(3)</ref>, the term &#8220;material disclosures&#8221; means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in &#167;&#167; <ref target="1026-32-c" reftype="internal">1026.32(c)</ref> and <ref target="1026-32-d" reftype="internal">(d)</ref> and <ref target="1026-43-g" reftype="internal">1026.32(g)</ref>.</content>
       </paragraph>
     </change>
 
@@ -113,11 +113,6 @@
     <change operation="modified" label="1026-32-d-1-ii-C">
       <paragraph label="1026-32-d-1-ii-C" marker="(C)">
         <content>A loan that meets the criteria set forth in &#167;&#167; <ref target="1026-43-f-1-i" reftype="internal">1026.43(f)(1)(i)</ref> through (vi) and <ref target="1026-43-f-2" reftype="internal">1026.43(f)(2)</ref>, or the conditions set forth in &#167; <ref target="1026-43-e-6" reftype="internal">1026.43(e)(6)</ref>.</content></paragraph>
-    </change>
-
-    <change operation="modified" label="1026-32-b-2-i-D">
-      <paragraph label="1026-32-b-2-i-D" marker="(D)">
-        <content>A <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to &#167; <ref target="1026-33" reftype="internal">1026.33</ref>.</content></paragraph>
     </change>
 
     <!-- Section 1026.35 is amended by revising paragraphs (b)(2)(i)(D) -->
