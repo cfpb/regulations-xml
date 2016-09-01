@@ -29,25 +29,26 @@
     <!-- Section 1026.31 is amended by revising paragraph (c)(1) -->
     <change operation="modified" label="1026-31-c-1">
       <paragraph label="1026-31-c-1" marker="(1)">
-        <title type="keyterm">Disclosures for certain closed-end home mortgages.</title>
-        <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall furnish the disclosures required by § <ref target="1026-32" reftype="internal">1026.32</ref> at least three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to <ref target="1026-2-a-13" reftype="term">consummation</ref> of a mortgage transaction covered by § <ref target="1026-32" reftype="internal">1026.32</ref>.</content>
+        <title type="keyterm">Disclosures for high-cost mortgages.</title>
+        <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> shall furnish the disclosures required by § <ref target="1026-32" reftype="internal">1026.32</ref> at least three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to <ref target="1026-2-a-13" reftype="term">consummation</ref> or account opening of a high-cost mortgage as defined in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>.</content>
         <paragraph label="1026-31-c-1-i" marker="(i)">
           <title type="keyterm">Change in terms.</title>
-          <content>After complying with paragraph <ref target="1026-31-c-1" reftype="internal">(c)(1)</ref> of this section and prior to <ref target="1026-2-a-13" reftype="term">consummation</ref>, if the <ref target="1026-2-a-17" reftype="term">creditor</ref> changes any term that makes the disclosures inaccurate, new disclosures shall be provided in accordance with the requirements of this subpart.</content>
+          <content>After complying with this paragraph <ref target="1026-31-c-1" reftype="internal">(c)(1)</ref> and prior to <ref target="1026-2-a-13" reftype="term">consummation</ref> or account opening, if the <ref target="1026-2-a-17" reftype="term">creditor</ref> changes any term that makes the disclosures inaccurate, new disclosures shall be provided in accordance with the requirements of this subpart.</content>
         </paragraph>
         <paragraph label="1026-31-c-1-ii" marker="(ii)">
           <title type="keyterm">Telephone disclosures.</title>
-          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may provide new disclosures by telephone if the <ref target="1026-2-a-11" reftype="term">consumer</ref> initiates the change and if, at <ref target="1026-2-a-13" reftype="term">consummation</ref>:</content>
+          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may provide new disclosures required by paragraph <ref target="1026-31-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section by telephone if the <ref target="1026-2-a-11" reftype="term">consumer</ref> initiates the change and if, prior to or at <ref target="1026-2-a-13" reftype="term">consummation</ref> or account opening:</content>
           <paragraph label="1026-31-c-1-ii-A" marker="(A)">
             <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> provides new written disclosures; and</content>
           </paragraph>
           <paragraph label="1026-31-c-1-ii-B" marker="(B)">
-            <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> and <ref target="1026-2-a-17" reftype="term">creditor</ref> sign a statement that the new disclosures were provided by telephone at least three days prior to <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
+            <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> and <ref target="1026-2-a-17" reftype="term">creditor</ref> sign a statement that the new disclosures were provided by telephone at least three days prior to <ref target="1026-2-a-13" reftype="term">consummation</ref> or account opening, as applicable.</content>
           </paragraph>
         </paragraph>
         <paragraph label="1026-31-c-1-iii" marker="(iii)">
-          <title type="keyterm">Consumer's waiver of waiting period before consummation.</title>
-          <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> may, after receiving the disclosures required by paragraph <ref target="1026-31-c-1" reftype="internal">(c)(1)</ref> of this section, modify or waive the three-day waiting period between delivery of those disclosures and <ref target="1026-2-a-13" reftype="term">consummation</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> determines that the extension of <ref target="1026-2-a-14" reftype="term">credit</ref> is needed to meet a bona fide personal financial emergency. To modify or waive the right, the <ref target="1026-2-a-11" reftype="term">consumer</ref> shall give the <ref target="1026-2-a-17" reftype="term">creditor</ref> a dated written statement that describes the emergency, specifically modifies or waives the waiting period, and bears the signature of all the <ref target="1026-2-a-11" reftype="term">consumers</ref> entitled to the waiting period. Printed forms for this purpose are prohibited, except when <ref target="1026-2-a-17" reftype="term">creditors</ref> are permitted to use printed forms pursuant to § <ref target="1026-23-e-2" reftype="internal">1026.23(e)(2)</ref>.</content></paragraph>
+          <title type="keyterm">Consumer's waiver of waiting period before consummation or account opening.</title>
+          <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> may, after receiving the disclosures required by this paragraph <ref target="1026-31-c-1" reftype="internal">(c)(1)</ref>, modify or waive the three-day waiting period between delivery of those disclosures and <ref target="1026-2-a-13" reftype="term">consummation</ref> or account opening if the <ref target="1026-2-a-11" reftype="term">consumer</ref> determines that the extension of <ref target="1026-2-a-14" reftype="term">credit</ref> is needed to meet a bona fide personal financial emergency. To modify or waive the right, the <ref target="1026-2-a-11" reftype="term">consumer</ref> shall give the <ref target="1026-2-a-17" reftype="term">creditor</ref> a dated written statement that describes the emergency, specifically modifies or waives the waiting period, and bears the signature of all the <ref target="1026-2-a-11" reftype="term">consumers</ref> entitled to the waiting period. Printed forms for this purpose are prohibited, except when <ref target="1026-2-a-17" reftype="term">creditors</ref> are permitted to use printed forms pursuant to § <ref target="1026-23-e-2" reftype="internal">1026.23(e)(2)</ref>.</content>
+        </paragraph>
       </paragraph>
     </change>
 
