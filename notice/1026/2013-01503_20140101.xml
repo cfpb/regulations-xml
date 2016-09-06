@@ -135,9 +135,10 @@
       </paragraph>
     </change>
     <!-- Section 1026.36 is amended by revising paragraphs (d)(1), (d)(2), (e)(3)(i)(C), and (f) -->
+ 
     <change operation="modified" label="1026-36-d-1">
       <paragraph label="1026-36-d-1" marker="(1)">
-        <title type="keyterm">Payments based on transaction terms or conditions.</title>
+        <title type="keyterm">Payments based on a term of a transaction.</title>
         <content/>
         <paragraph label="1026-36-d-1-i" marker="(i)">
           <content>Except as provided in paragraph (d)(1)(iii) or (iv) of this section, in connection with a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, no <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> shall receive and no <ref target="1026-2-a-22" reftype="term">person</ref> shall pay to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, directly or indirectly, <ref target="1026-36-a-3" reftype="term">compensation</ref> in an amount that is based on a <ref target="1026-36-d-1-ii" reftype="term">term of a transaction</ref>, the terms of multiple transactions by an <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>, or the terms of multiple transactions by multiple <ref target="1026-36-a-1-ii" reftype="term">individual loan originators</ref>. If a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>'s <ref target="1026-36-a-3" reftype="term">compensation</ref> is based in whole or in part on a factor that is a proxy for a <ref target="1026-36-d-1-ii" reftype="term">term of a transaction</ref>, the <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>'s <ref target="1026-36-a-3" reftype="term">compensation</ref> is based on a <ref target="1026-36-d-1-ii" reftype="term">term of a transaction</ref>. A factor that is not itself a <ref target="1026-36-d-1-ii" reftype="term">term of a transaction</ref> is a proxy for a term of the transaction if the factor consistently varies with that term over a significant number of transactions, and the <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> has the ability, directly or indirectly, to add, drop, or change the factor in originating the transaction.</content>
