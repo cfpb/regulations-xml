@@ -614,7 +614,7 @@
       </paragraph>
     </change>
     <!-- Section 1026.25 is amended by adding paragraph (c)(1) -->
-    <change operation="modified" label="1026-25-c">
+    <change operation="modified" label="1026-25-c" subpath="content">
       <content>Records related to certain requirements for mortgage loans</content>
     </change>
     <change operation="modified" label="1026-25-c-1">
