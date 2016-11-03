@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2013-03-26</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>ELECTRONIC FUND TRANSFERS</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <cfr>
+      <title>12</title>
+      <section>1005</section>
+    </cfr>
+    <documentNumber>2013-06861</documentNumber>
+    <effectiveDate>2013-03-26</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/articles/2013/03/26/2013-06861/no-title-available</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2011-31725" rightDocumentNumber="2012-06861">
+
+    <!-- 2. Amend § 1005.16 by revising paragraphs (b) through (d) to read as follows: -->
+    
+    <change operation="modified" label="1005-16-b">
+      <paragraph label="1005-16-b" marker="(b)">
+        <title type="keyterm">General.</title>
+        <content>General. An <ref target="1005-16-a" reftype="term">automated teller machine operator</ref> that imposes a fee on a <ref target="1005-2-e" reftype="term">consumer</ref> for initiating an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> or a balance inquiry must provide a notice that a fee will be imposed for providing <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> services or a balance inquiry that discloses the amount of the fee.</content>
+      </paragraph>
+    </change>
+    
+    <change operation="modified" label="1005-16-c">
+      <paragraph label="1005-16-c" marker="(c)">
+        <title type="keyterm">Notice requirement.</title>
+        <content>Notice requirement. An <ref target="1005-16-a" reftype="term">automated teller machine operator</ref> must provide the notice required by paragraph <ref target="1005-16-b" reftype="internal">(b)</ref> of this section either by showing it on the screen of the automated teller machine or by providing it on paper, before the <ref target="1005-2-e" reftype="term">consumer</ref> is committed to paying a fee.</content>
+      </paragraph>
+    </change>
+    
+    <change operation="modified" label="1005-16-d">
+      <paragraph label="1005-16-d" marker="(d)">
+        <title type="keyterm">Imposition of fee.</title>
+        <content>Imposition of fee. An <ref target="1005-16-a" reftype="term">automated teller machine operator</ref> may impose a fee on a <ref target="1005-2-e" reftype="term">consumer</ref> for initiating an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> or a balance inquiry only if:</content>
+        <paragraph label="1005-16-d-1" marker="(1)">
+          <content>The <ref target="1005-2-e" reftype="term">consumer</ref> is provided the notice required under paragraph <ref target="1005-16-c" reftype="internal">(c)</ref> of this section, and</content>
+        </paragraph>
+        <paragraph label="1005-16-d-2" marker="(2)">
+          <content>The <ref target="1005-2-e" reftype="term">consumer</ref> elects to continue the transaction or inquiry after receiving such notice.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    
+    <change operation="deleted" label="1005-16-c-1-ii"/>
+
+    <change operation="deleted" label="1005-16-b-Interp"/>
+    <change operation="deleted" label="1005-16-Interp"/>
+
+  </changeset>
+</notice>
