@@ -524,10 +524,10 @@
           <content><ref target="1026-2-a-17" reftype="term">Creditors</ref> may not make changes to, deletions from, or additions to the special information booklet other than the changes specified in paragraphs (g)(2)(i) through (iv) of this section.</content><paragraph label="1026-19-g-2-i" marker="(i)">
             <content>In the &#8220;Complaints&#8221; section of the booklet, &#8220;the <ref target="1026-2-a-5" reftype="term">Bureau</ref> of Consumer Financial Protection&#8221; may be substituted for &#8220;HUD&#8217;s Office of RESPA&#8221; and &#8220;the RESPA office.&#8221;</content></paragraph>
           <paragraph label="1026-19-g-2-ii" marker="(ii)">
-            <content>In the &#8220;Avoiding Foreclosure&#8221; section of the booklet, it is permissible to inform homeowners that they may find information on and assistance in avoiding foreclosures at http:// www.consumerfinance.gov. The reference to the HUD Web site, http:// www.hud.gov/foreclosure/, in the &#8220;Avoiding Foreclosure&#8221; section of the booklet shall not be deleted.</content>
+            <content>In the &#8220;Avoiding Foreclosure&#8221; section of the booklet, it is permissible to inform homeowners that they may find information on and assistance in avoiding foreclosures at http:// www.consumerfinance.gov. The reference to the HUD Web site, http://www.hud.gov/foreclosure/, in the &#8220;Avoiding Foreclosure&#8221; section of the booklet shall not be deleted.</content>
           </paragraph>
           <paragraph label="1026-19-g-2-iii" marker="(iii)">
-            <content>In the &#8220;No Discrimination&#8221; section of the appendix to the booklet, &#8220;the <ref target="1026-2-a-5" reftype="term">Bureau</ref> of Consumer Financial Protection&#8221; may be substituted for the reference to the &#8220;Board of Governors of the Federal Reserve System.&#8221; In the Contact Information section of the appendix to the booklet, the following contact information for the <ref target="1026-2-a-5" reftype="term">Bureau</ref> may be added: &#8220;<ref target="1026-2-a-5" reftype="term">Bureau</ref> of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552; www.<ref target="1026-2-a-11" reftype="term">consumer</ref> finance.gov/learnmore.&#8221; The contact information for HUD&#8217;s Office of RESPA and Interstate Land Sales may be removed from the &#8220;Contact Information&#8221; section of the appendix to the booklet.</content></paragraph>
+            <content>In the &#8220;No Discrimination&#8221; section of the appendix to the booklet, &#8220;the <ref target="1026-2-a-5" reftype="term">Bureau</ref> of Consumer Financial Protection&#8221; may be substituted for the reference to the &#8220;Board of Governors of the Federal Reserve System.&#8221; In the Contact Information section of the appendix to the booklet, the following contact information for the <ref target="1026-2-a-5" reftype="term">Bureau</ref> may be added: &#8220;<ref target="1026-2-a-5" reftype="term">Bureau</ref> of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552; www.consumerfinance.gov/learnmore.&#8221; The contact information for HUD&#8217;s Office of RESPA and Interstate Land Sales may be removed from the &#8220;Contact Information&#8221; section of the appendix to the booklet.</content></paragraph>
           <paragraph label="1026-19-g-2-iv" marker="(iv)">
             <content>The cover of the booklet may be in any form and may contain any drawings, pictures or artwork, provided that the title appearing on the cover shall not be changed. Names, addresses, and telephone numbers of the <ref target="1026-2-a-17" reftype="term">creditor</ref> or others and similar information may appear on the cover, but no discussion of the matters covered in the booklet shall appear on the cover. References to HUD on the cover of the booklet may be changed to references to the <ref target="1026-2-a-5" reftype="term">Bureau</ref>.</content></paragraph>
         </paragraph>
@@ -614,7 +614,7 @@
       </paragraph>
     </change>
     <!-- Section 1026.25 is amended by adding paragraph (c)(1) -->
-    <change operation="modified" label="1026-25-c">
+    <change operation="modified" label="1026-25-c" subpath="content">
       <content>Records related to certain requirements for mortgage loans</content>
     </change>
     <change operation="modified" label="1026-25-c-1">
@@ -2205,7 +2205,7 @@
           <paragraph label="1026-38-q-1" marker="(1)">
             <content>A statement directing the <ref target="1026-2-a-11" reftype="term">consumer</ref> to use the contact information disclosed under paragraph (r) of this section if the <ref target="1026-2-a-11" reftype="term">consumer</ref> has any questions about the disclosures required pursuant to &#167; <ref target="1026-19-f" reftype="internal">1026.19(f)</ref>;</content></paragraph>
           <paragraph label="1026-38-q-2" marker="(2)">
-            <content>A reference to the <ref target="1026-2-a-5" reftype="term">Bureau</ref>&#8217;s Web site to obtain more information or to submit a complaint; and the link or uniform resource locator address to the Web site: www.consumerfinance.gov/ mortgage-closing; and</content></paragraph>
+            <content>A reference to the <ref target="1026-2-a-5" reftype="term">Bureau</ref>&#8217;s Web site to obtain more information or to submit a complaint; and the link or uniform resource locator address to the Web site: www.consumerfinance.gov/mortgage-closing; and</content></paragraph>
           <paragraph label="1026-38-q-3" marker="(3)">
             <content>A prominent question mark.</content>
           </paragraph>
