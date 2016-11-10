@@ -33,22 +33,16 @@
 
     <change operation="modified" label="1005-A-37">
       <appendixSection appendixSecNum="39" label="1005-A-37">
-	<subject>A-37&#8212;Model Form for Error Resolution and Cancellation Disclosures (Short) (&#167;&#8201;1005.31(b)(2)(iv) and (b)(2)(vi))</subject>
-	<paragraph label="1005-A-37-p1" marker="">
-	  <content>You have a right to dispute errors in your transaction. If you think there is an error, contact us within 180 days at [insert telephone number] or [insert website]. You can also contact us for a written explanation of your rights.</content>
-	</paragraph>
-	<paragraph label="1005-A-37-p2" marker="">
-	  <content>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</content>
-	</paragraph>
-	<paragraph label="1005-A-37-p3" marker="">
-	  <content>For questions or complaints about [insert name of remittance transfer provider], contact:</content>
-	</paragraph>
-	<paragraph label="1005-A-37-p4" marker="">
-	  <content>State Regulatory Agency, 800-111-2222, www.stateregulatoryagency.gov</content>
-	</paragraph>
-	<paragraph label="1005-A-37-p5" marker="">
-	  <content>Consumer Financial Protection Bureau, 855-411-2372, 855-729-2372 (TTY/TDD), www.consumerfinance.gov</content>
-	</paragraph>
+        <subject>A-37&#8212;Model Form for Error Resolution and Cancellation Disclosures (Short) (&#167;&#8201;1005.31(b)(2)(iv) and (b)(2)(vi))</subject>
+        <paragraph label="1005-A-37-p1" marker="">
+          <content>
+            <graphic>
+              <altText/>
+              <text>![](ER22MY13.253)</text>
+              <url>http://files.consumerfinance.gov/f/1005-2016-24506-A-37.jpg</url>
+            </graphic>
+          </content>
+        </paragraph>
       </appendixSection>
     </change>
 
@@ -60,8 +54,7 @@
 
     <change operation="modified" label="1005-33-a-Interp-9">
       <interpParagraph label="1005-33-a-Interp-9" marker="9.">
-	<title>Account number or recipient institution identifier.</title>
-	<content>For purposes of the exception in &#167;&#8201;1005.33(a)(1)(iv)(D), the terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction. In addition and for purposes of this exception, the term designated recipient's account in &#167;&#8201;1005.33(a)(1)(iv)(D) refers to an asset account, regardless of whether it is a consumer asset account, established for any purpose and held by a bank, savings association, credit union, or equivalent institution. A designated recipient's account does not, however, include a credit card, prepaid card, or a virtual account held by an Internet-based or mobile telephone company that is not a bank, savings association, credit union or equivalent institution.</content>
+	<content>Account number or recipient institution identifier. For purposes of the exception in &#167;&#8201;1005.33(a)(1)(iv)(D), the terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction. In addition and for purposes of this exception, the term designated recipient's account in &#167;&#8201;1005.33(a)(1)(iv)(D) refers to an asset account, regardless of whether it is a consumer asset account, established for any purpose and held by a bank, savings association, credit union, or equivalent institution. A designated recipient's account does not, however, include a credit card, prepaid card, or a virtual account held by an Internet-based or mobile telephone company that is not a bank, savings association, credit union or equivalent institution.</content>
       </interpParagraph>
     </change>
 
@@ -69,8 +62,7 @@
 
     <change operation="modified" label="1005-33-g-Interp-1">
       <interpParagraph label="1005-33-g-Interp-1" marker="1.">
-	<title>Record retention requirements.</title>
-	<content>As noted in &#167;&#8201;1005.33(g)(2), remittance transfer providers are subject to the record retention requirements under &#167;&#8201;1005.13. Therefore, remittance transfer providers must retain documentation, including documentation related to error investigations, for a period of not less than two years from the date a notice of error was submitted to the provider or action was required to be taken by the provider. A remittance transfer provider need not maintain records of individual disclosures that it has provided to each sender; it need only retain evidence demonstrating that its procedures reasonably ensure the sender's receipt of required disclosures and documentation.</content>
+	<content>Record retention requirements. As noted in &#167;&#8201;1005.33(g)(2), remittance transfer providers are subject to the record retention requirements under &#167;&#8201;1005.13. Therefore, remittance transfer providers must retain documentation, including documentation related to error investigations, for a period of not less than two years from the date a notice of error was submitted to the provider or action was required to be taken by the provider. A remittance transfer provider need not maintain records of individual disclosures that it has provided to each sender; it need only retain evidence demonstrating that its procedures reasonably ensure the sender's receipt of required disclosures and documentation.</content>
       </interpParagraph>
     </change>
 
@@ -80,8 +72,7 @@
     
     <change operation="modified" label="1005-36-Interp-1">
       <interpParagraph label="1005-36-Interp-1" marker="1.">
-	<title>Applicability of Subpart B.</title>
-	<content>The requirements set forth in subpart B apply to remittance transfers subject to &#167;&#8201;1005.36, to the extent that &#167;&#8201;1005.36 does not modify those requirements. For example, the foreign language disclosure requirements in &#167;&#8201;1005.31(g) and related commentary continue to apply to disclosures provided in accordance with &#167;&#8201;1005.36(a)(2).</content>
+	<content>Applicability of Subpart B. The requirements set forth in subpart B apply to remittance transfers subject to &#167;&#8201;1005.36, to the extent that &#167;&#8201;1005.36 does not modify those requirements. For example, the foreign language disclosure requirements in &#167;&#8201;1005.31(g) and related commentary continue to apply to disclosures provided in accordance with &#167;&#8201;1005.36(a)(2).</content>
       </interpParagraph>
     </change>
     
