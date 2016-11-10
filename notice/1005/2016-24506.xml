@@ -25,7 +25,7 @@
     <change operation="modified" label="1005-7-b-11">
       <paragraph label="1005-7-b-11" marker="(11)">
 	<title>ATM fees.</title>
-	<content>A notice that a fee may be imposed by an automated teller machine operator as defined in § <ref target="1005-16-a" reftype="internal">1005.16(a)</ref>, when the consumer initiates an electronic fund transfer or makes a balance inquiry, and by any network used to complete the transaction.</content>
+	<content>A notice that a fee may be imposed by an automated teller machine operator as defined in &#167;&#8201;<ref target="1005-16-a" reftype="internal">1005.16(a)</ref>, when the consumer initiates an electronic fund transfer or makes a balance inquiry, and by any network used to complete the transaction.</content>
       </paragraph>
     </change>
 
@@ -33,7 +33,7 @@
 
     <change operation="modified" label="1005-A-37">
       <appendixSection appendixSecNum="39" label="1005-A-37">
-	<subject>A-37—Model Form for Error Resolution and Cancellation Disclosures (Short) (§ 1005.31(b)(2)(iv) and (b)(2)(vi))</subject>
+	<subject>A-37&#8212;Model Form for Error Resolution and Cancellation Disclosures (Short) (&#167;&#8201;1005.31(b)(2)(iv) and (b)(2)(vi))</subject>
 	<paragraph label="1005-A-37-p1" marker="">
 	  <content>You have a right to dispute errors in your transaction. If you think there is an error, contact us within 180 days at [insert telephone number] or [insert website]. You can also contact us for a written explanation of your rights.</content>
 	</paragraph>
@@ -52,41 +52,41 @@
       </appendixSection>
     </change>
 
-    <!-- In Supplement I to Part 1005—Official Interpretations: -->
+    <!-- In Supplement I to Part 1005&#8212;Official Interpretations: -->
 
-    <!-- a. Under Section 1005.33—Procedures for Resolving Errors:-->
+    <!-- a. Under Section 1005.33&#8212;Procedures for Resolving Errors:-->
 
-    <!--i. In subsection 33(a)—Definition of Error, paragraph 9 is revised.-->
+    <!--i. In subsection 33(a)&#8212;Definition of Error, paragraph 9 is revised.-->
 
     <change operation="modified" label="1005-33-a-Interp-9">
       <interpParagraph label="1005-33-a-Interp-9" marker="9.">
 	<title>Account number or recipient institution identifier.</title>
-	<content>For purposes of the exception in § 1005.33(a)(1)(iv)(D), the terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction. In addition and for purposes of this exception, the term designated recipient's account in § 1005.33(a)(1)(iv)(D) refers to an asset account, regardless of whether it is a consumer asset account, established for any purpose and held by a bank, savings association, credit union, or equivalent institution. A designated recipient's account does not, however, include a credit card, prepaid card, or a virtual account held by an Internet-based or mobile telephone company that is not a bank, savings association, credit union or equivalent institution.</content>
+	<content>For purposes of the exception in &#167;&#8201;1005.33(a)(1)(iv)(D), the terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction. In addition and for purposes of this exception, the term designated recipient's account in &#167;&#8201;1005.33(a)(1)(iv)(D) refers to an asset account, regardless of whether it is a consumer asset account, established for any purpose and held by a bank, savings association, credit union, or equivalent institution. A designated recipient's account does not, however, include a credit card, prepaid card, or a virtual account held by an Internet-based or mobile telephone company that is not a bank, savings association, credit union or equivalent institution.</content>
       </interpParagraph>
     </change>
 
-    <!--ii. In subsection 33(g)—Error Resolution Standards and Recordkeeping Requirements, paragraph 1 is revised.-->
+    <!--ii. In subsection 33(g)&#8212;Error Resolution Standards and Recordkeeping Requirements, paragraph 1 is revised.-->
 
     <change operation="modified" label="1005-33-g-Interp-1">
       <interpParagraph label="1005-33-g-Interp-1" marker="1.">
 	<title>Record retention requirements.</title>
-	<content>As noted in § 1005.33(g)(2), remittance transfer providers are subject to the record retention requirements under § 1005.13. Therefore, remittance transfer providers must retain documentation, including documentation related to error investigations, for a period of not less than two years from the date a notice of error was submitted to the provider or action was required to be taken by the provider. A remittance transfer provider need not maintain records of individual disclosures that it has provided to each sender; it need only retain evidence demonstrating that its procedures reasonably ensure the sender's receipt of required disclosures and documentation.</content>
+	<content>As noted in &#167;&#8201;1005.33(g)(2), remittance transfer providers are subject to the record retention requirements under &#167;&#8201;1005.13. Therefore, remittance transfer providers must retain documentation, including documentation related to error investigations, for a period of not less than two years from the date a notice of error was submitted to the provider or action was required to be taken by the provider. A remittance transfer provider need not maintain records of individual disclosures that it has provided to each sender; it need only retain evidence demonstrating that its procedures reasonably ensure the sender's receipt of required disclosures and documentation.</content>
       </interpParagraph>
     </change>
 
-    <!--b. The heading Section 1005.36—Transfers Scheduled in Advance and paragraph 1 underneath said heading are removed.-->
+    <!--b. The heading Section 1005.36&#8212;Transfers Scheduled in Advance and paragraph 1 underneath said heading are removed.-->
 
-    <!--c. Under Section 1005.36—Transfers Scheduled before the Date of Transfer, paragraph 1 is added.-->
+    <!--c. Under Section 1005.36&#8212;Transfers Scheduled before the Date of Transfer, paragraph 1 is added.-->
     
     <change operation="modified" label="1005-36-Interp-1">
-      <interpParagraph label="1005-36-Interp-1" marker="1." target="1005-36">
+      <interpParagraph label="1005-36-Interp-1" marker="1.">
 	<title>Applicability of Subpart B.</title>
-	<content>The requirements set forth in subpart B apply to remittance transfers subject to § 1005.36, to the extent that § 1005.36 does not modify those requirements. For example, the foreign language disclosure requirements in § 1005.31(g) and related commentary continue to apply to disclosures provided in accordance with § 1005.36(a)(2).</content>
+	<content>The requirements set forth in subpart B apply to remittance transfers subject to &#167;&#8201;1005.36, to the extent that &#167;&#8201;1005.36 does not modify those requirements. For example, the foreign language disclosure requirements in &#167;&#8201;1005.31(g) and related commentary continue to apply to disclosures provided in accordance with &#167;&#8201;1005.36(a)(2).</content>
       </interpParagraph>
     </change>
     
     <change operation="modified" label="1005-36-Interp" subpath="title">
-      <title>Section 1005.36—Transfers Scheduled before the Date of Transfer</title>
+      <title>Section 1005.36&#8212;Transfers Scheduled before the Date of Transfer</title>
     </change>
     
   </changeset>
