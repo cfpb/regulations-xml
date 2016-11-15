@@ -468,8 +468,8 @@
 
     <!-- Under Section 1005.36, add comments 36(a), 36(b) and 36(d). -->
 
-    <change operation="added" label="1005-36-a-Interp">
-      <interpParagraph label="1005-36-a-Interp" marker="Interp" target="1005-36-a">
+    <change operation="added" label="1005-36-a-Interp" before="1005-36-c-Interp">
+      <interpParagraph label="1005-36-a-Interp" marker="Interp" target="1005-36-a" >
         <title>36(a) Timing</title>
         <content/>
         <interpParagraph label="1005-36-a-2-Interp" marker="Interp" target="1005-36-a-2">
@@ -488,7 +488,7 @@
       </interpParagraph>
     </change>
 
-    <change operation="added" label="1005-36-b-Interp">
+    <change operation="added" label="1005-36-b-Interp" after="1005-36-a-Interp">
       <interpParagraph label="1005-36-b-Interp" marker="Interp" target="1005-36-b">
         <title>36(b) Accuracy</title>
         <content/>
