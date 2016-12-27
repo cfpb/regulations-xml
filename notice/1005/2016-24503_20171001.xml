@@ -1139,27 +1139,27 @@
           <appendixLetter>10</appendixLetter>
           <appendixSubject>A-10 through A-29 [Reserved]</appendixSubject>
         </tocAppEntry>
-        <tocAppEntry target="1005-A-10(a)">
+        <tocAppEntry target="1005-A-10-a">
           <appendixLetter>10(a)</appendixLetter>
           <appendixSubject>A-10(a)—Model Form for Short Form Disclosures for Government Benefit Accounts (§§ 1005.15(c) and 1005.18(b)(2), (3), (6), and (7))</appendixSubject>
         </tocAppEntry>
-        <tocAppEntry target="1005-A-10(b)">
+        <tocAppEntry target="1005-A-10-b">
           <appendixLetter>10(b)</appendixLetter>
           <appendixSubject>A-10(b)—Model Form for Short Form Disclosures for Payroll Card Accounts (§ 1005.18(b)(2), (3), (6), and (7))</appendixSubject>
         </tocAppEntry>
-        <tocAppEntry target="1005-A-10(c)">
+        <tocAppEntry target="1005-A-10-c">
           <appendixLetter>10(c)</appendixLetter>
           <appendixSubject>A-10(c)—Model Form for Short Form Disclosures for Prepaid Accounts, Example 1 (§ 1005.18(b)(2), (3), (6), and (7))</appendixSubject>
         </tocAppEntry>
-        <tocAppEntry target="1005-A-10(d)">
+        <tocAppEntry target="1005-A-10-d">
           <appendixLetter>10(d)</appendixLetter>
           <appendixSubject>A-10(d)—Model Form for Short Form Disclosures for Prepaid Accounts, Example 2 (§ 1005.18(b)(2), (3), (6), and (7))</appendixSubject>
         </tocAppEntry>
-        <tocAppEntry target="1005-A-10(e)">
+        <tocAppEntry target="1005-A-10-e">
           <appendixLetter>10(e)</appendixLetter>
           <appendixSubject>A-10(e)—Model Form for Short Form Disclosures for Prepaid Accounts with Multiple Service Plans (§ 1005.18(b)(2), (3), (6), and (7))</appendixSubject>
         </tocAppEntry>
-        <tocAppEntry target="1005-A-10(f)">
+        <tocAppEntry target="1005-A-10-f">
           <appendixLetter>10(f)</appendixLetter>
           <appendixSubject>A-10(f)—Sample Form for Long Form Disclosures for Prepaid Accounts (§ 1005.18(b)(4), (6), and (7))</appendixSubject>
         </tocAppEntry>
@@ -1232,18 +1232,184 @@
     <change operation="modified" label="1005-A-5">
       <appendixSection appendixSecNum="5" label="1005-A-5">
         <subject>A-5—Model Clauses for Government Agencies (§ 1005.15(e)(1) and (2))</subject>
-        <paragraph label="1005-A-5-p1" marker=""><content/></paragraph>
+        <paragraph label="1005-A-5-a" marker="(a)">
+          <title type="keyterm">Disclosure by government agencies of information about obtaining account information for government benefit accounts (§ 1005.15(e)(1)(i)).</title>
+          <content/>
+        </paragraph>
+        <paragraph label="1005-A-5-p19" marker="">
+          <content>You may obtain information about the amount of benefits you have remaining by calling [telephone number]. That information is also available [on the receipt you get when you make a transfer with your card at (an ATM) (a POS terminal)] [when you make a balance inquiry at an ATM] [when you make a balance inquiry at specified locations]. This information, along with a 12-month history of account transactions, is also available online at [Internet address].</content>
+        </paragraph>
+        <paragraph label="1005-A-5-p20" marker="">
+          <content>You also have the right to obtain at least 24 months of written history of account transactions by calling [telephone number], or by writing to us at [address]. You will not be charged a fee for this information unless you request it more than once per month. [Optional: Or you may request a written history of account transactions by contacting your caseworker.]</content>
+        </paragraph>
+        <paragraph label="1005-A-5-b" marker="(b)">
+          <title type="keyterm">Disclosure of error resolution procedures for government agencies that do not provide periodic statements (§ 1005.15(e)(1)(ii) and (e)(2)).</title>
+          <content/>
+        </paragraph>
+        <paragraph label="1005-A-5-p21" marker="">
+          <content>In Case of Errors or Questions About Your Electronic Transfers Telephone us at [telephone number] Write us at [address] [or email us at [email address]] as soon as you can, if you think an error has occurred in your [agency’s name for program] account. We must allow you to report an error until 60 days after the earlier of the date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared. You may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address] [optional: or by contacting your caseworker].</content>
+        </paragraph>
+        <paragraph label="1005-A-5-p21-1" marker="">
+          <content>You will need to tell us:</content>
+        </paragraph>
+        <paragraph label="1005-A-5-p22" marker="">
+          <content>• Your name and [case] [file] number.</content>
+        </paragraph>
+        <paragraph label="1005-A-5-p23" marker="">
+          <content>• Why you believe there is an <ref target="1005-11-a-1" reftype="term">error</ref>, and the dollar amount involved.</content>
+        </paragraph>
+        <paragraph label="1005-A-5-p24" marker="">
+          <content>• Approximately when the <ref target="1005-11-a-1" reftype="term">error</ref> took place.</content>
+        </paragraph>
+        <paragraph label="1005-A-5-p25" marker="">
+          <content>If you tell us orally, we may require that you send us your complaint or question in writing within 10 <ref target="1005-2-d" reftype="term">business days</ref>. We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account. For errors involving new accounts, pointof-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.</content>
+        </paragraph>
+        <paragraph label="1005-A-5-p26" marker="">
+          <content>We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation.</content>
+        </paragraph>
+        <paragraph label="1005-A-5-p27" marker="">
+          <content>You may ask for copies of the documents that we used in our investigation. </content>
+        </paragraph>
+        <paragraph label="1005-A-5-p28" marker="">
+          <content>If you need more information about our error resolution procedures, call us at [telephone number][the telephone number shown above]. </content>
+        </paragraph>
       </appendixSection>
     </change>
     <change operation="modified" label="1005-A-7">
         <appendixSection appendixSecNum="7" label="1005-A-7">
           <subject>A-7—Model Clauses for Financial Institutions Offering Prepaid Accounts (§ 1005.18(d) and (e)(3))</subject>
-          <paragraph label="1005-A-7-p1" marker=""><content/></paragraph>
+          <paragraph label="1005-A-7-a" marker="(a)">
+            <content>Disclosure by financial institutions of information about obtaining account information for prepaid accounts (§ 1005.18(d)(1)(i)).</content>
+          </paragraph>
+          <paragraph label="1005-A-7-p34" marker="">
+            <content>You may obtain information about the amount of money you have remaining in your prepaid account by calling [telephone number]. This information, along with a 12-month history of account transactions, is also available online at [Internet address].</content>
+          </paragraph>
+          <paragraph label="1005-A-7-p35" marker="">
+            <content>[For accounts that are or can be registered:] [If your account is registered with us,] You also have the right to obtain at least 24 months of written history of account transactions by calling [telephone number], or by writing us at [address]. You will not be charged a fee for this information unless you request it more than once per month. </content>
+          </paragraph>
+          <paragraph label="1005-A-7-b" marker="(b)">
+            <content>Disclosure of error-resolution procedures for financial institutions that do not provide periodic statements (§ 1005.18(d)(1)(ii) and (d)(2))..</content>
+          </paragraph>
+          <paragraph label="1005-A-7-p36" marker="">
+            <content>In Case of Errors or Questions About Your Prepaid Account Telephone us at [telephone number] or Write us at [address] [or email us at [email address]] as soon as you can, if you think an error has occurred in your prepaid account. We must allow you to report an error until 60 days after the earlier of the date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared. You may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address]. You will need to tell us:</content>
+          </paragraph>
+          <paragraph label="1005-A-7-p37" marker="">
+            <content>Your name and [prepaid account] number.</content>
+          </paragraph>
+          <paragraph label="1005-A-7-p38" marker="">
+            <content>Why you believe there is an error, and the dollar amount involved.</content>
+          </paragraph>
+          <paragraph label="1005-A-7-p39" marker="">
+            <content>Approximately when the error took place. </content>
+          </paragraph>
+          <paragraph label="1005-A-7-p40" marker="">
+            <content>If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. .</content>
+          </paragraph>
+          <paragraph label="1005-A-7-p41" marker="">
+            <content>We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, [and your account is registered with us,] we will credit your account within 10 business days for the amount you think is in error, so that you will have the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account. [Keep reading to learn more about how to register your card.] .</content>
+          </paragraph>
+          <paragraph label="1005-A-7-p42" marker="">
+            <content>For errors involving new accounts, pointof-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.</content>
+          </paragraph>
+          <paragraph label="1005-A-7-p43" marker="">
+            <content>We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation. </content>
+          </paragraph>
+          <paragraph label="1005-A-7-p44" marker="">
+            <content>You may ask for copies of the documents that we used in our investigation.</content>
+          </paragraph>
+          <paragraph label="1005-A-7-p45" marker="">
+            <content>If you need more information about our error-resolution procedures, call us at [telephone number] [the telephone number shown above] [or visit [Internet address]].</content>
+          </paragraph>
+          <paragraph label="1005-A-7-c" marker="c">
+            <content>Warning regarding unregistered prepaid.</content>
+          </paragraph>
+          <paragraph label="1005-A-7-c-p1" marker="">
+            <content>It is important to register your prepaid account as soon as possible. Unless you register your account, we may not credit your account in the amount you think is in error until we complete our investigation. To register your account, go to [Internet address] or call us at [telephone number]. We will ask you for identifying information about yourself (including your full name, address, date of birth, and [Social Security Number] [government-issued identification number]), so that we can verify your identity.</content>
+          </paragraph>
         </appendixSection>
     </change>
-    <change operation="added" label="1005-A-10">
-      <appendixSection appendixSecNum="10" label="1005-A-10">
-        <subject>A-10 through A-29 [Reserved]</subject>
+    <change operation="added" label="1005-A-10-a" parent="1005-A" after="1005-A-9">
+      <appendixSection appendixSecNum="10" label="1005-A-10-a">
+        <subject>A-10(a)—Model form for short form disclosures for government benefit accounts (§§ 1005.15(c) and 1005.18(B)(2), (3), (6), and (7))</subject>
+        <paragraph label="1005-A-10-a-p1" marker="">
+          <content>
+            <graphic>
+              <altText/>
+              <text>![](ER22MY13.253)</text>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/1005-2016-24503_20171001-A-10-a.jpg</url>
+            </graphic>
+          </content>            
+        </paragraph>
+      </appendixSection>
+    </change>
+    <change operation="added" label="1005-A-10-b" parent="1005-A" after="1005-A-10-a">
+      <appendixSection appendixSecNum="10" label="1005-A-10-b">
+        <subject>A-10(b)—Model form for short form disclosures for payroll card accounts (§ 1005.18(8)(2), (3), (6), AND (7))</subject>
+        <paragraph label="1005-A-10-b-p1" marker="">
+          <content>
+            <graphic>
+              <altText/>
+              <text>![](ER22MY13.253)</text>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/1005-2016-24503_20171001-A-10-b.jpg</url>
+            </graphic>
+          </content>            
+        </paragraph>
+      </appendixSection>
+    </change>
+    <change operation="added" label="1005-A-10-c" parent="1005-A" after="1005-A-10-b">
+      <appendixSection appendixSecNum="10" label="1005-A-10-c">
+        <subject>A-10(c)—Model form for short form disclosures for prepaid accounts, example 1 (§ 1005.18(B)(2), (3), (6), AND (7))</subject>
+        <paragraph label="1005-A-10-c-p1" marker="">
+          <content>
+            <graphic>
+              <altText/>
+              <text>![](ER22MY13.253)</text>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/1005-2016-24503_20171001-A-10-c.jpg</url>
+            </graphic>
+          </content>            
+        </paragraph>
+      </appendixSection>
+    </change>
+    <change operation="added" label="1005-A-10-d" parent="1005-A" after="1005-A-10-c">
+      <appendixSection appendixSecNum="10" label="1005-A-10-d">
+        <subject>A-10(d)—Model form for short form disclosures for prepaid accounts, example 2 (§ 1005.18(B)(2), (3), (6), AND (7))</subject>
+        <paragraph label="1005-A-10-d-p1" marker="">
+          <content>
+            <graphic>
+              <altText/>
+              <text>![](ER22MY13.253)</text>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/1005-2016-24503_20171001-A-10-d.jpg</url>
+            </graphic>
+          </content>            
+        </paragraph>
+      </appendixSection>
+    </change>
+    <change operation="added" label="1005-A-10-e" parent="1005-A" after="1005-A-10-d">
+      <appendixSection appendixSecNum="10" label="1005-A-10-e">
+        <subject>A-10(e)—Model form for short form disclosures for prepaid accounts with multiple service plans(§ 1005.18(B)(2), (3), (6), and (7))</subject>
+        <paragraph label="1005-A-10-e-p1" marker="">
+          <content>
+            <graphic>
+              <altText/>
+              <text>![](ER22MY13.253)</text>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/1005-2016-24503_20171001-A-10-e.jpg</url>
+            </graphic>
+          </content>            
+        </paragraph>
+      </appendixSection>
+    </change>
+    <change operation="added" label="1005-A-10-f" parent="1005-A" after="1005-A-10-e">
+      <appendixSection appendixSecNum="10" label="1005-A-10-f">
+        <subject>A-10(f)—Sample form for long form disclosures for prepaid accounts (§ 1005.18(B)(4), (6), and (7))</subject>
+        <paragraph label="1005-A-10-f-p1" marker="">
+          <content>
+            <graphic>
+              <altText/>
+              <text>![](ER22MY13.253)</text>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/1005-2016-24503_20171001-A-10-f.jpg</url>
+            </graphic>
+          </content>            
+        </paragraph>
       </appendixSection>
     </change>
     <change operation="added" label="1005-A-11">
