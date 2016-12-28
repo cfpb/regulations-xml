@@ -19,7 +19,7 @@
     <federalRegisterURL>https://www.federalregister.gov/documents/2016/11/30/2016-28699/appraisals-for-higher-priced-mortgage-loans-exemption-threshold</federalRegisterURL>
   </preamble>
 
-  <changeset leftDocumentNumber="2016-14782" rightDocumentNumber="2016-28699">
+  <changeset leftDocumentNumber="2016-14782_20170101" rightDocumentNumber="2016-28699">
 
     <!--  In supplement I to part 1026, under Section 1026.35—Requirements for Higher-Priced Mortgage Loans, the entry for Paragraph 35(c)(2)(ii) is revised to read as follows: -->
     <change operation="modified" label="1026-35-c-2-ii-Interp-1">
@@ -52,7 +52,7 @@
         <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current debt obligations, alimony, and child support in accordance with appendix <ref target="1026-Q" reftype="internal">Q</ref> and paragraphs <ref target="1026-43-c-2-vi" reftype="internal">(c)(2)(vi)</ref> and <ref target="1026-43-c-3" reftype="internal">(c)(3)</ref> of this section; and</content>
       </paragraph>
     </change>
-    <change operation="modified" label="1026-35-c-2-ii-Interp-3">
+    <change operation="added" label="1026-35-c-2-ii-Interp-3">
       <interpParagraph label="1026-35-c-2-ii-Interp-3" marker="3.">
         <title type="keyterm">Threshold.</title>
         <content>For purposes of § 1026.35(c)(2)(ii), the threshold amount in effect during a particular period is the amount stated below for that period.</content>
