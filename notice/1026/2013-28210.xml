@@ -86,8 +86,10 @@
     </change>
     <!-- Section 1026.1 is amended by revising paragraph (b) -->
     <change operation="modified" label="1026-1-b" subpath="content">
+<<<<<<< HEAD
       <content>The purpose of this part is to promote the informed use of <ref target="1026-2-a-12" reftype="term">consumer credit</ref> by requiring disclosures about its terms and cost, to ensure that <ref target="1026-2-a-11" reftype="term">consumers</ref> are provided with greater and more timely information on the nature and costs of the residential real estate settlement process, and to effect certain changes in the settlement process for residential real estate that will result in more effective advance disclosure to home buyers and sellers of settlement costs. The regulation also includes substantive protections. It gives <ref target="1026-2-a-11" reftype="term">consumers</ref> the right to cancel certain <ref target="1026-2-a-14" reftype="term">credit</ref> transactions that involve a lien on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>, regulates certain <ref target="1026-2-a-15-i" reftype="term">credit card</ref> practices, and provides a means for fair and timely resolution of <ref target="1026-2-a-14" reftype="term">credit</ref> billing disputes. The regulation does not generally govern charges for <ref target="1026-2-a-12" reftype="term">consumer credit</ref>, except that several provisions in subpart G set forth special rules addressing certain charges applicable to <ref target="1026-2-a-15-i" reftype="term">credit card</ref> accounts under an open-end (not home-secured) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> plan. The regulation requires a maximum interest rate to be stated in variable-rate contracts secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-19" reftype="term">dwelling</ref>. It also imposes limitations on home-equity plans that are subject to the requirements of § <ref target="1026-40" reftype="internal">1026.40</ref> and mortgages that are subject to the requirements of § <ref target="1026-32" reftype="internal">1026.32</ref>. The regulation prohibits certain <ref target="1026-2-a-1" reftype="term">acts</ref> or practices in connection with <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> in § <ref target="1026-36" reftype="internal">1026.36</ref>, and <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> in § <ref target="1026-35" reftype="internal">1026.35</ref>. The regulation also regulates certain practices of <ref target="1026-2-a-17" reftype="term">creditors</ref> who extend <ref target="1026-46-b-5" reftype="term">private education loans</ref> as defined in § <ref target="1026-46-b-5" reftype="internal">1026.46(b)(5)</ref>. In addition, it imposes certain limitations on increases in costs for mortgage transactions subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>.</content>
-    </change><!-- Section 1026.1 is amended by revising paragraph (c)(5) -->
+    </change>
+    <!-- Section 1026.1 is amended by revising paragraph (c)(5) -->
     <change operation="modified" label="1026-1-c-5">
       <paragraph label="1026-1-c-5" marker="(5)">
         <content>Except in transactions subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, no <ref target="1026-2-a-22" reftype="term">person</ref> is required to provide the disclosures required by sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129D(h), or 129D(j)(1)(A) of the Truth in Lending Act, section 4(c) of the Real Estate Settlement Procedures Act, or the disclosure required prior to settlement by section 129C(h) of the Truth in Lending Act. Except in transactions subject to § <ref target="1026-20-e" reftype="internal">1026.20(e)</ref>, no <ref target="1026-2-a-22" reftype="term">person</ref> is required to provide the disclosure required by section 129D(j)(1)(B) of the Truth in Lending Act. Except in transactions subject to § <ref target="1026-39-d-5" reftype="internal">1026.39(d)(5)</ref>, no <ref target="1026-2-a-22" reftype="term">person</ref> becoming a <ref target="1026-2-a-17" reftype="term">creditor</ref> with respect to an existing residential <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> is required to provide the disclosure required by section 129C(h) of the Truth in Lending Act.</content></paragraph>
@@ -193,6 +195,7 @@
     </change>
     <!-- Section 1026.17 is amended by revising paragraph  (f) introductory text -->
     <change operation="modified" label="1026-17-f" subpath="content">
+<<<<<<< HEAD
       <content>Except for <ref target="1026-46-b-5" reftype="term">private education loan</ref> disclosures made in compliance with § <ref target="1026-47" reftype="internal">1026.47</ref>, if disclosures required by this subpart are given before the date of <ref target="1026-2-a-13" reftype="term">consummation</ref> of a transaction and a subsequent event makes them inaccurate, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose before <ref target="1026-2-a-13" reftype="term">consummation</ref> (subject to the provisions of § <ref target="1026-19-a-2" reftype="internal">1026.19(a)(2)</ref>, <ref target="1026-19-e" reftype="internal">(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>):</content>
     </change><!-- Section 1026.17 is amended by revising paragraph  (g) introductory text -->
     <change operation="modified" label="1026-17-g" subpath="content">
@@ -200,7 +203,8 @@
     </change><!-- Section 1026.17 is amended by revising paragraph  (h) introductory text -->
     <change operation="modified" label="1026-17-h" subpath="content">
       <content>Except for mortgage disclosures made in compliance with § <ref target="1026-19-a" reftype="internal">1026.19(a)</ref> or <ref target="1026-19-e" reftype="internal">(e)</ref>, <ref target="1026-19-f" reftype="internal">(f)</ref>, and <ref target="1026-19-g" reftype="internal">(g)</ref>, if a <ref target="1026-2-a-16" reftype="term">credit sale</ref> is one of a series made under an <ref target="1026-58-b-1" reftype="term">agreement</ref> providing that subsequent sales may be added to an outstanding balance, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may delay the required disclosures until the due date of the first payment for the current sale, if the following two conditions are met:</content>
-    </change><!-- Section 1026.18 is amended by revising the introductory text -->
+    </change>
+    <!-- Section 1026.18 is amended by revising the introductory text -->
     <change operation="modified" label="1026-18-p1" subpath="content">
       <content>For each transaction other than a mortgage transaction subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose the following information as applicable:</content>
     </change>
@@ -230,7 +234,8 @@
       <content>In a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to both § <ref target="1026-33" reftype="internal">1026.33</ref> and the Real Estate Settlement Procedures Act (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.) that is secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-19" reftype="term">dwelling</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall provide the <ref target="1026-2-a-11" reftype="term">consumer</ref> with good faith estimates of the disclosures required by § <ref target="1026-18" reftype="internal">1026.18</ref> and shall deliver or place them in the mail not later than the third <ref target="1026-2-a-6" reftype="term">business day</ref> after the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s written <ref target="1026-2-a-3-i" reftype="term">application</ref>.</content>
     </change><change operation="modified" label="1026-19-a-1-ii" subpath="content">
       <content>Except as provided in paragraph <ref target="1026-19-a-1-iii" reftype="internal">(a)(1)(iii)</ref> of this section, neither a <ref target="1026-2-a-17" reftype="term">creditor</ref> nor any other <ref target="1026-2-a-22" reftype="term">person</ref> may impose a fee on a <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-3-i" reftype="term">application</ref> for a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to paragraph <ref target="1026-19-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section. If the disclosures are mailed to the <ref target="1026-2-a-11" reftype="term">consumer</ref>, the <ref target="1026-2-a-11" reftype="term">consumer</ref> is considered to have received them three <ref target="1026-2-a-6" reftype="term">business days</ref> after they are mailed.</content>
-    </change><!-- Section 1026.19 is amended by removing paragraph (a)(5) -->
+    </change>
+    <!-- Section 1026.19 is amended by removing paragraph (a)(5) -->
     <change operation="deleted" label="1026-19-a-5"/>
     <!-- Section 1026.19 is amended by adding new paragraph (e) -->
     <change operation="added" label="1026-19-e">
@@ -708,7 +713,8 @@
                 <content>If one or more regular periodic payments may be applied only to interest accrued and not to the loan principal, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose that the loan product has an “Interest Only” feature.</content></paragraph>
               <paragraph label="1026-37-a-10-ii-C" marker="(C)">
                 <title type="keyterm">Step payment.</title>
-                <content>If scheduled variations in regular periodic payment amounts occur that are not caused by changes to the interest rate during the <ref target="1026-43-b-6" reftype="term">loan term</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose that the loan product has a “Step Payment” feature.</content></paragraph>
+                <content>If scheduled variations in regular periodic payment amounts occur that are not caused by changes to the interest rate during the <ref target="1026-43-b-6" reftype="term">loan term</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose that the loan product has a “Step Payment” feature.</content>
+	      </paragraph>
               <paragraph label="1026-37-a-10-ii-D" marker="(D)">
                 <title type="keyterm">Balloon payment.</title>
                 <content>If the terms of the legal obligation include a “balloon payment,” as that term is defined in paragraph (b)(5) of this section, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall disclose that the loan has a “Balloon Payment” feature.</content></paragraph>
@@ -1260,7 +1266,8 @@
           </paragraph>
           <paragraph label="1026-37-l-3" marker="(3)">
             <title type="keyterm">Total interest percentage.</title>
-            <content>The total amount of interest that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will pay over the life of the loan, expressed as a percentage of the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended, using the term “Total Interest Percentage,” the abbreviation “TIP,” and the statement “The total amount of interest that you will pay over the <ref target="1026-43-b-6" reftype="term">loan term</ref> as a percentage of your <ref target="1026-43-b-5" reftype="term">loan amount</ref>.”</content></paragraph>
+            <content>The total amount of interest that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will pay over the life of the loan, expressed as a percentage of the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended, using the term “Total Interest Percentage,” the abbreviation “TIP,” and the statement “The total amount of interest that you will pay over the <ref target="1026-43-b-6" reftype="term">loan term</ref> as a percentage of your <ref target="1026-43-b-5" reftype="term">loan amount</ref>.”</content>
+	  </paragraph>
         </paragraph>
         <paragraph label="1026-37-m" marker="(m)">
           <title type="keyterm">Other considerations.</title>
@@ -1303,7 +1310,8 @@
           <paragraph label="1026-37-n-1" marker="(1)">
             <content>At the <ref target="1026-2-a-17" reftype="term">creditor</ref>’s option, under the master heading required by paragraph (k) of this section and under the heading “Confirm Receipt,” a line for the signatures of the <ref target="1026-2-a-11" reftype="term">consumers</ref> in the transaction. If the <ref target="1026-2-a-17" reftype="term">creditor</ref> includes a line for the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s signature, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must disclose the following above the signature line: “By signing, you are only confirming that you have received this form. You do not have to accept this loan because you have signed or received this form.”</content></paragraph>
           <paragraph label="1026-37-n-2" marker="(2)">
-            <content>If the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not include a line for the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s signature, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must disclose the following statement under the heading “Other Considerations” required by paragraph (m) of this section, labeled “Loan Acceptance”: “You do not have to accept this loan because you have received this form or signed a loan <ref target="1026-2-a-3-i" reftype="term">application</ref>.”</content></paragraph>
+            <content>If the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not include a line for the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s signature, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must disclose the following statement under the heading “Other Considerations” required by paragraph (m) of this section, labeled “Loan Acceptance”: “You do not have to accept this loan because you have received this form or signed a loan <ref target="1026-2-a-3-i" reftype="term">application</ref>.”</content>
+	  </paragraph>
         </paragraph>
         <paragraph label="1026-37-o" marker="(o)">
           <title type="keyterm">Form of disclosures—</title>
@@ -1707,7 +1715,7 @@
               <content>Under the subheading “Did this change?,” disclosed more prominently than the other disclosures under this paragraph (i)(1):</content>
               <paragraph label="1026-38-i-1-iii-A" marker="(A)">
                 <content>If the amount disclosed under paragraph (i)(1)(ii) of this section is different than the amount disclosed under paragraph (i)(1)(i) of this section (unless the difference is due to rounding):</content>
-                <paragraph label="1026-38-g-1-i-A-1" marker="(1)">
+                <paragraph label="1026-38-i-1-i-A-1" marker="(1)">
                   <content>A statement of that fact;</content>
                 </paragraph>
                 <paragraph label="1026-38-g-1-iii-A-2" marker="(2)">
@@ -2101,7 +2109,8 @@
                 <content>A statement of whether the <ref target="1026-2-a-11" reftype="term">consumer</ref> will not have an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>, the reason why an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> will not be established, a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> must pay all property costs, such as taxes and homeowner’s insurance, directly, a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> may contact the <ref target="1026-2-a-17" reftype="term">creditor</ref> to inquire about the availability of an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>, and a table, titled “No Escrow,” that contains, if an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> will not be established, an itemization of the following:</content><paragraph label="1026-38-l-7-i-B-1" marker="(1)">
                   <content>The estimated total amount the <ref target="1026-2-a-11" reftype="term">consumer</ref> will pay directly for charges described in § <ref target="1026-37-c-4-ii" reftype="internal">1026.37(c)(4)(ii)</ref> during the first year after <ref target="1026-2-a-13" reftype="term">consummation</ref> that are known to the <ref target="1026-2-a-17" reftype="term">creditor</ref> and a statement that, without an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref>, the <ref target="1026-2-a-11" reftype="term">consumer</ref> must pay the identified costs, possibly in one or two large payments, labeled “Property Costs over Year 1”; and</content></paragraph>
                 <paragraph label="1026-38-l-7-i-B-2" marker="(2)">
-                  <content>The amount of any fee the <ref target="1026-2-a-17" reftype="term">creditor</ref> imposes on the <ref target="1026-2-a-11" reftype="term">consumer</ref> for not establishing an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> in connection with the transaction, labeled “Escrow Waiver Fee.”</content></paragraph>
+                  <content>The amount of any fee the <ref target="1026-2-a-17" reftype="term">creditor</ref> imposes on the <ref target="1026-2-a-11" reftype="term">consumer</ref> for not establishing an <ref target="1026-35-b-3-iv" reftype="term">escrow account</ref> in connection with the transaction, labeled “Escrow Waiver Fee.”</content>
+		</paragraph>
               </paragraph>
             </paragraph>
             <paragraph label="1026-38-l-7-ii" marker="(ii)">
@@ -2342,9 +2351,9 @@
       </paragraph>
     </change><!-- Section 1026.39 is amended by revising (d) introductory text -->
     <change operation="modified" label="1026-39-d" subpath="content">
-
       <content>The disclosures required by this section shall identify the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> that was sold, assigned or otherwise transferred, and state the following, except that the information required by paragraph <ref target="1026-39-d-5" reftype="internal">(d)(5)</ref> of this section shall be stated only for a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> that is a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> or real property other than a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-333" reftype="internal">1026.33</ref> of this part:</content>
-    </change><!-- Section 1026.39 is amended by adding paragraph (d)(5) -->
+    </change>
+    <!-- Section 1026.39 is amended by adding paragraph (d)(5) -->
     <change operation="added" label="1026-39-d-5">
       <paragraph label="1026-39-d-5" marker="(5)">
         <title type="keyterm">Partial payment policy.</title>
@@ -2678,8 +2687,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.004)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.004.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.004.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.004.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.004.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2694,8 +2703,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.005)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.005.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.005.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.005.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.005.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2713,8 +2722,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.006)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.006.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.006.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.006.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.006.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2723,8 +2732,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.007)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.007.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.007.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.007.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.007.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2733,8 +2742,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.008)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.008.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.008.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.008.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.008.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2743,8 +2752,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.009)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.009.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.009.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.009.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.009.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2753,8 +2762,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.010)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.010.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.010.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.010.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.010.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2763,8 +2772,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.011)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.011.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.011.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.011.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.011.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2773,8 +2782,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.012)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.012.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.012.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.012.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.012.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2783,8 +2792,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.013)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.013.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.013.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.013.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.013.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2793,8 +2802,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.014)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.014.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.014.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.014.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.014.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2803,8 +2812,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.015)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.015.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.015.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.015.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.015.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2819,8 +2828,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.016)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.016.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.016.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.016.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.016.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2829,8 +2838,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.017)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.017.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.017.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.017.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.017.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2839,8 +2848,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.018)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.018.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.018.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.018.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.018.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2855,8 +2864,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.019)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.019.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.019.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.019.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.019.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2865,8 +2874,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.020)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.020.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.020.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.020.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.020.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2875,8 +2884,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.021)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.021.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.021.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.021.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.021.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2891,8 +2900,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.022)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.022.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.022.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.022.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.022.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2901,8 +2910,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.023)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.023.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.023.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.023.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.023.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2911,8 +2920,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.024)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.024.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.024.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.024.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.024.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2928,8 +2937,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.025)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.025.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.025.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.025.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.025.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2944,8 +2953,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.026)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.026.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.026.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.026.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.026.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2962,8 +2971,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.027)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.027.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.027.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.027.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.027.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2972,8 +2981,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.027)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.027.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.027.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.027.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.027.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2982,8 +2991,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.027)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.027.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.027.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.027.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.027.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -2992,8 +3001,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.030)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.030.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.030.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.030.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.030.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3002,8 +3011,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.031)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.031.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.031.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.031.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.031.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3012,8 +3021,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.032)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.032.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.032.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.032.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.032.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3022,8 +3031,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.033)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.033.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.033.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.033.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.033.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3032,8 +3041,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.034)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.034.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.034.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.034.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.034.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3042,8 +3051,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.035)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.035.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.035.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.035.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.035.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3059,8 +3068,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.036)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.036.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.036.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.036.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.036.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3069,8 +3078,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.037)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.037.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.037.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.037.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.037.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3079,8 +3088,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.038)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.038.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.038.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.038.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.038.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3089,8 +3098,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.039)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.039.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.039.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.039.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.039.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3099,8 +3108,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.040)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.040.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.040.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.040.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.040.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3109,8 +3118,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.041)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.041.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.041.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.041.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.041.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3119,8 +3128,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.042)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.042.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.042.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.042.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.042.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3129,8 +3138,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.043)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.043.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.043.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.043.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.043.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3139,8 +3148,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.044)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.044.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.044.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.044.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.044.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3149,8 +3158,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.045)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.045.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.045.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.045.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.045.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3159,8 +3168,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.046)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.046.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.046.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.046.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.046.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3169,8 +3178,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.047)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.047.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.047.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.047.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.047.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3179,8 +3188,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.048)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.048.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.048.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.048.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.048.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3189,8 +3198,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.049)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.049.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.049.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.049.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.049.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3206,8 +3215,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.050)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.050.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.050.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.050.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.050.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3216,8 +3225,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.051)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.051.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.051.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.051.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.051.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3226,8 +3235,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.052)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.052.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.052.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.052.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.052.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3236,8 +3245,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.053)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.053.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.053.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.053.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.053.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3246,8 +3255,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.054)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.054.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.054.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.054.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.054.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3262,8 +3271,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.055)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.055.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.055.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.055.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.055.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3279,8 +3288,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.056)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.056.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.056.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.056.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.056.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3296,8 +3305,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.057)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.057.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.057.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.057.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.057.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3306,8 +3315,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.058)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.058.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.058.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.058.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.058.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3316,8 +3325,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.059)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.059.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.059.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.059.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.059.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3326,8 +3335,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.060)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.060.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.060.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.060.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.060.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3336,8 +3345,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.061)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.061.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.061.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.061.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.061.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3352,8 +3361,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.062)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.062.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.062.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.062.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.062.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3369,8 +3378,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.063)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.063.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.063.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.063.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.063.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3379,8 +3388,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.064)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.064.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.064.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.064.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.064.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3389,8 +3398,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.065)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.065.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.065.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.065.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.065.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3399,8 +3408,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.066)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.066.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.066.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.066.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.066.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3409,8 +3418,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.067)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.067.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.067.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.067.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.067.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3427,8 +3436,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.068)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.068.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.068.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.068.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.068.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3437,8 +3446,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.069)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.069.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.069.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.069.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.069.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3455,8 +3464,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.070)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.070.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.070.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.070.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.070.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3465,8 +3474,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.071)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.071.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.071.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.071.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.071.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3483,8 +3492,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.072)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.072.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.072.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.072.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.072.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3493,8 +3502,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.073)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.073.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.073.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.073.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.073.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3503,8 +3512,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.074)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.074.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.074.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.074.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.074.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3513,8 +3522,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.075)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.075.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.075.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.075.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.075.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3523,8 +3532,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.076)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.076.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.076.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.076.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.076.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3533,8 +3542,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.077)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.077.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.077.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.077.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.077.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3543,8 +3552,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.078)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.078.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.078.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.078.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.078.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3553,8 +3562,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.079)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.079.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.079.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.079.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.079.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3563,8 +3572,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.080)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.080.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.080.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.080.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.080.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3573,8 +3582,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.081)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.081.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.081.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.081.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.081.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3583,8 +3592,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.082)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.082.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.082.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.082.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.082.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3593,8 +3602,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.083)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.083.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.083.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.083.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.083.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3610,8 +3619,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.084)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.084.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.084.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.084.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.084.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3627,8 +3636,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.085)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.085.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.085.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.085.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.085.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3645,8 +3654,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.086)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.086.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.086.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.086.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.086.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3662,8 +3671,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.087)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.087.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.087.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.087.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.087.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3680,8 +3689,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.088)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.088.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.088.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.088.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.088.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3690,8 +3699,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.089)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.089.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.089.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.089.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.089.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3700,8 +3709,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.090)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.090.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.090.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.090.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.090.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3710,8 +3719,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.091)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.091.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.091.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.091.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.091.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3720,8 +3729,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.092)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.092.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.092.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.092.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.092.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3730,8 +3739,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.093)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.093.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.093.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.093.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.093.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3740,8 +3749,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.094)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.094.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.094.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.094.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.094.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3750,8 +3759,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.095)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.095.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.095.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.095.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.095.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3760,8 +3769,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.096)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.096.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.096.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.096.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.096.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3770,8 +3779,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.097)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.097.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.097.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.097.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.097.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3788,8 +3797,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.098)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.098.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.098.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.098.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.098.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3798,8 +3807,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.099)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.099.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.099.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.099.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.099.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3808,8 +3817,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.100)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.100.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.100.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.100.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.100.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3825,8 +3834,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.101)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.101.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.101.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.101.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.101.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3835,8 +3844,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.102)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.102.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.102.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.102.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.102.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3845,8 +3854,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.103)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.103.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.103.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.103.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.103.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3863,8 +3872,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.104)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.104.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.104.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.104.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.104.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3880,8 +3889,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.105)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.105.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.105.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.105.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.105.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3898,8 +3907,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.106)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.106.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.106.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.106.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.106.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3908,8 +3917,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.107)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.107.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.107.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.107.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.107.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3918,8 +3927,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.108)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.108.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.108.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.108.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.108.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3928,8 +3937,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.109)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.109.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.109.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.109.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.109.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3938,8 +3947,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.110)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.110.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.110.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.110.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.110.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3948,8 +3957,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.111)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.111.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.111.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.111.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.111.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3958,8 +3967,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.112)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.112.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.112.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.112.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.112.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3968,8 +3977,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.113)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.113.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.113.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.113.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.113.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3978,8 +3987,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.114)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.114.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.114.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.114.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.114.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3988,8 +3997,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.115)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.115.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.115.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.115.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.115.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -3998,8 +4007,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.116)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.116.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.116.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.116.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.116.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4008,8 +4017,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.117)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.117.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.117.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.117.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.117.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4018,8 +4027,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.118)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.118.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.118.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.118.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.118.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4028,8 +4037,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.119)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.119.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.119.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.119.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.119.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4038,8 +4047,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.120)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.120.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.120.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.120.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.120.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4056,8 +4065,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.121)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.121.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.121.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.121.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.121.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4066,8 +4075,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.122)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.122.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.122.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.122.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.122.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4076,8 +4085,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.123)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.123.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.123.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.123.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.123.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4086,8 +4095,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.124)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.124.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.124.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.124.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.124.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4096,8 +4105,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.125)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.125.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.125.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.125.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.125.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4106,8 +4115,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.126)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.126.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.126.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.126.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.126.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4124,8 +4133,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.127)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.127.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.127.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.127.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.127.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4134,8 +4143,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.128)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.128.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.128.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.128.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.128.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4144,8 +4153,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.129)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.129.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.129.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.129.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.129.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4154,8 +4163,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.130)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.130.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.130.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.130.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.130.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4164,8 +4173,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.131)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.131.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.131.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.131.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.131.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4174,8 +4183,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.132)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.132.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.132.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.132.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.132.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4192,8 +4201,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.133)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.133.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.133.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.133.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.133.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4202,8 +4211,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.134)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.134.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.134.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.134.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.134.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4212,8 +4221,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.135)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.135.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.135.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.135.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.135.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4222,8 +4231,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.136)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.136.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.136.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.136.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.136.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4232,8 +4241,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.137)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.137.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.137.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.137.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.137.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4242,8 +4251,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.138)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.138.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.138.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.138.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.138.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4252,8 +4261,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.139)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.139.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.139.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.139.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.139.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4262,8 +4271,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.140)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.140.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.140.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.140.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.140.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4272,8 +4281,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.141)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.141.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.141.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.141.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.141.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4290,8 +4299,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.142)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.142.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.142.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.142.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.142.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4300,8 +4309,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.143)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.143.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.143.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.143.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.143.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4310,8 +4319,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.144)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.144.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.144.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.144.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.144.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4320,8 +4329,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.145)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.145.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.145.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.145.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.145.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4330,8 +4339,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.146)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.146.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.146.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.146.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.146.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4340,8 +4349,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.147)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.147.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.147.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.147.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.147.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4350,8 +4359,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.148)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.148.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.148.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.148.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.148.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4360,8 +4369,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.149)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.149.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.149.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.149.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.149.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4370,8 +4379,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.150)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.150.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.150.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.150.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.150.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4380,8 +4389,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.151)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.151.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.151.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.151.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.151.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4390,8 +4399,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.152)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.152.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.152.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.152.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.152.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4400,8 +4409,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.153)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.153.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.153.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.153.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.153.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4410,8 +4419,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.154)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.154.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.154.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.154.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.154.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4420,8 +4429,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.155)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.155.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.155.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.155.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.155.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
@@ -4438,8 +4447,8 @@
             <graphic>
               <altText/>
               <text>![](ER31DE13.156)</text>
-              <url>http://files.consumerfinance.gov/eregulations/ER31DE13.156.png</url>
-              <thumbUrl>http://files.consumerfinance.gov/eregulations/ER31DE13.156.thumb.png</thumbUrl>
+              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.156.png</url>
+              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/ER31DE13.156.thumb.png</thumbUrl>
             </graphic>
           </content>
         </paragraph>
