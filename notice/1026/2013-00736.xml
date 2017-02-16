@@ -130,17 +130,15 @@
     
     <!-- Section 1026.25: Revising paragraph (a) -->
     <change operation="modified" label="1026-25-a" subpath="content">
-      <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with this regulation, other than advertising requirements under §§ <ref target="1026-16" reftype="internal">1026.16</ref> and <ref target="1026-24" reftype="internal">1026.24</ref> and certain requirements for mortgage loans under paragraph <ref target="1026-25-c" reftype="internal">(c)</ref> of this section, for two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing the regulation may require a <ref target="1026-2-a-17" reftype="term">creditor</ref> under their jurisdictions to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 108 of <ref target="USC:12-2601" reftype="external">the Act</ref>.</content>
-    </change>
-
-    <!-- Section 1026.25: Adding and reserving paragraphs (c)(1) and (c)(2). -->
+      <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with this regulation, other than advertising requirements under §§ <ref target="1026-16" reftype="internal">1026.16</ref> and <ref target="1026-24" reftype="internal">1026.24</ref> and certain requirements for <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> under paragraph <ref target="1026-25-c" reftype="internal">(c)</ref> of this section, for two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing the regulation may require a <ref target="1026-2-a-17" reftype="term">creditor</ref> under their jurisdictions to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 108 of <ref target="USC:12-2601" reftype="external">the Act</ref>.</content>
+    </change><!-- Section 1026.25: Adding and reserving paragraphs (c)(1) and (c)(2). -->
     <!-- 2013-22752 changes the effective dates from 20140110 to 20140101 for: -->
     <!-- amendments to §§ 1026.25(c)(2); (c)(1) is reserved there as well -->
     <!-- Section 1026.25: Adding paragraph (c)(3).  -->
     <change operation="added" label="1026-25-c-3">
       <paragraph label="1026-25-c-3" marker="(3)">
         <title type="keyterm">Records related to minimum standards for transactions secured by a dwelling.</title>
-        <content>Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with &#167; <ref target="1026-43" reftype="internal">1026.43</ref> of this regulation for three years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a transaction covered by that section.</content>
+        <content>Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with § <ref target="1026-43" reftype="internal">1026.43</ref> of this regulation for three years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a transaction covered by that section.</content>
       </paragraph>
     </change>
 
@@ -238,7 +236,7 @@
           <paragraph label="1026-32-b-1-i-D" marker="(D)">
             <content>Any bona fide third-party charge not retained by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either, unless the charge is required to be included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under paragraph <ref target="1026-32-b-1-i-C" reftype="internal">(b)(1)(i)(C)</ref>, <ref target="1026-32-b-1-iii" reftype="internal">(iii)</ref>, or <ref target="1026-32-b-1-iv" reftype="internal">(iv)</ref> of this section;</content></paragraph>
           <paragraph label="1026-32-b-1-i-E" marker="(E)">
-            <content>Up to two bona fide discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the transaction, if the interest rate without any discount does not exceed:</content>
+            <content>Up to two <ref target="1026-32-b-3-i" reftype="term">bona fide discount points</ref> paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the transaction, if the interest rate without any discount does not exceed:</content>
             <paragraph label="1026-32-b-1-i-E-1" marker="(1)">
               <content>The <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref>, as defined in § <ref target="1026-35-a-2" reftype="internal">1026.35(a)(2)</ref>, by more than one percentage point; or</content></paragraph>
             <paragraph label="1026-32-b-1-i-E-2" marker="(2)">
@@ -246,7 +244,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-32-b-1-i-F" marker="(F)">
-            <content>If no discount points have been excluded under paragraph <ref target="1026-32-b-1-i-E" reftype="internal">(b)(1)(i)(E)</ref> of this section, then up to one bona fide discount point paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the transaction, if the interest rate without any discount does not exceed:</content>
+            <content>If no discount points have been excluded under paragraph <ref target="1026-32-b-1-i-E" reftype="internal">(b)(1)(i)(E)</ref> of this section, then up to one <ref target="1026-32-b-3-i" reftype="term">bona fide discount point</ref> paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the transaction, if the interest rate without any discount does not exceed:</content>
             <paragraph label="1026-32-b-1-i-F-1" marker="(1)">
               <content>The <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref>, as defined in § <ref target="1026-35-a-2" reftype="internal">1026.35(a)(2)</ref>, by more than two percentage points; or</content></paragraph>
             <paragraph label="1026-32-b-1-i-F-2" marker="(2)">
@@ -271,14 +269,12 @@
         <paragraph label="1026-32-b-1-iv" marker="(iv)">
           <content>Premiums or other charges payable at or before <ref target="1026-2-a-13" reftype="term">consummation</ref> for any <ref target="1026-2-a-14" reftype="term">credit</ref> life, <ref target="1026-2-a-14" reftype="term">credit</ref> disability, <ref target="1026-2-a-14" reftype="term">credit</ref> unemployment, or <ref target="1026-2-a-14" reftype="term">credit</ref> property insurance, or any other life, accident, health, or loss-of-income insurance for which the <ref target="1026-2-a-17" reftype="term">creditor</ref> is a beneficiary, or any payments directly or indirectly for any debt cancellation or suspension <ref target="1026-58-b-1" reftype="term">agreement</ref> or contract;</content></paragraph>
         <paragraph label="1026-32-b-1-v" marker="(v)">
-          <content>The maximum prepayment penalty, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> of this section, that may be charged or collected under the terms of the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref>; and</content></paragraph>
+          <content>The maximum <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> of this section, that may be charged or collected under the terms of the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref>; and</content></paragraph>
         <paragraph label="1026-32-b-1-vi" marker="(vi)">
-          <content>The total prepayment penalty, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> of this section, incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> refinances the existing <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> with the current holder of the existing loan, a servicer acting on behalf of the current holder, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either.</content>
+          <content>The total <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in paragraph <ref target="1026-32-b-6-i" reftype="internal">(b)(6)(i)</ref> of this section, incurred by the <ref target="1026-2-a-11" reftype="term">consumer</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> refinances the existing <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> with the current holder of the existing loan, a servicer acting on behalf of the current holder, or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of either.</content>
         </paragraph>
       </paragraph>
-    </change>
-
-    <!-- Section 1026.32: Removing and reserving paragraph (b)(2) -->
+    </change><!-- Section 1026.32: Removing and reserving paragraph (b)(2) -->
     <change operation="modified" label="1026-32-b-2">
       <paragraph label="1026-32-b-2" marker="(2)">
         <content>[Reserved]</content>

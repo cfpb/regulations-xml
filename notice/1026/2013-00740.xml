@@ -22,11 +22,9 @@
     <!-- Section 1026.1 is amended by revising paragraph (d)(5) -->
     <change operation="modified" label="1026-1-d-5">
       <paragraph label="1026-1-d-5" marker="(5)">
-        <content>Subpart E contains special rules for mortgage transactions. Section <ref target="1026-32" reftype="internal">1026.32</ref> requires certain disclosures and provides limitations for <ref target="1026-2-a-14" reftype="term">credit</ref> transactions and open-end <ref target="1026-2-a-14" reftype="term">credit</ref> plans that have rates or fees above specified amounts or certain prepayment penalties. Section <ref target="1026-33" reftype="internal">1026.33</ref> requires special disclosures, including the total annual loan cost rate, for <ref target="1026-33-a" reftype="term">reverse mortgage transactions</ref>. Section <ref target="1026-34" reftype="internal">1026.34</ref> prohibits specific acts and practices in connection with high-cost mortgages, as defined in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>. Section <ref target="1026-35" reftype="internal">1026.35</ref> prohibits specific acts and practices in connection with closed-end <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref>, as defined in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Section <ref target="1026-36" reftype="internal">1026.36</ref> prohibits specific acts and practices in connection with an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>.</content>
+        <content>Subpart E contains special rules for mortgage transactions. Section <ref target="1026-32" reftype="internal">1026.32</ref> requires certain disclosures and provides limitations for <ref target="1026-2-a-14" reftype="term">credit</ref> transactions and open-end <ref target="1026-2-a-14" reftype="term">credit</ref> plans that have rates or fees above specified amounts or certain <ref target="1026-32-b-6-i" reftype="term">prepayment penalties</ref>. Section <ref target="1026-33" reftype="internal">1026.33</ref> requires special disclosures, including the total annual loan cost rate, for <ref target="1026-33-a" reftype="term">reverse mortgage transactions</ref>. Section <ref target="1026-34" reftype="internal">1026.34</ref> prohibits specific acts and practices in connection with high-cost mortgages, as defined in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>. Section <ref target="1026-35" reftype="internal">1026.35</ref> prohibits specific acts and practices in connection with closed-end <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref>, as defined in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Section <ref target="1026-36" reftype="internal">1026.36</ref> prohibits specific acts and practices in connection with an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>.</content>
       </paragraph>
-    </change>
-
-    <!-- Section 1026.31 is amended by revising paragraph (c)(1) -->
+    </change><!-- Section 1026.31 is amended by revising paragraph (c)(1) -->
     <change operation="modified" label="1026-31-c-1">
       <paragraph label="1026-31-c-1" marker="(1)">
         <title type="keyterm">Disclosures for high-cost mortgages.</title>
@@ -497,7 +495,7 @@
         <content/>
         <paragraph label="1026-36-k-1" marker="(1)">
           <title>Counseling required.</title>
-          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not extend <ref target="1026-2-a-14" reftype="term">credit</ref> to a first-time borrower in connection with a closed-end transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § 1026.33 or a transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in 11 U.S.C. 101(53D), that may result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, unless the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives documentation that the <ref target="1026-2-a-11" reftype="term">consumer</ref> has obtained homeownership counseling from a counseling organization or counselor certified or approved by the U.S. Department of Housing and Urban Development to provide such counseling.</content></paragraph>
+          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not extend <ref target="1026-2-a-14" reftype="term">credit</ref> to a <ref target="1026-36-k-2-i" reftype="term">first-time borrower</ref> in connection with a closed-end transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § 1026.33 or a transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in 11 U.S.C. 101(53D), that may result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, unless the <ref target="1026-2-a-17" reftype="term">creditor</ref> receives documentation that the <ref target="1026-2-a-11" reftype="term">consumer</ref> has obtained homeownership counseling from a counseling organization or counselor certified or approved by the U.S. Department of Housing and Urban Development to provide such counseling.</content></paragraph>
         <paragraph label="1026-36-k-2" marker="(2)">
           <title>Definitions.</title>
           <content>For the purposes of this paragraph (k), the following definitions apply:</content>
@@ -509,12 +507,10 @@
         </paragraph>
         <paragraph label="1026-36-k-3" marker="(3)">
           <title>Steering prohibited.</title>
-          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> that extends <ref target="1026-2-a-14" reftype="term">credit</ref> to a first-time borrower in connection with a closed-end transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § 1026.33 or a transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in 11 U.S.C. 101(53D), that may result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref> shall not steer or otherwise direct a <ref target="1026-2-a-11" reftype="term">consumer</ref> to choose a particular counselor or counseling organization for the counseling required under this paragraph (k).</content>
+          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> that extends <ref target="1026-2-a-14" reftype="term">credit</ref> to a <ref target="1026-36-k-2-i" reftype="term">first-time borrower</ref> in connection with a closed-end transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § 1026.33 or a transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in 11 U.S.C. 101(53D), that may result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref> shall not steer or otherwise direct a <ref target="1026-2-a-11" reftype="term">consumer</ref> to choose a particular counselor or counseling organization for the counseling required under this paragraph (k).</content>
         </paragraph>
       </paragraph>
-    </change>
-
-    <!-- Interpretations -->
+    </change><!-- Interpretations -->
 
     <!-- Under 31(c)(1), the heading is revised. -->
     <!-- Under newly designated 31(c)(1), paragraph 1 is revised. -->
@@ -974,9 +970,8 @@
 
     <!-- Under 32(d)(1)(i) Balloon payment, paragraph 1 is revised and paragraphs 2 and 3 are added. -->
     <change operation="modified" label="1026-32-d-1-i-Interp-1" subpath="content">
-      <content>The repayment schedule for a high-cost mortgage must fully amortize the outstanding principal balance through “regular periodic payments.” A payment is a “regular periodic payment” if it is not more than two times the amount of other payments. For purposes of open-end credit plans, the term “regular periodic payment” or “periodic payment” means the required minimum periodic payment.</content>
-    </change>
-    <change operation="added" label="1026-32-d-1-i-Interp-2">
+      <content>The repayment schedule for a high-cost mortgage must fully amortize the outstanding principal balance through “regular periodic payments.” A payment is a “regular periodic payment” if it is not more than two times the amount of other payments. For purposes of <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plans, the term “regular periodic payment” or “periodic payment” means the required minimum periodic payment.</content>
+    </change><change operation="added" label="1026-32-d-1-i-Interp-2">
       <interpParagraph label="1026-32-d-Interp-2" marker="2.">
         <title type="keyterm">Repayment period.</title>
         <content>If the terms of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan provide for a repayment period during which no further draws may be taken, the limitations in § <ref target="1026-32-d-1-i" reftype="internal">1026.32(d)(1)(i)</ref> apply to regular periodic payments required by the <ref target="1026-2-a-14" reftype="term">credit</ref> plan during the draw period, but do not apply to any adjustment in the regular periodic payment that results from the transition from the <ref target="1026-2-a-14" reftype="term">credit</ref> plan’s draw period to its repayment period. Further, the limitation on balloon payments in § <ref target="1026-32-d-1-i" reftype="internal">1026.32(d)(1)(i)</ref> does not preclude increases in regular periodic payments that result solely from the initial draw or additional draws on the <ref target="1026-2-a-14" reftype="term">credit</ref> line during the draw period.</content></interpParagraph>
@@ -989,10 +984,8 @@
 
     <!-- Under 32(d)(2) Negative Amortization, paragraph 1 is revised. -->
     <change operation="modified" label="1026-32-d-2-Interp-1" subpath="content">
-      <content>The prohibition against negative amortization in a high-cost mortgage does not preclude reasonable increases in the principal balance that result from events permitted by the legal obligation unrelated to the payment schedule. For example, when a consumer fails to obtain property insurance and the creditor purchases insurance, the creditor may add a reasonable premium to the consumer’s principal balance, to the extent permitted by applicable law and the consumer’s legal obligation.</content>
-    </change>
-    
-    <!-- 32(d)(6) Prepayment Penalties and paragraph 1 are removed. -->
+      <content>The prohibition against <ref target="1026-36-k-2-ii" reftype="term">negative amortization</ref> in a high-cost mortgage does not preclude reasonable increases in the principal balance that result from events permitted by the legal obligation unrelated to the payment schedule. For example, when a <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to obtain property insurance and the <ref target="1026-2-a-17" reftype="term">creditor</ref> purchases insurance, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may add a reasonable premium to the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s principal balance, to the extent permitted by applicable law and the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s legal obligation.</content>
+    </change><!-- 32(d)(6) Prepayment Penalties and paragraph 1 are removed. -->
     <change operation="deleted" label="1026-32-d-6-Interp"/>
     
     <!-- 32(d)(7) Prepayment Penalty Exception, Paragraph 32(d)(7)(iii) and paragraphs 1, 2, and 3, and Paragraph 32(d)(7)(iv) and paragraphs 1 and 2 are removed. -->
@@ -1393,7 +1386,7 @@
             <content>Examples of documentation that demonstrate a <ref target="1026-2-a-11" reftype="term">consumer</ref> has received the counseling required under § <ref target="1026-36-k" reftype="internal">1026.36(k)</ref> include a certificate of counseling, letter, or email from a HUD-certified or -approved counselor or counseling organization indicating that the <ref target="1026-2-a-11" reftype="term">consumer</ref> has received homeownership counseling.</content></interpParagraph>
           <interpParagraph label="1026-36-k-1-Interp-4" marker="4.">
             <title>Processing applications.</title>
-            <content>Prior to receiving documentation that a <ref target="1026-2-a-11" reftype="term">consumer</ref> has received the counseling required under § <ref target="1026-36-k" reftype="internal">1026.36(k)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend <ref target="1026-2-a-14" reftype="term">credit</ref> to a first-time borrower in connection with a closed-end transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> that may result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, but may engage in other activities, such as processing an application for such a transaction (by, for example, ordering an appraisal or title search).</content></interpParagraph>
+            <content>Prior to receiving documentation that a <ref target="1026-2-a-11" reftype="term">consumer</ref> has received the counseling required under § <ref target="1026-36-k" reftype="internal">1026.36(k)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not extend <ref target="1026-2-a-14" reftype="term">credit</ref> to a <ref target="1026-36-k-2-i" reftype="term">first-time borrower</ref> in connection with a closed-end transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> that may result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, but may engage in other activities, such as processing an application for such a transaction (by, for example, ordering an appraisal or title search).</content></interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-36-k-3-Interp" target="1026-36-k-3">
           <title>36(k)(3) Steering prohibited.</title>
@@ -1403,9 +1396,7 @@
           </interpParagraph>
         </interpParagraph>
       </interpParagraph>
-    </change>
-    
-    <!-- end of notice --> 
+    </change><!-- end of notice --> 
    
   </changeset>
 </notice>

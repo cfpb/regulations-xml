@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -30,44 +29,38 @@
           <content>The first interest rate adjustment to an ARM if the first payment at the adjusted level is due within 210 days after <ref target="1026-2-a-13" reftype="term">consummation</ref> and the new interest rate disclosed at <ref target="1026-2-a-13" reftype="term">consummation</ref> pursuant to § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref> was not an estimate; or</content>
         </paragraph>
         <paragraph label="1026-20-c-1-ii-C" marker="(C)">
-          <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee or servicer of an adjustable-rate mortgage when the servicer on the loan is subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) with regard to the loan and the consumer has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).</content>
+          <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee or servicer of an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> when the servicer on the loan is subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) with regard to the loan and the <ref target="1026-2-a-11" reftype="term">consumer</ref> has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).</content>
         </paragraph>
       </paragraph>
-    </change>
-    <change operation="modified" label="1026-34-a-5-ii">
+    </change><change operation="modified" label="1026-34-a-5-ii">
       <paragraph label="1026-34-a-5-ii" marker="(ii)">
         <title>Timing of counseling.</title>
         <content>The counseling required under this paragraph (a)(5) must occur after:</content>
         <paragraph label="1026-34-a-5-ii-A" marker="(A)">
-          <content>The consumer receives either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by § 1026.40; or</content>
+          <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> receives either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by § 1026.40; or</content>
         </paragraph>
         <paragraph label="1026-34-a-5-ii-B" marker="(B)">
-          <content>The consumer receives the disclosures required by § 1026.32(c), for transactions in which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided.</content>
+          <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref> receives the disclosures required by § 1026.32(c), for transactions in which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided.</content>
         </paragraph>
       </paragraph>
-    </change>
-    <change operation="modified" label="1026-34-a-5-iv-D">
+    </change><change operation="modified" label="1026-34-a-5-iv-D">
       <paragraph label="1026-34-a-5-iv-D" marker="(D)">
-        <content>A statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by § 1026.40.</content>
+        <content>A statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref>(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by § 1026.40.</content>
       </paragraph>
-    </change>
-    <change operation="modified" label="1026-34-a-5-iv-E">
+    </change><change operation="modified" label="1026-34-a-5-iv-E">
       <paragraph label="1026-34-a-5-iv-E" marker="(E)">
-        <content>For transactions for which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided, a statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by § 1026.32(c); and</content>
+        <content>For transactions for which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided, a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref>(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by § 1026.32(c); and</content>
       </paragraph>
-    </change>
-    <change operation="added" label="1026-34-a-5-iv-F" parent="1026-34-a-5-iv" after="1026-34-a-5-iv-E">
+    </change><change operation="added" label="1026-34-a-5-iv-F" parent="1026-34-a-5-iv" after="1026-34-a-5-iv-E">
       <paragraph label="1026-34-a-5-iv-F" marker="(F)">
-        <content>A statement that the counselor has verified that the consumer(s) received the disclosures required by either § 1026.32(c) or the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.) with respect to the transaction.</content>
+        <content>A statement that the counselor has verified that the <ref target="1026-2-a-11" reftype="term">consumer</ref>(s) received the disclosures required by either § 1026.32(c) or the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.) with respect to the transaction.</content>
       </paragraph>
-    </change>
-    <change operation="added" label="1026-41-e-5" parent="1026-41-e" after="1026-41-e-4">
+    </change><change operation="added" label="1026-41-e-5" parent="1026-41-e" after="1026-41-e-4">
       <paragraph label="1026-41-e-5" marker="(5)">
         <title>Consumers in bankruptcy.</title>
-        <content>A servicer is exempt from the requirements of this section for a mortgage loan while the consumer is a debtor in bankruptcy under Title 11 of the United States Code.</content>
+        <content>A servicer is exempt from the requirements of this section for a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> while the <ref target="1026-2-a-11" reftype="term">consumer</ref> is a debtor in bankruptcy under Title 11 of the United States Code.</content>
       </paragraph>
-    </change>
-    <change operation="modified" label="1026-43-e-4-ii-C">
+    </change><change operation="modified" label="1026-43-e-4-ii-C">
       <paragraph label="1026-43-e-4-ii-C" marker="(C)">
         <content>A loan that is eligible to be guaranteed, except with regard to matters wholly unrelated to ability to repay, by the U.S. Department of Veterans Affairs;</content>
       </paragraph>
@@ -80,11 +73,9 @@
     <change operation="modified" label="1026-32-b-1-ii-Interp-4-iii">
       <interpParagraph label="1026-32-b-1-ii-Interp-4-iii" marker="iii.">
         <title>Creditor's origination fees—loan originator not employed by creditor.</title>
-        <content>Compensation paid by a creditor to a loan originator who is not employed by the creditor is included in the calculation of points and fees under § 1026.32(b)(1)(ii). Such compensation is included in points and fees in addition to any origination fees or charges paid by the consumer to the creditor that are included in points and fees under § 1026.32(b)(1)(i). For example, assume that a consumer pays to the creditor a $3,000 origination fee and that the creditor pays a mortgage broker $1,500 in compensation attributed to the transaction. Assume further that the consumer pays no other charges to the creditor that are included in points and fees under § 1026.32(b)(1)(i) and that the mortgage broker receives no other compensation that is included in points and fees under § 1026.32(b)(1)(ii). For purposes of calculating points and fees, the $3,000 origination fee is included in points and fees under § 1026.32(b)(1)(i) and the $1,500 in loan originator compensation is included in points and fees under § 1026.32(b)(1)(ii), equaling $4,500 in total points and fees, provided that no other points and fees are paid or compensation received.</content>
+        <content>Compensation paid by a <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> who is not employed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> is included in the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § 1026.32(b)(1)(ii). Such compensation is included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> in addition to any origination fees or charges paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> to the <ref target="1026-2-a-17" reftype="term">creditor</ref> that are included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § 1026.32(b)(1)(i). For example, assume that a <ref target="1026-2-a-11" reftype="term">consumer</ref> pays to the <ref target="1026-2-a-17" reftype="term">creditor</ref> a $3,000 origination fee and that the <ref target="1026-2-a-17" reftype="term">creditor</ref> pays a mortgage broker $1,500 in compensation attributed to the transaction. Assume further that the <ref target="1026-2-a-11" reftype="term">consumer</ref> pays no other charges to the <ref target="1026-2-a-17" reftype="term">creditor</ref> that are included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § 1026.32(b)(1)(i) and that the mortgage broker receives no other compensation that is included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § 1026.32(b)(1)(ii). For purposes of calculating <ref target="1026-32-b-1" reftype="term">points and fees</ref>, the $3,000 origination fee is included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § 1026.32(b)(1)(i) and the $1,500 in <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> compensation is included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § 1026.32(b)(1)(ii), equaling $4,500 in total <ref target="1026-32-b-1" reftype="term">points and fees</ref>, provided that no other <ref target="1026-32-b-1" reftype="term">points and fees</ref> are paid or compensation received.</content>
       </interpParagraph>
-    </change>
-
-    <change operation="modified" label="1026-34-a-5-ii-Interp">
+    </change><change operation="modified" label="1026-34-a-5-ii-Interp">
       <interpParagraph label="1026-34-a-5-ii-Interp" target="1026-34-a-5-ii">
 	<title>34(a)(5)(ii) Timing of counseling.</title>
 	<content/>
@@ -94,48 +85,41 @@
 	</interpParagraph>
 	<interpParagraph label="1026-34-a-5-ii-Interp-2" marker="2.">
 	  <title>Transactions not subject to RESPA or § 1026.40.</title>
-	  <content>For closed-end mortgage transactions that are not subject to RESPA, the counseling certification must include a statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by § 1026.32(c). (Reference to counseling on advisability using the disclosures required by § 1026.32(c) is not required for transactions subject to RESPA or § 1026.40.) The disclosures required by § 1026.32(c) must be furnished to the consumer at least three business days prior to consummation of the mortgage. The creditor may wish to furnish the disclosures sooner, to provide sufficient time for counseling and certification.</content>
+	  <content>For closed-end mortgage transactions that are not subject to RESPA, the counseling certification must include a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref>(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by § 1026.32(c). (Reference to counseling on advisability using the disclosures required by § 1026.32(c) is not required for transactions subject to RESPA or § 1026.40.) The disclosures required by § 1026.32(c) must be furnished to the <ref target="1026-2-a-11" reftype="term">consumer</ref> at least three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to <ref target="1026-2-a-13" reftype="term">consummation</ref> of the mortgage. The <ref target="1026-2-a-17" reftype="term">creditor</ref> may wish to furnish the disclosures sooner, to provide sufficient time for counseling and certification.</content>
 	</interpParagraph>
 	<interpParagraph label="1026-34-a-5-ii-Interp-3" marker="3.">
 	  <title>Initial disclosure.</title>
-	  <content>Counseling may occur after receipt of either an initial disclosure required by section 5(c) of RESPA, the disclosures required by § 1026.40, or the disclosures required by § 1026.32(c), regardless of whether revised versions of such disclosures are subsequently provided to the consumer.</content>
+	  <content>Counseling may occur after receipt of either an initial disclosure required by section 5(c) of RESPA, the disclosures required by § 1026.40, or the disclosures required by § 1026.32(c), regardless of whether revised versions of such disclosures are subsequently provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content>
 	</interpParagraph>
       </interpParagraph>
-    </change>
-
-    <change operation="modified" label="1026-34-a-5-iv-Interp-1" subpath="content">
-      <content>A statement that a consumer has received counseling on the advisability of the high-cost mortgage means that the consumer has received counseling about key terms of the mortgage transaction, as set out in either the disclosure required by section 5(c) of RESPA or the disclosures provided to the consumer pursuant to § 1026.40, or, for closed-end transactions not subject to RESPA, the disclosures required by § 1026.32(c); the consumer's budget, including the consumer's income, assets, financial obligations, and expenses; and the affordability of the mortgage transaction for the consumer. Examples of such terms of the mortgage transaction include the initial interest rate, the initial monthly payment, whether the payment may increase, how the minimum periodic payment will be determined, and fees imposed by the creditor, as may be reflected in the applicable disclosure. A statement that a consumer has received counseling on the advisability of the high-cost mortgage does not require the counselor to have made a judgment or determination as to the appropriateness of the mortgage transaction for the consumer.</content>
-    </change>
-
-    <change operation="modified" label="1026-34-a-5-v-Interp-1" subpath="content">
-      <content>Section 1026.34(a)(5)(v) does not prohibit a creditor from financing the counseling fee as part of the transaction for a high-cost mortgage, if the fee is a bona fide third-party charge as provided by § 1026.32(b)(5)(i).</content>
-    </change>
-
-    <change operation="added" label="1026-41-e-5-Interp" parent="1026-41-e-Interp" after="1026-41-e-4-Interp">
+    </change><change operation="modified" label="1026-34-a-5-iv-Interp-1" subpath="content">
+      <content>A statement that a <ref target="1026-2-a-11" reftype="term">consumer</ref> has received counseling on the advisability of the high-cost mortgage means that the <ref target="1026-2-a-11" reftype="term">consumer</ref> has received counseling about key terms of the mortgage transaction, as set out in either the disclosure required by section 5(c) of RESPA or the disclosures provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref> pursuant to § 1026.40, or, for closed-end transactions not subject to RESPA, the disclosures required by § 1026.32(c); the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s budget, including the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income, assets, financial obligations, and expenses; and the affordability of the mortgage transaction for the <ref target="1026-2-a-11" reftype="term">consumer</ref>. Examples of such terms of the mortgage transaction include the initial interest rate, the initial monthly payment, whether the payment may increase, how the minimum periodic payment will be determined, and fees imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, as may be reflected in the applicable disclosure. A statement that a <ref target="1026-2-a-11" reftype="term">consumer</ref> has received counseling on the advisability of the high-cost mortgage does not require the counselor to have made a judgment or determination as to the appropriateness of the mortgage transaction for the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content>
+    </change><change operation="modified" label="1026-34-a-5-v-Interp-1" subpath="content">
+      <content>Section 1026.34(a)(5)(v) does not prohibit a <ref target="1026-2-a-17" reftype="term">creditor</ref> from financing the counseling fee as part of the transaction for a high-cost mortgage, if the fee is a bona fide third-party charge as provided by § 1026.32(b)(5)(i).</content>
+    </change><change operation="added" label="1026-41-e-5-Interp" parent="1026-41-e-Interp" after="1026-41-e-4-Interp">
       <interpParagraph label="1026-41-e-5-Interp" target="1026-41-e-5">
 	<title>41(e)(5) Consumers in bankruptcy.</title>
 	<content/>
 	<interpParagraph label="1026-41-e-5-Interp-1" marker="1.">
 	  <title>Commencing a case.</title>
-	  <content>The requirements of § 1026.41 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the consumer is a debtor.</content>
+	  <content>The requirements of § 1026.41 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the <ref target="1026-2-a-11" reftype="term">consumer</ref> is a debtor.</content>
 	</interpParagraph>
 	<interpParagraph label="1026-41-e-5-Interp-2" marker="2.">
 	  <title>Obligation to resume sending periodic statements.</title>
-	  <content></content>
+	  <content/>
 	  <interpParagraph label="1026-41-e-5-Interp-2-i" marker="i.">
-	    <content>With respect to any portion of the mortgage debt that is not discharged, a servicer must resume sending periodic statements in compliance with § 1026.41 within a reasonably prompt time after the next payment due date that follows the earliest of any of three potential outcomes in the consumer's bankruptcy case: the case is dismissed, the case is closed, or the consumer receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume sending periodic statements does not require a servicer to communicate with a consumer in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of § 1026.41 in any manner believed necessary.</content>
+	    <content>With respect to any portion of the mortgage debt that is not discharged, a servicer must resume sending periodic statements in compliance with § 1026.41 within a reasonably prompt time after the next payment due date that follows the earliest of any of three potential outcomes in the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s bankruptcy case: the case is dismissed, the case is closed, or the <ref target="1026-2-a-11" reftype="term">consumer</ref> receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume sending periodic statements does not require a servicer to communicate with a <ref target="1026-2-a-11" reftype="term">consumer</ref> in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of § 1026.41 in any manner believed necessary.</content>
 	  </interpParagraph>
 	  <interpParagraph label="1026-41-e-5-Interp-2-ii" marker="ii.">
-	    <content>The periodic statement is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the consumer's bankruptcy case is revived—for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge—the servicer is again exempt from the requirement in § 1026.41.</content>
+	    <content>The periodic statement is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s bankruptcy case is revived—for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge—the servicer is again exempt from the requirement in § 1026.41.</content>
 	  </interpParagraph>
 	</interpParagraph>
 	<interpParagraph label="1026-41-e-5-Interp-3" marker="3.">
 	  <title>Joint obligors.</title>
-	  <content>When two or more consumers are joint obligors with primary liability on a closed-end consumer credit transaction secured by a dwelling subject to § 1026.41, the exemption in § 1026.41(e)(5) applies if any of the consumers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from providing periodic statements to both the husband and the wife.</content>
+	  <content>When two or more <ref target="1026-2-a-11" reftype="term">consumers</ref> are joint obligors with primary liability on a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> subject to § 1026.41, the exemption in § 1026.41(e)(5) applies if any of the <ref target="1026-2-a-11" reftype="term">consumers</ref> is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from providing periodic statements to both the husband and the wife.</content>
 	</interpParagraph>
       </interpParagraph>
-    </change>
-  </changeset>
+    </change></changeset>
   
   <analysis>
     <analysisSection target="1026-43-a" notice="2013-24521" date="2014-01-10">

@@ -70,3 +70,6 @@ bower_components/
 .grunt/
 src/vendor/
 dist/
+
+# ignore generated regulations in Z
+regulation/1026/*
