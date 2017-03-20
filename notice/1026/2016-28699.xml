@@ -52,7 +52,7 @@
         <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current debt obligations, alimony, and child support in accordance with appendix <ref target="1026-Q" reftype="internal">Q</ref> and paragraphs <ref target="1026-43-c-2-vi" reftype="internal">(c)(2)(vi)</ref> and <ref target="1026-43-c-3" reftype="internal">(c)(3)</ref> of this section; and</content>
       </paragraph>
     </change>
-    <change operation="added" label="1026-35-c-2-ii-Interp-3">
+    <change operation="modified" label="1026-35-c-2-ii-Interp-3">
       <interpParagraph label="1026-35-c-2-ii-Interp-3" marker="3.">
         <title type="keyterm">Threshold.</title>
         <content>For purposes of § 1026.35(c)(2)(ii), the threshold amount in effect during a particular period is the amount stated below for that period.</content>
@@ -82,7 +82,7 @@
         <content>A transaction is exempt under § 1026.35(c)(2)(ii) if the <ref target="1026-2-a-17" reftype="term">creditor</ref> makes an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> at <ref target="1026-2-a-13" reftype="term">consummation</ref> that is equal to or below the threshold amount in effect at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
       </interpParagraph>
     </change>
-    
+
   </changeset>
 
 </notice>
