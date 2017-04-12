@@ -602,26 +602,39 @@
     <!-- Section 1026.25 is amended by adding paragraph (c)(1) -->
     <change operation="modified" label="1026-25-c">
       <paragraph label="1026-25-c" marker="(c)">
-      <title type="keyterm">Records related to certain requirements for mortgage loans</title>
-      <content></content>
-    </paragraph>
-    </change>
-    <change operation="modified" label="1026-25-c-1">
-      <paragraph label="1026-25-c-1" marker="(1)">
-        <title type="keyterm">Records related to requirements for loans secured by real property—</title>
-        <content/>
-        <paragraph label="1026-25-c-1-i" marker="(i)">
-          <title type="keyterm">General rule.</title>
-          <content>Except as provided under paragraph <ref target="1026-25-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with the requirements of § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref> for three years after the later of the date of <ref target="1026-2-a-13" reftype="term">consummation</ref>, the date disclosures are required to be made, or the date the action is required to be taken.</content></paragraph>
-        <paragraph label="1026-25-c-1-ii" marker="(ii)">
-          <title type="keyterm">Closing disclosures.</title>
+        <title type="keyterm">Records related to certain requirements for mortgage loans</title>
+        <content></content>
+        <paragraph label="1026-25-c-1" marker="(1)">
+          <title type="keyterm">Records related to requirements for loans secured by real property—</title>
           <content/>
-          <paragraph label="1026-25-c-1-ii-A" marker="(A)">
-            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain each completed disclosure required under § <ref target="1026-19-f-1-i" reftype="internal">1026.19(f)(1)(i)</ref> or <ref target="1026-19-f-4-i" reftype="internal">(f)(4)(i)</ref>, and all documents related to such disclosures, for five years after <ref target="1026-2-a-13" reftype="term">consummation</ref>, notwithstanding paragraph <ref target="1026-25-c-1-ii-B" reftype="internal">(c)(1)(ii)(B)</ref> of this section.</content></paragraph>
-          <paragraph label="1026-25-c-1-ii-B" marker="(B)">
-            <content>If a <ref target="1026-2-a-17" reftype="term">creditor</ref> sells, transfers, or otherwise disposes of its interest in a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> subject to § <ref target="1026-19-f" reftype="internal">1026.19(f)</ref> and does not service the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall provide a copy of the disclosures required under § <ref target="1026-19-f-1-i" reftype="internal">1026.19(f)(1)(i)</ref> or <ref target="1026-19-f-4-i" reftype="internal">(f)(4)(i)</ref> to the owner or servicer of the mortgage as a part of the transfer of the loan file. Such owner or servicer shall retain such disclosures for the remainder of the five-year period described under paragraph <ref target="1026-25-c-1-ii-A" reftype="internal">(c)(1)(ii)(A)</ref> of this section.</content></paragraph>
-          <paragraph label="1026-25-c-1-ii-C" marker="(C)">
-            <content>The <ref target="1026-2-a-5" reftype="term">Bureau</ref> shall have the right to require provision of copies of records related to the disclosures required under § <ref target="1026-19-f-1-i" reftype="internal">1026.19(f)(1)(i)</ref> or <ref target="1026-19-f-4-i" reftype="internal">(f)(4)(i)</ref>.</content></paragraph>
+          <paragraph label="1026-25-c-1-i" marker="(i)">
+            <title type="keyterm">General rule.</title>
+            <content>Except as provided under paragraph <ref target="1026-25-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with the requirements of § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref> for three years after the later of the date of <ref target="1026-2-a-13" reftype="term">consummation</ref>, the date disclosures are required to be made, or the date the action is required to be taken.</content></paragraph>
+          <paragraph label="1026-25-c-1-ii" marker="(ii)">
+            <title type="keyterm">Closing disclosures.</title>
+            <content/>
+            <paragraph label="1026-25-c-1-ii-A" marker="(A)">
+              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain each completed disclosure required under § <ref target="1026-19-f-1-i" reftype="internal">1026.19(f)(1)(i)</ref> or <ref target="1026-19-f-4-i" reftype="internal">(f)(4)(i)</ref>, and all documents related to such disclosures, for five years after <ref target="1026-2-a-13" reftype="term">consummation</ref>, notwithstanding paragraph <ref target="1026-25-c-1-ii-B" reftype="internal">(c)(1)(ii)(B)</ref> of this section.</content></paragraph>
+            <paragraph label="1026-25-c-1-ii-B" marker="(B)">
+              <content>If a <ref target="1026-2-a-17" reftype="term">creditor</ref> sells, transfers, or otherwise disposes of its interest in a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> subject to § <ref target="1026-19-f" reftype="internal">1026.19(f)</ref> and does not service the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall provide a copy of the disclosures required under § <ref target="1026-19-f-1-i" reftype="internal">1026.19(f)(1)(i)</ref> or <ref target="1026-19-f-4-i" reftype="internal">(f)(4)(i)</ref> to the owner or servicer of the mortgage as a part of the transfer of the loan file. Such owner or servicer shall retain such disclosures for the remainder of the five-year period described under paragraph <ref target="1026-25-c-1-ii-A" reftype="internal">(c)(1)(ii)(A)</ref> of this section.</content></paragraph>
+            <paragraph label="1026-25-c-1-ii-C" marker="(C)">
+              <content>The <ref target="1026-2-a-5" reftype="term">Bureau</ref> shall have the right to require provision of copies of records related to the disclosures required under § <ref target="1026-19-f-1-i" reftype="internal">1026.19(f)(1)(i)</ref> or <ref target="1026-19-f-4-i" reftype="internal">(f)(4)(i)</ref>.</content>
+            </paragraph>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-25-c-2" marker="(2)">
+          <title type="keyterm">Records related to requirements for loan originator compensation.</title>
+          <content>Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, for transactions subject to § <ref target="1026-36" reftype="internal">1026.36</ref>:</content>
+          <paragraph label="1026-25-c-2-i" marker="(i)">
+            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, and the <ref target="1026-36-a-3" reftype="term">compensation</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> that governs those payments for three years after the date of payment.</content>
+          </paragraph>
+          <paragraph label="1026-25-c-2-ii" marker="(ii)">
+            <content>A <ref target="1026-36-a-1-iii" reftype="term">loan originator organization</ref>, as defined in § <ref target="1026-36-a-1-iii" reftype="internal">1026.36(a)(1)(iii)</ref>, shall maintain records sufficient to evidence all <ref target="1026-36-a-3" reftype="term">compensation</ref> it receives from a <ref target="1026-2-a-17" reftype="term">creditor</ref>, a <ref target="1026-2-a-11" reftype="term">consumer</ref>, or another <ref target="1026-2-a-22" reftype="term">person</ref>; all <ref target="1026-36-a-3" reftype="term">compensation</ref> it pays to any <ref target="1026-36-a-1-ii" reftype="term">individual loan originator</ref>, as defined in § <ref target="1026-36-a-1-ii" reftype="internal">1026.36(a)(1)(ii)</ref>; and the <ref target="1026-36-a-3" reftype="term">compensation</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> that governs each such receipt or payment, for three years after the date of each such receipt or payment.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-25-c-3" marker="(3)">
+          <title type="keyterm">Records related to minimum standards for transactions secured by a dwelling.</title>
+          <content>Notwithstanding paragraph <ref target="1026-25-a" reftype="internal">(a)</ref> of this section, a <ref target="1026-2-a-17" reftype="term">creditor</ref> shall retain evidence of compliance with § <ref target="1026-43" reftype="internal">1026.43</ref> of this regulation for three years after <ref target="1026-2-a-13" reftype="term">consummation</ref> of a transaction covered by that section.</content>
         </paragraph>
       </paragraph>
     </change>
