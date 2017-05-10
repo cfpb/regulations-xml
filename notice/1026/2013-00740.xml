@@ -153,9 +153,9 @@
 
     <!-- Section 1026.32: Add paragraphs (b)(2), (b)(3)(ii), (b)(4)(ii), and (b)(6)(ii); -->
     <change operation="modified" label="1026-32-b-2">
-      <paragraph label="1026-32-b-2" marker="(2)">        
+      <paragraph label="1026-32-b-2" marker="(2)">
         <content>In connection with an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, <ref target="1026-32-b-1" reftype="term">points and fees</ref> means the following fees or charges that are known at or before account opening:</content><paragraph label="1026-32-b-2-i" marker="(i)">
-           <content>All items included in the finance charge under § <ref target="1026-4-a" reftype="internal">1026.4(a)</ref> and <ref target="1026-4-a" reftype="internal">(b)</ref>, except that the following items are excluded:</content><paragraph label="1026-32-b-2-i-A" marker="(A)">            
+           <content>All items included in the finance charge under § <ref target="1026-4-a" reftype="internal">1026.4(a)</ref> and <ref target="1026-4-a" reftype="internal">(b)</ref>, except that the following items are excluded:</content><paragraph label="1026-32-b-2-i-A" marker="(A)">
             <content>Interest or the time-price differential;</content>
           </paragraph>
           <paragraph label="1026-32-b-2-i-B" marker="(B)">
@@ -199,7 +199,7 @@
           <content>Any transaction fee, including any minimum fee or per-transaction fee, that will be charged for a draw on the <ref target="1026-2-a-14" reftype="term">credit</ref> line, where the <ref target="1026-2-a-17" reftype="term">creditor</ref> must assume that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will make at least one draw during the term of the plan.</content></paragraph>
       </paragraph>
     </change>
- 
+
     <!-- Section 1026.32: Add paragraphs (b)(2), (b)(3)(ii), (b)(4)(ii), and (b)(6)(ii); -->
     <change operation="modified" label="1026-32-b-3-ii">
       <paragraph label="1026-32-b-3-ii" marker="(ii)">
@@ -481,12 +481,14 @@
         <content/>
     </paragraph>
     </change>
+    <!--
     <change operation="modified" label="1026-36-j">
       <paragraph label="1026-36-j" marker="(j)">
         <title type="keyterm">[Reserved]</title>
         <content/>
       </paragraph>
     </change>
+  -->
 
     <!-- Section 1026.36 is amended by adding paragraph (k) -->
     <change operation="added" label="1026-36-k" parent="1026-36" after="1026-36-j">
@@ -524,7 +526,7 @@
     <change operation="modified" label="1026-31-c-1-Interp-1" subpath="title">
       <title>Pre-consummation or account opening waiting period.</title>
     </change>
-    
+
     <change operation="modified" label="1026-31-c-1-Interp-1" subpath="content">
       <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must furnish § <ref target="1026-32" reftype="internal">1026.32</ref> disclosures at least three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to consummation for a closed-end, high-cost mortgage and at least three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to account opening for an open-end, high-cost mortgage. Under § <ref target="1026-32" reftype="internal">1026.32</ref>, “<ref target="1026-2-a-6" reftype="term">business day</ref>” has the same meaning as the rescission rule in comment 2(a)(6)-2—all calendar days except Sundays and the Federal legal holidays listed in <ref target="USC:5-6103" reftype="external">5 U.S.C. 6103</ref>(a). However, while the disclosure rule under §§ <ref target="1026-15" reftype="internal">1026.15</ref> and <ref target="1026-23" reftype="internal">1026.23</ref> extends to midnight of the third <ref target="1026-2-a-6" reftype="term">business day</ref>, the rule under § <ref target="1026-32" reftype="internal">1026.32</ref> does not. For example, under § <ref target="1026-32" reftype="internal">1026.32</ref>, if disclosures were provided on a Friday, consummation or account opening could occur any time on Tuesday, the third <ref target="1026-2-a-6" reftype="term">business day</ref> following receipt of the disclosures. If the timing of the rescission rule were to be used, consummation or account opening could not occur until after midnight on Tuesday.</content>
     </change>
@@ -577,7 +579,7 @@
           <content/>
           <interpParagraph label="1026-32-a-1-Interp-1" marker="1.">
             <content>The term high-cost mortgage includes both a <ref target="1026-2-a-10" reftype="term">closed-end credit</ref> transaction and an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>. For purposes of determining coverage under § 1026.32, an open-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction is the account opening of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan. An advance of funds or a draw on the <ref target="1026-2-a-14" reftype="term">credit</ref> line under an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan subsequent to account opening does not constitute an open-end “transaction.”</content></interpParagraph>
-          
+
           <interpParagraph label="1026-32-a-1-i-Interp" target="1026-32-a-1-i">
             <title>Paragraph 32(a)(1)(i)</title>
             <content/>
@@ -599,7 +601,7 @@
               <title>Loan amount less than $50,000.</title>
               <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine whether to apply the APR threshold in § <ref target="1026-32-a-1-i-B" reftype="internal">1026.32(a)(1)(i)(B)</ref> based on the <ref target="1026-43-b-5" reftype="term">loan amount</ref>, which is the face amount of the note.</content></interpParagraph>
           </interpParagraph>
-          
+
           <interpParagraph label="1026-32-a-1-ii-Interp" target="1026-32-a-1-ii">
             <title>Paragraph 32(a)(1)(ii)</title>
             <content/>
@@ -909,7 +911,7 @@
             <title type="keyterm">Balloon payment.</title>
             <content>Except as provided in § <ref target="1026-32-d-1-ii" reftype="internal">1026.32(d)(1)(ii)</ref> and <ref target="1026-32-d-1-iii" reftype="internal">(iii)</ref>, a mortgage transaction subject to this section may not include a payment schedule that results in a balloon payment.</content></interpParagraph>
         </interpParagraph>
-        
+
         <interpParagraph label="1026-32-c-3-i-Interp" target="1026-32-c-3-i">
           <title>Paragraph 32(c)(3)(i)</title>
           <content/>
@@ -944,7 +946,7 @@
             </interpParagraph>
           </interpParagraph>
         </interpParagraph>
-        
+
         <interpParagraph label="1026-32-c-5-Interp" target="1026-32-c-5">
           <title>32(c)(5) Amount Borrowed</title>
           <content/>
@@ -987,7 +989,7 @@
       <content>The prohibition against <ref target="1026-36-k-2-ii" reftype="term">negative amortization</ref> in a high-cost mortgage does not preclude reasonable increases in the principal balance that result from events permitted by the legal obligation unrelated to the payment schedule. For example, when a <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to obtain property insurance and the <ref target="1026-2-a-17" reftype="term">creditor</ref> purchases insurance, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may add a reasonable premium to the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s principal balance, to the extent permitted by applicable law and the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s legal obligation.</content>
     </change><!-- 32(d)(6) Prepayment Penalties and paragraph 1 are removed. -->
     <change operation="deleted" label="1026-32-d-6-Interp"/>
-    
+
     <!-- 32(d)(7) Prepayment Penalty Exception, Paragraph 32(d)(7)(iii) and paragraphs 1, 2, and 3, and Paragraph 32(d)(7)(iv) and paragraphs 1 and 2 are removed. -->
     <change operation="deleted" label="1026-32-d-7-Interp"/>
 
@@ -1006,7 +1008,7 @@
             <title>Fraud or material misrepresentation.</title>
             <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may terminate a loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> and accelerate the balance if there has been fraud or material misrepresentation by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref>. What constitutes fraud or misrepresentation is determined by applicable State law and may include acts of omission as well as overt acts, as long as any necessary intent on the part of the <ref target="1026-2-a-11" reftype="term">consumer</ref> exists.</content></interpParagraph>
         </interpParagraph>
-        
+
         <interpParagraph label="1026-32-d-8-ii-Interp" target="1026-32-d-8-ii">
           <title>Paragraph 32(d)(8)(ii)</title>
           <content/>
@@ -1014,7 +1016,7 @@
             <title type="keyterm">Failure to meet repayment terms.</title>
             <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may terminate a loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> and accelerate the balance when the <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to meet the repayment terms resulting in a default in payment under the <ref target="1026-58-b-1" reftype="term">agreement</ref>; a <ref target="1026-2-a-17" reftype="term">creditor</ref> may do so, however, only if the <ref target="1026-2-a-11" reftype="term">consumer</ref> actually fails to make payments resulting in a default in the <ref target="1026-58-b-1" reftype="term">agreement</ref>. For example, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not terminate and accelerate if the <ref target="1026-2-a-11" reftype="term">consumer</ref>, in error, sends a payment to the wrong location, such as a branch rather than the main office of the <ref target="1026-2-a-17" reftype="term">creditor</ref>. If a <ref target="1026-2-a-11" reftype="term">consumer</ref> files for or is placed in bankruptcy, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may terminate and accelerate under § <ref target="1026-32-d-8-i" reftype="internal">1026.32(d)(8)(i)</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to meet the repayment terms resulting in a default of the <ref target="1026-58-b-1" reftype="term">agreement</ref>. Section <ref target="1026-32-d-8-i" reftype="internal">1026.32(d)(8)(i)</ref> does not override any State or other law that requires a <ref target="1026-2-a-17" reftype="term">creditor</ref> to notify a <ref target="1026-2-a-11" reftype="term">consumer</ref> of a right to cure, or otherwise places a duty on the <ref target="1026-2-a-17" reftype="term">creditor</ref> before it can terminate a loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> and accelerate the balance.</content></interpParagraph>
         </interpParagraph>
-        
+
         <interpParagraph label="1026-32-d-8-iii-Interp" target="1026-32-d-8-iii">
           <title>Paragraph 32(d)(8)(iii)</title>
           <content/>
@@ -1396,7 +1398,7 @@
           </interpParagraph>
         </interpParagraph>
       </interpParagraph>
-    </change><!-- end of notice --> 
-   
+    </change><!-- end of notice -->
+
   </changeset>
 </notice>
