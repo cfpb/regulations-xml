@@ -10,44 +10,154 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>E</regLetter>
     <cfr>
       <title>12</title>
       <section>1005</section>
     </cfr>
-    <documentNumber>2012-01728</documentNumber>
+    <documentNumber>2012-1728</documentNumber>
     <effectiveDate>2013-10-28</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/articles/2012/02/07/2012-1728/no-title-available</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2013-06861" rightDocumentNumber="2012-01728">
+  <changeset leftDocumentNumber="2013-06861" rightDocumentNumber="2012-1728">
 
     <!-- Designate §§ 1005.1 through 1005.20 as subpart A under the heading set forth above. -->
     
     <change operation="modified" label="1005" subpath="tableOfContents">
       <tableOfContents>
-        <tocAppEntry target="1005-Subpart-A">
+	<tocSubpartEntry>
+	  <subpartTitle>General</subpartTitle>
+	  <subpartLetter>A</subpartLetter>
+	</tocSubpartEntry>
+	<tocSecEntry target="1005-1">
+          <sectionNum>1</sectionNum>
+          <sectionSubject>&#167; 1005.1 Authority and purpose.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-2">
+          <sectionNum>2</sectionNum>
+          <sectionSubject>&#167; 1005.2 Definitions.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-3">
+          <sectionNum>3</sectionNum>
+          <sectionSubject>&#167; 1005.3 Coverage.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-4">
+          <sectionNum>4</sectionNum>
+          <sectionSubject>&#167; 1005.4 General disclosure requirements; jointly offered services.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-5">
+          <sectionNum>5</sectionNum>
+          <sectionSubject>&#167; 1005.5 Issuance of access devices.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-6">
+          <sectionNum>6</sectionNum>
+          <sectionSubject>&#167; 1005.6 Liability of consumer for unauthorized transfers.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-7">
+          <sectionNum>7</sectionNum>
+          <sectionSubject>&#167; 1005.7 Initial disclosures.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-8">
+          <sectionNum>8</sectionNum>
+          <sectionSubject>&#167; 1005.8 Change in terms notice; error resolution notice.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-9">
+          <sectionNum>9</sectionNum>
+          <sectionSubject>&#167; 1005.9 Receipts at electronic terminals; periodic statements.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-10">
+          <sectionNum>10</sectionNum>
+          <sectionSubject>&#167; 1005.10 Preauthorized transfers.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-11">
+          <sectionNum>11</sectionNum>
+          <sectionSubject>&#167; 1005.11 Procedures for resolving errors.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-12">
+          <sectionNum>12</sectionNum>
+          <sectionSubject>&#167; 1005.12 Relation to other laws.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-13">
+          <sectionNum>13</sectionNum>
+          <sectionSubject>&#167; 1005.13 Administrative enforcement; record retention.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-14">
+          <sectionNum>14</sectionNum>
+          <sectionSubject>&#167; 1005.14 Electronic fund transfer service provider not holding consumer's account.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-15">
+          <sectionNum>15</sectionNum>
+          <sectionSubject>&#167; 1005.15 Electronic fund transfer of government benefits.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-16">
+          <sectionNum>16</sectionNum>
+          <sectionSubject>&#167; 1005.16 Disclosures at automated teller machines.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-17">
+          <sectionNum>17</sectionNum>
+          <sectionSubject>&#167; 1005.17 Requirements for overdraft services.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-18">
+          <sectionNum>18</sectionNum>
+          <sectionSubject>&#167; 1005.18 Requirements for financial institutions offering payroll card accounts.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-20">
+          <sectionNum>20</sectionNum>
+          <sectionSubject>&#167; 1005.20 Requirements for gift cards and gift certificates.</sectionSubject>
+	</tocSecEntry>
+	<tocSubpartEntry>
+	  <subpartTitle>Requirements for Remittance Transfers</subpartTitle>
+	  <subpartLetter>B</subpartLetter>
+	</tocSubpartEntry>
+	<tocSecEntry target="1005-30">
+	  <sectionNum>30</sectionNum>
+	  <sectionSubject>&#167; Remittance transfer definitions.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-31">
+	  <sectionNum>31</sectionNum>
+	  <sectionSubject>&#167; Disclosures.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-32">
+	  <sectionNum>32</sectionNum>
+	  <sectionSubject>&#167; Estimates.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-33">
+	  <sectionNum>33</sectionNum>
+	  <sectionSubject>&#167; Procedures for resolving errors.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-34">
+	  <sectionNum>34</sectionNum>
+	  <sectionSubject>&#167; Procedures for cancellation and refund of remittance transfers.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-35">
+	  <sectionNum>35</sectionNum>
+	  <sectionSubject>&#167; Acts of agents.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1005-36">
+	  <sectionNum>36</sectionNum>
+	  <sectionSubject>&#167; Transfers scheduled in advance.</sectionSubject>
+	</tocSecEntry>
+	<tocAppEntry target="1005-A">
           <appendixLetter>A</appendixLetter>
-          <appendixSubject>General</appendixSubject>
-        </tocAppEntry>
-        <tocAppEntry target="1005-Subpart-B">
+          <appendixSubject>Appendix A to Part 1005&#8212;Model Disclosure Clauses and Forms</appendixSubject>
+	</tocAppEntry>
+	<tocAppEntry target="1005-B">
           <appendixLetter>B</appendixLetter>
-          <appendixSubject>Requirements for Remittance Transfers</appendixSubject>
-        </tocAppEntry>
-        <tocAppEntry target="1005-A">
-          <appendixLetter>A</appendixLetter>
-          <appendixSubject>Appendix A to Part 1005—Model Disclosure Clauses and Forms</appendixSubject>
-        </tocAppEntry>
-        <tocAppEntry target="1005-B">
-          <appendixLetter>B</appendixLetter>
-          <appendixSubject>Appendix B to Part 1005—[Reserved]</appendixSubject>
-        </tocAppEntry>
-        <tocAppEntry target="1005-C">
+          <appendixSubject>Appendix B to Part 1005&#8212;[Reserved]</appendixSubject>
+	</tocAppEntry>
+	<tocAppEntry target="1005-C">
           <appendixLetter>C</appendixLetter>
-          <appendixSubject>Appendix C to Part 1005—Issuance of Official Interpretations</appendixSubject>
-        </tocAppEntry>
-        <tocAppEntry target="1005-Interp">
-          <appendixLetter>Interp</appendixLetter>
-          <appendixSubject>Supplement I to Part 1005—Official Interpretations</appendixSubject>
-        </tocAppEntry>
+          <appendixSubject>Appendix C to Part 1005&#8212;Issuance of Official Interpretations</appendixSubject>
+	</tocAppEntry>
+	<tocInterpEntry target="1005-Subpart-A-Interp">
+          <interpTitle>Subpart A - General</interpTitle>
+	</tocInterpEntry>
+	<tocInterpEntry target="1005-Subpart-B-Interp">
+          <interpTitle>Subpart B - Requirements for Remittance Transfers</interpTitle>
+	</tocInterpEntry>
+	<tocInterpEntry target="1005-Appendices-Interp">
+	  <interpTitle>Appendices</interpTitle>
+	</tocInterpEntry>
       </tableOfContents>
     </change>
 
@@ -1479,7 +1589,12 @@
 	b. Under Subheading Appendix A, paragraph (2)
     -->
 
-    <change operation="added" label="1005-30-Interp" after="1005-20-Interp">
+    <!-- we need to create interps for subpart B first -->
+
+    <change operation="added" label="1005-Subpart-B-Interp" after="1005-Interp">
+      <interpretations label="1005-Subpart-B-Interp">
+	<title>Interpretations for Subpart B - Requirements for Remittance Transfers</title>
+    <!-- <change operation="added" label="1005-30-Interp" after="1005-20-Interp"> -->
       <interpSection label="1005-30-Interp" sectionNum="30">
         <title>Section 1005.30&#8212;Remittance Transfer Definitions</title>
         <interpParagraph label="1005-30-Interp-1" marker="1.">
@@ -1603,9 +1718,9 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-    </change>
+    <!--</change>-->
 
-    <change operation="added" label="1005-31-Interp">
+    <!--<change operation="added" label="1005-31-Interp">-->
     <interpSection label="1005-31-Interp" sectionNum="31">
         <title>Section 1005.31&#8212;Disclosures</title>
         <interpParagraph label="1005-31-a-Interp" marker="Interp" target="1005-31-a">
@@ -1905,9 +2020,9 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-    </change>
+    <!--</change>-->
 
-    <change operation="added" label="1005-32-Interp">
+<!--    <change operation="added" label="1005-32-Interp">-->
       <interpSection label="1005-32-Interp" sectionNum="32">
         <title>Section 1005.32&#8212;Estimates</title>
         <interpParagraph label="1005-32-Interp-1" marker="1.">
@@ -2041,9 +2156,9 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-    </change>
+<!--    </change>-->
 
-    <change operation="added" label="1005-33-Interp">
+<!--    <change operation="added" label="1005-33-Interp">-->
       <interpSection label="1005-33-Interp" sectionNum="33">
         <title>Section 1005.33&#8212;Procedures for Resolving Errors</title>
         <interpParagraph label="1005-33-a-Interp" marker="Interp" target="1005-33-a">
@@ -2198,9 +2313,9 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-    </change>
+<!--    </change>-->
 
-    <change operation="added" label="1005-34-Interp">
+<!--    <change operation="added" label="1005-34-Interp">-->
       <interpSection label="1005-34-Interp" sectionNum="34">
         <title>Section 1005.34&#8212;Procedures for Cancellation and Refund of Remittance Transfers</title>
         <interpParagraph label="1005-34-a-Interp" marker="Interp" target="1005-34-a">
@@ -2233,18 +2348,18 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-    </change>    
+    <!--</change>    -->
 
-    <change operation="added" label="1005-35-Interp">
+<!--    <change operation="added" label="1005-35-Interp">-->
       <interpSection label="1005-35-Interp" sectionNum="35">
         <title>Section 1005.35—Acts of Agents</title>
         <interpParagraph label="1005-35-Interp-1" marker="1.">
           <content>General. <ref target="1005-30-f" reftype="term">Remittance transfer providers</ref> must comply with the requirements of subpart B, including, but not limited to, providing the disclosures set forth in § <ref target="1005-31" reftype="internal">1005.31</ref> and providing any remedies as set forth in § <ref target="1005-33" reftype="internal">1005.33</ref>, even if an <ref target="1005-30-a" reftype="term">agent</ref> or other <ref target="1005-2-j" reftype="term">person</ref> performs functions for the <ref target="1005-30-f" reftype="term">remittance transfer provider</ref>, and regardless of whether the <ref target="1005-30-f" reftype="term">provider</ref> has an agreement with a third party that transfers or otherwise makes funds available to a <ref target="1005-30-c" reftype="term">designated recipient</ref>.</content>
         </interpParagraph>
       </interpSection>
-    </change>
+ <!--   </change>-->
 
-    <change operation="added" label="1005-36-Interp">
+<!--    <change operation="added" label="1005-36-Interp">-->
       <interpSection label="1005-36-Interp" sectionNum="36">
         <title>Section 1005.36&#8212;Transfers Scheduled in Advance</title>
         <interpParagraph label="1005-36-Interp-1" marker="1.">
@@ -2273,16 +2388,19 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-    </change>
+    </interpretations>
+  </change>
+
+   <!-- </change>-->
 
     <change operation="modified" label="1005-A-Interp-2">
       <interpParagraph label="1005-A-Interp-2" marker="2.">
 	<title>Use of forms.</title>
         <content>The appendix contains model disclosure clauses for optional use by <ref target="1005-2-i" reftype="term">financial institutions</ref> and <ref target="1005-30-f" reftype="term">remittance transfer providers</ref> to facilitate compliance with the di<ref target="1005-5-b-2" reftype="internal">sclosure req</ref>uirem<ref target="1005-5-b-3" reftype="internal">ents o</ref>f <ref target="1005-6-a" reftype="internal">sections </ref>§§<ref target="1005-7" reftype="internal"> 1005.</ref>5(<ref target="1005-8-b" reftype="internal">b)(2) and</ref> (<ref target="1005-14-b-1-ii" reftype="internal">3), 1005.6(a), 10</ref>05<ref target="1005-15-d-1" reftype="internal">.7, 1005.8(b)</ref>, 100<ref target="1005-15-d-2" reftype="internal">5.14(b</ref>)(1)(i<ref target="1005-18-c-1" reftype="internal">i), 1005.15(d</ref>)(1) <ref target="1005-18-c-2" reftype="internal">and (2</ref>), 1005.18(c)(1) and (2), 1005.31, and 1005.36. The use of appropriate clauses in making disclosures will protect a <ref target="1005-2-i" reftype="term">financial institution</ref><ref target="USC:12-1693" reftype="external"> and a </ref><ref target="1005-30-f" reftype="term">remittance transfer provider</ref> from liability under sections 916 and 917 of the act provided the clauses accurately reflect the institution's EFT services and the <ref target="1005-30-f" reftype="term">provider</ref>'s <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> services, respectively.</content>
       </interpParagraph>
-    </change>
+      </change>
 
-    <change operation="added" label="1005-A-Interp-4">
+      <change operation="added" label="1005-A-Interp-4">
       <interpParagraph label="1005-A-Interp-4" marker="4.">
         <content>Model forms for <ref target="1005-30-e-1" reftype="term">remittance transfers</ref>. The Bureau will not review or approve disclosure forms for <ref target="1005-30-f" reftype="term">remittance transfer providers</ref>. However, this appendix contains 12 model forms for use in connection with <ref target="1005-30-e-1" reftype="term">remittance transfers</ref>. These model forms are intended to demonstrate several formats a <ref target="1005-30-f" reftype="term">remittance transfer provider</ref> may use to comply with the requirements of § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref>. Model Forms <ref target="1005-A-30" reftype="internal">A-30</ref> through <ref target="1005-A-32" reftype="internal">A-32</ref> demonstrate how a <ref target="1005-30-f" reftype="term">provider</ref> could provide the required disclosures for a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> exchanged into local currency. Model Forms <ref target="1005-A-33" reftype="internal">A-33</ref> through <ref target="1005-A-35" reftype="internal">A-35</ref> demonstrate how a <ref target="1005-30-f" reftype="term">provider</ref> could provide the required disclosures for dollar-to-dollar <ref target="1005-30-e-1" reftype="term">remittance transfers</ref>. These forms also demonstrate disclosure of the required content, in accordance with the grouping and proximity requirements of § <ref target="1005-31-c-1" reftype="internal">1005.31(c)(1)</ref> and <ref target="1005-31-c-2" reftype="internal">(2)</ref>, in both a register receipt format and an 8.5 inch by 11 inch format. Model Form <ref target="1005-A-36" reftype="internal">A-36</ref> provides long form model <ref target="1005-11-a-1" reftype="term">error</ref> resolution and cancellation disclosures required by § <ref target="1005-31-b-4" reftype="internal">1005.31(b)(4)</ref>, and Model Form <ref target="1005-A-37" reftype="internal">A-37</ref> provides short form model <ref target="1005-11-a-1" reftype="term">error</ref> resolution and cancellation disclosures required by § <ref target="1005-31-b-2-iv" reftype="internal">1005.31(b)(2)(iv)</ref> and <ref target="1005-31-b-2-vi" reftype="internal">(vi)</ref>. Model Forms A-38 through A-41 provide language for Spanish language disclosures.</content>
         <interpParagraph label="1005-A-Interp-4-i" marker="i.">
@@ -2320,7 +2438,12 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-  </changeset>
+
+  <!-- The old interps apply to what has become Subpart A, so rename 1005-Interp to 1005-Subpart-A-Interp -->
+  
+  <change operation="changeLabel" label="1005-Interp" newLabel="1005-Subpart-A-Interp"/>
+
+</changeset>
   
 <analysis>
     <analysisSection target="1005-1" notice="2012-01728" date="2013-10-28">

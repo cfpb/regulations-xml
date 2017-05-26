@@ -10,6 +10,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>E</regLetter>
     <cfr>
       <title>12</title>
       <section>1005</section>
@@ -1641,7 +1642,7 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-    <change operation="added" label="1005-15-Interp">
+    <change operation="added" label="1005-15-Interp" parent="1005-Subpart-A-Interp">
       <interpSection label="1005-15-Interp" sectionNum="15">
         <title>Section 1005.15—Electronic Fund Transfer of Government Benefits</title>
         <interpParagraph label="1005-15-c-Interp">
@@ -1694,7 +1695,7 @@
       </interpSection>
     </change>
     <change operation="deleted" label="1005-18-Interp"/>
-    <change operation="added" label="1005-19-Interp">
+    <change operation="added" label="1005-19-Interp" parent="1005-Subpart-A-Interp">
       <interpSection label="1005-19-Interp" sectionNum="19">
         <title>Section 1005.19 Internet Posting of Prepaid Account Agreements</title>
         <interpParagraph label="1005-19-a-Interp">
