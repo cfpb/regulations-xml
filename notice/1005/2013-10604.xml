@@ -199,6 +199,12 @@
       </paragraph>
     </change>
 
+    <change operation="modified" label="1005-33-c-2-iii">
+      <paragraph label="1005-33-c-2-iv" marker="(iv)">
+        <content>In the case of a request under paragraph <ref target="1005-33-a-1-v" reftype="internal">(a)(1)(v)</ref> of this section, providing the requested documentation, information, or clarification.</content>
+      </paragraph>
+    </change>
+
     <change operation="added" label="1005-33-h">
       <paragraph label="1005-33-h" marker="(h)">
         <title type="keyterm">Incorrect account number or recipient institution identifier provided by the sender.</title>
