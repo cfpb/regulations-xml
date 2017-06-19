@@ -61,13 +61,13 @@
     </change>
     <change operation="modified" label="1024-41-c-1-ii">
       <paragraph label="1024-41-c-1-ii" marker="(ii)">
-        <content xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Provide the borrower with a notice in writing stating the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination of which <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref>, if any, it will offer to the borrower on behalf of the owner or assignee of the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref>. The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph <ref target="1024-41-e" reftype="internal">(e)</ref> of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal, as provided for in paragraph <ref target="1024-41-h" reftype="internal">(h)</ref> of this section.</content>
+        <content>Provide the borrower with a notice in writing stating the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination of which <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref>, if any, it will offer to the borrower on behalf of the owner or assignee of the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref>. The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph <ref target="1024-41-e" reftype="internal">(e)</ref> of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal, as provided for in paragraph <ref target="1024-41-h" reftype="internal">(h)</ref> of this section.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1024-41-c-2-i">
       <paragraph label="1024-41-c-2-i" marker="(i)">
         <title type="keyterm">In general.</title>
-        <content>Except as set forth in paragraph <ref target="1024-41-c-2-ii" reftype="internal">(c)(2)(ii)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not evade the requirement to evaluate a complete <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref> for all <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref> available to the borrower by offering a <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref> based upon an evaluation of any information provided by a borrower in connection with an incomplete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>.</content></paragraph>
+        <content>Except as set forth in paragraph <ref target="1024-41-c-2-ii" reftype="internal">(c)(2)(ii)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not evade the requirement to evaluate a complete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> for all <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref> available to the borrower by offering a <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref> based upon an evaluation of any information provided by a borrower in connection with an incomplete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>.</content></paragraph>
     </change>
     <change operation="added" label="1024-41-c-2-iii">
       <paragraph label="1024-41-c-2-iii" marker="(iii)">
@@ -85,12 +85,6 @@
       <paragraph label="1024-41-d" marker="(d)">
         <title type="keyterm">Denial of loan modification options.</title>
         <content>If a borrower’s complete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> is denied for any trial or permanent loan modification option available to the borrower pursuant to paragraph <ref target="1024-41-c" reftype="internal">(c)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall state in the notice sent to the borrower pursuant to paragraph <ref target="1024-41-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section the specific reason or reasons for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>’s determination for each such trial or permanent loan modification option and, if applicable, that the borrower was not evaluated on other criteria. </content>
-        <paragraph label="1024-41-d-1" marker="(1)">
-          <content>The specific reasons for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination for each such trial or permanent loan modification option; and</content>
-        </paragraph>
-        <paragraph label="1024-41-d-2" marker="(2)">
-          <content>If applicable pursuant to paragraph <ref target="1024-41-h" reftype="internal">(h)</ref> of this section, that the borrower may appeal the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination for any such trial or permanent loan modification option, the deadline for the borrower to make an appeal, and any requirements for making an appeal.</content>
-        </paragraph>
       </paragraph>
     </change>
     <change operation="modified" label="1024-41-f-1">
@@ -259,9 +253,12 @@
     <change operation="modified" label="1024-41-c-Interp" subpath="title">
       <title>41(c) Evaluation of loss mitigation applications.</title>
     </change>
-    <change operation="deleted" label="1024-41-d-1-Interp" subpath="title"/>
+    <change operation="deleted" label="1024-41-d-1-Interp"/>
+    <change operation="changeLabel" label="1024-41-d-1-Interp-1" newLabel="1024-41-d-Interp-1"/>
+    <change operation="changeLabel" label="1024-41-d-1-Interp-2" newLabel="1024-41-d-Interp-2"/>
+    <change operation="changeLabel" label="1024-41-d-1-Interp-3" newLabel="1024-41-d-Interp-3"/>
     <change operation="deleted" label="1024-41-f-1-Interp"/>
-    <change operation="added" label="1024-41-d-1-Interp-4" parent="1024-41-d-1-Interp" after="1024-41-d-1-Interp-3">
+    <change operation="added" label="1024-41-d-Interp-4" parent="1024-41-d-Interp" after="1024-41-d-Interp-3">
       <interpParagraph label="1024-41-d-Interp-4" marker="4.">
         <title type="keyterm">Reasons listed.</title>
         <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is required to disclose the actual reason or reasons for the denial. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>’s systems establish a hierarchy of eligibility criteria and reach the first criterion that causes a denial but do not evaluate the borrower based on additional criteria, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with the rule by providing only the reason or reasons with respect to which the borrower was actually evaluated and rejected as well as notification that the borrower was not evaluated on other criteria. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to determine or disclose whether a borrower would have been denied on the basis of additional criteria if such criteria were not actually considered.</content>

@@ -5701,12 +5701,12 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-    <interpSection label="1005-32-Interp" sectionNum="32">
+    <interpSection label="1005-32-Interp" sectionNum="32" target="1005-32">
         <title>Section 1005.32—Estimates</title>
         <interpParagraph label="1005-32-Interp-1" marker="1.">
           <content>Disclosures where estimates can be used. Section <ref target="1005-32-a" reftype="internal">1005.32(a)</ref> and <ref target="1005-32-b" reftype="internal">(b)</ref> permit estimates to be used in certain circumstances for disclosures described in §§ <ref target="1005-31-b-1" reftype="internal">1005.31(b)(1)</ref> through <ref target="1005-31-b-3" reftype="internal">(3)</ref> and <ref target="1005-36-a-1" reftype="internal">1005.36(a)(1)</ref> and <ref target="1005-36-a-2" reftype="internal">(2)</ref>. To the extent permitted in § <ref target="1005-32-a" reftype="internal">1005.32(a)</ref> and <ref target="1005-32-b" reftype="internal">(b)</ref>, estimates may be used in the pre-payment disclosure described in § <ref target="1005-31-b-1" reftype="internal">1005.31(b)(1)</ref>, the receipt disclosure described in § <ref target="1005-31-b-2" reftype="internal">1005.31(b)(2)</ref>, the combined disclosure described in § <ref target="1005-31-b-3" reftype="internal">1005.31(b)(3)</ref>, and the pre-payment disclosures and receipt disclosures for both first and subsequent <ref target="1005-30-d" reftype="term">preauthorized remittance transfers</ref> described in § <ref target="1005-36-a-1" reftype="internal">1005.36(a)(1)</ref> and <ref target="1005-36-a-2" reftype="internal">(2)</ref>.</content>
         </interpParagraph>
-        <interpParagraph label="1005-32-a-Interp" marker="Interp" target="1005-32-a">
+        <interpParagraph label="1005-32-a-Interp" marker="Interp">
           <title>32(a) Temporary Exception for Insured Institutions</title>
           <content/>
           <interpParagraph label="1005-32-a-1-Interp" marker="Interp" target="1005-32-a-1">
