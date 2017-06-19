@@ -10,6 +10,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>C</regLetter>
     <cfr>
       <title>12</title>
       <section>1003</section>
@@ -24,7 +25,7 @@
         <sectionNum>1</sectionNum>
         <sectionSubject>§ 1003.1 Authority, purpose, and scope.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-2">
+      <tocSecEntry target="1003-2" action="modified">
         <sectionNum>2</sectionNum>
         <sectionSubject>§ 1003.2 Definitions.</sectionSubject>
       </tocSecEntry>

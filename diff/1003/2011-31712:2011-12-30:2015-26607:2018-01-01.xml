@@ -21,7 +21,7 @@
   </preamble>
   <part label="1003">
     <tableOfContents>
-      <tocSecEntry target="1003-1">
+      <tocSecEntry target="1003-1" action="modified">
         <sectionNum>1</sectionNum>
         <sectionSubject>§ 1003.1 Authority, purpose, and scope.</sectionSubject>
       </tocSecEntry>
@@ -29,15 +29,15 @@
         <sectionNum>2</sectionNum>
         <sectionSubject>§ 1003.2 Definitions.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-3">
+      <tocSecEntry target="1003-3" action="modified">
         <sectionNum>3</sectionNum>
-        <sectionSubject>§ 1003.3 Exempt institutions.</sectionSubject>
+        <sectionSubject>§ 1003.3 Exempt institutions and excluded transactions.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-4">
+      <tocSecEntry target="1003-4" action="modified">
         <sectionNum>4</sectionNum>
-        <sectionSubject>§ 1003.4 Compilation of loan data.</sectionSubject>
+        <sectionSubject>§ 1003.4 Compilation of reportable data.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-5">
+      <tocSecEntry target="1003-5" action="modified">
         <sectionNum>5</sectionNum>
         <sectionSubject>§ 1003.5 Disclosure and reporting.</sectionSubject>
       </tocSecEntry>
@@ -45,13 +45,17 @@
         <sectionNum>6</sectionNum>
         <sectionSubject>§ 1003.6 Enforcement.</sectionSubject>
       </tocSecEntry>
-      <tocAppEntry target="1003-A">
+      <tocAppEntry target="1003-A" action="modified">
         <appendixLetter>A</appendixLetter>
         <appendixSubject>Appendix A to Part 1003—Form and Instructions for Completion of HMDA Loan/Application Register</appendixSubject>
       </tocAppEntry>
       <tocAppEntry target="1003-B">
         <appendixLetter>B</appendixLetter>
         <appendixSubject>Appendix B to Part 1003—Form and Instructions for Data Collection on Ethnicity, Race, and Sex</appendixSubject>
+      </tocAppEntry>
+      <tocAppEntry target="1003-C">
+        <appendixLetter>C</appendixLetter>
+        <appendixSubject>Appendix C to Part 1003 - Procedures for Generating a Check Digit and Validating a ULI</appendixSubject>
       </tocAppEntry>
       <tocInterpEntry target="1003-Interp-h1">
 	<interpTitle>Introduction</interpTitle>

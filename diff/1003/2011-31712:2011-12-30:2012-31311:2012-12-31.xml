@@ -53,12 +53,10 @@
         <appendixLetter>B</appendixLetter>
         <appendixSubject>Appendix B to Part 1003—Form and Instructions for Data Collection on Ethnicity, Race, and Sex</appendixSubject>
       </tocAppEntry>
-      <tocInterpEntry target="1003-Interp-h1">
-	<interpTitle>Introduction</interpTitle>
-      </tocInterpEntry>
-      <tocInterpEntry target="1003-Interp">
-        <interpTitle>Supplement I to Part 1003—Staff Commentary</interpTitle>
-      </tocInterpEntry>
+      <tocAppEntry target="1003-Interp" action="modified">
+        <appendixLetter>Interp</appendixLetter>
+        <appendixSubject>Supplement I to Part 1003—Staff Commentary</appendixSubject>
+      </tocAppEntry>
     </tableOfContents>
     <content>
       <subpart label="1003-Subpart">

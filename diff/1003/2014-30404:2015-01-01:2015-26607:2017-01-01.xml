@@ -10,6 +10,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>C</regLetter>
     <cfr>
       <title>12</title>
       <section>1003</section>
@@ -20,11 +21,11 @@
   </preamble>
   <part label="1003">
     <tableOfContents>
-      <tocSecEntry target="1003-1">
+      <tocSecEntry target="1003-1" action="modified">
         <sectionNum>1</sectionNum>
         <sectionSubject>§ 1003.1 Authority, purpose, and scope.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-2">
+      <tocSecEntry target="1003-2" action="modified">
         <sectionNum>2</sectionNum>
         <sectionSubject>§ 1003.2 Definitions.</sectionSubject>
       </tocSecEntry>
@@ -32,19 +33,19 @@
         <sectionNum>3</sectionNum>
         <sectionSubject>§ 1003.3 Exempt institutions.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-4">
+      <tocSecEntry target="1003-4" action="modified">
         <sectionNum>4</sectionNum>
         <sectionSubject>§ 1003.4 Compilation of loan data.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-5">
+      <tocSecEntry target="1003-5" action="modified">
         <sectionNum>5</sectionNum>
         <sectionSubject>§ 1003.5 Disclosure and reporting.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-6">
+      <tocSecEntry target="1003-6" action="modified">
         <sectionNum>6</sectionNum>
         <sectionSubject>§ 1003.6 Enforcement.</sectionSubject>
       </tocSecEntry>
-      <tocAppEntry target="1003-A">
+      <tocAppEntry target="1003-A" action="modified">
         <appendixLetter>A</appendixLetter>
         <appendixSubject>Appendix A to Part 1003—Form and Instructions for Completion of HMDA Loan/Application Register</appendixSubject>
       </tocAppEntry>

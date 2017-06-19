@@ -10,6 +10,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>C</regLetter>
     <cfr>
       <title>12</title>
       <section>1003</section>
@@ -32,15 +33,15 @@
         <sectionNum>3</sectionNum>
         <sectionSubject>§ 1003.3 Exempt institutions and excluded transactions.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-4">
+      <tocSecEntry target="1003-4" action="modified">
         <sectionNum>4</sectionNum>
         <sectionSubject>§ 1003.4 Compilation of reportable data.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-5">
+      <tocSecEntry target="1003-5" action="modified">
         <sectionNum>5</sectionNum>
         <sectionSubject>§ 1003.5 Disclosure and reporting.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-6">
+      <tocSecEntry target="1003-6" action="modified">
         <sectionNum>6</sectionNum>
         <sectionSubject>§ 1003.6 Enforcement.</sectionSubject>
       </tocSecEntry>
