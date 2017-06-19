@@ -9,6 +9,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>E</regLetter>
     <cfr>
       <title>12</title>
       <section>1005</section>
@@ -107,10 +108,12 @@
         <appendixLetter>C</appendixLetter>
         <appendixSubject>Appendix C to Part 1005&#8212;Issuance of Official Interpretations</appendixSubject>
       </tocAppEntry>
-      <tocAppEntry target="1005-Interp">
-        <appendixLetter>Interp</appendixLetter>
-        <appendixSubject>Supplement I to Part 1005&#8212;Official Interpretations</appendixSubject>
-      </tocAppEntry>
+      <tocInterpEntry target="1005-Interp">
+        <interpTitle>Supplement I to Part 1005&#8212;Official Interpretations</interpTitle>
+      </tocInterpEntry>
+      <tocInterpEntry target="1005-Appendices-Interp">
+	<interpTitle>Appendices</interpTitle>
+      </tocInterpEntry>
     </tableOfContents>
     <content>
       <subpart subpartLetter="A" label="1005-Subpart-A">
@@ -4020,6 +4023,9 @@
             </interpParagraph>
           </interpParagraph>
         </interpSection>
+      </interpretations>
+      <interpretations label="1005-Appendices-Interp">
+	<title>Interpretations for Appendices</title>
         <interpSection label="1005-A-Interp" target="1005-A">
           <title>Appendix A&#8212;Model Disclosure Clauses and Forms</title>
           <interpParagraph label="1005-A-Interp-1" marker="1.">
