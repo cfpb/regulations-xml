@@ -9,6 +9,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>J</regLetter>
     <cfr>
       <title>12</title>
       <section>1010</section>
@@ -19,18 +20,306 @@
   </preamble>
   <part label="1010">
     <tableOfContents>
-      <tocAppEntry target="1010-Subpart-A">
-        <appendixLetter>A</appendixLetter>
-        <appendixSubject>General Requirements</appendixSubject>
-      </tocAppEntry>
-      <tocAppEntry target="1010-Subpart-B">
-        <appendixLetter>B</appendixLetter>
-        <appendixSubject>Reporting Requirements</appendixSubject>
-      </tocAppEntry>
-      <tocAppEntry target="1010-Subpart-C">
-        <appendixLetter>C</appendixLetter>
-        <appendixSubject>Certification of Substantially Equivalent State Law</appendixSubject>
-      </tocAppEntry>
+      <tocSubpartEntry>
+	<subpartTitle>General Requirements</subpartTitle>
+	<subpartLetter>A</subpartLetter>
+      </tocSubpartEntry>
+      <tocSecEntry target="1010-1">
+        <sectionNum>1</sectionNum>
+        <sectionSubject>§ 1010.1 Definitions.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-2">
+        <sectionNum>2</sectionNum>
+        <sectionSubject>§ 1010.2 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-3">
+        <sectionNum>3</sectionNum>
+        <sectionSubject>§ 1010.3 General applicability.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-4">
+        <sectionNum>4</sectionNum>
+        <sectionSubject>§ 1010.4 Exemptions—general.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-5">
+        <sectionNum>5</sectionNum>
+        <sectionSubject>§ 1010.5 Statutory exemptions.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-6">
+        <sectionNum>6</sectionNum>
+        <sectionSubject>§ 1010.6 One hundred lot exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-7">
+        <sectionNum>7</sectionNum>
+        <sectionSubject>§ 1010.7 Twelve lot exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-8">
+        <sectionNum>8</sectionNum>
+        <sectionSubject>§ 1010.8 Scattered site subdivisions.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-9">
+        <sectionNum>9</sectionNum>
+        <sectionSubject>§ 1010.9 Twenty acre lots.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-10">
+        <sectionNum>10</sectionNum>
+        <sectionSubject>§ 1010.10 Single-family residence exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-11">
+        <sectionNum>11</sectionNum>
+        <sectionSubject>§ 1010.11 Manufactured home exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-12">
+        <sectionNum>12</sectionNum>
+        <sectionSubject>§ 1010.12 Intrastate exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-13">
+        <sectionNum>13</sectionNum>
+        <sectionSubject>§ 1010.13 Metropolitan Statistical Area (MSA) exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-14">
+        <sectionNum>14</sectionNum>
+        <sectionSubject>§ 1010.14 Regulatory exemptions.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-15">
+        <sectionNum>15</sectionNum>
+        <sectionSubject>§ 1010.15 Regulatory exemption—multiple site subdivision—determination required.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-16">
+        <sectionNum>16</sectionNum>
+        <sectionSubject>§ 1010.16 Regulatory exemption—determination required.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-17">
+        <sectionNum>17</sectionNum>
+        <sectionSubject>§ 1010.17 Advisory opinion.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-18">
+        <sectionNum>18</sectionNum>
+        <sectionSubject>§ 1010.18 No Action Letter.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-19">
+        <sectionNum>19</sectionNum>
+        <sectionSubject>§ 1010.19 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-20">
+        <sectionNum>20</sectionNum>
+        <sectionSubject>§ 1010.20 Requirements for registering a subdivision—Statement of Record—filing and form.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-21">
+        <sectionNum>21</sectionNum>
+        <sectionSubject>§ 1010.21 Effective dates.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-22">
+        <sectionNum>22</sectionNum>
+        <sectionSubject>§ 1010.22 Statement of record—initial or consolidated.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-23">
+        <sectionNum>23</sectionNum>
+        <sectionSubject>§ 1010.23 Amendment—filing and form.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-24">
+        <sectionNum>24</sectionNum>
+        <sectionSubject>§ 1010.24 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-25">
+        <sectionNum>25</sectionNum>
+        <sectionSubject>§ 1010.25 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-26">
+        <sectionNum>26</sectionNum>
+        <sectionSubject>§ 1010.26 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-27">
+        <sectionNum>27</sectionNum>
+        <sectionSubject>§ 1010.27 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-28">
+        <sectionNum>28</sectionNum>
+        <sectionSubject>§ 1010.28 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-29">
+        <sectionNum>29</sectionNum>
+        <sectionSubject>§ 1010.29 Use of property report—misstatements, omissions or representation of Bureau approval prohibited.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-35">
+        <sectionNum>35</sectionNum>
+        <sectionSubject>§ 1010.35 Payment of fees.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-45">
+        <sectionNum>45</sectionNum>
+        <sectionSubject>§ 1010.45 Suspensions.</sectionSubject>
+      </tocSecEntry>
+      <tocSubpartEntry>
+	<subpartTitle>Reporting Requirements</subpartTitle>
+	<subpartLetter>B</subpartLetter>
+      </tocSubpartEntry>
+      <tocSecEntry target="1010-100">
+        <sectionNum>100</sectionNum>
+        <sectionSubject>§ 1010.100 Statement of Record—format.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-101">
+        <sectionNum>101</sectionNum>
+        <sectionSubject>§ 1010.101 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-102">
+        <sectionNum>102</sectionNum>
+        <sectionSubject>§ 1010.102 General instructions for completing the Statement of Record.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-103">
+        <sectionNum>103</sectionNum>
+        <sectionSubject>§ 1010.103 Developer obligated improvements.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-104">
+        <sectionNum>104</sectionNum>
+        <sectionSubject>§ 1010.104 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-105">
+        <sectionNum>105</sectionNum>
+        <sectionSubject>§ 1010.105 Cover page.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-106">
+        <sectionNum>106</sectionNum>
+        <sectionSubject>§ 1010.106 Table of contents.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-107">
+        <sectionNum>107</sectionNum>
+        <sectionSubject>§ 1010.107 Risks of buying land.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-108">
+        <sectionNum>108</sectionNum>
+        <sectionSubject>§ 1010.108 General information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-109">
+        <sectionNum>109</sectionNum>
+        <sectionSubject>§ 1010.109 Title to the property and land use.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-110">
+        <sectionNum>110</sectionNum>
+        <sectionSubject>§ 1010.110 Roads.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-111">
+        <sectionNum>111</sectionNum>
+        <sectionSubject>§ 1010.111 Utilities.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-112">
+        <sectionNum>112</sectionNum>
+        <sectionSubject>§ 1010.112 Financial information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-113">
+        <sectionNum>113</sectionNum>
+        <sectionSubject>§ 1010.113 Local services.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-114">
+        <sectionNum>114</sectionNum>
+        <sectionSubject>§ 1010.114 Recreational facilities.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-115">
+        <sectionNum>115</sectionNum>
+        <sectionSubject>§ 1010.115 Subdivision characteristics and climate.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-116">
+        <sectionNum>116</sectionNum>
+        <sectionSubject>§ 1010.116 Additional information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-117">
+        <sectionNum>117</sectionNum>
+        <sectionSubject>§ 1010.117 Cost sheet, signature of Senior Executive Officer.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-118">
+        <sectionNum>118</sectionNum>
+        <sectionSubject>§ 1010.118 Receipt, agent certification, and cancellation page.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-200">
+        <sectionNum>200</sectionNum>
+        <sectionSubject>§ 1010.200 Instructions for Statement of Record, Additional Information and Documentation.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-208">
+        <sectionNum>208</sectionNum>
+        <sectionSubject>§ 1010.208 General information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-209">
+        <sectionNum>209</sectionNum>
+        <sectionSubject>§ 1010.209 Title and land use.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-210">
+        <sectionNum>210</sectionNum>
+        <sectionSubject>§ 1010.210 Roads.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-211">
+        <sectionNum>211</sectionNum>
+        <sectionSubject>§ 1010.211 Utilities.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-212">
+        <sectionNum>212</sectionNum>
+        <sectionSubject>§ 1010.212 Financial information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-214">
+        <sectionNum>214</sectionNum>
+        <sectionSubject>§ 1010.214 Recreational facilities.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-215">
+        <sectionNum>215</sectionNum>
+        <sectionSubject>§ 1010.215 Subdivision characteristics and climate.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-216">
+        <sectionNum>216</sectionNum>
+        <sectionSubject>§ 1010.216 Additional information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-219">
+        <sectionNum>219</sectionNum>
+        <sectionSubject>§ 1010.219 Affirmation.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-310">
+        <sectionNum>310</sectionNum>
+        <sectionSubject>§ 1010.310 Annual report of activity.</sectionSubject>
+      </tocSecEntry>
+      <tocSubpartEntry>
+	<subpartTitle>Certification of Substantially Equivalent State Law</subpartTitle>
+	<subpartLetter>C</subpartLetter>
+      </tocSubpartEntry>
+      <tocSecEntry target="1010-500">
+        <sectionNum>500</sectionNum>
+        <sectionSubject>§ 1010.500 General.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-503">
+        <sectionNum>503</sectionNum>
+        <sectionSubject>§ 1010.503 Notice of certification.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-504">
+        <sectionNum>504</sectionNum>
+        <sectionSubject>§ 1010.504 Cooperation among certified states and between certified states and the Director.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-505">
+        <sectionNum>505</sectionNum>
+        <sectionSubject>§ 1010.505 Withdrawal of state certification.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-506">
+        <sectionNum>506</sectionNum>
+        <sectionSubject>§ 1010.506 State/Federal filing requirements.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-507">
+        <sectionNum>507</sectionNum>
+        <sectionSubject>§ 1010.507 Effect of suspension or withdrawal of certification granted under § 1010.501(a): Full disclosure requirement.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-508">
+        <sectionNum>508</sectionNum>
+        <sectionSubject>§ 1010.508 Effect of suspension of certification granted under § 1010.501(b): Sufficient protection requirement.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-552">
+        <sectionNum>552</sectionNum>
+        <sectionSubject>§ 1010.552 Previously accepted state filings.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-556">
+        <sectionNum>556</sectionNum>
+        <sectionSubject>§ 1010.556 Previously accepted state filings—amendments and consolidations.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-558">
+        <sectionNum>558</sectionNum>
+        <sectionSubject>§ 1010.558 Previously accepted state filings—notice of revocation rights on property report cover page.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-559">
+        <sectionNum>559</sectionNum>
+        <sectionSubject>§ 1010.559 Previously accepted state filings—notice of revocation rights in contracts and agreements.</sectionSubject>
+      </tocSecEntry>
       <tocAppEntry target="1010-A">
         <appendixLetter>A</appendixLetter>
         <appendixSubject>Appendix A to Part 1010—Standard and Model Forms and Clauses</appendixSubject>
