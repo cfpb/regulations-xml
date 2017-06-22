@@ -9,6 +9,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>X</regLetter>
     <cfr>
       <title>12</title>
       <section>1024</section>
@@ -17,7 +18,7 @@
     <effectiveDate>2014-01-10</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/articles/2013/10/23/2013-24521/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2013-22752_20140110" rightDocumentNumber="2013-24521">
+  <changeset leftDocumentNumber="2013-22752" rightDocumentNumber="2013-24521">
 
     <change operation="added" label="1024-39-d">
       <paragraph label="1024-39-d" marker="(d)">
