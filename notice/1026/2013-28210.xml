@@ -1164,7 +1164,8 @@
             </paragraph>
             <paragraph label="1026-37-h-1-vii" marker="(vii)">
               <title type="keyterm">Adjustments and other credits.</title>
-              <content>The amount of all loan costs determined pursuant to paragraph (f) and other costs determined pursuant to paragraph (g) that are paid by <ref target="1026-2-a-22" reftype="term">persons</ref> other than the <ref target="1026-36-a-1" reftype="term">loan originator</ref>, <ref target="1026-2-a-17" reftype="term">creditor</ref>, <ref target="1026-2-a-11" reftype="term">consumer</ref>, or seller, together with any other amounts that are required to be paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> at closing pursuant to a purchase and sale contract, disclosed as a negative number, labeled “Adjustments and Other Credits”; and (viii) Estimated Cash to Close. The sum of the amounts disclosed under paragraphs (h)(1)(i) through (vii) of this section labeled “Cash to Close.”</content></paragraph>
+              <content>The amount of all loan costs determined pursuant to paragraph (f) and other costs determined pursuant to paragraph (g) that are paid by <ref target="1026-2-a-22" reftype="term">persons</ref> other than the <ref target="1026-36-a-1" reftype="term">loan originator</ref>, <ref target="1026-2-a-17" reftype="term">creditor</ref>, <ref target="1026-2-a-11" reftype="term">consumer</ref>, or seller, together with any other amounts that are required to be paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> at closing pursuant to a purchase and sale contract, disclosed as a negative number, labeled “Adjustments and Other Credits”; and (viii) Estimated Cash to Close. The sum of the amounts disclosed under paragraphs (h)(1)(i) through (vii) of this section labeled “Cash to Close.”</content>
+	    </paragraph>
             <paragraph label="1026-37-h-1-viii" marker="(viii)">
               <title type="keyterm">Estimated Cash to Close.</title>
               <content>The sum of the amounts disclosed under paragraphs (h)(1)(i) through (vii) of this section labeled “Cash to Close.”</content>
@@ -4500,7 +4501,7 @@
     </change>
     <!-- 1026.1 1(d), subheading Paragraph 1(d)(5) and paragraph 1 under that subheading are added. -->
     <change operation="added" label="1026-1-d-Interp">
-      <interpParagraph label="1026-1-d-Interp" target="1026-1-d">
+      <interpParagraph label="1026-1-d-Interp">
         <title>1(d) Organization.</title>
         <content/>
         <interpParagraph label="1026-1-d-5-Interp" target="1026-1-d-5">
@@ -4951,7 +4952,7 @@
               <content>If a mortgage broker issues any disclosure required under § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> in the <ref target="1026-2-a-17" reftype="term">creditor</ref>’s place, the <ref target="1026-2-a-17" reftype="term">creditor</ref> remains responsible under § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> for ensuring that the requirements of § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> have been satisfied. For example, if a mortgage broker receives a <ref target="1026-2-a-11" reftype="term">consumer</ref>’s application and provides the <ref target="1026-2-a-11" reftype="term">consumer</ref> with the disclosures required under § <ref target="1026-19-e-1-i" reftype="internal">1026.19(e)(1)(i)</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not satisfy the requirements of § <ref target="1026-19-e-1-i" reftype="internal">1026.19(e)(1)(i)</ref> if it provides duplicative disclosures to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. In the same example, even if the broker provides an erroneous disclosure, the <ref target="1026-2-a-17" reftype="term">creditor</ref> is responsible and may not issue a revised disclosure correcting the error. The <ref target="1026-2-a-17" reftype="term">creditor</ref> is expected to maintain communication with the broker to ensure that the broker is acting in place of the <ref target="1026-2-a-17" reftype="term">creditor</ref>.</content></interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-19-e-1-iii-Interp" target="1026-19-e-1-iii">
-            <title>19(e)(1)(iii) .</title>
+            <title>19(e)(1)(iii) Timing.</title>
             <content/>
             <interpParagraph label="1026-19-e-1-iii-Interp-1" marker="1.">
               <title type="keyterm">Timing and use of estimates.</title>
@@ -5015,7 +5016,7 @@
         <interpParagraph label="1026-19-e-2-Interp">
           <title>19(e)(2) Predisclosure activity.</title>
           <content/>
-          <interpParagraph label="1026-19-e-2-i-Interp" target="1026-19-e-2-i">
+          <interpParagraph label="1026-19-e-2-i-Interp">
             <title>19(e)(2)(i) Imposition of fees on consumer.</title>
             <content/>
             <interpParagraph label="1026-19-e-2-i-A-Interp" target="1026-19-e-2-i-A">
@@ -6566,7 +6567,7 @@
             <title type="keyterm">Payments that do not pay principal.</title>
           <content>Although the label of the disclosure required by § <ref target="1026-37-i-5" reftype="internal">1026.37(i)(5)</ref> is “Principal and Interest Payments,” and the section refers to periodic principal and interest payments, it includes a scheduled periodic payment that only covers some or all of the interest that is due and not any principal (i.e., an interest only or negatively amortizing payment). 37(j) Adjustable interest rate table. 1. When table is not permitted to be disclosed. The disclosure described in § <ref target="1026-37-j" reftype="internal">1026.37(j)</ref> is required only if the interest rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref>, either based on changes to an index or scheduled changes to the interest rate. If the legal obligation does not permit the interest rate to adjust after <ref target="1026-2-a-13" reftype="term">consummation</ref>, such as for a “Fixed Rate” product under § <ref target="1026-37-a-10" reftype="internal">1026.37(a)(10)</ref>, this table is not permitted to appear on the Loan Estimate. The <ref target="1026-2-a-17" reftype="term">creditor</ref> may not disclose a blank table or a table with “N/A” inserted within each row.</content></interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1026-37-j-Interp" target="1026-37-j">
+        <interpParagraph label="1026-37-j-Interp">
           <title/>
           <content/>
           <interpParagraph label="1026-37-j-1-Interp" target="1026-37-j-1">
@@ -7077,7 +7078,7 @@
               <title type="keyterm">Provider on written list.</title>
               <content>Items that were disclosed pursuant to § <ref target="1026-37-f-3" reftype="internal">1026.37(f)(3)</ref> cannot be disclosed under § <ref target="1026-38-f-3" reftype="internal">1026.38(f)(3)</ref> when the <ref target="1026-2-a-11" reftype="term">consumer</ref> selected a provider contained on the written list provided under § <ref target="1026-19-e-1-vi-C" reftype="internal">1026.19(e)(1)(vi)(C)</ref>. Instead, such costs are disclosed pursuant to § <ref target="1026-38-f-2" reftype="internal">1026.38(f)(2)</ref>.</content></interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1026-38-f-5-Interp" target="1026-38-g-5">
+          <interpParagraph label="1026-38-f-5-Interp" target="1026-38-f-5">
             <title>38(f)(5) Subtotal of loan costs.</title>
             <content/>
             <interpParagraph label="1026-38-f-5-Interp-1" marker="1.">
@@ -7208,10 +7209,10 @@
           <interpParagraph label="1026-38-i-Interp-4" marker="4.">
               <title type="keyterm">Statements of increases or decreases.</title>
               <content>The provisions of § <ref target="1026-38-i-4-iii-A" reftype="internal">1026.38(i)(4)(iii)(A)</ref>, (i)(5)(iii)(A), and (i)(6)(iii)(A) each require a statement of whether the amount increased or decreased from the estimated amount. For the statement required by § <ref target="1026-38-i-6-iii-A" reftype="internal">1026.38(i)(6)(iii)(A)</ref>, the statement “This amount increased,” in which the word “increased” is in boldface and is replaced with the word “decreased” as applicable, complies with this requirement. For the statements required by § <ref target="1026-38-i-4-iii-A" reftype="internal">1026.38(i)(4)(iii)(A)</ref> and (i)(5)(iii)(A), the statement, “You increased this payment,” in which the word “increased” is in boldface and is replaced with the word “decreased” as applicable, complies with these requirements.</content></interpParagraph>
-          <interpParagraph label="1026-38-i-1-Interp" target="1026-38-i-1">
+          <interpParagraph label="1026-38-i-1-Interp">
             <title>38(i)(1) Total closing costs.</title>
             <content/>
-            <interpParagraph label="1026-38-i-1-iii-Interp" target="1026-38-i-1-iii">
+            <interpParagraph label="1026-38-i-1-iii-Interp">
               <content/>
               <interpParagraph label="1026-38-i-1-iii-A-Interp" target="1026-38-i-1-iii-A">
                 <title>Paragraph 38(i)(1)(iii)(A).</title>
@@ -7239,7 +7240,7 @@
               </interpParagraph>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1026-38-i-2-Interp" target="1026-38-i-2">
+          <interpParagraph label="1026-38-i-2-Interp">
             <title>38(i)(2) Closing costs paid before closing.</title>
             <content/>
             <interpParagraph label="1026-38-i-2-i-Interp" target="1026-38-i-2-i">
@@ -7260,10 +7261,10 @@
               </interpParagraph>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1026-38-i-4-Interp" target="1026-38-i-4">
+          <interpParagraph label="1026-38-i-4-Interp">
             <title>38(i)(4) Down payment/funds from borrower.</title>
             <content/>
-            <interpParagraph label="1026-38-i-4-ii-Interp" target="1026-38-i-4-ii">
+            <interpParagraph label="1026-38-i-4-ii-Interp">
               <content/>
               <interpParagraph label="1026-38-i-4-ii-A-Interp" target="1026-38-i-4-ii-A">
                 <title>Paragraph 38(i)(4)(ii)(A).</title>

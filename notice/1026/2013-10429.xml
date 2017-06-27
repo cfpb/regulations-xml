@@ -61,6 +61,7 @@
       </interpParagraph>
     </change>
     <change operation="deleted" label="1026-51-b-1-Interp-1"/>
+    <change operation="deleted" label="1026-51-b-1-Interp"/>
     <change operation="modified" label="1026-51-a-1-i-Interp-4-iii">
       <interpParagraph label="1026-51-a-1-i-Interp-4-iii" marker="iii.">
         <title type="keyterm">Household income and assets.</title>

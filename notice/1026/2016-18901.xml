@@ -21,6 +21,83 @@
 
   <changeset leftDocumentNumber="2016-24503" rightDocumentNumber="2016-18901">
 
+    <change operation="modified" label="1026-2-a-11">
+      <paragraph label="1026-2-a-11" marker="(11)">
+        <content>Consumer means a cardholder or natural <ref target="1026-2-a-22" reftype="term">person</ref> to whom <ref target="1026-2-a-12" reftype="term">consumer credit</ref> is offered or extended. However, for purposes of rescission under §§ <ref target="1026-15" reftype="internal">1026.15</ref> and <ref target="1026-23" reftype="internal">1026.23</ref>, the term also includes a natural <ref target="1026-2-a-22" reftype="term">person</ref> in whose principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> a <ref target="1026-2-a-25" reftype="term">security interest</ref> is or will be retained or acquired, if that <ref target="1026-2-a-22" reftype="term">person</ref>'s ownership interest in the <ref target="1026-2-a-19" reftype="term">dwelling</ref> is or will be subject to the <ref target="1026-2-a-25" reftype="term">security interest</ref>.</content>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1026-2-a-27" parent="1026-2-a">
+      <paragraph label="1026-2-a-27" marker="(27)">
+	<content/>
+	<paragraph label="1026-2-a-27-i" marker="(i)">
+	  <content><def term="successor in interest">Successor in interest</def> means a person to whom an ownership interest in a dwelling securing a closed-end consumer credit transaction is transferred from a consumer, provided that the transfer is:</content>
+	  <paragraph label="1026-2-a-27-i-A" marker="(A)">
+	    <content>A transfer by devise, descent, or operation of law on the death of a joint tenant or tenant by the entirety;</content>
+	  </paragraph>
+	  <paragraph label="1026-2-a-27-i-A" marker="(B)">
+	    <content>A transfer to a relative resulting from the death of the consumer;</content>
+	  </paragraph>
+	  <paragraph label="1026-2-a-27-i-A" marker="(C)">
+	    <content>A transfer where the spouse or children of the consumer become an owner of the property;</content>
+	  </paragraph>
+	  <paragraph label="1026-2-a-27-i-A" marker="(D)">
+	    <content>A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement, by which the spouse of the consumer becomes an owner of the property; or</content>
+	  </paragraph>
+	  <paragraph label="1026-2-a-27-i-A" marker="(E)">
+	    <content>A transfer into an inter vivos trust in which the consumer is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property.</content>
+	  </paragraph>
+	</paragraph>
+	<paragraph label="1026-2-a-27-ii" marker="(ii)">
+	  <content><def term="confirmed successor in interest">Confirmed successor in interest</def> means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in the dwelling.</content>
+	</paragraph>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1026-20-f" parent="1026-20-a" after="1026-20-e">
+      <paragraph label="1026-20-f" marker="(f)">
+	<title>Successor in interest.</title>
+	<content>If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with Regulation X, § 1024.32(c)(1) of this chapter, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by paragraphs (c), (d), and (e) of this section unless and until the confirmed successor in interest either assumes the mortgage loan obligation under State law or has provided the servicer an executed acknowledgment in accordance with Regulation X, § 1024.32(c)(1)(iv) of this chapter, that the confirmed successor in interest has not revoked.</content>
+      </paragraph>
+    </change>
+
+    <change operation="modified" label="1026-36-c-1">
+      <paragraph label="1026-36-c-1" marker="(1)">
+	<title>Payment processing.</title>
+        <content>In connection with a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>:</content>
+      </paragraph>
+    </change>
+
+    <change operation="modified" label="1026-36-c-2">
+      <paragraph label="1026-36-c-2" marker="(2)">
+	<title>No pyramiding of late fees.</title>
+        <content>In connection with a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>, a servicer shall not impose any late fee or delinquency charge for a payment if:</content>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1026-36-f" parent="1026-36" after="1026-36-e">
+      <paragraph label="1026-36-f" marker="(f)">
+	<title>Successor in interest.</title>
+	<content>If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with Regulation X, § 1024.32(c)(1) of this chapter, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by paragraph (b) of this section unless and until the confirmed successor in interest either assumes the mortgage loan obligation under State law or has provided the servicer an executed acknowledgment in accordance with Regulation X, § 1024.32(c)(1)(iv) of this chapter, that the confirmed successor in interest has not revoked.</content>
+      </paragraph>
+    </change>
+
+    <change operation="modified" label="1026-41-d-8-i">
+      <paragraph label="1026-41-d-8-i" marker="(i)">
+	<content>The length of the consumer's delinquency;</content>
+      </paragraph>
+    </change>
+
+    <change operation="modified" label="1026-41-e-4-iii-A">
+      <paragraph label="1026-41-e-4-iii-A" marker="(A)">
+	<content>Mortgage loans voluntarily serviced by the servicer for a non-affiliate of the servicer and for which the servicer does not receive any compensation or fees.</content>
+      </paragraph>
+    </change>
+
+    
+    
+    <!-- end of notice -->
+    
     <!--
     <change operation="modified" label="1026-34-b">
       <paragraph label="1026-34-b" marker="(b)">

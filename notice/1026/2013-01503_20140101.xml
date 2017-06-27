@@ -688,10 +688,10 @@
       </interpParagraph>
     </change><!-- Section 1026.36(d)(2), paragraphs 1 and 2 are removed, and 36(d)(2)(i) and paragraphs 1 and 2 are added. -->
     <change operation="modified" label="1026-36-d-2-Interp">
-      <interpParagraph label="1026-36-d-2-Interp" target="1026-36-d-2">
+      <interpParagraph label="1026-36-d-2-Interp">
         <title>36(d)(2) Payments by Persons Other Than Consumer</title>
         <content/>
-        <interpParagraph label="1026-36-d-2-i-Interp">
+        <interpParagraph label="1026-36-d-2-i-Interp" target="1026-36-d-2-i">
           <title>36(d)(2)(i) Dual Compensation</title>
           <content/>
           <interpParagraph label="1026-36-d-2-i-Interp-1" marker="1.">
