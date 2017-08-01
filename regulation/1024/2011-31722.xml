@@ -9,6 +9,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>X</regLetter>
     <cfr>
       <title>12</title>
       <section>1024</section>
@@ -18,7 +19,7 @@
     <federalRegisterURL>https://www.federalregister.gov/articles/2011/12/20/2011-31722/real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
   <part label="1024">
-    <tableOfContents label="1024-TOC">
+    <tableOfContents>
       <tocSecEntry target="1024-1">
         <sectionNum>1</sectionNum>
         <sectionSubject>§ 1024.1 Designation.</sectionSubject>
@@ -3259,8 +3260,10 @@
           </paragraph>
         </appendixSection>
       </appendix>
+
       <appendix appendixLetter="MS1" label="1024-MS1">
         <appendixTitle>Appendix MS-1 to Part 1024</appendixTitle>
+	
         <appendixSection appendixSecNum="1" label="1024-MS1-p1">
           <subject/>
           <paragraph label="1024-MS1-p1-p1" marker="">

@@ -1,0 +1,81 @@
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2016-10-19</date>
+    <originalDate>2016-10-19</originalDate>
+    <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>X</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1024</section>
+    </cfr>
+    <documentNumber>2016-18901</documentNumber>
+    <effectiveDate>2017-10-19</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2016/10/19/2016-18901/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2015-18239" rightDocumentNumber="2016-18901">
+
+    <change operation="modified" label="1024-6-d-1">
+      <paragraph label="1024-6-d-1" marker="(1)">
+	<content>No changes to, deletions from, or additions to the special information booklet currently prescribed by the Bureau shall be made other than the permissible changes specified in paragraphs (d)(2) and (3) of this section or changes as otherwise approved in writing by the Bureau in accordance with the procedures described in this paragraph (d). A request to the Bureau for approval of any changes other than the permissible changes specified in paragraphs (d)(2) and (3) of this section shall be submitted in writing to the address indicated in the definition of Public Guidance Documents in § 1024.2, stating the reasons why the applicant believes such changes, deletions, or additions are necessary.</content>
+      </paragraph>
+    </change>
+
+    <change operation="modified" label="1024-6-d-2">
+      <paragraph label="1024-6-d-2" marker="(2)">
+	<content>The cover of the booklet may be in any form and may contain any drawings, pictures, or artwork, provided that the words “settlement costs” are used in the title. Names, addresses and telephone numbers of the lender or others and similar information may appear on the cover, but no discussion of the matters covered in the booklet shall appear on the cover.</content>
+      </paragraph>
+    </change>
+
+    <change operation="modified" label="1024-9-a-5">
+      <paragraph label="1024-9-a-5" marker="(5)">
+	<content>The following variations in layout and format are within the discretion of persons reproducing the HUD-1 and do not require prior Bureau approval: Size of pages; tint or color of pages; size and style of type or print; vertical spacing between lines or provision for additional horizontal space on lines (for example, to provide sufficient space for recording time periods used in prorations); printing of the HUD-1 contents on separate pages, on the front and back of a single page, or on one continuous page; use of multicopy tear-out sets; printing on rolls for computer purposes; reorganization of sections B through I, when necessary to accommodate computer printing; and manner of placement of the HUD number, but not the OMB approval number, neither of which may be deleted. The expiration date associated with the OMB number listed on the form may be deleted. Any changes in the HUD number or OMB approval number may be announced by notice in the Federal Register, rather than by amendment of this part.</content>
+      </paragraph>
+    </change>
+
+    <change operation="modified" label="1024-9-c">
+      <paragraph label="1024-9-c" marker="(c)">
+	<title>Written approval.</title>
+	<content>Any other deviation in the HUD-1 or HUD-1A forms is permissible only upon receipt of written approval of the Bureau; provided, however, that notwithstanding contrary instructions in this section or appendix A of this part, reproducing the HUD-1 or HUD-1A forms with the Bureau's OMB approval number displayed in place of HUD's OMB approval number does not require the written approval of the Bureau. A request to the Bureau for approval shall be submitted in writing to the address indicated in the definition of Public Guidance Documents in § 1024.2 and shall state the reasons why the applicant believes such deviation is needed. The prescribed form(s) must be used until approval is received.</content>
+      </paragraph>
+    </change>
+
+    <change operation="modified" label="1024-17-h-1">
+      <paragraph label="1024-17-h-1" marker="(1)">
+	<content>The format and a completed example for an initial escrow account statement are set out in Public Guidance Documents entitled “Initial Escrow Account Disclosure Statement—Format” and “Initial Escrow Account Disclosure Statement—Example,” available in accordance with the direction in the definition of Public Guidance Documents in § 1024.2.</content>
+      </paragraph>
+    </change>
+
+    <!--
+    <change operation="added" label="1024-30-d" parent="1024-30" after="1024-30-e">
+      <paragraph label="1024-30-d" marker="(d)">
+	<title>Successors in interest.</title>
+	<content>A confirmed successor in interest shall be considered a borrower for purposes of § 1024.17 and this subpart.</content>
+      </paragraph>
+    </change>
+    -->
+    
+    <!--
+	<change operation="added" label="1024-31-ConfirmedSuccessorInInterest" parent="1024-31" after="1024-31-p1">
+      <paragraph label="1024-31-ConfirmedSuccessorInInterest" marker="">
+	<content><def term="confirmed successor in interest">Confirmed successor in interest</def> means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in a property that secures a mortgage loan subject to this subpart.</content>
+      </paragraph>
+      </change>
+    -->
+
+    <change operation="added" label="1024-31-Delinquency" parent="1024-31" after="1024-31-p1">
+      <paragraph label="1024-31-Delinquency" marker="">
+	<content><def term="delinquency">Delinquency</def> means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.</content>
+      </paragraph>
+    </change>
+
+    
+    
+  </changeset>
+
+</notice>

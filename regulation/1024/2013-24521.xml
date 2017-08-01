@@ -10,6 +10,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>X</regLetter>
     <cfr>
       <title>12</title>
       <section>1024</section>
@@ -20,19 +21,149 @@
   </preamble>
   <part label="1024">
     <tableOfContents>
-        <tocAppEntry target="1024-Subpart-A">
-          <appendixLetter>A</appendixLetter>
-          <appendixSubject>General Provisions</appendixSubject>
-        </tocAppEntry>
-        <tocAppEntry target="1024-Subpart-B">
-          <appendixLetter>B</appendixLetter>
-          <appendixSubject>Mortgage Settlement and Escrow Accounts</appendixSubject>
-        </tocAppEntry>
-        <tocAppEntry target="1024-Subpart-C">
-          <appendixLetter>C</appendixLetter>
-          <appendixSubject>Mortgage Servicing</appendixSubject>
-        </tocAppEntry>
-
+	<tocSubpartEntry>
+	  <subpartTitle>General</subpartTitle>
+	  <subpartLetter>A</subpartLetter>
+	</tocSubpartEntry>
+	<tocSecEntry target="1024-1">
+          <sectionNum>1</sectionNum>
+          <sectionSubject>§ 1024.1 Designation.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-2">
+          <sectionNum>2</sectionNum>
+          <sectionSubject>§ 1024.2 Definitions.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-3">
+          <sectionNum>3</sectionNum>
+          <sectionSubject>§ 1024.3 Questions or suggestions from public and copies of public guidance documents.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-4">
+          <sectionNum>4</sectionNum>
+          <sectionSubject>§ 1024.4 Reliance upon rule, regulation or interpretation by the Bureau.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-5">
+          <sectionNum>5</sectionNum>
+          <sectionSubject>§ 1024.5 Coverage of RESPA.</sectionSubject>
+	</tocSecEntry>
+	<tocSubpartEntry>
+	  <subpartTitle>Mortgage Settlement and Escrow Accounts</subpartTitle>
+	  <subpartLetter>B</subpartLetter>
+	</tocSubpartEntry>
+	<tocSecEntry target="1024-6">
+          <sectionNum>6</sectionNum>
+          <sectionSubject>§ 1024.6 Special information booklet at time of loan application.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-7">
+          <sectionNum>7</sectionNum>
+          <sectionSubject>§ 1024.7 Good faith estimate.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-8">
+          <sectionNum>8</sectionNum>
+          <sectionSubject>§ 1024.8 Use of HUD-1 or HUD-1A settlement statements.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-9">
+          <sectionNum>9</sectionNum>
+          <sectionSubject>§ 1024.9 Reproduction of settlement statements.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-10">
+          <sectionNum>10</sectionNum>
+          <sectionSubject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-11">
+          <sectionNum>11</sectionNum>
+          <sectionSubject>§ 1024.11 Mailing.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-12">
+          <sectionNum>12</sectionNum>
+          <sectionSubject>§ 1024.12 No fee.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-13">
+          <sectionNum>13</sectionNum>
+          <sectionSubject>§ 1024.13 [Reserved]</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-14">
+          <sectionNum>14</sectionNum>
+          <sectionSubject>§ 1024.14 Prohibition against kickbacks and unearned fees.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-15">
+          <sectionNum>15</sectionNum>
+          <sectionSubject>§ 1024.15 Affiliated business arrangements.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-16">
+          <sectionNum>16</sectionNum>
+          <sectionSubject>§ 1024.16 Title companies.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-17">
+          <sectionNum>17</sectionNum>
+          <sectionSubject>§ 1024.17 Escrow accounts.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-18">
+          <sectionNum>18</sectionNum>
+          <sectionSubject>§ 1024.18 [Reserved]</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-19">
+          <sectionNum>19</sectionNum>
+          <sectionSubject>§ 1024.19 [Reserved]</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-20">
+          <sectionNum>20</sectionNum>
+          <sectionSubject>§ 1024.20 [Reserved]</sectionSubject>
+	</tocSecEntry>
+	
+	<tocSubpartEntry>
+	  <subpartTitle>Mortgage Servicing</subpartTitle>
+	  <subpartLetter>C</subpartLetter>
+	</tocSubpartEntry>
+	
+	<tocSecEntry target="1024-30">
+	  <sectionNum>30</sectionNum>
+	  <sectionSubject>§ 1024.30 Scope.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-31">
+	  <sectionNum>31</sectionNum>
+	  <sectionSubject>§ 1024.31 Definitions.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-32">
+	  <sectionNum>32</sectionNum>
+	  <sectionSubject>§ 1024.32 General disclosure requirements.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-33">
+	  <sectionNum>33</sectionNum>
+	  <sectionSubject>§ 1024.33 Mortgage servicing transfers.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-34">
+	  <sectionNum>34</sectionNum>
+	  <sectionSubject>§ 1024.34 Timely escrow payments and treatment of escrow account balances.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-35">
+	  <sectionNum>35</sectionNum>
+	  <sectionSubject>§ 1024.35 Error resolution procedures.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-36">
+	  <sectionNum>36</sectionNum>
+	  <sectionSubject>§ 1024.36 Requests for information.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-37">
+	  <sectionNum>37</sectionNum>
+	  <sectionSubject>§ 1024.37 Force-placed insurance.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-38">
+	  <sectionNum>38</sectionNum>
+	  <sectionSubject>§ 1024.38 General servicing policies, procedures, and requirements.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-39">
+	  <sectionNum>39</sectionNum>
+	  <sectionSubject>§ 1024.39 Early intervention requirements for certain borrowers.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-40">
+	  <sectionNum>40</sectionNum>
+	  <sectionSubject>§ 1024.40 Continuity of contact.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1024-41">
+	  <sectionNum>41</sectionNum>
+	  <sectionSubject>§ 1024.41 Loss mitigation procedures.</sectionSubject>
+	</tocSecEntry>
+	
         <tocAppEntry target="1024-A">
           <appendixLetter>A</appendixLetter>
           <appendixSubject>Appendix A to Part 1024—Instructions for Completing HUD-1 and HUD-1a Settlement Statements; Sample HUD-1 and HUD-1a Statements</appendixSubject>
@@ -60,7 +191,7 @@
 
         <tocAppEntry target="1024-Interp">
           <appendixLetter>Interp</appendixLetter>
-          <appendixSubject>Supplement I to Part 1024—Official Bureau Interpretations</appendixSubject>
+          <appendixSubject>Supplement I to Part 1026—Official Bureau Interpretations</appendixSubject>
         </tocAppEntry>
       </tableOfContents>
     <content>
@@ -1671,9 +1802,10 @@
           </paragraph>
         </appendixSection>
       </appendix>
+
       <subpart subpartLetter="A" label="1024-Subpart-A">
         <title>General Provisions</title>
-    <tableOfContents label="1024-Subpart-A-TOC">
+    <tableOfContents>
           <tocSecEntry target="1024-1">
             <sectionNum>1</sectionNum>
             <sectionSubject>§ 1024.1 Designation.</sectionSubject>
@@ -2038,81 +2170,81 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
       </subpart>
     <subpart subpartLetter="B" label="1024-Subpart-B">
         <title>Mortgage Settlement and Escrow Accounts</title>
-        <tableOfContents label="1024-Subpart-B-TOC">
-        <tocSecEntry target="1024-6">
-          <sectionNum>6</sectionNum>
-          <sectionSubject>§ 1024.6 Special information booklet at time of loan application.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-7">
-          <sectionNum>7</sectionNum>
-          <sectionSubject>§ 1024.7 Good faith estimate.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-8">
-          <sectionNum>8</sectionNum>
-          <sectionSubject>§ 1024.8 Use of HUD-1 or HUD-1A settlement statements.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-9">
-          <sectionNum>9</sectionNum>
-          <sectionSubject>§ 1024.9 Reproduction of settlement statements.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-10">
-          <sectionNum>10</sectionNum>
-          <sectionSubject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-11">
-          <sectionNum>11</sectionNum>
-          <sectionSubject>§ 1024.11 Mailing.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-12">
-          <sectionNum>12</sectionNum>
-          <sectionSubject>§ 1024.12 No fee.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-13">
-          <sectionNum>13</sectionNum>
-          <sectionSubject>§ 1024.13 [Reserved]</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-14">
-          <sectionNum>14</sectionNum>
-          <sectionSubject>§ 1024.14 Prohibition against kickbacks and unearned fees.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-15">
-          <sectionNum>15</sectionNum>
-          <sectionSubject>§ 1024.15 Affiliated business arrangements.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-16">
-          <sectionNum>16</sectionNum>
-          <sectionSubject>§ 1024.16 Title companies.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-17">
-          <sectionNum>17</sectionNum>
-          <sectionSubject>§ 1024.17 Escrow accounts.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-18">
-          <sectionNum>17</sectionNum>
-          <sectionSubject>§ 1024.18 [Reserved]</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-19">
-          <sectionNum>17</sectionNum>
-          <sectionSubject>§ 1024.19 [Reserved]</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-20">
-          <sectionNum>20</sectionNum>
-          <sectionSubject>§ 1024.20 List of homeownership counseling organizations.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-21">
-          <sectionNum>21</sectionNum>
-          <sectionSubject>§ 1024.21 Mortgage servicing transfers.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-22">
-          <sectionNum>22</sectionNum>
-          <sectionSubject>§ 1024.22 Severability.</sectionSubject>
-        </tocSecEntry>
-        <tocSecEntry target="1024-23">
-          <sectionNum>23</sectionNum>
-          <sectionSubject>§ 1024.23 ESIGN applicability.</sectionSubject>
-        </tocSecEntry>
-      </tableOfContents>
-    <content><section label="1024-10" sectionNum="10">
+        <tableOfContents>
+          <tocSecEntry target="1024-6">
+            <sectionNum>6</sectionNum>
+            <sectionSubject>§ 1024.6 Special information booklet at time of loan application.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-7">
+            <sectionNum>7</sectionNum>
+            <sectionSubject>§ 1024.7 Good faith estimate.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-8">
+            <sectionNum>8</sectionNum>
+            <sectionSubject>§ 1024.8 Use of HUD-1 or HUD-1A settlement statements.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-9">
+            <sectionNum>9</sectionNum>
+            <sectionSubject>§ 1024.9 Reproduction of settlement statements.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-10">
+            <sectionNum>10</sectionNum>
+            <sectionSubject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-11">
+            <sectionNum>11</sectionNum>
+            <sectionSubject>§ 1024.11 Mailing.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-12">
+            <sectionNum>12</sectionNum>
+            <sectionSubject>§ 1024.12 No fee.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-13">
+            <sectionNum>13</sectionNum>
+            <sectionSubject>§ 1024.13 Relation to State laws.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-14">
+            <sectionNum>14</sectionNum>
+            <sectionSubject>§ 1024.14 Prohibition against kickbacks and unearned fees.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-15">
+            <sectionNum>15</sectionNum>
+            <sectionSubject>§ 1024.15 Affiliated business arrangements.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-16">
+            <sectionNum>16</sectionNum>
+            <sectionSubject>§ 1024.16 Title companies.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-17">
+            <sectionNum>17</sectionNum>
+            <sectionSubject>§ 1024.17 Escrow accounts.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-18">
+            <sectionNum>17</sectionNum>
+            <sectionSubject>§ 1024.18 [Reserved]</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-19">
+            <sectionNum>17</sectionNum>
+            <sectionSubject>§ 1024.19 [Reserved]</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-20">
+            <sectionNum>20</sectionNum>
+            <sectionSubject>§ 1024.20 List of homeownership counseling organizations.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-21">
+            <sectionNum>21</sectionNum>
+            <sectionSubject>§ 1024.21 Mortgage servicing transfers.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-22">
+            <sectionNum>22</sectionNum>
+            <sectionSubject>§ 1024.22 Severability.</sectionSubject>
+          </tocSecEntry>
+          <tocSecEntry target="1024-23">
+            <sectionNum>23</sectionNum>
+            <sectionSubject>§ 1024.23 ESIGN applicability.</sectionSubject>
+          </tocSecEntry>
+        </tableOfContents>
+        <content><section label="1024-10" sectionNum="10">
             <subject>§ 1024.10 One-day advance inspection of HUD-1 or HUD-1A settlement statement; delivery; recordkeeping.</subject>
             <paragraph label="1024-10-a" marker="(a)">
               <title type="keyterm">Inspection one day prior to settlement upon request by the borrower.</title>
@@ -3020,7 +3152,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
       </subpart>
     <subpart subpartLetter="C" label="1024-Subpart-C">
         <title>Mortgage Servicing</title>
-        <tableOfContents label="1024-Subpart-C-TOC">
+        <tableOfContents>
           <tocSecEntry target="1024-30">
             <sectionNum>30</sectionNum>
             <sectionSubject>§ 1024.30 Scope.</sectionSubject>
@@ -4083,7 +4215,7 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
             <content/>
             <paragraph label="1024-41-c-2-i" marker="(i)">
         <title type="keyterm">In general.</title>
-        <content>Except as set forth in paragraph <ref target="1024-41-c-2-ii" reftype="internal">(c)(2)(ii)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not evade the requirement to evaluate a complete <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref> for all <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref> available to the borrower by offering a <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref> based upon an evaluation of any information provided by a borrower in connection with an incomplete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>.</content></paragraph>
+        <content>Except as set forth in paragraphs <ref target="1024-41-c-2-ii" reftype="internal">(c)(2)(ii)</ref> and <ref target="1024-41-c-2-iii" reftype="internal">(iii)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall not evade the requirement to evaluate a complete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> for all <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation options</ref> available to the borrower by offering a <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref> based upon an evaluation of any information provided by a borrower in connection with an incomplete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>.</content></paragraph>
     <paragraph label="1024-41-c-2-ii" marker="(ii)">
               <title type="keyterm">Reasonable time.</title>
 <content>Notwithstanding paragraph <ref target="1024-41-c-2-i" reftype="internal">(c)(2)(i)</ref> of this section, if a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has exercised reasonable diligence in obtaining documents and information to complete a <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref>, but a <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> remains incomplete for a significant period of time under the circumstances without further progress by a borrower to make the <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> complete, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may, in its discretion, evaluate an incomplete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> and offer a borrower a <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref>. Any such evaluation and offer is not subject to the requirements of this section and shall not constitute an evaluation of a single complete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> for purposes of paragraph <ref target="1024-41-i" reftype="internal">(i)</ref> of this section.</content>
@@ -4101,12 +4233,6 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
         <paragraph label="1024-41-d" marker="(d)">
         <title type="keyterm">Denial of loan modification options.</title>
         <content>If a borrower’s complete <ref target="1024-31-LossMitigationApplication" reftype="term">loss mitigation application</ref> is denied for any trial or permanent loan modification option available to the borrower pursuant to paragraph <ref target="1024-41-c" reftype="internal">(c)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall state in the notice sent to the borrower pursuant to paragraph <ref target="1024-41-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section the specific reason or reasons for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>’s determination for each such trial or permanent loan modification option and, if applicable, that the borrower was not evaluated on other criteria. </content>
-        <paragraph label="1024-41-d-1" marker="(1)">
-          <content>The specific reasons for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination for each such trial or permanent loan modification option; and</content>
-        </paragraph>
-        <paragraph label="1024-41-d-2" marker="(2)">
-          <content>If applicable pursuant to paragraph <ref target="1024-41-h" reftype="internal">(h)</ref> of this section, that the borrower may appeal the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination for any such trial or permanent loan modification option, the deadline for the borrower to make an appeal, and any requirements for making an appeal.</content>
-        </paragraph>
       </paragraph>
     <paragraph label="1024-41-e" marker="(e)">
           <title type="keyterm">Borrower response.</title>
@@ -5321,33 +5447,30 @@ related mortgage loan</ref>, including but not limited to the taking of the loan
     </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1024-41-d-Interp">
-            <title>41(d) Denial of loan modification options.</title>
-            <content/>
-            <interpParagraph label="1024-41-d-1-Interp" target="1024-41-d-1">
-              <content/>
-              <interpParagraph label="1024-41-d-1-Interp-1" marker="1.">
-                <title type="keyterm">Investor requirements.</title>
-                <content>If a trial or permanent loan modification option is denied because of a requirement of an owner or assignee of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref>, the specific reasons in the notice provided to the borrower must identify the owner or assignee of the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> and the requirement that is the basis of the denial. A statement that the denial of a loan modification option is based on an investor requirement, without additional information specifically identifying the relevant investor or guarantor and the specific applicable requirement, is insufficient. However, where an owner or assignee has established an evaluation criteria that sets an order ranking for evaluation of loan modification options (commonly known as a waterfall) and a borrower has qualified for a particular loan modification option in the ranking established by the owner or assignee, it is sufficient for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to inform the borrower, with respect to other loan modification options ranked below any such option offered to a borrower, that the investor's requirements include the use of such a ranking and that an offer of a loan modification option necessarily results in a denial for any other loan modification options below the option for which the borrower is eligible in the ranking.</content>
-              </interpParagraph>
-              <interpParagraph label="1024-41-d-1-Interp-2" marker="2.">
-                <title type="keyterm">Net present value calculation.</title>
-                <content>If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.</content>
-                <interpParagraph label="1024-41-d-1-Interp-2-p1" marker="">
-                  <title type="keyterm">(c)(1)(4) Other notices.</title>
-                  <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to § <ref target="1024-41-d" reftype="internal">1024.41(d)</ref>, unless otherwise prohibited by applicable law.</content>
-                </interpParagraph>
-              </interpParagraph>
-              <interpParagraph label="1024-41-d-1-Interp-3" marker="3.">
-                <title type="keyterm">Determination not to offer a loan modification option constitutes a denial.</title>
-                <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> offers a borrower a different loan modification option or other <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref>.</content>
-              </interpParagraph>
-            <interpParagraph label="1024-41-d-Interp-4" marker="4.">
-        <title type="keyterm">Reasons listed.</title>
-        <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is required to disclose the actual reason or reasons for the denial. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>’s systems establish a hierarchy of eligibility criteria and reach the first criterion that causes a denial but do not evaluate the borrower based on additional criteria, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with the rule by providing only the reason or reasons with respect to which the borrower was actually evaluated and rejected as well as notification that the borrower was not evaluated on other criteria. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to determine or disclose whether a borrower would have been denied on the basis of additional criteria if such criteria were not actually considered.</content>
-      </interpParagraph>
-    </interpParagraph>
+        <title>41(d) Denial of loan modification options.</title>
+        <content/>
+        <interpParagraph label="1024-41-d-Interp-1" marker="1.">
+          <title type="keyterm">Investor requirements.</title>
+          <content>If a trial or permanent loan modification option is denied because of a requirement of an owner or assignee of a <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref>, the specific reasons in the notice provided to the borrower must identify the owner or assignee of the <ref target="1024-31-MortgageLoan" reftype="term">mortgage loan</ref> and the requirement that is the basis of the denial. A statement that the denial of a loan modification option is based on an investor requirement, without additional information specifically identifying the relevant investor or guarantor and the specific applicable requirement, is insufficient. However, where an owner or assignee has established an evaluation criteria that sets an order ranking for evaluation of loan modification options (commonly known as a waterfall) and a borrower has qualified for a particular loan modification option in the ranking established by the owner or assignee, it is sufficient for the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to inform the borrower, with respect to other loan modification options ranked below any such option offered to a borrower, that the investor's requirements include the use of such a ranking and that an offer of a loan modification option necessarily results in a denial for any other loan modification options below the option for which the borrower is eligible in the ranking.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-41-d-Interp-2" marker="2.">
+          <title type="keyterm">Net present value calculation.</title>
+          <content>If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.</content>
+          <interpParagraph label="1024-41-d-1-Interp-2-p1" marker="">
+            <title type="keyterm">(c)(1)(4) Other notices.</title>
+            <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to § <ref target="1024-41-d" reftype="internal">1024.41(d)</ref>, unless otherwise prohibited by applicable law.</content>
           </interpParagraph>
-          <interpParagraph label="1024-41-f-Interp">
+        </interpParagraph>
+        <interpParagraph label="1024-41-d-Interp-3" marker="3.">
+          <title type="keyterm">Determination not to offer a loan modification option constitutes a denial.</title>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> offers a borrower a different loan modification option or other <ref target="1024-31-LossMitigationOption" reftype="term">loss mitigation option</ref>.</content>
+        </interpParagraph>
+	<interpParagraph label="1024-41-d-Interp-4" marker="4.">
+          <title type="keyterm">Reasons listed.</title>
+          <content>A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is required to disclose the actual reason or reasons for the denial. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>’s systems establish a hierarchy of eligibility criteria and reach the first criterion that causes a denial but do not evaluate the borrower based on additional criteria, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> complies with the rule by providing only the reason or reasons with respect to which the borrower was actually evaluated and rejected as well as notification that the borrower was not evaluated on other criteria. A <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is not required to determine or disclose whether a borrower would have been denied on the basis of additional criteria if such criteria were not actually considered.</content>
+	</interpParagraph>
+      </interpParagraph>
+    <interpParagraph label="1024-41-f-Interp">
             <title>41(f) Prohibition on foreclosure referral.</title>
             <content/>
             <interpParagraph label="1024-41-f-Interp-1" target="1024-41-f-1" marker="1.">
