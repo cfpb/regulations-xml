@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2016-11-30</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>CONSUMER LEASING</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>A</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1026</section>
+    </cfr>
+    <documentNumber>2016-28718</documentNumber>
+    <effectiveDate>2017-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2016/11/30/2016-28718/truth-in-lending-regulation-z</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2016-30730" leftEffectiveDate="2017-01-01" rightDocumentNumber="2016-28718" rightEffectiveDate="2017-01-01">
+    <change label="1026-3-b-Interp" operation="modified">
+      <interpParagraph label="1026-3-b-Interp" marker="" target="1026-3-b">
+        <content></content>
+        <interpParagraph label="1026-3-b-Interp-1" marker="1.">
+          <content>For purposes of &#167; 1026.3(b), the threshold amount in effect during a particular period is the amount stated in comment 3(b)-3 below for that period. The threshold amount is adjusted effective January 1 of each year by any annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) that was in effect on the preceding June 1. Comment 3(b)-3 will be amended to provide the threshold amount for the upcoming year after the annual percentage change in the CPI-W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the annual percentage increase in the CPI-W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the annual percentage increase in the CPI-W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-3-b-Interp-2" marker="2.">
+          <content>If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs, for the years that follow, the threshold is calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding, if decreases and any subsequent increases in the CPI-W had been taken into account.</content>
+          <interpParagraph label="1026-3-b-Interp-2-i" marker="i.">
+            <content>If the resulting amount calculated, after rounding, is greater than the current threshold, then the threshold effective January 1 the following year will increase accordingly.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-2-ii" marker="ii.">
+            <content>If the resulting amount calculated, after rounding, is equal to or less than the current threshold, then the threshold effective January 1 the following year will not change, but future increases will be calculated based on the amount that would have resulted.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-3-b-Interp-3" marker="3.">
+          <content>For purposes of &#167; 1026.3(b), the threshold amount in effect during a particular period is the amount stated below for that period.</content>
+          <interpParagraph label="1026-3-b-Interp-3-i" marker="i.">
+            <content>Prior to July 21, 2011, the threshold amount is $25,000.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-3-ii" marker="ii.">
+            <content> From July 21, 2011 through December 31, 2011, the threshold amount is $50,000.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-3-iii" marker="iii.">
+            <content>From January 1, 2012 through December 31, 2012, the threshold amount is $51,800.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-3-iv" marker="iv.">
+            <content>From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-3-v" marker="v.">
+            <content>From January 1, 2014 through December 31, 2014, the threshold amount is $53,500.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-3-vi" marker="vi.">
+            <content>From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-3-vii" marker="vii.">
+            <content>From January 1, 2016 through December 31, 2016, the threshold amount is $54,600.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-3-viii" marker="viii.">
+            <content>From January 1, 2017 through December 31, 2017, the threshold amount is $54,600.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-3-b-Interp-4" marker="4.">
+          <title>Open-end credit.</title>
+          <content></content>
+          <interpParagraph label="1026-3-b-Interp-4-i" marker="i.">
+            <title>Qualifying for exemption.</title>
+            <content>An open-end account is exempt under &#167; 226.3(b) (unless secured by any real property, or by personal property used or expected to be used as the consumer's principal dwelling) if either of the following conditions is met:</content>
+            <interpParagraph label="1026-3-b-Interp-4-i-A" marker="A.">
+              <content>The creditor makes an initial extension of credit at or after account opening that exceeds the threshold amount in effect at the time the initial extension is made. If a creditor makes an initial extension of credit after account opening that does not exceed the threshold amount in effect at the time the extension is made, the creditor must have satisfied all of the applicable requirements of this part from the date the account was opened (or earlier, if applicable), including but not limited to the requirements of &#167; 226.6 (account-opening disclosures), &#167; 226.7 (periodic statements), &#167; 226.52 (limitations on fees), and &#167; 226.55 (limitations on increasing annual percentages rates, fees, and charges). For example:</content>
+              <interpParagraph label="1026-3-b-Interp-4-i-A-1" marker="(1)">
+                <content>Assume that the threshold amount in effect on January 1 is $50,000. On February 1, an account is opened but the creditor does not make an initial extension of credit at that time. On July 1, the creditor makes an initial extension of credit of $60,000. In this circumstance, no requirements of this part apply to the account.</content>
+              </interpParagraph>
+              <interpParagraph label="1026-3-b-Interp-4-i-A-2" marker="(2)">
+                <content>Assume that the threshold amount in effect on January 1 is $50,000. On February 1, an account is opened but the creditor does not make an initial extension of credit at that time. On July 1, the creditor makes an initial extension of credit of $50,000 or less. In this circumstance, the account is not exempt and the creditor must have satisfied all of the applicable requirements of this part from the date the account was opened (or earlier, if applicable).</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1026-3-b-Interp-4-i-B" marker="B.">
+              <content>The creditor makes a firm written commitment at account opening to extend a total amount of credit in excess of the threshold amount in effect at the time the account is opened with no requirement of additional credit information for any advances on the account (except as permitted from time to time with respect to open-end accounts pursuant to &#167; 226.2(a)(20)).</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-4-ii" marker="ii.">
+            <title>Subsequent changes generally.</title>
+            <content>Subsequent changes to an open-end account or the threshold amount may result in the account no longer qualifying for the exemption in &#167; 226.3(b). In these circumstances, the creditor must begin to comply with all of the applicable requirements of this part within a reasonable period of time after the account ceases to be exempt. Once an account ceases to be exempt, the requirements of this part apply to any balances on the account. The creditor, however, is not required to comply with the requirements of this part with respect to the period of time during which the account was exempt. For example, if an open-end credit account ceases to be exempt, the creditor must within a reasonable period of time provide the disclosures required by &#167; 226.6 reflecting the current terms of the account and begin to provide periodic statements consistent with &#167; 226.7. However, the creditor is not required to disclose fees or charges imposed while the account was exempt. Furthermore, if the creditor provided disclosures consistent with the requirements of this part while the account was exempt, it is not required to provide disclosures required by &#167; 226.6 reflecting the current terms of the account. See also comment 3(b)-6.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-4-iii" marker="iii.">
+            <title>Subsequent changes when exemption is based on initial extension of credit.</title>
+            <content>If a creditor makes an initial extension of credit that exceeds the threshold amount in effect at that time, the open-end account remains exempt under &#167; 226.3(b) regardless of a subsequent increase in the threshold amount, including an increase pursuant to &#167; 226.3(b)(1)(ii) as a result of an increase in the CPI-W. Furthermore, in these circumstances, the account remains exempt even if there are no further extensions of credit, subsequent extensions of credit do not exceed the threshold amount, the account balance is subsequently reduced below the threshold amount (such as through repayment of the extension), or the credit limit for the account is subsequently reduced below the threshold amount. However, if the initial extension of credit on an account does not exceed the threshold amount in effect at the time of the extension, the account is not exempt under &#167; 226.3(b) even if a subsequent extension exceeds the threshold amount or if the account balance later exceeds the threshold amount (for example, due to the subsequent accrual of interest).</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-4-iv" marker="iv.">
+            <title>Subsequent changes when exemption is based on firm commitment.</title>
+            <content></content>
+            <interpParagraph label="1026-3-b-Interp-4-iv-A" marker="A.">
+              <title>General.</title>
+              <content>If a creditor makes a firm written commitment at account opening to extend a total amount of credit that exceeds the threshold amount in effect at that time, the open-end account remains exempt under &#167; 226.3(b) regardless of a subsequent increase in the threshold amount pursuant to &#167; 226.3(b)(1)(ii) as a result of an increase in the CPI-W. However, see comment 3(b)-8 with respect to the increase in the threshold amount from $25,000 to $50,000. If an open-end account is exempt under &#167; 226.3(b) based on a firm commitment to extend credit, the account remains exempt even if the amount of credit actually extended does not exceed the threshold amount. In contrast, if the firm commitment does not exceed the threshold amount at account opening, the account is not exempt under &#167; 226.3(b) even if the account balance later exceeds the threshold amount. In addition, if a creditor reduces a firm commitment, the account ceases to be exempt unless the reduced firm commitment exceeds the threshold amount in effect at the time of the reduction. For example:
+
+</content>
+              <interpParagraph label="1026-3-b-Interp-4-iv-A-1" marker="(1)">
+                <content>Assume that, at account opening in year one, the threshold amount in effect is $50,000 and the account is exempt under &#167; 226.3(b) based on the creditor's firm commitment to extend $55,000 in credit. If during year one the creditor reduces its firm commitment to $53,000, the account remains exempt under &#167; 226.3(b). However, if during year one the creditor reduces its firm commitment to $40,000, the account is no longer exempt under &#167; 226.3(b).</content>
+              </interpParagraph>
+              <interpParagraph label="1026-3-b-Interp-4-iv-A-2" marker="(2)">
+                <content>Assume that, at account opening in year one, the threshold amount in effect is $50,000 and the account is exempt under &#167; 226.3(b) based on the creditor's firm commitment to extend $55,000 in credit. If the threshold amount is $56,000 on January 1 of year six as a result of increases in the CPI-W, the account remains exempt. However, if the creditor reduces its firm commitment to $54,000 on July 1 of year six, the account ceases to be exempt under &#167; 226.3(b).</content>
+              </interpParagraph>
+            </interpParagraph>
+            <interpParagraph label="1026-3-b-Interp-4-iv-B" marker="B.">
+              <title>Initial extension of credit.</title>
+              <content>If an open-end account qualifies for a &#167; 226.3(b) exemption at account opening based on a firm commitment, that account may also subsequently qualify for a &#167; 226.3(b) exemption based on an initial extension of credit. However, that initial extension must be a single advance in excess of the threshold amount in effect at the time the extension is made. In addition, the account must continue to qualify for an exemption based on the firm commitment until the initial extension of credit is made. For example:</content>
+              <interpParagraph label="1026-3-b-Interp-4-iv-B-1" marker="(1)">
+                <content>Assume that, at account opening in year one, the threshold amount in effect is $50,000 and the account is exempt under &#167; 226.3(b) based on the creditor's firm commitment to extend $55,000 in credit. The account is not used for an extension of credit during year one. On January 1 of year two, the threshold amount is increased to $51,000 pursuant to &#167; 226.3(b)(1)(ii) as a result of an increase in the CPI-W. On July 1 of year two, the consumer uses the account for an initial extension of $52,000. As a result of this extension of credit, the account remains exempt under &#167; 226.3(b) even if, after July 1 of year two, the creditor reduces the firm commitment to $51,000 or less.</content>
+              </interpParagraph>
+              <interpParagraph label="1026-3-b-Interp-4-iv-B-2" marker="(2)">
+                <content>Same facts as in paragraph iv.B(1) above except that the consumer uses the account for an initial extension of $30,000 on July 1 of year two and for an extension of $22,000 on July 15 of year two. In these circumstances, the account is not exempt under &#167; 226.3(b) based on the $30,000 initial extension of credit because that extension did not exceed the applicable threshold amount ($51,000), although the account remains exempt based on the firm commitment to extend $55,000 in credit.</content>
+              </interpParagraph>
+              <interpParagraph label="1026-3-b-Interp-4-iv-B-3" marker="(3)">
+                <content>Same facts as in paragraph iv.B(1) above except that, on April 1 of year two, the creditor reduces the firm commitment to $50,000, which is below the $51,000 threshold then in effect. Because the account ceases to qualify for a &#167; 226.3(b) exemption on April 1 of year two, the account does not qualify for a &#167; 226.3(b) exemption based on a $52,000 initial extension of credit on July 1 of year two.</content>
+              </interpParagraph>
+            </interpParagraph>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-3-b-Interp-5" marker="5.">
+          <title>Closed-end credit.</title>
+          <content></content>
+          <interpParagraph label="1026-3-b-Interp-5-i" marker="i.">
+            <title>Qualifying for exemption.</title>
+            <content>A closed-end loan is exempt under &#167; 226.3(b) (unless the extension of credit is secured by any real property, or by personal property used or expected to be used as the consumer's principal dwelling; or is a private education loan as defined in &#167; 226.46(b)(5)), if either of the following conditions is met.</content>
+            <interpParagraph label="1026-3-b-Interp-5-i-A" marker="A.">
+              <content>The creditor makes an extension of credit at consummation that exceeds the threshold amount in effect at the time of consummation. In these circumstances, the loan remains exempt under &#167; 226.3(b) even if the amount owed is subsequently reduced below the threshold amount (such as through repayment of the loan).</content>
+            </interpParagraph>
+            <interpParagraph label="1026-3-b-Interp-5-i-B" marker="B.">
+              <content>The creditor makes a commitment at consummation to extend a total amount of credit in excess of the threshold amount in effect at the time of consummation. In these circumstances, the loan remains exempt under &#167; 226.3(b) even if the total amount of credit extended does not exceed the threshold amount.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-5-ii" marker="ii.">
+            <title>Subsequent changes.</title>
+            <content>If a creditor makes a closed-end extension of credit or commitment to extend closed-end credit that exceeds the threshold amount in effect at the time of consummation, the closed-end loan remains exempt under &#167; 226.3(b) regardless of a subsequent increase in the threshold amount. However, a closed-end loan is not exempt under &#167; 226.3(b) merely because it is used to satisfy and replace an existing exempt loan, unless the new extension of credit is itself exempt under the applicable threshold amount. For example, assume a closed-end loan that qualified for a &#167; 226.3(b) exemption at consummation in year one is refinanced in year ten and that the new loan amount is less than the threshold amount in effect in year ten. In these circumstances, the creditor must comply with all of the applicable requirements of this part with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, which is not exempt under &#167; 226.3(b). See also comment 3(b)-6.
+
+</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-3-b-Interp-6" marker="6.">
+          <title>Addition of a security interest in real property or a dwelling after account opening or consummation.</title>
+          <content></content>
+          <interpParagraph label="1026-3-b-Interp-6-i" marker="i.">
+            <title>Open-end credit.</title>
+            <content>For open-end accounts, if, after account opening, a security interest is taken in real property, or in personal property used or expected to be used as the consumer's principal dwelling, a previously exempt account ceases to be exempt under &#167; 226.3(b) and the creditor must begin to comply with all of the applicable requirements of this part within a reasonable period of time. See comment 3(b)-4.ii. If a security interest is taken in the consumer's principal dwelling, the creditor must also give the consumer the right to rescind the security interest consistent with &#167; 226.15.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-6-ii" marker="ii.">
+            <title>Closed-end credit.</title>
+            <content>For closed-end loans, if, after consummation, a security interest is taken in any real property, or in personal property used or expected to be used as the consumer's principal dwelling, an exempt loan remains exempt under &#167; 226.3(b). However, the addition of a security interest in the consumer's principal dwelling is a transaction for purposes of &#167; 226.23, and the creditor must give the consumer the right to rescind the security interest consistent with that section. See &#167; 226.23(a)(1) and the accompanying commentary. In contrast, if a closed-end loan that is exempt under &#167; 226.3(b) is satisfied and replaced by a loan that is secured by any real property, or by personal property used or expected to be used as the consumer's principal dwelling, the new loan is not exempt under &#167; 226.3(b) and the creditor must comply with all of the applicable requirements of this part. See comment 3(b)-5.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-3-b-Interp-7" marker="7.">
+          <title>Application to extensions secured by mobile homes.</title>
+          <content>Because a mobile home can be a dwelling under &#167; 226.2(a)(19), the exemption in &#167; 226.3(b) does not apply to a credit extension secured by a mobile home that is used or expected to be used as the principal dwelling of the consumer. See comment 3(b)-6.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-3-b-Interp-8" marker="8.">
+          <title>Transition rule for open-end accounts exempt prior to July 21, 2011.</title>
+          <content>Section 226.3(b)(2) applies only to open-end accounts opened prior to July 21, 2011. Section 226.3(b)(2) does not apply if a security interest is taken by the creditor in any real property, or in personal property used or expected to be used as the consumer's principal dwelling. If, on July 20, 2011, an open-end account is exempt under &#167; 226.3(b) based on a firm commitment to extend credit in excess of $25,000, the account remains exempt under &#167; 226.3(b)(2) until December 31, 2011 (unless the firm commitment is reduced to $25,000 or less). If the firm commitment is increased on or before December 31, 2011 to an amount in excess of $50,000, the account remains exempt under &#167; 226.3(b)(1) regardless of subsequent increases in the threshold amount as a result of increases in the CPI-W. If the firm commitment is not increased on or before December 31, 2011 to an amount in excess of $50,000, the account ceases to be exempt under &#167; 226.3(b) based on a firm commitment to extend credit. For example:</content>
+          <interpParagraph label="1026-3-b-Interp-8-i" marker="i.">
+            <content>Assume that, on July 20, 2011, the account is exempt under &#167; 226.3(b) based on the creditor's firm commitment to extend $30,000 in credit. On November 1, 2011, the creditor increases the firm commitment on the account to $55,000. In these circumstances, the account remains exempt under &#167; 226.3(b)(1) regardless of subsequent increases in the threshold amount as a result of increases in the CPI-W.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-3-b-Interp-8-ii" marker="ii.">
+            <content>Same facts as paragraph i. above except, on November 1, 2011, the creditor increases the firm commitment on the account to $40,000. In these circumstances, the account ceases to be exempt under &#167; 226.3(b)(2) after December 31, 2011, and the creditor must begin to comply with the applicable requirements of this part.</content>
+          </interpParagraph>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+  </changeset>
+</notice>
