@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+<regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2011-12-19</date>
-    <originalDate>2012-01-01</originalDate>
+    <date>2014-12-29</date>
+    <originalDate>2014-12-29</originalDate>
     <title>HOME MORTGAGE DISCLOSURE</title>
   </fdsys>
   <preamble>
@@ -15,9 +15,9 @@
       <title>12</title>
       <section>1003</section>
     </cfr>
-    <documentNumber>2011-31712</documentNumber>
-    <effectiveDate>2011-12-30</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2011/12/19/2011-31712/home-mortgage-disclosure-regulation-c</federalRegisterURL>
+    <documentNumber>2014-30404</documentNumber>
+    <effectiveDate>2015-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/articles/2014/12/29/2014-30404/home-mortgage-disclosure-regulation-c-adjustment-to-asset-size-exemption-threshold</federalRegisterURL>
   </preamble>
   <part label="1003">
     <tableOfContents>
@@ -37,7 +37,7 @@
         <sectionNum>4</sectionNum>
         <sectionSubject>§ 1003.4 Compilation of loan data.</sectionSubject>
       </tocSecEntry>
-      <tocSecEntry target="1003-5" action="modified">
+      <tocSecEntry target="1003-5">
         <sectionNum>5</sectionNum>
         <sectionSubject>§ 1003.5 Disclosure and reporting.</sectionSubject>
       </tocSecEntry>
@@ -1021,12 +1021,11 @@
               <content>An institution that met the test for coverage under HMDA in year 1, and then ceases to meet the test (for example, because its assets fall below the threshold on December 31 of year 2) stops collecting HMDA data beginning with year 3. Similarly, an institution that did not meet the coverage test for a given year, and then meets the test in the succeeding year, begins collecting HMDA data in the calendar year following the year in which it meets the test for coverage. For example, a for-profit mortgage lending institution (other than a bank, savings association, or credit union) that, in year 1, falls below the thresholds specified in the definition of <ref target="1003-2-FinancialInstitution" reftype="term">Financial institution</ref> in § <ref target="1003-2" reftype="internal">1003.2</ref>, but meets one of them in year 2, need not collect data in year 2, but begins collecting data in year 3.</content>
 	    </interpParagraph>
 	    <interpParagraph label="1003-2-FinancialInstitution-Interp-2" marker="2." action="modified">
-	      <title>Adjustment of exemption threshold for depository institutions.</title>
-	      <leftContent>For data collection in 2011, the asset-size exemption threshold is $40 million. Banks, savings associations, and credit, unions with assets at or below $40 million as of December 31, 2010, are exempt from collecting data for 2011.</leftContent><rightContent>For data collection in 2013, the asset-size exemption threshold is $42 million. Banks, savings associations, and credit unions with assets at or below $42 million as of December 31, 2013, are exempt from collecting data for 2013.</rightContent>
+	<title>Adjustment of exemption threshold for depository institutions.</title>
+	<leftContent>For data collection in 2015, the asset-size exemption threshold is $44 million. Banks, savings associations, and credit unions with assets at or below $44 million as of December 31, 2014, are exempt from collecting data for 2015.</leftContent><rightContent>For data collection in 2017, the asset-size exemption threshold is $44 million. Banks, savings associations, and credit unions with assets at or below $44 million as of December 31, 2016, are exempt from collecting data for 2017.</rightContent>
       
-	    </interpParagraph>
-	        
-            <interpParagraph label="1003-2-FinancialInstitution-Interp-3" marker="3.">
+      </interpParagraph>
+    <interpParagraph label="1003-2-FinancialInstitution-Interp-3" marker="3.">
               <title>Coverage after a merger.</title>
               <content>Several scenarios of data-collection responsibilities for the calendar year of a merger are described below. Under all the scenarios, if the merger results in a covered institution, that institution must begin data collection January 1 of the following calendar year.</content>
               <interpParagraph label="1003-2-FinancialInstitution-Interp-3-i" marker="i.">
@@ -1365,9 +1364,8 @@
           </interpParagraph>
         </interpSection>
         
-        <interpSection label="1003-5-Interp" sectionNum="5" action="modified">
-          <leftTitle>Section 1003.5-Disclosure and Reporting</leftTitle><rightTitle/>
-          
+        <interpSection label="1003-5-Interp" sectionNum="5">
+          <title/>
           <interpParagraph label="1003-5-a-Interp" target="1003-5-a">
             <title>5(a) Reporting to agency.</title>
             <content/>
