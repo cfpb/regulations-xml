@@ -10,7 +10,6 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
-    <regLetter>C</regLetter>
     <cfr>
       <title>12</title>
       <section>1003</section>
@@ -53,10 +52,12 @@
         <appendixLetter>B</appendixLetter>
         <appendixSubject>Appendix B to Part 1003—Form and Instructions for Data Collection on Ethnicity, Race, and Sex</appendixSubject>
       </tocAppEntry>
-      <tocAppEntry target="1003-Interp">
-        <appendixLetter>Interp</appendixLetter>
-        <appendixSubject>Supplement I to Part 1003—Staff Commentary</appendixSubject>
-      </tocAppEntry>
+      <tocInterpEntry target="1003-Interp-h1">
+	<interpTitle>Introduction</interpTitle>
+      </tocInterpEntry>
+      <tocInterpEntry target="1003-Interp">
+        <interpTitle>Supplement I to Part 1003—Staff Commentary</interpTitle>
+      </tocInterpEntry>
     </tableOfContents>
     <content>
       <subpart label="1003-Subpart">
@@ -1364,7 +1365,7 @@
         </interpSection>
         
         <interpSection label="1003-5-Interp" sectionNum="5">
-          <title/>
+          <title>Section 1003.5-Disclosure and Reporting</title>
           <interpParagraph label="1003-5-a-Interp" target="1003-5-a">
             <title>5(a) Reporting to agency.</title>
             <content/>
