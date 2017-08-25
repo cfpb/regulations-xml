@@ -10,7 +10,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
-    <regLetter>A</regLetter>
+    <regLetter>Z</regLetter>
     <cfr>
       <title>12</title>
       <section>1026</section>
@@ -19,7 +19,7 @@
     <effectiveDate>2017-01-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/documents/2016/11/30/2016-28718/truth-in-lending-regulation-z</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2016-30730" leftEffectiveDate="2017-01-01" rightDocumentNumber="2016-28718" rightEffectiveDate="2017-01-01">
+  <changeset leftDocumentNumber="2016-30730" leftEffectiveDate="2017-01-01" rightDocumentNumber="2016-28718">
     <change label="1026-3-b-Interp" operation="modified">
       <interpParagraph label="1026-3-b-Interp" marker="" target="1026-3-b">
         <content></content>
