@@ -18,71 +18,55 @@
     <effectiveDate>2017-01-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/documents/2016/11/30/2016-28699/appraisals-for-higher-priced-mortgage-loans-exemption-threshold</federalRegisterURL>
   </preamble>
-
+ 
   <changeset leftDocumentNumber="2016-14782_20170101" rightDocumentNumber="2016-28699">
 
     <!--  In supplement I to part 1026, under Section 1026.35—Requirements for Higher-Priced Mortgage Loans, the entry for Paragraph 35(c)(2)(ii) is revised to read as follows: -->
-    <change operation="modified" label="1026-35-c-2-ii-Interp-1">
-      <interpParagraph label="1026-35-c-2-ii-Interp-1" marker="1.">
-        <title type="keyterm">Threshold amount.</title>
-        <content>For purposes of § 1026.35(c)(2)(ii), the threshold amount in effect during a particular period is the amount stated in comment <ref target="1026-35-c-2-ii-Interp-3" reftype="internal">35(c)(2)(ii)-3</ref> for that period. The threshold amount is adjusted effective January 1 of each year by any annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) that was in effect on the preceding June 1. Comment <ref target="1026-35-c-2-ii-Interp-3" reftype="internal">35(c)(2)(ii)-3</ref> will be amended to provide the threshold amount for the upcoming year after the annual percentage change in the CPI-W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the annual percentage increase in the CPI-W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the annual percentage increase in the CPI-W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900.</content>
+    <change operation="modified" label="1026-35-c-2-ii-Interp">
+      <interpParagraph label="1026-35-c-2-ii-Interp" target="1026-35-c-2-ii">
+	<title>Paragraph 35(c)(2)(ii)</title>
+	<content></content>
+	<interpParagraph label="1026-35-c-2-ii-Interp-1" marker="1.">
+          <title type="keyterm">Threshold amount.</title>
+          <content>For purposes of § 1026.35(c)(2)(ii), the threshold amount in effect during a particular period is the amount stated in comment <ref target="1026-35-c-2-ii-Interp-3" reftype="internal">35(c)(2)(ii)-3</ref> for that period. The threshold amount is adjusted effective January 1 of each year by any annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) that was in effect on the preceding June 1. Comment <ref target="1026-35-c-2-ii-Interp-3" reftype="internal">35(c)(2)(ii)-3</ref> will be amended to provide the threshold amount for the upcoming year after the annual percentage change in the CPI-W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the annual percentage increase in the CPI-W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the annual percentage increase in the CPI-W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900.</content>
+	</interpParagraph>
+	<interpParagraph label="1026-35-c-2-ii-Interp-2" marker="2.">
+          <title type="keyterm">No increase in the CPI-W.</title>
+          <content>If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs, for the years that follow, the threshold is calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding, if decreases and any subsequent increases in the CPI-W had been taken into account.</content>
+          <interpParagraph label="1026-35-c-2-ii-Interp-2-i" marker="i.">
+            <title type="keyterm">Net increases.</title>
+            <content>If the resulting amount calculated, after rounding, is greater than the current threshold, then the threshold effective January 1 the following year will increase accordingly.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-35-c-2-ii-Interp-2-ii" marker="ii.">
+            <title type="keyterm">Net decreases.</title>
+            <content>If the resulting amount calculated, after rounding, is equal to or less than the current threshold, then the threshold effective January 1 the following year will not change, but future increases will be calculated based on the amount that would have resulted.</content>
+          </interpParagraph>
+	</interpParagraph>
+	<interpParagraph label="1026-35-c-2-ii-Interp-3" marker="3.">
+          <title type="keyterm">Threshold.</title>
+          <content>For purposes of § 1026.35(c)(2)(ii), the threshold amount in effect during a particular period is the amount stated below for that period.</content>
+          <interpParagraph label="1026-35-c-2-ii-Interp-3-i" marker="i.">
+            <content>From January 18, 2014, through December 31, 2014, the threshold amount is $25,000.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-35-c-2-ii-Interp-3-ii" marker="ii.">
+            <content>From January 1, 2015, through December 31, 2015, the threshold amount is $25,500.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-35-c-2-ii-Interp-3-iii" marker="iii.">
+            <content>From January 1, 2016, through December 31, 2016, the threshold amount is $25,500.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-35-c-2-ii-Interp-3-iv" marker="iv.">
+            <content>From January 1, 2017, through December 31, 2017, the threshold amount is $25,500.</content>
+          </interpParagraph>
+	</interpParagraph>
+	<interpParagraph label="1026-35-c-2-ii-Interp-4" marker="4.">
+          <title type="keyterm">Qualifying for exemption—in general.</title>
+          <content>A transaction is exempt under § 1026.35(c)(2)(ii) if the <ref target="1026-2-a-17" reftype="term">creditor</ref> makes an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> at <ref target="1026-2-a-13" reftype="term">consummation</ref> that is equal to or below the threshold amount in effect at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
+	</interpParagraph>
+	<interpParagraph label="1026-35-c-2-ii-Interp-5" marker="5.">
+          <title type="keyterm">Qualifying for exemption—subsequent changes.</title>
+          <content>A transaction does not meet the condition for an exemption under § 1026.35(c)(2)(ii) merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of <ref target="1026-2-a-14" reftype="term">credit</ref> is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a § 1026.35(c)(2)(ii) exemption at <ref target="1026-2-a-13" reftype="term">consummation</ref> in year one is refinanced in year ten and that the new loan amount is greater than the threshold amount in effect in year ten. In these circumstances, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must comply with all of the applicable requirements of § 1026.35(c) with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of § 1026.35(c) applies. See § 1026.35(c)(2) and (c)(4)(vii).</content>
+	</interpParagraph>
       </interpParagraph>
     </change>
-    <change operation="modified" label="1026-35-c-2-ii-Interp-2">
-      <interpParagraph label="1026-35-c-2-ii-Interp-2" marker="2.">
-        <title type="keyterm">No increase in the CPI-W.</title>
-        <content>If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs, for the years that follow, the threshold is calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding, if decreases and any subsequent increases in the CPI-W had been taken into account.</content>
-        <interpParagraph label="1026-35-c-2-ii-Interp-2-i" marker="i.">
-          <title type="keyterm">Net increases.</title>
-          <content>If the resulting amount calculated, after rounding, is greater than the current threshold, then the threshold effective January 1 the following year will increase accordingly.</content>
-        </interpParagraph>
-        <interpParagraph label="1026-35-c-2-ii-Interp-2-ii" marker="ii.">
-          <title type="keyterm">Net decreases.</title>
-          <content>If the resulting amount calculated, after rounding, is equal to or less than the current threshold, then the threshold effective January 1 the following year will not change, but future increases will be calculated based on the amount that would have resulted.</content>
-        </interpParagraph>
-      </interpParagraph>
-    </change>
-    <change operation="modified" label="1026-35-c-2-i">
-      <paragraph label="1026-35-c-2-i" marker="(i)">
-        <content>A loan that satisfies the criteria of a qualified mortgage as defined pursuant to <ref target="USC:15-1639" reftype="external">15 U.S.C. 1639</ref>c;</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1026-43-e-2-v-B">
-      <paragraph label="1026-43-e-2-v-B" marker="(B)">
-        <content>The <ref target="1026-2-a-11" reftype="term">consumer</ref>'s current debt obligations, alimony, and child support in accordance with appendix <ref target="1026-Q" reftype="internal">Q</ref> and paragraphs <ref target="1026-43-c-2-vi" reftype="internal">(c)(2)(vi)</ref> and <ref target="1026-43-c-3" reftype="internal">(c)(3)</ref> of this section; and</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1026-35-c-2-ii-Interp-3">
-      <interpParagraph label="1026-35-c-2-ii-Interp-3" marker="3.">
-        <title type="keyterm">Threshold.</title>
-        <content>For purposes of § 1026.35(c)(2)(ii), the threshold amount in effect during a particular period is the amount stated below for that period.</content>
-        <interpParagraph label="1026-35-c-2-ii-Interp-3-i" marker="i.">
-          <content>From January 18, 2014, through December 31, 2014, the threshold amount is $25,000.</content>
-        </interpParagraph>
-        <interpParagraph label="1026-35-c-2-ii-Interp-3-ii" marker="ii.">
-          <content>From January 1, 2015, through December 31, 2015, the threshold amount is $25,500.</content>
-        </interpParagraph>
-        <interpParagraph label="1026-35-c-2-ii-Interp-3-iii" marker="iii.">
-          <content>From January 1, 2016, through December 31, 2016, the threshold amount is $25,500.</content>
-        </interpParagraph>
-        <interpParagraph label="1026-35-c-2-ii-Interp-3-iv" marker="iv.">
-          <content>From January 1, 2017, through December 31, 2017, the threshold amount is $25,500.</content>
-        </interpParagraph>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1026-35-c-2-ii-Interp-5">
-      <interpParagraph label="1026-35-c-2-ii-Interp-5" marker="5.">
-        <title type="keyterm">Qualifying for exemption—subsequent changes.</title>
-        <content>A transaction does not meet the condition for an exemption under § 1026.35(c)(2)(ii) merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of <ref target="1026-2-a-14" reftype="term">credit</ref> is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a § 1026.35(c)(2)(ii) exemption at <ref target="1026-2-a-13" reftype="term">consummation</ref> in year one is refinanced in year ten and that the new loan amount is greater than the threshold amount in effect in year ten. In these circumstances, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must comply with all of the applicable requirements of § 1026.35(c) with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of § 1026.35(c) applies. See § 1026.35(c)(2) and (c)(4)(vii).</content>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1026-35-c-2-ii-Interp-4">
-      <interpParagraph label="1026-35-c-2-ii-Interp-4" marker="4.">
-        <title type="keyterm">Qualifying for exemption—in general.</title>
-        <content>A transaction is exempt under § 1026.35(c)(2)(ii) if the <ref target="1026-2-a-17" reftype="term">creditor</ref> makes an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> at <ref target="1026-2-a-13" reftype="term">consummation</ref> that is equal to or below the threshold amount in effect at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
-      </interpParagraph>
-    </change>
-
   </changeset>
-
 </notice>
