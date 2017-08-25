@@ -1,0 +1,184 @@
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2015-10-28</date>
+    <originalDate>2015-10-28</originalDate>
+    <title>HOME MORTGAGE DISCLOSURE</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>C</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1003</section>
+    </cfr>
+    <documentNumber>2015-26607</documentNumber>
+    <effectiveDate>2019-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2015/10/28/2015-26607/home-mortgage-disclosure-regulation-c</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2015-26607" leftEffectiveDate="2018-01-01" rightDocumentNumber="2015-26607" rightEffectiveDate="2019-01-01">
+
+    <change operation="modified" label="1003-5">
+      <section label="1003-5" sectionNum="5">
+        <subject>§ 1003.5 Disclosure and reporting.</subject>
+        <paragraph label="1003-5-a" marker="(a)">
+          <title type="keyterm">Reporting to agency.</title>
+          <content/>
+          <paragraph label="1003-5-a-1" marker="(1)">
+            <content/>
+            <paragraph label="1003-5-a-1-i" marker="(i)">
+              <title type="keyterm">Annual reporting.</title>
+            <content>By March 1 following the calendar year for which data are collected and recorded as required by § <ref target="1003-4" reftype="internal">1003.4</ref>, a <ref target="1003-2-g" reftype="term">financial institution</ref> shall submit its annual <ref target="1003-2-k" reftype="term">loan/application register</ref> in electronic format to the <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> at the address identified by such agency. An authorized representative of the <ref target="1003-2-g" reftype="term">financial institution</ref> with knowledge of the data submitted shall certify to the accuracy and completeness of data submitted pursuant to this paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref>. The <ref target="1003-2-g" reftype="term">financial institution</ref> shall retain a copy of its annual <ref target="1003-2-k" reftype="term">loan/application register</ref> submitted pursuant to this paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref> for its records for at least three years.</content></paragraph>
+            <paragraph label="1003-5-a-1-ii" marker="(ii)">
+              <content>[Reserved]</content>
+            </paragraph>
+            <paragraph label="1003-5-a-1-iii" marker="(iii)">
+              <content>When the last day for submission of data prescribed under this paragraph <ref target="1003-5-a-1" reftype="internal">(a)(1)</ref> falls on a Saturday or Sunday, a submission shall be considered timely if it is submitted on the next succeeding Monday.</content>
+	    </paragraph>
+	  </paragraph>
+          <paragraph label="1003-5-a-2" marker="(2)">
+          <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> that is a subsidiary of a bank or savings association shall complete a separate <ref target="1003-2-k" reftype="term">loan/application register</ref>. The subsidiary shall submit the <ref target="1003-2-k" reftype="term">loan/application register</ref>, directly or through its parent, to the <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> for the subsidiary's parent at the address identified by the agency.</content></paragraph>
+          <paragraph label="1003-5-a-3" marker="(3)">
+            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall provide with its submission:</content>
+            <paragraph label="1003-5-a-3-i" marker="(i)">
+              <content>Its name;</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-ii" marker="(ii)">
+              <content>The calendar year the data submission covers pursuant to paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section or calendar quarter and year the data submission covers pursuant to paragraph <ref target="1003-5-a-1-ii" reftype="internal">(a)(1)(ii)</ref> of this section;</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-iii" marker="(iii)">
+              <content>The name and contact information of a person who may be contacted with questions about the institution's submission;</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-iv" marker="(iv)">
+              <content>Its <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref>;</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-v" marker="(v)">
+              <content>The total number of entries contained in the submission;</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-vi" marker="(vi)">
+              <content>Its Federal Taxpayer Identification number; and</content>
+            </paragraph>
+            <paragraph label="1003-5-a-3-vii" marker="(vii)">
+              <content>Its Legal Entity Identifier (LEI) as described in § 1003.4(a)(1)(i)(A).</content>
+            </paragraph>
+	  </paragraph>
+          <paragraph label="1003-5-a-4" marker="(4)">
+            <content>For purposes of paragraph <ref target="1003-5-a" reftype="internal">(a)</ref> of this section, “<def term="appropriate federal agency" id="b035a6f833914f594079df068bf7534307c06727">appropriate Federal agency</def>” means the appropriate agency for the <ref target="1003-2-g" reftype="term">financial institution</ref> as determined pursuant to section 304(h)(2) of the Home Mortgage Disclosure Act (<ref target="USC:12-2803" reftype="external">12 U.S.C. 2803</ref>(h)(2)) or, with respect to a <ref target="1003-2-g" reftype="term">financial institution</ref> subject to the Bureau's supervisory authority under section 1025(a) of the Consumer Financial Protection Act of 2010 (<ref target="USC:12-5515" reftype="external">12 U.S.C. 5515</ref>(a)), the Bureau.</content>
+	  </paragraph>
+          <paragraph label="1003-5-a-5" marker="(5)">
+            <content>Procedures for the submission of data pursuant to paragraph <ref target="1003-5-a" reftype="internal">(a)</ref> of this section are available at www.consumerfinance.gov/hmda.</content>
+	  </paragraph>
+        </paragraph>
+        <paragraph label="1003-5-b" marker="(b)">
+          <title type="keyterm">Disclosure statement.</title>
+          <content/>
+          <paragraph label="1003-5-b-1" marker="(1)">
+            <content>The Federal <ref target="1003-2-g" reftype="term">Financial Institutions</ref> Examination Council (FFIEC) will make available a disclosure statement based on the data each <ref target="1003-2-g" reftype="term">financial institution</ref> submits for the preceding calendar year pursuant to paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section.</content>
+	  </paragraph>
+          <paragraph label="1003-5-b-2" marker="(2)">
+            <content>No later than three business days after receiving notice from the FFIEC that a <ref target="1003-2-g" reftype="term">financial institution</ref>'s disclosure statement is available, the <ref target="1003-2-g" reftype="term">financial institution</ref> shall make available to the public upon request at its home office, and each <ref target="1003-2-c" reftype="term">branch office</ref> physically located in each <ref target="1003-2-m-1" reftype="term">MSA</ref> and each <ref target="1003-2-m-2" reftype="term">MD</ref>, a written notice that clearly conveys that the institution's disclosure statement may be obtained on the Bureau's Web site at www.consumerfinance.gov/hmda.</content>
+	  </paragraph>
+	</paragraph>
+        <paragraph label="1003-5-c" marker="(c)">
+          <title type="keyterm">Modified loan/application register.</title>
+          <content/>
+	  <paragraph label="1003-5-c-1" marker="(1)">
+          <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall make available to the public upon request at its home office, and each <ref target="1003-2-c" reftype="term">branch office</ref> physically located in each <ref target="1003-2-m-1" reftype="term">MSA</ref> and each <ref target="1003-2-m-2" reftype="term">MD</ref>, a written notice that clearly conveys that the institution's <ref target="1003-2-k" reftype="term">loan/application register</ref>, as modified by the Bureau to protect applicant and borrower privacy, may be obtained on the Bureau's Web site at www.consumerfinance.gov/hmda.</content></paragraph>
+          <paragraph label="1003-5-c-2" marker="(2)">
+            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall make available the notice required by paragraph <ref target="1003-5-c-1" reftype="internal">(c)(1)</ref> of this section following the calendar year for which the data are collected.</content>
+          </paragraph>
+	</paragraph>
+        <paragraph label="1003-5-d" marker="(d)">
+          <title type="keyterm">Availability of written notices.</title>
+          <content/>
+          <paragraph label="1003-5-d-1" marker="(1)">
+            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall make the notice required by paragraph <ref target="1003-5-c" reftype="internal">(c)</ref> of this section available to the public for a period of three years and the notice required by paragraph <ref target="1003-5-b-2" reftype="internal">(b)(2)</ref> of this section available to the public for a period of five years. An institution shall make these notices available during the hours the office is normally open to the public for business.</content>
+          </paragraph>
+          <paragraph label="1003-5-d-2" marker="(2)">
+          <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> may make available to the public, at its discretion and in addition to the written notices required by paragraphs <ref target="1003-5-b-2" reftype="internal">(b)(2)</ref> or <ref target="1003-5-c-1" reftype="internal">(c)(1)</ref> of this section, as applicable, its disclosure statement or its <ref target="1003-2-k" reftype="term">loan/application register</ref>, as modified by the Bureau to protect applicant and borrower privacy. A <ref target="1003-2-g" reftype="term">financial institution</ref> may impose a reasonable fee for any cost incurred in providing or reproducing these data.</content></paragraph>
+	</paragraph>
+        <paragraph label="1003-5-e" marker="(e)">
+          <title type="keyterm">Posted notice of availability of data.</title>
+          <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall post a general notice about the availability of its HMDA data in the lobby of its home office and of each <ref target="1003-2-c" reftype="term">branch office</ref> physically located in each <ref target="1003-2-m-1" reftype="term">MSA</ref> and each <ref target="1003-2-m-2" reftype="term">MD</ref>. This notice must clearly convey that the institution's HMDA data is available on the Bureau's Web site at www.consumerfinance.gov/hmda.</content>
+	</paragraph>
+        <paragraph label="1003-5-f" marker="(f)">
+          <title type="keyterm">Aggregated data.</title>
+          <content>Using data submitted by <ref target="1003-2-g" reftype="term">financial institutions</ref> pursuant to paragraph <ref target="1003-5-a-1-i" reftype="internal">(a)(1)(i)</ref> of this section, the FFIEC will make available aggregate data for each <ref target="1003-2-m-1" reftype="term">MSA</ref> and <ref target="1003-2-m-2" reftype="term">MD</ref>, showing lending patterns by property location, age of housing stock, and income level, sex, ethnicity, and race.</content>
+	</paragraph>
+      </section>
+    </change>
+
+    <change operation="modified" label="1003-6">
+      <section label="1003-6" sectionNum="6">
+        <subject>§ 1003.6 Enforcement.</subject>
+        <paragraph label="1003-6-a" marker="(a)">
+          <title type="keyterm">Administrative enforcement.</title>
+          <content>A violation of <ref target="1003-2-a" reftype="term">Act</ref> or this part is subject to administrative sanctions as provided in section 305 of <ref target="1003-2-a" reftype="term">Act</ref> (12 U.S.C. 2804), including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of the <ref target="1003-2-a" reftype="term">Act</ref>.</content>
+        </paragraph>
+        <paragraph label="1003-6-b" marker="(b)">
+          <title type="keyterm">Bona fide errors.</title>
+          <content/>
+          <paragraph label="1003-6-b-1" marker="(1)">
+          <content>An error in compiling or recording data for a <ref target="1003-2-e" reftype="term">covered loan</ref> or <ref target="1003-2-b" reftype="term">application</ref> is not a violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such an error.</content></paragraph>
+          <paragraph label="1003-6-b-2" marker="(2)">
+            <content>An incorrect entry for a census tract number is deemed a bona fide error, and is not a violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part, provided that the <ref target="1003-2-g" reftype="term">financial institution</ref> maintains procedures reasonably adapted to avoid such an error.</content>
+          </paragraph>
+	</paragraph>
+        <paragraph label="1003-6-c" marker="(c)">
+          <title type="keyterm">Quarterly recording and reporting.</title>
+          <content/>
+          <paragraph label="1003-6-c-1" marker="(1)">
+          <content>If a <ref target="1003-2-g" reftype="term">financial institution</ref> makes a good-faith effort to record all data required to be recorded pursuant to § 1003.4(f) fully and accurately within 30 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part provided that the institution corrects or completes the data prior to submitting its annual <ref target="1003-2-k" reftype="term">loan/application register</ref> pursuant to § <ref target="1003-5-a-1-i" reftype="internal">1003.5(a)(1)(i)</ref>.</content></paragraph>
+          <paragraph label="1003-6-c-2" marker="(2)">
+          <content>If a <ref target="1003-2-g" reftype="term">financial institution</ref> required to comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> makes a good-faith effort to report all data required to be reported pursuant to § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> fully and accurately within 60 calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the inaccuracy or omission is not a violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part provided that the institution corrects or completes the data prior to submitting its annual <ref target="1003-2-k" reftype="term">loan/application register</ref> pursuant to § <ref target="1003-5-a-1-i" reftype="internal">1003.5(a)(1)(i)</ref>.</content></paragraph>
+	</paragraph>
+      </section>
+    </change>
+
+    <change operation="modified" label="1003-A">
+      <appendix appendixLetter="A" label="1003-A">
+      	<appendixTitle>[Reserved]</appendixTitle>
+      </appendix>
+    </change>
+
+    <change operation="modified" label="1003-5-a-Interp">
+      <interpParagraph label="1003-5-a-Interp" target="1003-5-a">
+        <title>5(a) Reporting to Agency</title>
+        <content/>
+        <interpParagraph label="1003-5-a-Interp-1" marker="1.">
+          <title>Quarterly reporting—coverage.</title><content/><interpParagraph label="1003-5-a-Interp-1-i" marker="i.">
+          <content>Section <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> requires that, within 60 calendar days after the end of each calendar quarter except the fourth quarter, a <ref target="1003-2-g" reftype="term">financial institution</ref> that reported for the preceding calendar year at least 60,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, must submit its <ref target="1003-2-k" reftype="term">loan/application register</ref> containing all data required to be recorded for that quarter pursuant to § 1003.4(f). For example, if for calendar year 2019 <ref target="1003-2-g" reftype="term">Financial Institution</ref> A reports 60,000 <ref target="1003-2-e" reftype="term">covered loans</ref>, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, it must comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> in calendar year 2020. Similarly, if for calendar year 2019 <ref target="1003-2-g" reftype="term">Financial Institution</ref> A reports 20,000 <ref target="1003-2-b" reftype="term">applications</ref> and 40,000 <ref target="1003-2-e" reftype="term">covered loans</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, it must comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> in calendar year 2020. If for calendar year 2020 <ref target="1003-2-g" reftype="term">Financial Institution</ref> A reports fewer than 60,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, it is not required to comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> in calendar year 2021.</content></interpParagraph>
+          <interpParagraph label="1003-5-a-Interp-1-ii" marker="ii.">
+          <content>In the calendar year of a merger or acquisition, the surviving or newly formed <ref target="1003-2-g" reftype="term">financial institution</ref> is required to comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref>, effective the date of the merger or acquisition, if a combined total of at least 60,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, is reported for the preceding calendar year by or for the surviving or newly formed <ref target="1003-2-g" reftype="term">financial institution</ref> and each <ref target="1003-2-g" reftype="term">financial institution</ref> or <ref target="1003-2-c" reftype="term">branch office</ref> merged or acquired. For example, <ref target="1003-2-g" reftype="term">Financial Institution</ref> A and <ref target="1003-2-g" reftype="term">Financial Institution</ref> B merge to form <ref target="1003-2-g" reftype="term">Financial Institution</ref> C in 2020. <ref target="1003-2-g" reftype="term">Financial Institution</ref> A reports 40,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, for 2019. <ref target="1003-2-g" reftype="term">Financial Institution</ref> B reports 21,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, for 2019. <ref target="1003-2-g" reftype="term">Financial Institution</ref> C is required to comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> effective the date of the merger. Similarly, for example, <ref target="1003-2-g" reftype="term">Financial Institution</ref> A acquires a <ref target="1003-2-c" reftype="term">branch office</ref> of <ref target="1003-2-g" reftype="term">Financial Institution</ref> B in 2020. <ref target="1003-2-g" reftype="term">Financial Institution</ref> A reports 58,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, for 2019. <ref target="1003-2-g" reftype="term">Financial Institution</ref> B reports 3,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, for 2019 for the <ref target="1003-2-c" reftype="term">branch office</ref> acquired by <ref target="1003-2-g" reftype="term">Financial Institution</ref> A. <ref target="1003-2-g" reftype="term">Financial Institution</ref> A is required to comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> in 2020 effective the date of the branch acquisition.</content></interpParagraph>
+          <interpParagraph label="1003-5-a-Interp-1-iii" marker="iii.">
+          <content>In the calendar year following a merger or acquisition, the surviving or newly formed <ref target="1003-2-g" reftype="term">financial institution</ref> is required to comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> if a combined total of at least 60,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, is reported for the preceding calendar year by or for the surviving or newly formed <ref target="1003-2-g" reftype="term">financial institution</ref> and each <ref target="1003-2-g" reftype="term">financial institution</ref> or <ref target="1003-2-c" reftype="term">branch office</ref> merged or acquired. For example, <ref target="1003-2-g" reftype="term">Financial Institution</ref> A and <ref target="1003-2-g" reftype="term">Financial Institution</ref> B merge to form <ref target="1003-2-g" reftype="term">Financial Institution</ref> C in 2019. <ref target="1003-2-g" reftype="term">Financial Institution</ref> C reports 21,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, each for <ref target="1003-2-g" reftype="term">Financial Institution</ref> A, B, and C for 2019, for a combined total of 63,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref> reported, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>. <ref target="1003-2-g" reftype="term">Financial Institution</ref> C is required to comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> in 2020. Similarly, for example, <ref target="1003-2-g" reftype="term">Financial Institution</ref> A acquires a <ref target="1003-2-c" reftype="term">branch office</ref> of <ref target="1003-2-g" reftype="term">Financial Institution</ref> B in 2019. <ref target="1003-2-g" reftype="term">Financial Institution</ref> A reports 58,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, for 2019. <ref target="1003-2-g" reftype="term">Financial Institution</ref> A or B reports 3,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, for 2019 for the <ref target="1003-2-c" reftype="term">branch office</ref> acquired by <ref target="1003-2-g" reftype="term">Financial Institution</ref> A. <ref target="1003-2-g" reftype="term">Financial Institution</ref> A is required to comply with § <ref target="1003-5-a-1-ii" reftype="internal">1003.5(a)(1)(ii)</ref> in 2020.</content></interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1003-5-a-Interp-2" marker="2.">
+        <title>Change in appropriate Federal agency.</title><content>If the <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> for a <ref target="1003-2-g" reftype="term">financial institution</ref> changes (as a consequence of a merger or a change in the institution's charter, for example), the institution must identify its new <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> in its annual submission of data pursuant to § 1003.5(a)(1)(i) for the year of the change. For example, if an institution's <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> changes in February 2018, it must identify its new <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> beginning with the annual submission of its 2018 data by March 1, 2019 pursuant to § 1003.5(a)(1)(i). For an institution required to comply with § 1003.5(a)(1)(ii), the institution also must identify its new <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> in its quarterly submission of data pursuant to § 1003.5(a)(1)(ii) beginning with its submission for the quarter of the change, unless the change occurs during the fourth quarter. For example, if the <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> for an institution required to comply with § 1003.5(a)(1)(ii) changes during February 2020, the institution must identify its new <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> beginning with its quarterly submission pursuant to § 1003.5(a)(1)(ii) for the first quarter of 2020. If the <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> for an institution required to comply with § 1003.5(a)(1)(ii) changes during December 2020, the institution must identify its new <ref target="1003-5-a-4" reftype="term">appropriate Federal agency</ref> beginning with the annual submission of its 2020 data by March 1, 2021 pursuant to § 1003.5(a)(1)(i).</content></interpParagraph>
+        <interpParagraph label="1003-5-a-Interp-3" marker="3.">
+        <title>Subsidiaries.</title><content>A <ref target="1003-2-g" reftype="term">financial institution</ref> is a subsidiary of a bank or savings association (for purposes of reporting HMDA data to the same agency as the parent) if the bank or savings association holds or controls an ownership interest in the institution that is greater than 50 percent.</content></interpParagraph>
+        <interpParagraph label="1003-5-a-Interp-4" marker="4.">
+        <title>Retention.</title><content>A <ref target="1003-2-g" reftype="term">financial institution</ref> may satisfy the requirement under § 1003.5(a)(1)(i) that it retain a copy of its submitted annual <ref target="1003-2-k" reftype="term">loan/application register</ref> for three years by retaining a copy of the annual <ref target="1003-2-k" reftype="term">loan/application register</ref> in either electronic or paper form.</content></interpParagraph>
+        <interpParagraph label="1003-5-a-Interp-5" marker="5.">
+        <title>Federal Taxpayer Identification Number.</title><content>Section 1003.5(a)(3) requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to provide its Federal Taxpayer Identification Number with its data submission. If a <ref target="1003-2-g" reftype="term">financial institution</ref> obtains a new Federal Taxpayer Identification Number, it should provide the new number in its subsequent data submission. For example, if two <ref target="1003-2-g" reftype="term">financial institutions</ref> that previously reported HMDA data under this part merge and the surviving institution retained its Legal Entity Identifier but obtained a new Federal Taxpayer Identification Number, then the surviving institution should report the new Federal Taxpayer Identification Number with its HMDA data submission.</content></interpParagraph>
+      </interpParagraph>
+    </change>
+
+    <change operation="modified" label="1003-6-Interp">
+      <interpSection label="1003-6-Interp" sectionNum="6">
+        <title>Section 1003.6—Enforcement</title>
+        <interpParagraph label="1003-6-b-Interp" target="1003-6-b">
+          <title>6(b) Bona Fide Errors</title>
+          <content/>
+          <interpParagraph label="1003-6-b-Interp-1" marker="1.">
+            <title>Information from third parties.</title><content>Section 1003.6(b) provides that an error in compiling or recording data for a <ref target="1003-2-e" reftype="term">covered loan</ref> or <ref target="1003-2-b" reftype="term">application</ref> is not a violation of the <ref target="1003-2-Act" reftype="term">Act</ref> or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such an error. A <ref target="1003-2-g" reftype="term">financial institution</ref> that obtains the required data, such as property-location information, from third parties is responsible for ensuring that the information reported pursuant to § 1003.5 is correct.</content>
+	  </interpParagraph>
+        </interpParagraph>
+      </interpSection>
+    </change>
+    
+  </changeset>
+
+</notice>
