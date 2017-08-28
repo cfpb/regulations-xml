@@ -1,0 +1,33 @@
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2015-10-28</date>
+    <originalDate>2015-10-28</originalDate>
+    <title></title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>C</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1003</section>
+    </cfr>
+    <documentNumber>2015-26607</documentNumber>
+    <effectiveDate>2017-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2015/10/28/2015-26607/home-mortgage-disclosure-regulation-c</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2016-30731" rightDocumentNumber="2015-26607">
+    <change label="1003-2-FinancialInstitution-1-iii" operation="modified">
+      <paragraph label="1003-2-FinancialInstitution-1-iii" marker="(iii)">
+        <content>In the preceding calendar year, originated at least one home purchase loan (excluding temporary financing such as a construction loan) or refinancing of a home purchase loan, secured by a first lien on a one- to four-family dwelling;</content>
+      </paragraph>
+    </change>
+    <change label="1003-2-FinancialInstitution-1-v" operation="added">
+      <paragraph label="1003-2-FinancialInstitution-1-v" marker="(v)">
+        <content>In each of the two preceding calendar years, originated at least 25 home purchase loans, including refinancings of home purchase loans, that are not excluded from this part pursuant to &#167; 1003.4(d); and</content>
+      </paragraph>
+    </change>
+  </changeset>
+</notice>
