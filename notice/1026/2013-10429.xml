@@ -98,7 +98,7 @@
       </interpParagraph>
     </change>
     <change operation="added" label="1026-51-b-1-i-Interp">
-      <interpParagraph label="1026-51-b-1-i-Interp">
+      <interpParagraph label="1026-51-b-1-i-Interp" target="1026-51-b-1-i">
         <title>Paragraph 51(b)(1)(i).</title>
         <content/>
         <interpParagraph label="1026-51-b-1-i-Interp-1" marker="1.">
@@ -148,7 +148,7 @@
       </interpParagraph>
     </change>
     <change operation="added" label="1026-51-b-1-ii-Interp">
-      <interpParagraph label="1026-51-b-1-ii-Interp">
+      <interpParagraph label="1026-51-b-1-ii-Interp" target="1026-51-b-1-ii">
         <title>Paragraph 51(b)(1)(ii).</title>
         <content/>
         <interpParagraph label="1026-51-b-1-ii-Interp-1" marker="1.">
