@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
@@ -25,6 +25,7 @@
     <change operation="modified" label="1026-35-c-2-ii-Interp">
       <interpParagraph label="1026-35-c-2-ii-Interp" target="1026-35-c-2-ii">
 	<title>Paragraph 35(c)(2)(ii)</title>
+	<content></content>
 	<interpParagraph label="1026-35-c-2-ii-Interp-1" marker="1.">
           <title type="keyterm">Threshold amount.</title>
           <content>For purposes of § 1026.35(c)(2)(ii), the threshold amount in effect during a particular period is the amount stated in comment <ref target="1026-35-c-2-ii-Interp-3" reftype="internal">35(c)(2)(ii)-3</ref> for that period. The threshold amount is adjusted effective January 1 of each year by any annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) that was in effect on the preceding June 1. Comment <ref target="1026-35-c-2-ii-Interp-3" reftype="internal">35(c)(2)(ii)-3</ref> will be amended to provide the threshold amount for the upcoming year after the annual percentage change in the CPI-W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the annual percentage increase in the CPI-W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the annual percentage increase in the CPI-W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900.</content>

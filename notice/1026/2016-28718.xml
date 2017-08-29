@@ -10,7 +10,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
-    <regLetter>A</regLetter>
+    <regLetter>Z</regLetter>
     <cfr>
       <title>12</title>
       <section>1026</section>
@@ -19,23 +19,28 @@
     <effectiveDate>2017-01-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/documents/2016/11/30/2016-28718/truth-in-lending-regulation-z</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2016-30730" leftEffectiveDate="2017-01-01" rightDocumentNumber="2016-28718" rightEffectiveDate="2017-01-01">
+  <changeset leftDocumentNumber="2016-30730" leftEffectiveDate="2017-01-01" rightDocumentNumber="2016-28718">
     <change label="1026-3-b-Interp" operation="modified">
       <interpParagraph label="1026-3-b-Interp" marker="" target="1026-3-b">
+	<title>Threshold amount.</title>
         <content></content>
         <interpParagraph label="1026-3-b-Interp-1" marker="1.">
           <content>For purposes of &#167; 1026.3(b), the threshold amount in effect during a particular period is the amount stated in comment 3(b)-3 below for that period. The threshold amount is adjusted effective January 1 of each year by any annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) that was in effect on the preceding June 1. Comment 3(b)-3 will be amended to provide the threshold amount for the upcoming year after the annual percentage change in the CPI-W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the annual percentage increase in the CPI-W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the annual percentage increase in the CPI-W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900.</content>
         </interpParagraph>
         <interpParagraph label="1026-3-b-Interp-2" marker="2.">
+	  <title>No increases in the CPI-W.</title>
           <content>If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs, for the years that follow, the threshold is calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding, if decreases and any subsequent increases in the CPI-W had been taken into account.</content>
           <interpParagraph label="1026-3-b-Interp-2-i" marker="i.">
+	    <title>Net increases.</title>
             <content>If the resulting amount calculated, after rounding, is greater than the current threshold, then the threshold effective January 1 the following year will increase accordingly.</content>
           </interpParagraph>
           <interpParagraph label="1026-3-b-Interp-2-ii" marker="ii.">
+	    <title>Net decreases.</title>
             <content>If the resulting amount calculated, after rounding, is equal to or less than the current threshold, then the threshold effective January 1 the following year will not change, but future increases will be calculated based on the amount that would have resulted.</content>
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-3-b-Interp-3" marker="3.">
+	  <title>Threshold.</title>
           <content>For purposes of &#167; 1026.3(b), the threshold amount in effect during a particular period is the amount stated below for that period.</content>
           <interpParagraph label="1026-3-b-Interp-3-i" marker="i.">
             <content>Prior to July 21, 2011, the threshold amount is $25,000.</content>
