@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+<regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2015-12-23</date>
-    <originalDate>2015-12-23</originalDate>
+    <date>2016-12-21</date>
+    <originalDate>2016-12-21</originalDate>
     <title>HOME MORTGAGE DISCLOSURE</title>
   </fdsys>
   <preamble>
@@ -14,9 +14,9 @@
       <title>12</title>
       <section>1003</section>
     </cfr>
-    <documentNumber>2015-32285</documentNumber>
+    <documentNumber>2016-30731</documentNumber>
     <effectiveDate>2016-01-01</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2015/12/23/2015-32285/home-mortgage-disclosure-regulation-c-adjustment-to-asset-size-exemption-threshold</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2016/12/21/2016-30731/home-mortgage-disclosure-regulation-c-adjustment-to-asset-size-exemption-threshold</federalRegisterURL>
   </preamble>
   <part label="1003">
     <tableOfContents>
@@ -1022,8 +1022,8 @@
               <content>An institution that met the test for coverage under HMDA in year 1, and then ceases to meet the test (for example, because its assets fall below the threshold on December 31 of year 2) stops collecting HMDA data beginning with year 3. Similarly, an institution that did not meet the coverage test for a given year, and then meets the test in the succeeding year, begins collecting HMDA data in the calendar year following the year in which it meets the test for coverage. For example, a for-profit mortgage lending institution (other than a bank, savings association, or credit union) that, in year 1, falls below the thresholds specified in the definition of <ref target="1003-2-FinancialInstitution" reftype="term">Financial institution</ref> in § <ref target="1003-2" reftype="internal">1003.2</ref>, but meets one of them in year 2, need not collect data in year 2, but begins collecting data in year 3.</content>
 	    </interpParagraph>
 	    <interpParagraph label="1003-2-FinancialInstitution-Interp-2" marker="2.">
-	<title>Adjustment of exemption threshold for depository institutions.</title>
-	<content>For data collection in 2016, the asset-size exemption threshold is $44 million. Banks, savings associations, and credit unions with assets at or below $44 million as of December 31, 2015, are exempt from collecting data for 2016.</content>
+	<title>Adjustment of exemption threshold for banks, savings associations, and credit unions.</title>
+	<content>For data collection in 2017, the asset-size exemption threshold is $44 million. Banks, savings associations, and credit unions with assets at or below $44 million as of December 31, 2016, are exempt from collecting data for 2017.</content>
       </interpParagraph>
     <interpParagraph label="1003-2-FinancialInstitution-Interp-3" marker="3.">
               <title>Coverage after a merger.</title>

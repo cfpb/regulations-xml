@@ -1,0 +1,32 @@
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2015-10-28</date>
+    <originalDate>2015-10-28</originalDate>
+    <title>HOME MORTGAGE DISCLOSURE</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>C</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1003</section>
+    </cfr>
+    <documentNumber>2015-26607</documentNumber>
+    <effectiveDate>2020-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2015/10/28/2015-26607/home-mortgage-disclosure-regulation-c</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2015-26607" leftEffectiveDate="2019-01-01" rightDocumentNumber="2015-26607" rightEffectiveDate="2020-01-01">
+
+    <change operation="modified" label="1003-5-a-1-ii">
+      <paragraph label="1003-5-a-1-ii" marker="(ii)">
+        <title type="keyterm">Quarterly reporting.</title>
+	<content>Within 60 calendar days after the end of each calendar quarter except the fourth quarter, a <ref target="1003-2-g" reftype="term">financial institution</ref> that reported for the preceding calendar year at least 60,000 <ref target="1003-2-e" reftype="term">covered loans</ref> and <ref target="1003-2-b" reftype="term">applications</ref>, combined, excluding purchased <ref target="1003-2-e" reftype="term">covered loans</ref>, shall submit to the appropriate Federal agency its <ref target="1003-2-k" reftype="term">loan/application register</ref> containing all data required to be recorded for that quarter pursuant to § 1003.4(f). The <ref target="1003-2-g" reftype="term">financial institution</ref> shall submit its quarterly <ref target="1003-2-k" reftype="term">loan/application register</ref> pursuant to this paragraph <ref target="1003-5-a-1-ii" reftype="internal">(a)(1)(ii)</ref> in electronic format at the address identified by the appropriate Federal agency for the institution.</content>
+      </paragraph>
+    </change>
+    
+  </changeset>
+
+</notice>
