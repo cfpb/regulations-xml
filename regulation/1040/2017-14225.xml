@@ -23,23 +23,23 @@
     <tableOfContents>
       <tocSecEntry target="1040-1">
         <sectionNum>1</sectionNum>
-        <sectionSubject>Authority and purpose.</sectionSubject>
+        <sectionSubject>§ 1040.1 Authority and purpose.</sectionSubject>
       </tocSecEntry>
       <tocSecEntry target="1040-2">
         <sectionNum>2</sectionNum>
-        <sectionSubject>Definitions.</sectionSubject>
+        <sectionSubject>§ 1040.2 Definitions.</sectionSubject>
       </tocSecEntry>
       <tocSecEntry target="1040-3">
         <sectionNum>3</sectionNum>
-        <sectionSubject>Coverage and exclusions from coverage.</sectionSubject>
+        <sectionSubject>§ 1040.3 Coverage and exclusions from coverage.</sectionSubject>
       </tocSecEntry>
       <tocSecEntry target="1040-4">
         <sectionNum>4</sectionNum>
-        <sectionSubject>Limitations on the use of pre-dispute arbitration agreements.</sectionSubject>
+        <sectionSubject>§ 1040.4 Limitations on the use of pre-dispute arbitration agreements.</sectionSubject>
       </tocSecEntry>
       <tocSecEntry target="1040-5">
         <sectionNum>5</sectionNum>
-        <sectionSubject>Compliance date and temporary exception.</sectionSubject>
+        <sectionSubject>§ 1040.5 Compliance date and temporary exception.</sectionSubject>
       </tocSecEntry>
     </tableOfContents>
 
@@ -397,7 +397,7 @@
           </section>
         </content>
       </subpart>
-      <interpretations>
+      <interpretations label="1040-Interp">
 	<tableOfContents>
 	  <tocInterpEntry target="1040-Interp-2">
 	    <interpTitle>Interpretations for Part 1040</interpTitle>
