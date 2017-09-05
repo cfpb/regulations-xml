@@ -13,11 +13,11 @@
       <title>12</title>
       <section>1026</section>
     </cfr>
-    <documentNumber>2016-14782_20160627</documentNumber>
-    <effectiveDate>2017-01-01</effectiveDate>
+    <documentNumber>2016-14782</documentNumber>
+    <effectiveDate>2016-06-27</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/articles/2016/06/27/2016-14782/truth-in-lending-regulation-z-annual-threshold-adjustments-card-act-hoepa-and-atrqm</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2016-14782" rightDocumentNumber="2016-14782_20160627">
+  <changeset leftDocumentNumber="2016-06834" rightDocumentNumber="2016-14782">
 
     <!-- Section 1026.52 is amended by revising paragraphs (b)(1)(ii)(B) -->
 
@@ -26,52 +26,9 @@
 	<content>$38 if the card issuer previously imposed a fee pursuant to paragraph (b)(1)(ii)(A) of this section for a violation of the same type that occurred during the same billing cycle or one of the next six billing cycles; or</content>
       </paragraph>
     </change>
-
-    <!-- Effective on January 1, 2017, in Supplement I to Part 1026—Official Interpretations: -->
-    <!-- a. Under Section 1026.32—Requirements for High-Cost Mortgages, under 32(a)—Coverage, under Paragraph 32(a)(1)(ii), paragraphs 1.iii and 3.iii are added.-->
-
-    <change operation="added" label="1026-32-a-1-ii-Interp-1-iii" parent="1026-32-a-1-ii-Interp-1">
-      <interpParagraph label="1026-32-a-1-ii-Interp-1-iii" marker="iii.">
-	<content>For 2017, $1,029, reflecting a 1.1 percent increase in the CPI-U from June 2015 to June 2016, rounded to the nearest whole dollar.</content>
-      </interpParagraph>
-    </change>
-
-    <change operation="added" label="1026-32-a-1-ii-Interp-3-iii" parent="1026-32-a-1-ii-Interp-3">
-      <interpParagraph label="1026-32-a-1-ii-Interp-3-iii" marker="iii.">
-	<content>For 2017, $20,579, reflecting a 1.1 percent increase in the CPI-U from June 2015 to June 2016, rounded to the nearest whole dollar.</content>
-      </interpParagraph>
-    </change>
-    
-    <!-- b. Under Section 1026.43—Minimum Standards for Transactions Secured by a Dwelling, under 43(e)—Qualified mortgages, under Paragraph 43(e)(3)(ii), paragraph 1.iii is added.-->
-
-    <change operation="added" label="1026-43-e-3-ii-Interp-1-iii" parent="1026-43-e-3-ii-Interp-1">
-      <interpParagraph label="1026-43-e-3-ii-Interp-1-iii" marker="iii.">
-	<content>For 2017, reflecting a 1.1 percent increase in the CPI-U that was reported on the preceding June 1, a covered transaction is not a qualified mortgage unless the transactions total points and fees do not exceed:</content>
-	<interpParagraph label="1026-43-e-3-ii-Interp-1-iii-A" marker="A.">
-	  <content>For a loan amount greater than or equal to $102,894: 3 percent of the total loan amount;</content>
-	</interpParagraph>
-	<interpParagraph label="1026-43-e-3-ii-Interp-1-iii-B" marker="B.">
-	  <content>For a loan amount greater than or equal to $61,737 but less than $102,894: $3,087;</content>
-	</interpParagraph>
-	<interpParagraph label="1026-43-e-3-ii-Interp-1-iii-C" marker="C.">
-	  <content>For a loan amount greater than or equal to $20,579 but less than $61,737: 5 percent of the total loan amount;</content>
-	</interpParagraph>
-	<interpParagraph label="1026-43-e-3-ii-Interp-1-iii-D" marker="D.">
-	  <content>For a loan amount greater than or equal to $12,862 but less than $20,579: $1,029;</content>
-	</interpParagraph>
-	<interpParagraph label="1026-43-e-3-ii-Interp-1-iii-E" marker="E.">
-	  <content>For a loan amount less than $12,862: 8 percent of the total loan amount.</content>
-	</interpParagraph>
-      </interpParagraph>
-    </change>
-    
-    <!-- c. Under Section 1026.52—Limitations on Fees, under 52(b)—Limitations on penalty fees, under 52(b)(1)(ii)—Safe harbors, paragraph 2.i.D is added.-->
-
-    <change operation="added" label="1026-52-b-1-ii-Interp-2-i-D" parent="1026-52-b-1-ii-Interp-2-i">
-      <interpParagraph label="1026-52-b-1-ii-Interp-2-i-D" marker="D.">
-	<content>Card issuers were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $27 under § <ref target="1026-52-b-1-ii-A" reftype="internal">1026.52(b)(1)(ii)(A)</ref>, through December 31, 2016. Card issuers were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $37 under § <ref target="1026-52-b-1-ii-B" reftype="internal">1026.52(b)(1)(ii)(B)</ref>, through June 26, 2016, and $38 under § <ref target="1026-52-b-1-ii-B" reftype="internal">1026.52(b)(1)(ii)(B)</ref> from June 27, 2016 through December 31, 2016.</content>
-      </interpParagraph>
-    </change>
     
   </changeset>
 </notice>
+
+
+

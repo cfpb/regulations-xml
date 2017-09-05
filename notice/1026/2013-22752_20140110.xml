@@ -454,7 +454,7 @@
     <!-- ii. Under Paragraph 41(d), as amended February 14, 2013, at 78 FR 10901, paragraph 3 is revised. -->
 
     <change operation="modified" label="1026-41-d-Interp-3" subpath="title">
-      <title type="keyterm">Terminology</title>
+      <title>Terminology</title>
     </change>
 
     <change operation="modified" label="1026-41-d-Interp-3" subpath="content">
