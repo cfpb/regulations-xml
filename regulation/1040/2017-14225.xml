@@ -41,6 +41,9 @@
         <sectionNum>5</sectionNum>
         <sectionSubject>§ 1040.5 Compliance date and temporary exception.</sectionSubject>
       </tocSecEntry>
+      <tocInterpEntry target="1040-Interp">
+	<interpTitle>Supplement I to Part 1040-Official Interpretations</interpTitle>
+      </tocInterpEntry>
     </tableOfContents>
 
     <content>
@@ -398,38 +401,38 @@
         </content>
       </subpart>
       <interpretations label="1040-Interp">
-	<tableOfContents>
-	  <tocInterpEntry target="1040-Interp-2">
-	    <interpTitle>Interpretations for Part 1040</interpTitle>
-	  </tocInterpEntry>
-	</tableOfContents>
 	<title>Supplement I to Part 1040&#8212;Staff Commentary</title>
         <interpSection label="1040-2-Interp">
           <title>Section 1040.2—Definitions</title>
-          <interpParagraph marker="(c)" label="1040-2-c-Interp" target="1040-2-c">
-            <content></content>
-            <interpParagraph marker="i." label="1040-2-c-Interp-i">
-              <content>While § <ref target="1040-2-c" reftype="internal">1040.2(c)</ref> defines “<ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref>” as an agreement between a covered person and a <ref target="1040-2-b" reftype="term">consumer</ref>, the rule's substantive requirements, which are contained in § <ref target="1040-4" reftype="internal">1040.4</ref>, apply only to “providers.” “Covered persons” as that term is defined in 12 U.S.C. 5481(6) include persons excluded from the Bureau's rulemaking authority under 12 U.S.C. 5517 and 5519. Therefore, the requirements contained in § <ref target="1040-4" reftype="internal">1040.4</ref> would not apply to any such excluded persons entering into a <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> because they are not “providers,” by virtue of the definition in § <ref target="1040-2-d" reftype="internal">1040.2(d)</ref> which excludes persons described in § <ref target="1040-3-b" reftype="internal">1040.3(b)</ref> including its paragraph <ref target="1040-3-b-6" reftype="internal">(b)(6)</ref> (under which any person is excluded under § <ref target="1040-3-b" reftype="internal">1040.3(b)</ref> to the extent it is not subject to the Bureau's rulemaking authority including under sections 1027 or 1029). The requirements in § <ref target="1040-4" reftype="internal">1040.4</ref> could apply, however, to the use of any such <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> by a different person that meets the definition of <ref target="1040-2-d" reftype="term">provider</ref> in § <ref target="1040-2-d" reftype="internal">1040.2(d)</ref>, when the <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> was entered into after the compliance date.</content>
+	  
+          <interpParagraph label="1040-2-c-Interp" target="1040-2-c">
+	    <title>2(c) Pre-dispute arbitration agreement.</title>
+	    <content></content>
+	    <interpParagraph label="1040-2-c-Interp-1" marker="1.">
+	      <title>Scope of the term includes agreements with covered persons that are not providers.</title>
+              <content></content>
+              <interpParagraph marker="i." label="1040-2-c-Interp-i">
+		<content>While § <ref target="1040-2-c" reftype="internal">1040.2(c)</ref> defines “<ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref>” as an agreement between a covered person and a <ref target="1040-2-b" reftype="term">consumer</ref>, the rule's substantive requirements, which are contained in § <ref target="1040-4" reftype="internal">1040.4</ref>, apply only to “providers.” “Covered persons” as that term is defined in 12 U.S.C. 5481(6) include persons excluded from the Bureau's rulemaking authority under 12 U.S.C. 5517 and 5519. Therefore, the requirements contained in § <ref target="1040-4" reftype="internal">1040.4</ref> would not apply to any such excluded persons entering into a <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> because they are not “providers,” by virtue of the definition in § <ref target="1040-2-d" reftype="internal">1040.2(d)</ref> which excludes persons described in § <ref target="1040-3-b" reftype="internal">1040.3(b)</ref> including its paragraph <ref target="1040-3-b-6" reftype="internal">(b)(6)</ref> (under which any person is excluded under § <ref target="1040-3-b" reftype="internal">1040.3(b)</ref> to the extent it is not subject to the Bureau's rulemaking authority including under sections 1027 or 1029). The requirements in § <ref target="1040-4" reftype="internal">1040.4</ref> could apply, however, to the use of any such <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> by a different person that meets the definition of <ref target="1040-2-d" reftype="term">provider</ref> in § <ref target="1040-2-d" reftype="internal">1040.2(d)</ref>, when the <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> was entered into after the compliance date.</content>
+              </interpParagraph>
+              <interpParagraph marker="ii." label="1040-2-c-Interp-ii">
+		<content>For example, an automobile dealer that extends <ref target="1040-2-b" reftype="term">consumer</ref> credit is a covered person under 12 U.S.C. 5481(6). Its <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> would therefore fall within the scope of the definition in § <ref target="1040-2-c" reftype="internal">1040.2(c)</ref>. However, an automobile dealer excluded from the Bureau's rulemaking authority in circumstances described by Dodd-Frank section 1029 would not be required to comply with the requirements in § <ref target="1040-4" reftype="internal">1040.4</ref>, because those requirements apply only to providers, and such dealers are excluded by § <ref target="1040-3-b-6" reftype="internal">1040.3(b)(6)</ref> and therefore are not providers under § <ref target="1040-2-d" reftype="internal">1040.2(d)</ref>. The requirements in § <ref target="1040-4" reftype="internal">1040.4</ref> would apply, however, to the use of the automobile dealer's <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> by a different person that meets the definition of <ref target="1040-2-d" reftype="term">provider</ref>, such as a servicer or purchaser or acquirer of the automobile loan, when the agreement was entered into after the compliance date.</content>
+              </interpParagraph>
+              <interpParagraph marker="2." label="1040-2-c-Interp-2">
+		<title>Delegation provisions</title>
+		<content>The term <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> as defined in § <ref target="1040-2-c" reftype="internal">1040.2(c)</ref> includes delegation provisions. Delegation provisions are agreements to arbitrate threshold issues concerning a <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref>, and may sometimes appear elsewhere in a contract containing or relating to the arbitration agreement.</content>
+              </interpParagraph>
+              <interpParagraph marker="3." label="1040-2-c-Interp-3">
+		<title>Form of pre-dispute arbitration agreements</title>
+		<content>A <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> for a <ref target="1040-2-b" reftype="term">consumer</ref> financial product or service includes any agreement between a covered person and a <ref target="1040-2-b" reftype="term">consumer</ref> providing for arbitration of any future disputes between the parties concerning a <ref target="1040-2-b" reftype="term">consumer</ref> financial product or service described in § <ref target="1040-3-a" reftype="internal">1040.3(a)</ref>, regardless of the form or structure of the agreement. Examples include a standalone <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> that applies to a product or service, as well as a <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> that is included within, annexed to, incorporated into, or otherwise made a part of a larger agreement that governs the terms of the provision of a product or service.</content>
+              </interpParagraph>
             </interpParagraph>
-            <interpParagraph marker="ii." label="1040-2-c-Interp-ii">
-              <content>For example, an automobile dealer that extends <ref target="1040-2-b" reftype="term">consumer</ref> credit is a covered person under 12 U.S.C. 5481(6). Its <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> would therefore fall within the scope of the definition in § <ref target="1040-2-c" reftype="internal">1040.2(c)</ref>. However, an automobile dealer excluded from the Bureau's rulemaking authority in circumstances described by Dodd-Frank section 1029 would not be required to comply with the requirements in § <ref target="1040-4" reftype="internal">1040.4</ref>, because those requirements apply only to providers, and such dealers are excluded by § <ref target="1040-3-b-6" reftype="internal">1040.3(b)(6)</ref> and therefore are not providers under § <ref target="1040-2-d" reftype="internal">1040.2(d)</ref>. The requirements in § <ref target="1040-4" reftype="internal">1040.4</ref> would apply, however, to the use of the automobile dealer's <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> by a different person that meets the definition of <ref target="1040-2-d" reftype="term">provider</ref>, such as a servicer or purchaser or acquirer of the automobile loan, when the agreement was entered into after the compliance date.</content>
-            </interpParagraph>
-            <interpParagraph marker="2." label="1040-2-c-Interp-2">
-              <title>Delegation provisions</title>
-              <content>The term <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> as defined in § <ref target="1040-2-c" reftype="internal">1040.2(c)</ref> includes delegation provisions. Delegation provisions are agreements to arbitrate threshold issues concerning a <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref>, and may sometimes appear elsewhere in a contract containing or relating to the arbitration agreement.</content>
-            </interpParagraph>
-            <interpParagraph marker="3." label="1040-2-c-Interp-3">
-              <title>Form of pre-dispute arbitration agreements</title>
-              <content>A <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> for a <ref target="1040-2-b" reftype="term">consumer</ref> financial product or service includes any agreement between a covered person and a <ref target="1040-2-b" reftype="term">consumer</ref> providing for arbitration of any future disputes between the parties concerning a <ref target="1040-2-b" reftype="term">consumer</ref> financial product or service described in § <ref target="1040-3-a" reftype="internal">1040.3(a)</ref>, regardless of the form or structure of the agreement. Examples include a standalone <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> that applies to a product or service, as well as a <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> that is included within, annexed to, incorporated into, or otherwise made a part of a larger agreement that governs the terms of the provision of a product or service.</content>
-            </interpParagraph>
-          </interpParagraph>
-          <interpParagraph marker="" label="1040-2-c-Interp-">
-            <content>1.Scope of the term includes agreements with covered persons that are not providers.</content>
-          </interpParagraph>
-          <interpParagraph marker="(d)" label="1040-2-d-Interp" target="1040-2-d">
+	  </interpParagraph>
+
+          <interpParagraph label="1040-2-d-Interp" target="1040-2-d">
+	    <title>2(d) Provider.</title>
             <content></content>
             <interpParagraph marker="1." label="1040-2-d-Interp-1">
-              <title>Providers of multiple products or services</title>
+              <title>Providers of multiple products or services.</title>
               <content>A <ref target="1040-2-d" reftype="term">provider</ref> as defined in § <ref target="1040-2-d" reftype="internal">1040.2(d)</ref> that also engages in offering or providing products or services not covered by § <ref target="1040-3" reftype="internal">1040.3</ref> must comply with this part only for the products or services that it offers or provides that are covered by § <ref target="1040-3" reftype="internal">1040.3</ref>. For example, a merchant that transmits funds for its customers as a general service, when that funds transmittal activity is not necessary to its offering or provision of products or services that are not covered by this part, would be covered pursuant to § <ref target="1040-3-a-7" reftype="internal">1040.3(a)(7)</ref> with respect to the transmittal of funds. That same merchant generally would not be covered with respect to the sale of durable goods to consumers, however, except when extending <ref target="1040-2-b" reftype="term">consumer</ref> credit in certain circumstances as provided in 12 U.S.C. 5517(a)(2)(B)(ii) or (iii).</content>
             </interpParagraph>
             <interpParagraph marker="2." label="1040-2-d-Interp-2">
