@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
+<notice schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd" xmlns="eregs">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
@@ -15,158 +14,202 @@
       <title>12</title>
       <section>1026</section>
     </cfr>
-    <documentNumber>2016-28718</documentNumber>
-    <effectiveDate>2017-01-01</effectiveDate>
+    <documentNumber>2017-15764</documentNumber>
+    <effectiveDate>2017-10-19</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/documents/2017/08/11/2017-15764/amendments-to-federal-mortgage-disclosure-requirements-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2016-28718" rightDocumentNumber="2017-15764">
-
-    <!-- Section 1026.1 is amended by revising paragraph (d)(5) to read as follows: -->
-    <change operation="modified" label="1026-1-d-5">
+  <changeset leftDocumentNumber="2016-18901" leftEffectiveDate="" rightDocumentNumber="2017-15764" rightEffectiveDate="">
+    <change label="1026-1-d-5" operation="modified">
       <paragraph label="1026-1-d-5" marker="(5)">
-	<content>Subpart E contains special rules for mortgage transactions. Section 1026.32 requires certain disclosures and provides limitations for closed-end credit transactions and open-end credit plans that have rates or fees above specified amounts or certain prepayment penalties. Section 1026.33 requires special disclosures, including the total annual loan cost rate, for reverse mortgage transactions. Section 1026.34 prohibits specific acts and practices in connection with high-cost mortgages, as defined in § 1026.32(a). Section 1026.35 prohibits specific acts and practices in connection with closed-end higher-priced mortgage loans, as defined in § 1026.35(a). Section 1026.36 prohibits specific acts and practices in connection with an extension of credit secured by a dwelling. Sections 1026.37 and 1026.38 set forth special disclosure requirements for certain closed-end transactions secured by real property or a cooperative unit, as required by § 1026.19(e) and (f).</content>
+        <content>Subpart E contains special rules for mortgage transactions. Section 1026.32 requires certain disclosures and provides limitations for closed-end credit transactions and open-end credit plans that have rates or fees above specified amounts or certain prepayment penalties. Section 1026.33 requires special disclosures, including the total annual loan cost rate, for reverse mortgage transactions. Section 1026.34 prohibits specific acts and practices in connection with high-cost mortgages, as defined in &#167;&#8201;1026.32(a). Section 1026.35 prohibits specific acts and practices in connection with closed-end higher-priced mortgage loans, as defined in &#167;&#8201;1026.35(a). Section 1026.36 prohibits specific acts and practices in connection with an extension of credit secured by a dwelling. Sections 1026.37 and 1026.38 set forth special disclosure requirements for certain closed-end transactions secured by real property or a cooperative unit, as required by &#167;&#8201;1026.19(e) and (f).</content>
       </paragraph>
     </change>
-
-    <!-- Section 1026.3 is amended by revising paragraph (h) introductory text and paragraphs (h)(5) and (6) to read as follows: -->
-
-    <change operation="modified" label="1026-3-h" subpath="title">
-      <title>Partial exemption for certain mortgage loans.</title>
+    <change label="1026-3-h" operation="modified" subpath="content">
+      <content></content>
     </change>
 
-    <change operation="modified" label="1026-3-h" subpath="content">
-      <content>The special disclosure requirements in § 1026.19(g) and, unless the creditor chooses to provide the disclosures described in § 1026.19(e) and (f), in § 1026.19(e) and (f) do not apply to a transaction that satisfies all of the following criteria:</content>
-    </change>
-
-    <change operation="modified" label="1026-3-h-5">
+    <change label="1026-3-h-5" operation="modified">
       <paragraph label="1026-3-h-5" marker="(5)">
-	<content></content>
-	<paragraph label="1026-3-h-5-i" marker="(i)">
-	  <content>The costs payable by the consumer in connection with the transaction at consummation are limited to:</content>
-	  <paragraph label="1026-3-h-5-i-A" marker="(A)">
-	    <content>Recording fees;</content>
-	  </paragraph>
-	  <paragraph label="1026-3-h-5-i-B" marker="(B)">
-	    <content>Transfer fees;</content>
-	  </paragraph>
-	  <paragraph label="1026-3-h-5-i-C" marker="(C)">
-	    <content>A bona fide and reasonable application fee; and</content>
-	  </paragraph>
-	  <paragraph label="1026-3-h-5-i-D" marker="(D)">
-	    <content>A bona fide and reasonable fee for housing counseling services; and</content>
-	  </paragraph>
-	</paragraph>
-	<paragraph label="1026-3-h-5-ii" marker="(ii)">
-	  <content>The total of costs payable by the consumer under paragraph (h)(5)(i)(C) and (D) of this section is less than 1 percent of the amount of credit extended; and</content>
-	</paragraph>
+        <content></content>
+        <paragraph label="1026-3-h-5-i" marker="(i)">
+          <content>The costs payable by the consumer in connection with the transaction at consummation are limited to:</content>
+          <paragraph label="1026-3-h-5-i-A" marker="(A)">
+            <content>Recording fees;</content>
+          </paragraph>
+          <paragraph label="1026-3-h-5-i-B" marker="(B)">
+            <content>Transfer fees;</content>
+          </paragraph>
+          <paragraph label="1026-3-h-5-i-C" marker="(C)">
+            <content>A bona fide and reasonable application fee; and</content>
+          </paragraph>
+          <paragraph label="1026-3-h-5-i-D" marker="(D)">
+            <content>A bona fide and reasonable fee for housing counseling services; and</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-3-h-5-ii" marker="(ii)">
+          <content>The total of costs payable by the consumer under paragraph (h)(5)(i)(C) and (D) of this section is less than 1 percent of the amount of credit extended; and</content>
+        </paragraph>
       </paragraph>
     </change>
-
-    <change operation="modified" label="1026-3-h-6">
+    <change label="1026-3-h-6" operation="modified">
       <paragraph label="1026-3-h-6" marker="(6)">
-	<content>The following disclosures are provided:</content>
-	<paragraph label="1026-3-h-6-i" marker="(i)">
-	  <content>Disclosures described in § 1026.18 that comply with this part; or</content>
-	</paragraph>
-	<paragraph label="1026-3-h-6-ii" marker="(ii)">
-	  <content>Alternatively, disclosures described in § 1026.19(e) and (f) that comply with this part.</content>
-	</paragraph>
+        <content>The following disclosures are provided:</content>
+        <paragraph label="1026-3-h-6-i" marker="(i)">
+          <content>Disclosures described in &#167;&#8201;1026.18 that comply with this part; or</content>
+        </paragraph>
+        <paragraph label="1026-3-h-6-ii" marker="(ii)">
+          <content>Alternatively, disclosures described in &#167;&#8201;1026.19(e) and (f) that comply with this part.</content>
+        </paragraph>
       </paragraph>
     </change>
-
-    <!-- Section 1026.19 is amended by revising the paragraph (e) heading, paragraphs (e)(1)(i), (e)(3)(iii), (e)(3)(iv)(E) and (F), the paragraph (f) heading, and paragraphs (f)(1)(i), (f)(4)(i), and (g)(1) to read as follows: -->
-
-    <change operation="modified" label="1026-19-e" subpath="title">
-      <title>Mortgage loans—early disclosures—</title>
-    </change>
-
-    <change operation="modified" label="1026-19-e-1-i">
+    <change label="1026-19-e" operation="modified"/>
+    <change label="1026-19-e-1-i" operation="modified">
       <paragraph label="1026-19-e-1-i" marker="(i)">
-	<title>Creditor.</title>
-	<content>In a closed-end consumer credit transaction secured by real property or a cooperative unit, other than a reverse mortgage subject to § 1026.33, the creditor shall provide the consumer with good faith estimates of the disclosures in § 1026.37.</content>
+        <content>In a closed-end consumer credit transaction secured by real property or a cooperative unit, other than a reverse mortgage subject to &#167;&#8201;1026.33, the creditor shall provide the consumer with good faith estimates of the disclosures in &#167;&#8201;1026.37.</content>
       </paragraph>
     </change>
-
-    <change operation="modified" label="1026-19-e-3-iii">
+    <change label="1026-19-e-3-iii" operation="modified">
       <paragraph label="1026-19-e-3-iii" marker="(iii)">
-	<title>Variations permitted for certain charges.</title>
-	<content>An estimate of any of the charges specified in this paragraph (e)(3)(iii) is in good faith if it is consistent with the best information reasonably available to the creditor at the time it is disclosed, regardless of whether the amount paid by the consumer exceeds the amount disclosed under paragraph (e)(1)(i) of this section. For purposes of paragraph (e)(1)(i) of this section, good faith is determined under this paragraph (e)(3)(iii) even if such charges are paid to the creditor or affiliates of the creditor, so long as the charges are bona fide:</content>
-	<paragraph label="1026-19-e-3-iii-A" marker="(A)">
-	  <content>Prepaid interest;</content>
-	</paragraph>
-	<paragraph label="1026-19-e-3-iii-B" marker="(B)">
-	  <content>Property insurance premiums;</content>
-	</paragraph>
-	<paragraph label="1026-19-e-3-iii-C" marker="(C)">
-	  <content>Amounts placed into an escrow, impound, reserve, or similar account;</content>
-	</paragraph>
-	<paragraph label="1026-19-e-3-iii-D" marker="(D)">
-	  <content>Charges paid to third-party service providers selected by the consumer consistent with paragraph (e)(1)(vi)(A) of this section that are not on the list provided under paragraph (e)(1)(vi)(C) of this section; and</content>
-	</paragraph>
-	<paragraph label="1026-19-e-3-iii-E" marker="(E)">
-	  <content>Property taxes and other charges paid for third-party services not required by the creditor.</content>
-	</paragraph>
+        <content>An estimate of any of the charges specified in this paragraph (e)(3)(iii) is in good faith if it is consistent with the best information reasonably available to the creditor at the time it is disclosed, regardless of whether the amount paid by the consumer exceeds the amount disclosed under paragraph (e)(1)(i) of this section. For purposes of paragraph (e)(1)(i) of this section, good faith is determined under this paragraph (e)(3)(iii) even if such charges are paid to the creditor or affiliates of the creditor, so long as the charges are bona fide:</content>
+        <paragraph label="1026-19-e-3-iii-A" marker="(A)">
+          <content>Prepaid interest;</content>
+        </paragraph>
+        <paragraph label="1026-19-e-3-iii-B" marker="(B)">
+          <content>Property insurance premiums;</content>
+        </paragraph>
+        <paragraph label="1026-19-e-3-iii-C" marker="(C)">
+          <content>Amounts placed into an escrow, impound, reserve, or similar account;</content>
+        </paragraph>
+        <paragraph label="1026-19-e-3-iii-D" marker="(D)">
+          <content>Charges paid to third-party service providers selected by the consumer consistent with paragraph (e)(1)(vi)(A) of this section that are not on the list provided under paragraph (e)(1)(vi)(C) of this section; and</content>
+        </paragraph>
+        <paragraph label="1026-19-e-3-iii-E" marker="(E)">
+          <content>Property taxes and other charges paid for third-party services not required by the creditor.</content>
+        </paragraph>
       </paragraph>
     </change>
-
-    <change operation="modified" label="1026-19-e-3-iv-E">
+    <change label="1026-19-e-3-iv-E" operation="modified">
       <paragraph label="1026-19-e-3-iv-E" marker="(E)">
-	<title>Expiration.</title>
-	<content>The consumer indicates an intent to proceed with the transaction more than 10 business days, or more than any additional number of days specified by the creditor before the offer expires, after the disclosures required under paragraph (e)(1)(i) of this section are provided pursuant to paragraph (e)(1)(iii) of this section.</content>
+        <content>The consumer indicates an intent to proceed with the transaction more than 10 business days, or more than any additional number of days specified by the creditor before the offer expires, after the disclosures required under paragraph (e)(1)(i) of this section are provided pursuant to paragraph (e)(1)(iii) of this section.</content>
       </paragraph>
     </change>
-
-    <change operation="modified" label="1026-19-e-3-iv-F">
+    <change label="1026-19-e-3-iv-F" operation="modified">
       <paragraph label="1026-19-e-3-iv-F" marker="(F)">
-	<title>Delayed settlement date on a construction loan.</title>
-	<content>In transactions involving new construction, where the creditor reasonably expects that settlement will occur more than 60 days after the disclosures required under paragraph (e)(1)(i) of this section are provided pursuant to paragraph (e)(1)(iii) of this section, the creditor may provide revised disclosures to the consumer if the original disclosures required under paragraph (e)(1)(i) of this section state clearly and conspicuously that at any time prior to 60 days before consummation, the creditor may issue revised disclosures. If no such statement is provided, the creditor may not issue revised disclosures, except as otherwise provided in paragraph (e)(3)(iv) of this section.</content>
+        <content>In transactions involving new construction, where the creditor reasonably expects that settlement will occur more than 60 days after the disclosures required under paragraph (e)(1)(i) of this section are provided pursuant to paragraph (e)(1)(iii) of this section, the creditor may provide revised disclosures to the consumer if the original disclosures required under paragraph (e)(1)(i) of this section state clearly and conspicuously that at any time prior to 60 days before consummation, the creditor may issue revised disclosures. If no such statement is provided, the creditor may not issue revised disclosures, except as otherwise provided in paragraph (e)(3)(iv) of this section.</content>
       </paragraph>
     </change>
-
-    <change operation="modified" label="1026-19-f" subpath="title">
-      <title>Mortgage loans—final disclosures—</title>
-    </change>
-
-    <change operation="modified" label="1026-19-f-1-i">
+    <change label="1026-19-f" operation="modified"/>
+    <change label="1026-19-f-1-i" operation="modified">
       <paragraph label="1026-19-f-1-i" marker="(i)">
-	<title>Scope.</title>
-	<content>In a transaction subject to paragraph (e)(1)(i) of this section, the creditor shall provide the consumer with the disclosures required under § 1026.38 reflecting the actual terms of the transaction.</content>
+        <content>In a transaction subject to paragraph (e)(1)(i) of this section, the creditor shall provide the consumer with the disclosures required under &#167;&#8201;1026.38 reflecting the actual terms of the transaction.</content>
       </paragraph>
     </change>
-
-    <change operation="modified" label="1026-19-f-4-i">
+    <change label="1026-19-f-4-i" operation="modified">
       <paragraph label="1026-19-f-4-i" marker="(i)">
-	<title>Provision to seller.</title>
-	<content>In a transaction subject to paragraph (e)(1)(i) of this section that involves a seller, the settlement agent shall provide the seller with the disclosures in § 1026.38 that relate to the seller's transaction reflecting the actual terms of the seller's transaction.</content>
+        <content>In a transaction subject to paragraph (e)(1)(i) of this section that involves a seller, the settlement agent shall provide the seller with the disclosures in &#167;&#8201;1026.38 that relate to the seller's transaction reflecting the actual terms of the seller's transaction.</content>
       </paragraph>
     </change>
-
-    <change operation="modified" label="1026-19-g-1">
+    <change label="1026-19-g-1" operation="modified">
       <paragraph label="1026-19-g-1" marker="(1)">
-	<title>Creditor to provide special information booklet.</title>
-	<content>Except as provided in paragraphs (g)(1)(ii) and (iii) of this section, the creditor shall provide a copy of the special information booklet (required pursuant to section 5 of the Real Estate Settlement Procedures Act (12 U.S.C. 2604) to help consumers applying for federally related mortgage loans understand the nature and cost of real estate settlement services) to a consumer who applies for a consumer credit transaction secured by real property or a cooperative unit.</content>
-	<paragraph label="1026-19-g-1-i" marker="(i)">
-	  <content>The creditor shall deliver or place in the mail the special information booklet not later than three business days after the consumer's application is received. However, if the creditor denies the consumer's application before the end of the three-business-day period, the creditor need not provide the booklet. If a consumer uses a mortgage broker, the mortgage broker shall provide the special information booklet and the creditor need not do so.</content>
-	</paragraph>
-	<paragraph label="1026-19-g-1-ii" marker="(ii)">
-	  <content>In the case of a home equity line of credit subject to § 1026.40, a creditor or mortgage broker that provides the consumer with a copy of the brochure entitled “When Your Home is On the Line: What You Should Know About Home Equity Lines of Credit,” or any successor brochure issued by the Bureau, is deemed to be in compliance with this section.</content>
-	</paragraph>
-	<paragraph label="1026-19-g-1-iii" marker="(iii)">
-	  <content>The creditor or mortgage broker need not provide the booklet to the consumer for a transaction, the purpose of which is not the purchase of a one-to-four family residential property, including, but not limited to, the following:</content>
-	  <paragraph label="1026-19-g-1-iii-A" marker="(A)">
-	    <content>Refinancing transactions;</content>
-	  </paragraph>
-	  <paragraph label="1026-19-g-1-iii-B" marker="(B)">
-	    <content>Closed-end loans secured by a subordinate lien; and</content>
-	  </paragraph>
-	  <paragraph label="1026-19-g-1-iii-C" marker="(C)">
-	    <content>Reverse mortgages.</content>
-	  </paragraph>
-	</paragraph>
+        <content>Except as provided in paragraphs (g)(1)(ii) and (iii) of this section, the creditor shall provide a copy of the special information booklet (required pursuant to section 5 of the Real Estate Settlement Procedures Act (12 U.S.C. 2604) to help consumers applying for federally related mortgage loans understand the nature and cost of real estate settlement services) to a consumer who applies for a consumer credit transaction secured by real property or a cooperative unit.</content>
+        <paragraph label="1026-19-g-1-i" marker="(i)">
+          <content>The creditor shall deliver or place in the mail the special information booklet not later than three business days after the consumer's application is received. However, if the creditor denies the consumer's application before the end of the three-business-day period, the creditor need not provide the booklet. If a consumer uses a mortgage broker, the mortgage broker shall provide the special information booklet and the creditor need not do so.</content>
+        </paragraph>
+        <paragraph label="1026-19-g-1-ii" marker="(ii)">
+          <content>In the case of a home equity line of credit subject to &#167;&#8201;1026.40, a creditor or mortgage broker that provides the consumer with a copy of the brochure entitled &#8220;When Your Home is On the Line: What You Should Know About Home Equity Lines of Credit,&#8221; or any successor brochure issued by the Bureau, is deemed to be in compliance with this section.</content>
+        </paragraph>
+        <paragraph label="1026-19-g-1-iii" marker="(iii)">
+          <content>The creditor or mortgage broker need not provide the booklet to the consumer for a transaction, the purpose of which is not the purchase of a one-to-four family residential property, including, but not limited to, the following:</content>
+          <paragraph label="1026-19-g-1-iii-A" marker="(A)">
+            <content>Refinancing transactions;</content>
+          </paragraph>
+          <paragraph label="1026-19-g-1-iii-B" marker="(B)">
+            <content>Closed-end loans secured by a subordinate lien; and</content>
+          </paragraph>
+          <paragraph label="1026-19-g-1-iii-C" marker="(C)">
+            <content>Reverse mortgages.</content>
+          </paragraph>
+        </paragraph>
       </paragraph>
     </change>
-
-    <!-- Section 1026.23 is amended by revising paragraphs (g)(1) and (2) and (h)(2) to read as follows: -->
-    
+    <change label="1026-23-g-1" operation="modified">
+      <paragraph label="1026-23-g-1" marker="(1)">
+        <title>One half of 1 percent tolerance</title>
+        <content>Except as provided in paragraphs (g)(2) and (h)(2) of this section:</content>
+        <paragraph label="1026-23-g-1-i" marker="(i)">
+          <content>The finance charge and other disclosures affected by the finance charge (such as the amount financed and the annual percentage rate) shall be considered accurate for purposes of this section if the disclosed finance charge:</content>
+          <paragraph label="1026-23-g-1-i-A" marker="(A)">
+            <content>Is understated by no more than 1/2 of 1 percent of the face amount of the note or $100, whichever is greater; or</content>
+          </paragraph>
+          <paragraph label="1026-23-g-1-i-B" marker="(B)">
+            <content>Is greater than the amount required to be disclosed.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-23-g-1-ii" marker="(ii)">
+          <content>The total of payments for each transaction subject to &#167; 1026.19(e) and (f) shall be considered accurate for purposes of this section if the disclosed total of payments:</content>
+          <paragraph label="1026-23-g-1-ii-A" marker="(A)">
+            <content>Is understated by no more than 1/2 of 1 percent of the face amount of the note or $100, whichever is greater; or</content>
+          </paragraph>
+          <paragraph label="1026-23-g-1-ii-B" marker="(B)">
+            <content>Is greater than the amount required to be disclosed.</content>
+          </paragraph>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change label="1026-23-g-2" operation="modified">
+      <paragraph label="1026-23-g-2" marker="(2)">
+        <title>One percent tolerance.</title>
+        <content>In a refinancing of a residential mortgage transaction with a new creditor (other than a transaction covered by &#167; 1026.32), if there is no new advance and no consolidation of existing loans:</content>
+        <paragraph label="1026-23-g-2-i" marker="(i)">
+          <content>The finance charge and other disclosures affected by the finance charge (such as the amount financed and the annual percentage rate) shall be considered accurate for purposes of this section if the disclosed finance charge:</content>
+          <paragraph label="1026-23-g-2-i-A" marker="(A)">
+            <content>Is understated by no more than 1 percent of the face amount of the note or $100, whichever is greater; or</content>
+          </paragraph>
+          <paragraph label="1026-23-g-2-i-B" marker="(B)">
+            <content>Is greater than the amount required to be disclosed.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-23-g-2-ii" marker="(ii)">
+          <content>The total of payments for each transaction subject to &#167; 1026.19(e) and (f) shall be considered accurate for purposes of this section if the disclosed total of payments:</content>
+          <paragraph label="1026-23-g-2-ii-A" marker="(A)">
+            <content>Is understated by no more than 1 percent of the face amount of the note or $100, whichever is greater; or</content>
+          </paragraph>
+          <paragraph label="1026-23-g-2-ii-B" marker="(B)">
+            <content>Is greater than the amount required to be disclosed.</content>
+          </paragraph>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change label="1026-23-h-2" operation="modified">
+      <paragraph label="1026-23-h-2" marker="(2)">
+        <title>Tolerance for disclosures.</title>
+        <content>After the initiation of foreclosure on the consumer's principal dwelling that secures the credit obligation:</content>
+        <paragraph label="1026-23-h-2-i" marker="(i)">
+          <content>The finance charge and other disclosures affected by the finance charge (such as the amount financed and the annual percentage rate) shall be considered accurate for purposes of this section if the disclosed finance charge:</content>
+          <paragraph label="1026-23-h-2-i-A" marker="(A)">
+            <content>Is understated by no more than $35; or</content>
+          </paragraph>
+          <paragraph label="1026-23-h-2-i-B" marker="(B)">
+            <content>Is greater than the amount required to be disclosed.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-23-h-2-ii" marker="(ii)">
+          <content>The total of payments for each transaction subject to &#167; 1026.19(e) and (f) shall be considered accurate for purposes of this section if the disclosed total of payments:</content>
+          <paragraph label="1026-23-h-2-ii-A" marker="(A)">
+            <content>Is understated by no more than $35; or</content>
+          </paragraph>
+          <paragraph label="1026-23-h-2-ii-B" marker="(B)">
+            <content>Is greater than the amount required to be disclosed.</content>
+          </paragraph>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change label="1026-25-c-1" operation="modified">
+      <paragraph label="1026-25-c-1" marker="(1)">
+        <title>Records related to requirements for loans secured by real property or a cooperative unit&#8212;</title>
+        <content></content>
+      </paragraph>
+    </change>
+    <change label="1026-37-b" operation="modified"/>
   </changeset>
 </notice>
