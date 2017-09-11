@@ -930,9 +930,7 @@
     </change>
     <change operation="modified" label="1026-23-h-2-Interp">
       <interpParagraph label="1026-23-h-2-Interp" marker="1." target="1026-23-h-2">
-        <title>23(h)(2) Tolerance for Disclosures
-
-</title>
+        <title>23(h)(2) Tolerance for Disclosures.</title>
         <content></content>
         <interpParagraph label="1026-23-h-2-Interp-1" marker="1.">
           <title>General.</title>
@@ -946,6 +944,325 @@
     </change>
     <change operation="modified" label="1026-25-c-1-Interp" subpath="title">
       <title>25(c)(1) Records related to requirements for loans secured by real property or a cooperative unit.</title>
+    </change>
+    <change operation="modified" label="1026-37-a-7-Interp">
+      <interpParagraph label="1026-37-a-7-Interp" marker="1." target="1026-37-a-7">
+        <title>37(a)(7) Sale price.</title>
+        <content></content>
+        <interpParagraph label="1026-37-a-7-Interp-1" marker="1.">
+          <title>Estimated property value.</title>
+          <content>In transactions where there is no seller, such as in a refinancing, § 1026.37(a)(7)(ii) requires the creditor to disclose the estimated value of the property identified in § 1026.37(a)(6) based on the best information reasonably available to the creditor at the time the disclosure is provided to the consumer, which may include, at the creditor's option, the estimated value of the improvements to be made on the property in transactions involving construction. The creditor may use the estimate provided by the consumer at application unless it has performed its own estimate of the property value by the time the disclosure is provided to the consumer, in which case the creditor must use its own estimate. If the creditor has obtained any appraisals or valuations of the property for the application at the time the disclosure is issued to the consumer, the value determined by the appraisal or valuation to be used during underwriting for the application is disclosed as the estimated property value. If the creditor has obtained multiple appraisals or valuations and has not yet determined which one will be used during underwriting, it may disclose the value from any appraisal or valuation it reasonably believes it may use in underwriting the transaction. In a transaction that involves a seller, if the sale price is not yet known, the creditor complies with § 1026.37(a)(7) if it discloses the estimated value of the property that it used as the basis for the disclosures in the Loan Estimate.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-a-7-Interp-2" marker="2.">
+          <title>Personal property.</title>
+          <content>In transactions involving personal property that is separately valued from real property, only the value of the real property or cooperative unit is disclosed under § 1026.37(a)(7). Where personal property is included in the sale price of the real property or cooperative unit (for example, if the consumer is purchasing the furniture inside the dwelling), however, § 1026.37(a)(7) permits disclosure of the aggregate price without any reduction for the appraised or estimated value of the personal property.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1026-37-a-8-Interp-3" parent="1026-37-a-8-Interp">
+      <interpParagraph label="1026-37-a-8-Interp-3" marker="3.">
+        <title>Loan term start date.</title>
+        <content>See comment app. D-7.i for an explanation of how a creditor discloses the loan term of a multiple-advance loan to finance the construction of a dwelling that may be permanently financed by the same creditor.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-a-9-Interp-1">
+      <interpParagraph label="1026-37-a-9-Interp-1" marker="1.">
+        <title>General.</title>
+        <content>Section 1026.37(a)(9) requires disclosure of the consumer's intended use of the credit. In ascertaining the consumer's intended use, § 1026.37(a)(9) requires the creditor to consider all relevant information known to the creditor at the time of the disclosure. If the purpose is not known, the creditor may rely on the consumer's stated purpose. The following examples illustrate when each of the permissible purposes should be disclosed:</content>
+        <interpParagraph label="1026-37-a-9-Interp-1-i" marker="i.">
+          <title>Purchase.</title>
+          <content>The consumer intends to use the proceeds from the transaction to purchase the property that will secure the extension of credit. In a purchase transaction with simultaneous subordinate financing, the simultaneous subordinate loan is also disclosed with the purpose “Purchase.”</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-a-9-Interp-1-ii" marker="ii.">
+          <title>Refinance.</title>
+          <content>The consumer refinances an existing obligation already secured by the consumer's dwelling to change the rate, term, or other loan features and may or may not receive cash from the transaction. For example, in a refinance with no cash provided, the new amount financed does not exceed the unpaid principal balance, any earned unpaid finance charge on the existing debt, and amounts attributed solely to the costs of the refinancing. Conversely, in a refinance with cash provided, the consumer refinances an existing mortgage obligation and receives money from the transaction that is in addition to the funds used to pay the unpaid principal balance, any earned unpaid finance charge on the existing debt, and amounts attributed solely to the costs of the refinancing. In such a transaction, the consumer may, for example, use the newly-extended credit to pay off the balance of the existing mortgage and other consumer debt, such as a credit card balance.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-a-9-Interp-1-iii" marker="iii.">
+          <title>Construction.</title>
+          <content>Section 1026.37(a)(9)(iii) requires the creditor to disclose that the loan is for construction in transactions where the creditor extends credit to finance only the cost of initial construction (construction-only loan), not renovations to existing dwellings, and in transactions where a multiple advance loan may be permanently financed by the same creditor (construction-permanent loan). In a construction-only loan, the borrower may be required to make interest-only payments during the loan term with the balance commonly due at the end of the construction project. For additional guidance on disclosing construction-permanent loans, see § 1026.17(c)(6)(ii), comments 17(c)(6)-2, -3, and -5, and appendix D to this part.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-a-9-Interp-1-iv" marker="iv.">
+          <title>Home equity loan.</title>
+          <content>The creditor is required to disclose that the credit is for a “home equity loan” if the creditor intends to extend credit for any purpose other than a purchase, refinancing, or construction. This disclosure applies whether the loan is secured by a first or subordinate lien.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-a-13-Interp-2">
+      <interpParagraph label="1026-37-a-13-Interp-2" marker="2.">
+        <title>Additional features.</title>
+        <content>When disclosing a loan product with at least one of the features described in § 1026.37(a)(10)(ii), § 1026.37(a)(10)(iii) and (iv) require the disclosure of only the first applicable feature in the order of § 1026.37(a)(10)(ii) and that it be preceded by the time period or the length of the introductory period and the frequency of the first adjustment period, as applicable, followed by a description of the loan product and its time period as provided for in § 1026.37(a)(10)(i). For example:</content>
+        <interpParagraph label="1026-37-a-13-Interp-2-i" marker="i.">
+          <title>Negative amortization.</title>
+          <content>Some loan products, such as “payment option” loans, permit the borrower to make payments that are insufficient to cover all of the interest accrued, and the unpaid interest is added to the principal balance. Where the loan product includes a loan feature that may cause the loan balance to increase, the disclosure required by § 1026.37(a)(10)(ii)(A) is preceded by the time period that the borrower is permitted to make payments that result in negative amortization (e.g., “2 Year Negative Amortization”), followed by the loan product type. Thus, a fixed rate product with a step-payment feature for the first two years of the legal obligation that may negatively amortize is disclosed as “2 Year Negative Amortization, Fixed Rate.”</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-a-13-Interp-2-ii" marker="ii.">
+          <title>Interest only.</title>
+          <content>When disclosing an “Interest Only” feature, as defined in § 1026.18(s)(7)(iv), the applicable time period must precede the label “Interest Only.” Thus, a fixed rate loan with only interest due for the first five years of the loan term is disclosed as “5 Year Interest Only, Fixed Rate.” If the interest only feature fails to cover the total interest due, then, as required by § 1026.37(a)(10)(iii), the disclosure must reference the negative amortization feature and not the interest only feature (e.g., “5 Year Negative Amortization, Fixed Rate”). See comment app. D-7.ii for an explanation of the disclosure of the time period of an interest only feature for a construction loan or a construction-permanent loan.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-a-13-Interp-2-iii" marker="iii.">
+          <title>Step payment.</title>
+          <content>When disclosing a step payment feature (which is sometimes referred to instead as a graduated payment), the period of time at the end of which the scheduled payments will change must precede the label “Step Payment” (e.g., “5 Year Step Payment”) followed by the name of the loan product. Thus, a fixed rate mortgage subject to a 5-year step payment plan is disclosed as a “5 Year Step Payment, Fixed Rate.”</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-a-13-Interp-2-iv" marker="iv.">
+          <title>Ballon payment.</title>
+          <content>If a loan product includes a “balloon payment,” as that term is defined in § 1026.37(b)(5), the disclosure of the balloon payment feature, including the year the payment is due, precedes the disclosure of the loan product. Thus, if the loan product is a step rate with an introductory rate that lasts for three years and adjusts each year thereafter until the balloon payment is due in the seventh year of the loan term, the disclosure required is “Year 7 Balloon Payment, 3/1 Step Rate.” If the loan product includes more than one balloon payment, only the earliest year that a balloon payment is due shall be disclosed.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-a-13-Interp-2-v" marker="v.">
+          <title>Seasonal payment.</title>
+          <content>If a loan product includes a seasonal payment feature, § 1026.37(a)(10)(ii)(E) requires that the creditor disclose the feature. The feature is not, however, required to be disclosed with any preceding time period. Disclosure of the label “Seasonal Payment” without any preceding number of years satisfies this requirement.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-a-13-Interp-2">
+      <interpParagraph label="1026-37-a-13-Interp-2" marker="2.">
+        <title>Expiration date.</title>
+        <content>The disclosure required by § 1026.37(a)(13)(ii) related to estimated closing costs is required regardless of whether the interest rate is locked for a specific period of time or whether the terms and costs are otherwise accepted or extended. If the consumer fails to indicate an intent to proceed with the transaction within 10 business days after the disclosures were originally provided under § 1026.19(e)(1)(iii) (or within any longer time period established by the creditor), then, for determining good faith under § 1026.19(e)(3)(i) and (ii), a creditor may use a revised estimate of a charge instead of the amount originally disclosed under § 1026.19(e)(1)(i). See comment 19(e)(3)(iv)(E)-2.</content>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1026-37-a-13-Interp-4" parent="1026-37-a-13-Interp">
+      <interpParagraph label="1026-37-a-13-Interp-4" marker="4.">
+        <title>Revised disclosures.</title>
+        <content>Once the consumer indicates an intent to proceed within the time specified by the creditor under § 1026.37(a)(13)(ii), the date and time at which estimated closing costs expire are left blank on any subsequent revised disclosures. The creditor may extend the period of availability to expire beyond the time disclosed under § 1026.37(a)(13)(ii). If the consumer indicates an intent to proceed within that longer time period, the date and time at which estimated closing costs expire are left blank on subsequent revised disclosures, if any. See comment 19(e)(3)(iv)-5.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-b-2-Interp">
+      <interpParagraph label="1026-37-b-2-Interp" target="1026-37-b-2">
+        <title>37(b)(2) Interest rate.</title>
+        <content></content>
+        <interpParagraph label="1026-37-b-2-Interp-1" marker="1.">
+          <title>Interest rate at consummation not known.</title>
+          <content>Where the interest rate that will apply at consummation is not known at the time the creditor must deliver the disclosures required by § 1026.19(e), § 1026.37(b)(2) requires disclosure of the fully-indexed rate, defined as the index plus the margin at consummation. Although § 1026.37(b)(2) refers to the index plus margin “at consummation,” if the index value that will be in effect at consummation is unknown at the time the disclosures are provided under § 1026.19(e)(1)(iii), i.e., within three business days after receipt of a consumer's application, the fully-indexed rate disclosed under § 1026.37(b)(2) may be based on the index in effect at the time the disclosure is delivered. The index in effect at consummation (or the time the disclosure is delivered under § 1026.19(e)) need not be used if the contract provides for a delay in the implementation of changes in an index value. For example, if the contract specifies that rate changes are based on the index value in effect 45 days before the change date, creditors may use any index value in effect during the 45 days before consummation (or any earlier date of disclosure) in calculating the fully-indexed rate to be disclosed. See comment app. D-7.iii for an explanation of the disclosure of the permanent financing interest rate for a construction-permanent loan.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-b-3-Interp-2">
+      <interpParagraph label="1026-37-b-3-Interp-2" marker="2.">
+        <title>Initial periodic payment if not known.</title>
+        <content>Under § 1026.37(b)(3), the initial periodic payment amount that will be due under the terms of the legal obligation must be disclosed. If the initial periodic payment is not known because it will be based on an interest rate at consummation that is not known at the time the disclosures required by § 1026.19(e) must be provided, for example, if it is based on an external index that may fluctuate before consummation, § 1026.37(b)(3) requires that the disclosure be based on the fully-indexed rate disclosed under § 1026.37(b)(2). See comment 37(b)(2)-1 for guidance regarding calculating the fully-indexed rate.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-b-6-iii-Interp-1">
+      <interpParagraph label="1026-37-b-6-iii-Interp-1" marker="1.">
+        <title>Additional information regarding increase in periodic payment.</title>
+        <content>A creditor complies with the requirement under § 1026.37(b)(6)(iii) to disclose additional information indicating the scheduled frequency of adjustments to the periodic principal and interest payment by using the phrases “Adjusts every” and “starting in.” A creditor complies with the requirement under § 1026.37(b)(6)(iii) to disclose additional information indicating the maximum possible periodic principal and interest payment, and the date when the periodic principal and interest payment may first equal the maximum principal and interest payment by using the phrase “Can go as high as” and then indicating the date at the end of that phrase or, for a scheduled maximum amount, such as under a step payment loan, “Goes as high as.” A creditor complies with the requirement under § 1026.37(b)(6)(iii) to indicate that there is a period during which only interest is required to be paid and the due date of the last periodic payment of such period using the phrase “Includes only interest and no principal until.” See form H-24 of appendix H to this part for the required format of such phrases, which is required for federally related mortgage loans under § 1026.37(o)(3). See comment app. D-7.iv for an explanation of the disclosure of an increase in the periodic payment for a construction or construction-permanent loan.</content>
+      </interpParagraph>
+    </change>
+    <change label="1026-37-c-Interp-2" operation="added" parent="1026-37-c-Interp">
+      <interpParagraph label="1026-37-c-Interp-2" marker="2.">
+        <title>Construction loans.</title>
+        <content>See comment app. D-7.v for an explanation of the projected payments disclosure for a construction or construction-permanent loan.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-c-1-iii-B-Interp">
+      <interpParagraph label="1026-37-c-1-iii-B-Interp" target="1026-37-c-1-iii-B">
+        <title>Paragraph 37(c)(1)(iii)(B).</title>
+        <content></content>
+        <interpParagraph label="1026-37-c-1-iii-B-Interp-1" marker="1.">
+          <title>Multiple events occurring in a single year.</title>
+          <content>If multiple changes to periodic principal and interest payments would result in more than one separate periodic payment or range of payments in a single year, § 1026.37(c)(1)(iii)(B) requires the creditor to disclose the range of payments that would apply during the year in which the events occur. For example:</content>
+          <interpParagraph label="1026-37-c-1-iii-B-Interp-1-i" marker="i.">
+            <content>Assume a loan with a 30-year term with a payment that adjusts every month for the first 12 months and is fixed thereafter, where mortgage insurance is not required, and where no escrow account would be established for the payment of charges described in § 1026.37(c)(4)(ii). The creditor discloses as a single range of payments the initial periodic payment and the periodic payment that would apply after each payment adjustment during the first 12 months, which single range represents the minimum payment and maximum payment, respectively. Under § 1026.37(c)(1)(i)(D), the creditor also discloses, as an additional separate periodic payment or range of payments, the periodic principal and interest payment or range of payments that would apply after the payment becomes fixed.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-37-c-1-iii-B-Interp-1-ii" marker="ii.">
+            <content>Assume instead a loan with a 30-year term with a payment that adjusts upward at three months and at six months and is fixed thereafter, where mortgage insurance is not required, and where no escrow account would be established for the payment of charges described in § 1026.37(c)(4)(ii). The creditor discloses as a single range of payments the initial periodic payment, the periodic payment that would apply after the payment adjustment that occurs at three months, and the periodic payment that would apply after the payment adjustment that occurs at six months, which single range represents the minimum payment and maximum payment, respectively, which would apply during the first year of the loan. Under § 1026.37(c)(1)(i)(D), the creditor also discloses as an additional separate periodic payment or range of payments, the principal and interest payment that would apply on the first anniversary of the due date of the initial periodic payment or range of payments, because that is the anniversary that immediately follows the occurrence of the multiple payments or ranges of payments that occurred during the first year of the loan.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-37-c-1-iii-B-Interp-1-iii" marker="iii.">
+            <content>Assume that the same loan has a payment that, instead of becoming fixed after the adjustment at six months, adjusts once more at 18 months and becomes fixed thereafter. The creditor discloses the same single range of payments for year one. Under § 1026.37(c)(1)(i)(D), the creditor separately discloses the principal and interest payment that would apply on the first anniversary of the due date of the initial periodic payment in year two. Under § 1026.37(c)(1)(i)(A) and (c)(3)(ii), beginning in the next year in the sequence (i.e., in year three), the creditor separately discloses the periodic payment that would apply after the payment adjustment that occurs at 18 months. See comment 37(c)(3)(ii)-1 regarding subheadings that state the years.</content>
+          </interpParagraph>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change label="1026-37-c-4-iv-Interp-2" operation="modified">
+      <interpParagraph label="1026-37-c-4-iv-Interp-2" marker="2.">
+        <title>Amounts paid by the creditor using escrow account funds.</title>
+        <content>Section 1026.37(c)(4)(iv) requires the creditor to disclose an indication of whether the amounts disclosed under § 1026.37(c)(4)(ii) will be paid by the creditor using escrow account funds. If only a portion of the amounts disclosed under § 1026.37(c)(4)(ii), including, without limitation, property taxes, homeowner's insurance, and assessments, will be paid by the creditor using escrow account funds, the creditor may indicate that only a portion of the amounts disclosed will be paid using escrow account funds, such as by using the word “some.”</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-d-2-Interp" subpath="title">
+      <interpParagraph label="1026-37-d-2-Interp" marker="1.">
+        <title>37(d)(2) Optional alternative table for transactions without a seller or for simultaneous subordinate financing.</title>
+        <content></content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-d-2-Interp-1">
+      <interpParagraph label="1026-37-d-2-Interp-1" marker="1.">
+        <title>Optional use.</title>
+        <content>The optional alternative disclosure of the estimated cash to close provided for in § 1026.37(d)(2) may be used by a creditor only in a transaction without a seller or a simultaneous subordinate financing transaction. In a purchase transaction, the optional alternative disclosure may be used for the simultaneous subordinate financing Loan Estimate only if the first-lien Closing Disclosure will record the entirety of the seller's transaction. Creditors may only use this alternative estimated cash to close disclosure in conjunction with the alternative disclosure under § 1026.37(h)(2).</content>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1026-37-f-Interp-3" parent="1026-37-f-Interp">
+      <interpParagraph label="1026-37-f-Interp-3" marker="3.">
+        <title>Construction loan inspection and handling fees.</title>
+        <content>Inspection and handling fees for the staged disbursement of construction loan proceeds, including draw fees, are loan costs associated with the transaction for purposes of § 1026.37(f). If inspection and handling fees are collected at or before consummation, the total of such fees is disclosed in the loan costs table. If inspection and handling fees will be collected after consummation, the total of such fees is disclosed in a separate addendum and the fees are not counted for purposes of the calculating cash to close table. See comment 37(f)(6)-3 for a description of an addendum used to disclose inspection and handling fees that will be collected after consummation. See also comments 38(f)-2 and app. D-7.vii. If the number of inspections and disbursements is not known at the time the disclosures are provided, the creditor discloses the fees that will be collected based on the best information reasonably available to the creditor at the time the disclosure is provided. See comment 19(e)(1)(i)-1. See § 1026.17(e) and its commentary for an explanation of the effect of subsequent events that cause inaccuracies in disclosures.</content>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1026-37-f-6-Interp-3" parent="1026-37-f-6-Interp">
+      <interpParagraph label="1026-37-f-6-Interp-3" marker="1.">
+        <title>Addendum for post-consummation inspection and handling fees.</title>
+        <content>A creditor makes the disclosures required by § 1026.37(f) and comment 37(f)-3 for construction loan inspection and handling fees collected after consummation by disclosing the total of such fees under the heading “Inspection and Handling Fees Collected After Closing” in an addendum, which may be the addendum pursuant to § 1026.37(f)(6) or any other addendum or additional page under § 1026.37. See comment 37(o)(1)-1. For purposes of comment 38(f)-2, the addendum may be any addendum or additional page under § 1026.38. If the actual amount of such fees is not known at the time the disclosures are provided, the disclosures in the addendum are based upon the best information reasonably available to the creditor at the time the disclosure is provided. See comment 19(e)(1)(i)-1. For example, such information could include amounts the creditor has previously charged in similar construction transactions or the amount of estimated inspection and handling fees used by the creditor for purposes of setting the construction loan's commitment amount.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-g-6-ii-Interp-1">
+      <interpParagraph label="1026-37-g-6-ii-Interp-1" marker="1.">
+        <title>Lender credits.</title>
+        <content>Section 1026.19(e)(1)(i) requires disclosure of lender credits as provided in § 1026.37(g)(6)(ii). Such lender credits include non-specific lender credits as well as specific lender credits. See comment 19(e)(3)(i)-5.</content>
+      </interpParagraph>
+    </change>
+    <change operation="added" label="1026-37-h-1-Interp-2" parent="1026-37-h-1-Interp">
+      <interpParagraph label="1026-37-h-1-Interp-2" marker="1.">
+        <title>Simultaneous subordinate financing.</title>
+        <content>On the Loan Estimate for simultaneous subordinate financing purchase transactions, the sale price disclosed under § 1026.37(a)(7)(i) is not used under § 1026.37(h)(1) for the calculating cash to close table calculations that include the sale price as a component of the calculation. For example, sale price is generally included in the closing costs financed calculation under § 1026.37(h)(1)(ii) as a component of the estimated total amount of payments to third parties. However, for simultaneous subordinate financing transactions, the estimated total amount of payments to third parties would not include the sale price. The estimated total amount of payments to third parties only includes payments occurring in the simultaneous subordinate financing transaction other than payments toward the sale price.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-h-1-ii-Interp">
+      <interpParagraph label="1026-37-h-1-ii-Interp" target="1026-37-h-1-ii">
+        <title>37(h)(1)(ii) Closing costs financed.</title>
+        <content></content>
+        <interpParagraph label="1026-37-h-1-ii-Interp-1" marker="1.">
+          <title>Calculation of amount.</title>
+          <content>The amount of closing costs financed disclosed under § 1026.37(h)(1)(ii) is determined by subtracting the estimated total amount of payments to third parties not otherwise disclosed under § 1026.37(f) and (g) from the loan amount disclosed under § 1026.37(b)(1). The estimated total amount of payments to third parties includes the sale price disclosed under § 1026.37(a)(7)(i), if applicable, unless otherwise excluded under comment 37(h)(1)-2. Other examples of payments to third parties not otherwise disclosed under § 1026.37(f) and (g) include the amount of construction costs for transactions that involve improvements to be made on the property and payoffs of secured or unsecured debt. If the result of the calculation is zero or negative, the amount of $0 is disclosed under § 1026.37(h)(1)(ii). If the result of the calculation is a positive number, that amount is disclosed as a negative number under § 1026.37(h)(1)(ii), but only to the extent that the absolute value of the amount disclosed under § 1026.37(h)(1)(ii) does not exceed the total amount of closing costs disclosed under § 1026.37(g)(6).</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-h-1-ii-Interp-2" marker="2.">
+          <title>Loan amount.</title>
+          <content>The loan amount disclosed under § 1026.37(b)(1), a component of the closing costs financed calculation, is the total amount the consumer will borrow, as reflected by the face amount of the note.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-h-1-iii-Interp">
+      <interpParagraph label="1026-37-h-1-iii-Interp" target="1026-37-h-1-iii">
+        <title>37(h)(1)(iii) Down payment and other funds from borrower.</title>
+        <content></content>
+        <interpParagraph label="1026-37-h-1-iii-Interp-1" marker="1.">
+          <title>Down payment and funds from borrower calculation.</title>
+          <content>For purposes of § 1026.37(h)(1)(iii)(A)(1), the down payment and funds from borrower amount is calculated as the difference between the sale price of the property disclosed under § 1026.37(a)(7)(i) and the sum of the loan amount and any amount of existing loans assumed or taken subject to that will be disclosed on the Closing Disclosure under § 1026.38(j)(2)(iv). The calculation is independent of any loan program or investor requirements.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-h-1-iii-Interp-2" marker="2.">
+          <title>Funds for borrower.</title>
+          <content>Section 1026.37(h)(1)(iii)(A)(2) requires that, in a purchase transaction as defined in paragraph (a)(9)(i) of this section that is a simultaneous subordinate financing transaction or that involves improvements to be made on the property, or when the sum of the loan amount disclosed under § 1026.37(b)(1) and any amount of existing loans assumed or taken subject to that will be disclosed under § 1026.38(j)(2)(iv) exceeds the sale price disclosed under § 1026.37(a)(7)(i), the amount of funds from the consumer is determined in accordance with § 1026.37(h)(1)(v). Section 1026.37(h)(1)(iii)(B) requires that, for all non-purchase transactions, the amount of estimated funds from the consumer is determined in accordance with § 1026.37(h)(1)(v). Pursuant to § 1026.37(h)(1)(v), the amount to be disclosed under § 1026.37(h)(1)(iii)(A)(2) or (B) is determined by subtracting the sum of the loan amount disclosed under § 1026.37(b)(1) and any amount of existing loans assumed or taken subject to that will be disclosed under § 1026.38(j)(2)(iv) (excluding any closing costs financed disclosed under § 1026.37(h)(1)(ii)) from the total amount of all existing debt being satisfied in the transaction. The total amount of all existing debt being satisfied in the transaction is the sum of the amounts that will be disclosed on the Closing Disclosure in the summaries of transactions table under § 1026.38(j)(1)(ii), (iii), and (v), as applicable. When the result of the calculation is positive, that amount is disclosed under § 1026.37(h)(1)(iii) as “Down Payment/Funds from Borrower,” and $0 is disclosed under § 1026.37(h)(1)(v) as “Funds for Borrower.” When the result of the calculation is negative, that amount is disclosed as a negative number under § 1026.37(h)(1)(v) as “Funds for Borrower,” and $0 is disclosed under § 1026.37(h)(1)(iii) as “Down Payment/Funds from Borrower.” When the result is $0, $0 is disclosed as “Down Payment/Funds from Borrower” and “Funds for Borrower” under § 1026.37(h)(1)(iii) and (v), respectively.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-h-1-v-Interp">
+      <interpParagraph label="1026-37-h-1-v-Interp" target="1026-37-h-1-v">
+        <title>37(h)(1)(v) Funds for borrower.</title>
+        <content></content>
+        <interpParagraph label="1026-37-h-1-v-Interp-1" marker="1.">
+          <title>No funds for borrower.</title>
+          <content>When the down payment and other funds from the borrower is determined in accordance with § 1026.37(h)(1)(iii)(A)(1), the amount disclosed under § 1026.37(h)(1)(v) as funds for the borrower is $0.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-h-1-v-Interp-2" marker="2.">
+          <title>Total amount of existing debt satisfied in the transaction,</title>
+          <content>The amounts disclosed under § 1026.37(h)(1)(iii)(A)(2) or (B), as applicable, and (h)(1)(v) are determined by subtracting the sum of the loan amount disclosed under § 1026.37(b)(1) and any amount of existing loans assumed or taken subject to that will be disclosed on the Closing Disclosure under § 1026.38(j)(2)(iv) (excluding any closing costs financed disclosed under § 1026.37(h)(1)(ii)) from the total amount of all existing debt being satisfied in the transaction. The total amount of all existing debt being satisfied in the transaction is the sum of the amounts that will be disclosed on the Closing Disclosure in the summaries of transactions table under § 1026.38(j)(1)(ii), (iii), and (v), as applicable.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-h-1-vi-Interp">
+      <interpParagraph label="1026-37-h-1-vi-Interp" target="1026-37-h-1-vi">
+        <title>37(h)(1)(vi) Seller credits.</title>
+        <content></content>
+        <interpParagraph label="1026-37-h-1-vi-Interp-1" marker="1.">
+          <title>Non-specific seller credits to be disclosed.</title>
+          <content>Non-specific seller credits, i.e., general payments from the seller to the consumer that do not pay for a particular fee on the disclosures provided under § 1026.19(e)(1), known to the creditor at the time of delivery of the Loan Estimate, are disclosed under § 1026.37(h)(1)(vi). For example, a creditor may learn the amount of seller credits that will be paid in the transaction from information obtained from the consumer, from a review of the purchase and sale contract, or from information obtained from a real estate agent in the transaction.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-h-1-vi-Interp-2" marker="2.">
+          <title>Seller credits for specific charges.</title>
+          <content>To the extent known by the creditor at the time of delivery of the Loan Estimate, specific seller credits, i.e., seller credits for specific items disclosed under § 1026.37(f) and (g), may be either disclosed under § 1026.37(h)(1)(vi) or reflected in the amounts disclosed for those specific items under § 1026.37(f) and (g). For example, if the creditor knows at the time of the delivery of the Loan Estimate that the seller has agreed to pay half of a $100 required pest inspection fee, the creditor may either disclose the required pest inspection fee as $100 under § 1026.37(f) with a $50 seller credit disclosed under § 1026.37(h)(1)(vi) or disclose the required pest inspection fee as $50 under § 1026.37(f), reflecting the specific seller credit in the amount disclosed for the pest inspection fee. If the creditor knows at the time of the delivery of the Loan Estimate that the seller has agreed to pay the entire $100 pest inspection fee, the creditor may either disclose the required pest inspection fee as $100 under § 1026.37(f) with a $100 seller credit disclosed under § 1026.37(h)(1)(vi) or disclose nothing under § 1026.37(f), reflecting that the specific seller credit will cover the entire pest inspection fee.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-h-1-vii-Interp-1">
+      <interpParagraph label="1026-37-h-1-vii-Interp-1" marker="1.">
+        <title>Other credits known at the time the Loan Estimate is issued.</title>
+        <content>Amounts expected to be paid at closing by third parties not otherwise associated with the transaction, such as gifts from family members and not otherwise identified under § 1026.37(h)(1), are included in the amount disclosed under § 1026.37(h)(1)(vii). Amounts expected to be provided in advance of closing by third parties, including family members, not otherwise associated with the transaction are not required to be disclosed under § 1026.37(h)(1)(vii).</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-h-1-vii-Interp-4">
+      <interpParagraph label="1026-37-h-1-vii-Interp-4" marker="4.">
+        <title>Other credits to be disclosed.</title>
+        <content>Credits other than those from the creditor or seller are disclosed under § 1026.37(h)(1)(vii). Disclosure of other credits is, like other disclosures under § 1026.37, subject to the good faith requirement under § 1026.19(e)(1)(i). See § 1026.19(e)(1)(i) and comments 17(c)(2)(i)-1 and 19(e)(1)(i)-1. The creditor may obtain information regarding items to be disclosed under § 1026.37(h)(1)(vii), for example, from the consumer, from a review of the purchase and sale contract, or from information obtained from a real estate agent in the transaction.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-h-1-vii-Interp-5">
+      <interpParagraph label="1026-37-h-1-vii-Interp-5" marker="5.">
+        <title>Proceeds from subordinate financing or other source.</title>
+        <content>Funds that are provided to the consumer from the proceeds of subordinate financing, local or State housing assistance grants, or other similar sources are included in the amount disclosed under § 1026.37(h)(1)(vii) on the first-lien transaction Loan Estimate.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-h-1-vii-Interp-6">
+      <interpParagraph label="1026-37-h-1-vii-Interp-6" marker="6.">
+        <title>Reduction in amounts for adjustments.</title>
+        <content>Adjustments that require additional funds from the consumer in a transaction disclosed using the formula under § 1026.37(h)(1)(iii)(A)(1) or pursuant to the real estate purchase and sale contract, such as for additional personal property that will be disclosed on the Closing Disclosure under § 1026.38(j)(1)(iii) or adjustments that will be disclosed on the Closing Disclosure under § 1026.38(j)(1)(v), are only included in the amount disclosed under § 1026.37(h)(1)(vii) if such amounts are not included in the calculation under § 1026.37(h)(1)(iii)(A)(2) or (B) or § 1026.37(h)(1)(v) as debt being satisfied in the transaction. Other examples of adjustments for additional funds from the consumer include payoffs of secured or unsecured debt in a purchase transaction disclosed using the formula under § 1026.37(h)(1)(iii)(A)(1) or prorations for property taxes and homeowner's association dues. The total amount disclosed under § 1026.37(h)(1)(vii) is a sum of adjustments requiring additional funds from the consumer, calculated as positive amounts, and other credits, such as those provided for in comment 37(h)(1)(vii)-1, calculated as negative amounts.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-h-2-Interp">
+      <interpParagraph label="1026-37-h-2-Interp" target="1026-37-h-2">
+        <title>37(h)(2) Optional alternative calculating cash to close table for transactions without a seller or for simultaneous subordinate financing.</title>
+        <content></content>
+        <interpParagraph label="1026-37-h-2-Interp-1" marker="1.">
+          <title>Optional use.</title>
+          <content>The optional alternative disclosure of the calculating cash to close table in § 1026.37(h)(2) may only be provided by a creditor in a transaction without a seller or for simultaneous subordinate financing. In a purchase transaction, the optional alternative disclosure may be used for the simultaneous subordinate financing Loan Estimate only if the first-lien Closing Disclosure will record the entirety of the seller's transaction. The use of this alternative table for transactions without a seller or for simultaneous subordinate financing is optional, but creditors may only use this alternative estimated cash to close disclosure in conjunction with the alternative disclosure under § 1026.37(d)(2).</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-h-2-iii-Interp">
+      <interpParagraph label="1026-37-h-2-iii-Interp" target="1026-37-h-2-iii">
+        <title>37(h)(2)(iii) Payoffs and payments.</title>
+        <content></content>
+        <interpParagraph label="1026-37-h-2-iii-Interp-1" marker="1.">
+          <title>Examples.</title>
+          <content>Examples of the amounts incorporated in the total amount disclosed under § 1026.37(h)(2)(iii) include, but are not limited to: Payoffs of existing liens secured by the property identified under § 1026.37(a)(6) such as existing mortgages, deeds of trust, judgments that have attached to the real property, mechanics' and materialmen's liens, and local, State and Federal tax liens; payments of unsecured outstanding debts of the consumer; construction costs associated with the transaction that the consumer will be obligated to pay in any transaction in which the creditor is otherwise permitted to use the alternative calculating cash to close table; and payments to other third parties for outstanding debts of the consumer, excluding settlement services, as required to be paid as a condition for the extension of credit. Amounts that will be paid with funds provided by the consumer, including partial payments, such as a portion of construction costs, or amounts that will be paid by third parties and will be disclosed on the Closing Disclosure under § 1026.38(t)(5)(vii)(B), are calculated as credits, using positive numbers, in the total amount disclosed under § 1026.37(h)(2)(iii).</content>
+        </interpParagraph>
+        <interpParagraph label="1026-37-h-2-iii-Interp-2" marker="2.">
+          <title>Disclosure of subordinate financing.</title>
+          <content></content>
+          <interpParagraph label="1026-37-h-2-iii-Interp-2-i" marker="i.">
+            <title>First-lien Loan Estimate.</title>
+            <content>On the Loan Estimate for a first-lien transaction disclosed with the optional alternative table pursuant to § 1026.37(h)(2), such as a refinance transaction that also has simultaneous subordinate financing, the proceeds of the simultaneous subordinate financing are included, as a positive number, in the total amount disclosed under § 1026.37(h)(2)(iii). The total amount disclosed under § 1026.37(h)(2)(iii) is a negative number unless the proceeds from the subordinate financing and any amounts entered as credits as discussed in comment 37(h)(2)(iii)-1 equal or exceed the total amount of other payoffs and payments that are included in the calculation under § 1026.37(h)(2)(iii). If the proceeds from the subordinate financing and any amounts entered as credits as discussed in comment 37(h)(2)(iii)-1 equal or exceed the total amount of other payoffs and payments that are included in the calculation under § 1026.37(h)(2)(iii), the total amount disclosed under § 1026.37(h)(2)(iii) is disclosed as $0 or a positive number.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-37-h-2-iii-Interp-2-ii" marker="ii.">
+            <title>Simultaneous subordinate financing Loan Estimate.</title>
+            <content>On the simultaneous subordinate financing Loan Estimate disclosed with the optional alternative table pursuant to § 1026.37(h)(2), the proceeds of the subordinate financing that will be applied to the first-lien transaction may be included in the payoffs and payments disclosure under § 1026.37(h)(2)(iii).</content>
+          </interpParagraph>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-k-Interp-3">
+      <interpParagraph label="1026-37-k-Interp-3" marker="3.">
+        <title>Contact.</title>
+        <content>Section 1026.37(k)(2) requires the disclosure of the name and NMLSR ID of the person who is the primary contact for the consumer, labeled “Loan Officer.” The loan officer is generally the natural person employed by the creditor or mortgage broker disclosed under § 1026.37(k)(1) who interacts most frequently with the consumer and who has an NMLSR ID or, if none, a license number or other unique identifier to be disclosed under § 1026.37(k)(2), as applicable.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-l-1-i-Interp-1">
+      <interpParagraph label="1026-37-l-1-i-Interp-1" marker="1.">
+        <title>Calculation of total payments in five years.</title>
+        <content>The amount disclosed under § 1026.37(l)(1)(i) is the sum of principal, interest, mortgage insurance, and loan costs scheduled to be paid through the end of the 60th month after the due date of the first periodic payment. For guidance on how to calculate interest for mortgage loans that are Adjustable Rate products under § 1026.37(a)(10)(i)(A) for purposes of § 1026.37(l)(1)(i), see comment 17(c)(1)-10. In addition, for purposes of § 1026.37(l)(1)(i), the creditor should assume that the consumer makes payments as scheduled and on time. For purposes of § 1026.37(l)(1)(i), mortgage insurance means “mortgage insurance or any functional equivalent” as defined under comment 37(c)(1)(i)(C)-1 and includes prepaid or escrowed mortgage insurance. Loan costs are those costs disclosed under § 1026.37(f).</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-l-3-Interp-1">
+      <interpParagraph label="1026-37-l-3-Interp-1" marker="1.">
+        <title>General.</title>
+        <content>When calculating the total interest percentage, the creditor assumes that the consumer will make each payment in full and on time and will not make any additional payments. The creditor includes prepaid interest that the consumer will pay when calculating the total interest percentage. Prepaid interest that is disclosed as a negative number under §§ 1026.37(g)(2) or 1026.38(g)(2) is included as a negative value when calculating the total interest percentage.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-o-4-i-A-Interp">
+      <interpParagraph label="1026-37-o-4-i-A-Interp" target="1026-37-o-4-i-A">
+        <title>Paragraph 37(o)(4)(i)(A).</title>
+        <content></content>
+        <interpParagraph label="1026-37-o-4-i-A-Interp-1" marker="1.">
+          <title>Rounding dollar amounts.</title>
+          <content>Section 1026.37(o)(4)(i)(A) requires that certain dollar amounts be rounded to the nearest whole dollar. For example, under § 1026.37(o)(4)(i)(A), periodic mortgage insurance payments are rounded and disclosed to the nearest dollar, such that a periodic mortgage insurance payment of $164.50 is disclosed under § 1026.37(c)(2)(ii) as $165, but a periodic mortgage insurance payment of $164.49 is disclosed as $164. The per-diem amount disclosed under § 1026.37(g)(2)(iii) and the monthly amounts for the initial escrow payment at closing disclosed pursuant to § 1026.37(g)(3)(i) through (iii) and (v) do not include partial cents. Dollar amounts are rounded or truncated to the nearest whole cent. For example, under § 1026.37(g)(2)(iii), the creditor discloses per-diem interest of $68.1254 as $68.13 or $68.12. See form H-24(B) in appendix H to this part for an illustration of per-diem amounts for homeowner's insurance disclosed pursuant to § 1026.37(g)(3)(i).</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-37-o-4-ii-Interp">
+      <interpParagraph label="1026-37-o-4-ii-Interp" target="1026-37-o-4-ii">
+        <title>37(o)(4)(ii) Percentages.</title>
+        <content></content>
+        <interpParagraph label="1026-37-o-4-ii-Interp-1" marker="1.">
+          <title>Decimal places.</title>
+          <content>Section 1026.37(o)(4)(ii) requires the percentage amounts disclosed rounding exact amounts to three decimal places, but the creditor does not disclose trailing zeros to the right of the decimal point. For example, a 2.4999 percent annual percentage rate is disclosed as “2.5%” under § 1026.37(o)(4)(ii). Similarly, a 7.005 percent annual percentage rate is disclosed as “7.005%,” and a 7.000 percent annual percentage rate is disclosed as “7%.”</content>
+        </interpParagraph>
+      </interpParagraph>
     </change>
   </changeset>
 </notice>
