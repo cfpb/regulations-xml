@@ -922,5 +922,27 @@
         </interpParagraph>
       </interpParagraph>
     </change>
+    <change operation="added" label="1026-23-g-Interp-1" parent="1026-23-g-Interp">
+      <interpParagraph label="1026-23-g-Interp-1" marker="1.">
+        <title>Example.</title>
+        <content>See comment 38(o)-1 for examples illustrating the interaction of the finance charge and total of payments accuracy requirements for each transaction subject to § 1026.19(e) and (f).</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-23-h-2-Interp">
+      <interpParagraph label="1026-23-h-2-Interp" marker="1." target="1026-23-h-2">
+        <title>23(h)(2) Tolerance for Disclosures
+
+</title>
+        <content></content>
+        <interpParagraph label="1026-23-h-2-Interp-1" marker="1.">
+          <title>General.</title>
+          <content>The tolerance for disclosure of the finance charge is based on the accuracy of the total finance charge rather than its component charges. For transactions subject to § 1026.19(e) and (f), the tolerance for disclosure of the total of payments is based on the accuracy of the total of payments, taken as a whole, rather than its component charges.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-23-h-2-Interp-2" marker="2.">
+          <title>Example.</title>
+          <content>See comment 38(o)-1 for examples illustrating the interaction of the finance charge and total of payments accuracy requirements for each transaction subject to § 1026.19(e) and (f).</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
   </changeset>
 </notice>
