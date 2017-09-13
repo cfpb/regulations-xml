@@ -49,7 +49,7 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="added" label="1026-20-f" parent="1026-20-a" after="1026-20-e">
+    <change operation="added" label="1026-20-f" parent="1026-20" after="1026-20-e">
       <paragraph label="1026-20-f" marker="(f)">
         <title>Successor in interest.</title>
         <content>If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with Regulation X, § 1024.32(c)(1) of this chapter, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by paragraphs (c), (d), and (e) of this section unless and until the confirmed successor in interest either assumes the mortgage loan obligation under State law or has provided the servicer an executed acknowledgment in accordance with Regulation X, § 1024.32(c)(1)(iv) of this chapter, that the confirmed successor in interest has not revoked.</content>
@@ -108,7 +108,7 @@
         </paragraph>
       </paragraph>
     </change>
-    <change operation="modified" label="1026-H(C)">
+    <change operation="modified" label="1026-H-4(C)">
       <appendixSection appendixSecNum="6" label="1026-H-4(C)">
         <subject>H-4(C)—Variable-Rate Model Clauses</subject>
         <paragraph label="1026-H-4(C)-p31" marker="">
@@ -365,7 +365,7 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-    <change operation="added" label="1026-2-a-27-Interp" parent="1026-2-Interp" after="1026-2-a-25-Interp">
+    <change operation="added" label="1026-2-a-27-Interp" parent="1026-2-a-Interp" after="1026-2-a-25-Interp">
       <interpParagraph label="1026-2-a-27-Interp">
         <title>Paragraph 2(a)(27)</title>
         <content></content>
@@ -458,7 +458,7 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-    <change operation="added" label="1026-41-d-2-Interp" parent="1026-41-d-Interp" after="1026-41-d-1-Interp">
+    <change operation="added" label="1026-41-d-2-Interp" parent="1026-41-Interp" after="1026-41-d-1-Interp">
       <interpParagraph label="1026-41-d-2-Interp" target="1026-41-d-2">
         <title>41(d)(2) Explanation of amount due.</title>
         <content></content>
@@ -608,7 +608,7 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-    <change operation="added" label="1026-41-e-6-Interp" parent="1026-41-Interp" after="1026-41-e-5-Interp">
+    <change operation="added" label="1026-41-e-6-Interp" parent="1026-41-e-Interp" after="1026-41-e-5-Interp">
       <interpParagraph label="1026-41-e-6-Interp" target="1026-41-e-6">
         <title>41(e)(6) Charged-off loans.</title>
         <content></content>
@@ -622,7 +622,7 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-    <change operation="added" label="1026-41-e-6-i-B-Interp" parent="1026-41-Interp" after="1026-41-e-6-Interp">
+    <change operation="added" label="1026-41-e-6-i-B-Interp" parent="1026-41-e-Interp" after="1026-41-e-6-Interp">
       <interpParagraph label="1026-41-e-6-i-B-Interp" marker="1.">
         <title>Paragraph 41(e)(6)(i)(B).</title>
         <content></content>
