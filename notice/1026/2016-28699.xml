@@ -19,7 +19,7 @@
     <federalRegisterURL>https://www.federalregister.gov/documents/2016/11/30/2016-28699/appraisals-for-higher-priced-mortgage-loans-exemption-threshold</federalRegisterURL>
   </preamble>
  
-  <changeset leftDocumentNumber="2016-14782_20170101" rightDocumentNumber="2016-28699">
+  <changeset leftDocumentNumber="2016-14782" leftEffectiveDate="2017-01-01" rightDocumentNumber="2016-28699">
 
     <!--  In supplement I to part 1026, under Section 1026.35—Requirements for Higher-Priced Mortgage Loans, the entry for Paragraph 35(c)(2)(ii) is revised to read as follows: -->
     <change operation="modified" label="1026-35-c-2-ii-Interp">
