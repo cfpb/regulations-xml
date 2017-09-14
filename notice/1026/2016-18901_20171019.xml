@@ -31,16 +31,16 @@
           <paragraph label="1026-2-a-27-i-A" marker="(A)">
             <content>A transfer by devise, descent, or operation of law on the death of a joint tenant or tenant by the entirety;</content>
           </paragraph>
-          <paragraph label="1026-2-a-27-i-A" marker="(B)">
+          <paragraph label="1026-2-a-27-i-B" marker="(B)">
             <content>A transfer to a relative resulting from the death of the consumer;</content>
           </paragraph>
-          <paragraph label="1026-2-a-27-i-A" marker="(C)">
+          <paragraph label="1026-2-a-27-i-C" marker="(C)">
             <content>A transfer where the spouse or children of the consumer become an owner of the property;</content>
           </paragraph>
-          <paragraph label="1026-2-a-27-i-A" marker="(D)">
+          <paragraph label="1026-2-a-27-i-D" marker="(D)">
             <content>A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement, by which the spouse of the consumer becomes an owner of the property; or</content>
           </paragraph>
-          <paragraph label="1026-2-a-27-i-A" marker="(E)">
+          <paragraph label="1026-2-a-27-i-E" marker="(E)">
             <content>A transfer into an inter vivos trust in which the consumer is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property.</content>
           </paragraph>
         </paragraph>
@@ -486,8 +486,128 @@
         </interpParagraph>
       </interpParagraph>
     </change>
+
+    <!-- it's hard to insert a heading right into the middle of the flow as the notice demands -->
+    <!-- so instead we'll just mod the entire paragraph from the previous reg and add the title in -->
+    
+    <change operation="modified" label="1026-41-e-Interp">
+      <interpParagraph label="1026-41-e-Interp">
+	<title>41(e) Exemptions.</title>
+        <content/>
+        <interpParagraph label="1026-41-e-3-Interp" target="1026-41-e-3">
+          <title>41(e)(3) Coupon book exemption.</title>
+          <content/>
+          <interpParagraph label="1026-41-e-3-Interp-1" marker="1.">
+            <title>Fixed rate.</title>
+	    <content>For guidance on the meaning of “fixed rate” for purposes of § <ref target="1026-41-e-3" reftype="internal">1026.41(e)(3)</ref>, see § <ref target="1026-18-s-7-iii" reftype="internal">1026.18(s)(7)(iii)</ref> and its commentary.</content>
+	  </interpParagraph>
+          <interpParagraph label="1026-41-e-3-Interp-2" marker="2.">
+            <title type="keyterm">Coupon book.</title>
+            <content>A coupon book is a booklet provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref> with a page for each <ref target="1026-2-a-4" reftype="term">billing cycle</ref> during a set period of time (often covering one year). These pages are designed to be torn off and returned to the servicer with a payment for each <ref target="1026-2-a-4" reftype="term">billing cycle</ref>. Additional information about the loan is often included on or inside the front or back cover, or on filler pages in the coupon book.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-41-e-3-Interp-3" marker="3.">
+            <title type="keyterm">Information location.</title>
+            <content>The information required by paragraph <ref target="1026-41-e-3-ii" reftype="internal">(e)(3)(ii)</ref> need not be provided on each coupon, but should be provided somewhere in the coupon book. Such information could be located, e.g., on or inside the front or back cover, or on filler pages in the coupon book.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-41-e-3-Interp-4" marker="4.">
+            <title type="keyterm">Outstanding principal balance.</title>
+            <content>Paragraph <ref target="1026-41-e-3-ii-A" reftype="internal">(e)(3)(ii)(A)</ref> requires the information listed in paragraph <ref target="1026-41-d-7" reftype="internal">(d)(7)</ref> to be included in the coupon book. Paragraph <ref target="1026-41-d-7-i" reftype="internal">(d)(7)(i)</ref> requires the disclosure of the outstanding principal balance. If the servicer makes use of a coupon book and the exemption in § <ref target="1026-41-e-3" reftype="internal">1026.41(e)(3)</ref>, the servicer need only disclose the principal balance at the beginning of the time period covered by the coupon book.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-41-e-4-Interp">
+          <title>41(e)(4) Small servicers.</title>
+          <content/>
+          <interpParagraph label="1026-41-e-4-ii-Interp" target="1026-41-e-4-ii">
+            <title>41(e)(4)(ii) Small servicer defined.</title>
+            <content/>
+            <interpParagraph label="1026-41-e-4-ii-Interp-1" marker="1.">
+              <title>Mortgage loans considered.</title>
+            <content>Pursuant to § <ref target="1026-41-a-1" reftype="internal">1026.41(a)(1)</ref>, the <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> considered in determining status as a small servicer are closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transactions secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, subject to the exclusions in § <ref target="1026-41-e-4-iii" reftype="internal">1026.41(e)(4)(iii)</ref>.</content></interpParagraph>
+            <interpParagraph label="1026-41-e-4-ii-Interp-2" marker="2.">
+              <title type="keyterm">Services, together with affiliates, 5,000 or fewer mortgage loans.</title>
+              <content>Services, together with <ref target="1026-32-b-5" reftype="term">affiliates</ref>, 5,000 or fewer mortgage loans. To qualify as a small servicer, under § <ref target="CFR:12-1024-31" reftype="external">1026.41(e)(4)(</ref>ii)(A), a servicer must service, together with any <ref target="1026-32-b-5" reftype="term">affiliates</ref>, 5,000 or fewer mortgage loans, for all of which the servicer (or an <ref target="1026-32-b-5" reftype="term">affiliate</ref>) is the <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee. There are two elements to satisfying § <ref target="1026-41-e-4-ii-A" reftype="internal">1026.41(e)(4)(ii)(A)</ref>. First, a servicer, together with any <ref target="1026-32-b-5" reftype="term">affiliates</ref>, must service 5,000 or fewer mortgage loans. Second, a servicer must service only mortgage loans for which the servicer (or an <ref target="1026-32-b-5" reftype="term">affiliate</ref>) is the <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee. To be the <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee of a mortgage loan, the servicer (or an <ref target="1026-32-b-5" reftype="term">affiliate</ref>) must either currently own the mortgage loan or must have been the entity to which the mortgage loan obligation was initially payable (that is, the originator of the mortgage loan). A servicer is not a small servicer under § <ref target="1026-41-e-4-ii-A" reftype="internal">1026.41(e)(4)(ii)(A)</ref> if it services any mortgage loans for which the servicer or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> is not the <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee (that is, for which the servicer or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> is not the owner or was not the originator). The following two examples demonstrate circumstances in which a servicer would not qualify as a small servicer under § <ref target="1026-41-e-4-ii-A" reftype="internal">1026.41(e)(4)(ii)(A)</ref> because it did not meet both requirements under § <ref target="1026-41-e-4-ii-A" reftype="internal">1026.41(e)(4)(ii)(A)</ref> for determining a servicer's status as a small servicer:</content>
+              <interpParagraph label="1026-41-e-4-ii-Interp-2-i" marker="i.">
+              <content>A servicer services 3,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>, all of which it or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> owns or originated. An <ref target="1026-32-b-5" reftype="term">affiliate</ref> of the servicer services 4,000 other <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>, all of which it or an <ref target="1026-32-b-5" reftype="term">affiliate</ref> owns or originated. Because the number of <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> serviced by a servicer is determined by counting the <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> serviced by a servicer together with any <ref target="1026-32-b-5" reftype="term">affiliates</ref>, both of these servicers are considered to be servicing 7,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> and neither servicer is a small servicer.</content></interpParagraph>
+              <interpParagraph label="1026-41-e-4-ii-Interp-2-ii" marker="ii.">
+              <content>A service services 3,100 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>—3,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> it owns or originated and 100 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> it neither owns nor originated, but for which it owns the mortgage servicing rights. The servicer is not a small servicer because it services <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> for which the servicer (or an <ref target="1026-32-b-5" reftype="term">affiliate</ref>) is not the <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee, notwithstanding that the servicer services fewer than 5,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>.</content></interpParagraph>
+	    </interpParagraph>
+	    <interpParagraph label="1026-41-e-4-ii-Interp-3" marker="3.">
+              <title>Master servicer and subservicing.</title>
+              <content>A servicer that qualifies as a small servicer does not lose its small servicer status if it retains a subservicer, as that term is defined in 12 CFR 1024.31, to service any of its <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>. A subservicer can gain the benefit of the small servicer exemption only if (1) the master servicer, as that term is defined in 12 CFR 1024.31, is a small servicer and (2) the subservicer is a small servicer. A subservicer generally will not qualify as a small servicer because it does not own or did not originate the <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> it subservices—unless it is an <ref target="1026-32-b-5" reftype="term">affiliate</ref> of a master servicer that qualifies as a small servicer. The following examples demonstrate the application of the small servicer exemption for different forms of servicing relationships:</content><interpParagraph label="1026-41-e-4-ii-Interp-3-i" marker="i.">
+              <content>A <ref target="1026-2-a-14" reftype="term">credit</ref> union services 4,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>, all of which it originated or owns. The <ref target="1026-2-a-14" reftype="term">credit</ref> union retains a <ref target="1026-2-a-14" reftype="term">credit</ref> union service organization, that is not an <ref target="1026-32-b-5" reftype="term">affiliate</ref>, to subservice 1,000 of the <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>. The <ref target="1026-2-a-14" reftype="term">credit</ref> union is a small servicer and, thus, can gain the benefit of the small servicer exemption for the 3,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> the <ref target="1026-2-a-14" reftype="term">credit</ref> union services itself. The <ref target="1026-2-a-14" reftype="term">credit</ref> union service organization is not a small servicer because it services <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> it does not own or did not originate. Accordingly, the <ref target="1026-2-a-14" reftype="term">credit</ref> union service organization does not gain the benefit of the small servicer exemption and, thus, must comply with any applicable mortgage servicing requirements for the 1,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> it subservices.</content></interpParagraph>
+              <interpParagraph label="1026-41-e-4-ii-Interp-3-ii" marker="ii.">
+              <content>A bank holding company, through a lender subsidiary, owns or originated 4,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>. All mortgage servicing rights for the 4,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> are owned by a wholly owned master servicer subsidiary. Servicing for the 4,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> is conducted by a wholly owned subservicer subsidiary. The bank holding company controls all of these subsidiaries and, thus, they are <ref target="1026-32-b-5" reftype="term">affiliates</ref> of the bank holding company pursuant 12 CFR <ref target="1026-32-b-2" reftype="internal">1026.32(b)(2)</ref>. Because the master servicer and subservicer service 5,000 or fewer <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>, and because all the <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> are owned or originated by an <ref target="1026-32-b-5" reftype="term">affiliate</ref>, the master servicer and the subservicer both qualify for the small servicer exemption for all 4,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>.</content></interpParagraph>
+              <interpParagraph label="1026-41-e-4-ii-Interp-3-iii" marker="iii.">
+              <content>A nonbank servicer services 4,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>, all of which it originated or owns. The servicer retains a “component servicer” to assist it with servicing functions. The component servicer is not engaged in “servicing” as defined in 12 CFR 1024.2; that is, the component servicer does not receive any scheduled periodic payments from a borrower pursuant to the terms of any <ref target="1026-39-a-2" reftype="term">mortgage loan</ref>, including amounts for <ref target="1026-35-b-3-iv" reftype="term">escrow accounts</ref>, and does not make the payments to the owner of the loan or other third parties of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the mortgage servicing loan documents or servicing contract. The component servicer is not a subservicer pursuant to 12 CFR 1024.31 because it is not engaged in servicing, as that term is defined in 12 CFR 1024.2. The nonbank servicer is a small servicer and, thus, can gain the benefit of the small servicer exemption with regard to all 4,000 <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> it services.</content></interpParagraph>
+            </interpParagraph>
+	    <interpParagraph label="1026-41-e-4-ii-Interp-4" marker="4.">
+              <title type="keyterm">Nonprofit entity that services 5,000 or fewer mortgage loans.</title>
+              <content>To qualify as a small servicer under § <ref target="1026-41-e-4-ii-C" reftype="internal">1026.41(e)(4)(ii)(C)</ref>, a servicer must be a nonprofit entity that services 5,000 or fewer mortgage loans, including any mortgage loans serviced on behalf of associated nonprofit entities, for all of which the servicer or an associated nonprofit entity is the <ref target="1026-2-a-17" reftype="term">creditor</ref>. There are two elements to satisfying § <ref target="1026-41-e-4-ii-C" reftype="internal">1026.41(e)(4)(ii)(C)</ref>. First, a nonprofit entity must service 5,000 or fewer mortgage loans, including any mortgage loans serviced on behalf of associated nonprofit entities. For each associated nonprofit entity, the small servicer determination is made separately, without consideration of the number of loans serviced by another associated nonprofit entity. Second, a nonprofit entity must service only mortgage loans for which the servicer (or an associated nonprofit entity) is the <ref target="1026-2-a-17" reftype="term">creditor</ref>. To be the <ref target="1026-2-a-17" reftype="term">creditor</ref>, the servicer (or an associated nonprofit entity) must have been the entity to which the mortgage loan obligation was initially payable (that is, the originator of the mortgage loan). A nonprofit entity is not a small servicer under § <ref target="1026-41-e-4-ii-C" reftype="internal">1026.41(e)(4)(ii)(C)</ref> if it services any mortgage loans for which the servicer (or an associated nonprofit entity) is not the <ref target="1026-2-a-17" reftype="term">creditor</ref> (that is, for which the servicer or an associated nonprofit entity was not the originator). The first of the following two examples demonstrates circumstances in which a nonprofit entity would qualify as a small servicer under § <ref target="1026-41-e-4-ii-C" reftype="internal">1026.41(e)(4)(ii)(C)</ref> because it meets both requirements for determining a nonprofit entity's status as a small servicer under § <ref target="1026-41-e-4-ii-C" reftype="internal">1026.41(e)(4)(ii)(C)</ref>. The second example demonstrates circumstances in which a nonprofit entity would not qualify as a small servicer under § <ref target="1026-41-e-4-ii-C" reftype="internal">1026.41(e)(4)(ii)(C)</ref> because it does not meet both requirements under § <ref target="1026-41-e-4-ii-C" reftype="internal">1026.41(e)(4)(ii)(C)</ref>.</content>
+              <interpParagraph label="1026-41-e-4-ii-Interp-4-i" marker="i.">
+		<content>Nonprofit entity A services 3,000 of its own mortgage loans, and 1,500 mortgage loans on behalf of associated nonprofit entity B. All 4,500 mortgage loans were originated by A or B. Associated nonprofit entity C services 2,500 mortgage loans, all of which it originated. Because the number of mortgage loans serviced by a nonprofit entity is determined by counting the number of mortgage loans serviced by the nonprofit entity (including mortgage loans serviced on behalf of associated nonprofit entities) but not counting any mortgage loans serviced by an associated nonprofit entity, A and C are both small servicers.</content>
+              </interpParagraph>
+              <interpParagraph label="1026-41-e-4-ii-Interp-4-ii" marker="ii.">
+		<content>A nonprofit entity services 4,500 mortgage loans—3,000 mortgage loans it originated, 1,000 mortgage loans originated by associated nonprofit entities, and 500 mortgage loans neither it nor an associated nonprofit entity originated. The nonprofit entity is not a small servicer because it services mortgage loans for which neither it nor an associated nonprofit entity is the <ref target="1026-2-a-17" reftype="term">creditor</ref>, notwithstanding that it services fewer than 5,000 mortgage loans.</content>
+              </interpParagraph>
+	    </interpParagraph>
+	  </interpParagraph>
+	  <interpParagraph label="1026-41-e-4-iii-Interp" target="1026-41-e-4-iii">
+            <title>41(e)(4)(iii) Small servicer determination.</title>
+            <content/>
+            <interpParagraph label="1026-41-e-4-iii-Interp-1" marker="1.">
+              <title>Loans obtained by merger or acquisition.</title>
+	      <content>Any mortgage loans obtained by a servicer or an affiliate as part of a merger or acquisition, or as part of the acquisition of all of the assets or liabilities of a branch office of a creditor, should be considered mortgage loans for which the servicer or an affiliate is the creditor to which the mortgage loan is initially payable. A branch office means either an office of a depository institution that is approved as a branch by a Federal or State supervisory agency or an office of a for-profit mortgage lending institution (other than a depository institution) that takes applications from the public for mortgage loans.</content>
+	    </interpParagraph>
+            <interpParagraph label="1026-41-e-4-iii-Interp-2" marker="2.">
+              <title type="keyterm">Timing for small servicer exemption.</title>
+              <content>The following examples demonstrate when a servicer either is considered or is no longer considered a small servicer under § <ref target="1026-41-e-4-ii-A" reftype="internal">1026.41(e)(4)(ii)(A)</ref> and (C):</content><interpParagraph label="1026-41-e-4-iii-Interp-2-i" marker="i.">
+              <content>Assume a servicer (that as of January 1 of the current year qualifies as a small servicer) begins servicing more than 5,000 mortgage loans on October 1, and services more than 5,000 mortgage loans as of January 1 of the following year. The servicer would no longer be considered a small servicer on January 1 of the following year and would have to comply with any requirements from which it is no longer exempt as a small servicer on April 1 of the following year.</content>
+            </interpParagraph>
+            <interpParagraph label="1026-41-e-4-iii-Interp-2-ii" marker="ii.">
+              <content>Assume a servicer (that as of January 1 of the current year qualifies as a small servicer) begins servicing more than 5,000 mortgage loans on February 1, and services more than 5,000 mortgage loans as of January 1 of the following year. The servicer would no longer be considered a small servicer on January 1 of the following year and would have to comply with any requirements from which it is no longer exempt as a small servicer on that same January 1.</content>
+            </interpParagraph>
+            <interpParagraph label="1026-41-e-4-iii-Interp-2-iii" marker="iii.">
+              <content>Assume a servicer (that as of January 1 of the current year qualifies as a small servicer) begins servicing more than 5,000 mortgage loans on February 1, but services fewer than 5,000 mortgage loans as of January 1 of the following year. The servicer is considered a small servicer for the following year.</content>
+            </interpParagraph>
+	    </interpParagraph>
+	    <interpParagraph label="1026-41-e-4-iii-Interp-3" marker="3.">
+              <title type="keyterm">Mortgage loans not considered in determining whether a servicer is a small servicer.</title>
+            <content>Mortgage loans that are not considered pursuant to § <ref target="1026-41-e-4-iii" reftype="internal">1026.41(e)(4)(iii)</ref> in applying § <ref target="1026-41-e-4-ii-A" reftype="internal">1026.41(e)(4)(ii)(A)</ref> are not considered either for determining whether a servicer (together with any <ref target="1026-32-b-5" reftype="term">affiliates</ref>) services 5,000 or fewer mortgage loans or whether a servicer is servicing only mortgage loans that it (or an <ref target="1026-32-b-5" reftype="term">affiliate</ref>) owns or originated. For example, assume a servicer services 5,400 mortgage loans. Of these mortgage loans, the servicer owns or originated 4,800 mortgage loans, voluntarily services 300 mortgage loans that neither it (nor an <ref target="1026-32-b-5" reftype="term">affiliate</ref>) owns or originated and for which the servicer does not receive any <ref target="1026-36-a-3" reftype="term">compensation</ref> or fees, and services 300 <ref target="1026-33-a" reftype="term">reverse mortgage transactions</ref>. The voluntarily serviced mortgage loans and reverse mortgage loans are not considered in determining whether the servicer qualifies as a small servicer pursuant to § <ref target="1026-41-e-4-iii-A" reftype="internal">1026.41(e)(4)(iii)(A)</ref>. Thus, because only the 4,800 mortgage loans owned or originated by the servicer are considered in determining whether the servicer qualifies as a small servicer, the servicer satisfies § <ref target="1026-41-e-4-ii-A" reftype="internal">1026.41(e)(4)(ii)(A)</ref> with regard to all 5,400 mortgage loans it services.</content></interpParagraph>
+	    <interpParagraph label="1026-41-e-4-iii-Interp-4" marker="4.">
+              <title type="keyterm">Mortgage loans not considered in determining whether a nonprofit entity is a small servicer.</title>
+              <content>Mortgage loans that are not considered pursuant to § <ref target="1026-41-e-4-iii" reftype="internal">1026.41(e)(4)(iii)</ref> in applying § <ref target="1026-41-e-4-ii-C" reftype="internal">1026.41(e)(4)(ii)(C)</ref> are not considered either for determining whether a nonprofit entity services 5,000 or fewer mortgage loans, including any mortgage loans serviced on behalf of associated nonprofit entities, or whether a nonprofit entity is servicing only mortgage loans that it or an associated nonprofit entity originated. For example, assume a servicer that is a nonprofit entity services 5,400 mortgage loans. Of these mortgage loans, the nonprofit entity originated 2,800 mortgage loans and associated nonprofit entities originated 2,000 mortgage loans. The nonprofit entity receives <ref target="1026-36-a-3" reftype="term">compensation</ref> for servicing the loans originated by associated nonprofits. The nonprofit entity also voluntarily services 600 mortgage loans that were originated by an entity that is not an associated nonprofit entity, and receives no <ref target="1026-36-a-3" reftype="term">compensation</ref> or fees for servicing these loans. The voluntarily serviced mortgage loans are not considered in determining whether the servicer qualifies as a small servicer. Thus, because only the 4,800 mortgage loans originated by the nonprofit entity or associated nonprofit entities are considered in determining whether the servicer qualifies as a small servicer, the servicer satisfies § <ref target="1026-41-e-4-ii-C" reftype="internal">1026.41(e)(4)(ii)(C)</ref> with regard to all 5,400 mortgage loans it services.</content>
+	    </interpParagraph>
+	    <interpParagraph label="1026-41-e-4-iii-Interp-5" marker="5.">
+              <title type="keyterm">Limited role of voluntarily serviced mortgage loans.</title>
+            <content>Reverse mortgages and mortgage loans secured by <ref target="1026-2-a-11" reftype="term">consumers</ref>' interests in timeshare plans, in addition to not being considered in determining small servicer qualification, are also exempt from the requirements of § <ref target="1026-41" reftype="internal">1026.41</ref>. In contrast, although voluntarily serviced mortgage loans, as defined by § <ref target="1026-41-e-4-iii-A" reftype="internal">1026.41(e)(4)(iii)(A)</ref>, are likewise not considered in determining small servicer status, they are not exempt from the requirements of § <ref target="1026-41" reftype="internal">1026.41</ref>. Thus, a servicer that does not qualify as a small servicer would not have to provide periodic statements for reverse mortgages and timeshare plans because they are exempt from the rule, but would have to provide periodic statements for mortgage loans it voluntarily services.</content></interpParagraph>
+	  </interpParagraph>
+	</interpParagraph>
+        <interpParagraph label="1026-41-e-5-Interp" target="1026-41-e-5">
+	  <title>41(e)(5) Consumers in bankruptcy.</title>
+	  <content/>
+	  <interpParagraph label="1026-41-e-5-Interp-1" marker="1.">
+	    <title>Commencing a case.</title>
+	    <content>The requirements of § 1026.41 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the <ref target="1026-2-a-11" reftype="term">consumer</ref> is a debtor.</content>
+	  </interpParagraph>
+	  <interpParagraph label="1026-41-e-5-Interp-2" marker="2.">
+	    <title>Obligation to resume sending periodic statements.</title>
+	    <content/>
+	    <interpParagraph label="1026-41-e-5-Interp-2-i" marker="i.">
+	      <content>With respect to any portion of the mortgage debt that is not discharged, a servicer must resume sending periodic statements in compliance with § 1026.41 within a reasonably prompt time after the next payment due date that follows the earliest of any of three potential outcomes in the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s bankruptcy case: the case is dismissed, the case is closed, or the <ref target="1026-2-a-11" reftype="term">consumer</ref> receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume sending periodic statements does not require a servicer to communicate with a <ref target="1026-2-a-11" reftype="term">consumer</ref> in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of § 1026.41 in any manner believed necessary.</content>
+	    </interpParagraph>
+	    <interpParagraph label="1026-41-e-5-Interp-2-ii" marker="ii.">
+	      <content>The periodic statement is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s bankruptcy case is revived—for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge—the servicer is again exempt from the requirement in § 1026.41.</content>
+	    </interpParagraph>
+	  </interpParagraph>
+	  <interpParagraph label="1026-41-e-5-Interp-3" marker="3.">
+	    <title>Joint obligors.</title>
+	    <content>When two or more <ref target="1026-2-a-11" reftype="term">consumers</ref> are joint obligors with primary liability on a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> subject to § 1026.41, the exemption in § 1026.41(e)(5) applies if any of the <ref target="1026-2-a-11" reftype="term">consumers</ref> is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from providing periodic statements to both the husband and the wife.</content>
+	  </interpParagraph>
+	</interpParagraph>
+      </interpParagraph>
+    </change>
+
     <change label="1026-41-e-5-Interp" operation="modified">
-      <title></title>
       <interpParagraph label="1026-41-e-5-Interp" target="1026-41-e-5">
         <title>41(e)(5) Certain consumers in bankruptcy.</title>
         <content></content>
@@ -508,9 +628,6 @@
           <content>If a consumer's bankruptcy case is revived, for example, if the court reinstates a previously dismissed case or reopens a case, § 1026.41(e)(5) may apply again, including the timing requirements in § 1026.41(e)(5)(iv).</content>
         </interpParagraph>
       </interpParagraph>
-    </change>
-    <change operation="modified" label="1026-41-e-Interp" subpath="title">
-      <title>41(e) Exemptions.</title>
     </change>
     <change operation="added" label="1026-41-e-5-i-Interp" parent="1026-41-e-Interp">
       <interpParagraph label="1026-41-e-5-i-Interp" target="1026-41-e-5-i">
