@@ -4,6 +4,5 @@ script:
   - git clone https://github.com/cfpb/regulations-xml-parser.git
   - git clone https://github.com/cfpb/regulations-schema.git
   - pip install -r regulations-xml-parser/requirements.txt
-  - export GIT_COMMITS=$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo $TRAVIS_COMMIT_RANGE; else echo $TRAVIS_PULL_REQUEST_BRANCH; fi)
-  - echo "TRAVIS_BRANCH=$TRAVIS_BRANCH, PR=$PR, GIT_COMMITS=$GIT_COMMITS"
+  - export GIT_COMMITS=$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo $TRAVIS_COMMIT_RANGE; else echo $TRAVIS_BRANCH; fi)
   - REGML_PY=regulations-xml-parser/regml.py GIT_COMMITS=$GIT_COMMITS ./validate_xml.sh
