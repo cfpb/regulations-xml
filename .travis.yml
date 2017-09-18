@@ -1,6 +1,6 @@
 language: python
 
-script: 
+script:
   - git clone https://github.com/cfpb/regulations-xml-parser.git
   - git clone https://github.com/cfpb/regulations-schema.git
   - pip install -r regulations-xml-parser/requirements.txt
