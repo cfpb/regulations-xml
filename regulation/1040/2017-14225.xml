@@ -53,7 +53,7 @@
             <subject>Authority and purpose.</subject>
             <paragraph marker="(a)" label="1040-1-a">
               <title>Authority</title>
-              <content>The regulation in this part is issued by the Bureau of <ref target="1040-2-b" reftype="term">Consumer</ref> Financial Protection (Bureau) pursuant to sections 1022(b)(1) and (c) and 1028(b) of the Dodd-Frank Wall Street Reform and <ref target="1040-2-b" reftype="term">Consumer</ref> Protection Act (Dodd-Frank Act) (12 U.S.C. 5512(b)(1) and (c) and 5518(b)).</content>
+              <content>The regulation in this part is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to sections 1022(b)(1) and (c) and 1028(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) (12 U.S.C. 5512(b)(1) and (c) and 5518(b)).</content>
             </paragraph>
             <paragraph marker="(b)" label="1040-1-b">
               <title>Purpose</title>
@@ -564,7 +564,7 @@
 	    
           </interpParagraph>
         </interpSection>
-        <interpSection label="1040-4-Interp">
+        <interpSection label="1040-4-Interp" target="1040-4">
           <title>Section 1040.4—Limitations on the Use of Pre-Dispute Arbitration Agreements</title>
 
 	  <interpParagraph marker="1." label="1040-4-Interp-1">
@@ -637,12 +637,11 @@
 		  </interpParagraph>
 		</interpParagraph>
 		
-		<interpParagraph marker="ii." label="1040-4-a-1-Interp-ii">
+		<interpParagraph marker="ii." label="1040-4-a-1-Interp-1-ii">
                   <title>Example of conduct that does not constitute reliance</title>
                   <content>Reliance on a <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> for purposes of § <ref target="1040-4-a-1" reftype="internal">1040.4(a)(1)</ref> and <ref target="1040-4-Interp-2" reftype="internal">(2)</ref> does not include, among other things, a <ref target="1040-2-a" reftype="term">class action</ref> defendant seeking or taking steps to preserve the defendant's ability to seek arbitration after the trial court has denied a motion to certify the class and either an appellate court has affirmed that decision on an interlocutory appeal of that motion, or the time to seek such an appeal has elapsed.</content>
 		</interpParagraph>
 	      </interpParagraph>
-	    </interpParagraph>
 		
 	    <interpParagraph marker="2." label="1040-4-a-1-Interp-2">
               <title>Protected petitioning conduct</title>
@@ -653,6 +652,7 @@
               <title>Class actions concerning multiple products or services</title>
               <content>In a <ref target="1040-2-a" reftype="term">class action</ref> concerning multiple products or services only some of which are covered by § <ref target="1040-3" reftype="internal">1040.3</ref>, the prohibition in § <ref target="1040-4-a-1" reftype="internal">1040.4(a)(1)</ref> applies only to claims that concern the <ref target="1040-2-b" reftype="term">consumer</ref> financial products or services covered by § <ref target="1040-3" reftype="internal">1040.3</ref>.</content>
 	    </interpParagraph>
+	  </interpParagraph>
 	  </interpParagraph>
 			      
           <interpParagraph label="1040-4-a-2-Interp" target="1040-4-a-2">
@@ -671,7 +671,7 @@
             </interpParagraph>
             <interpParagraph marker="4." label="1040-4-a-2-Interp-4">
               <title>Contract provision for a delegation provision</title>
-              <content>If a <ref target="1040-2-d" reftype="term">provider</ref> has included in its <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> the language required by § <ref target="1040-4-a-2" reftype="internal">1040.4(a)(2)</ref>, and the <ref target="1040-2-d" reftype="term">provider</ref>'s <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> contains a delegation provision, the <ref target="1040-2-d" reftype="term">provider</ref> must also separately insert the language required by § <ref target="1040-4-a-2" reftype="internal">1040.4(a)(2)</ref> into the delegation provision, except under § <ref target="1040-4-a-2-iv-C" reftype="internal">1040.4(a)(2)(iv)(C)</ref>. Under § <ref target="1040-4-a-2-iv-C" reftype="internal">1040.4(a)(2)(iv)(C)</ref>, the <ref target="1040-2-d" reftype="term">provider</ref> need not also include the language required by § <ref target="1040-4-a-2" reftype="internal">1040.4(a)(2)</ref> within a separate delegation provision</content>
+              <content>If a <ref target="1040-2-d" reftype="term">provider</ref> has included in its <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> the language required by § <ref target="1040-4-a-2" reftype="internal">1040.4(a)(2)</ref>, and the <ref target="1040-2-d" reftype="term">provider</ref>'s <ref target="1040-2-c" reftype="term">pre-dispute arbitration agreement</ref> contains a delegation provision, the <ref target="1040-2-d" reftype="term">provider</ref> must also separately insert the language required by § <ref target="1040-4-a-2" reftype="internal">1040.4(a)(2)</ref> into the delegation provision, except under § <ref target="1040-4-a-2-iv-C" reftype="internal">1040.4(a)(2)(iv)(C)</ref>. Under § <ref target="1040-4-a-2-iv-C" reftype="internal">1040.4(a)(2)(iv)(C)</ref>, the <ref target="1040-2-d" reftype="term">provider</ref> need not also include the language required by § <ref target="1040-4-a-2" reftype="internal">1040.4(a)(2)</ref> within a separate delegation provision.</content>
             </interpParagraph>
           </interpParagraph>
 	    
@@ -691,7 +691,7 @@
           <interpParagraph label="1040-4-b-1-Interp">
 	    <title>Paragraph 4(b)(1) Records to be submitted.</title>
             <content></content>
-	    <interpParagraph label="1040-b-1-ii-Interp" target="1040-b-1-ii">
+	    <interpParagraph label="1040-4-b-1-ii-Interp" target="1040-4-b-1-ii">
 	      <title>Paragraph 4(b)(1)(ii)</title>
 	      <content></content>
               <interpParagraph marker="1." label="1040-4-b-1-ii-Interp-1">
