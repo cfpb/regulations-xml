@@ -22,8 +22,16 @@ while read -r f; do
     fi
 
     echo Validating "$f"
-    "$REGML_PY" validate "$f"
-    errcode=$(($errcode | $?))
+    "$REGML_PY" validate "$f" > /dev/null
+    file_errcode="$?"
+
+    if [[ "$file_errcode" == "0" ]]; then
+        echo "Validated successfully."
+    else
+        echo "Validation failed!"
+    fi
+
+    errcode=$(($errcode | $file_errcode))
 done <<< "$files"
 
 exit $errcode
