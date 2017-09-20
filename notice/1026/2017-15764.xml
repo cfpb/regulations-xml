@@ -1081,7 +1081,7 @@
       </interpParagraph>
     </change>
     <change operation="modified" label="1026-37-d-2-Interp" subpath="title">
-      <interpParagraph label="1026-37-d-2-Interp" marker="1.">
+      <interpParagraph label="1026-37-d-2-Interp">
         <title>37(d)(2) Optional alternative table for transactions without a seller or for simultaneous subordinate financing.</title>
         <content></content>
       </interpParagraph>
@@ -1807,87 +1807,87 @@
       </interpParagraph>
     </change>
     <change operation="modified" label="1026-D-Interp-7">
-      <paragraph label="1026-D-Interp-7" marker="7.">
+      <interpParagraph label="1026-D-Interp-7" marker="7.">
         <content>Creditors may use, at their option, the following methods to estimate and disclose the terms of multiple-advance construction loans pursuant to §§ 1026.37 and 1026.38. As stated in comment app. D-1, appendix D may also be used in multiple-advance transactions other than construction loans, when the amounts or timing of advances is unknown at consummation.</content>
-        <paragraph label="1026-D-Interp-7-i" marker="i.">
+        <interpParagraph label="1026-D-Interp-7-i" marker="i.">
           <title>Loan term.</title>
           <content/>
-          <paragraph label="1026-D-Interp-7-i-A" marker="A.">
+          <interpParagraph label="1026-D-Interp-7-i-A" marker="A.">
             <title>Disclosure as a single transaction.</title>
             <content>If the construction and permanent financing are disclosed as a single transaction, the loan term disclosed is the total combined term of the construction period and the permanent period. For example, if the term of the construction financing is 12 months and the term of the permanent financing is 30 years, and the two phases are disclosed as a single transaction, the loan term disclosed is 31 years.</content>
-          </paragraph>
-          <paragraph label="1026-D-Interp-7-i-B" marker="B.">
+          </interpParagraph>
+          <interpParagraph label="1026-D-Interp-7-i-B" marker="B.">
 	    <title>Term of permanent financing.</title>
             <content>The loan term of the permanent financing is counted from the date that interest for the permanent financing periodic payments begins to accrue, regardless of when the permanent phase is disclosed.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-D-Interp-7-ii" marker="ii.">
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-D-Interp-7-ii" marker="ii.">
           <title>Product.</title>
 	  <content/>
-          <paragraph label="1026-D-Interp-7-ii-A" marker="A.">
+          <interpParagraph label="1026-D-Interp-7-ii-A" marker="A.">
             <title>Separate construction loan disclosure.</title>
             <content>If the construction financing is disclosed separately and has payments of interest only, the time period of the “Interest Only” feature that is disclosed as part of the product disclosure under §§ 1026.37(a)(10) and 1026.38(a)(5)(iii) is the period during which interest-only payments are actually made and excludes any final balloon payment of principal and interest. For example, the product disclosure for a fixed rate, interest-only construction loan with a term of 12 months in which there will be 11 monthly interest payments and a final balloon payment of principal and interest is “11 mo. Interest Only, Fixed Rate.”</content>
-          </paragraph>
-          <paragraph label="1026-D-Interp-7-ii-B" marker="B.">
+          </interpParagraph>
+          <interpParagraph label="1026-D-Interp-7-ii-B" marker="B.">
             <title>Combined construction-permanent disclosure.</title>
             <content>If a single, combined construction-permanent disclosure is provided, the time period of the “Interest Only” feature that is disclosed as part of the product disclosure under §§ 1026.37(a)(10) and 1026.38(a)(5)(iii) is the full term of the interest-only construction financing plus any interest-only period for the permanent financing. For example, the product disclosure for a single disclosure, fixed rate, construction-permanent loan with a 12 month interest-only construction phase where the interest rate is not subject to modification upon conversion to the permanent phase is “1 Year Interest Only, Fixed Rate.” If the first year of the permanent phase in this example also has a 12 month interest-only period, the product disclosure is “2 Year Interest Only, Fixed Rate.”</content>
-          </paragraph>
-          <paragraph label="1026-D-Interp-7-ii-C" marker="C.">
+          </interpParagraph>
+          <interpParagraph label="1026-D-Interp-7-ii-C" marker="C.">
             <title>Product when interest rate at consummation not known.</title>
             <content>If the interest rate for the permanent phase is not known at consummation for a construction-permanent loan using a single, combined construction-permanent disclosure or using separate disclosures for the permanent phase, the creditor shall disclose the loan product under §§ 1026.37(a)(10) and 1026.38(a)(5)(iii) as “Adjustable Rate.” If the interest rate may increase under the terms of the legal obligation from the disclosures provided at consummation, the loan product description is “Adjustable Rate” in such cases, even if the interest rate will be fixed for the term of the permanent phase once it is set.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-D-Interp-7-iii" marker="iii.">
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-D-Interp-7-iii" marker="iii.">
 	  <title>Interest rate.</title>
           <content>If the permanent financing has an adjustable rate at consummation and separate disclosures are provided, the rate disclosed for the permanent financing is the fully-indexed rate pursuant to § 1026.37(b)(2) and its commentary. If the permanent financing has a fixed rate that will not be adjusted when the construction phase converts to the permanent phase, that fixed rate is used for disclosure purposes. If the permanent financing has a rate that may adjust when the construction phase converts to the permanent phase, the permanent financing has an adjustable rate. If the legal obligation for a loan secured by the consumer's principal dwelling provides that the permanent financing interest rate may adjust when the construction financing converts to permanent financing, and such adjustment to the interest rate results in a corresponding adjustment to the payment, the creditor provides the disclosures pursuant to § 1026.20(c), but not (d), if the interest rate for the permanent phase will be fixed after the conversion.</content>
-        </paragraph>
-        <paragraph label="1026-D-Interp-7-iv" marker="iv.">
+        </interpParagraph>
+        <interpParagraph label="1026-D-Interp-7-iv" marker="iv.">
 	  <title>Increase in periodic payment.</title>
           <content>If the amounts or timing of advances is unknown at or before consummation and the appendix D assumption that applies if interest is payable only on the amount advanced for the time it is outstanding is used to calculate the periodic payment:</content>
-          <paragraph label="1026-D-Interp-7-iv-A" marker="A.">
+          <interpParagraph label="1026-D-Interp-7-iv-A" marker="A.">
             <content>A creditor discloses “YES” as the answer to “Can this amount increase after closing?” pursuant to § 1026.37(b)(6)(iii) whether the creditor provides separate construction disclosures or combined construction-permanent disclosures, even though calculation of the construction financing periodic payments using the assumptions in appendix D produces interest-only periodic payments that are equal in amount.</content>
-          </paragraph>
-          <paragraph label="1026-D-Interp-7-iv-B" marker="B.">
+          </interpParagraph>
+          <interpParagraph label="1026-D-Interp-7-iv-B" marker="B.">
             <content>A creditor that discloses “YES” as the answer to “Can this amount increase after closing?” pursuant to § 1026.37(b)(6)(iii) may use months or years for the § 1026.37(b)(6)(iii) disclosures, consistent with comment 37(b)(6)-1. For example, for a 10-month construction loan, the first § 1026.37(b)(6)(iii) disclosure bullet may disclose, “Adjusts every mo. starting in mo. 1” and the second § 1026.37(b)(6)(iii) disclosure bullet may disclose, “Can go as high as $[insert maximum possible periodic principal and interest payment] in year 1”. The calculation of the maximum possible periodic principal and interest payment disclosed is based on the maximum principal balance that could be outstanding during the construction phase. As part of the “First Change/Amount” disclosure in the “Adjustable Payment (AP) Table” pursuant to § 1026.37(i)(5)(i), the creditor may omit and leave blank the amount or range corresponding to the first periodic principal and interest payment that may change. In such cases, the creditor must still disclose the timing of the first change, which is the number of the earliest possible payment (e.g., 1st payment) that may change under the terms of the legal obligation.</content>
-          </paragraph>
-          <paragraph label="1026-D-Interp-7-iv-C" marker="C.">
+          </interpParagraph>
+          <interpParagraph label="1026-D-Interp-7-iv-C" marker="C.">
             <content>When separate construction disclosures or the combined construction-permanent disclosures are provided for adjustable-rate construction financing, a creditor provides the § 1026.37(b)(6)(iii) disclosures reflecting changes that are due to changes in the interest rate and changes that are due to changes in the total amount advanced. Such a creditor discloses “YES” as the answer to “Can this amount increase after closing?” pursuant to § 1026.37(b)(6), because the initial periodic payment may increase based upon an increase in the interest rate in addition to a change based on the total amount advanced. Such a creditor also discloses a reference to the adjustable payment table required by § 1026.37(i), disclosed as provided in comment app. D-7.iv.B, because that disclosure reflects both a change due to a change in the total amount advanced, which is a change to the periodic principal and interest payment that is not based on an adjustment to the interest rate, as well as the fact that there are interest-only payments. Such a creditor also includes a reference to the adjustable interest rate table required by § 1026.37(j) because that disclosure reflects a change due to a change in the interest rate.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-D-Interp-7-v" marker="v.">
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-D-Interp-7-v" marker="v.">
 	  <title>Projected payments table.</title>
           <content>A creditor must disclose a projected payments table for certain transactions secured by real property or a cooperative unit, pursuant to §§ 1026.37(c) and 1026.38(c), instead of the general payment schedule required by § 1026.18(g) or the interest rate and payments summary table required by § 1026.18(s). Accordingly, some home construction loans that are secured by real property or a cooperative unit are subject to §§ 1026.37(c) and 1026.38(c) and not § 1026.18(g). See comment app. D-6 for a discussion of transactions that are subject to § 1026.18(s). Under § 1026.17(c)(6)(ii), when a multiple-advance construction loan may be permanently financed by the same creditor, the construction phase and the permanent phase may be treated as either one transaction or more than one transaction. The following are illustrations of the application of appendix D to transactions subject to §§ 1026.37(c) and 1026.38(c), under each of the § 1026.17(c)(6)(ii) alternatives:</content>
-          <paragraph label="1026-D-Interp-7-v-A" marker="A.">
+          <interpParagraph label="1026-D-Interp-7-v-A" marker="A.">
             <content>If a creditor uses appendix D and elects pursuant to § 1026.17(c)(6)(ii) to disclose the construction and permanent phases as separate transactions, the construction phase must be disclosed according to the rules in §§ 1026.37(c) and 1026.38(c). Under §§ 1026.37(c) and 1026.38(c), the creditor must disclose the periodic payments during the construction phase in a projected payments table. The provision in appendix D, part I.A.3, which allows the creditor to omit the number and amounts of any interest payments “in disclosing the payment schedule under § 1026.18(g)” does not apply because the transaction is governed by §§ 1026.37(c) and 1026.38(c) rather than § 1026.18(g). If interest is payable only on the amount actually advanced for the time it is outstanding, the creditor determines the amount of the interest-only payment to be made during the construction phase using the assumptions in appendix D, part I.A.1. Also, because the construction phase is being disclosed as a separate transaction and its periodic payments do not repay the principal, the creditor must disclose the construction phase transaction as a product with a balloon payment feature, pursuant to §§ 1026.37(a)(10)(ii)(D) and 1026.38(a)(5)(iii), unless the transaction has negative amortization, interest-only, or step payment features, consistent with the requirement at § 1026.37(a)(10)(iii). In addition, the creditor must provide the balloon payment disclosures pursuant to §§ 1026.37(b)(5), 1026.37(b)(7)(ii), and 1026.38(b) and disclose the balloon payment in the projected payments table.</content>
-          </paragraph>
-          <paragraph label="1026-D-Interp-7-v-B" marker="B.">
+          </interpParagraph>
+          <interpParagraph label="1026-D-Interp-7-v-B" marker="B.">
             <content>If the creditor elects to disclose the construction and permanent phases as a single transaction, the repayment schedule must be disclosed pursuant to appendix D, part II.C.2. Under appendix D, part II.C.2, the projected payments table reflects the interest-only payments during the construction phase in a first column. The first column also reflects the amortizing payments, and mortgage insurance and escrow payments, if any, for the permanent phase if the term of the construction phase is not a full year. The following column(s) reflect the payments for the permanent phase. If interest is payable only on the amount actually advanced for the time it is outstanding, the creditor determines the amount of the interest-only payment to be made during the construction phase using the assumption in appendix D, part II.A.1.</content>
-          </paragraph>
-          <paragraph label="1026-D-Interp-7-v-C" marker="C.">
+          </interpParagraph>
+          <interpParagraph label="1026-D-Interp-7-v-C" marker="C.">
             <content>Consistent with comments 37(c)(2)(ii)-1 and 37(c)(2)(iii)-1, when the loan is disclosed as one transaction and only the terms of the legal obligation for the permanent phase require mortgage insurance or escrow, the way the creditor discloses the escrow and mortgage insurance depends on whether the first column of the projected payments table exclusively discloses the construction phase. If the first column of the projected payments table exclusively discloses the construction phase, the creditor discloses “0” in the first column of the projected payments table for mortgage insurance and a hyphen or dash in the first column of the projected payments table for escrow. If the first column discloses both the construction phase and the permanent phase payments, the amount of the mortgage insurance premium or escrow payment (if any) for the permanent phase is disclosed in the first column.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-D-Interp-7-vi" marker="vi.">
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-D-Interp-7-vi" marker="vi.">
 	  <title>Disclosure of construction costs.</title>
           <content/>
-          <paragraph label="1026-D-Interp-7-vi-A" marker="A.">
+          <interpParagraph label="1026-D-Interp-7-vi-A" marker="A.">
             <content>Construction costs are the costs of improvements to be made to the property that the consumer contracts for in connection with the financing transaction and that will be paid in whole or in part with loan proceeds.</content>
-          </paragraph>
-          <paragraph label="1026-D-Interp-7-vi-B" marker="B.">
+          </interpParagraph>
+          <interpParagraph label="1026-D-Interp-7-vi-B" marker="B.">
             <content>On the Loan Estimate, a creditor factors construction costs into the funds for borrower calculation under § 1026.37(h)(1)(v). Because these amounts are disclosed under § 1026.38(j)(1)(v) on the Closing Disclosure, they are included in existing debt that is factored into the funds for borrower calculation under § 1026.37(h)(1)(v). Comment 37(h)(1)(v)-2 explains that the total amount of all existing debt being satisfied in the transaction that is used in the funds for borrower calculation is the sum of the amounts that will be disclosed on the Closing Disclosure in the summaries of transactions table under § 1026.38(j)(1)(ii), (iii), and (v), as applicable. For transactions without a seller or for simultaneous subordinate financing, construction costs may instead be disclosed under § 1026.37(h)(2)(iii) in the optional alternative calculating cash to close table.</content>
-          </paragraph>
-          <paragraph label="1026-D-Interp-7-vi-C" marker="C.">
+          </interpParagraph>
+          <interpParagraph label="1026-D-Interp-7-vi-C" marker="C.">
             <content>A creditor discloses the amount of construction costs on the Closing Disclosure under § 1026.38(j)(1)(v) in the summaries of transactions table and factors them into the down payment/funds from borrower and funds for borrower calculation under § 1026.38(i)(4) and (6). For transactions without a seller or for simultaneous subordinate financing, construction costs may instead be disclosed under § 1026.38(t)(5)(vii)(B) in the optional alternative calculating cash to close table.</content>
-          </paragraph>
-          <paragraph label="1026-D-Interp-7-vi-D" marker="D.">
+          </interpParagraph>
+          <interpParagraph label="1026-D-Interp-7-vi-D" marker="D.">
             <content>A creditor in some cases places a portion of a construction loan's proceeds in a reserve or other account at consummation. The amount of such an account, at the creditor's option, may be disclosed separately from other construction costs under § 1026.38(j)(1)(v) if space permits, or may be included in the amount disclosed for construction costs under § 1026.38(j)(1)(v). If the creditor chooses to disclose separately the amount of loan proceeds placed in a reserve or other account at consummation, the creditor may disclose the amount as a separate itemized cost, along with an itemized cost for the balance of the construction costs, in accordance with the disclosure and calculation options described in comments app. D-7.vi-B and C. The amount may be labeled with any accurate term, so long as any label the creditor uses is in accordance with the “clear and conspicuous” standard explained at comment 37(f)(5)-1. If the amount placed in an account is disclosed separately, the balance of construction costs disclosed excludes the amount placed in an account to avoid double counting.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1026-D-Interp-7-vii" marker="vii.">
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-D-Interp-7-vii" marker="vii.">
 	  <title>Construction loan inspection and handling fees.</title>
           <content>Comment 4(a)-1.ii.A provides that inspection and handling fees, including draw fees, for the staged disbursement of construction loan proceeds are part of the finance charge. Comment 37(f)-3 states that such inspection and handling fees are loan costs associated with the transaction for purposes of § 1026.37(f) and, as such, must be disclosed accurately as part of the Loan Estimate. These fees must also be disclosed accurately as part of the Closing Disclosure. Comment 38(f)-2 refers to explanations under comments 37(f)-3 and 37(f)(6)-3 for making these disclosures. Comment 37(f)-3 explains that, if such fees are collected at or before consummation, they are disclosed in the loan costs table. If such fees will be collected after consummation, they are disclosed in a separate addendum and are not counted for purposes of the calculating cash to close table. Comment 37(f)(6)-3 explains how to disclose inspection and handling fees that will be collected after consummation in an addendum. Under comment 38(f)-2, the same explanation applies to an addendum used for disclosing such fees in the Closing Disclosure. Comment 37(l)(1)-1 explains that the amount disclosed under § 1026.37(l)(1)(i) is the sum of principal, interest, mortgage insurance, and loan costs scheduled to be paid through the end of the 60th month after the due date of the first periodic payment, and that loan costs are those costs disclosed under § 1026.37(f). Construction loan inspection and handling fees are loan costs that must be included in the sum of the “In 5 Years” disclosure under § 1026.37(l)(1) and the “Total of Payments” disclosure under § 1026.38(o)(1) because they are disclosed under § 1026.37(f), even when they are disclosed on an addendum.</content>
-        </paragraph>
-      </paragraph>
+        </interpParagraph>
+      </interpParagraph>
     </change>
   </changeset>
 </notice>
