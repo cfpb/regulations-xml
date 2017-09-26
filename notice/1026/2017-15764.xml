@@ -146,7 +146,7 @@
     </change>
     <change label="1026-23-g-1" operation="modified">
       <paragraph label="1026-23-g-1" marker="(1)">
-        <title>One half of 1 percent tolerance</title>
+        <title>One half of 1 percent tolerance.</title>
         <content>Except as provided in paragraphs (g)(2) and (h)(2) of this section:</content>
         <paragraph label="1026-23-g-1-i" marker="(i)">
           <content>The finance charge and other disclosures affected by the finance charge (such as the amount financed and the annual percentage rate) shall be considered accurate for purposes of this section if the disclosed finance charge:</content>
@@ -158,7 +158,7 @@
           </paragraph>
         </paragraph>
         <paragraph label="1026-23-g-1-ii" marker="(ii)">
-          <content>The total of payments for each transaction subject to § 1026.19(e) and (f) shall be considered accurate for purposes of this section if the disclosed total of payments:</content>
+          <content>The total of payments for each transaction subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref> shall be considered accurate for purposes of this section if the disclosed total of payments:</content>
           <paragraph label="1026-23-g-1-ii-A" marker="(A)">
             <content>Is understated by no more than 1/2 of 1 percent of the face amount of the note or $100, whichever is greater; or</content>
           </paragraph>
@@ -171,7 +171,7 @@
     <change label="1026-23-g-2" operation="modified">
       <paragraph label="1026-23-g-2" marker="(2)">
         <title>One percent tolerance.</title>
-        <content>In a refinancing of a residential mortgage transaction with a new creditor (other than a transaction covered by § 1026.32), if there is no new advance and no consolidation of existing loans:</content>
+        <content>In a refinancing of a residential mortgage transaction with a new creditor (other than a transaction covered by § <ref target="1026-32" reftype="internal">1026.32</ref>), if there is no new advance and no consolidation of existing loans:</content>
         <paragraph label="1026-23-g-2-i" marker="(i)">
           <content>The finance charge and other disclosures affected by the finance charge (such as the amount financed and the annual percentage rate) shall be considered accurate for purposes of this section if the disclosed finance charge:</content>
           <paragraph label="1026-23-g-2-i-A" marker="(A)">
@@ -182,7 +182,7 @@
           </paragraph>
         </paragraph>
         <paragraph label="1026-23-g-2-ii" marker="(ii)">
-          <content>The total of payments for each transaction subject to § 1026.19(e) and (f) shall be considered accurate for purposes of this section if the disclosed total of payments:</content>
+          <content>The total of payments for each transaction subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref> shall be considered accurate for purposes of this section if the disclosed total of payments:</content>
           <paragraph label="1026-23-g-2-ii-A" marker="(A)">
             <content>Is understated by no more than 1 percent of the face amount of the note or $100, whichever is greater; or</content>
           </paragraph>
@@ -206,7 +206,7 @@
           </paragraph>
         </paragraph>
         <paragraph label="1026-23-h-2-ii" marker="(ii)">
-          <content>The total of payments for each transaction subject to § 1026.19(e) and (f) shall be considered accurate for purposes of this section if the disclosed total of payments:</content>
+          <content>The total of payments for each transaction subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref> shall be considered accurate for purposes of this section if the disclosed total of payments:</content>
           <paragraph label="1026-23-h-2-ii-A" marker="(A)">
             <content>Is understated by no more than $35; or</content>
           </paragraph>
@@ -217,24 +217,22 @@
       </paragraph>
     </change>
     <change label="1026-25-c-1" operation="modified" subpath="title">
-      <title>Records related to requirements for loans secured by real property or a cooperative unit—</title>
+      <title>Records related to requirements for loans secured by real property or a cooperative unit.</title>
     </change>
-    <change operation="modified" label="1026-37-b" subpath="title">
-      <title>Loan terms</title>
-    </change>
-    <change operation="modified" label="1026-37-b-1">
-      <paragraph label="1026-37-b-1" marker="(1)">
-	<title>Loan amount</title>
-        <content>The total amount the consumer will borrow, as reflected by the face amount of the note, labeled “Loan Amount.”</content>
+    <change operation="modified" label="1026-37-b">
+      <paragraph label="1026-37-b" marker="(b)">
+        <title>Loan terms.</title>
+        <content>A separate table under the heading “Loan Terms” that contains the following information and that satisfies the following requirements:</content>
+        <paragraph label="1026-37-b-1" marker="(1)">
+	      <title>Loan amount.</title>
+          <content>The total amount the consumer will borrow, as reflected by the face amount of the note, labeled “Loan Amount.”</content>
+        </paragraph>
       </paragraph>
     </change>
     <change operation="modified" label="1026-37-c-5-i">
       <paragraph label="1026-37-c-5-i" marker="(i)">
         <content>The taxable assessed value of the real property or cooperative unit securing the transaction after consummation, including the value of any improvements on the property or to be constructed on the property, if known, whether or not such construction will be financed from the proceeds of the transaction, for property taxes; and</content>
       </paragraph>
-    </change>
-    <change operation="modified" label="1026-37-b" subpath="content">
-      <content>A separate table under the heading “Loan Terms” that contains the following information and that satisfies the following requirements:</content>
     </change>
     <change operation="modified" label="1026-37-h-1-i">
       <paragraph label="1026-37-h-1-i" marker="(i)">
