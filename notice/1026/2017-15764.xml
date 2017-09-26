@@ -15,17 +15,17 @@
       <section>1026</section>
     </cfr>
     <documentNumber>2017-15764</documentNumber>
-    <effectiveDate>2017-10-19</effectiveDate>
+    <effectiveDate>2017-10-10</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/documents/2017/08/11/2017-15764/amendments-to-federal-mortgage-disclosure-requirements-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2016-18901" rightDocumentNumber="2017-15764">
     <change label="1026-1-d-5" operation="modified">
       <paragraph label="1026-1-d-5" marker="(5)">
-        <content>Subpart E contains special rules for mortgage transactions. Section 1026.32 requires certain disclosures and provides limitations for closed-end credit transactions and open-end credit plans that have rates or fees above specified amounts or certain prepayment penalties. Section 1026.33 requires special disclosures, including the total annual loan cost rate, for reverse mortgage transactions. Section 1026.34 prohibits specific acts and practices in connection with high-cost mortgages, as defined in § 1026.32(a). Section 1026.35 prohibits specific acts and practices in connection with closed-end higher-priced mortgage loans, as defined in § 1026.35(a). Section 1026.36 prohibits specific acts and practices in connection with an extension of credit secured by a dwelling. Sections 1026.37 and 1026.38 set forth special disclosure requirements for certain closed-end transactions secured by real property or a cooperative unit, as required by § 1026.19(e) and (f).</content>
+        <content>Subpart E contains special rules for mortgage transactions. Section <ref target="1026-32" reftype="internal">1026.32</ref> requires certain disclosures and provides limitations for closed-end credit transactions and open-end credit plans that have rates or fees above specified amounts or certain prepayment penalties. Section <ref target="1026-33" reftype="internal">1026.33</ref> requires special disclosures, including the total annual loan cost rate, for reverse mortgage transactions. Section <ref target="1026-34" reftype="internal">1026.34</ref> prohibits specific acts and practices in connection with high-cost mortgages, as defined in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>. Section <ref target="1026-35" reftype="internal">1026.35</ref> prohibits specific acts and practices in connection with closed-end higher-priced mortgage loans, as defined in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Section <ref target="1026-36" reftype="internal">1026.36</ref> prohibits specific acts and practices in connection with an extension of credit secured by a dwelling. Sections <ref target="1026-37" reftype="internal">1026.37</ref> and <ref target="1026-38" reftype="internal">1026.38</ref> set forth special disclosure requirements for certain closed-end transactions secured by real property or a cooperative unit, as required by § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>.</content>
       </paragraph>
     </change>
     <change label="1026-3-h" operation="modified" subpath="content">
-      <content>The special disclosure requirements in § 1026.19(g) and, unless the creditor chooses to provide the disclosures described in § 1026.19(e) and (f), in § 1026.19(e) and (f) do not apply to a transaction that satisfies all of the following criteria:</content>
+      <content>The special disclosure requirements in § <ref target="1026-19-g" reftype="internal">1026.19(g)</ref> and, unless the creditor chooses to provide the disclosures described in § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, in § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref> do not apply to a transaction that satisfies all of the following criteria:</content>
     </change>
     <change label="1026-3-h" operation="modified" subpath="title">
       <title>Partial exemption for certain mortgage loans.</title>
@@ -39,7 +39,7 @@
             <content>Recording fees;</content>
           </paragraph>
           <paragraph label="1026-3-h-5-i-B" marker="(B)">
-            <content>Transfer fees;</content>
+            <content>Transfer taxes;</content>
           </paragraph>
           <paragraph label="1026-3-h-5-i-C" marker="(C)">
             <content>A bona fide and reasonable application fee; and</content>
@@ -57,10 +57,10 @@
       <paragraph label="1026-3-h-6" marker="(6)">
         <content>The following disclosures are provided:</content>
         <paragraph label="1026-3-h-6-i" marker="(i)">
-          <content>Disclosures described in § 1026.18 that comply with this part; or</content>
+          <content>Disclosures described in § <ref target="1026-18" reftype="internal">1026.18</ref> that comply with this part; or</content>
         </paragraph>
         <paragraph label="1026-3-h-6-ii" marker="(ii)">
-          <content>Alternatively, disclosures described in § 1026.19(e) and (f) that comply with this part.</content>
+          <content>Alternatively, disclosures described in § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref> that comply with this part.</content>
         </paragraph>
       </paragraph>
     </change>
