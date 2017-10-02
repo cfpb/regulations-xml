@@ -18,7 +18,7 @@
     <effectiveDate>2017-10-10</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/documents/2017/08/11/2017-15764/amendments-to-federal-mortgage-disclosure-requirements-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2016-18901" rightDocumentNumber="2017-15764">
+  <changeset leftDocumentNumber="2016-24503" rightDocumentNumber="2017-15764">
     <change label="1026-1-d-5" operation="modified">
       <paragraph label="1026-1-d-5" marker="(5)">
         <content>Subpart E contains special rules for mortgage transactions. Section <ref target="1026-32" reftype="internal">1026.32</ref> requires certain disclosures and provides limitations for closed-end credit transactions and open-end credit plans that have rates or fees above specified amounts or certain prepayment penalties. Section <ref target="1026-33" reftype="internal">1026.33</ref> requires special disclosures, including the total annual loan cost rate, for reverse mortgage transactions. Section <ref target="1026-34" reftype="internal">1026.34</ref> prohibits specific acts and practices in connection with high-cost mortgages, as defined in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>. Section <ref target="1026-35" reftype="internal">1026.35</ref> prohibits specific acts and practices in connection with closed-end higher-priced mortgage loans, as defined in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Section <ref target="1026-36" reftype="internal">1026.36</ref> prohibits specific acts and practices in connection with an extension of credit secured by a dwelling. Sections <ref target="1026-37" reftype="internal">1026.37</ref> and <ref target="1026-38" reftype="internal">1026.38</ref> set forth special disclosure requirements for certain closed-end transactions secured by real property or a cooperative unit, as required by § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>.</content>
@@ -68,9 +68,9 @@
       <title>Mortgage loans—early disclosures.</title>
     </change>
     <change label="1026-19-e-1-i" operation="modified">
-      <title>Creditor.</title>
       <paragraph label="1026-19-e-1-i" marker="(i)">
-          <content>In a closed-end consumer credit transaction secured by real property or a cooperative unit, other than a reverse mortgage subject to § <ref target="1026-33" reftype="internal">1026.33</ref>, the creditor shall provide the consumer with good faith estimates of the disclosures in § <ref target="1026-37" reftype="internal">1026.37</ref>.</content>
+	<title>Creditor.</title>
+        <content>In a closed-end consumer credit transaction secured by real property or a cooperative unit, other than a reverse mortgage subject to § <ref target="1026-33" reftype="internal">1026.33</ref>, the creditor shall provide the consumer with good faith estimates of the disclosures in § <ref target="1026-37" reftype="internal">1026.37</ref>.</content>
       </paragraph>
     </change>
     <change label="1026-19-e-3-iii" operation="modified">
@@ -115,8 +115,8 @@
       </paragraph>
     </change>
     <change label="1026-19-f-4-i" operation="modified">
-      <title>Provision to seller.</title>
       <paragraph label="1026-19-f-4-i" marker="(i)">
+	<title>Provision to seller.</title>
         <content>In a transaction subject to paragraph (e)(1)(i) of this section that involves a seller, the settlement agent shall provide the seller with the disclosures in § <ref target="1026-38" reftype="internal">1026.38</ref> that relate to the seller's transaction reflecting the actual terms of the seller's transaction.</content>
       </paragraph>
     </change>
@@ -286,14 +286,12 @@
       <content>For transactions that do not involve a seller or for simultaneous subordinate financing, instead of the table described in paragraph (h)(1) above, the creditor may alternatively provide, in a separate table, under the master heading “Closing Cost Details,” under the heading “Calculating Cash to Close,” the total amount of cash or other funds that must be provided by the consumer at consummation with an itemization of that amount into the following component amounts:</content>
     </change>
     <change operation="modified" label="1026-37-h-2-ii">
-      <title/>
       <paragraph label="1026-37-h-2-ii" marker="(ii)">
         <title>Total closing costs.</title>
         <content>The amount disclosed under paragraph (g)(6) of this section, disclosed as a negative number if the amount disclosed under paragraph (g)(6) of this section is a positive number and disclosed as a positive number if the amount disclosed under paragraph (g)(6) of this section is a negative number, labeled “Total Closing Costs”;</content>
       </paragraph>
     </change>
     <change operation="modified" label="1026-37-h-2-iii">
-      <title/>
       <paragraph label="1026-37-h-2-iii" marker="(iii)">
         <title>Payoffs and payments.</title>
         <content>The total amount of payoffs and payments to be made to third parties not otherwise disclosed under paragraphs (f) and (g) of this section, labeled “Total Payoffs and Payments”;</content>
@@ -1083,10 +1081,7 @@
       </interpParagraph>
     </change>
     <change operation="modified" label="1026-37-d-2-Interp" subpath="title">
-      <interpParagraph label="1026-37-d-2-Interp">
-        <title>37(d)(2) Optional alternative table for transactions without a seller or for simultaneous subordinate financing.</title>
-        <content></content>
-      </interpParagraph>
+      <title>37(d)(2) Optional alternative table for transactions without a seller or for simultaneous subordinate financing.</title>
     </change>
     <change operation="modified" label="1026-37-d-2-Interp-1">
       <interpParagraph label="1026-37-d-2-Interp-1" marker="1.">
