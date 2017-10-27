@@ -8,5 +8,5 @@ script:
   - echo "TRAVIS_PULL_REQUEST=$TRAVIS_PULL_REQUEST"
   - echo "TRAVIS_COMMIT_RANGE=$TRAVIS_COMMIT_RANGE"
   - echo "TRAVIS_BRANCH=$TRAVIS_BRANCH"
-  - export GIT_COMMITS=$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo $TRAVIS_COMMIT_RANGE; else echo $TRAVIS_BRANCH; fi)
-  - REGML_PY=regulations-xml-parser/regml.py GIT_COMMITS=$GIT_COMMITS ./validate_xml.sh
+  - export GIT_COMMITS="$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo ${TRAVIS_COMMIT_RANGE:-HEAD~1 HEAD}; else echo $TRAVIS_BRANCH; fi)"
+  - REGML_PY=regulations-xml-parser/regml.py ./validate_xml.sh
