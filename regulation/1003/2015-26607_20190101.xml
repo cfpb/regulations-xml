@@ -21,42 +21,46 @@
   </preamble>
   <part label="1003">
     <tableOfContents>
-      <tocSecEntry target="1003-1">
-        <sectionNum>1</sectionNum>
-        <sectionSubject>§ 1003.1 Authority, purpose, and scope.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1003-2">
-        <sectionNum>2</sectionNum>
-        <sectionSubject>§ 1003.2 Definitions.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1003-3">
-        <sectionNum>3</sectionNum>
-        <sectionSubject>§ 1003.3 Exempt institutions.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1003-4">
-        <sectionNum>4</sectionNum>
-        <sectionSubject>§ 1003.4 Compilation of loan data.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1003-5">
-        <sectionNum>5</sectionNum>
-        <sectionSubject>§ 1003.5 Disclosure and reporting.</sectionSubject>
-      </tocSecEntry>
-      <tocSecEntry target="1003-6">
-        <sectionNum>6</sectionNum>
-        <sectionSubject>§ 1003.6 Enforcement.</sectionSubject>
-      </tocSecEntry>
-      <tocAppEntry target="1003-A">
-        <appendixLetter>A</appendixLetter>
-        <appendixSubject>Appendix A to Part 1003—Form and Instructions for Completion of HMDA Loan/Application Register</appendixSubject>
-      </tocAppEntry>
-      <tocAppEntry target="1003-B">
-        <appendixLetter>B</appendixLetter>
-        <appendixSubject>Appendix B to Part 1003—Form and Instructions for Data Collection on Ethnicity, Race, and Sex</appendixSubject>
-      </tocAppEntry>
-      <tocInterpEntry target="1003-Interp">
-        <interpTitle>Supplement I to Part 1003—Staff Commentary</interpTitle>
-      </tocInterpEntry>
-    </tableOfContents>
+	<tocSecEntry target="1003-1">
+          <sectionNum>1</sectionNum>
+          <sectionSubject>§ 1003.1 Authority, purpose, and scope.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1003-2">
+          <sectionNum>2</sectionNum>
+          <sectionSubject>§ 1003.2 Definitions.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1003-3">
+          <sectionNum>3</sectionNum>
+          <sectionSubject>§ 1003.3 Exempt institutions and excluded transactions.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1003-4">
+          <sectionNum>4</sectionNum>
+          <sectionSubject>§ 1003.4 Compilation of reportable data.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1003-5">
+          <sectionNum>5</sectionNum>
+          <sectionSubject>§ 1003.5 Disclosure and reporting.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry target="1003-6">
+          <sectionNum>6</sectionNum>
+          <sectionSubject>§ 1003.6 Enforcement.</sectionSubject>
+	</tocSecEntry>
+	<tocAppEntry target="1003-A">
+          <appendixLetter>A</appendixLetter>
+          <appendixSubject>Appendix A to Part 1003—Form and Instructions for Completion of HMDA Loan/Application Register</appendixSubject>
+	</tocAppEntry>
+	<tocAppEntry target="1003-B">
+          <appendixLetter>B</appendixLetter>
+          <appendixSubject>Appendix B to Part 1003—Form and Instructions for Data Collection on Ethnicity, Race, and Sex</appendixSubject>
+	</tocAppEntry>
+	<tocAppEntry target="1003-C">
+	  <appendixLetter>C</appendixLetter>
+	  <appendixSubject>Appendix C to Part 1003—Procedures for Generating a Check Digit and Validating a ULI</appendixSubject>
+	</tocAppEntry>
+	<tocInterpEntry target="1003-Interp">
+          <interpTitle>Supplement I to Part 1003—Staff Commentary</interpTitle>
+	</tocInterpEntry>
+      </tableOfContents>
     <content>
       <subpart label="1003-Subpart">
         <tableOfContents>
@@ -89,90 +93,78 @@
           <section label="1003-1" sectionNum="1">
             <subject>§ 1003.1 Authority, purpose, and scope.</subject>
             <paragraph label="1003-1-a" marker="(a)">
-              <title type="keyterm">Authority.</title>
-              <content>This part, known as Regulation C, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Home Mortgage Disclosure Act (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.), as amended. The information-collection requirements have been approved by the U.S. Office of Management and Budget (OMB) under <ref target="USC:44-3501" reftype="external">44 U.S.C. 3501</ref> et seq. and have been assigned OMB numbers for institutions reporting data to the Office of the Comptroller of the Currency (1557-0159), the Federal Deposit Insurance Corporation (3064-0046), the Federal Reserve System (7100-0247), the Department of Housing and Urban Development (HUD) (2502-0529), the National Credit Union Administration (3133-0166), and the Bureau of Consumer Financial Protection (3170-0008).</content>
-            </paragraph>
-            <paragraph label="1003-1-b" marker="(b)">
+        <title type="keyterm">Authority.</title>
+        <content>This part, known as Regulation C, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Home Mortgage Disclosure Act (HMDA) (<ref target="USC:12-2801" reftype="external">12 U.S.C. 2801</ref> et seq.), as amended. The information-collection requirements have been approved by the U.S. Office of Management and Budget (OMB) under <ref target="USC:44-3501" reftype="external">44 U.S.C. 3501</ref> et seq. and have been assigned OMB numbers for institutions reporting data to the Office of the Comptroller of the Currency (1557-0159), the Federal Deposit Insurance Corporation (3064-0046), the Federal Reserve System (7100-0247), the Department of Housing and Urban Development (HUD) (2502-0529), the National Credit Union Administration (3133-0166), and the Bureau of Consumer Financial Protection (3170-0008).</content>
+      </paragraph>
+    <paragraph label="1003-1-b" marker="(b)">
               <title type="keyterm">Purpose.</title>
               <content/>
               <paragraph label="1003-1-b-1" marker="(1)">
-                <content>This part implements the Home Mortgage Disclosure Act, which is intended to provide the public with loan data that can be used:</content>
-                <paragraph label="1003-1-b-1-i" marker="(i)">
-                  <content>To help determine whether <ref target="1003-2-FinancialInstitution" reftype="term">financial institutions</ref> are serving the housing needs of their communities;</content></paragraph>
-                <paragraph label="1003-1-b-1-ii" marker="(ii)">
-                  <content>To assist public officials in distributing public-sector investment so as to attract private investment to areas where it is needed; and</content>
-                </paragraph>
-                <paragraph label="1003-1-b-1-iii" marker="(iii)">
-                  <content>To assist in identifying possible discriminatory lending patterns and enforcing antidiscrimination statutes.</content>
-                </paragraph>
-              </paragraph>
-              <paragraph label="1003-1-b-2" marker="(2)">
+      <content>This part implements the Home Mortgage Disclosure Act, which is intended to provide the public with loan data that can be used:</content>
+      <paragraph label="1003-1-b-1-i" marker="(i)">
+      <content>To help determine whether <ref target="1003-2-FinancialInstitution" reftype="term">financial institutions</ref> are serving the housing needs of their communities;</content></paragraph>
+      <paragraph label="1003-1-b-1-ii" marker="(ii)">
+        <content>To assist public officials in distributing public-sector investment so as to attract private investment to areas where it is needed; and</content>
+      </paragraph>
+      <paragraph label="1003-1-b-1-iii" marker="(iii)">
+        <content>To assist in identifying possible discriminatory lending patterns and enforcing antidiscrimination statutes.</content>
+      </paragraph>
+    </paragraph>
+    <paragraph label="1003-1-b-2" marker="(2)">
                 <content>Neither the <ref target="1003-2-Act" reftype="term">act</ref> nor this part is intended to encourage unsound lending practices or the allocation of credit.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1003-1-c" marker="(c)">
         <title>Scope</title>
-        <content>This part applies to financial institutions as defined in § 1003.2(g). This part requires a financial institution to submit data to the appropriate Federal agency for the financial institution as defined in § 1003.5(a)(4), and to disclose certain data to the public, about covered loans for which the financial institution receives applications, or that it originates or purchases, and that are secured by a dwelling located in a State of the United States of America, the District of Columbia, or the Commonwealth of Puerto Rico.</content>
-      </paragraph>
+        <content>This part applies to <ref target="1003-2-g" reftype="term">financial institutions</ref> as defined in § 1003.2(g). This part requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to submit data to the appropriate Federal agency for the <ref target="1003-2-g" reftype="term">financial institution</ref> as defined in § 1003.5(a)(4), and to disclose certain data to the public, about <ref target="1003-2-e" reftype="term">covered loans</ref> for which the <ref target="1003-2-g" reftype="term">financial institution</ref> receives <ref target="1003-2-b-1" reftype="term">applications</ref>, or that it originates or purchases, and that are secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> located in a State of the United States of America, the District of Columbia, or the Commonwealth of Puerto Rico.</content></paragraph>
     </section>
           <section label="1003-2" sectionNum="2">
         <subject>Definitions</subject>
         <paragraph label="1003-2-p1" marker="">
           <content>In this part:</content>
           <paragraph label="1003-2-a" marker="(a)">
-            <content>Act means the Home Mortgage Disclosure Act (HMDA) (12 U.S.C. 2801 et seq.), as amended.</content>
+            <content><def term="act">Act</def> means the Home Mortgage Disclosure Act (HMDA) (12 U.S.C. 2801 et seq.), as amended.</content>
           </paragraph>
           <paragraph label="1003-2-b" marker="(b)">
             <content>Application—</content>
             <paragraph label="1003-2-b-1" marker="(1)">
               <title>In general.</title>
-              <content>Application means an oral or written request for a covered loan that is made in accordance with procedures used by a financial institution for the type of credit requested.</content>
-            </paragraph>
+              <content><def term="application">Application</def> means an oral or written request for a <ref target="1003-2-e" reftype="term">covered loan</ref> that is made in accordance with procedures used by a <ref target="1003-2-g" reftype="term">financial institution</ref> for the type of credit requested.</content></paragraph>
             <paragraph label="1003-2-b-2" marker="(2)">
               <title>Preapproval programs.</title>
-              <content>A request for preapproval for a home purchase loan, other than a home purchase loan that will be an open-end line of credit, a reverse mortgage, or secured by a multifamily dwelling, is an application under this section if the request is reviewed under a program in which the financial institution, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:</content>
-              <paragraph label="1003-2-b-2-i" marker="(i)">
+              <content>A <def term="request for preapproval">request for preapproval</def> for a <ref target="1003-2-j" reftype="term">home purchase loan</ref>, other than a home purchase loan that will be an <ref target="1003-2-o" reftype="term">open-end line of credit</ref>, a <ref target="1003-2-q" reftype="term">reverse mortgage</ref>, or secured by a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref>, is an <ref target="1003-2-b-1" reftype="term">application</ref> under this section if the request is reviewed under a program in which the <ref target="1003-2-g" reftype="term">financial institution</ref>, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:</content><paragraph label="1003-2-b-2-i" marker="(i)">
                 <content>Conditions that require the identification of a suitable property;</content>
               </paragraph>
               <paragraph label="1003-2-b-2-ii" marker="(ii)">
                 <content>Conditions that require that no material change has occurred in the applicant's financial condition or creditworthiness prior to closing; and</content>
               </paragraph>
               <paragraph label="1003-2-b-2-iii" marker="(iii)">
-                <content>Limited conditions that are not related to the financial condition or creditworthiness of the applicant that the financial institution ordinarily attaches to a traditional home mortgage application.</content>
-              </paragraph>
+                <content>Limited conditions that are not related to the financial condition or creditworthiness of the applicant that the <ref target="1003-2-g" reftype="term">financial institution</ref> ordinarily attaches to a traditional home mortgage <ref target="1003-2-b-1" reftype="term">application</ref>.</content></paragraph>
             </paragraph>
           </paragraph>
           <paragraph label="1003-2-c" marker="(c)">
-            <content>Branch office means:</content>
+            <content><def term="branch office">Branch office</def> means:</content>
             <paragraph label="1003-2-c-1" marker="(1)">
               <content>Any office of a bank, savings association, or credit union that is considered a branch by the Federal or State supervisory agency applicable to that institution, excluding automated teller machines and other free-standing electronic terminals; and</content>
             </paragraph>
             <paragraph label="1003-2-c-2" marker="(2)">
-              <content>Any office of a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that takes applications from the public for covered loans. A for-profit mortgage-lending institution (other than a bank, savings association, or credit union) is also deemed to have a branch office in an MSA or in an MD, if, in the preceding calendar year, it received applications for, originated, or purchased five or more covered loans related to property located in that MSA or MD, respectively.</content>
-            </paragraph>
+              <content>Any office of a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that takes <ref target="1003-2-b-1" reftype="term">applications</ref> from the public for <ref target="1003-2-e" reftype="term">covered loans</ref>. A for-profit mortgage-lending institution (other than a bank, savings association, or credit union) is also deemed to have a <ref target="1003-2-c" reftype="term">branch office</ref> in an <ref target="1003-2-m-1" reftype="term">MSA</ref> or in an MD, if, in the preceding calendar year, it received <ref target="1003-2-b-1" reftype="term">applications</ref> for, originated, or purchased five or more <ref target="1003-2-e" reftype="term">covered loans</ref> related to property located in that <ref target="1003-2-m-1" reftype="term">MSA</ref> or MD, respectively.</content></paragraph>
           </paragraph>
           <paragraph label="1003-2-d" marker="(d)">
-            <content>Closed-end mortgage loan means an extension of credit that is secured by a lien on a dwelling and that is not an open-end line of credit under paragraph (o) of this section.</content>
-          </paragraph>
+            <content><def term="closed-end mortgage loan">Closed-end mortgage loan</def> means an extension of credit that is secured by a lien on a <ref target="1003-2-f" reftype="term">dwelling</ref> and that is not an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> under paragraph (o) of this section.</content></paragraph>
           <paragraph label="1003-2-e" marker="(e)">
-            <content>Covered loan means a closed-end mortgage loan or an open-end line of credit that is not an excluded transaction under § 1003.3(c).</content>
-          </paragraph>
+            <content><def term="covered loan">Covered loan</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is not an excluded transaction under § 1003.3(c).</content></paragraph>
           <paragraph label="1003-2-f" marker="(f)">
-            <content>Dwelling means a residential structure, whether or not attached to real property. The term includes but is not limited to a detached home, an individual condominium or cooperative unit, a manufactured home or other factory-built home, or a multifamily residential structure or community.</content>
-          </paragraph>
+            <content><def term="dwelling">Dwelling</def> means a residential structure, whether or not attached to real property. The term includes but is not limited to a detached home, an individual condominium or cooperative unit, a <ref target="1003-2-l" reftype="term">manufactured home</ref> or other factory-built home, or a multifamily residential structure or community.</content></paragraph>
           <paragraph label="1003-2-g" marker="(g)">
-            <content>Financial institution means a depository financial institution or a nondepository financial institution, where:</content>
-            <paragraph label="1003-2-g-1" marker="(1)">
-              <content>Depository financial institution means a bank, savings association, or credit union that:</content>
+            <content><def term="financial institution">Financial institution</def> means a <ref target="1003-2-g-1" reftype="term">depository financial institution</ref> or a <ref target="1003-2-g-2" reftype="term">nondepository financial institution</ref>, where:</content><paragraph label="1003-2-g-1" marker="(1)">
+              <content><def term="depository financial institution">Depository financial institution</def> means a bank, savings association, or credit union that:</content>
               <paragraph label="1003-2-g-1-i" marker="(i)">
-                <content>On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the Act, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;</content>
-              </paragraph>
+                <content>On the preceding December 31 had assets in excess of the asset threshold established and published annually by the Bureau for coverage by the <ref target="1003-2-a" reftype="term">Act</ref>, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve month period ending in November, with rounding to the nearest million;</content></paragraph>
               <paragraph label="1003-2-g-1-ii" marker="(ii)">
-                <content>On the preceding December 31, had a home or branch office in an MSA;</content>
-              </paragraph>
+                <content>On the preceding December 31, had a home or <ref target="1003-2-c" reftype="term">branch office</ref> in an <ref target="1003-2-m-1" reftype="term">MSA</ref>;</content></paragraph>
               <paragraph label="1003-2-g-1-iii" marker="(iii)">
-                <content>In the preceding calendar year, originated at least one home purchase loan or refinancing of a home purchase loan, secured by a first lien on a one- to four-unit dwelling;</content>
-              </paragraph>
+                <content>In the preceding calendar year, originated at least one home purchase loan or <ref target="1003-2-p" reftype="term">refinancing</ref> of a home purchase loan, secured by a first lien on a one- to four-unit <ref target="1003-2-f" reftype="term">dwelling</ref>;</content></paragraph>
               <paragraph label="1003-2-g-1-iv" marker="(iv)">
                 <content>Meets one or more of the following two criteria:</content>
                 <paragraph label="1003-2-g-1-iv-A" marker="(A)">
@@ -185,26 +177,21 @@
               <paragraph label="1003-2-g-1-v" marker="(v)">
                 <content>Meets at least one of the following criteria:</content>
                 <paragraph label="1003-2-g-1-v-A" marker="(A)">
-                  <content>In each of the two preceding calendar years, originated at least 25 closed-end mortgage loans that are not excluded from this part pursuant to § 1003.3(c)(1) through (10); or</content>
-                </paragraph>
+                  <content>In each of the two preceding calendar years, originated at least 25 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> that are not excluded from this part pursuant to § 1003.3(c)(1) through (10); or</content></paragraph>
                 <paragraph label="1003-2-g-1-v-B" marker="(B)">
-                  <content>In each of the two preceding calendar years, originated at least 100 open-end lines of credit that are not excluded from this part pursuant to § 1003.3(c)(1) through (10); and</content>
-                </paragraph>
+                  <content>In each of the two preceding calendar years, originated at least 100 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> that are not excluded from this part pursuant to § 1003.3(c)(1) through (10); and</content></paragraph>
               </paragraph>
             </paragraph>
             <paragraph label="1003-2-g-2" marker="(2)">
-              <content>Nondepository financial institution means a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that:</content>
+              <content><def term="nondepository financial institution">Nondepository financial institution</def> means a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that:</content>
               <paragraph label="1003-2-g-2-i" marker="(i)">
-                <content>On the preceding December 31, had a home or branch office in an MSA; and</content>
-              </paragraph>
+                <content>On the preceding December 31, had a home or <ref target="1003-2-c" reftype="term">branch office</ref> in an <ref target="1003-2-m-1" reftype="term">MSA</ref>; and</content></paragraph>
               <paragraph label="1003-2-g-2-ii" marker="(ii)">
                 <content>Meets at least one of the following criteria:</content>
                 <paragraph label="1003-2-g-2-ii-A" marker="(A)">
-                  <content>In each of the two preceding calendar years, originated at least 25 closed-end mortgage loans that are not excluded from this part pursuant to § 1003.3(c)(1) through (10); or</content>
-                </paragraph>
+                  <content>In each of the two preceding calendar years, originated at least 25 <ref target="1003-2-d" reftype="term">closed-end mortgage loans</ref> that are not excluded from this part pursuant to § 1003.3(c)(1) through (10); or</content></paragraph>
                 <paragraph label="1003-2-g-2-ii-B" marker="(B)">
-                  <content>In each of the two preceding calendar years, originated at least 100 open-end lines of credit that are not excluded from this part pursuant to § 1003.3(c)(1) through (10).</content>
-                </paragraph>
+                  <content>In each of the two preceding calendar years, originated at least 100 <ref target="1003-2-o" reftype="term">open-end lines of credit</ref> that are not excluded from this part pursuant to § 1003.3(c)(1) through (10).</content></paragraph>
               </paragraph>
             </paragraph>
           </paragraph>
@@ -212,44 +199,36 @@
             <content>[Reserved]</content>
           </paragraph>
           <paragraph label="1003-2-i" marker="(i)">
-            <content>Home improvement loan means a closed-end mortgage loan or an open-end line of credit that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a dwelling or the real property on which the dwelling is located.</content>
-          </paragraph>
+            <content><def term="home improvement loan">Home improvement loan</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a <ref target="1003-2-f" reftype="term">dwelling</ref> or the real property on which the <ref target="1003-2-f" reftype="term">dwelling</ref> is located.</content></paragraph>
           <paragraph label="1003-2-j" marker="(j)">
-            <content>Home purchase loan means a closed-end mortgage loan or an open-end line of credit that is for the purpose, in whole or in part, of purchasing a dwelling.</content>
-          </paragraph>
+            <content><def term="home puchase loan">Home purchase loan</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is for the purpose, in whole or in part, of purchasing a <ref target="1003-2-f" reftype="term">dwelling</ref>.</content></paragraph>
           <paragraph label="1003-2-k" marker="(k)">
-            <content>Loan/Application Register means both the record of information required to be collected pursuant to § 1003.4 and the record submitted annually or quarterly, as applicable, pursuant to § 1003.5(a).</content>
+            <content><def term="loan/application register">Loan/Application Register</def> means both the record of information required to be collected pursuant to § 1003.4 and the record submitted annually or quarterly, as applicable, pursuant to § 1003.5(a).</content>
           </paragraph>
           <paragraph label="1003-2-l" marker="(l)">
-            <content>Manufactured home means any residential structure as defined under regulations of the U.S. Department of Housing and Urban Development establishing manufactured home construction and safety standards (24 CFR 3280.2). For purposes of § 1003.4(a)(5), the term also includes a multifamily dwelling that is a manufactured home community.</content>
-          </paragraph>
+            <content><def term="manufactured home">Manufactured home</def> means any residential structure as defined under regulations of the U.S. Department of Housing and Urban Development establishing manufactured home construction and safety standards (24 CFR 3280.2). For purposes of § 1003.4(a)(5), the term also includes a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref> that is a manufactured home community.</content></paragraph>
           <paragraph label="1003-2-m" marker="(m)">
             <content>Metropolitan Statistical Area (MSA) and Metropolitan Division(MD).</content>
             <paragraph label="1003-2-m-1" marker="(1)">
-              <content>Metropolitan Statistical Area or MSA means a Metropolitan Statistical Area as defined by the U.S. Office of Management and Budget.</content>
+              <content><def term="metropolitan statistical area">Metropolitan Statistical Area</def> or <def term="MSA">MSA</def> means a Metropolitan Statistical Area as defined by the U.S. Office of Management and Budget.</content>
             </paragraph>
             <paragraph label="1003-2-m-2" marker="(2)">
-              <content>Metropolitan Division (MD) means a Metropolitan Division of an MSA, as defined by the U.S. Office of Management and Budget.</content>
-            </paragraph>
+              <content><def term="metropolitan division">Metropolitan Division</def> (MD) means a Metropolitan Division of an <ref target="1003-2-m-1" reftype="term">MSA</ref>, as defined by the U.S. Office of Management and Budget.</content></paragraph>
           </paragraph>
           <paragraph label="1003-2-n" marker="(n)">
-            <content>Multifamily dwelling means a dwelling, regardless of construction method, that contains five or more individual dwelling units.</content>
-          </paragraph>
+            <content><def term="multifamily dwelling">Multifamily dwelling</def> means a <ref target="1003-2-f" reftype="term">dwelling</ref>, regardless of construction method, that contains five or more individual <ref target="1003-2-f" reftype="term">dwelling</ref> units.</content></paragraph>
           <paragraph label="1003-2-o" marker="(o)">
-            <content>Open-end line of credit means an extension of credit that:</content>
+            <content><def term="open-end line of credit">Open-end line of credit</def> means an extension of credit that:</content>
             <paragraph label="1003-2-o-1" marker="(1)">
-              <content>Is secured by a lien on a dwelling; and</content>
-            </paragraph>
+              <content>Is secured by a lien on a <ref target="1003-2-f" reftype="term">dwelling</ref>; and</content></paragraph>
             <paragraph label="1003-2-o-2" marker="(2)">
               <content>Is an open-end credit plan as defined in Regulation Z, 12 CFR 1026.2(a)(20), but without regard to whether the credit is consumer credit, as defined in § 1026.2(a)(12), is extended by a creditor, as defined in § 1026.2(a)(17), or is extended to a consumer, as defined in § 1026.2(a)(11).</content>
             </paragraph>
           </paragraph>
           <paragraph label="1003-2-p" marker="(p)">
-            <content>Refinancing means a closed-end mortgage loan or an open-end line of credit in which a new, dwelling-secured debt obligation satisfies and replaces an existing, dwelling-secured debt obligation by the same borrower.</content>
-          </paragraph>
+            <content><def term="refinancing">Refinancing</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> in which a new, <ref target="1003-2-f" reftype="term">dwelling</ref>-secured debt obligation satisfies and replaces an existing, <ref target="1003-2-f" reftype="term">dwelling</ref>-secured debt obligation by the same borrower.</content></paragraph>
           <paragraph label="1003-2-q" marker="(q)">
-            <content>Reverse mortgage means a closed-end mortgage loan or an open-end line of credit that is a reverse mortgage transaction as defined in Regulation Z, 12 CFR 1026.33(a), but without regard to whether the security interest is created in a principal dwelling.</content>
-          </paragraph>
+            <content><def term="reverse mortgage">Reverse mortgage</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is a reverse mortgage transaction as defined in Regulation Z, 12 CFR 1026.33(a), but without regard to whether the security interest is created in a principal <ref target="1003-2-f" reftype="term">dwelling</ref>.</content></paragraph>
         </paragraph>
       </section>
     <section label="1003-3" sectionNum="3">
@@ -907,8 +886,7 @@
             <content> Bureau interpretations that appear in the official commentary to Regulation B (Equal Credit Opportunity Act, <ref target="CFR:12-1002" reftype="external">12 CFR part 1002</ref>, Supplement I) are generally applicable to the definition of <ref target="1003-2-b" reftype="term">application</ref> under Regulation C. However, under Regulation C the definition of an <ref target="1003-2-b" reftype="term">application</ref> does not include prequalification requests.</content></interpParagraph>
 	    <interpParagraph label="1003-2-b-Interp-2" marker="2.">
 	      <title>Prequalification.</title>
-              <content>A prequalification request is a request by a prospective loan applicant (other than a request for preapproval) for a preliminary determination on whether the prospective loan applicant would likely qualify for credit under an institution's standards, or for a determination on the amount of credit for which the prospective applicant would likely qualify. Some institutions evaluate prequalification requests through a procedure that is separate from the institution's normal loan <ref target="1003-2-b" reftype="term">application</ref> process; others use the same process. In either case, Regulation C does not require an institution to report prequalification requests on the <ref target="1003-2-k" reftype="term">loan/application register</ref>, even though these requests may constitute <ref target="1003-2-b" reftype="term">applications</ref> under Regulation B for purposes of adverse action notices.</content>
-	    </interpParagraph>
+              <content>A prequalification request is a request by a prospective loan applicant (other than a <ref target="1003-2-b-2" reftype="term">request for preapproval</ref>) for a preliminary determination on whether the prospective loan applicant would likely qualify for credit under an institution's standards, or for a determination on the amount of credit for which the prospective applicant would likely qualify. Some institutions evaluate prequalification requests through a procedure that is separate from the institution's normal loan <ref target="1003-2-b" reftype="term">application</ref> process; others use the same process. In either case, Regulation C does not require an institution to report prequalification requests on the <ref target="1003-2-k" reftype="term">loan/application register</ref>, even though these requests may constitute <ref target="1003-2-b" reftype="term">applications</ref> under Regulation B for purposes of adverse action notices.</content></interpParagraph>
 	    <interpParagraph label="1003-2-b-Interp-3" marker="3.">
 	      <title>Requests for preapproval.</title>
               <content>To be a preapproval program as defined in § <ref target="1003-2-b-2" reftype="internal">1003.2(b)(2)</ref>, the written commitment issued under the program must result from a comprehensive review of the creditworthiness of the applicant, including such verification of income, resources, and other matters as is typically done by the institution as part of its normal credit evaluation program. In addition to conditions involving the identification of a suitable property and verification that no material change has occurred in the applicant's financial condition or creditworthiness, the written commitment may be subject only to other conditions (unrelated to the financial condition or creditworthiness of the applicant) that the lender ordinarily attaches to a traditional home mortgage <ref target="1003-2-b" reftype="term">application</ref> approval. These conditions are limited to conditions such as requiring an acceptable title insurance binder or a certificate indicating clear termite inspection, and, in the case where the applicant plans to use the proceeds from the sale of the applicant's present home to purchase a new home, a settlement statement showing adequate proceeds from the sale of the present home. Regardless of its name, a program that satisfies the definition of a preapproval program in § <ref target="1003-2-b-2" reftype="internal">1003.2(b)(2)</ref> is a preapproval program for purposes of Regulation C. Conversely, a program that a <ref target="1003-2-g" reftype="term">financial institution</ref> describes as a “preapproval program” that does not satisfy the requirements of § <ref target="1003-2-b-2" reftype="internal">1003.2(b)(2)</ref> is not a preapproval program for purposes of Regulation C. If a <ref target="1003-2-g" reftype="term">financial institution</ref> does not regularly use the procedures specified in § <ref target="1003-2-b-2" reftype="internal">1003.2(b)(2)</ref>, but instead considers requests for preapprovals on an ad hoc basis, the <ref target="1003-2-g" reftype="term">financial institution</ref> need not treat ad hoc requests as part of a preapproval program for purposes of Regulation C. A <ref target="1003-2-g" reftype="term">financial institution</ref> should, however, be generally consistent in following uniform procedures for considering such ad hoc requests.</content>
