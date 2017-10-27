@@ -409,69 +409,76 @@
             <paragraph label="1003-A-h2-h3-1" marker="1.">
               <content><ref target="1003-2-Application" reftype="term">Application</ref> or Loan Number. Enter an identifying loan number that can be used later to retrieve the loan or <ref target="1003-2-Application" reftype="term">application</ref> file. It can be any number of your institution's choosing (not exceeding 25 characters). You may use letters, numerals, or a combination of both.</content></paragraph>
             <paragraph label="1003-A-h2-h3-2" marker="2.">
-              <content>Date <ref target="1003-2-Application" reftype="term">Application</ref> Received. Enter the date the loan <ref target="1003-2-Application" reftype="term">application</ref> was received by your institution by month, day, and year. If your institution normally records the date shown on the <ref target="1003-2-Application" reftype="term">application</ref> form you may use that date instead. Enter “NA” for loans purchased by your institution. For paper submissions only, use numerals in the form MM/DD/YYYY (for example, 01/15/2003). For submissions in electronic form, the proper format is YYYYMMDD.</content></paragraph>
+              <content>Date <ref target="1003-2-Application" reftype="term">Application</ref> Received. Enter the date the loan <ref target="1003-2-Application" reftype="term">application</ref> was received by your institution by month, day, and year. If your institution normally records the date shown on the <ref target="1003-2-Application" reftype="term">application</ref> form you may use that date instead. Enter “NA” for loans purchased by your institution. For paper submissions only, use numerals in the form MM/DD/YYYY (for example, 01/15/2003). For submissions in electronic form, the proper format is YYYYMMDD.</content>
+	    </paragraph>
             <paragraph label="1003-A-h2-h3-3" marker="3.">
-              <content>Type of Loan or <ref target="1003-2-Application" reftype="term">Application</ref>. Indicate the type of loan or <ref target="1003-2-Application" reftype="term">application</ref> by entering the applicable Code from the following:</content></paragraph>
-            <paragraph label="1003-A-h2-h3-p2" marker="">
-              <content>Code 1—Conventional (any loan other than FHA, VA, FSA, or RHS loans)</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h3-p3" marker="">
-              <content>Code 2—FHA-insured (Federal Housing Administration)</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h3-p4" marker="">
-              <content>Code 3—VA-guaranteed (Veterans Administration)</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h3-p5" marker="">
-              <content>Code 4—FSA/RHS-guaranteed (Farm Service Agency or Rural Housing Service)</content>
-            </paragraph>
+	      <content>Type of Loan or <ref target="1003-2-Application" reftype="term">Application</ref>. Indicate the type of loan or <ref target="1003-2-Application" reftype="term">application</ref> by entering the applicable Code from the following:</content>
+	      <paragraph label="1003-A-h2-h3-p2" marker="">
+		<content>Code 1—Conventional (any loan other than FHA, VA, FSA, or RHS loans)</content>
+	      </paragraph>
+	      <paragraph label="1003-A-h2-h3-p3" marker="">
+		<content>Code 2—FHA-insured (Federal Housing Administration)</content>
+	      </paragraph>
+	      <paragraph label="1003-A-h2-h3-p4" marker="">
+		<content>Code 3—VA-guaranteed (Veterans Administration)</content>
+	      </paragraph>
+	      <paragraph label="1003-A-h2-h3-p5" marker="">
+		<content>Code 4—FSA/RHS-guaranteed (Farm Service Agency or Rural Housing Service)</content>
+	      </paragraph>
+	    </paragraph>
             <paragraph label="1003-A-h2-h3-4" marker="4.">
               <content>Property Type. Indicate the property type by entering the applicable Code from the following:</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h3-p6" marker="">
+              <paragraph label="1003-A-h2-h3-p6" marker="">
               <content>Code 1—One-to four-family <ref target="1003-2-Dwelling" reftype="term">dwelling</ref> (other than manufactured housing)</content></paragraph>
-            <paragraph label="1003-A-h2-h3-p7" marker="">
-              <content>Code 2—Manufactured housing</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h3-p8" marker="">
-              <content>Code 3—Multifamily <ref target="1003-2-Dwelling" reftype="term">dwelling</ref></content><paragraph label="1003-A-h2-h3-p8-a" marker="a.">
+              <paragraph label="1003-A-h2-h3-p7" marker="">
+		<content>Code 2—Manufactured housing</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-p8" marker="">
+		<content>Code 3—Multifamily <ref target="1003-2-Dwelling" reftype="term">dwelling</ref></content><paragraph label="1003-A-h2-h3-p8-a" marker="a.">
                 <content>Use Code 1, not Code 3, for loans on individual condominium or cooperative units.</content>
               </paragraph>
               <paragraph label="1003-A-h2-h3-p8-b" marker="b.">
                 <content>If you cannot determine (despite reasonable efforts to find out) whether the loan or <ref target="1003-2-Application" reftype="term">application</ref> relates to a <ref target="1003-2-ManufacturedHome" reftype="term">manufactured home</ref>, use Code 1.</content>
-                </paragraph>
-            </paragraph>
+              </paragraph>
+              </paragraph>
+	    </paragraph>
             <paragraph label="1003-A-h2-h3-5" marker="5.">
-              <content>Purpose of Loan or <ref target="1003-2-Application" reftype="term">Application</ref>. Indicate the purpose of the loan or <ref target="1003-2-Application" reftype="term">application</ref> by entering the applicable Code from the following:</content></paragraph>
-            <paragraph label="1003-A-h2-h3-p9" marker="">
-              <content>Code 1—Home purchase</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h3-p10" marker="">
-              <content>Code 2—Home improvement</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h3-p11" marker="">
-              <content>Code 3—<ref target="1003-2-Refinancing" reftype="term">Refinancing</ref></content><paragraph label="1003-A-h2-h3-p11-a" marker="a.">
+              <content>Purpose of Loan or <ref target="1003-2-Application" reftype="term">Application</ref>. Indicate the purpose of the loan or <ref target="1003-2-Application" reftype="term">application</ref> by entering the applicable Code from the following:</content>
+              <paragraph label="1003-A-h2-h3-p9" marker="">
+		<content>Code 1—Home purchase</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-p10" marker="">
+		<content>Code 2—Home improvement</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h3-p11" marker="">
+		<content>Code 3—<ref target="1003-2-Refinancing" reftype="term">Refinancing</ref></content><paragraph label="1003-A-h2-h3-p11-a" marker="a.">
                 <content>Do not report a <ref target="1003-2-Refinancing" reftype="term">refinancing</ref> if, under the loan agreement, you were unconditionally obligated to refinance the obligation, or you were obligated to refinance the obligation subject to conditions within the borrower's control.</content></paragraph>
-            </paragraph>
+              </paragraph>
+	    </paragraph>
             <paragraph label="1003-A-h2-h3-6" marker="6.">
               <content>Owner Occupancy. Indicate whether the property to which the loan or loan <ref target="1003-2-Application" reftype="term">application</ref> relates is to be owner-occupied as a principal residence by entering the applicable Code from the following:</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h3-p12" marker="">
-              <content>Code 1—Owner-occupied as a principal <ref target="1003-2-Dwelling" reftype="term">dwelling</ref></content></paragraph>
-            <paragraph label="1003-A-h2-h3-p13" marker="">
-              <content>Code 2—Not owner-occupied as a principal <ref target="1003-2-Dwelling" reftype="term">dwelling</ref></content></paragraph>
-            <paragraph label="1003-A-h2-h3-p14" marker="">
-              <content>Code 3—Not applicable</content>
-              <paragraph label="1003-A-h2-h3-p14-a" marker="a.">
-                <content>For purchased loans, use Code 1 unless the loan documents or <ref target="1003-2-Application" reftype="term">application</ref> indicate that the property will not be owner-occupied as a principal residence.</content>
+              <paragraph label="1003-A-h2-h3-p12" marker="">
+		<content>Code 1—Owner-occupied as a principal <ref target="1003-2-Dwelling" reftype="term">dwelling</ref></content>
+	      </paragraph>
+              <paragraph label="1003-A-h2-h3-p13" marker="">
+		<content>Code 2—Not owner-occupied as a principal <ref target="1003-2-Dwelling" reftype="term">dwelling</ref></content>
+	      </paragraph>
+              <paragraph label="1003-A-h2-h3-p14" marker="">
+		<content>Code 3—Not applicable</content>
+		<paragraph label="1003-A-h2-h3-p14-a" marker="a.">
+                  <content>For purchased loans, use Code 1 unless the loan documents or <ref target="1003-2-Application" reftype="term">application</ref> indicate that the property will not be owner-occupied as a principal residence.</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h3-p14-b" marker="b.">
+                  <content>Use Code 2 for second homes or vacation homes, as well as for rental properties.</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h3-p14-c" marker="c.">
+                  <content>Use Code 3 if the property to which the loan relates is a multifamily <ref target="1003-2-Dwelling" reftype="term">dwelling</ref>; is not located in an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>; or is located in an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> or an <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref> in which your institution has neither a home nor a <ref target="1003-2-BranchOffice" reftype="term">branch office</ref>. Alternatively, at your institution's option, you may report the actual occupancy status, using Code 1 or 2 as applicable.</content>
+		</paragraph>
               </paragraph>
-              <paragraph label="1003-A-h2-h3-p14-b" marker="b.">
-                <content>Use Code 2 for second homes or vacation homes, as well as for rental properties.</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h3-p14-c" marker="c.">
-                <content>Use Code 3 if the property to which the loan relates is a multifamily <ref target="1003-2-Dwelling" reftype="term">dwelling</ref>; is not located in an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>; or is located in an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> or an <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref> in which your institution has neither a home nor a <ref target="1003-2-BranchOffice" reftype="term">branch office</ref>. Alternatively, at your institution's option, you may report the actual occupancy status, using Code 1 or 2 as applicable.</content></paragraph>
-            </paragraph>
+	    </paragraph>
             <paragraph label="1003-A-h2-h3-7" marker="7.">
-              <content>Loan Amount. Enter the amount of the loan or <ref target="1003-2-Application" reftype="term">application</ref>. Do not report loans below $500. Show the amount in thousands, rounding to the nearest thousand (round $500 up to the next $1,000). For example, a loan for $167,300 should be entered as 167 and one for $15,500 as 16.</content><paragraph label="1003-A-h2-h3-7-a" marker="a.">
+              <content>Loan Amount. Enter the amount of the loan or <ref target="1003-2-Application" reftype="term">application</ref>. Do not report loans below $500. Show the amount in thousands, rounding to the nearest thousand (round $500 up to the next $1,000). For example, a loan for $167,300 should be entered as 167 and one for $15,500 as 16.</content>
+	      <paragraph label="1003-A-h2-h3-7-a" marker="a.">
                 <content>For a <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loan</ref> that you originated, enter the principal amount of the loan.</content></paragraph>
               <paragraph label="1003-A-h2-h3-7-b" marker="b.">
                 <content>For a <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loan</ref> that you purchased, enter the unpaid principal balance of the loan at the time of purchase.</content></paragraph>
@@ -487,65 +494,66 @@
               </paragraph>
             </paragraph>
             <paragraph label="1003-A-h2-h3-8" marker="8.">
-              <content>Request for Preapproval of a Home Purchase Loan. Indicate whether the <ref target="1003-2-Application" reftype="term">application</ref> or loan involved a request for preapproval of a <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loan</ref> by entering the applicable Code from the following:</content></paragraph>
-            <paragraph label="1003-A-h2-h3-p15" marker="">
-              <content>Code 1—Preapproval requested</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h3-p16" marker="">
-              <content>Code 2—Preapproval not requested</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h3-p17" marker="">
-              <content>Code 3—Not applicable</content>
-              <paragraph label="1003-A-h2-h3-p17-a" marker="a.">
-                <content>Enter Code 2 if your institution has a covered preapproval program but the applicant does not request a preapproval.</content>
+              <content>Request for Preapproval of a Home Purchase Loan. Indicate whether the <ref target="1003-2-Application" reftype="term">application</ref> or loan involved a request for preapproval of a <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loan</ref> by entering the applicable Code from the following:</content>
+              <paragraph label="1003-A-h2-h3-p15" marker="">
+		<content>Code 1—Preapproval requested</content>
               </paragraph>
-              <paragraph label="1003-A-h2-h3-p17-b" marker="b.">
-                <content>Enter Code 3 if your institution does not have a preapproval program as defined in § <ref target="1003-2" reftype="internal">1003.2</ref>.</content>
+              <paragraph label="1003-A-h2-h3-p16" marker="">
+		<content>Code 2—Preapproval not requested</content>
               </paragraph>
-              <paragraph label="1003-A-h2-h3-p17-c" marker="c.">
+              <paragraph label="1003-A-h2-h3-p17" marker="">
+		<content>Code 3—Not applicable</content>
+		<paragraph label="1003-A-h2-h3-p17-a" marker="a.">
+                  <content>Enter Code 2 if your institution has a covered preapproval program but the applicant does not request a preapproval.</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h3-p17-b" marker="b.">
+                  <content>Enter Code 3 if your institution does not have a preapproval program as defined in § <ref target="1003-2" reftype="internal">1003.2</ref>.</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h3-p17-c" marker="c.">
                 <content>Enter Code 3 for <ref target="1003-2-Application" reftype="term">applications</ref> or loans for home improvement or <ref target="1003-2-Refinancing" reftype="term">refinancing</ref>, and for purchased loans.</content></paragraph>
+              </paragraph>
             </paragraph>
-          </paragraph>
+	  </paragraph>
           <paragraph label="1003-A-h2-h4" marker="">
             <title>B. Action Taken</title>
             <content/>
             <paragraph label="1003-A-h2-h4-1" marker="1.">
               <content>Type of Action. Indicate the type of action taken on the <ref target="1003-2-Application" reftype="term">application</ref> or loan by using one of the following Codes.</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h4-p18" marker="">
-              <content>Code 1—Loan originated</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h4-p19" marker="">
+              <paragraph label="1003-A-h2-h4-p18" marker="">
+		<content>Code 1—Loan originated</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h4-p19" marker="">
               <content>Code 2—<ref target="1003-2-Application" reftype="term">Application</ref> approved but not accepted</content></paragraph>
-            <paragraph label="1003-A-h2-h4-p20" marker="">
+              <paragraph label="1003-A-h2-h4-p20" marker="">
               <content>Code 3—<ref target="1003-2-Application" reftype="term">Application</ref> denied</content></paragraph>
-            <paragraph label="1003-A-h2-h4-p21" marker="">
+              <paragraph label="1003-A-h2-h4-p21" marker="">
               <content>Code 4—<ref target="1003-2-Application" reftype="term">Application</ref> withdrawn</content></paragraph>
-            <paragraph label="1003-A-h2-h4-p22" marker="">
-              <content>Code 5—File closed for incompleteness</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h4-p23" marker="">
-              <content>Code 6—Loan purchased by your institution</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h4-p24" marker="">
-              <content>Code 7—Preapproval request denied</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h4-p25" marker="">
-              <content>Code 8—Preapproval request approved but not accepted (optional reporting)</content>
-              <paragraph label="1003-A-h2-h4-p25-a" marker="a.">
-                <content>Use Code 1 for a loan that is originated, including one resulting from a request for preapproval.</content>
+              <paragraph label="1003-A-h2-h4-p22" marker="">
+		<content>Code 5—File closed for incompleteness</content>
               </paragraph>
-              <paragraph label="1003-A-h2-h4-p25-b" marker="b.">
-                <content>For a counteroffer (your offer to the applicant to make the loan on different terms or in a different amount from the terms or amount applied for), use Code 1 if the applicant accepts. Use Code 3 if the applicant turns down the counteroffer or does not respond.</content>
+              <paragraph label="1003-A-h2-h4-p23" marker="">
+		<content>Code 6—Loan purchased by your institution</content>
               </paragraph>
-              <paragraph label="1003-A-h2-h4-p25-c" marker="c.">
+              <paragraph label="1003-A-h2-h4-p24" marker="">
+		<content>Code 7—Preapproval request denied</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h4-p25" marker="">
+		<content>Code 8—Preapproval request approved but not accepted (optional reporting)</content>
+		<paragraph label="1003-A-h2-h4-p25-a" marker="a.">
+                  <content>Use Code 1 for a loan that is originated, including one resulting from a request for preapproval.</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h4-p25-b" marker="b.">
+                  <content>For a counteroffer (your offer to the applicant to make the loan on different terms or in a different amount from the terms or amount applied for), use Code 1 if the applicant accepts. Use Code 3 if the applicant turns down the counteroffer or does not respond.</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h4-p25-c" marker="c.">
                 <content>Use Code 2 when the <ref target="1003-2-Application" reftype="term">application</ref> is approved but the applicant (or the loan broker or correspondent) fails to respond to your notification of approval or your commitment letter within the specified time. Do not use this Code for a preapproval request.</content></paragraph>
-              <paragraph label="1003-A-h2-h4-p25-d" marker="d.">
+		<paragraph label="1003-A-h2-h4-p25-d" marker="d.">
                 <content>Use Code 4 only when the <ref target="1003-2-Application" reftype="term">application</ref> is expressly withdrawn by the applicant before a credit decision is made. Do not use Code 4 if a request for preapproval is withdrawn; preapproval requests that are withdrawn are not reported under HMDA.</content></paragraph>
-              <paragraph label="1003-A-h2-h4-p25-e" marker="e.">
-                <content>Use Code 5 if you sent a written notice of incompleteness under § 1002.9(c)(2) of Regulation B (Equal Credit Opportunity) and the applicant did not respond to your request for additional information within the period of time specified in your notice. Do not use this Code for requests for preapproval that are incomplete; these preapproval requests are not reported under HMDA.</content>
+		<paragraph label="1003-A-h2-h4-p25-e" marker="e.">
+                  <content>Use Code 5 if you sent a written notice of incompleteness under § 1002.9(c)(2) of Regulation B (Equal Credit Opportunity) and the applicant did not respond to your request for additional information within the period of time specified in your notice. Do not use this Code for requests for preapproval that are incomplete; these preapproval requests are not reported under HMDA.</content>
+		</paragraph>
               </paragraph>
-            </paragraph>
+	    </paragraph>
             <paragraph label="1003-A-h2-h4-2" marker="2.">
               <content>Date of Action. For paper submissions only, enter the date by month, day, and year, using numerals in the form MM/DD/YYYY (for example, 02/22/2003). For submissions in electronic form, the proper format is YYYYMMDD.</content>
               <paragraph label="1003-A-h2-h4-2-a" marker="a.">
@@ -593,7 +601,8 @@
             <paragraph label="1003-A-h2-h6-p27" marker="">
               <content>Appendix <ref target="1003-B" reftype="internal">B</ref> contains instructions for the collection of data on ethnicity, race, and sex, and also contains a sample form for data collection.</content>
               <paragraph label="1003-A-h2-h6-p27-1" marker="1.">
-                <content>Applicability. Report this information for loans that you originate as well as for <ref target="1003-2-Application" reftype="term">applications</ref> that do not result in an origination.</content><paragraph label="1003-A-h2-h6-p27-1-a" marker="a.">
+                <content>Applicability. Report this information for loans that you originate as well as for <ref target="1003-2-Application" reftype="term">applications</ref> that do not result in an origination.</content>
+		<paragraph label="1003-A-h2-h6-p27-1-a" marker="a.">
                   <content>You need not collect or report this information for loans purchased. If you choose not to report this information, use the Codes for “not applicable.”</content>
                 </paragraph>
                 <paragraph label="1003-A-h2-h6-p27-1-b" marker="b.">
@@ -601,80 +610,85 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1003-A-h2-h6-p27-2" marker="2.">
-                <content>Mail, Internet, or Telephone <ref target="1003-2-Application" reftype="term">Applications</ref>.—All loan <ref target="1003-2-Application" reftype="term">applications</ref>, including <ref target="1003-2-Application" reftype="term">applications</ref> taken by mail, internet, or telephone must use a collection form similar to that shown in Appendix <ref target="1003-B" reftype="internal">B</ref> regarding ethnicity, race, and sex. For <ref target="1003-2-Application" reftype="term">applications</ref> taken by telephone, the information in the collection form must be stated orally by the lender, except for information that pertains uniquely to <ref target="1003-2-Application" reftype="term">applications</ref> taken in writing. If the applicant does not provide these data in an <ref target="1003-2-Application" reftype="term">application</ref> taken by mail or telephone or on the internet, enter the Code for “information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref>” specified in paragraphs <ref target="1003-A-h2-h6-p27-3" reftype="internal">I.D.3.</ref>, <ref target="1003-A-h2-h6-p27-4" reftype="internal">4</ref>., and <ref target="1003-A-h2-h6-p27-5" reftype="internal">5</ref>. of this appendix. (See appendix <ref target="1003-B" reftype="internal">B</ref> for complete information on the collection of these data in mail, Internet, or telephone <ref target="1003-2-Application" reftype="term">applications</ref>.)</content></paragraph>
-              <paragraph label="1003-A-h2-h6-p27-3" marker="3.">
+                <content>Mail, Internet, or Telephone <ref target="1003-2-Application" reftype="term">Applications</ref>.—All loan <ref target="1003-2-Application" reftype="term">applications</ref>, including <ref target="1003-2-Application" reftype="term">applications</ref> taken by mail, internet, or telephone must use a collection form similar to that shown in Appendix <ref target="1003-B" reftype="internal">B</ref> regarding ethnicity, race, and sex. For <ref target="1003-2-Application" reftype="term">applications</ref> taken by telephone, the information in the collection form must be stated orally by the lender, except for information that pertains uniquely to <ref target="1003-2-Application" reftype="term">applications</ref> taken in writing. If the applicant does not provide these data in an <ref target="1003-2-Application" reftype="term">application</ref> taken by mail or telephone or on the internet, enter the Code for “information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref>” specified in paragraphs <ref target="1003-A-h2-h6-p27-3" reftype="internal">I.D.3.</ref>, <ref target="1003-A-h2-h6-p27-4" reftype="internal">4</ref>., and <ref target="1003-A-h2-h6-p27-5" reftype="internal">5</ref>. of this appendix. (See appendix <ref target="1003-B" reftype="internal">B</ref> for complete information on the collection of these data in mail, Internet, or telephone <ref target="1003-2-Application" reftype="term">applications</ref>.)</content>
+	      </paragraph>
+	      <paragraph label="1003-A-h2-h6-p27-3" marker="3.">
                 <content>Ethnicity of Borrower or Applicant. Use the following Codes to indicate the ethnicity of the applicant or borrower under column “A” and of any co-applicant or co-borrower under column “CA.”</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p28" marker="">
-                <content>Code 1—Hispanic or Latino</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p29" marker="">
-                <content>Code 2—Not Hispanic or Latino</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p30" marker="">
+
+		<paragraph label="1003-A-h2-h6-p27-p28" marker="">
+                  <content>Code 1—Hispanic or Latino</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p29" marker="">
+                  <content>Code 2—Not Hispanic or Latino</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p30" marker="">
                 <content>Code 3—Information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref></content></paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p31" marker="">
-                <content>Code 4—Not applicable</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p32" marker="">
-                <content>Code 5—No co-applicant</content>
-              </paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p31" marker="">
+                  <content>Code 4—Not applicable</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p32" marker="">
+                  <content>Code 5—No co-applicant</content>
+		</paragraph>
+	      </paragraph>
               <paragraph label="1003-A-h2-h6-p27-4" marker="4.">
                 <content>Race of Borrower or Applicant. Use the following Codes to indicate the race of the applicant or borrower under column “A” and of any co-applicant or co-borrower under column “CA.”</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p33" marker="">
-                <content>Code 1—American Indian or Alaska Native</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p34" marker="">
-                <content>Code 2—Asian</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p35" marker="">
-                <content>Code 3—Black or African American</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p36" marker="">
-                <content>Code 4—Native Hawaiian or Other Pacific Islander</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p37" marker="">
-                <content>Code 5—White</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p38" marker="">
+		<paragraph label="1003-A-h2-h6-p27-p33" marker="">
+                  <content>Code 1—American Indian or Alaska Native</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p34" marker="">
+                  <content>Code 2—Asian</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p35" marker="">
+                  <content>Code 3—Black or African American</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p36" marker="">
+                  <content>Code 4—Native Hawaiian or Other Pacific Islander</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p37" marker="">
+                  <content>Code 5—White</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p38" marker="">
                 <content>Code 6—Information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref></content></paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p39" marker="">
-                <content>Code 7—Not applicable</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p40" marker="">
-                <content>Code 8—No co-applicant</content>
-                <paragraph label="1003-A-h2-h6-p27-p40-a" marker="a.">
-                  <content>If an applicant selects more than one racial designation, enter all Codes corresponding to the applicant's selections.</content>
-                </paragraph>
-                <paragraph label="1003-A-h2-h6-p27-p40-b" marker="b.">
-                  <content>Use Code 4 (for ethnicity) and Code 7 (for race) for “not applicable” only when the applicant or co-applicant is not a natural person or when applicant or co-applicant information is unavailable because the loan has been purchased by your institution.</content>
-                </paragraph>
-                <paragraph label="1003-A-h2-h6-p27-p40-c" marker="c.">
-                  <content>If there is more than one co-applicant, provide the required information only for the first co-applicant listed on the <ref target="1003-2-Application" reftype="term">application</ref> form. If there are no co-applicants or co-borrowers, use Code 5 (for ethnicity) and Code 8 (for race) for “no co-applicant” in the co-applicant column.</content></paragraph>
-              </paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p39" marker="">
+                  <content>Code 7—Not applicable</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p40" marker="">
+                  <content>Code 8—No co-applicant</content>
+                  <paragraph label="1003-A-h2-h6-p27-p40-a" marker="a.">
+                    <content>If an applicant selects more than one racial designation, enter all Codes corresponding to the applicant's selections.</content>
+                  </paragraph>
+                  <paragraph label="1003-A-h2-h6-p27-p40-b" marker="b.">
+                    <content>Use Code 4 (for ethnicity) and Code 7 (for race) for “not applicable” only when the applicant or co-applicant is not a natural person or when applicant or co-applicant information is unavailable because the loan has been purchased by your institution.</content>
+                  </paragraph>
+                  <paragraph label="1003-A-h2-h6-p27-p40-c" marker="c.">
+                    <content>If there is more than one co-applicant, provide the required information only for the first co-applicant listed on the <ref target="1003-2-Application" reftype="term">application</ref> form. If there are no co-applicants or co-borrowers, use Code 5 (for ethnicity) and Code 8 (for race) for “no co-applicant” in the co-applicant column.</content>
+		  </paragraph>
+		</paragraph>
+	      </paragraph>
               <paragraph label="1003-A-h2-h6-p27-5" marker="5.">
                 <content>Sex of Borrower or Applicant. Use the following Codes to indicate the sex of the applicant or borrower under column “A” and of any co-applicant or co-borrower under column “CA.”</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p41" marker="">
-                <content>Code 1—Male</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p42" marker="">
-                <content>Code 2—Female</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p43" marker="">
+
+		<paragraph label="1003-A-h2-h6-p27-p41" marker="">
+                  <content>Code 1—Male</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p42" marker="">
+                  <content>Code 2—Female</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p43" marker="">
                 <content>Code 3—Information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref></content></paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p44" marker="">
-                <content>Code 4—Not applicable</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h6-p27-p45" marker="">
-                <content>Code 5—No co-applicant or co-borrower</content>
-                <paragraph label="1003-A-h2-h6-p27-p45-a" marker="a.">
-                  <content>Use Code 4 for “not applicable” only when the applicant or co-applicant is not a natural person or when applicant or co-applicant information is unavailable because the loan has been purchased by your institution.</content>
-                </paragraph>
-                <paragraph label="1003-A-h2-h6-p27-p45-b" marker="b.">
-                  <content>If there is more than one co-applicant, provide the required information only for the first co-applicant listed on the <ref target="1003-2-Application" reftype="term">application</ref> form. If there are no co-applicants or co-borrowers, use Code 5 for “no co-applicant” in the co-applicant column.</content></paragraph>
-              </paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p44" marker="">
+                  <content>Code 4—Not applicable</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h6-p27-p45" marker="">
+                  <content>Code 5—No co-applicant or co-borrower</content>
+                  <paragraph label="1003-A-h2-h6-p27-p45-a" marker="a.">
+                    <content>Use Code 4 for “not applicable” only when the applicant or co-applicant is not a natural person or when applicant or co-applicant information is unavailable because the loan has been purchased by your institution.</content>
+                  </paragraph>
+                  <paragraph label="1003-A-h2-h6-p27-p45-b" marker="b.">
+                    <content>If there is more than one co-applicant, provide the required information only for the first co-applicant listed on the <ref target="1003-2-Application" reftype="term">application</ref> form. If there are no co-applicants or co-borrowers, use Code 5 for “no co-applicant” in the co-applicant column.</content>
+		  </paragraph>
+		</paragraph>
+	      </paragraph>
               <paragraph label="1003-A-h2-h6-p27-6" marker="6.">
                 <content>Income. Enter the gross annual income that your institution relied on in making the credit decision.</content>
                 <paragraph label="1003-A-h2-h6-p27-6-a" marker="a.">
@@ -696,80 +710,82 @@
             <content/>
             <paragraph label="1003-A-h2-h7-p46" marker="">
               <content>Enter the applicable Code to indicate whether a loan that your institution originated or purchased was then sold to a secondary market entity within the same calendar year:</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h7-p47" marker="">
-              <content>Code 0—Loan was not originated or was not sold in calendar year covered by register</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h7-p48" marker="">
-              <content>Code 1—Fannie Mae</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h7-p49" marker="">
-              <content>Code 2—Ginnie Mae</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h7-p50" marker="">
-              <content>Code 3—Freddie Mac</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h7-p51" marker="">
-              <content>Code 4—Farmer Mac</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h7-p52" marker="">
-              <content>Code 5—Private securitization</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h7-p53" marker="">
-              <content>Code 6—Commercial bank, savings bank, or savings association</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h7-p54" marker="">
-              <content>Code 7—Life insurance company, credit union, mortgage bank, or finance company</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h7-p55" marker="">
-              <content>Code 8—Affiliate institution</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h7-p56" marker="">
-              <content>Code 9—Other type of purchaser</content>
-              <paragraph label="1003-A-h2-h7-p56-a" marker="a.">
+              <paragraph label="1003-A-h2-h7-p47" marker="">
+		<content>Code 0—Loan was not originated or was not sold in calendar year covered by register</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p48" marker="">
+		<content>Code 1—Fannie Mae</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p49" marker="">
+		<content>Code 2—Ginnie Mae</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p50" marker="">
+		<content>Code 3—Freddie Mac</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p51" marker="">
+		<content>Code 4—Farmer Mac</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p52" marker="">
+		<content>Code 5—Private securitization</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p53" marker="">
+		<content>Code 6—Commercial bank, savings bank, or savings association</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p54" marker="">
+		<content>Code 7—Life insurance company, credit union, mortgage bank, or finance company</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p55" marker="">
+		<content>Code 8—Affiliate institution</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h7-p56" marker="">
+		<content>Code 9—Other type of purchaser</content>
+		<paragraph label="1003-A-h2-h7-p56-a" marker="a.">
                 <content>Use Code 0 for <ref target="1003-2-Application" reftype="term">applications</ref> that were denied, withdrawn, or approved but not accepted by the applicant; and for files closed for incompleteness.</content></paragraph>
-              <paragraph label="1003-A-h2-h7-p56-b" marker="b.">
-                <content>Use Code 0 if you originated or purchased a loan and did not sell it during that same calendar year. If you sell the loan in a succeeding year, you need not report the sale.</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h7-p56-c" marker="c.">
-                <content>Use Code 2 if you conditionally assign a loan to Ginnie Mae in connection with a mortgage-backed security transaction.</content>
-              </paragraph>
-              <paragraph label="1003-A-h2-h7-p56-d" marker="d.">
-                <content>Use Code 8 for loans sold to an institution affiliated with you, such as your subsidiary or a subsidiary of your parent corporation.</content>
+		<paragraph label="1003-A-h2-h7-p56-b" marker="b.">
+                  <content>Use Code 0 if you originated or purchased a loan and did not sell it during that same calendar year. If you sell the loan in a succeeding year, you need not report the sale.</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h7-p56-c" marker="c.">
+                  <content>Use Code 2 if you conditionally assign a loan to Ginnie Mae in connection with a mortgage-backed security transaction.</content>
+		</paragraph>
+		<paragraph label="1003-A-h2-h7-p56-d" marker="d.">
+                  <content>Use Code 8 for loans sold to an institution affiliated with you, such as your subsidiary or a subsidiary of your parent corporation.</content>
+		</paragraph>
               </paragraph>
             </paragraph>
-          </paragraph>
+	  </paragraph>
           <paragraph label="1003-A-h2-h8" marker="">
             <title>F. Reasons for Denial</title>
             <content/>
             <paragraph label="1003-A-h2-h8-1" marker="1.">
-              <content>You may report the reason for denial, and you may indicate up to three reasons, using the following Codes. Leave this column blank if the “action taken” on the <ref target="1003-2-Application" reftype="term">application</ref> is not a denial. For example, do not complete this column if the <ref target="1003-2-Application" reftype="term">application</ref> was withdrawn or the file was closed for incompleteness.</content></paragraph>
-            <paragraph label="1003-A-h2-h8-p57" marker="">
-              <content>Code 1—Debt-to-income ratio</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h8-p58" marker="">
-              <content>Code 2—Employment history</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h8-p59" marker="">
-              <content>Code 3—Credit history</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h8-p60" marker="">
-              <content>Code 4—Collateral</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h8-p61" marker="">
-              <content>Code 5—Insufficient cash (downpayment, closing costs)</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h8-p62" marker="">
-              <content>Code 6—Unverifiable information</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h8-p63" marker="">
+              <content>You may report the reason for denial, and you may indicate up to three reasons, using the following Codes. Leave this column blank if the “action taken” on the <ref target="1003-2-Application" reftype="term">application</ref> is not a denial. For example, do not complete this column if the <ref target="1003-2-Application" reftype="term">application</ref> was withdrawn or the file was closed for incompleteness.</content>
+	      
+              <paragraph label="1003-A-h2-h8-p57" marker="">
+		<content>Code 1—Debt-to-income ratio</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-p58" marker="">
+		<content>Code 2—Employment history</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-p59" marker="">
+		<content>Code 3—Credit history</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-p60" marker="">
+		<content>Code 4—Collateral</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-p61" marker="">
+		<content>Code 5—Insufficient cash (downpayment, closing costs)</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-p62" marker="">
+		<content>Code 6—Unverifiable information</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-p63" marker="">
               <content>Code 7—Credit <ref target="1003-2-Application" reftype="term">application</ref> incomplete</content></paragraph>
-            <paragraph label="1003-A-h2-h8-p64" marker="">
-              <content>Code 8—Mortgage insurance denied</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h8-p65" marker="">
-              <content>Code 9—Other</content>
-            </paragraph>
+              <paragraph label="1003-A-h2-h8-p64" marker="">
+		<content>Code 8—Mortgage insurance denied</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h8-p65" marker="">
+		<content>Code 9—Other</content>
+              </paragraph>
+	    </paragraph>
             <paragraph label="1003-A-h2-h8-2" marker="2.">
               <content>If your institution uses the model form for adverse action contained in appendix C to Regulation B (Form C-1, Sample Notification Form), use the foregoing Codes as follows:</content>
               <paragraph label="1003-A-h2-h8-2-a" marker="a.">
@@ -827,25 +843,26 @@
             <title>H. Lien Status</title>
             <content/>
             <paragraph label="1003-A-h2-h10-p66" marker="">
-              <content>Use the following Codes for loans that you originate and for <ref target="1003-2-Application" reftype="term">applications</ref> that do not result in an origination:</content></paragraph>
-            <paragraph label="1003-A-h2-h10-p67" marker="">
-              <content>Code 1—Secured by a first lien.</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h10-p68" marker="">
-              <content>Code 2—Secured by a subordinate lien.</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h10-p69" marker="">
-              <content>Code 3—Not secured by a lien.</content>
-            </paragraph>
-            <paragraph label="1003-A-h2-h10-p70" marker="">
-              <content>Code 4—Not applicable (purchased loan).</content>
-              <paragraph label="1003-A-h2-h10-p70-a" marker="a.">
+              <content>Use the following Codes for loans that you originate and for <ref target="1003-2-Application" reftype="term">applications</ref> that do not result in an origination:</content>
+              <paragraph label="1003-A-h2-h10-p67" marker="">
+		<content>Code 1—Secured by a first lien.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h10-p68" marker="">
+		<content>Code 2—Secured by a subordinate lien.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h10-p69" marker="">
+		<content>Code 3—Not secured by a lien.</content>
+              </paragraph>
+              <paragraph label="1003-A-h2-h10-p70" marker="">
+		<content>Code 4—Not applicable (purchased loan).</content>
+		<paragraph label="1003-A-h2-h10-p70-a" marker="a.">
                 <content>Use Codes 1 through 3 for loans that you originate, as well as for <ref target="1003-2-Application" reftype="term">applications</ref> that do not result in an origination (<ref target="1003-2-Application" reftype="term">applications</ref> that are approved but not accepted, denied, withdrawn, or closed for incompleteness).</content></paragraph>
-              <paragraph label="1003-A-h2-h10-p70-b" marker="b.">
-                <content>Use Code 4 for loans that you purchase.</content>
+		<paragraph label="1003-A-h2-h10-p70-b" marker="b.">
+                  <content>Use Code 4 for loans that you purchase.</content>
+		</paragraph>
               </paragraph>
             </paragraph>
-          </paragraph>
+	  </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="3" label="1003-A-h11">
           <subject>II. Appropriate Federal Agencies for HMDA Reporting</subject>
