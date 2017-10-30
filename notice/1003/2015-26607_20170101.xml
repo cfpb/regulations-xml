@@ -5,7 +5,7 @@
     <volume>8</volume>
     <date>2015-10-28</date>
     <originalDate>2015-10-28</originalDate>
-    <title></title>
+    <title/>
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
@@ -26,7 +26,7 @@
     </change>
     <change label="1003-2-FinancialInstitution-1-v" operation="added">
       <paragraph label="1003-2-FinancialInstitution-1-v" marker="(v)">
-        <content>In each of the two preceding calendar years, originated at least 25 home purchase loans, including refinancings of home purchase loans, that are not excluded from this part pursuant to &#167; 1003.4(d); and</content>
+        <content>In each of the two preceding calendar years, originated at least 25 home purchase loans, including refinancings of home purchase loans, that are not excluded from this part pursuant to § <ref target="1003-4-d" reftype="internal">1003.4(d)</ref>; and</content>
       </paragraph>
     </change>
   </changeset>
