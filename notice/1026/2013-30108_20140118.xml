@@ -23,6 +23,12 @@
     <change operation="modified" label="1026-35-c" subpath="title">
       <title>Appraisals—</title>
     </change>
+    <!-- the below change is to relabel an old reference to "state agency" with its new target -->
+    <change operation="modified" label="1026-35-c-1-i">
+      <paragraph label="1026-35-c-1-i" marker="(i)">
+	<content><def term="certified or licensed appraiser">Certified or licensed appraiser</def> means a <ref target="1026-2-a-22" reftype="term">person</ref> who is certified or licensed by the <ref target="1026-42-g-3" reftype="term">State agency</ref> in the <ref target="1026-2-a-26" reftype="term">State</ref> in which the property that secures the transaction is located, and who performs the appraisal in conformity with the Uniform Standards of Professional Appraisal Practice and the requirements applicable to appraisers in title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, as amended (<ref target="USC:12-3331" reftype="external">12 U.S.C. 3331</ref> et seq.), and any implementing regulations in effect at the time the appraiser signs the appraiser's certification.</content>
+      </paragraph>
+    </change>
     <change operation="modified" label="1026-35-c-1-ii">
       <paragraph label="1026-35-c-1-ii" marker="(ii)">
         <content><def term="credit risk">Credit risk</def> means the financial risk that a <ref target="1026-2-a-11" reftype="term">consumer</ref> will default on a loan.</content></paragraph>
@@ -36,6 +42,7 @@
       <paragraph label="1026-35-c-1-iv" marker="(iv)">
         <content><def term="manufacturer's invoice">Manufacturer's invoice</def> means a document issued by a manufacturer and provided with a <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref> to a retail dealer that separately details the wholesale (base) prices at the factory for specific models or series of <ref target="1026-35-c-1-iii" reftype="term">manufactured homes</ref> and itemized options (large appliances, built-in items and equipment), plus actual itemized charges for freight from the factory to the dealer’s lot or the homesite (including any rental of wheels and axles) and for any sales taxes to be paid by the dealer. The invoice may recite such prices and charges on an itemized basis or by stating an aggregate price or charge, as appropriate, for each category.</content></paragraph>
     </change>
+
     <!-- Add paragraphs (c)(1)(v) through (vii); -->
     <change operation="added" label="1026-35-c-1-v">
       <paragraph label="1026-35-c-1-v" marker="(v)">
