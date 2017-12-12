@@ -1586,23 +1586,20 @@
                   <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> complies with § <ref target="1003-4-a-9-i" reftype="internal">1003.4(a)(9)(i)</ref> by indicating that the requirement is not applicable if the property address of the property securing the <ref target="1003-2-e" reftype="term">covered loan</ref> is not known. For example, if the property did not have a property address at closing or if the applicant did not provide the property address of the property to the <ref target="1003-2-g" reftype="term">financial institution</ref> before the <ref target="1003-2-b" reftype="term">application</ref> was denied, withdrawn, or closed for incompleteness, the <ref target="1003-2-g" reftype="term">financial institution</ref> complies with § <ref target="1003-4-a-9-i" reftype="internal">1003.4(a)(9)(i)</ref> by indicating that the requirement is not applicable.</content>
                 </interpParagraph>
               </interpParagraph>
-              <interpParagraph label="1003-4-a-9-ii-Interp" target="1003-4-a-9-ii">
+              <interpParagraph label="1003-4-a-9-ii-B-Interp" target="1003-4-a-9-ii-B">
+                <title>Paragraph 4(a)(9)(ii)(B)</title>
                 <content/>
-                <interpParagraph label="1003-4-a-9-ii-B-Interp" target="1003-4-a-9-ii-B">
-                  <title>Paragraph 4(a)(9)(ii)(B)</title>
-                  <content/>
-                  <interpParagraph label="1003-4-a-9-ii-B-Interp-1" marker="1.">
-                    <title>General.</title>
-                    <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> complies by reporting the five-digit Federal Information Processing Standards (FIPS) numerical county code.</content>
-                  </interpParagraph>
+                <interpParagraph label="1003-4-a-9-ii-B-Interp-1" marker="1.">
+                  <title>General.</title>
+                  <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> complies by reporting the five-digit Federal Information Processing Standards (FIPS) numerical county code.</content>
                 </interpParagraph>
-                <interpParagraph label="1003-4-a-9-ii-C-Interp" target="1003-4-a-9-ii-C">
-                  <title>Paragraph 4(a)(9)(ii)(C)</title>
-                  <content/>
-                  <interpParagraph label="1003-4-a-9-ii-C-Interp-1" marker="1.">
-                    <title>General.</title>
-                    <content>Census tract numbers are defined by the U.S. Census Bureau. A <ref target="1003-2-g" reftype="term">financial institution</ref> complies with § <ref target="1003-4-a-9-ii-C" reftype="internal">1003.4(a)(9)(ii)(C)</ref> if it uses the boundaries and codes in effect on January 1 of the calendar year covered by the <ref target="1003-2-k" reftype="term">loan/application register</ref> that it is reporting.</content>
-                  </interpParagraph>
+              </interpParagraph>
+              <interpParagraph label="1003-4-a-9-ii-C-Interp" target="1003-4-a-9-ii-C">
+                <title>Paragraph 4(a)(9)(ii)(C)</title>
+                <content/>
+                <interpParagraph label="1003-4-a-9-ii-C-Interp-1" marker="1.">
+                  <title>General.</title>
+                  <content>Census tract numbers are defined by the U.S. Census Bureau. A <ref target="1003-2-g" reftype="term">financial institution</ref> complies with § <ref target="1003-4-a-9-ii-C" reftype="internal">1003.4(a)(9)(ii)(C)</ref> if it uses the boundaries and codes in effect on January 1 of the calendar year covered by the <ref target="1003-2-k" reftype="term">loan/application register</ref> that it is reporting.</content>
                 </interpParagraph>
               </interpParagraph>
             </interpParagraph>
