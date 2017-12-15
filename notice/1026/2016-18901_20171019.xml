@@ -9,6 +9,7 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>Z</regLetter>
     <cfr>
       <title>12</title>
       <section>1026</section>
@@ -17,7 +18,7 @@
     <effectiveDate>2017-10-19</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/documents/2016/10/19/2016-18901/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2016-24503" rightDocumentNumber="2016-18901">
+  <changeset leftDocumentNumber="2017-15764" rightDocumentNumber="2016-18901">
     <change operation="modified" label="1026-2-a-11">
       <paragraph label="1026-2-a-11" marker="(11)">
         <content>Consumer means a cardholder or natural <ref target="1026-2-a-22" reftype="term">person</ref> to whom <ref target="1026-2-a-12" reftype="term">consumer credit</ref> is offered or extended. However, for purposes of rescission under §§ <ref target="1026-15" reftype="internal">1026.15</ref> and <ref target="1026-23" reftype="internal">1026.23</ref>, the term also includes a natural <ref target="1026-2-a-22" reftype="term">person</ref> in whose principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> a <ref target="1026-2-a-25" reftype="term">security interest</ref> is or will be retained or acquired, if that <ref target="1026-2-a-22" reftype="term">person</ref>'s ownership interest in the <ref target="1026-2-a-19" reftype="term">dwelling</ref> is or will be subject to the <ref target="1026-2-a-25" reftype="term">security interest</ref>.</content>
