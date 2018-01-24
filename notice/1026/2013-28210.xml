@@ -1848,12 +1848,14 @@
             <paragraph label="1026-38-i-6-iii" marker="(iii)">
               <content>Under the subheading “Did this change?,” disclosed more prominently than the other disclosures under this paragraph (i)(6):</content>
               <paragraph label="1026-38-i-6-iii-A" marker="(A)">
-                <content>If the amount disclosed under paragraph (i)(6)(ii) of this section is different than the amount disclosed under paragraph (i)(6)(i) of this section (unless the difference is due to rounding), a statement of that fact, along with a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s available funds from the <ref target="1026-43-b-5" reftype="term">loan amount</ref> have increased or decreased, as applicable; or</content></paragraph>
+              <content>If the amount disclosed under paragraph (i)(6)(ii) of this section is different than the amount disclosed under paragraph (i)(6)(i) of this section (unless the difference is due to rounding), a statement of that fact, along with a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s available funds from the <ref target="1026-43-b-5" reftype="term">loan amount</ref> have increased or decreased, as applicable; or</content></paragraph>
               <paragraph label="1026-38-i-6-iii-B" marker="(B)">
                 <content>If the amount disclosed under paragraph (i)(6)(ii) of this section is equal to the amount disclosed under paragraph (i)(6)(i) of this section, a statement of that fact.</content>
               </paragraph>
-             <paragraph label="1026-38-i-6-iv" marker="(iv)">
-              <content>The “Funds from Borrower” to be disclosed under paragraph (i)(4)(ii)(B) of this section and “Funds for Borrower” to be disclosed under paragraph (i)(6)(ii) of this section are determined by subtracting the principal amount of the <ref target="1026-2-a-14" reftype="term">credit</ref> extended (excluding any amount disclosed pursuant to paragraph (i)(3)(ii) of this section) from the total amount of all existing debt being satisfied in the real estate closing and disclosed under paragraph (j)(1)(v) of this section (except to the extent the satisfaction of such existing debt is disclosed under paragraph (g) of this section).</content><paragraph label="1026-38-i-6-iv-A" marker="(A)">
+	    </paragraph>
+            <paragraph label="1026-38-i-6-iv" marker="(iv)">
+              <content>The “Funds from Borrower” to be disclosed under paragraph (i)(4)(ii)(B) of this section and “Funds for Borrower” to be disclosed under paragraph (i)(6)(ii) of this section are determined by subtracting the principal amount of the <ref target="1026-2-a-14" reftype="term">credit</ref> extended (excluding any amount disclosed pursuant to paragraph (i)(3)(ii) of this section) from the total amount of all existing debt being satisfied in the real estate closing and disclosed under paragraph (j)(1)(v) of this section (except to the extent the satisfaction of such existing debt is disclosed under paragraph (g) of this section).</content>
+	      <paragraph label="1026-38-i-6-iv-A" marker="(A)">
                 <content>If the calculation under this paragraph (i)(6)(iv) yields an amount that is a positive number, such amount shall be disclosed under paragraph (i)(4)(ii)(B) of this section, and $0 shall be disclosed under paragraph (i)(6)(ii) of this section.</content>
               </paragraph>
               <paragraph label="1026-38-i-6-iv-B" marker="(B)">
@@ -1862,7 +1864,6 @@
               <paragraph label="1026-38-i-6-iv-C" marker="(C)">
                 <content>If the calculation under this paragraph (i)(6)(iv) yields $0, $0 shall be disclosed under paragraph (i)(4)(ii)(B) of this section and under paragraph (i)(6)(ii) of this section.</content>
               </paragraph>
-            </paragraph>
             </paragraph>
           </paragraph>
           <paragraph label="1026-38-i-7" marker="(7)">
@@ -1896,9 +1897,9 @@
               <content>Under the subheading “Did this change?,” disclosed more prominently than the other disclosures under this paragraph (i)(8):</content>
               <paragraph label="1026-38-i-8-iii-A" marker="(A)">
                 <content>If the amount disclosed under paragraph (i)(8)(ii) of this section is different than the amount disclosed under paragraph (i)(8)(i) of this section (unless the difference is due to rounding), a statement of that fact, along with a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> should see the details disclosed under paragraphs (j)(1)(v) through (x) and (j)(2)(vi) through (xi) of this section; or</content></paragraph>
-              <paragraph label="1026-38-i-8-iii-B" marker="(B)">
-                <content>If the amount disclosed under paragraph (i)(8)(ii) of this section is equal to the amount disclosed under paragraph (i)(8)(i) of this section, a statement of that fact.</content>
-              </paragraph>
+		<paragraph label="1026-38-i-8-iii-B" marker="(B)">
+                  <content>If the amount disclosed under paragraph (i)(8)(ii) of this section is equal to the amount disclosed under paragraph (i)(8)(i) of this section, a statement of that fact.</content>
+		</paragraph>
             </paragraph>
           </paragraph>
           <paragraph label="1026-38-i-9" marker="(9)">
@@ -6314,7 +6315,12 @@
               <content>Only transfer taxes paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> are disclosed on the Loan Estimate pursuant to § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref>. <ref target="1026-2-a-26" reftype="term">State</ref> and local government transfer taxes are governed by <ref target="1026-2-a-26" reftype="term">State</ref> or local law, which determines if the seller or <ref target="1026-2-a-11" reftype="term">consumer</ref> is ultimately responsible for paying the transfer taxes. For example, if <ref target="1026-2-a-26" reftype="term">State</ref> law indicates a lien can attach to the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s acquired property if the transfer tax is not paid, the transfer tax is disclosed. If <ref target="1026-2-a-26" reftype="term">State</ref> or local law is unclear or does not specifically attribute transfer taxes to the seller or the <ref target="1026-2-a-11" reftype="term">consumer</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> is in compliance with requirements of § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref> if the amount of the transfer tax disclosed is not less than the amount apportioned to the <ref target="1026-2-a-11" reftype="term">consumer</ref> using common practice in the locality of the property.</content></interpParagraph>
             <interpParagraph label="1026-37-g-1-Interp-5" marker="5.">
               <title type="keyterm">Transfer taxes—seller.</title>
-              <content>Transfer taxes paid by the seller in a purchase transaction are not disclosed on the Loan Estimate under § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref>, but are disclosed on the Closing Disclosure pursuant to § <ref target="1026-38-g-1-ii" reftype="internal">1026.38(g)(1)(ii)</ref>. 6. Deletion and addition of items. The lines and labels required by § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref> may not be deleted, even if recording fees or transfer taxes are not charged to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. No additional items may be listed under the subheading in § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref>.</content></interpParagraph>
+              <content>Transfer taxes paid by the seller in a purchase transaction are not disclosed on the Loan Estimate under § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref>, but are disclosed on the Closing Disclosure pursuant to § <ref target="1026-38-g-1-ii" reftype="internal">1026.38(g)(1)(ii)</ref>.</content>
+	    </interpParagraph>
+	    <interpParagraph label="1026-37-g-1-Interp-6" marker="6.">
+	      <title>Deletion and addition of items.</title>
+	      <content>The lines and labels required by § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref> may not be deleted, even if recording fees or transfer taxes are not charged to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. No additional items may be listed under the subheading in § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref>.</content>
+	    </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-37-g-2-Interp" target="1026-37-g-2">
             <title>37(g)(2) Prepaids.</title>
