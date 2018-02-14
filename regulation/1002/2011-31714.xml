@@ -1279,8 +1279,9 @@
       </appendix>
       
       <interpretations label="1002-Interp">
-	<title>Supplement I to Part 1002&#8212;Official Interpretations</title>
+        <title>Supplement I to Part 1002-Official Interpretations</title>
         <interpSection label="1002-Interp-h1">
+          <title>Introduction</title>
           <interpParagraph marker="1." label="1002-Interp-h1-p1">
             <title>Official status</title>
             <content>Section 706(e) of the Equal Credit Opportunity Act protects a <ref target="1002-2-l" reftype="term">creditor</ref> from civil liability for any <ref target="1002-2-b" reftype="term">act</ref> done or omitted in <ref target="1002-2-r" reftype="term">good faith</ref> in conformity with an interpretation issued by a duly authorized official of the Bureau. This commentary is the means by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation B. Good-faith compliance with this commentary affords a <ref target="1002-2-l" reftype="term">creditor</ref> protection under section 706(e) of the Act.</content>
