@@ -58,7 +58,7 @@
       </paragraph>
     </change>
 
-    <!-- Appendix A to part 1002 is amended by revising paragraph 2.d to read as follows: -->
+    <!-- Appendix A to part 1002 is amended by revising paragraph 2.d to read as follows:
     <change operation="modified" label="1002-A-1">
       <appendixSection label="1002-A-1" appendixSecNum="1">
         <subject></subject>
@@ -66,6 +66,7 @@
             <content>Federal Credit Unions: National Credit Union Administration, Office of Consumer Protection, 1775 Duke Street, Alexandria, VA 22314.</content>
         </paragraph>
       </appendixSection>
-    </change>
+  </change>
+  -->
   </changeset>
 </notice>
