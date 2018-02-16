@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2017-11-09</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>CONSUMER LEASING</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>M</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1013</section>
+    </cfr>
+    <documentNumber>2017-24411</documentNumber>
+    <effectiveDate>2018-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2017/11/09/2017-24411/consumer-leasing-regulation-m</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2016-28710" rightDocumentNumber="2017-24411">
+
+    <!-- In supplement I to part 1013, under Section 1013.2—Definitions, -->
+    <!-- under 2(e)—Consumer Lease, paragraph 11 is revised, -->
+    <change operation="added" label="1013-2-e-Interp-11-ix" parent="1013-2-e-Interp-11" after="1013-2-e-Interp-11-viii">
+      <interpParagraph label="1013-2-e-Interp-11-ix" marker="ix.">
+        <content>From January 1, 2018 through December 31, 2018, the threshold amount is $55,800.</content>
+      </interpParagraph>
+    </change>
+  </changeset>
+</notice>
