@@ -3,10 +3,10 @@
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>BANKS AND BANKING</cfrTitleText>
-    <volume>76</volume>
+    <volume>8</volume>
     <date>2013-01-10</date>
-    <originalDate>2011-12-21</originalDate>
-    <title>Equal Credit Opportunity (Regulation B)</title>
+    <originalDate>2012-01-01</originalDate>
+    <title>EQUAL CREDIT OPPORTUNITY ACT</title>
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
@@ -19,41 +19,41 @@
     <effectiveDate>2014-01-10</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/documents/2013/10/01/2013-22752/amendments-to-the-2013-mortgage-rules-under-the-equal-credit-opportunity-act-regulation-b-real</federalRegisterURL>
   </preamble>
-  <changeset leftDocumentNumber="2011-31714" rightDocumentNumber="2013-22752">
+  <changeset leftDocumentNumber="2013-01384" rightDocumentNumber="2013-22752">
 
-    <!-- Supplement I to Part 1002—Official Interpretations 14(b)(3) Valuation. -->
-    <change operation="added" label="1002-14-b-3-Interp" parent="1002-14-b">
-      <paragraph label="1002-14-b-3-Interp" marker="3.">
-        <content>Valuation.</content>
+    <change operation="modified" label="1002-14-b-3">
+        <paragraph label="1002-14-b-3" marker="(3)">
+        <title type="keyterm">Valuation.</title>
+        <content>The term “<def term="valuation">valuation</def>” means any estimate of the value of a <ref target="1002-14    -b-2" reftype="term">dwelling</ref> developed in connection with an <ref target="1002-2-f" reftype="term">application</ref>     for <ref target="1002-2-j" reftype="term">credit</ref>.</content>
       </paragraph>
     </change>
 
-    <change operation="added" label="1002-14-b-3-Interp-1">
-      <paragraph label="1002-14-b-3-Interp-1" marker="1.">
+    <change operation="added" label="1002-14-b-3-1">
+      <paragraph label="1002-14-b-3-1" marker="1.">
         <content>VALUATIONS-EXAMPLES.</content>
       </paragraph>
     </change>
 
-    <change operation="added" label="1002-14-b-3-Interp-1-i" parent="1002-14-b-3-Interp-1">
-      <paragraph label="1002-14-b-3-Interp-1-i" marker="i.">
+    <change operation="added" label="1002-14-b-3-1-i" parent="1002-14-b-3-1">
+      <paragraph label="1002-14-b-3-1-i" marker="i.">
         <content>A report prepared by an appraiser (whether or not licensed or certified) including the appraiser's estimate of the property's value or opinion of value.</content>
       </paragraph>
     </change>
 
-    <change operation="added" label="1002-14-b-3-Interp-3">
-      <paragraph label="1002-14-b-3-Interp-3" marker="3.">
+    <change operation="added" label="1002-14-b-3-3">
+      <paragraph label="1002-14-b-3-3" marker="3.">
         <content>OTHER DOCUMENTATION.</content>
       </paragraph>
     </change>
 
-    <change operation="added" label="1002-14-b-3-Interp-3-v" parent="1002-14-b-3-Interp-3">
-      <paragraph label="1002-14-b-3-Interp-3-v" marker="v.">
+    <change operation="added" label="1002-14-b-3-3-v" parent="1002-14-b-3-3">
+      <paragraph label="1002-14-b-3-3-v" marker="v.">
         <content>Reports reflecting property inspections that do not provide an estimate of the value of the property and are not used to develop an estimate of the value of the property.</content>
       </paragraph>
     </change>
 
-    <change operation="added" label="1002-14-b-3-Interp-3-vi" parent="1002-14-b-3-Interp-3">
-      <paragraph label="1002-14-b-3-Interp-3-vi" marker="vi.">
+    <change operation="added" label="1002-14-b-3-3-vi" parent="1002-14-b-3-3">
+      <paragraph label="1002-14-b-3-3-vi" marker="vi.">
         <content>Appraisal reviews that do not include the appraiser's estimate of the property's value or opinion of value.</content>
       </paragraph>
     </change>
