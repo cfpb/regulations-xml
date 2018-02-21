@@ -1097,7 +1097,7 @@
               </paragraph>
               <paragraph label="1002-14-b-3" marker="(3)">
         <title type="keyterm">Valuation.</title>
-        <content>The term “<def term="valuation">valuation</def>” means any estimate of the value of a <ref target="1002-14    -b-2" reftype="term">dwelling</ref> developed in connection with an <ref target="1002-2-f" reftype="term">application</ref>     for <ref target="1002-2-j" reftype="term">credit</ref>.</content>
+        <content>The term “<def term="valuation">valuation</def>” means any estimate of the value of a <ref target="1002-14-b-2" reftype="term">dwelling</ref> developed in connection with an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref>.</content>
       </paragraph>
     </paragraph>
           </section>
@@ -1280,11 +1280,10 @@
               <title type="keyterm">Nonmember Insured Banks, Insured State Branches of Foreign Banks, and Insured State Savings Associations:</title>
               <content><ref target="1002-2-aa" reftype="term">State</ref> Branches of Foreign Banks, and Insured <ref target="1002-2-aa" reftype="term">State</ref> Savings Associations: FDIC Consumer Response Center, 1100 Walnut Street, Box #11, Kansas City, MO 64106.</content>
             </paragraph>
-            <paragraph label="1002-A-p1-2-d" marker="d.">
-              <title type="keyterm">Federal Credit Unions:</title>
-              <content><ref target="1002-2-j" reftype="term">Credit</ref> Unions: National <ref target="1002-2-j" reftype="term">Credit</ref> Union Administration, Office of Consumer Protection, 1775 Duke Street, Alexandria, VA 22314.</content>
-            </paragraph>
-          </paragraph>
+            <paragraph marker="d." label="1002-A-p1-2-d">
+        <content>Federal Credit Unions: National Credit Union Administration, Office of Consumer Protection, 1775 Duke Street, Alexandria, VA 22314.</content>
+      </paragraph>
+  </paragraph>
           <paragraph label="1002-A-p1-3" marker="3.">
             <title type="keyterm">Air carriers:</title>
             <content>Assistant General Counsel for Aviation Enforcement and Proceedings, Department of Transportation, 400 Seventh Street SW., Washington, DC 20590.</content>
