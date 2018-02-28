@@ -188,6 +188,9 @@
           </section>
           <section label="1002-2" sectionNum="2">
             <subject>§ 1002.2 Definitions.</subject>
+            <paragraph marker="">
+              <content>For the purposes of this part, unless the context indicates otherwise, the following definitions apply.</content>
+            </paragraph>
             <paragraph label="1002-2-a" marker="(a)">
               <content><def term="account">Account</def> means an <ref target="1002-2-q" reftype="term">extension of credit</ref>. When employed in relation to an account, the word use refers only to <ref target="1002-2-w" reftype="term">open-end credit</ref>.</content>
             </paragraph>
@@ -1255,56 +1258,47 @@
         <appendixTitle>Appendix A to Part 1002—Federal Agencies to be Listed in Adverse Action Notices</appendixTitle>
         <appendixSection appendixSecNum="1" label="1002-A-p1">
           <subject/>
+          <paragraph marker="">
+            <content>The following list indicates the Federal agency or agencies that should be listed in notices provided by creditors pursuant to § 1002.9(b)(1). Any questions concerning a particular creditor may be directed to such agencies. This list is not intended to describe agencies' enforcement authority for ECOA and Regulation B. Terms that are not defined in the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in the International Banking Act of 1978 (12 U.S.C. 3101).</content>
+          </paragraph>
           <paragraph label="1002-A-p1-1" marker="1.">
-            <title type="keyterm">Banks, savings associations, and credit unions with total assets of over $10 billion and their affiliates:</title>
-            <content><ref target="1002-2-j" reftype="term">credit</ref> unions with total assets of over $10 billion and their affiliates: Bureau of Consumer Financial Protection, 1700 G Street NW., Washington DC 20006. Such affiliates that are not banks, savings associations, or <ref target="1002-2-j" reftype="term">credit</ref> unions also should list, in addition to the Bureau: FTC Regional Office for region in which the <ref target="1002-2-l" reftype="term">creditor</ref> operates or Federal Trade Commission, Equal Credit Opportunity, Washington, DC 20580.</content>
+            <content>Banks, savings associations, and credit unions with total assets of over $10 billion and their affiliates: Bureau of Consumer Financial Protection, 1700 G Street NW., Washington DC 20006. Such affiliates that are not banks, savings associations, or <ref target="1002-2-j" reftype="term">credit</ref> unions also should list, in addition to the Bureau: FTC Regional Office for region in which the <ref target="1002-2-l" reftype="term">creditor</ref> operates or Federal Trade Commission, Equal Credit Opportunity, Washington, DC 20580.</content>
           </paragraph>
           <paragraph label="1002-A-p1-2" marker="2.">
             <content>To the extent not included in item 1 above:</content>
             <paragraph label="1002-A-p1-2-a" marker="a.">
-              <title type="keyterm">National banks, Federal savings associations, and Federal branches and Federal agencies of foreign banks:</title>
-              <content>Office of the Controller of the Currency, Customer Assistance Group, 1301 McKinney Street, Suite 3450, Houston, TX 77010-9050</content>
+              <content>National banks, Federal savings associations, and Federal branches and Federal agencies of foreign banks: Office of the Controller of the Currency, Customer Assistance Group, 1301 McKinney Street, Suite 3450, Houston, TX 77010-9050</content>
             </paragraph>
             <paragraph label="1002-A-p1-2-b" marker="b.">
-              <title type="keyterm">State member banks, branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured state branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act:</title>
-              <content><ref target="1002-2-aa" reftype="term">State</ref><ref target="1002-2-aa" reftype="term">state</ref> branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act: Federal Reserve Consumer Help Center, P.O. Box 1200, Minneapolis, MN 55480.</content>
+              <content>State member banks, branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured s       tate branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of t       he Federal Reserve Act: Federal Reserve Consumer Help Center, P.O. Box 1200, Minneapolis, MN 55480.</content>
             </paragraph>
             <paragraph label="1002-A-p1-2-c" marker="c.">
-              <title type="keyterm">Nonmember Insured Banks, Insured State Branches of Foreign Banks, and Insured State Savings Associations:</title>
-              <content><ref target="1002-2-aa" reftype="term">State</ref> Branches of Foreign Banks, and Insured <ref target="1002-2-aa" reftype="term">State</ref> Savings Associations: FDIC Consumer Response Center, 1100 Walnut Street, Box #11, Kansas City, MO 64106.</content>
+              <content>Nonmember Insured Banks, Insured State Branches of Foreign Banks, and Insured State Savings Associations: FDIC Consumer Response Center, 1100 Walnut Street, Box #11, Kansas City, MO 64106.</content>
             </paragraph>
             <paragraph label="1002-A-p1-2-d" marker="d.">
-              <title type="keyterm">Federal Credit Unions:</title>
-              <content>Credit Unions: National Credit Union Administration, Office of Consumer Protection, 1775 Duke Street, Alexandria, VA 22314.</content>
+              <content>Federal Credit Unions: National Credit Union Administration, Office of Consumer Protection, 1775 Duke Street, Alexandria, VA 22314.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1002-A-p1-3" marker="3.">
-            <title type="keyterm">Air carriers:</title>
-            <content>Assistant General Counsel for Aviation Enforcement and Proceedings, Department of Transportation, 400 Seventh Street SW., Washington, DC 20590.</content>
+            <content>Air carriers: Assistant General Counsel for Aviation Enforcement and Proceedings, Department of Transportation, 400 Seventh Street SW., Washington, DC 20590.</content>
           </paragraph>
           <paragraph label="1002-A-p1-4" marker="4.">
-            <title type="keyterm">Creditors Subject to Surface Transportation Board:</title>
-            <content>Creditors Office of Proceedings, Surface Transportation Board, Department of Transportation, 1925 K Street NW., Washington, DC 20423.</content>
+            <content>Creditors Subject to Surface Transportation Board: Creditors Office of Proceedings, Surface Transportation Board, Department of Transportation, 1925 K Street NW., Washington, DC 20423.</content>
           </paragraph>
           <paragraph label="1002-A-p1-5" marker="5.">
-            <title type="keyterm">Creditors Subject to Packers and Stockyards Act:</title>
-            <content>Creditors Act: Nearest Packers and Stockyards Administration area supervisor.</content>
+            <content>Creditors Subject to Packers and Stockyards Act: Nearest Packers and Stockyards Administration area supervisor.</content>
           </paragraph>
           <paragraph label="1002-A-p1-6" marker="6.">
-            <title type="keyterm">Small Business Investment Companies:</title>
-            <content>Associate Deputy Administrator for Capital Access, United <ref target="1002-2-aa" reftype="term">States</ref> Small Business Administration, 409 Third Street SW., 8th Floor, Washington, DC 20416.</content>
+            <content>Small Business Investment Companies: Associate Deputy Administrator for Capital Access, United States Small Business Administration, 409 Third Street SW., 8th Floor, Washington, DC 20416.</content>
           </paragraph>
           <paragraph label="1002-A-p1-7" marker="7.">
-            <title type="keyterm">Brokers and Dealers:</title>
-            <content>Securities and Exchange Commission, Washington, DC 20549.</content>
+            <content>Brokers and Dealers: Securities and Exchange Commission, Washington, DC 20549.</content>
           </paragraph>
           <paragraph label="1002-A-p1-8" marker="8.">
-            <title type="keyterm">Federal Land Banks, Federal Land Bank Associations, Federal Intermediate Credit Banks, and Production Credit Associations:</title>
-            <content>Credit Banks, and Production Credit Associations: Farm Credit Administration, 1501 Farm Credit Drive, McLean, VA 22102-5090.</content>
+            <content>Federal Land Banks, Federal Land Bank Associations, Federal Intermediate Credit Banks, and Production Credit Associations: Farm Credit Administration, 1501 Farm Credit Drive, McLean, VA 22102-5090.</content>
           </paragraph>
           <paragraph label="1002-A-p1-9" marker="9.">
-            <title type="keyterm">Retailers, Finance Companies, and All Other Creditors Not Listed Above:</title>
-            <content><ref target="1002-2-l" reftype="term">Creditors</ref> Not Listed Above: FTC Regional Office for region in which the <ref target="1002-2-l" reftype="term">creditor</ref> operates or Federal Trade Commission, Equal Credit Opportunity, Washington, DC 20580.</content>
+            <content>Retailers, Finance Companies, and All Other Creditors Not Listed Above: FTC Regional Office for region in which the <ref target="1002-2-l" reftype="term">creditor</ref> operates or Federal Trade Commission, Equal Credit Opportunity, Washington, DC 20580.</content>
           </paragraph>
         </appendixSection>
       </appendix>
