@@ -2278,7 +2278,7 @@
             <content/>
             <interpParagraph label="1002-2-f-Interp-1" marker="1.">
               <title type="keyterm">General.</title>
-              <content>A creditor has the latitude under the regulation to establish its own application process and to decide the type and amount of information it will require from credit applicants.</content>
+              <content>A <ref target="1002-2-l" reftype="term">creditor</ref> has the latitude under the regulation to establish its own <ref target="1002-2-f" reftype="term">application</ref> process and to decide the type and amount of information it will require from <ref target="1002-2-j" reftype="term">credit</ref> applicants.</content>
             </interpParagraph>
             <interpParagraph label="1002-2-f-Interp-2" marker="2.">
               <title type="keyterm">Procedures used.</title>
@@ -2291,28 +2291,28 @@
             <interpParagraph label="1002-2-f-Interp-4" marker="4.">
               <title type="keyterm">Examples of inquiries that are not applications.</title>
               <content>The following examples illustrate situations in which only an inquiry has taken place:</content>
-            </interpParagraph>
-            <interpParagraph label="1002-2-f-Interp-4-i" marker="i.">
-              <content>A consumer calls to ask about loan terms and an employee explains the creditor's basic loan terms, such as interest rates, loan-to-value ratio, and debt-to-income ratio.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-2-f-Interp-4-ii" marker="ii.">
-              <content>A consumer calls to ask about interest rates for car loans, and, in order to quote the appropriate rate, the loan officer asks for the make and sales price of the car and the amount of the downpayment, then gives the consumer the rate.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-2-f-Interp-4-iii" marker="iii.">
-              <content>A consumer asks about terms for a loan to purchase a home and tells the loan officer her income and intended downpayment, but the loan officer only explains the <ref target="1002-2-l" reftype="term">creditor</ref>'s loan-to-value ratio policy and other basic lending policies, without telling the consumer whether she qualifies for the loan.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-2-f-Interp-4-iv" marker="iv.">
-              <content>A consumer calls to ask about terms for a loan to purchase vacant land and states his income and the sales price of the property to be financed, and asks whether he qualifies for a loan; the employee responds by describing the general lending policies, explaining that he would need to look at all of the consumer's qualifications before making a decision, and offering to send an <ref target="1002-2-f" reftype="term">application</ref> form to the consumer.</content>
+              <interpParagraph label="1002-2-f-Interp-4-i" marker="i.">
+                <content>A consumer calls to ask about loan terms and an employee explains the creditor's basic loan terms, such as interest rates, loan-to-value ratio, and debt-to-income ratio.</content>
+              </interpParagraph>
+              <interpParagraph label="1002-2-f-Interp-4-ii" marker="ii.">
+                <content>A consumer calls to ask about interest rates for car loans, and, in order to quote the appropriate rate, the loan officer asks for the make and sales price of the car and the amount of the downpayment, then gives the consumer the rate.</content>
+              </interpParagraph>
+              <interpParagraph label="1002-2-f-Interp-4-iii" marker="iii.">
+                <content>A consumer asks about terms for a loan to purchase a home and tells the loan officer her income and intended downpayment, but the loan officer only explains the <ref target="1002-2-l" reftype="term">creditor</ref>'s loan-to-value ratio policy and other basic lending policies, without telling the consumer whether she qualifies for the loan.</content>
+              </interpParagraph>
+              <interpParagraph label="1002-2-f-Interp-4-iv" marker="iv.">
+                <content>A consumer calls to ask about terms for a loan to purchase vacant land and states his income and the sales price of the property to be financed, and asks whether he qualifies for a loan; the employee responds by describing the general lending policies, explaining that he would need to look at all of the consumer's qualifications before making a decision, and offering to send an <ref target="1002-2-f" reftype="term">application</ref> form to the consumer.</content>
+              </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1002-2-f-Interp-5" marker="5.">
               <title type="keyterm">Examples of an application.</title>
               <content>An <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> includes the following situations:</content>
-            </interpParagraph>
-            <interpParagraph label="1002-2-f-Interp-5-i" marker="i.">
-              <content>A <ref target="1002-2-x" reftype="term">person</ref> asks a financial institution to “preapprove” her for a loan (for example, to finance a house or a vehicle she plans to buy) and the institution reviews the request under a program in which the institution, after a comprehensive analysis of her creditworthiness, issues a written commitment valid for a designated period of time to extend a loan up to a specified amount. The written commitment may not be subject to conditions other than conditions that require the identification of adequate collateral, conditions that require no material change in the <ref target="1002-2-e" reftype="term">applicant</ref>'s financial condition or creditworthiness prior to funding the loan, and limited conditions that are not related to the financial condition or creditworthiness of the <ref target="1002-2-e" reftype="term">applicant</ref> that the lender ordinarily attaches to a traditional <ref target="1002-2-f" reftype="term">application</ref> (such as certification of a clear termite inspection for a home purchase loan, or a maximum mileage requirement for a used car loan). But if the <ref target="1002-2-l" reftype="term">creditor</ref>'s program does not provide for giving written commitments, requests for preapprovals are treated as prequalification requests for purposes of the regulation.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-2-f-Interp-5-ii" marker="ii.">
-              <content>Under the same facts as above, the financial institution evaluates the <ref target="1002-2-x" reftype="term">person</ref>'s creditworthiness and determines that she does not qualify for a preapproval.</content>
+              <interpParagraph label="1002-2-f-Interp-5-i" marker="i.">
+                <content>A <ref target="1002-2-x" reftype="term">person</ref> asks a financial institution to “preapprove” her for a loan (for example, to finance a house or a vehicle she plans to buy) and the institution reviews the request under a program in which the institution, after a comprehensive analysis of her creditworthiness, issues a written commitment valid for a designated period of time to extend a loan up to a specified amount. The written commitment may not be subject to conditions other than conditions that require the identification of adequate collateral, conditions that require no material change in the <ref target="1002-2-e" reftype="term">applicant</ref>'s financial condition or creditworthiness prior to funding the loan, and limited conditions that are not related to the financial condition or creditworthiness of the <ref target="1002-2-e" reftype="term">applicant</ref> that the lender ordinarily attaches to a traditional <ref target="1002-2-f" reftype="term">application</ref> (such as certification of a clear termite inspection for a home purchase loan, or a maximum mileage requirement for a used car loan). But if the <ref target="1002-2-l" reftype="term">creditor</ref>'s program does not provide for giving written commitments, requests for preapprovals are treated as prequalification requests for purposes of the regulation.</content>
+              </interpParagraph>
+              <interpParagraph label="1002-2-f-Interp-5-ii" marker="ii.">
+                <content>Under the same facts as above, the financial institution evaluates the <ref target="1002-2-x" reftype="term">person</ref>'s creditworthiness and determines that she does not qualify for a preapproval.</content>
+              </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1002-2-f-Interp-6" marker="6.">
               <title type="keyterm">Completed application—diligence requirement.</title>
@@ -3056,9 +3056,11 @@
               </interpParagraph>
               <interpParagraph label="1002-9-a-3-Interp-2" marker="2.">
                 <title type="keyterm">Trade credit.</title>
-                <content>The term trade <ref target="1002-2-j" reftype="term">credit</ref> generally is limited to a financing arrangement that involves a buyer and a seller—such as a supplier who finances the sale of equipment, supplies, or inventory; it does not apply to an <ref target="1002-2-q" reftype="term">extension of credit</ref> by a bank or other financial institution for the financing of such items.
-
-3. Factoring. Factoring refers to a purchase of <ref target="1002-2-a" reftype="term">accounts</ref> receivable, and thus is not subject to <ref target="USC:12-1002" reftype="external">the Act</ref> or regulation. If there is a <ref target="1002-2-j" reftype="term">credit</ref> extension incident to the factoring arrangement, the notification rules in § 1002.9(a)(3)(ii) apply, as do other relevant sections of <ref target="USC:12-1002" reftype="external">the Act</ref> and regulation.</content>
+                <content>The term trade <ref target="1002-2-j" reftype="term">credit</ref> generally is limited to a financing arrangement that involves a buyer and a seller—such as a supplier who finances the sale of equipment, supplies, or inventory; it does not apply to an <ref target="1002-2-q" reftype="term">extension of credit</ref> by a bank or other financial institution for the financing of such items.</content>
+              </interpParagraph>
+              <interpParagraph label="1002-9-a-3-Interp-3" marker="3.">
+                <title type="keyterm">Factoring.</title>
+                <content>Factoring refers to a purchase of <ref target="1002-2-a" reftype="term">accounts</ref> receivable, and thus is not subject to <ref target="USC:12-1002" reftype="external">the Act</ref> or regulation. If there is a <ref target="1002-2-j" reftype="term">credit</ref> extension incident to the factoring arrangement, the notification rules in § 1002.9(a)(3)(ii) apply, as do other relevant sections of <ref target="USC:12-1002" reftype="external">the Act</ref> and regulation.</content>
               </interpParagraph>
               <interpParagraph label="1002-9-a-3-Interp-4" marker="4.">
                 <title type="keyterm">Manner of compliance.</title>
