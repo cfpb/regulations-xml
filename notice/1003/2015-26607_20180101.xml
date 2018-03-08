@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -629,19 +630,19 @@
           <paragraph label="1003-B-1-9" marker="(9)">
             <content>You must offer the applicant the option of selecting more than one ethnicity or race. If an applicant selects more than one ethnicity or race, you must report each selected designation, subject to the limits described below.</content>
             <paragraph label="1003-B-1-9-i" marker="(i)">
-	      <title>Ethnicity - Aggregate categories and subcategories.</title>
+              <title>Ethnicity - Aggregate categories and subcategories.</title>
               <content>There are two aggregate ethnicity categories: Hispanic or Latino; and Not Hispanic or Latino. If an applicant selects Hispanic or Latino, the applicant may also select up to four ethnicity subcategories: Mexican; Puerto Rican; Cuban; and Other Hispanic or Latino. You must report each aggregate ethnicity category and each ethnicity subcategory selected by the applicant.</content>
             </paragraph>
             <paragraph label="1003-B-1-9-ii" marker="(ii)">
-	      <title>Ethnicity—Other subcategories.</title>
+              <title>Ethnicity—Other subcategories.</title>
               <content>If an applicant selects the Other Hispanic or Latino ethnicity subcategory, the applicant may also provide a particular Hispanic or Latino ethnicity not listed in the standard subcategories. In such a case, you must report both the selection of Other Hispanic or Latino and the additional information provided by the applicant.</content>
             </paragraph>
             <paragraph label="1003-B-1-9-iii" marker="(iii)">
-	      <title>Race—Aggregate categories and subcategories.</title>
+              <title>Race—Aggregate categories and subcategories.</title>
               <content>There are five aggregate race categories: American Indian or Alaska Native; Asian; Black or African American; Native Hawaiian or Other Pacific Islander; and White. The Asian and the Native Hawaiian or Other Pacific Islander aggregate categories have seven and four subcategories, respectively. The Asian race subcategories are: Asian Indian; Chinese, Filipino; Japanese; Korean; Vietnamese; and Other Asian. The Native Hawaiian or Other Pacific Islander race subcategories are: Native Hawaiian; Guamanian or Chamorro; Samoan; and Other Pacific Islander. You must report every aggregate race category selected by the applicant. If the applicant also selects one or more race subcategories, you must report each race subcategory selected by the applicant, except that you must not report more than a total of five aggregate race categories and race subcategories combined. For example, if the applicant selects all five aggregate race categories and also selects some race subcategories, you report only the five aggregate race categories. On the other hand, if the applicant selects the White, Asian, and Native Hawaiian or Other Pacific Islander aggregate race categories, and the applicant also selects the Korean, Vietnamese, and Samoan race subcategories, you must report White, Asian, Native Hawaiian or Other Pacific Islander, and any two, at your option, of the three race subcategories selected by the applicant. In this example, you must report White, Asian, and Native Hawaiian or Other Pacific Islander, and in addition you must report (at your option) either Korean and Vietnamese, Korean and Samoan, or Vietnamese and Samoan. To determine how to report an Other race subcategory for purposes of the five-race maximum, see paragraph <ref target="1003-B-1-9-iv" reftype="internal">9.iv</ref> below.</content>
             </paragraph>
             <paragraph label="1003-B-1-9-iv" marker="(iv)">
-	      <title>Race—Other subcategories.</title>
+              <title>Race—Other subcategories.</title>
               <content>If an applicant selects the Other Asian race subcategory or the Other Pacific Islander race subcategory, the applicant may also provide a particular Other Asian or Other Pacific Islander race not listed in the standard subcategories. In either such case, you must report both the selection of Other Asian or Other Pacific Islander, as applicable, and the additional information provided by the applicant, subject to the five-race maximum. In all such cases where the applicant has selected an Other race subcategory and also provided additional information, for purposes of the maximum of five reportable race categories and race subcategories combined set forth above, the Other race subcategory and additional information provided by the applicant together constitute only one selection. Thus, using the same facts in the example offered in paragraph <ref target="1003-B-1-9-iii" reftype="internal">9.iii</ref> above, if the applicant also selected Other Asian and entered “Thai” in the space provided, Other Asian and Thai are considered one selection. You must report any two (at your option) of the four race subcategories selected by the applicant, Korean, Vietnamese, Other Asian-Thai, and Samoan, in addition to the three aggregate race categories selected by the applicant.</content>
             </paragraph>
           </paragraph>
@@ -662,7 +663,7 @@
               <graphic>
                 <altText/>
                 <text>![](ER13se17.000)</text>
-		<url>https://s3.amazonaws.com/images.federalregister.gov/Er13se17.000/original.png</url>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/Er13se17.000/original.png</url>
               </graphic>
             </content>
           </paragraph>
@@ -689,8 +690,7 @@
             <content>The alphabetic characters are not case-sensitive and each letter, whether it is capitalized or in lower-case, is equal to the same value as each letter illustrates in the conversion table. For example, A and a are each equal to 10.</content>
             <paragraph label="1003-C-1-p4-t1" marker="">
               <content><table><header/><row><cell>A = 10</cell><cell>H = 17</cell><cell>O = 24</cell><cell>V = 31</cell></row><row><cell>B = 11</cell><cell>I = 18</cell><cell>P = 25</cell><cell>W = 32</cell></row><row><cell>C = 12</cell><cell>J = 19</cell><cell>Q = 26</cell><cell>X = 33</cell></row><row><cell>D = 13</cell><cell>K = 20</cell><cell>R = 27</cell><cell>Y = 34</cell></row><row><cell>E = 14</cell><cell>L = 21</cell><cell>S = 28</cell><cell>Z = 35</cell></row><row><cell>F = 15</cell><cell>M = 22</cell><cell>T = 29</cell><cell/></row><row><cell>G = 16</cell><cell>N = 23</cell><cell>U = 30</cell><cell/></row></table>
-		 
-	      </content>
+              </content>
             </paragraph>
           </paragraph>
           <paragraph label="1003-C-1-p5" marker="">
@@ -1126,7 +1126,7 @@
               <title>Paragraph 3(c)(9)</title>
               <content/>
               <interpParagraph label="1003-3-c-9-Interp-1" marker="1.">
-                <title>Loan or line of credit used primarily for agricultural purposes. </title>
+                <title>Loan or line of credit used primarily for agricultural purposes.</title>
                 <content>Section <ref target="1003-3-c-9" reftype="internal">1003.3(c)(9)</ref> provides that an institution does not report a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> used primarily for agricultural purposes. A loan or line of credit is used primarily for agricultural purposes if its funds will be used primarily for agricultural purposes, or if the loan or line of credit is secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> that is located on real property that is used primarily for agricultural purposes (e.g., a farm). An institution may refer to comment 3(a)-8 in the official interpretations of Regulation Z, <ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref>, supplement I, for guidance on what is an agricultural purpose. An institution may use any reasonable standard to determine the primary use of the property. An institution may select the standard to apply on a case-by-case basis.</content>
               </interpParagraph>
             </interpParagraph>
