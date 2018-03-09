@@ -486,7 +486,28 @@
                 <title type="keyterm">Special-purpose credit.</title>
                 <content>A <ref target="1002-2-l" reftype="term">creditor</ref> may obtain information that is otherwise restricted to determine eligibility for a special purpose <ref target="1002-2-j" reftype="term">credit</ref> program, as provided in §§ 1002.8(b), (c), and (d).</content>
               </paragraph>
-            </paragraph>
+            <paragraph label="1002-5-a-4" marker="4.">
+        <content>Other permissible collection of information. Notwithstanding paragraph (b) of this section, a <ref target="1002-2-l" reftype="term">creditor</ref> may collect information under the following circumstances provided that the creditor collects the information in compliance with appendix B to 12 CFR part 1003:</content>
+      <paragraph label="1002-5-a-4-i" marker="i.">
+        <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that is a financial institution under 12 CFR 1003.2(g) may collect information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> for a closed-end mortgage loan that is an excluded transaction under 12 CFR 1003.3(c)(11) if it submits HMDA data concerning such closed-end mortgage loans and <ref target="1002-2-f" reftype="term">application</ref>s or if it submitted HMDA data concerning closed-end mortgage loans for any of the preceding five calendar years;</content>
+      </paragraph>
+    <paragraph label="1002-5-a-4-ii" marker="ii.">
+        <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that is a financial institution under 12 CFR 1003.2(g) may collect information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> for an open-end line of credit that is an excluded transaction under 12 CFR 1003.3(c)(12) if it submits HMDA data concerning such open-end lines of credit and <ref target="1002-2-f" reftype="term">application</ref>s or if it submitted HMDA data concerning open-end lines of credit for any of the preceding five calendar years;</content>
+      </paragraph>
+    <paragraph label="1002-5-a-4-iii" marker="iii.">
+        <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that submitted HMDA data for any of the preceding five calendar years but is not currently a financial institution under 12 CFR 1003.2(g) may collect information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if not excluded by 12 CFR 1003.3(c)(11) or (12);</content>
+      </paragraph>
+    <paragraph label="1002-5-a-4-iv" marker="iv.">
+        <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that exceeded an applicable loan volume threshold in the first year of the two-year threshold period provided in 12 CFR 1003.2(g), 1003.3(c)(11), or 1003.3(c)(12) may, in the second year, collect information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if the loan were not excluded by 12 CFR 1003.3(c)(11) or (12);</content>
+      </paragraph>
+    <paragraph label="1002-5-a-4-v" marker="v.">
+        <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that is a financial institution under 12 CFR 1003.2(g), or that submitted HMDA data for any of the preceding five calendar years but is not currently a financial institution under 12 CFR 1003.2(g), may collect information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if the loan were not excluded by 12 CFR 1003.3(c)(10).</content>
+      </paragraph>
+    <paragraph label="1002-5-a-4-vi" marker="vi.">
+        <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that is collecting information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> or first co-applicant may collect information regarding the ethnicity, race, and sex of a second or additional co-applicant for a covered loan under 12 CFR 1003.2(e) or for a second or additional co-applicant for a loan described in paragraphs (a)(4)(i) through (v) of this section.</content>
+      </paragraph>
+    </paragraph>
+    </paragraph>
             <paragraph label="1002-5-b" marker="(b)">
               <title type="keyterm">Limitation on information about race, color, religion, national origin, or sex.</title>
               <content>A <ref target="1002-2-l" reftype="term">creditor</ref> shall not inquire about the race, color, religion, national origin, or sex of an <ref target="1002-2-e" reftype="term">applicant</ref> or any other <ref target="1002-2-x" reftype="term">person</ref> in connection with a <ref target="1002-2-m" reftype="term">credit transaction</ref>, except as provided in paragraphs <ref target="1002-5-b-1" reftype="internal">(b)(1)</ref> and <ref target="1002-5-b-2" reftype="internal">(b)(2)</ref> of this section.</content>
@@ -961,7 +982,7 @@
                 <title type="keyterm">Applications.</title>
                 <content>For 25 months (12 months for <ref target="1002-2-g" reftype="term">business credit</ref>, except as provided in paragraph <ref target="1002-12-b-5" reftype="internal">(b)(5)</ref> of this section) after the date that a <ref target="1002-2-l" reftype="term">creditor</ref> notifies an <ref target="1002-2-e" reftype="term">applicant</ref> of action taken on an <ref target="1002-2-f" reftype="term">application</ref> or of incompleteness, the <ref target="1002-2-l" reftype="term">creditor</ref> shall retain in original form or a copy thereof:</content>
                 <paragraph marker="(i)" label="1002-12-b-1-i">
-          <content>Any <ref target="1002-2-f" reftype="term">application</ref> that it receives, any information required to be obtained concerning characteristics of the <ref target="1002-2-e" reftype="term">applicant</ref> to monitor compliance with <ref target="USC:12-1002" reftype="external">the Act</ref> and this part or other similar law, any information obtained pursuant to § 1002.5(a)(4), and any other written or recorded information used in evaluating the <ref target="1002-2-f" reftype="term">application</ref> and not returned to the <ref target="1002-2-e" reftype="term">applicant</ref> at the <ref target="1002-2-e" reftype="term">applicant</ref>'s request.</content>
+        <content>Any <ref target="1002-2-f" reftype="term">application</ref> that it receives, any information required to be obtained concerning characteristics of the <ref target="1002-2-e" reftype="term">applicant</ref> to monitor compliance with <ref target="USC:12-1002" reftype="external">the Act</ref> and this part or other similar law, any information obtained pursuant to § 1002.5(a)(4), and any other written or recorded information used in evaluating the <ref target="1002-2-f" reftype="term">application</ref> and not returned to the <ref target="1002-2-e" reftype="term">applicant</ref> at the <ref target="1002-2-e" reftype="term">applicant</ref>'s request.</content>
       </paragraph>
     <paragraph label="1002-12-b-1-ii" marker="(ii)">
                   <content>A copy of the following documents if furnished to the <ref target="1002-2-e" reftype="term">applicant</ref> in written form (or, if furnished orally, any notation or memorandum made by the <ref target="1002-2-l" reftype="term">creditor</ref>):</content>
@@ -1026,6 +1047,12 @@
                 <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that receives an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> primarily for the purchase or refinancing of a <ref target="1002-13-a-2" reftype="term">dwelling</ref> occupied or to be occupied by the <ref target="1002-2-e" reftype="term">applicant</ref> as a principal residence, where the <ref target="1002-2-q" reftype="term">extension of credit</ref> will be secured by the <ref target="1002-13-a-2" reftype="term">dwelling</ref>, shall request as part of the <ref target="1002-2-f" reftype="term">application</ref> the following information regarding the <ref target="1002-2-e" reftype="term">applicant</ref>(s):</content>
                 <paragraph marker="(i)" label="1002-13-a-1-i">
         <content>Ethnicity and race using either:</content>
+        <paragraph marker="(A)" label="1002-13-a-1-i-A">
+          <content>For ethnicity, the aggregate categories Hispanic or Latino and not Hispanic or Latino; and, for race, the aggregate categories American Indian or Alaska Native, Asian, Black or African American, Native Hawaiian or Other Pacific Islander, and White; or</content>
+        </paragraph>
+        <paragraph marker="(B)" label="1002-13-a-1-i-B">
+          <content>The categories and subcategories for the collection of ethnicity and race set forth in appendix B to 12 CFR part 1003.</content>
+        </paragraph>
       </paragraph>
     <paragraph label="1002-13-a-1-ii" marker="(ii)">
                   <content>Sex;</content>
@@ -2580,44 +2607,10 @@
                 <content>This section governs the types of information that a <ref target="1002-2-l" reftype="term">creditor</ref> may gather. Section <ref target="1002-6" reftype="internal">1002.6</ref> governs how information may be used.</content>
               </interpParagraph>
             </interpParagraph>
-            <interpParagraph label="1002-5-a-2-Interp" target="1002-5-a-2">
-              <title>Paragraph 5(a)(2).</title>
-              <content/>
-              <interpParagraph label="1002-5-a-2-Interp-1" marker="1.">
-                <title type="keyterm">Local laws.</title>
-                <content>Information that a <ref target="1002-2-l" reftype="term">creditor</ref> is allowed to collect pursuant to a “<ref target="1002-2-aa" reftype="term">state</ref>” statute or regulation includes information required by a local statute, regulation, or ordinance.</content>
-              </interpParagraph>
-              <interpParagraph label="1002-5-a-2-Interp-2" marker="2.">
-                <title type="keyterm">Information required by Regulation C.</title>
-                <content>Regulation C generally requires <ref target="1002-2-l" reftype="term">creditors</ref> covered by the Home Mortgage Disclosure Act (HMDA) to collect and report information about the race, ethnicity, and sex of <ref target="1002-2-e" reftype="term">applicants</ref> for home-improvement loans and home-purchase loans, including some types of loans not covered by § 1002.13.</content>
-              </interpParagraph>
-              <interpParagraph label="1002-5-a-2-Interp-3" marker="3.">
-                <title type="keyterm">Collecting information on behalf of creditors.</title>
-                <content><ref target="1002-2-x" reftype="term">Persons</ref> such as loan brokers and correspondents do not violate the ECOA or Regulation B if they collect information that they are otherwise prohibited from collecting, where the purpose of collecting the information is to provide it to a <ref target="1002-2-l" reftype="term">creditor</ref> that is subject to the Home Mortgage Disclosure Act or another Federal or <ref target="1002-2-aa" reftype="term">state</ref> statute or regulation requiring data collection.</content>
-              </interpParagraph>
-            <interpParagraph label="1002-5-a-2-Interp-4" marker="4.">
-          <content>Other permissible collection of information. Notwithstanding paragraph (b) of this section, a <ref target="1002-2-l" reftype="term">creditor</ref> may collect information under the following circumstances provided that the creditor collects the information in compliance with appendix B to 12 CFR part 1003:</content>
-      <interpParagraph label="1002-5-a-2-Interp-4-i" marker="i.">
-          <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that is a financial institution under 12 CFR 1003.2(g) may collect information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> for a closed-end mortgage loan that is an excluded transaction under 12 CFR 1003.3(c)(11) if it submits HMDA data concerning such closed-end mortgage loans and <ref target="1002-2-f" reftype="term">application</ref>s or if it submitted HMDA data concerning closed-end mortgage loans for any of the preceding five calendar years;</content>
+            <interpParagraph label="1002-5-a-2-Interp-1" marker="1.">
+        <content>Local laws. Information that a creditor is allowed to collect pursuant to a “state” statute or regulation includes information required by a local statute, regulation, or ordinance.</content>
       </interpParagraph>
-    <interpParagraph label="1002-5-a-2-Interp-4-ii" marker="ii.">
-          <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that is a financial institution under 12 CFR 1003.2(g) may collect information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> for an open-end line of credit that is an excluded transaction under 12 CFR 1003.3(c)(12) if it submits HMDA data concerning such open-end lines of credit and <ref target="1002-2-f" reftype="term">application</ref>s or if it submitted HMDA data concerning open-end lines of credit for any of the preceding five calendar years;</content>
       </interpParagraph>
-    <interpParagraph label="1002-5-a-2-Interp-4-iii" marker="iii.">
-          <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that submitted HMDA data for any of the preceding five calendar years but is not currently a financial institution under 12 CFR 1003.2(g) may collect information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if not excluded by 12 CFR 1003.3(c)(11) or (12);</content>
-      </interpParagraph>
-    <interpParagraph label="1002-5-a-2-Interp-4-iv" marker="iv.">
-          <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that exceeded an applicable loan volume threshold in the first year of the two-year threshold period provided in 12 CFR 1003.2(g), 1003.3(c)(11), or 1003.3(c)(12) may, in the second year, collect information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if the loan were not excluded by 12 CFR 1003.3(c)(11) or (12);</content>
-      </interpParagraph>
-    <interpParagraph label="1002-5-a-2-Interp-4-v" marker="v.">
-          <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that is a financial institution under 12 CFR 1003.2(g), or that submitted HMDA data for any of the preceding five calendar years but is not currently a financial institution under 12 CFR 1003.2(g), may collect information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if the loan were not excluded by 12 CFR 1003.3(c)(10).</content>
-      </interpParagraph>
-    <interpParagraph label="1002-5-a-2-Interp-4-vi" marker="vi.">
-          <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that is collecting information regarding the ethnicity, race, and sex of an <ref target="1002-2-e" reftype="term">applicant</ref> or first co-applicant may collect information regarding the ethnicity, race, and sex of a second or additional co-applicant for a covered loan under 12 CFR 1003.2(e) or for a second or additional co-applicant for a loan described in paragraphs (a)(4)(i) through (v) of this section.</content>
-      </interpParagraph>
-    </interpParagraph>
-    </interpParagraph>
-          </interpParagraph>
           <interpParagraph label="1002-5-d-Interp">
             <title>5(d) Other limitations on information requests.</title>
             <content/>
@@ -3307,141 +3300,25 @@
               <content>Although a <ref target="1002-2-l" reftype="term">creditor</ref> may keep in its files prohibited information as provided in § 1002.12(a), the <ref target="1002-2-l" reftype="term">creditor</ref> may use the information in evaluating <ref target="1002-2-j" reftype="term">credit</ref> <ref target="1002-2-f" reftype="term">applications</ref> only if permitted to do so by § 1002.6.</content>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1002-12-b-Interp" target="1002-12-b">
-            <title>12(b) Preservation of records.</title>
-            <content/>
-            <interpParagraph label="1002-12-b-Interp-1" marker="1.">
-              <title type="keyterm">Copies.</title>
-              <content>Copies of the original record include carbon copies, photocopies, microfilm or microfiche copies, or copies produced by any other accurate retrieval system, such as documents stored and reproduced by computer. A <ref target="1002-2-l" reftype="term">creditor</ref> that uses a computerized or mechanized system need not keep a paper copy of a document (for example, of an adverse action notice) if it can regenerate all pertinent information in a timely manner for examination or other purposes.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-12-b-Interp-2" marker="2.">
-              <title type="keyterm">Computerized decisions.</title>
-              <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that enters information items from a written <ref target="1002-2-f" reftype="term">application</ref> into a computerized or mechanized system and makes the <ref target="1002-2-j" reftype="term">credit</ref> decision mechanically, based only on the items of information entered into the system, may comply with § 1002.12(b) by retaining the information actually entered. It is not required to store the complete written <ref target="1002-2-f" reftype="term">application</ref>, nor is it required to enter the remaining items of information into the system. If the transaction is subject to § 1002.13, however, the <ref target="1002-2-l" reftype="term">creditor</ref> is required to enter and retain the data on personal characteristics in order to comply with the requirements of that section.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-12-b-3-Interp" target="1002-12-b-3">
-              <title>Paragraph 12(b)(3).</title>
-              <content/>
-              <interpParagraph label="1002-12-b-3-Interp-1" marker="1.">
-                <title type="keyterm">Withdrawn and brokered applications.</title>
-                <content>In most cases, the 25-month retention period for <ref target="1002-2-f" reftype="term">applications</ref> runs from the date a notification is sent to the <ref target="1002-2-e" reftype="term">applicant</ref> granting or denying the <ref target="1002-2-j" reftype="term">credit</ref> requested. In certain transactions, a <ref target="1002-2-l" reftype="term">creditor</ref> is not obligated to provide a notice of the action taken. (See, for example, comment <ref target="1002-9-Interp-2" reftype="internal">9-2</ref>.) In such cases, the 25-month requirement runs from the date of <ref target="1002-2-f" reftype="term">application</ref>, as when:</content>
-                <interpParagraph label="1002-12-b-3-Interp-1-i" marker="i.">
-                  <content>An <ref target="1002-2-f" reftype="term">application</ref> is withdrawn by the <ref target="1002-2-e" reftype="term">applicant</ref>.</content>
-                </interpParagraph>
-                <interpParagraph label="1002-12-b-3-Interp-1-ii" marker="ii.">
-                  <content>An <ref target="1002-2-f" reftype="term">application</ref> is submitted to more than one <ref target="1002-2-l" reftype="term">creditor</ref> on behalf of the <ref target="1002-2-e" reftype="term">applicant</ref>, and the <ref target="1002-2-f" reftype="term">application</ref> is approved by one of the other <ref target="1002-2-l" reftype="term">creditors</ref>.</content>
-                </interpParagraph>
-              </interpParagraph>
-            </interpParagraph>
-            <interpParagraph label="1002-12-b-6-Interp" target="1002-12-b-6">
-              <title>12(b)(6) Self-tests.</title>
-              <content/>
-              <interpParagraph label="1002-12-b-6-Interp-1" marker="1.">
-                <content>The rule requires all written or recorded information about a self-test to be retained for 25 months after a self-test has been completed. For this purpose, a self-test is completed after the <ref target="1002-2-l" reftype="term">creditor</ref> has obtained the results and made a determination about what corrective action, if any, is appropriate. <ref target="1002-2-l" reftype="term">Creditors</ref> are required to retain information about the scope of the self-test, the methodology used and time period covered by the self-test, the report or results of the self-test including any analysis or conclusions, and any corrective action taken in response to the self-test.</content>
-              </interpParagraph>
-            </interpParagraph>
-            <interpParagraph label="1002-12-b-7-Interp" target="1002-12-b-7">
-              <title>12(b)(7) Preapplication marketing information.</title>
-              <content/>
-              <interpParagraph label="1002-12-b-7-Interp-1" marker="1.">
-                <title type="keyterm">Prescreened credit solicitations.</title>
-                <content>The rule requires <ref target="1002-2-l" reftype="term">creditors</ref> to retain copies of prescreened <ref target="1002-2-j" reftype="term">credit</ref> solicitations. For purposes of this part, a prescreened solicitation is an “offer of <ref target="1002-2-j" reftype="term">credit</ref>” as described in <ref target="USC:15-1681" reftype="external">15 U.S.C. 1681</ref>a(1) of the Fair Credit Reporting Act. A <ref target="1002-2-l" reftype="term">creditor</ref> complies with this rule if it retains a copy of each solicitation mailing that contains different terms, such as the amount of <ref target="1002-2-j" reftype="term">credit</ref> offered, annual percentage rate, or annual fee.</content>
-              </interpParagraph>
-              <interpParagraph label="1002-12-b-7-Interp-2" marker="2.">
-                <title type="keyterm">List of criteria.</title>
-                <content>A <ref target="1002-2-l" reftype="term">creditor</ref> must retain the list of criteria used to select potential recipients. This includes the criteria used by the <ref target="1002-2-l" reftype="term">creditor</ref> both to determine the potential recipients of the particular solicitation and to determine who will actually be offered <ref target="1002-2-j" reftype="term">credit</ref>.</content>
-              </interpParagraph>
-              <interpParagraph label="1002-12-b-7-Interp-3" marker="3.">
-                <title type="keyterm">Correspondence.</title>
-                <content>A <ref target="1002-2-l" reftype="term">creditor</ref> may retain correspondence relating to consumers' complaints about prescreened solicitations in any manner that is reasonably accessible and is understandable to examiners. There is no requirement to establish a separate database or set of files for such correspondence, or to match consumer complaints with specific solicitation programs.</content>
-              </interpParagraph>
-            </interpParagraph>
-          </interpParagraph>
-        </interpSection>
+          <interpParagraph label="1002-12-b-Interp-1" marker="1.">
+        <content>Copies. Copies of the original record include carbon copies, photocopies, microfilm or microfiche copies, or copies produced by any other accurate retrieval system, such as documents stored and reproduced by computer. A creditor that uses a computerized or mechanized system need not keep a paper copy of a document (for example, of an adverse action notice) if it can regenerate all pertinent information in a timely manner for examination or other purposes.</content>
+      </interpParagraph>
+      </interpSection>
         <interpSection label="1002-13-Interp" sectionNum="13">
           <title>Section 1002.13—Information for Monitoring Purposes</title>
-          <interpParagraph label="1002-13-a-Interp" target="1002-13-a">
-            <title>13(a) Information to be requested.</title>
-            <content/>
-            <interpParagraph label="1002-13-a-Interp-1" marker="1.">
-              <title type="keyterm">Natural person.</title>
-              <content>Section <ref target="1002-13" reftype="internal">1002.13</ref> applies only to <ref target="1002-2-f" reftype="term">applications</ref> from natural <ref target="1002-2-x" reftype="term">persons</ref>.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-13-a-Interp-2" marker="2.">
-              <title type="keyterm">Principal residence.</title>
-              <content>The requirements of § 1002.13 apply only if an <ref target="1002-2-f" reftype="term">application</ref> relates to a <ref target="1002-13-a-2" reftype="term">dwelling</ref> that is or will be occupied by the <ref target="1002-2-e" reftype="term">applicant</ref> as the principal residence. A <ref target="1002-2-j" reftype="term">credit</ref> <ref target="1002-2-f" reftype="term">application</ref> related to a vacation home or a rental unit is not covered. In the case of a two-to four-unit <ref target="1002-13-a-2" reftype="term">dwelling</ref>, the <ref target="1002-2-f" reftype="term">application</ref> is covered if the <ref target="1002-2-e" reftype="term">applicant</ref> intends to occupy one of the units as a principal residence.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-13-a-Interp-3" marker="3.">
-              <title type="keyterm">Temporary financing.</title>
-              <content>An <ref target="1002-2-f" reftype="term">application</ref> for temporary financing to construct a <ref target="1002-13-a-2" reftype="term">dwelling</ref> is not subject to § 1002.13. But an <ref target="1002-2-f" reftype="term">application</ref> for both a temporary loan to finance construction of a <ref target="1002-13-a-2" reftype="term">dwelling</ref> and a permanent mortgage loan to take effect upon the completion of construction is subject to § 1002.13.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-13-a-Interp-4" marker="4.">
-              <title type="keyterm">New principal residence.</title>
-              <content>A <ref target="1002-2-x" reftype="term">person</ref> can have only one principal residence at a time. However, if a <ref target="1002-2-x" reftype="term">person</ref> buys or builds a new <ref target="1002-13-a-2" reftype="term">dwelling</ref> that will become that <ref target="1002-2-x" reftype="term">person</ref>'s principal residence within a year or upon completion of construction, the new <ref target="1002-13-a-2" reftype="term">dwelling</ref> is considered the principal residence for purposes of § 1002.13.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-13-a-Interp-5" marker="5.">
-              <title type="keyterm">Transactions not covered.</title>
-              <content>The information-collection requirements of this section apply to <ref target="1002-2-f" reftype="term">applications</ref> for <ref target="1002-2-j" reftype="term">credit</ref> primarily for the purchase or refinancing of a <ref target="1002-13-a-2" reftype="term">dwelling</ref> that is or will become the <ref target="1002-2-e" reftype="term">applicant</ref>'s principal residence. Therefore, <ref target="1002-2-f" reftype="term">applications</ref> for <ref target="1002-2-j" reftype="term">credit</ref> secured by the <ref target="1002-2-e" reftype="term">applicant</ref>'s principal residence but made primarily for a purpose other than the purchase or refinancing of the principal residence (such as loans for home improvement and debt consolidation) are not subject to the information-collection requirements. An <ref target="1002-2-f" reftype="term">application</ref> for an open-end home equity line of <ref target="1002-2-j" reftype="term">credit</ref> is not subject to this section unless it is readily apparent to the <ref target="1002-2-l" reftype="term">creditor</ref> when the <ref target="1002-2-f" reftype="term">application</ref> is taken that the primary purpose of the line is for the purchase or refinancing of a principal <ref target="1002-13-a-2" reftype="term">dwelling</ref>.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-13-a-Interp-6" marker="6.">
-              <title type="keyterm">Refinancings.</title>
-              <content>A refinancing occurs when an existing obligation is satisfied and replaced by a new obligation undertaken by the same borrower. A <ref target="1002-2-l" reftype="term">creditor</ref> that receives an <ref target="1002-2-f" reftype="term">application</ref> to refinance an existing <ref target="1002-2-q" reftype="term">extension of credit</ref> made by that <ref target="1002-2-l" reftype="term">creditor</ref> for the purchase of the <ref target="1002-2-e" reftype="term">applicant</ref>'s <ref target="1002-13-a-2" reftype="term">dwelling</ref> may request the monitoring information again but is not required to do so if it was obtained in the earlier transaction.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-13-a-Interp-7" marker="7.">
-              <title type="keyterm">Data collection under Regulation C.</title>
-              <content>See comment <ref target="1002-5-a-2-Interp-2" reftype="internal">5(a)(2)-2</ref>.</content>
-            </interpParagraph>
-          </interpParagraph>
-          <interpParagraph label="1002-13-b-Interp" target="1002-13-b">
-            <title>13(b) Obtaining of information.</title>
-            <content/>
-            <interpParagraph label="1002-13-b-Interp-1" marker="1.">
-              <title type="keyterm">Forms for collecting data.</title>
-              <content>A <ref target="1002-2-l" reftype="term">creditor</ref> may collect the information specified in § 1002.13(a) either on an <ref target="1002-2-f" reftype="term">application</ref> form or on a separate form referring to the <ref target="1002-2-f" reftype="term">application</ref>. The <ref target="1002-2-e" reftype="term">applicant</ref> must be offered the option to select more than one racial designation.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-13-b-Interp-2" marker="2.">
-              <title type="keyterm">Written applications.</title>
-              <content>The regulation requires written <ref target="1002-2-f" reftype="term">applications</ref> for the types of <ref target="1002-2-j" reftype="term">credit</ref> covered by § 1002.13. A <ref target="1002-2-l" reftype="term">creditor</ref> can satisfy this requirement by recording on paper or by means of computer the information that the <ref target="1002-2-e" reftype="term">applicant</ref> provides orally and that the <ref target="1002-2-l" reftype="term">creditor</ref> normally considers in a <ref target="1002-2-j" reftype="term">credit</ref> decision.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-13-b-Interp-3" marker="3.">
-              <title type="keyterm">Telephone, mail applications.</title>
-              <content/>
-              <interpParagraph label="1002-13-b-Interp-3-i" marker="i.">
-                <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that accepts an <ref target="1002-2-f" reftype="term">application</ref> by telephone or mail must request the monitoring information.</content>
-              </interpParagraph>
-              <interpParagraph label="1002-13-b-Interp-3-ii" marker="ii.">
-                <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that accepts an <ref target="1002-2-f" reftype="term">application</ref> by mail need not make a special request for the monitoring information if the <ref target="1002-2-e" reftype="term">applicant</ref> has failed to provide it on the <ref target="1002-2-f" reftype="term">application</ref> form returned to the <ref target="1002-2-l" reftype="term">creditor</ref>.</content>
-              </interpParagraph>
-              <interpParagraph label="1002-13-b-Interp-3-iii" marker="iii.">
-                <content>If it is not evident on the face of an <ref target="1002-2-f" reftype="term">application</ref> that it was received by mail, telephone, or via an electronic medium, the <ref target="1002-2-l" reftype="term">creditor</ref> should indicate on the form or other <ref target="1002-2-f" reftype="term">application</ref> record how the <ref target="1002-2-f" reftype="term">application</ref> was received.</content>
-              </interpParagraph>
-            </interpParagraph>
-            <interpParagraph label="1002-13-b-Interp-4" marker="4.">
-              <title type="keyterm">Video and other electronic-application processes.</title>
-              <content/>
-              <interpParagraph label="1002-13-b-Interp-4-i" marker="i.">
-                <content>If a <ref target="1002-2-l" reftype="term">creditor</ref> takes an <ref target="1002-2-f" reftype="term">application</ref> through an electronic medium that allows the <ref target="1002-2-l" reftype="term">creditor</ref> to see the <ref target="1002-2-e" reftype="term">applicant</ref>, the <ref target="1002-2-l" reftype="term">creditor</ref> must treat the <ref target="1002-2-f" reftype="term">application</ref> as taken in <ref target="1002-2-x" reftype="term">person</ref>. The <ref target="1002-2-l" reftype="term">creditor</ref> must note the monitoring information on the basis of visual observation or surname, if the <ref target="1002-2-e" reftype="term">applicant</ref> chooses not to provide the information.</content>
-              </interpParagraph>
-              <interpParagraph label="1002-13-b-Interp-4-ii" marker="ii.">
-                <content>If an <ref target="1002-2-e" reftype="term">applicant</ref> applies through an electronic medium without video capability, the <ref target="1002-2-l" reftype="term">creditor</ref> treats the <ref target="1002-2-f" reftype="term">application</ref> as if it were received by mail.</content>
-              </interpParagraph>
-            </interpParagraph>
-            <interpParagraph label="1002-13-b-Interp-5" marker="5.">
-              <title type="keyterm">Applications through loan-shopping services.</title>
-              <content>When a <ref target="1002-2-l" reftype="term">creditor</ref> receives an <ref target="1002-2-f" reftype="term">application</ref> through an unaffiliated loan-shopping service, it does not have to request the monitoring information for purposes of the ECOA or Regulation B. <ref target="1002-2-l" reftype="term">Creditors</ref> subject to the Home Mortgage Disclosure Act should be aware, however, that data collection may be called for under Regulation C (<ref target="CFR:12-1003" reftype="external">12 CFR part 1003</ref>), which generally requires <ref target="1002-2-l" reftype="term">creditors</ref> to report, among other things, the sex and race of an <ref target="1002-2-e" reftype="term">applicant</ref> on brokered <ref target="1002-2-f" reftype="term">applications</ref> or <ref target="1002-2-f" reftype="term">applications</ref> received through a correspondent.</content>
-            </interpParagraph>
-            <interpParagraph label="1002-13-b-Interp-6" marker="6.">
-              <title type="keyterm">Inadvertent notation.</title>
-              <content>If a <ref target="1002-2-l" reftype="term">creditor</ref> inadvertently obtains the monitoring information in a <ref target="1002-13-a-2" reftype="term">dwelling</ref>-related transaction not covered by § 1002.13, the <ref target="1002-2-l" reftype="term">creditor</ref> may process and retain the <ref target="1002-2-f" reftype="term">application</ref> without violating the regulation.</content>
-            </interpParagraph>
-          </interpParagraph>
-          <interpParagraph label="1002-13-c-Interp" target="1002-13-c">
+          <interpParagraph label="1002-13-a-Interp-1" marker="1.">
+        <content>Natural person. Section 1002.13 applies only to applications from natural persons.</content>
+      </interpParagraph>
+      <interpParagraph label="1002-13-b-Interp-1" marker="1.">
+        <content>Forms for collecting data. A creditor may collect the information specified in § 1002.13(a) either on an application form or on a separate form referring to the application. Appendix B to this part provides for two alternative data collection model forms for use in complying with the requirements of § 1002.13(a)(1)(i) and (ii) to collect information concerning an applicant's ethnicity, race, and sex. When a creditor collects ethnicity and race information pursuant to § 1002.13(a)(1)(i)(A), the applicant must be offered the option to select more than one racial designation. When a creditor collects ethnicity and race information pursuant to § 1002.13(a)(1)(i)(B), the applicant must be offered the option to select more than one ethnicity designation and more than one racial designation.</content>
+      </interpParagraph>
+      <interpParagraph label="1002-13-c-Interp" target="1002-13-c">
             <title>13(c) Disclosure to applicants.</title>
             <content/>
-            <interpParagraph label="1002-13-c-Interp-1" marker="1.">
-              <title type="keyterm">Procedures for providing disclosures.</title>
-              <content>The disclosure to an <ref target="1002-2-e" reftype="term">applicant</ref> regarding the monitoring information may be provided in writing. appendix <ref target="1002-B" reftype="internal">B</ref> contains a sample disclosure. A <ref target="1002-2-l" reftype="term">creditor</ref> may devise its own disclosure so long as it is substantially similar. The <ref target="1002-2-l" reftype="term">creditor</ref> need not orally request the monitoring information if it is requested in writing.</content>
-            </interpParagraph>
-          </interpParagraph>
+            <interpParagraph label="1002-13-c-Interp-c" marker="1.">
+        <content>Procedures for providing disclosures. The disclosure to an applicant regarding the monitoring information may be provided in writing. Appendix B provides data collection model forms for use in complying with § 1002.13 and that comply with § 1002.13(c). A creditor may devise its own disclosure so long as it is substantially similar. The creditor need not orally request the monitoring information if it is requested in writing.</content>
+      </interpParagraph>
+    </interpParagraph>
           <interpParagraph label="1002-13-d-Interp" target="1002-13-d">
             <title>13(d) Substitute monitoring program.</title>
             <content/>
