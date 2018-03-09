@@ -2134,7 +2134,7 @@
           <section label="1005-35" sectionNum="35">
             <subject>§ 1005.35 Acts of agents.</subject>
             <paragraph label="1005-35-p1" marker="">
-              <content>A remittance transfer provider is liable for any violation of this subpart by an agent when such agent acts for the provider.</content>
+              <content>A <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> is liable for any violation of this subpart by an agent when such agent acts for the provider.</content>
             </paragraph>
           </section>
           <section label="1005-36" sectionNum="36">
@@ -6032,7 +6032,7 @@
       </interpSection>
     <interpSection label="1005-35-Interp" sectionNum="35">
         <title>Section 1005.35—Acts of Agents</title>
-        <interpParagraph label="1005-35-Interp-1" marker="1.">
+        <interpParagraph label="1005-35-Interp-1" marker="Interp" target="1005-35">
           <content>General. <ref target="1005-30-f-1" reftype="term">Remittance transfer providers</ref> must comply with the requirements of subpart B, including, but not limited to, providing the disclosures set forth in § <ref target="1005-31" reftype="internal">1005.31</ref> and providing any remedies as set forth in § <ref target="1005-33" reftype="internal">1005.33</ref>, even if an <ref target="1005-30-a" reftype="term">agent</ref> or other <ref target="1005-2-j" reftype="term">person</ref> performs functions for the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>, and regardless of whether the <ref target="1005-30-f-1" reftype="term">provider</ref> has an agreement with a third party that transfers or otherwise makes funds available to a <ref target="1005-30-c" reftype="term">designated recipient</ref>.</content>
         </interpParagraph>
       </interpSection>
