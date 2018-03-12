@@ -102,7 +102,7 @@
               <paragraph label="1003-1-b-1" marker="(1)">
         <content>This part implements the Home Mortgage Disclosure Act, which is intended to provide the public with loan data that can be used:</content>
         <paragraph label="1003-1-b-1-i" marker="(i)">
-          <content>To help determine whether <ref target="1003-2-FinancialInstitution" reftype="term">financial institutions</ref> are serving the housing needs of their communities;</content>
+          <content>To help determine whether <ref target="1003-2-g" reftype="term">financial institutions</ref> are serving the housing needs of their communities;</content>
         </paragraph>
         <paragraph label="1003-1-b-1-ii" marker="(ii)">
           <content>To assist public officials in distributing public-sector investment so as to attract private investment to areas where it is needed; and</content>
@@ -112,30 +112,30 @@
         </paragraph>
       </paragraph>
     <paragraph label="1003-1-b-2" marker="(2)">
-                <content>Neither the <ref target="1003-2-Act" reftype="term">act</ref> nor this part is intended to encourage unsound lending practices or the allocation of credit.</content>
+                <content>Neither the <ref target="1003-2-a" reftype="term">act</ref> nor this part is intended to encourage unsound lending practices or the allocation of credit.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1003-1-c" marker="(c)">
-        <title>Scope</title>
-        <content>This part applies to <ref target="1003-2-g" reftype="term">financial institutions</ref> as defined in § <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>. This part requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to submit data to the appropriate Federal agency for the <ref target="1003-2-g" reftype="term">financial institution</ref> as defined in § <ref target="1003-5-a-4" reftype="internal">1003.5(a)(4)</ref>, and to disclose certain data to the public, about <ref target="1003-2-e" reftype="term">covered loans</ref> for which the <ref target="1003-2-g" reftype="term">financial institution</ref> receives <ref target="1003-2-b-1" reftype="term">applications</ref>, or that it originates or purchases, and that are secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> located in a State of the United States of America, the District of Columbia, or the Commonwealth of Puerto Rico.</content>
+        <title>Scope.</title>
+        <content>This part applies to <ref target="1003-2-g" reftype="term">financial institutions</ref> as defined in § <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>. This part requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to submit data to the appropriate Federal agency for the <ref target="1003-2-g" reftype="term">financial institution</ref> as defined in § <ref target="1003-5-a-4" reftype="internal">1003.5(a)(4)</ref>, and to disclose certain data to the public, about <ref target="1003-2-e" reftype="term">covered loans</ref> for which the <ref target="1003-2-g" reftype="term">financial institution</ref> receives <ref target="1003-2-b" reftype="term">applications</ref>, or that it originates or purchases, and that are secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> located in a State of the United States of America, the District of Columbia, or the Commonwealth of Puerto Rico.</content>
       </paragraph>
     </section>
           <section label="1003-2" sectionNum="2">
-        <subject>Definitions</subject>
+        <subject>Definitions.</subject>
         <paragraph label="1003-2-p1" marker="">
           <content>In this part:</content>
           <paragraph label="1003-2-a" marker="(a)">
-            <content><def term="act">Act</def> means the Home Mortgage Disclosure Act (HMDA) (12 U.S.C. 2801 et seq.), as amended.</content>
+              <content><def term="act">Act</def> means the Home Mortgage Disclosure Act (<def term="hmda">HMDA</def>) (12 U.S.C. 2801 et seq.), as amended.</content>
           </paragraph>
           <paragraph label="1003-2-b" marker="(b)">
-            <content>Application—</content>
+              <content><def term="application">Application</def></content>
             <paragraph label="1003-2-b-1" marker="(1)">
               <title>In general.</title>
-              <content><def term="application">Application</def> means an oral or written request for a <ref target="1003-2-e" reftype="term">covered loan</ref> that is made in accordance with procedures used by a <ref target="1003-2-g" reftype="term">financial institution</ref> for the type of credit requested.</content>
+              <content>Application means an oral or written request for a <ref target="1003-2-e" reftype="term">covered loan</ref> that is made in accordance with procedures used by a <ref target="1003-2-g" reftype="term">financial institution</ref> for the type of credit requested.</content>
             </paragraph>
             <paragraph label="1003-2-b-2" marker="(2)">
               <title>Preapproval programs.</title>
-              <content>A <def term="request for preapproval">request for preapproval</def> for a <ref target="1003-2-j" reftype="term">home purchase loan</ref>, other than a home purchase loan that will be an <ref target="1003-2-o" reftype="term">open-end line of credit</ref>, a <ref target="1003-2-q" reftype="term">reverse mortgage</ref>, or secured by a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref>, is an <ref target="1003-2-b-1" reftype="term">application</ref> under this section if the request is reviewed under a program in which the <ref target="1003-2-g" reftype="term">financial institution</ref>, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:</content>
+              <content>A <def term="request for preapproval">request for preapproval</def> for a <ref target="1003-2-j" reftype="term">home purchase loan</ref>, other than a home purchase loan that will be an <ref target="1003-2-o" reftype="term">open-end line of credit</ref>, a <ref target="1003-2-q" reftype="term">reverse mortgage</ref>, or secured by a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref>, is an <ref target="1003-2-b" reftype="term">application</ref> under this section if the request is reviewed under a program in which the <ref target="1003-2-g" reftype="term">financial institution</ref>, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:</content>
               <paragraph label="1003-2-b-2-i" marker="(i)">
                 <content>Conditions that require the identification of a suitable property;</content>
               </paragraph>
@@ -143,7 +143,7 @@
                 <content>Conditions that require that no material change has occurred in the applicant's financial condition or creditworthiness prior to closing; and</content>
               </paragraph>
               <paragraph label="1003-2-b-2-iii" marker="(iii)">
-                <content>Limited conditions that are not related to the financial condition or creditworthiness of the applicant that the <ref target="1003-2-g" reftype="term">financial institution</ref> ordinarily attaches to a traditional home mortgage <ref target="1003-2-b-1" reftype="term">application</ref>.</content>
+                <content>Limited conditions that are not related to the financial condition or creditworthiness of the applicant that the <ref target="1003-2-g" reftype="term">financial institution</ref> ordinarily attaches to a traditional home mortgage <ref target="1003-2-b" reftype="term">application</ref>.</content>
               </paragraph>
             </paragraph>
           </paragraph>
@@ -153,7 +153,7 @@
               <content>Any office of a bank, savings association, or credit union that is considered a branch by the Federal or State supervisory agency applicable to that institution, excluding automated teller machines and other free-standing electronic terminals; and</content>
             </paragraph>
             <paragraph label="1003-2-c-2" marker="(2)">
-              <content>Any office of a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that takes <ref target="1003-2-b-1" reftype="term">applications</ref> from the public for <ref target="1003-2-e" reftype="term">covered loans</ref>. A for-profit mortgage-lending institution (other than a bank, savings association, or credit union) is also deemed to have a <ref target="1003-2-c" reftype="term">branch office</ref> in an <ref target="1003-2-m-1" reftype="term">MSA</ref> or in an MD, if, in the preceding calendar year, it received <ref target="1003-2-b-1" reftype="term">applications</ref> for, originated, or purchased five or more <ref target="1003-2-e" reftype="term">covered loans</ref> related to property located in that <ref target="1003-2-m-1" reftype="term">MSA</ref> or MD, respectively.</content>
+              <content>Any office of a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that takes <ref target="1003-2-b" reftype="term">applications</ref> from the public for <ref target="1003-2-e" reftype="term">covered loans</ref>. A for-profit mortgage-lending institution (other than a bank, savings association, or credit union) is also deemed to have a <ref target="1003-2-c" reftype="term">branch office</ref> in an <ref target="1003-2-m-1" reftype="term">MSA</ref> or in an MD, if, in the preceding calendar year, it received <ref target="1003-2-b" reftype="term">applications</ref> for, originated, or purchased five or more <ref target="1003-2-e" reftype="term">covered loans</ref> related to property located in that <ref target="1003-2-m-1" reftype="term">MSA</ref> or MD, respectively.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1003-2-d" marker="(d)">
@@ -214,13 +214,13 @@
             </paragraph>
           </paragraph>
           <paragraph label="1003-2-h" marker="(h)">
-            <content>[Reserved]</content>
+              <content><def term="home equity line of credit">Home equity line of credit</def> means an open-end credit plan secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> as defined in Regulation Z (Truth in Lending), 12 CFR part 1026.</content>
           </paragraph>
           <paragraph label="1003-2-i" marker="(i)">
             <content><def term="home improvement loan">Home improvement loan</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a <ref target="1003-2-f" reftype="term">dwelling</ref> or the real property on which the <ref target="1003-2-f" reftype="term">dwelling</ref> is located.</content>
           </paragraph>
           <paragraph label="1003-2-j" marker="(j)">
-            <content><def term="home puchase loan">Home purchase loan</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is for the purpose, in whole or in part, of purchasing a <ref target="1003-2-f" reftype="term">dwelling</ref>.</content>
+            <content><def term="home purchase loan">Home purchase loan</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is for the purpose, in whole or in part, of purchasing a <ref target="1003-2-f" reftype="term">dwelling</ref>.</content>
           </paragraph>
           <paragraph label="1003-2-k" marker="(k)">
             <content><def term="loan/application register">Loan/Application Register</def> means both the record of information required to be collected pursuant to § 1003.4 and the record submitted annually or quarterly, as applicable, pursuant to § <ref target="1003-5-a" reftype="internal">1003.5(a)</ref>.</content>
@@ -234,7 +234,7 @@
               <content><def term="metropolitan statistical area">Metropolitan Statistical Area</def> or <def term="MSA">MSA</def> means a Metropolitan Statistical Area as defined by the U.S. Office of Management and Budget.</content>
             </paragraph>
             <paragraph label="1003-2-m-2" marker="(2)">
-              <content><def term="metropolitan division">Metropolitan Division</def> (MD) means a Metropolitan Division of an <ref target="1003-2-m-1" reftype="term">MSA</ref>, as defined by the U.S. Office of Management and Budget.</content>
+                <content><def term="metropolitan division">Metropolitan Division</def> (<def term="MD">MD</def>) means a Metropolitan Division of an <ref target="1003-2-m-1" reftype="term">MSA</ref>, as defined by the U.S. Office of Management and Budget.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1003-2-n" marker="(n)">
@@ -263,10 +263,10 @@
               <title type="keyterm">Exemption based on state law.</title>
               <content/>
               <paragraph label="1003-3-a-1" marker="(1)">
-                <content>A state-chartered or state-licensed <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref> is exempt from the requirements of this part if the Bureau determines that the institution is subject to a state disclosure law that contains requirements substantially similar to those imposed by this part and that contains adequate provisions for enforcement.</content>
+                <content>A state-chartered or state-licensed <ref target="1003-2-g" reftype="term">financial institution</ref> is exempt from the requirements of this part if the Bureau determines that the institution is subject to a state disclosure law that contains requirements substantially similar to those imposed by this part and that contains adequate provisions for enforcement.</content>
               </paragraph>
               <paragraph label="1003-3-a-2" marker="(2)">
-                <content>Any state, state-chartered or state-licensed <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref>, or association of such institutions, may apply to the Bureau for an exemption under paragraph <ref target="1003-3-a" reftype="internal">(a)</ref> of this section.</content>
+                <content>Any state, state-chartered or state-licensed <ref target="1003-2-g" reftype="term">financial institution</ref>, or association of such institutions, may apply to the Bureau for an exemption under paragraph <ref target="1003-3-a" reftype="internal">(a)</ref> of this section.</content>
               </paragraph>
               <paragraph label="1003-3-a-3" marker="(3)">
                 <content>An institution that is exempt under paragraph <ref target="1003-3-a" reftype="internal">(a)</ref> of this section shall use the disclosure form required by its state law and shall submit the data required by that law to its state supervisory agency for purposes of aggregation.</content>
@@ -445,10 +445,10 @@
           <paragraph label="1003-4-a-12" marker="(12)">
         <content/>
         <paragraph label="1003-4-a-12-i" marker="(i)">
-          <content>For covered loans and applications that are approved but not accepted, and that are subject to Regulation Z, 12 CFR part 1026, other than assumptions, purchased covered loans, and reverse mortgages, the difference between the covered loan's annual percentage rate and the average prime offer rate for a comparable transaction as of the date the interest rate is set.</content>
+            <content>For covered loans and applications that are approved but not accepted, and that are subject to Regulation Z, 12 CFR part 1026, other than assumptions, purchased covered loans, and reverse mortgages, the difference between the covered loan's annual percentage rate and the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction as of the date the interest rate is set.</content>
         </paragraph>
         <paragraph label="1003-4-a-12-ii" marker="(ii)">
-          <content>“Average prime offer rate” means an annual percentage rate that is derived from average interest rates and other loan pricing terms currently offered to consumers by a set of creditors for mortgage loans that have low-risk pricing characteristics. The Bureau publishes tables of average prime offer rates by transaction type at least weekly and also publishes the methodology it uses to derive these rates.</content>
+            <content>“<def term="average prime offer rate">Average prime offer rate</def>” means an annual percentage rate that is derived from average interest rates and other loan pricing terms currently offered to consumers by a set of creditors for mortgage loans that have low-risk pricing characteristics. The Bureau publishes tables of <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> by transaction type at least weekly and also publishes the methodology it uses to derive these rates.</content>
         </paragraph>
       </paragraph>
     <paragraph label="1003-4-a-13" marker="(13)">
@@ -603,10 +603,10 @@
             <title type="keyterm">Reporting to agency.</title>
             <content/>
             <paragraph label="1003-5-a-1" marker="(1)">
-              <content>By March 1 following the calendar year for which the loan data are compiled, a <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref> shall send its complete loan/<ref target="1003-2-Application" reftype="term">application</ref> register to the agency office specified in Appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The institution shall retain a copy for its records for at least three years.</content>
+              <content>By March 1 following the calendar year for which the loan data are compiled, a <ref target="1003-2-g" reftype="term">financial institution</ref> shall send its complete loan/<ref target="1003-2-b" reftype="term">application</ref> register to the agency office specified in Appendix <ref target="1003-A" reftype="internal">A</ref> of this part. The institution shall retain a copy for its records for at least three years.</content>
             </paragraph>
             <paragraph label="1003-5-a-2" marker="(2)">
-              <content>A subsidiary of a bank or savings association shall complete a separate loan/<ref target="1003-2-Application" reftype="term">application</ref> register. The subsidiary shall submit the register, directly or through its parent, to the same agency as its parent.</content>
+              <content>A subsidiary of a bank or savings association shall complete a separate loan/<ref target="1003-2-b" reftype="term">application</ref> register. The subsidiary shall submit the register, directly or through its parent, to the same agency as its parent.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1003-5-b" marker="(b)">
@@ -641,7 +641,7 @@
       </paragraph>
     <paragraph label="1003-5-e" marker="(e)">
             <title type="keyterm">Notice of availability.</title>
-            <content>A <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref> shall post a general notice about the availability of its HMDA data in the lobby of its home office and of each <ref target="1003-2-BranchOffice" reftype="term">branch office</ref> located in an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> and <ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Division</ref>. An institution shall provide promptly upon request the location of the institution's offices where the statement is available for inspection and copying, or it may include the location in the lobby notice.</content>
+            <content>A <ref target="1003-2-g" reftype="term">financial institution</ref> shall post a general notice about the availability of its HMDA data in the lobby of its home office and of each <ref target="1003-2-c" reftype="term">branch office</ref> located in an <ref target="1003-2-m-1" reftype="term">MSA</ref> and <ref target="1003-2-m-2" reftype="term">Metropolitan Division</ref>. An institution shall provide promptly upon request the location of the institution's offices where the statement is available for inspection and copying, or it may include the location in the lobby notice.</content>
           </paragraph>
           <paragraph label="1003-5-f" marker="(f)">
         <title type="keyterm">Aggregated data.</title>
@@ -652,19 +652,19 @@
           <subject>§ 1003.6 Enforcement.</subject>
           <paragraph label="1003-6-a" marker="(a)">
             <title type="keyterm">Administrative enforcement.</title>
-            <content>A violation of the <ref target="1003-2-Act" reftype="term">Act</ref> or this part is subject to administrative sanctions as provided in section 305 of the <ref target="1003-2-Act" reftype="term">Act</ref>, including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of the <ref target="1003-2-Act" reftype="term">Act</ref> (<ref target="USC:12-2804" reftype="external">12 U.S.C. 2804</ref>).</content>
+            <content>A violation of the <ref target="1003-2-a" reftype="term">Act</ref> or this part is subject to administrative sanctions as provided in section 305 of the <ref target="1003-2-a" reftype="term">Act</ref>, including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of the <ref target="1003-2-a" reftype="term">Act</ref> (<ref target="USC:12-2804" reftype="external">12 U.S.C. 2804</ref>).</content>
           </paragraph>
           <paragraph label="1003-6-b" marker="(b)">
             <title type="keyterm">Bona fide errors.</title>
             <content/>
             <paragraph label="1003-6-b-1" marker="(1)">
-              <content>An error in compiling or recording loan data is not a violation of the <ref target="1003-2-Act" reftype="term">act</ref> or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such errors.</content>
+              <content>An error in compiling or recording loan data is not a violation of the <ref target="1003-2-a" reftype="term">act</ref> or this part if the error was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such errors.</content>
             </paragraph>
             <paragraph label="1003-6-b-2" marker="(2)">
-              <content>An incorrect entry for a census tract number is deemed a bona fide error, and is not a violation of the <ref target="1003-2-Act" reftype="term">act</ref> or this part, provided that the institution maintains procedures reasonably adapted to avoid such errors.</content>
+              <content>An incorrect entry for a census tract number is deemed a bona fide error, and is not a violation of the <ref target="1003-2-a" reftype="term">act</ref> or this part, provided that the institution maintains procedures reasonably adapted to avoid such errors.</content>
             </paragraph>
             <paragraph label="1003-6-b-3" marker="(3)">
-              <content>If an institution makes a good-faith effort to record all data concerning covered transactions fully and accurately within thirty calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the error or omission is not a violation of the <ref target="1003-2-Act" reftype="term">act</ref> or this part provided that the institution corrects or completes the information prior to submitting the loan/<ref target="1003-2-Application" reftype="term">application</ref> register to its regulatory agency.</content>
+              <content>If an institution makes a good-faith effort to record all data concerning covered transactions fully and accurately within thirty calendar days after the end of each calendar quarter, and some data are nevertheless inaccurate or incomplete, the error or omission is not a violation of the <ref target="1003-2-a" reftype="term">act</ref> or this part provided that the institution corrects or completes the information prior to submitting the loan/<ref target="1003-2-b" reftype="term">application</ref> register to its regulatory agency.</content>
             </paragraph>
           </paragraph>
         </section>
@@ -688,13 +688,13 @@
           <title>A. Application or Loan Information</title>
           <content/>
           <paragraph label="1003-A-h2-h3-1" marker="1.">
-            <content><ref target="1003-2-Application" reftype="term">Application</ref> or Loan Number. Enter an identifying loan number that can be used later to retrieve the loan or <ref target="1003-2-Application" reftype="term">application</ref> file. It can be any number of your institution's choosing (not exceeding 25 characters). You may use letters, numerals, or a combination of both.</content>
+            <content><ref target="1003-2-b" reftype="term">Application</ref> or Loan Number. Enter an identifying loan number that can be used later to retrieve the loan or <ref target="1003-2-b" reftype="term">application</ref> file. It can be any number of your institution's choosing (not exceeding 25 characters). You may use letters, numerals, or a combination of both.</content>
           </paragraph>
           <paragraph label="1003-A-h2-h3-2" marker="2.">
-            <content>Date <ref target="1003-2-Application" reftype="term">Application</ref> Received. Enter the date the loan <ref target="1003-2-Application" reftype="term">application</ref> was received by your institution by month, day, and year. If your institution normally records the date shown on the <ref target="1003-2-Application" reftype="term">application</ref> form you may use that date instead. Enter “NA” for loans purchased by your institution. For paper submissions only, use numerals in the form MM/DD/YYYY (for example, 01/15/2003). For submissions in electronic form, the proper format is YYYYMMDD.</content>
+            <content>Date <ref target="1003-2-b" reftype="term">Application</ref> Received. Enter the date the loan <ref target="1003-2-b" reftype="term">application</ref> was received by your institution by month, day, and year. If your institution normally records the date shown on the <ref target="1003-2-b" reftype="term">application</ref> form you may use that date instead. Enter “NA” for loans purchased by your institution. For paper submissions only, use numerals in the form MM/DD/YYYY (for example, 01/15/2003). For submissions in electronic form, the proper format is YYYYMMDD.</content>
           </paragraph>
           <paragraph label="1003-A-h2-h3-3" marker="3.">
-            <content>Type of Loan or <ref target="1003-2-Application" reftype="term">Application</ref>. Indicate the type of loan or <ref target="1003-2-Application" reftype="term">application</ref> by entering the applicable Code from the following:</content>
+            <content>Type of Loan or <ref target="1003-2-b" reftype="term">Application</ref>. Indicate the type of loan or <ref target="1003-2-b" reftype="term">application</ref> by entering the applicable Code from the following:</content>
             <paragraph label="1003-A-h2-h3-p2" marker="">
               <content>Code 1-Conventional (any loan other than FHA, VA, FSA, or RHS loans)</content>
             </paragraph>
@@ -711,23 +711,23 @@
           <paragraph label="1003-A-h2-h3-4" marker="4.">
             <content>Property Type. Indicate the property type by entering the applicable Code from the following:</content>
             <paragraph label="1003-A-h2-h3-p6" marker="">
-              <content>Code 1-One-to four-family <ref target="1003-2-Dwelling" reftype="term">dwelling</ref> (other than manufactured housing)</content>
+              <content>Code 1-One-to four-family <ref target="1003-2-f" reftype="term">dwelling</ref> (other than manufactured housing)</content>
             </paragraph>
             <paragraph label="1003-A-h2-h3-p7" marker="">
               <content>Code 2-Manufactured housing</content>
             </paragraph>
             <paragraph label="1003-A-h2-h3-p8" marker="">
-              <content>Code 3-Multifamily <ref target="1003-2-Dwelling" reftype="term">dwelling</ref></content>
+              <content>Code 3-Multifamily <ref target="1003-2-f" reftype="term">dwelling</ref></content>
               <paragraph label="1003-A-h2-h3-p8-a" marker="a.">
                 <content>Use Code 1, not Code 3, for loans on individual condominium or cooperative units.</content>
               </paragraph>
               <paragraph label="1003-A-h2-h3-p8-b" marker="b.">
-                <content>If you cannot determine (despite reasonable efforts to find out) whether the loan or <ref target="1003-2-Application" reftype="term">application</ref> relates to a <ref target="1003-2-ManufacturedHome" reftype="term">manufactured home</ref>, use Code 1.</content>
+                <content>If you cannot determine (despite reasonable efforts to find out) whether the loan or <ref target="1003-2-b" reftype="term">application</ref> relates to a <ref target="1003-2-l" reftype="term">manufactured home</ref>, use Code 1.</content>
               </paragraph>
             </paragraph>
           </paragraph>
           <paragraph label="1003-A-h2-h3-5" marker="5.">
-            <content>Purpose of Loan or <ref target="1003-2-Application" reftype="term">Application</ref>. Indicate the purpose of the loan or <ref target="1003-2-Application" reftype="term">application</ref> by entering the applicable Code from the following:</content>
+            <content>Purpose of Loan or <ref target="1003-2-b" reftype="term">Application</ref>. Indicate the purpose of the loan or <ref target="1003-2-b" reftype="term">application</ref> by entering the applicable Code from the following:</content>
             <paragraph label="1003-A-h2-h3-p9" marker="">
               <content>Code 1-Home purchase</content>
             </paragraph>
@@ -735,74 +735,74 @@
               <content>Code 2-Home improvement</content>
             </paragraph>
             <paragraph label="1003-A-h2-h3-p11" marker="">
-              <content>Code 3-<ref target="1003-2-Refinancing" reftype="term">Refinancing</ref></content>
+              <content>Code 3-<ref target="1003-2-p" reftype="term">Refinancing</ref></content>
               <paragraph label="1003-A-h2-h3-p11-a" marker="a.">
-                <content>Do not report a <ref target="1003-2-Refinancing" reftype="term">refinancing</ref> if, under the loan agreement, you were unconditionally obligated to refinance the obligation, or you were obligated to refinance the obligation subject to conditions within the borrower's control.</content>
+                <content>Do not report a <ref target="1003-2-p" reftype="term">refinancing</ref> if, under the loan agreement, you were unconditionally obligated to refinance the obligation, or you were obligated to refinance the obligation subject to conditions within the borrower's control.</content>
               </paragraph>
             </paragraph>
           </paragraph>
           <paragraph label="1003-A-h2-h3-6" marker="6.">
-            <content>Owner Occupancy. Indicate whether the property to which the loan or loan <ref target="1003-2-Application" reftype="term">application</ref> relates is to be owner-occupied as a principal residence by entering the applicable Code from the following:</content>
+            <content>Owner Occupancy. Indicate whether the property to which the loan or loan <ref target="1003-2-b" reftype="term">application</ref> relates is to be owner-occupied as a principal residence by entering the applicable Code from the following:</content>
             <paragraph label="1003-A-h2-h3-p12" marker="">
-              <content>Code 1-Owner-occupied as a principal <ref target="1003-2-Dwelling" reftype="term">dwelling</ref></content>
+              <content>Code 1-Owner-occupied as a principal <ref target="1003-2-f" reftype="term">dwelling</ref></content>
             </paragraph>
             <paragraph label="1003-A-h2-h3-p13" marker="">
-              <content>Code 2-Not owner-occupied as a principal <ref target="1003-2-Dwelling" reftype="term">dwelling</ref></content>
+              <content>Code 2-Not owner-occupied as a principal <ref target="1003-2-f" reftype="term">dwelling</ref></content>
             </paragraph>
             <paragraph label="1003-A-h2-h3-p14" marker="">
               <content>Code 3-Not applicable</content>
               <paragraph label="1003-A-h2-h3-p14-a" marker="a.">
-                <content>For purchased loans, use Code 1 unless the loan documents or <ref target="1003-2-Application" reftype="term">application</ref> indicate that the property will not be owner-occupied as a principal residence.</content>
+                <content>For purchased loans, use Code 1 unless the loan documents or <ref target="1003-2-b" reftype="term">application</ref> indicate that the property will not be owner-occupied as a principal residence.</content>
               </paragraph>
               <paragraph label="1003-A-h2-h3-p14-b" marker="b.">
                 <content>Use Code 2 for second homes or vacation homes, as well as for rental properties.</content>
               </paragraph>
               <paragraph label="1003-A-h2-h3-p14-c" marker="c.">
-                <content>Use Code 3 if the property to which the loan relates is a multifamily <ref target="1003-2-Dwelling" reftype="term">dwelling</ref>; is not located in an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>; or is located in an <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> or an <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref> in which your institution has neither a home nor a <ref target="1003-2-BranchOffice" reftype="term">branch office</ref>. Alternatively, at your institution's option, you may report the actual occupancy status, using Code 1 or 2 as applicable.</content>
+                <content>Use Code 3 if the property to which the loan relates is a multifamily <ref target="1003-2-f" reftype="term">dwelling</ref>; is not located in an <ref target="1003-2-m-1" reftype="term">MSA</ref>; or is located in an <ref target="1003-2-m-1" reftype="term">MSA</ref> or an <ref target="1003-2-m-2" reftype="term">MD</ref> in which your institution has neither a home nor a <ref target="1003-2-c" reftype="term">branch office</ref>. Alternatively, at your institution's option, you may report the actual occupancy status, using Code 1 or 2 as applicable.</content>
               </paragraph>
             </paragraph>
           </paragraph>
           <paragraph label="1003-A-h2-h3-7" marker="7.">
-            <content>Loan Amount. Enter the amount of the loan or <ref target="1003-2-Application" reftype="term">application</ref>. Do not report loans below $500. Show the amount in thousands, rounding to the nearest thousand (round $500 up to the next $1,000). For example, a loan for $167,300 should be entered as 167 and one for $15,500 as 16.</content>
+            <content>Loan Amount. Enter the amount of the loan or <ref target="1003-2-b" reftype="term">application</ref>. Do not report loans below $500. Show the amount in thousands, rounding to the nearest thousand (round $500 up to the next $1,000). For example, a loan for $167,300 should be entered as 167 and one for $15,500 as 16.</content>
             <paragraph label="1003-A-h2-h3-7-a" marker="a.">
-              <content>For a <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loan</ref> that you originated, enter the principal amount of the loan.</content>
+              <content>For a <ref target="1003-2-j" reftype="term">home purchase loan</ref> that you originated, enter the principal amount of the loan.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h3-7-b" marker="b.">
-              <content>For a <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loan</ref> that you purchased, enter the unpaid principal balance of the loan at the time of purchase.</content>
+              <content>For a <ref target="1003-2-j" reftype="term">home purchase loan</ref> that you purchased, enter the unpaid principal balance of the loan at the time of purchase.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h3-7-c" marker="c.">
-              <content>For a <ref target="1003-2-HomeImprovementLoan" reftype="term">home improvement loan</ref>, enter the entire amount of the loan-including unpaid finance charges if that is how such loans are recorded on your books-even if only a part of the proceeds is intended for home improvement.</content>
+              <content>For a <ref target="1003-2-i" reftype="term">home improvement loan</ref>, enter the entire amount of the loan-including unpaid finance charges if that is how such loans are recorded on your books-even if only a part of the proceeds is intended for home improvement.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h3-7-d" marker="d.">
               <content>If you opt to report home-equity lines of credit, report only the portion of the line intended for home improvement or home purchase.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h3-7-e" marker="e.">
-              <content>For a <ref target="1003-2-Refinancing" reftype="term">refinancing</ref>, indicate the total amount of the <ref target="1003-2-Refinancing" reftype="term">refinancing</ref>, including both the amount outstanding on the original loan and any amount of “new money.”</content>
+              <content>For a <ref target="1003-2-p" reftype="term">refinancing</ref>, indicate the total amount of the <ref target="1003-2-p" reftype="term">refinancing</ref>, including both the amount outstanding on the original loan and any amount of “new money.”</content>
             </paragraph>
             <paragraph label="1003-A-h2-h3-7-f" marker="f.">
-              <content>For a loan <ref target="1003-2-Application" reftype="term">application</ref> that was denied or withdrawn, enter the amount for which the applicant applied.</content>
+              <content>For a loan <ref target="1003-2-b" reftype="term">application</ref> that was denied or withdrawn, enter the amount for which the applicant applied.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1003-A-h2-h3-8" marker="8.">
-        <content>Request for Preapproval of a Home Purchase Loan. Indicate whether the <ref target="1003-2-Application" reftype="term">application</ref> or loan involved a request for preapproval of a <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loan</ref> by entering the applicable Code from the following:</content>
+        <content>Request for Preapproval of a Home Purchase Loan. Indicate whether the <ref target="1003-2-b" reftype="term">application</ref> or loan involved a request for preapproval of a <ref target="1003-2-j" reftype="term">home purchase loan</ref> by entering the applicable Code from the following:</content>
       </paragraph>
     </paragraph>
         <paragraph label="1003-A-h2-h4" marker="">
           <title>B. Action Taken</title>
           <content/>
           <paragraph label="1003-A-h2-h4-1" marker="1.">
-            <content>Type of Action. Indicate the type of action taken on the <ref target="1003-2-Application" reftype="term">application</ref> or loan by using one of the following Codes.</content>
+            <content>Type of Action. Indicate the type of action taken on the <ref target="1003-2-b" reftype="term">application</ref> or loan by using one of the following Codes.</content>
             <paragraph label="1003-A-h2-h4-p18" marker="">
               <content>Code 1-Loan originated</content>
             </paragraph>
             <paragraph label="1003-A-h2-h4-p19" marker="">
-              <content>Code 2-<ref target="1003-2-Application" reftype="term">Application</ref> approved but not accepted</content>
+              <content>Code 2-<ref target="1003-2-b" reftype="term">Application</ref> approved but not accepted</content>
             </paragraph>
             <paragraph label="1003-A-h2-h4-p20" marker="">
-              <content>Code 3-<ref target="1003-2-Application" reftype="term">Application</ref> denied</content>
+              <content>Code 3-<ref target="1003-2-b" reftype="term">Application</ref> denied</content>
             </paragraph>
             <paragraph label="1003-A-h2-h4-p21" marker="">
-              <content>Code 4-<ref target="1003-2-Application" reftype="term">Application</ref> withdrawn</content>
+              <content>Code 4-<ref target="1003-2-b" reftype="term">Application</ref> withdrawn</content>
             </paragraph>
             <paragraph label="1003-A-h2-h4-p22" marker="">
               <content>Code 5-File closed for incompleteness</content>
@@ -822,10 +822,10 @@
                 <content>For a counteroffer (your offer to the applicant to make the loan on different terms or in a different amount from the terms or amount applied for), use Code 1 if the applicant accepts. Use Code 3 if the applicant turns down the counteroffer or does not respond.</content>
               </paragraph>
               <paragraph label="1003-A-h2-h4-p25-c" marker="c.">
-                <content>Use Code 2 when the <ref target="1003-2-Application" reftype="term">application</ref> is approved but the applicant (or the loan broker or correspondent) fails to respond to your notification of approval or your commitment letter within the specified time. Do not use this Code for a preapproval request.</content>
+                <content>Use Code 2 when the <ref target="1003-2-b" reftype="term">application</ref> is approved but the applicant (or the loan broker or correspondent) fails to respond to your notification of approval or your commitment letter within the specified time. Do not use this Code for a preapproval request.</content>
               </paragraph>
               <paragraph label="1003-A-h2-h4-p25-d" marker="d.">
-        <content>Use Code 4 only when the <ref target="1003-2-Application" reftype="term">application</ref> is expressly withdrawn by the applicant before a credit decision is made. Do not use Code 4 if a request for preapproval is withdrawn; preapproval requests that are withdrawn are not reported under HMDA.</content>
+        <content>Use Code 4 only when the <ref target="1003-2-b" reftype="term">application</ref> is expressly withdrawn by the applicant before a credit decision is made. Do not use Code 4 if a request for preapproval is withdrawn; preapproval requests that are withdrawn are not reported under HMDA.</content>
       </paragraph>
     <paragraph label="1003-A-h2-h4-p25-e" marker="e.">
         <content>Use Code 5 if you sent a written notice of incompleteness under § <ref target="1002-9-c-2" reftype="internal">1002.9(c)(2)</ref> of Regulation B (Equal Credit Opportunity) and the applicant did not respond to your request for additional information within the period of time specified in your notice. Do not use this Code for requests for preapproval that are incomplete; these preapproval requests are not reported under HMDA.</content>
@@ -841,10 +841,10 @@
               <content>For loans purchased, enter the date of purchase by your institution.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h4-2-c" marker="c.">
-              <content>For <ref target="1003-2-Application" reftype="term">applications</ref> and preapprovals denied, <ref target="1003-2-Application" reftype="term">applications</ref> and preapprovals approved but not accepted by the applicant, and files closed for incompleteness, enter the date that the action was taken by your institution or the date the notice was sent to the applicant.</content>
+              <content>For <ref target="1003-2-b" reftype="term">applications</ref> and preapprovals denied, <ref target="1003-2-b" reftype="term">applications</ref> and preapprovals approved but not accepted by the applicant, and files closed for incompleteness, enter the date that the action was taken by your institution or the date the notice was sent to the applicant.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h4-2-d" marker="d.">
-              <content>For <ref target="1003-2-Application" reftype="term">applications</ref> withdrawn, enter the date you received the applicant's express withdrawal, or enter the date shown on the notification from the applicant, in the case of a written withdrawal.</content>
+              <content>For <ref target="1003-2-b" reftype="term">applications</ref> withdrawn, enter the date you received the applicant's express withdrawal, or enter the date shown on the notification from the applicant, in the case of a written withdrawal.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h4-2-e" marker="e.">
               <content>For preapprovals that lead to a loan origination, enter the date of the origination.</content>
@@ -855,9 +855,9 @@
           <title>C. Property Location</title>
           <content/>
           <paragraph label="1003-A-h2-h5-p26" marker="">
-            <content>Except as otherwise provided, enter in these columns the applicable Codes for the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>, or the <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref> if the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> is divided into <ref target="1003-2-Metropolitan-2" reftype="term">MDs</ref>, state, county, and census tract to indicate the location of the property to which a loan relates.</content>
+            <content>Except as otherwise provided, enter in these columns the applicable Codes for the <ref target="1003-2-m-1" reftype="term">MSA</ref>, or the <ref target="1003-2-m-2" reftype="term">MD</ref> if the <ref target="1003-2-m-1" reftype="term">MSA</ref> is divided into <ref target="1003-2-m-2" reftype="term">MDs</ref>, state, county, and census tract to indicate the location of the property to which a loan relates.</content>
             <paragraph label="1003-A-h2-h5-p26-1" marker="1.">
-              <content><ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Division</ref>.-For each loan or loan <ref target="1003-2-Application" reftype="term">application</ref>, enter the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>, or the <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref> number if the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> is divided into <ref target="1003-2-Metropolitan-2" reftype="term">MDs</ref>. <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> and <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref> boundaries are defined by OMB; use the boundaries that were in effect on January 1 of the calendar year for which you are reporting. A listing of <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s and <ref target="1003-2-Metropolitan-2" reftype="term">MDs</ref> is available from the appropriate Federal agency to which you report data or the FFIEC.</content>
+              <content><ref target="1003-2-m-1" reftype="term">MSA</ref> or <ref target="1003-2-m-2" reftype="term">Metropolitan Division</ref>.-For each loan or loan <ref target="1003-2-b" reftype="term">application</ref>, enter the <ref target="1003-2-m-1" reftype="term">MSA</ref>, or the <ref target="1003-2-m-2" reftype="term">MD</ref> number if the <ref target="1003-2-m-1" reftype="term">MSA</ref> is divided into <ref target="1003-2-m-2" reftype="term">MDs</ref>. <ref target="1003-2-m-1" reftype="term">MSA</ref> and <ref target="1003-2-m-2" reftype="term">MD</ref> boundaries are defined by OMB; use the boundaries that were in effect on January 1 of the calendar year for which you are reporting. A listing of <ref target="1003-2-m-1" reftype="term">MSA</ref>s and <ref target="1003-2-m-2" reftype="term">MDs</ref> is available from the appropriate Federal agency to which you report data or the FFIEC.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h5-p26-2" marker="2.">
               <content>State and County. Use the Federal Information Processing Standard (FIPS) two-digit numerical code for the state and the three-digit numerical code for the county. These codes are available from the appropriate Federal agency to which you report data or the FFIEC.</content>
@@ -869,13 +869,13 @@
               <content>Census Tract Number.-For the census tract number, consult the resources provided by the U.S. Census Bureau or the FFIEC.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h5-p26-5" marker="5.">
-              <content>Property Located Outside <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s or <ref target="1003-2-Metropolitan-2" reftype="term">Metropolitan Divisions</ref>.-For loans on property located outside the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s and <ref target="1003-2-Metropolitan-2" reftype="term">MDs</ref> in which an institution has a home or <ref target="1003-2-BranchOffice" reftype="term">branch office</ref>, or for property located outside of any <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>, the institution may choose one of the following two options. Under option one, the institution may enter the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>, state and county codes and the census tract number; and if the property is not located in any <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref>, the institution may enter “NA” in the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref> or <ref target="1003-2-Metropolitan-2" reftype="term">MD</ref> column. (Codes exist for all states and counties and numbers exist for all census tracts.) Under this first option, the codes and census tract number must accurately identify the property location. Under the second option, which is not available if <ref target="1003-A-h2-h5-p26-6" reftype="internal">paragraph 6</ref> applies, an institution may enter “NA” in all four columns, whether or not the codes or numbers exist for the property location.</content>
+              <content>Property Located Outside <ref target="1003-2-m-1" reftype="term">MSA</ref>s or <ref target="1003-2-m-2" reftype="term">Metropolitan Divisions</ref>.-For loans on property located outside the <ref target="1003-2-m-1" reftype="term">MSA</ref>s and <ref target="1003-2-m-2" reftype="term">MDs</ref> in which an institution has a home or <ref target="1003-2-c" reftype="term">branch office</ref>, or for property located outside of any <ref target="1003-2-m-1" reftype="term">MSA</ref> or <ref target="1003-2-m-2" reftype="term">MD</ref>, the institution may choose one of the following two options. Under option one, the institution may enter the <ref target="1003-2-m-1" reftype="term">MSA</ref> or <ref target="1003-2-m-2" reftype="term">MD</ref>, state and county codes and the census tract number; and if the property is not located in any <ref target="1003-2-m-1" reftype="term">MSA</ref> or <ref target="1003-2-m-2" reftype="term">MD</ref>, the institution may enter “NA” in the <ref target="1003-2-m-1" reftype="term">MSA</ref> or <ref target="1003-2-m-2" reftype="term">MD</ref> column. (Codes exist for all states and counties and numbers exist for all census tracts.) Under this first option, the codes and census tract number must accurately identify the property location. Under the second option, which is not available if <ref target="1003-A-h2-h5-p26-6" reftype="internal">paragraph 6</ref> applies, an institution may enter “NA” in all four columns, whether or not the codes or numbers exist for the property location.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h5-p26-6" marker="6.">
-              <content>Data Reporting for Banks and Savings Associations Required To Report Data on Small Business, Small Farm, and Community Development Lending Under the CRA Regulations.-If your institution is a bank or savings association that is required to report data under the regulations that implement the CRA, you must enter the property location on your HMDA/LAR even if the property is outside the <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>s or <ref target="1003-2-Metropolitan-2" reftype="term">MDs</ref> in which you have a home or <ref target="1003-2-BranchOffice" reftype="term">branch office</ref>, or is not located in any <ref target="1003-2-Metropolitan-1" reftype="term">MSA</ref>.</content>
+              <content>Data Reporting for Banks and Savings Associations Required To Report Data on Small Business, Small Farm, and Community Development Lending Under the CRA Regulations.-If your institution is a bank or savings association that is required to report data under the regulations that implement the CRA, you must enter the property location on your HMDA/LAR even if the property is outside the <ref target="1003-2-m-1" reftype="term">MSA</ref>s or <ref target="1003-2-m-2" reftype="term">MDs</ref> in which you have a home or <ref target="1003-2-c" reftype="term">branch office</ref>, or is not located in any <ref target="1003-2-m-1" reftype="term">MSA</ref>.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h5-p26-7" marker="7.">
-        <content>Requests for Preapproval. Notwithstanding paragraphs <ref target="1003-A-h2-h5-p26-1" reftype="internal">1</ref> through <ref target="1003-A-h2-h5-p26-6" reftype="internal">6</ref>, if the <ref target="1003-2-Application" reftype="term">application</ref> is a request for preapproval that is denied or that is approved but not accepted by the applicant, you may enter “NA” in all four columns.</content>
+        <content>Requests for Preapproval. Notwithstanding paragraphs <ref target="1003-A-h2-h5-p26-1" reftype="internal">1</ref> through <ref target="1003-A-h2-h5-p26-6" reftype="internal">6</ref>, if the <ref target="1003-2-b" reftype="term">application</ref> is a request for preapproval that is denied or that is approved but not accepted by the applicant, you may enter “NA” in all four columns.</content>
       </paragraph>
     </paragraph>
         </paragraph>
@@ -885,7 +885,7 @@
           <paragraph label="1003-A-h2-h6-p27" marker="">
             <content>Appendix <ref target="1003-B" reftype="internal">B</ref> contains instructions for the collection of data on ethnicity, race, and sex, and also contains a sample form for data collection.</content>
             <paragraph label="1003-A-h2-h6-p27-1" marker="1.">
-              <content>Applicability. Report this information for loans that you originate as well as for <ref target="1003-2-Application" reftype="term">applications</ref> that do not result in an origination.</content>
+              <content>Applicability. Report this information for loans that you originate as well as for <ref target="1003-2-b" reftype="term">applications</ref> that do not result in an origination.</content>
               <paragraph label="1003-A-h2-h6-p27-1-a" marker="a.">
                 <content>You need not collect or report this information for loans purchased. If you choose not to report this information, use the Codes for “not applicable.”</content>
               </paragraph>
@@ -894,7 +894,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1003-A-h2-h6-p27-2" marker="2.">
-              <content>Mail, Internet, or Telephone <ref target="1003-2-Application" reftype="term">Applications</ref>.-All loan <ref target="1003-2-Application" reftype="term">applications</ref>, including <ref target="1003-2-Application" reftype="term">applications</ref> taken by mail, internet, or telephone must use a collection form similar to that shown in Appendix <ref target="1003-B" reftype="internal">B</ref> regarding ethnicity, race, and sex. For <ref target="1003-2-Application" reftype="term">applications</ref> taken by telephone, the information in the collection form must be stated orally by the lender, except for information that pertains uniquely to <ref target="1003-2-Application" reftype="term">applications</ref> taken in writing. If the applicant does not provide these data in an <ref target="1003-2-Application" reftype="term">application</ref> taken by mail or telephone or on the internet, enter the Code for “information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref>” specified in paragraphs <ref target="1003-A-h2-h6-p27-3" reftype="internal">I.D.3.</ref>, <ref target="1003-A-h2-h6-p27-4" reftype="internal">4</ref>., and <ref target="1003-A-h2-h6-p27-5" reftype="internal">5</ref>. of this appendix. (See appendix <ref target="1003-B" reftype="internal">B</ref> for complete information on the collection of these data in mail, Internet, or telephone <ref target="1003-2-Application" reftype="term">applications</ref>.)</content>
+              <content>Mail, Internet, or Telephone <ref target="1003-2-b" reftype="term">Applications</ref>.-All loan <ref target="1003-2-b" reftype="term">applications</ref>, including <ref target="1003-2-b" reftype="term">applications</ref> taken by mail, internet, or telephone must use a collection form similar to that shown in Appendix <ref target="1003-B" reftype="internal">B</ref> regarding ethnicity, race, and sex. For <ref target="1003-2-b" reftype="term">applications</ref> taken by telephone, the information in the collection form must be stated orally by the lender, except for information that pertains uniquely to <ref target="1003-2-b" reftype="term">applications</ref> taken in writing. If the applicant does not provide these data in an <ref target="1003-2-b" reftype="term">application</ref> taken by mail or telephone or on the internet, enter the Code for “information not provided by applicant in mail, internet, or telephone <ref target="1003-2-b" reftype="term">application</ref>” specified in paragraphs <ref target="1003-A-h2-h6-p27-3" reftype="internal">I.D.3.</ref>, <ref target="1003-A-h2-h6-p27-4" reftype="internal">4</ref>., and <ref target="1003-A-h2-h6-p27-5" reftype="internal">5</ref>. of this appendix. (See appendix <ref target="1003-B" reftype="internal">B</ref> for complete information on the collection of these data in mail, Internet, or telephone <ref target="1003-2-b" reftype="term">applications</ref>.)</content>
             </paragraph>
             <paragraph label="1003-A-h2-h6-p27-3" marker="3.">
               <content>Ethnicity of Borrower or Applicant. Use the following Codes to indicate the ethnicity of the applicant or borrower under column “A” and of any co-applicant or co-borrower under column “CA.”</content>
@@ -905,7 +905,7 @@
                 <content>Code 2-Not Hispanic or Latino</content>
               </paragraph>
               <paragraph label="1003-A-h2-h6-p27-p30" marker="">
-                <content>Code 3-Information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref></content>
+                <content>Code 3-Information not provided by applicant in mail, internet, or telephone <ref target="1003-2-b" reftype="term">application</ref></content>
               </paragraph>
               <paragraph label="1003-A-h2-h6-p27-p31" marker="">
                 <content>Code 4-Not applicable</content>
@@ -932,7 +932,7 @@
                 <content>Code 5-White</content>
               </paragraph>
               <paragraph label="1003-A-h2-h6-p27-p38" marker="">
-                <content>Code 6-Information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref></content>
+                <content>Code 6-Information not provided by applicant in mail, internet, or telephone <ref target="1003-2-b" reftype="term">application</ref></content>
               </paragraph>
               <paragraph label="1003-A-h2-h6-p27-p39" marker="">
                 <content>Code 7-Not applicable</content>
@@ -946,7 +946,7 @@
                   <content>Use Code 4 (for ethnicity) and Code 7 (for race) for “not applicable” only when the applicant or co-applicant is not a natural person or when applicant or co-applicant information is unavailable because the loan has been purchased by your institution.</content>
                 </paragraph>
                 <paragraph label="1003-A-h2-h6-p27-p40-c" marker="c.">
-                  <content>If there is more than one co-applicant, provide the required information only for the first co-applicant listed on the <ref target="1003-2-Application" reftype="term">application</ref> form. If there are no co-applicants or co-borrowers, use Code 5 (for ethnicity) and Code 8 (for race) for “no co-applicant” in the co-applicant column.</content>
+                  <content>If there is more than one co-applicant, provide the required information only for the first co-applicant listed on the <ref target="1003-2-b" reftype="term">application</ref> form. If there are no co-applicants or co-borrowers, use Code 5 (for ethnicity) and Code 8 (for race) for “no co-applicant” in the co-applicant column.</content>
                 </paragraph>
               </paragraph>
             </paragraph>
@@ -959,7 +959,7 @@
                 <content>Code 2-Female</content>
               </paragraph>
               <paragraph label="1003-A-h2-h6-p27-p43" marker="">
-                <content>Code 3-Information not provided by applicant in mail, internet, or telephone <ref target="1003-2-Application" reftype="term">application</ref></content>
+                <content>Code 3-Information not provided by applicant in mail, internet, or telephone <ref target="1003-2-b" reftype="term">application</ref></content>
               </paragraph>
               <paragraph label="1003-A-h2-h6-p27-p44" marker="">
                 <content>Code 4-Not applicable</content>
@@ -970,7 +970,7 @@
                   <content>Use Code 4 for “not applicable” only when the applicant or co-applicant is not a natural person or when applicant or co-applicant information is unavailable because the loan has been purchased by your institution.</content>
                 </paragraph>
                 <paragraph label="1003-A-h2-h6-p27-p45-b" marker="b.">
-                  <content>If there is more than one co-applicant, provide the required information only for the first co-applicant listed on the <ref target="1003-2-Application" reftype="term">application</ref> form. If there are no co-applicants or co-borrowers, use Code 5 for “no co-applicant” in the co-applicant column.</content>
+                  <content>If there is more than one co-applicant, provide the required information only for the first co-applicant listed on the <ref target="1003-2-b" reftype="term">application</ref> form. If there are no co-applicants or co-borrowers, use Code 5 for “no co-applicant” in the co-applicant column.</content>
                 </paragraph>
               </paragraph>
             </paragraph>
@@ -980,7 +980,7 @@
                 <content>Round all dollar amounts to the nearest thousand (round $500 up to the next $1,000), and show in thousands. For example, report $35,500 as 36.</content>
               </paragraph>
               <paragraph label="1003-A-h2-h6-p27-6-b" marker="b.">
-                <content>For loans on multifamily <ref target="1003-2-Dwelling" reftype="term">dwellings</ref>, enter “NA.”</content>
+                <content>For loans on multifamily <ref target="1003-2-f" reftype="term">dwellings</ref>, enter “NA.”</content>
               </paragraph>
               <paragraph label="1003-A-h2-h6-p27-6-c" marker="c.">
                 <content>If no income information is asked for or relied on in the credit decision, enter “NA.”</content>
@@ -1026,7 +1026,7 @@
             <paragraph label="1003-A-h2-h7-p56" marker="">
               <content>Code 9-Other type of purchaser</content>
               <paragraph label="1003-A-h2-h7-p56-a" marker="a.">
-                <content>Use Code 0 for <ref target="1003-2-Application" reftype="term">applications</ref> that were denied, withdrawn, or approved but not accepted by the applicant; and for files closed for incompleteness.</content>
+                <content>Use Code 0 for <ref target="1003-2-b" reftype="term">applications</ref> that were denied, withdrawn, or approved but not accepted by the applicant; and for files closed for incompleteness.</content>
               </paragraph>
               <paragraph label="1003-A-h2-h7-p56-b" marker="b.">
                 <content>Use Code 0 if you originated or purchased a loan and did not sell it during that same calendar year. If you sell the loan in a succeeding year, you need not report the sale.</content>
@@ -1044,7 +1044,7 @@
           <title>F. Reasons for Denial</title>
           <content/>
           <paragraph label="1003-A-h2-h8-1" marker="1.">
-            <content>You may report the reason for denial, and you may indicate up to three reasons, using the following Codes. Leave this column blank if the “action taken” on the <ref target="1003-2-Application" reftype="term">application</ref> is not a denial. For example, do not complete this column if the <ref target="1003-2-Application" reftype="term">application</ref> was withdrawn or the file was closed for incompleteness.</content>
+            <content>You may report the reason for denial, and you may indicate up to three reasons, using the following Codes. Leave this column blank if the “action taken” on the <ref target="1003-2-b" reftype="term">application</ref> is not a denial. For example, do not complete this column if the <ref target="1003-2-b" reftype="term">application</ref> was withdrawn or the file was closed for incompleteness.</content>
             <paragraph label="1003-A-h2-h8-p57" marker="">
               <content>Code 1-Debt-to-income ratio</content>
             </paragraph>
@@ -1064,7 +1064,7 @@
               <content>Code 6-Unverifiable information</content>
             </paragraph>
             <paragraph label="1003-A-h2-h8-p63" marker="">
-              <content>Code 7-Credit <ref target="1003-2-Application" reftype="term">application</ref> incomplete</content>
+              <content>Code 7-Credit <ref target="1003-2-b" reftype="term">application</ref> incomplete</content>
             </paragraph>
             <paragraph label="1003-A-h2-h8-p64" marker="">
               <content>Code 8-Mortgage insurance denied</content>
@@ -1091,7 +1091,7 @@
               <content>Code 6 for: Unable to verify credit references; Unable to verify employment; Unable to verify income; and Unable to verify residence.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h8-2-f" marker="f.">
-              <content>Code 7 for: Credit <ref target="1003-2-Application" reftype="term">application</ref> incomplete.</content>
+              <content>Code 7 for: Credit <ref target="1003-2-b" reftype="term">application</ref> incomplete.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h8-2-g" marker="g.">
               <content>Code 9 for: Length of residence; Temporary residence; and Other reasons specified on notice.</content>
@@ -1104,13 +1104,13 @@
           <paragraph label="1003-A-h2-h9-1" marker="1.">
             <content>Rate Spread.</content>
             <paragraph label="1003-A-h2-h9-1-a" marker="a.">
-              <content>For a home-purchase loan, a <ref target="1003-2-Refinancing" reftype="term">refinancing</ref>, or a <ref target="1003-2-Dwelling" reftype="term">dwelling</ref>-secured <ref target="1003-2-HomeImprovementLoan" reftype="term">home improvement loan</ref> that you originated, report the spread between the annual percentage rate (APR) and the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction if the spread is equal to or greater than 1.5 percentage points for first-lien loans or 3.5 percentage points for subordinate-lien loans. To determine whether the rate spread meets this threshold, use the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> in effect for the type of transaction as of the date the interest rate was set, and use the APR for the loan, as calculated and disclosed to the consumer under §§ 1026.6 or 1026.18, as applicable, of Regulation Z (<ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref>). Current and historic <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> are set forth in the tables published on the FFIEC's Web site (http://www.ffiec.gov/hmda) entitled “<ref target="1003-4-a-12-ii" reftype="term">Average Prime Offer Rates</ref>-Fixed” and “<ref target="1003-4-a-12-ii" reftype="term">Average Prime Offer Rates</ref>-Adjustable.” Use the most recently available <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref>. “Most recently available” means the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> set forth in the applicable table with the most recent effective date as of the date the interest rate was set. Do not use an <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> before its effective date.</content>
+              <content>For a home-purchase loan, a <ref target="1003-2-p" reftype="term">refinancing</ref>, or a <ref target="1003-2-f" reftype="term">dwelling</ref>-secured <ref target="1003-2-i" reftype="term">home improvement loan</ref> that you originated, report the spread between the annual percentage rate (APR) and the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction if the spread is equal to or greater than 1.5 percentage points for first-lien loans or 3.5 percentage points for subordinate-lien loans. To determine whether the rate spread meets this threshold, use the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> in effect for the type of transaction as of the date the interest rate was set, and use the APR for the loan, as calculated and disclosed to the consumer under §§ 1026.6 or 1026.18, as applicable, of Regulation Z (<ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref>). Current and historic <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> are set forth in the tables published on the FFIEC's Web site (http://www.ffiec.gov/hmda) entitled “<ref target="1003-4-a-12-ii" reftype="term">Average Prime Offer Rates</ref>-Fixed” and “<ref target="1003-4-a-12-ii" reftype="term">Average Prime Offer Rates</ref>-Adjustable.” Use the most recently available <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref>. “Most recently available” means the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> set forth in the applicable table with the most recent effective date as of the date the interest rate was set. Do not use an <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> before its effective date.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h9-1-b" marker="b.">
-              <content>If the loan is not subject to Regulation Z, or is a <ref target="1003-2-HomeImprovementLoan" reftype="term">home improvement loan</ref> that is not <ref target="1003-2-Dwelling" reftype="term">dwelling</ref>-secured, or is a loan that you purchased, enter “NA.”</content>
+              <content>If the loan is not subject to Regulation Z, or is a <ref target="1003-2-i" reftype="term">home improvement loan</ref> that is not <ref target="1003-2-f" reftype="term">dwelling</ref>-secured, or is a loan that you purchased, enter “NA.”</content>
             </paragraph>
             <paragraph label="1003-A-h2-h9-1-c" marker="c.">
-              <content>Enter “NA” in the case of an <ref target="1003-2-Application" reftype="term">application</ref> that does not result in a loan origination.</content>
+              <content>Enter “NA” in the case of an <ref target="1003-2-b" reftype="term">application</ref> that does not result in a loan origination.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h9-1-d" marker="d.">
               <content>Enter the rate spread to two decimal places, and use a leading zero. For example, enter 03.29. If the difference between the APR and the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> is a figure with more than two decimal places, round the figure or truncate the digits beyond two decimal places.</content>
@@ -1120,7 +1120,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1003-A-h2-h9-2" marker="2.">
-            <content>Date the interest rate was set. The relevant date to use to determine the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction is the date on which the loan's interest rate was set by the <ref target="1003-2-FinancialInstitution" reftype="term">financial institution</ref> for the final time before closing. If an interest rate is set pursuant to a “lock-in” agreement between the lender and the borrower, then the date on which the agreement fixes the interest rate is the date the rate was set. If a rate is re-set after a lock-in agreement is executed (for example, because the borrower exercises a float-down option or the agreement expires), then the relevant date is the date the rate is re-set for the final time before closing. If no lock-in agreement is executed, then the relevant date is the date on which the institution sets the rate for the final time before closing.</content>
+            <content>Date the interest rate was set. The relevant date to use to determine the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction is the date on which the loan's interest rate was set by the <ref target="1003-2-g" reftype="term">financial institution</ref> for the final time before closing. If an interest rate is set pursuant to a “lock-in” agreement between the lender and the borrower, then the date on which the agreement fixes the interest rate is the date the rate was set. If a rate is re-set after a lock-in agreement is executed (for example, because the borrower exercises a float-down option or the agreement expires), then the relevant date is the date the rate is re-set for the final time before closing. If no lock-in agreement is executed, then the relevant date is the date on which the institution sets the rate for the final time before closing.</content>
           </paragraph>
           <paragraph label="1003-A-h2-h9-3" marker="3.">
             <content>HOEPA Status.</content>
@@ -1128,7 +1128,7 @@
               <content>For a loan that you originated or purchased that is subject to the Home Ownership and Equity Protection Act of 1994 (HOEPA), as implemented in Regulation Z (<ref target="CFR:12-1026-32" reftype="external">12 CFR 1026.32</ref>), because the APR or the points and fees on the loan exceed the HOEPA triggers, enter Code 1.</content>
             </paragraph>
             <paragraph label="1003-A-h2-h9-3-b" marker="b.">
-              <content>Enter Code 2 in all other cases. For example, enter Code 2 for a loan that you originated or purchased that is not subject to the requirements of HOEPA for any reason; also enter Code 2 in the case of an <ref target="1003-2-Application" reftype="term">application</ref> that does not result in a loan origination.</content>
+              <content>Enter Code 2 in all other cases. For example, enter Code 2 for a loan that you originated or purchased that is not subject to the requirements of HOEPA for any reason; also enter Code 2 in the case of an <ref target="1003-2-b" reftype="term">application</ref> that does not result in a loan origination.</content>
             </paragraph>
           </paragraph>
         </paragraph>
@@ -1136,7 +1136,7 @@
           <title>H. Lien Status</title>
           <content/>
           <paragraph label="1003-A-h2-h10-p66" marker="">
-            <content>Use the following Codes for loans that you originate and for <ref target="1003-2-Application" reftype="term">applications</ref> that do not result in an origination:</content>
+            <content>Use the following Codes for loans that you originate and for <ref target="1003-2-b" reftype="term">applications</ref> that do not result in an origination:</content>
             <paragraph label="1003-A-h2-h10-p67" marker="">
               <content>Code 1-Secured by a first lien.</content>
             </paragraph>
@@ -1149,7 +1149,7 @@
             <paragraph label="1003-A-h2-h10-p70" marker="">
               <content>Code 4-Not applicable (purchased loan).</content>
               <paragraph label="1003-A-h2-h10-p70-a" marker="a.">
-                <content>Use Codes 1 through 3 for loans that you originate, as well as for <ref target="1003-2-Application" reftype="term">applications</ref> that do not result in an origination (<ref target="1003-2-Application" reftype="term">applications</ref> that are approved but not accepted, denied, withdrawn, or closed for incompleteness).</content>
+                <content>Use Codes 1 through 3 for loans that you originate, as well as for <ref target="1003-2-b" reftype="term">applications</ref> that do not result in an origination (<ref target="1003-2-b" reftype="term">applications</ref> that are approved but not accepted, denied, withdrawn, or closed for incompleteness).</content>
               </paragraph>
               <paragraph label="1003-A-h2-h10-p70-b" marker="b.">
                 <content>Use Code 4 for loans that you purchase.</content>
@@ -1635,7 +1635,7 @@
             <content/>
             <interpParagraph label="1003-2-m-Interp-1" marker="1.">
               <title>Use of terms “Metropolitan Statistical Area (MSA)” and “Metropolitan Division (MD).”</title>
-              <content>The U.S. Office of Management and Budget (OMB) defines <ref target="1003-2-m-1" reftype="term">Metropolitan Statistical Areas</ref> (<ref target="1003-2-m-1" reftype="term">MSAs</ref>) and <ref target="1003-2-m-2" reftype="term">Metropolitan Divisions (MDs)</ref> to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. For all purposes under Regulation C, if an <ref target="1003-2-m-1" reftype="term">MSA</ref> is divided by OMB into <ref target="1003-2-m-2" reftype="term">MDs</ref>, the appropriate geographic unit to be used is the <ref target="1003-2-m-2" reftype="term">MD</ref>; if an <ref target="1003-2-m-1" reftype="term">MSA</ref> is not so divided by OMB into <ref target="1003-2-m-1" reftype="term">MDs</ref>, the appropriate geographic unit to be used is the <ref target="1003-2-m-1" reftype="term">MSA</ref>.</content>
+              <content>The U.S. Office of Management and Budget (OMB) defines <ref target="1003-2-m-1" reftype="term">Metropolitan Statistical Areas</ref> (<ref target="1003-2-m-1" reftype="term">MSAs</ref>) and <ref target="1003-2-m-2" reftype="term">Metropolitan Divisions</ref> (MDs) to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. For all purposes under Regulation C, if an <ref target="1003-2-m-1" reftype="term">MSA</ref> is divided by OMB into <ref target="1003-2-m-2" reftype="term">MDs</ref>, the appropriate geographic unit to be used is the <ref target="1003-2-m-2" reftype="term">MD</ref>; if an <ref target="1003-2-m-1" reftype="term">MSA</ref> is not so divided by OMB into <ref target="1003-2-m-2" reftype="term">MDs</ref>, the appropriate geographic unit to be used is the <ref target="1003-2-m-1" reftype="term">MSA</ref>.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1003-2-n-Interp" target="1003-2-n">
@@ -2437,11 +2437,11 @@
               <content/>
               <interpParagraph label="1003-4-a-12-Interp-1" marker="1.">
         <title>Average prime offer rate.</title>
-        <content>Average prime offer rates are annual percentage rates derived from average interest rates and other loan pricing terms offered to borrowers by a set of creditors for mortgage loans that have low-risk pricing characteristics. Other loan pricing terms may include commonly used indices, margins, and initial fixed-rate periods for variable-rate transactions. Relevant pricing characteristics may include a consumer's credit history and transaction characteristics such as the loan-to-value ratio, owner-occupant status, and purpose of the transaction. To obtain average prime offer rates, the Bureau uses creditor data by transaction type.</content>
+        <content>Average prime offer rates are annual percentage rates derived from average interest rates and other loan pricing terms offered to borrowers by a set of creditors for mortgage loans that have low-risk pricing characteristics. Other loan pricing terms may include commonly used indices, margins, and initial fixed-rate periods for variable-rate transactions. Relevant pricing characteristics may include a consumer's credit history and transaction characteristics such as the loan-to-value ratio, owner-occupant status, and purpose of the transaction. To obtain <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref>, the Bureau uses creditor data by transaction type.</content>
       </interpParagraph>
     <interpParagraph label="1003-4-a-12-Interp-2" marker="2.">
         <title>Bureau tables.</title>
-        <content>The Bureau publishes tables of current and historic average prime offer rates by transaction type on the FFIEC's Web site (http://www.ffiec.gov/​hmda) and the Bureau's Web site (https://www.consumerfinance.gov). The Bureau calculates an annual percentage rate, consistent with Regulation Z (see 12 CFR 1026.22 and 12 CFR part 1026, appendix J), for each transaction type for which pricing terms are available from the creditor data described in comment 4(a)(12)-1. The Bureau uses loan pricing terms available in the creditor data and other information to estimate annual percentage rates for other types of transactions for which the creditor data are limited or not available. The Bureau publishes on the FFIEC's Web site and the Bureau's Web site the methodology it uses to arrive at these estimates. A financial institution may either use the average prime offer rates published by the Bureau or determine average prime offer rates itself by employing the methodology published on the FFIEC's Web site and the Bureau's Web site. A financial institution that determines average prime offer rates itself, however, is responsible for correctly determining the rates in accordance with the published methodology.</content>
+        <content>The Bureau publishes tables of current and historic <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> by transaction type on the FFIEC's Web site (http://www.ffiec.gov/​hmda) and the Bureau's Web site (https://www.consumerfinance.gov). The Bureau calculates an annual percentage rate, consistent with Regulation Z (see 12 CFR 1026.22 and 12 CFR part 1026, appendix J), for each transaction type for which pricing terms are available from the creditor data described in comment 4(a)(12)-1. The Bureau uses loan pricing terms available in the creditor data and other information to estimate annual percentage rates for other types of transactions for which the creditor data are limited or not available. The Bureau publishes on the FFIEC's Web site and the Bureau's Web site the methodology it uses to arrive at these estimates. A financial institution may either use the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> published by the Bureau or determine <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> itself by employing the methodology published on the FFIEC's Web site and the Bureau's Web site. A financial institution that determines <ref target="1003-4-a-12-ii" reftype="term">average prime offer rates</ref> itself, however, is responsible for correctly determining the rates in accordance with the published methodology.</content>
       </interpParagraph>
     <interpParagraph label="1003-4-a-12-Interp-3" marker="1.">
         <title>Rate spread calculation—annual percentage rate.</title>
@@ -2469,7 +2469,7 @@
               </interpParagraph>
               <interpParagraph label="1003-4-a-12-Interp-5" marker="5.">
         <title>Rate-set date.</title>
-        <content>The relevant date to use to determine the average prime offer rate for a comparable transaction is the date on which the interest rate was set by the financial institution for the final time before final action is taken (i.e., the application was approved but not accepted or the covered loan was originated).</content>
+        <content>The relevant date to use to determine the <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> for a comparable transaction is the date on which the interest rate was set by the financial institution for the final time before final action is taken (i.e., the application was approved but not accepted or the covered loan was originated).</content>
         <interpParagraph label="1003-4-a-12-Interp-5-i" marker="i.">
           <title>Rate-lock agreement.</title>
           <content>If an interest rate is set pursuant to a “lock-in” agreement between the financial institution and the borrower, then the date on which the agreement fixes the interest rate is the date the rate was set. Except as provided in comment 4(a)(12)-5.ii, if a rate is reset after a lock-in agreement is executed (for example, because the borrower exercises a float-down option or the agreement expires), then the relevant date is the date the financial institution exercises discretion in setting the rate for the final time before final action is taken. The same rule applies when a rate-lock agreement is extended and the rate is reset at the same rate, regardless of whether market rates have increased, decreased, or remained the same since the initial rate was set. If no lock-in agreement is executed, then the relevant date is the date on which the institution sets the rate for the final time before final action is taken.</content>
@@ -2497,7 +2497,7 @@
       </interpParagraph>
     <interpParagraph label="1003-4-a-12-Interp-9" marker="9.">
         <title>Corrected disclosures.</title>
-        <content>In the case of a covered loan or an application that was approved but not accepted, if the annual percentage rate changes because a financial institution provides a corrected version of the disclosures required under Regulation Z, 12 CFR <ref target="1026-19-a" reftype="internal">1026.19(a)</ref>, pursuant to 12 CFR <ref target="1026-19-a-2" reftype="internal">1026.19(a)(2)</ref>, under 12 CFR <ref target="1026-19-f" reftype="internal">1026.19(f)</ref>, pursuant to 12 CFR <ref target="1026-19-f-2" reftype="internal">1026.19(f)(2)</ref>, or under 12 CFR <ref target="1026-6-a" reftype="internal">1026.6(a)</ref>, the financial institution complies with § <ref target="1003-4-a-12-i" reftype="internal">1003.4(a)(12)(i)</ref> by comparing the corrected and disclosed annual percentage rate to the most recently available average prime offer rate that was in effect for a comparable transaction as of the rate-set date, provided that the corrected disclosure was provided to the borrower prior to the end of the reporting period in which final action is taken. For purposes of § <ref target="1003-4-a-12" reftype="internal">1003.4(a)(12)</ref>, the date the corrected disclosure was provided to the borrower is the date the disclosure was mailed or delivered to the borrower in person; the financial institution's method of delivery does not affect the date provided. For example, where a financial institution provides a corrected version of the disclosures required under 12 CFR <ref target="1026-19-f" reftype="internal">1026.19(f)</ref>, pursuant to 12 CFR <ref target="1026-19-f-2" reftype="internal">1026.19(f)(2)</ref>, the date provided is the date disclosed pursuant to Regulation Z, 12 CFR <ref target="1026-38-a-3-i" reftype="internal">1026.38(a)(3)(i)</ref>. The provision of a corrected disclosure does not affect how a financial institution determines the rate-set date. See comment 4(a)(12)-5. For example, in the case of a financial institution's annual loan/application register submission made pursuant to § <ref target="1003-5-a-1" reftype="internal">1003.5(a)(1)</ref>, if the financial institution provides a corrected disclosure to the borrower pursuant to Regulation Z, 12 CFR <ref target="1026-19-f-2-v" reftype="internal">1026.19(f)(2)(v)</ref>, that reflects a corrected annual percentage rate, the financial institution reports the difference between the corrected annual percentage rate and the most recently available average prime offer rate that was in effect for a comparable transaction as of the rate-set date if the corrected disclosure was provided to the borrower prior to the end of the calendar year in which final action is taken.</content>
+        <content>In the case of a covered loan or an application that was approved but not accepted, if the annual percentage rate changes because a financial institution provides a corrected version of the disclosures required under Regulation Z, 12 CFR <ref target="1026-19-a" reftype="internal">1026.19(a)</ref>, pursuant to 12 CFR <ref target="1026-19-a-2" reftype="internal">1026.19(a)(2)</ref>, under 12 CFR <ref target="1026-19-f" reftype="internal">1026.19(f)</ref>, pursuant to 12 CFR <ref target="1026-19-f-2" reftype="internal">1026.19(f)(2)</ref>, or under 12 CFR <ref target="1026-6-a" reftype="internal">1026.6(a)</ref>, the financial institution complies with § <ref target="1003-4-a-12-i" reftype="internal">1003.4(a)(12)(i)</ref> by comparing the corrected and disclosed annual percentage rate to the most recently available <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> that was in effect for a comparable transaction as of the rate-set date, provided that the corrected disclosure was provided to the borrower prior to the end of the reporting period in which final action is taken. For purposes of § <ref target="1003-4-a-12" reftype="internal">1003.4(a)(12)</ref>, the date the corrected disclosure was provided to the borrower is the date the disclosure was mailed or delivered to the borrower in person; the financial institution's method of delivery does not affect the date provided. For example, where a financial institution provides a corrected version of the disclosures required under 12 CFR <ref target="1026-19-f" reftype="internal">1026.19(f)</ref>, pursuant to 12 CFR <ref target="1026-19-f-2" reftype="internal">1026.19(f)(2)</ref>, the date provided is the date disclosed pursuant to Regulation Z, 12 CFR <ref target="1026-38-a-3-i" reftype="internal">1026.38(a)(3)(i)</ref>. The provision of a corrected disclosure does not affect how a financial institution determines the rate-set date. See comment 4(a)(12)-5. For example, in the case of a financial institution's annual loan/application register submission made pursuant to § <ref target="1003-5-a-1" reftype="internal">1003.5(a)(1)</ref>, if the financial institution provides a corrected disclosure to the borrower pursuant to Regulation Z, 12 CFR <ref target="1026-19-f-2-v" reftype="internal">1026.19(f)(2)(v)</ref>, that reflects a corrected annual percentage rate, the financial institution reports the difference between the corrected annual percentage rate and the most recently available <ref target="1003-4-a-12-ii" reftype="term">average prime offer rate</ref> that was in effect for a comparable transaction as of the rate-set date if the corrected disclosure was provided to the borrower prior to the end of the calendar year in which final action is taken.</content>
       </interpParagraph>
     </interpParagraph>
             <interpParagraph label="1003-4-a-13-Interp" target="1003-4-a-13">

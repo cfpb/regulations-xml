@@ -20,6 +20,7 @@
     <federalRegisterURL>https://www.federalregister.gov/documents/2015/10/28/2015-26607/home-mortgage-disclosure-regulation-c</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2015-26607" leftEffectiveDate="2017-01-01" rightDocumentNumber="2015-26607" rightEffectiveDate="2018-01-01">
+  
     <change operation="modified" label="1003" subpath="tableOfContents">
       <tableOfContents>
         <tocSecEntry target="1003-1">
@@ -63,29 +64,31 @@
         </tocInterpEntry>
       </tableOfContents>
     </change>
+
     <change label="1003-1-c" operation="modified">
       <paragraph label="1003-1-c" marker="(c)">
-        <title>Scope</title>
-        <content>This part applies to <ref target="1003-2-g" reftype="term">financial institutions</ref> as defined in § <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>. This part requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to submit data to the appropriate Federal agency for the <ref target="1003-2-g" reftype="term">financial institution</ref> as defined in § <ref target="1003-5-a-4" reftype="internal">1003.5(a)(4)</ref>, and to disclose certain data to the public, about <ref target="1003-2-e" reftype="term">covered loans</ref> for which the <ref target="1003-2-g" reftype="term">financial institution</ref> receives <ref target="1003-2-b-1" reftype="term">applications</ref>, or that it originates or purchases, and that are secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> located in a State of the United States of America, the District of Columbia, or the Commonwealth of Puerto Rico.</content>
+        <title>Scope.</title>
+        <content>This part applies to <ref target="1003-2-g" reftype="term">financial institutions</ref> as defined in § <ref target="1003-2-g" reftype="internal">1003.2(g)</ref>. This part requires a <ref target="1003-2-g" reftype="term">financial institution</ref> to submit data to the appropriate Federal agency for the <ref target="1003-2-g" reftype="term">financial institution</ref> as defined in § <ref target="1003-5-a-4" reftype="internal">1003.5(a)(4)</ref>, and to disclose certain data to the public, about <ref target="1003-2-e" reftype="term">covered loans</ref> for which the <ref target="1003-2-g" reftype="term">financial institution</ref> receives <ref target="1003-2-b" reftype="term">applications</ref>, or that it originates or purchases, and that are secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> located in a State of the United States of America, the District of Columbia, or the Commonwealth of Puerto Rico.</content>
       </paragraph>
     </change>
+
     <change label="1003-2" operation="modified">
       <section label="1003-2" sectionNum="2">
-        <subject>Definitions</subject>
+        <subject>Definitions.</subject>
         <paragraph label="1003-2-p1" marker="">
           <content>In this part:</content>
           <paragraph label="1003-2-a" marker="(a)">
-            <content><def term="act">Act</def> means the Home Mortgage Disclosure Act (HMDA) (12 U.S.C. 2801 et seq.), as amended.</content>
+              <content><def term="act">Act</def> means the Home Mortgage Disclosure Act (<def term="hmda">HMDA</def>) (12 U.S.C. 2801 et seq.), as amended.</content>
           </paragraph>
           <paragraph label="1003-2-b" marker="(b)">
-            <content>Application—</content>
+              <content><def term="application">Application</def></content>
             <paragraph label="1003-2-b-1" marker="(1)">
               <title>In general.</title>
-              <content><def term="application">Application</def> means an oral or written request for a <ref target="1003-2-e" reftype="term">covered loan</ref> that is made in accordance with procedures used by a <ref target="1003-2-g" reftype="term">financial institution</ref> for the type of credit requested.</content>
+              <content>Application means an oral or written request for a <ref target="1003-2-e" reftype="term">covered loan</ref> that is made in accordance with procedures used by a <ref target="1003-2-g" reftype="term">financial institution</ref> for the type of credit requested.</content>
             </paragraph>
             <paragraph label="1003-2-b-2" marker="(2)">
               <title>Preapproval programs.</title>
-              <content>A <def term="request for preapproval">request for preapproval</def> for a <ref target="1003-2-j" reftype="term">home purchase loan</ref>, other than a home purchase loan that will be an <ref target="1003-2-o" reftype="term">open-end line of credit</ref>, a <ref target="1003-2-q" reftype="term">reverse mortgage</ref>, or secured by a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref>, is an <ref target="1003-2-b-1" reftype="term">application</ref> under this section if the request is reviewed under a program in which the <ref target="1003-2-g" reftype="term">financial institution</ref>, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:</content>
+              <content>A <def term="request for preapproval">request for preapproval</def> for a <ref target="1003-2-j" reftype="term">home purchase loan</ref>, other than a home purchase loan that will be an <ref target="1003-2-o" reftype="term">open-end line of credit</ref>, a <ref target="1003-2-q" reftype="term">reverse mortgage</ref>, or secured by a <ref target="1003-2-n" reftype="term">multifamily dwelling</ref>, is an <ref target="1003-2-b" reftype="term">application</ref> under this section if the request is reviewed under a program in which the <ref target="1003-2-g" reftype="term">financial institution</ref>, after a comprehensive analysis of the creditworthiness of the applicant, issues a written commitment to the applicant valid for a designated period of time to extend a home purchase loan up to a specified amount. The written commitment may not be subject to conditions other than:</content>
               <paragraph label="1003-2-b-2-i" marker="(i)">
                 <content>Conditions that require the identification of a suitable property;</content>
               </paragraph>
@@ -93,7 +96,7 @@
                 <content>Conditions that require that no material change has occurred in the applicant's financial condition or creditworthiness prior to closing; and</content>
               </paragraph>
               <paragraph label="1003-2-b-2-iii" marker="(iii)">
-                <content>Limited conditions that are not related to the financial condition or creditworthiness of the applicant that the <ref target="1003-2-g" reftype="term">financial institution</ref> ordinarily attaches to a traditional home mortgage <ref target="1003-2-b-1" reftype="term">application</ref>.</content>
+                <content>Limited conditions that are not related to the financial condition or creditworthiness of the applicant that the <ref target="1003-2-g" reftype="term">financial institution</ref> ordinarily attaches to a traditional home mortgage <ref target="1003-2-b" reftype="term">application</ref>.</content>
               </paragraph>
             </paragraph>
           </paragraph>
@@ -103,7 +106,7 @@
               <content>Any office of a bank, savings association, or credit union that is considered a branch by the Federal or State supervisory agency applicable to that institution, excluding automated teller machines and other free-standing electronic terminals; and</content>
             </paragraph>
             <paragraph label="1003-2-c-2" marker="(2)">
-              <content>Any office of a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that takes <ref target="1003-2-b-1" reftype="term">applications</ref> from the public for <ref target="1003-2-e" reftype="term">covered loans</ref>. A for-profit mortgage-lending institution (other than a bank, savings association, or credit union) is also deemed to have a <ref target="1003-2-c" reftype="term">branch office</ref> in an <ref target="1003-2-m-1" reftype="term">MSA</ref> or in an MD, if, in the preceding calendar year, it received <ref target="1003-2-b-1" reftype="term">applications</ref> for, originated, or purchased five or more <ref target="1003-2-e" reftype="term">covered loans</ref> related to property located in that <ref target="1003-2-m-1" reftype="term">MSA</ref> or MD, respectively.</content>
+              <content>Any office of a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that takes <ref target="1003-2-b" reftype="term">applications</ref> from the public for <ref target="1003-2-e" reftype="term">covered loans</ref>. A for-profit mortgage-lending institution (other than a bank, savings association, or credit union) is also deemed to have a <ref target="1003-2-c" reftype="term">branch office</ref> in an <ref target="1003-2-m-1" reftype="term">MSA</ref> or in an MD, if, in the preceding calendar year, it received <ref target="1003-2-b" reftype="term">applications</ref> for, originated, or purchased five or more <ref target="1003-2-e" reftype="term">covered loans</ref> related to property located in that <ref target="1003-2-m-1" reftype="term">MSA</ref> or MD, respectively.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1003-2-d" marker="(d)">
@@ -164,13 +167,13 @@
             </paragraph>
           </paragraph>
           <paragraph label="1003-2-h" marker="(h)">
-            <content>[Reserved]</content>
+              <content><def term="home equity line of credit">Home equity line of credit</def> means an open-end credit plan secured by a <ref target="1003-2-f" reftype="term">dwelling</ref> as defined in Regulation Z (Truth in Lending), 12 CFR part 1026.</content>
           </paragraph>
           <paragraph label="1003-2-i" marker="(i)">
             <content><def term="home improvement loan">Home improvement loan</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is for the purpose, in whole or in part, of repairing, rehabilitating, remodeling, or improving a <ref target="1003-2-f" reftype="term">dwelling</ref> or the real property on which the <ref target="1003-2-f" reftype="term">dwelling</ref> is located.</content>
           </paragraph>
           <paragraph label="1003-2-j" marker="(j)">
-            <content><def term="home puchase loan">Home purchase loan</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is for the purpose, in whole or in part, of purchasing a <ref target="1003-2-f" reftype="term">dwelling</ref>.</content>
+            <content><def term="home purchase loan">Home purchase loan</def> means a <ref target="1003-2-d" reftype="term">closed-end mortgage loan</ref> or an <ref target="1003-2-o" reftype="term">open-end line of credit</ref> that is for the purpose, in whole or in part, of purchasing a <ref target="1003-2-f" reftype="term">dwelling</ref>.</content>
           </paragraph>
           <paragraph label="1003-2-k" marker="(k)">
             <content><def term="loan/application register">Loan/Application Register</def> means both the record of information required to be collected pursuant to § 1003.4 and the record submitted annually or quarterly, as applicable, pursuant to § <ref target="1003-5-a" reftype="internal">1003.5(a)</ref>.</content>
@@ -184,7 +187,7 @@
               <content><def term="metropolitan statistical area">Metropolitan Statistical Area</def> or <def term="MSA">MSA</def> means a Metropolitan Statistical Area as defined by the U.S. Office of Management and Budget.</content>
             </paragraph>
             <paragraph label="1003-2-m-2" marker="(2)">
-              <content><def term="metropolitan division">Metropolitan Division</def> (MD) means a Metropolitan Division of an <ref target="1003-2-m-1" reftype="term">MSA</ref>, as defined by the U.S. Office of Management and Budget.</content>
+                <content><def term="metropolitan division">Metropolitan Division</def> (<def term="MD">MD</def>) means a Metropolitan Division of an <ref target="1003-2-m-1" reftype="term">MSA</ref>, as defined by the U.S. Office of Management and Budget.</content>
             </paragraph>
           </paragraph>
           <paragraph label="1003-2-n" marker="(n)">
@@ -208,6 +211,7 @@
         </paragraph>
       </section>
     </change>
+
     <change operation="modified" label="1003-3" subpath="subject">
       <subject>Exempt institutions and excluded transactions.</subject>
     </change>
@@ -253,6 +257,7 @@
         </paragraph>
       </paragraph>
     </change>
+
     <change operation="modified" label="1003-4">
       <section label="1003-4" sectionNum="4">
         <subject>§ 1003.4 Compilation of reportable data.</subject>
@@ -574,6 +579,7 @@
         <content>Using data submitted by <ref target="1003-2-g" reftype="term">financial institutions</ref> pursuant to paragraph <ref target="1003-5-a" reftype="internal">(a)</ref> of this section, the FFIEC will make available aggregate data for each <ref target="1003-2-m-1" reftype="term">MSA</ref> and <ref target="1003-2-m-2" reftype="term">MD</ref>, showing lending patterns by property location, age of housing stock, and income level, sex, ethnicity, and race.</content>
       </paragraph>
     </change>
+
     <change operation="added" label="1003-A-h1-p2" parent="1003-A-h1">
       <paragraph label="1003-A-h1-p2" marker="(1)">
         <title>Transition Requirements for Data Collected in 2017 and Submitted in 2018</title>
@@ -670,6 +676,7 @@
         </appendixSection>
       </appendix>
     </change>
+
     <change operation="added" label="1003-C" after="1003-B">
       <appendix appendixLetter="C" label="1003-C">
         <appendixTitle>Appendix C to Part 1003 - Procedures for Generating a Check Digit and Validating a ULI</appendixTitle>
@@ -768,6 +775,7 @@
         </appendixSection>
       </appendix>
     </change>
+
     <change operation="modified" label="1003-Interp">
       <interpretations label="1003-Interp">
         <tableOfContents>
@@ -989,7 +997,7 @@
             <content/>
             <interpParagraph label="1003-2-m-Interp-1" marker="1.">
               <title>Use of terms “Metropolitan Statistical Area (MSA)” and “Metropolitan Division (MD).”</title>
-              <content>The U.S. Office of Management and Budget (OMB) defines <ref target="1003-2-m-1" reftype="term">Metropolitan Statistical Areas</ref> (<ref target="1003-2-m-1" reftype="term">MSAs</ref>) and <ref target="1003-2-m-2" reftype="term">Metropolitan Divisions (MDs)</ref> to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. For all purposes under Regulation C, if an <ref target="1003-2-m-1" reftype="term">MSA</ref> is divided by OMB into <ref target="1003-2-m-2" reftype="term">MDs</ref>, the appropriate geographic unit to be used is the <ref target="1003-2-m-2" reftype="term">MD</ref>; if an <ref target="1003-2-m-1" reftype="term">MSA</ref> is not so divided by OMB into <ref target="1003-2-m-1" reftype="term">MDs</ref>, the appropriate geographic unit to be used is the <ref target="1003-2-m-1" reftype="term">MSA</ref>.</content>
+              <content>The U.S. Office of Management and Budget (OMB) defines <ref target="1003-2-m-1" reftype="term">Metropolitan Statistical Areas</ref> (<ref target="1003-2-m-1" reftype="term">MSAs</ref>) and <ref target="1003-2-m-2" reftype="term">Metropolitan Divisions</ref> (MDs) to provide nationally consistent definitions for collecting, tabulating, and publishing Federal statistics for a set of geographic areas. For all purposes under Regulation C, if an <ref target="1003-2-m-1" reftype="term">MSA</ref> is divided by OMB into <ref target="1003-2-m-2" reftype="term">MDs</ref>, the appropriate geographic unit to be used is the <ref target="1003-2-m-2" reftype="term">MD</ref>; if an <ref target="1003-2-m-1" reftype="term">MSA</ref> is not so divided by OMB into <ref target="1003-2-m-2" reftype="term">MDs</ref>, the appropriate geographic unit to be used is the <ref target="1003-2-m-1" reftype="term">MSA</ref>.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1003-2-n-Interp" target="1003-2-n">
@@ -2480,6 +2488,7 @@
         </interpSection>
       </interpretations>
     </change>
+
     <change operation="modified" label="1003-1-a">
       <paragraph label="1003-1-a" marker="(a)">
         <title type="keyterm">Authority.</title>
@@ -2490,7 +2499,7 @@
       <paragraph label="1003-1-b-1" marker="(1)">
         <content>This part implements the Home Mortgage Disclosure Act, which is intended to provide the public with loan data that can be used:</content>
         <paragraph label="1003-1-b-1-i" marker="(i)">
-          <content>To help determine whether <ref target="1003-2-FinancialInstitution" reftype="term">financial institutions</ref> are serving the housing needs of their communities;</content>
+          <content>To help determine whether <ref target="1003-2-g" reftype="term">financial institutions</ref> are serving the housing needs of their communities;</content>
         </paragraph>
         <paragraph label="1003-1-b-1-ii" marker="(ii)">
           <content>To assist public officials in distributing public-sector investment so as to attract private investment to areas where it is needed; and</content>
@@ -2500,9 +2509,10 @@
         </paragraph>
       </paragraph>
     </change>
+
     <change operation="modified" label="1003-A-h2-h3-8">
       <paragraph label="1003-A-h2-h3-8" marker="8.">
-        <content>Request for Preapproval of a Home Purchase Loan. Indicate whether the <ref target="1003-2-Application" reftype="term">application</ref> or loan involved a request for preapproval of a <ref target="1003-2-HomePurchaseLoan" reftype="term">home purchase loan</ref> by entering the applicable Code from the following:</content>
+        <content>Request for Preapproval of a Home Purchase Loan. Indicate whether the <ref target="1003-2-b" reftype="term">application</ref> or loan involved a request for preapproval of a <ref target="1003-2-j" reftype="term">home purchase loan</ref> by entering the applicable Code from the following:</content>
       </paragraph>
     </change>
     <change operation="modified" label="1003-A-h2-h4-p25-a">
@@ -2512,7 +2522,7 @@
     </change>
     <change operation="modified" label="1003-A-h2-h4-p25-d">
       <paragraph label="1003-A-h2-h4-p25-d" marker="d.">
-        <content>Use Code 4 only when the <ref target="1003-2-Application" reftype="term">application</ref> is expressly withdrawn by the applicant before a credit decision is made. Do not use Code 4 if a request for preapproval is withdrawn; preapproval requests that are withdrawn are not reported under HMDA.</content>
+        <content>Use Code 4 only when the <ref target="1003-2-b" reftype="term">application</ref> is expressly withdrawn by the applicant before a credit decision is made. Do not use Code 4 if a request for preapproval is withdrawn; preapproval requests that are withdrawn are not reported under HMDA.</content>
       </paragraph>
     </change>
     <change operation="modified" label="1003-A-h2-h4-p25-e">
@@ -2522,8 +2532,9 @@
     </change>
     <change operation="modified" label="1003-A-h2-h5-p26-7">
       <paragraph label="1003-A-h2-h5-p26-7" marker="7.">
-        <content>Requests for Preapproval. Notwithstanding paragraphs <ref target="1003-A-h2-h5-p26-1" reftype="internal">1</ref> through <ref target="1003-A-h2-h5-p26-6" reftype="internal">6</ref>, if the <ref target="1003-2-Application" reftype="term">application</ref> is a request for preapproval that is denied or that is approved but not accepted by the applicant, you may enter “NA” in all four columns.</content>
+        <content>Requests for Preapproval. Notwithstanding paragraphs <ref target="1003-A-h2-h5-p26-1" reftype="internal">1</ref> through <ref target="1003-A-h2-h5-p26-6" reftype="internal">6</ref>, if the <ref target="1003-2-b" reftype="term">application</ref> is a request for preapproval that is denied or that is approved but not accepted by the applicant, you may enter “NA” in all four columns.</content>
       </paragraph>
     </change>
+
   </changeset>
 </notice>
