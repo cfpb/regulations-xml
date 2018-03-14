@@ -16,7 +16,7 @@
       <section>1002</section>
     </cfr>
     <documentNumber>2017-20417</documentNumber>
-    <effectiveDate>2018-01-01</effectiveDate>
+    <effectiveDate>2022-01-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/documents/2017/10/02/2017-20417/equal-credit-opportunity-act-regulation-b-ethnicity-and-race-information-collection</federalRegisterURL>
   </preamble>
   <part label="1002">
@@ -1333,10 +1333,10 @@
         <appendixTitle>Appendix B to Part 1002—Model Application Forms</appendixTitle>
         <appendixSection appendixSecNum="1" label="1002-B-1">
           <subject/>
-          <paragraph label="1002-B-1-p1" marker="">
-            <content>1. This appendix contains five model credit application forms, each designated for use in a particular type of consumer credit transaction as indicated by the bracketed caption on each form. The first sample form is intended for use in open-end, unsecured transactions; the second for closed-end, secured transactions; the third for closed-end transactions, whether unsecured or secured; the fourth in transactions involving community property or occurring in community property states; and the fifth in residential mortgage transactions which contains a model disclosure for use in complying with § 1002.13 for certain dwelling-related loans. All forms contained in this appendix are models; their use by creditors is optional.</content>
-          </paragraph>
-        </appendixSection>
+          <paragraph marker="" label="1002-B-1-p1">
+        <content>1. This appendix contains five model credit application forms, each designated for use in a particular type of consumer credit transaction as indicated by the bracketed caption on each form. The first sample form is intended for use in open-end, unsecured transactions; the second for closed-end, secured transactions; the third for closed-end transactions, whether unsecured or secured; the fourth in transactions involving community property or occurring in community property States; and the fifth in residential mortgage transactions which contains a model disclosure for use in complying with § 1002.13 for certain dwelling-related loans. This appendix also contains a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of § 1002.13(a)(1)(i)(A) and (ii). Appendix B to 12 CFR part 1003 provides a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of § 1002.13(a)(1)(i)(B) and (ii). All forms contained in this appendix are models; their use by creditors is optional.</content>
+      </paragraph>
+    </appendixSection>
         <appendixSection appendixSecNum="2" label="1002-B-2">
           <subject/>
           <paragraph label="1002-B-2-p1" marker="">
@@ -1369,18 +1369,6 @@
                 <altText/>
                 <text>![](ER21DE11.047)</text>
                 <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.047/original.gif</url>
-              </graphic>
-            </content>
-          </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="6" label="1002-B-p3">
-          <subject/>
-          <paragraph label="1002-B-p3-p1" marker="">
-            <content>
-              <graphic>
-                <altText/>
-                <text>![](ER21DE11.048)</text>
-                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.048/original.gif</url>
               </graphic>
             </content>
           </paragraph>
