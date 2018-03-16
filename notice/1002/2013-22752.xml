@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>BANKS AND BANKING</cfrTitleText>
+    <volume>8</volume>
+    <date>2013-01-10</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>EQUAL CREDIT OPPORTUNITY ACT</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>B</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1002</section>
+    </cfr>
+    <documentNumber>2013-22752</documentNumber>
+    <effectiveDate>2014-01-10</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/10/01/2013-22752/amendments-to-the-2013-mortgage-rules-under-the-equal-credit-opportunity-act-regulation-b-real</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2013-01384" rightDocumentNumber="2013-22752">
+
+    <change operation="modified" label="1002-14-b-3">
+        <paragraph label="1002-14-b-3" marker="(3)">
+        <title type="keyterm">Valuation.</title>
+        <content>The term “<def term="valuation">valuation</def>” means any estimate of the value of a <ref target="1002-14-b-2" reftype="term">dwelling</ref> developed in connection with an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref>.</content>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1002-14-b-3-1">
+      <paragraph label="1002-14-b-3-1" marker="1.">
+        <content>VALUATIONS-EXAMPLES.</content>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1002-14-b-3-1-i" parent="1002-14-b-3-1">
+      <paragraph label="1002-14-b-3-1-i" marker="i.">
+        <content>A report prepared by an appraiser (whether or not licensed or certified) including the appraiser's estimate of the property's value or opinion of value.</content>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1002-14-b-3-3">
+      <paragraph label="1002-14-b-3-3" marker="3.">
+        <content>OTHER DOCUMENTATION.</content>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1002-14-b-3-3-v" parent="1002-14-b-3-3">
+      <paragraph label="1002-14-b-3-3-v" marker="v.">
+        <content>Reports reflecting property inspections that do not provide an estimate of the value of the property and are not used to develop an estimate of the value of the property.</content>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1002-14-b-3-3-vi" parent="1002-14-b-3-3">
+      <paragraph label="1002-14-b-3-3-vi" marker="vi.">
+        <content>Appraisal reviews that do not include the appraiser's estimate of the property's value or opinion of value.</content>
+      </paragraph>
+    </change>
+
+    <!-- Appendix A to part 1002 is amended by revising paragraph 2.d to read as follows: -->
+    <change operation="modified" label="1002-A-p1-2-d">
+      <paragraph marker="d." label="1002-A-p1-2-d">
+        <content>Federal Credit Unions: National Credit Union Administration, Office of Consumer Protection, 1775 Duke Street, Alexandria, VA 22314.</content>
+      </paragraph>
+  </change>
+  </changeset>
+</notice>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>BANKS AND BANKING</cfrTitleText>
+    <volume>8</volume>
+    <date>2017-10-02</date>
+    <originalDate>2011-12-21</originalDate>
+    <title>EQUAL CREDIT OPPORTUNITY ACT</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>B</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1002</section>
+    </cfr>
+    <documentNumber>2017-20417</documentNumber>
+    <effectiveDate>2022-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2017/10/02/2017-20417/equal-credit-opportunity-act-regulation-b-ethnicity-and-race-information-collection</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2017-20417" leftEffectiveDate="2018-01-01" rightDocumentNumber="2017-20417" rightEffectiveDate="2018-01-01">
+
+    <!-- Amend Appendix B to Part 1002 by revising paragraph 1 to read as follows: -->
+    <change operation="modified" label="1002-B-1-p1">
+      <paragraph marker="" label="1002-B-1-p1">
+        <content>1. This appendix contains five model credit application forms, each designated for use in a particular type of consumer credit transaction as indicated by the bracketed caption on each form. The first sample form is intended for use in open-end, unsecured transactions; the second for closed-end, secured transactions; the third for closed-end transactions, whether unsecured or secured; the fourth in transactions involving community property or occurring in community property States; and the fifth in residential mortgage transactions which contains a model disclosure for use in complying with § 1002.13 for certain dwelling-related loans. This appendix also contains a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of § 1002.13(a)(1)(i)(A) and (ii). Appendix B to 12 CFR part 1003 provides a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of § 1002.13(a)(1)(i)(B) and (ii). All forms contained in this appendix are models; their use by creditors is optional.</content>
+      </paragraph>
+    </change>
+
+    <!-- Amend Appendix B to Part 1002 to remove existing “Uniform Residential Loan Application” form from paragraph 3 -->
+    <change operation="deleted" label="1002-B-p3"/>
+
+  </changeset>
+</notice>

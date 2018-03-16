@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2017-04-25</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>ELECTRONIC FUND TRANSFERS</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>E</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1005</section>
+    </cfr>
+    <documentNumber>2017-08341</documentNumber>
+    <effectiveDate>2018-04-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/articles/2017/04/25/2017-08341/prepaid-accounts-under-the-electronic-fund-transfer-act-regulation-e-and-the-truth-in-lending-act</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2016-24506" rightDocumentNumber="2016-24503">
+
+    <!-- 2. Amend § 1005.19 by revising the reference to “October 1, 2017” to read “April 1, 2018” in paragraph (f)(1). -->
+    <change operation="modified" label="1005-19-f-1">
+      <paragraph label="1005-19-f-1" marker="(1)">
+        <title type="keyterm">Effective date generally.</title>
+        <content>Except as provided in paragraph <ref target="1005-19-f-2" reftype="internal">(f)(2)</ref>of this section, the requirements of this section apply to <ref target="1005-19-a-8" reftype="term">prepaid accounts</ref> beginning on April 1, 2018.</content>
+      </paragraph>
+    </change>
+  </changeset>
+</notice>

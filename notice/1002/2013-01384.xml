@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs http://cfpb.github.io/regulations-schema/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>BANKS AND BANKING</cfrTitleText>
+    <volume>8</volume>
+    <date>2014-01-18</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>EQUAL CREDIT OPPORTUNITY ACT</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>B</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1002</section>
+    </cfr>
+    <documentNumber>2013-01384</documentNumber>
+    <effectiveDate>2014-01-18</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/01/31/2013-01384/disclosure-and-delivery-requirements-for-copies-of-appraisals-and-other-written-valuations-under-the</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2011-31714" rightDocumentNumber="2013-01384">
+    <change operation="modified" label="1002-14-b-1">
+      <paragraph label="1002-14-b-1" marker="(1)">
+        <title type="keyterm">Consummation.</title>
+        <content>The term “<def term="consummation">consummation</def>” means the time that a consumer becomes contractually obligated on a closed-end <ref target="1002-2-m" reftype="term">credit transaction</ref>.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1002-14-b-2">
+      <paragraph label="1002-14-b-2" marker="(2)">
+        <title type="keyterm">Dwelling.</title>
+        <content>The term “<def term="dwelling">dwelling</def>” means a residential structure that contains one to four units whether or not that structure is attached to real property. The term includes, but is not limited to, an individual condominium or cooperative unit, and a mobile or other manufactured home.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1002-14-b-3">
+      <paragraph label="1002-14-b-3" marker="(3)">
+        <title type="keyterm">Valuation.</title>
+        <content>The term “<def term="valuation">valuation</def>” means any estimate of the value of a <ref target="1002-14-b-2" reftype="term">dwelling</ref> developed in connection with an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref>.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1002-14-b-3-Interp-3-v">
+      <interpParagraph label="1002-14-b-3-Interp-3-v" marker="v.">
+        <content>Reports reflecting property inspections that do not provide an estimate or opinion of the value of the property and are not used to develop an estimate or opinion of the value of the property.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1002-14-b">
+      <paragraph label="1002-14-b" marker="(b)">
+        <title type="keyterm">Definitions.</title>
+        <content>For purposes of paragraph <ref target="1002-14-a" reftype="internal">(a)</ref> of this section:</content>
+        <paragraph label="1002-14-b-1" marker="(1)">
+          <title type="keyterm">Consummation.</title>
+          <content>The term “<def term="consummation">consummation</def>” means the time that a consumer becomes contractually obligated on a closed-end <ref target="1002-2-m" reftype="term">credit transaction</ref>.</content>
+        </paragraph>
+        <paragraph label="1002-14-b-2" marker="(2)">
+          <title type="keyterm">Dwelling.</title>
+          <content>The term “<def term="dwelling">dwelling</def>” means a residential structure that contains one to four units whether or not that structure is attached to real property. The term includes, but is not limited to, an individual condominium or cooperative unit, and a mobile or other manufactured home.</content>
+        </paragraph>
+        <paragraph label="1002-14-b-3" marker="(3)">
+          <title type="keyterm">Valuation.</title>
+          <content>The term “<def term="valuation">valuation</def>” means any estimate of the value of a <ref target="1002-14-b-2" reftype="term">dwelling</ref> developed in connection with an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref>.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1002-14-a">
+      <paragraph label="1002-14-a" marker="(a)">
+        <title type="keyterm">Providing appraisals and other valuations.</title>
+        <content/>
+        <paragraph label="1002-14-a-1" marker="(1)">
+          <title type="keyterm">In general.</title>
+          <content>A <ref target="1002-2-l" reftype="term">creditor</ref> shall provide an <ref target="1002-2-e" reftype="term">applicant</ref> a copy of all appraisals and other written <ref target="1002-14-b-3" reftype="term">valuations</ref> developed in connection with an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> that is to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>. A <ref target="1002-2-l" reftype="term">creditor</ref> shall provide a copy of each such appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> promptly upon completion, or three business days prior to <ref target="1002-14-b-1" reftype="term">consummation</ref> of the transaction (for closed-end <ref target="1002-2-j" reftype="term">credit</ref>) or <ref target="1002-2-a" reftype="term">account</ref> opening (for <ref target="1002-2-w" reftype="term">open-end credit</ref>), whichever is earlier. An <ref target="1002-2-e" reftype="term">applicant</ref> may waive the timing requirement in this paragraph <ref target="1002-14-a-1" reftype="internal">(a)(1)</ref> and agree to receive any copy at or before <ref target="1002-14-b-1" reftype="term">consummation</ref> or <ref target="1002-2-a" reftype="term">account</ref> opening, except where otherwise prohibited by law. Any such waiver must be obtained at least three business days prior to <ref target="1002-14-b-1" reftype="term">consummation</ref> or <ref target="1002-2-a" reftype="term">account</ref> opening, unless the waiver pertains solely to the <ref target="1002-2-e" reftype="term">applicant</ref>'s receipt of a copy of an appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> that contains only clerical changes from a previous version of the appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> provided to the <ref target="1002-2-e" reftype="term">applicant</ref> three or more business days prior to <ref target="1002-14-b-1" reftype="term">consummation</ref> or <ref target="1002-2-a" reftype="term">account</ref> opening. If the <ref target="1002-2-e" reftype="term">applicant</ref> provides a waiver and the transaction is not consummated or the <ref target="1002-2-a" reftype="term">account</ref> is not opened, the <ref target="1002-2-l" reftype="term">creditor</ref> must provide these copies no later than 30 days after the <ref target="1002-2-l" reftype="term">creditor</ref> determines <ref target="1002-14-b-1" reftype="term">consummation</ref> will not occur or the <ref target="1002-2-a" reftype="term">account</ref> will not be opened.</content>
+        </paragraph>
+        <paragraph label="1002-14-a-2" marker="(2)">
+          <title type="keyterm">Disclosure.</title>
+          <content>For <ref target="1002-2-f" reftype="term">applications</ref> subject to paragraph <ref target="1002-14-a-1" reftype="internal">(a)(1)</ref> of this section, a <ref target="1002-2-l" reftype="term">creditor</ref> shall mail or deliver to an <ref target="1002-2-e" reftype="term">applicant</ref>, not later than the third business day after the <ref target="1002-2-l" reftype="term">creditor</ref> receives an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> that is to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>, a notice in writing of the <ref target="1002-2-e" reftype="term">applicant</ref>'s right to receive a copy of all written appraisals developed in connection with the <ref target="1002-2-f" reftype="term">application</ref>. In the case of an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> that is not to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref> at the time of <ref target="1002-2-f" reftype="term">application</ref>, if the <ref target="1002-2-l" reftype="term">creditor</ref> later determines the <ref target="1002-2-j" reftype="term">credit</ref> will be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>, the <ref target="1002-2-l" reftype="term">creditor</ref> shall mail or deliver the same notice in writing not later than the third business day after the <ref target="1002-2-l" reftype="term">creditor</ref> determines that the loan is to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>.</content>
+        </paragraph>
+        <paragraph label="1002-14-a-3" marker="(3)">
+          <title type="keyterm">Reimbursement.</title>
+          <content>A <ref target="1002-2-l" reftype="term">creditor</ref> shall not charge an <ref target="1002-2-e" reftype="term">applicant</ref> for providing a copy of appraisals and other written <ref target="1002-14-b-3" reftype="term">valuations</ref> as required under this section, but may require <ref target="1002-2-e" reftype="term">applicants</ref> to pay a reasonable fee to reimburse the <ref target="1002-2-l" reftype="term">creditor</ref> for the cost of the appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> unless otherwise provided by law.</content>
+        </paragraph>
+        <paragraph label="1002-14-a-4" marker="(4)">
+          <title type="keyterm">Withdrawn, denied, or incomplete applications.</title>
+          <content>The requirements set forth in paragraph <ref target="1002-14-a-1" reftype="internal">(a)(1)</ref> of this section apply whether <ref target="1002-2-j" reftype="term">credit</ref> is extended or denied or if the <ref target="1002-2-f" reftype="term">application</ref> is incomplete or withdrawn.</content>
+        </paragraph>
+        <paragraph label="1002-14-a-5" marker="(5)">
+          <title type="keyterm">Copies in electronic form.</title>
+          <content>The copies required by § 1002.14(a)(1) may be provided to the <ref target="1002-2-e" reftype="term">applicant</ref> in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (<ref target="USC:15-7001" reftype="external">15 U.S.C. 7001</ref> et seq.).</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="deleted" label="1002-14-b-3-Interp-3-vi"/>
+    <change operation="modified" label="1002-14-a-1">
+      <paragraph label="1002-14-a-1" marker="(1)">
+        <title type="keyterm">In general.</title>
+        <content>A <ref target="1002-2-l" reftype="term">creditor</ref> shall provide an <ref target="1002-2-e" reftype="term">applicant</ref> a copy of all appraisals and other written <ref target="1002-14-b-3" reftype="term">valuations</ref> developed in connection with an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> that is to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>. A <ref target="1002-2-l" reftype="term">creditor</ref> shall provide a copy of each such appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> promptly upon completion, or three business days prior to <ref target="1002-14-b-1" reftype="term">consummation</ref> of the transaction (for closed-end <ref target="1002-2-j" reftype="term">credit</ref>) or <ref target="1002-2-a" reftype="term">account</ref> opening (for <ref target="1002-2-w" reftype="term">open-end credit</ref>), whichever is earlier. An <ref target="1002-2-e" reftype="term">applicant</ref> may waive the timing requirement in this paragraph <ref target="1002-14-a-1" reftype="internal">(a)(1)</ref> and agree to receive any copy at or before <ref target="1002-14-b-1" reftype="term">consummation</ref> or <ref target="1002-2-a" reftype="term">account</ref> opening, except where otherwise prohibited by law. Any such waiver must be obtained at least three business days prior to <ref target="1002-14-b-1" reftype="term">consummation</ref> or <ref target="1002-2-a" reftype="term">account</ref> opening, unless the waiver pertains solely to the <ref target="1002-2-e" reftype="term">applicant</ref>'s receipt of a copy of an appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> that contains only clerical changes from a previous version of the appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> provided to the <ref target="1002-2-e" reftype="term">applicant</ref> three or more business days prior to <ref target="1002-14-b-1" reftype="term">consummation</ref> or <ref target="1002-2-a" reftype="term">account</ref> opening. If the <ref target="1002-2-e" reftype="term">applicant</ref> provides a waiver and the transaction is not consummated or the <ref target="1002-2-a" reftype="term">account</ref> is not opened, the <ref target="1002-2-l" reftype="term">creditor</ref> must provide these copies no later than 30 days after the <ref target="1002-2-l" reftype="term">creditor</ref> determines <ref target="1002-14-b-1" reftype="term">consummation</ref> will not occur or the <ref target="1002-2-a" reftype="term">account</ref> will not be opened.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1002-4-d">
+      <paragraph label="1002-4-d" marker="(d)">
+        <title type="keyterm">Form of disclosures.</title>
+        <content/>
+        <paragraph label="1002-4-d-1" marker="(1)">
+          <title type="keyterm">General rule.</title>
+          <content>A <ref target="1002-2-l" reftype="term">creditor</ref> that provides in writing any disclosures or information required by this part must provide the disclosures in a clear and conspicuous manner and, except for the disclosures required by §§ 1002.5 and 1002.13, in a form the <ref target="1002-2-e" reftype="term">applicant</ref> may retain.</content>
+        </paragraph>
+        <paragraph label="1002-4-d-2" marker="(2)">
+          <title type="keyterm">Disclosures in electronic form.</title>
+          <content>The disclosures required by this part that are required to be given in writing may be provided to the <ref target="1002-2-e" reftype="term">applicant</ref> in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (<ref target="USC:15-7001" reftype="external">15 U.S.C. 7001</ref> et seq.). Where the disclosures under §§ 1002.5(b)(1), 1002.5(b)(2), 1002.5(d)(1), 1002.5(d)(2), 1002.13, and 1002.14(a)(2) accompany an <ref target="1002-2-f" reftype="term">application</ref> accessed by the <ref target="1002-2-e" reftype="term">applicant</ref> in electronic form, these disclosures may be provided to the <ref target="1002-2-e" reftype="term">applicant</ref> in electronic form on or with the <ref target="1002-2-f" reftype="term">application</ref> form, without regard to the consumer consent or other provisions of the E-Sign Act.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1002-C-Interp-1-ii">
+      <interpParagraph label="1002-C-Interp-1-ii" marker="ii.">
+        <content>A notice of the cost the <ref target="1002-2-e" reftype="term">applicant</ref> will be required to pay the <ref target="1002-2-l" reftype="term">creditor</ref> for the appraisal or other valuation.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1002-14-a-3">
+      <paragraph label="1002-14-a-3" marker="(3)">
+        <title type="keyterm">Reimbursement.</title>
+        <content>A <ref target="1002-2-l" reftype="term">creditor</ref> shall not charge an <ref target="1002-2-e" reftype="term">applicant</ref> for providing a copy of appraisals and other written <ref target="1002-14-b-3" reftype="term">valuations</ref> as required under this section, but may require <ref target="1002-2-e" reftype="term">applicants</ref> to pay a reasonable fee to reimburse the <ref target="1002-2-l" reftype="term">creditor</ref> for the cost of the appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> unless otherwise provided by law.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1002-14-a-2">
+      <paragraph label="1002-14-a-2" marker="(2)">
+        <title type="keyterm">Disclosure.</title>
+        <content>For <ref target="1002-2-f" reftype="term">applications</ref> subject to paragraph <ref target="1002-14-a-1" reftype="internal">(a)(1)</ref> of this section, a <ref target="1002-2-l" reftype="term">creditor</ref> shall mail or deliver to an <ref target="1002-2-e" reftype="term">applicant</ref>, not later than the third business day after the <ref target="1002-2-l" reftype="term">creditor</ref> receives an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> that is to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>, a notice in writing of the <ref target="1002-2-e" reftype="term">applicant</ref>'s right to receive a copy of all written appraisals developed in connection with the <ref target="1002-2-f" reftype="term">application</ref>. In the case of an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> that is not to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref> at the time of <ref target="1002-2-f" reftype="term">application</ref>, if the <ref target="1002-2-l" reftype="term">creditor</ref> later determines the <ref target="1002-2-j" reftype="term">credit</ref> will be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>, the <ref target="1002-2-l" reftype="term">creditor</ref> shall mail or deliver the same notice in writing not later than the third business day after the <ref target="1002-2-l" reftype="term">creditor</ref> determines that the loan is to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1002-14">
+      <section label="1002-14" sectionNum="14">
+        <subject>§ 1002.14 Rules on providing appraisals and other valuations.</subject>
+        <paragraph label="1002-14-a" marker="(a)">
+          <title type="keyterm">Providing appraisals and other valuations.</title>
+          <content/>
+          <paragraph label="1002-14-a-1" marker="(1)">
+            <title type="keyterm">In general.</title>
+            <content>A <ref target="1002-2-l" reftype="term">creditor</ref> shall provide an <ref target="1002-2-e" reftype="term">applicant</ref> a copy of all appraisals and other written <ref target="1002-14-b-3" reftype="term">valuations</ref> developed in connection with an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> that is to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>. A <ref target="1002-2-l" reftype="term">creditor</ref> shall provide a copy of each such appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> promptly upon completion, or three business days prior to <ref target="1002-14-b-1" reftype="term">consummation</ref> of the transaction (for closed-end <ref target="1002-2-j" reftype="term">credit</ref>) or <ref target="1002-2-a" reftype="term">account</ref> opening (for <ref target="1002-2-w" reftype="term">open-end credit</ref>), whichever is earlier. An <ref target="1002-2-e" reftype="term">applicant</ref> may waive the timing requirement in this paragraph <ref target="1002-14-a-1" reftype="internal">(a)(1)</ref> and agree to receive any copy at or before <ref target="1002-14-b-1" reftype="term">consummation</ref> or <ref target="1002-2-a" reftype="term">account</ref> opening, except where otherwise prohibited by law. Any such waiver must be obtained at least three business days prior to <ref target="1002-14-b-1" reftype="term">consummation</ref> or <ref target="1002-2-a" reftype="term">account</ref> opening, unless the waiver pertains solely to the <ref target="1002-2-e" reftype="term">applicant</ref>'s receipt of a copy of an appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> that contains only clerical changes from a previous version of the appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> provided to the <ref target="1002-2-e" reftype="term">applicant</ref> three or more business days prior to <ref target="1002-14-b-1" reftype="term">consummation</ref> or <ref target="1002-2-a" reftype="term">account</ref> opening. If the <ref target="1002-2-e" reftype="term">applicant</ref> provides a waiver and the transaction is not consummated or the <ref target="1002-2-a" reftype="term">account</ref> is not opened, the <ref target="1002-2-l" reftype="term">creditor</ref> must provide these copies no later than 30 days after the <ref target="1002-2-l" reftype="term">creditor</ref> determines <ref target="1002-14-b-1" reftype="term">consummation</ref> will not occur or the <ref target="1002-2-a" reftype="term">account</ref> will not be opened.</content>
+          </paragraph>
+          <paragraph label="1002-14-a-2" marker="(2)">
+            <title type="keyterm">Disclosure.</title>
+            <content>For <ref target="1002-2-f" reftype="term">applications</ref> subject to paragraph <ref target="1002-14-a-1" reftype="internal">(a)(1)</ref> of this section, a <ref target="1002-2-l" reftype="term">creditor</ref> shall mail or deliver to an <ref target="1002-2-e" reftype="term">applicant</ref>, not later than the third business day after the <ref target="1002-2-l" reftype="term">creditor</ref> receives an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> that is to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>, a notice in writing of the <ref target="1002-2-e" reftype="term">applicant</ref>'s right to receive a copy of all written appraisals developed in connection with the <ref target="1002-2-f" reftype="term">application</ref>. In the case of an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref> that is not to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref> at the time of <ref target="1002-2-f" reftype="term">application</ref>, if the <ref target="1002-2-l" reftype="term">creditor</ref> later determines the <ref target="1002-2-j" reftype="term">credit</ref> will be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>, the <ref target="1002-2-l" reftype="term">creditor</ref> shall mail or deliver the same notice in writing not later than the third business day after the <ref target="1002-2-l" reftype="term">creditor</ref> determines that the loan is to be secured by a first lien on a <ref target="1002-14-b-2" reftype="term">dwelling</ref>.</content>
+          </paragraph>
+          <paragraph label="1002-14-a-3" marker="(3)">
+            <title type="keyterm">Reimbursement.</title>
+            <content>A <ref target="1002-2-l" reftype="term">creditor</ref> shall not charge an <ref target="1002-2-e" reftype="term">applicant</ref> for providing a copy of appraisals and other written <ref target="1002-14-b-3" reftype="term">valuations</ref> as required under this section, but may require <ref target="1002-2-e" reftype="term">applicants</ref> to pay a reasonable fee to reimburse the <ref target="1002-2-l" reftype="term">creditor</ref> for the cost of the appraisal or other written <ref target="1002-14-b-3" reftype="term">valuation</ref> unless otherwise provided by law.</content>
+          </paragraph>
+          <paragraph label="1002-14-a-4" marker="(4)">
+            <title type="keyterm">Withdrawn, denied, or incomplete applications.</title>
+            <content>The requirements set forth in paragraph <ref target="1002-14-a-1" reftype="internal">(a)(1)</ref> of this section apply whether <ref target="1002-2-j" reftype="term">credit</ref> is extended or denied or if the <ref target="1002-2-f" reftype="term">application</ref> is incomplete or withdrawn.</content>
+          </paragraph>
+          <paragraph label="1002-14-a-5" marker="(5)">
+            <title type="keyterm">Copies in electronic form.</title>
+            <content>The copies required by § 1002.14(a)(1) may be provided to the <ref target="1002-2-e" reftype="term">applicant</ref> in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (<ref target="USC:15-7001" reftype="external">15 U.S.C. 7001</ref> et seq.).</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1002-14-b" marker="(b)">
+          <title type="keyterm">Definitions.</title>
+          <content>For purposes of paragraph <ref target="1002-14-a" reftype="internal">(a)</ref> of this section:</content>
+          <paragraph label="1002-14-b-1" marker="(1)">
+            <title type="keyterm">Consummation.</title>
+            <content>The term “<def term="consummation">consummation</def>” means the time that a consumer becomes contractually obligated on a closed-end <ref target="1002-2-m" reftype="term">credit transaction</ref>.</content>
+          </paragraph>
+          <paragraph label="1002-14-b-2" marker="(2)">
+            <title type="keyterm">Dwelling.</title>
+            <content>The term “<def term="dwelling">dwelling</def>” means a residential structure that contains one to four units whether or not that structure is attached to real property. The term includes, but is not limited to, an individual condominium or cooperative unit, and a mobile or other manufactured home.</content>
+          </paragraph>
+          <paragraph label="1002-14-b-3" marker="(3)">
+            <title type="keyterm">Valuation.</title>
+            <content>The term “<def term="valuation">valuation</def>” means any estimate of the value of a <ref target="1002-14-b-2" reftype="term">dwelling</ref> developed in connection with an <ref target="1002-2-f" reftype="term">application</ref> for <ref target="1002-2-j" reftype="term">credit</ref>.</content>
+          </paragraph>
+        </paragraph>
+      </section>
+    </change>
+    <change operation="modified" label="1002-14-b-3-Interp-1-i">
+      <interpParagraph label="1002-14-b-3-Interp-1-i" marker="i.">
+        <content>A report prepared by an appraiser (whether or not licensed or certified) including the appraiser's estimate or opinion of the property's value.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1002-14-a-5">
+      <paragraph label="1002-14-a-5" marker="(5)">
+        <title type="keyterm">Copies in electronic form.</title>
+        <content>The copies required by § 1002.14(a)(1) may be provided to the <ref target="1002-2-e" reftype="term">applicant</ref> in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (<ref target="USC:15-7001" reftype="external">15 U.S.C. 7001</ref> et seq.).</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1002-14-a-4">
+      <paragraph label="1002-14-a-4" marker="(4)">
+        <title type="keyterm">Withdrawn, denied, or incomplete applications.</title>
+        <content>The requirements set forth in paragraph <ref target="1002-14-a-1" reftype="internal">(a)(1)</ref> of this section apply whether <ref target="1002-2-j" reftype="term">credit</ref> is extended or denied or if the <ref target="1002-2-f" reftype="term">application</ref> is incomplete or withdrawn.</content>
+      </paragraph>
+    </change>
+  </changeset>
+</notice>
