@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -15,20 +16,13 @@
     </cfr>
     <documentNumber>2016-14782</documentNumber>
     <effectiveDate>2016-06-27</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2016/06/27/2016-14782/truth-in-lending-regulation-z-annual-threshold-adjustments-card-act-hoepa-and-atrqm</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2016/06/27/2016-14782/truth-in-lending-regulation-z-annual-threshold-adjustments-card-act-hoepa-and-atrqm</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2016-06834" rightDocumentNumber="2016-14782">
-
-    <!-- Section 1026.52 is amended by revising paragraphs (b)(1)(ii)(B) -->
-
     <change operation="modified" label="1026-52-b-1-ii-B">
       <paragraph label="1026-52-b-1-ii-B" marker="(B)">
-	<content>$38 if the card issuer previously imposed a fee pursuant to paragraph (b)(1)(ii)(A) of this section for a violation of the same type that occurred during the same billing cycle or one of the next six billing cycles; or</content>
+        <content>$38 if the card issuer previously imposed a fee pursuant to paragraph (b)(1)(ii)(A) of this section for a violation of the same type that occurred during the same billing cycle or one of the next six billing cycles; or</content>
       </paragraph>
     </change>
-    
   </changeset>
 </notice>
-
-
-

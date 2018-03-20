@@ -16,10 +16,9 @@
     </cfr>
     <documentNumber>2015-09000</documentNumber>
     <effectiveDate>2015-04-17</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2015/04/17/2015-09000/submission-of-credit-card-agreements-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2015/04/17/2015-09000/submission-of-credit-card-agreements-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2014-30419" rightDocumentNumber="2015-09000">
-    <!-- Notice changes: 1026.58(g), 1026.58(g) Interps -->
     <change operation="added" label="1026-58-g">
       <paragraph label="1026-58-g" marker="(g)">
         <title type="keyterm">Temporary suspension of agreement submission requirement</title>
@@ -69,7 +68,6 @@
           <content>Section <ref target="1026-58-d" reftype="internal">1026.58(d)</ref> requires a <ref target="1026-58-b-4" reftype="term">card issuer</ref> to post and maintain on its publicly available Web site the <ref target="1026-58-b-1" reftype="term">credit card agreements</ref> that the <ref target="1026-58-b-4" reftype="term">issuer</ref> is required to submit to the <ref target="1026-2-a-5" reftype="term">Bureau</ref> under § <ref target="1026-58-c" reftype="internal">1026.58(c)</ref>. Pursuant to § <ref target="1026-58-g-2" reftype="internal">1026.58(g)(2)</ref>, during the temporary suspension period set forth in § <ref target="1026-58-g-1" reftype="internal">1026.58(g)(1)</ref>, a <ref target="1026-58-b-4" reftype="term">card issuer</ref> shall continue to post its <ref target="1026-58-b-1" reftype="term">agreements</ref> to its own publicly available Web site as required by § <ref target="1026-58-d" reftype="internal">1026.58(d)</ref> using the <ref target="1026-58-b-1" reftype="term">agreements</ref> it would have otherwise submitted to the <ref target="1026-2-a-5" reftype="term">Bureau</ref> under § <ref target="1026-58-c" reftype="internal">1026.58(c)</ref>. For example, for purposes of § <ref target="1026-58-d-4" reftype="internal">1026.58(d)(4)</ref>, a <ref target="1026-58-b-4" reftype="term">card issuer</ref> must continue to update the <ref target="1026-58-b-1" reftype="term">agreements</ref> posted on its own Web site at least as frequently as the quarterly schedule required for submission of <ref target="1026-58-b-1" reftype="term">agreements</ref> to the <ref target="1026-2-a-5" reftype="term">Bureau</ref> set forth in § <ref target="1026-58-c-1" reftype="internal">1026.58(c)(1)</ref>, notwithstanding the temporary suspension of submission requirements in § <ref target="1026-58-g-1" reftype="internal">1026.58(g)(1)</ref>. Similarly, for purposes of § <ref target="1026-58-d-2" reftype="internal">1026.58(d)(2)</ref>, <ref target="1026-58-b-1" reftype="term">agreements</ref> posted by a <ref target="1026-58-b-4" reftype="term">card issuer</ref> on its own Web site must continue to conform to the form and content requirements set forth in § <ref target="1026-58-c-8" reftype="internal">1026.58(c)(8)</ref>.</content>
         </interpParagraph>
       </interpParagraph>
-    </change> 
-    <!-- End of notice -->
+    </change>
   </changeset>
 </notice>

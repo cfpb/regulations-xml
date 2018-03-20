@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -15,7 +16,7 @@
     </cfr>
     <documentNumber>2013-10429</documentNumber>
     <effectiveDate>2013-05-03</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2013/05/03/2013-10429/truth-in-lending-regulation-z</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/05/03/2013-10429/truth-in-lending-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-07066" rightDocumentNumber="2013-10429">
     <change operation="deleted" label="1026-51-a-1-i-Interp-4-i-C"/>
@@ -585,7 +586,6 @@
         </analysisParagraph>
       </analysisSection>
     </analysisSection>
-
     <analysisSection target="1026-51-b" notice="2013-10429" date="2013-05-03">
       <title>51(b) Rules Affecting Young Consumers</title>
       <analysisSection>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -15,7 +16,7 @@
     </cfr>
     <documentNumber>2013-16962_20140110</documentNumber>
     <effectiveDate>2014-01-10</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2013/07/24/2013-16962/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/07/24/2013-16962/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-13173" rightDocumentNumber="2013-16962_20140110">
     <!-- Notice changes Authority Citation, 1026.41(a)(1), 1026.41(e)(4)(ii)-(iii), 1026.43(e)(4)(ii)(A)-(E) -->
@@ -1255,15 +1256,15 @@
           <content>Assume that a <ref target="1026-2-a-17" reftype="term">creditor</ref> delivered a loan, which the <ref target="1026-2-a-17" reftype="term">creditor</ref> determined was a qualified mortgage at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref> under § <ref target="1026-43-e-4" reftype="internal">1026.43(e)(4)</ref>, to Fannie Mae for inclusion in a particular To-Be-Announced Mortgage Backed Security (MBS) pool of loans. The data submitted by the <ref target="1026-2-a-17" reftype="term">creditor</ref> at the time of loan delivery indicated that the various <ref target="1026-43-b-6" reftype="term">loan terms</ref> met the product type, weighted-average coupon, weighted-average maturity, and other MBS pooling criteria, and MBS issuance disclosures to investors reflected this loan data. However, after delivery and MBS issuance, a quality control review determines that the loan violates the pooling criteria. The loan still meets eligibility requirements for Fannie Mae products and <ref target="1026-43-b-6" reftype="term">loan terms</ref>. Fannie Mae, however, requires the <ref target="1026-2-a-17" reftype="term">creditor</ref> to repurchase the loan due to the violation of MBS pooling requirements. Assume that the quality control review determination is accurate. Because the loan still meets Fannie Mae’s eligibility requirements, it remains a qualified mortgage based on these facts and circumstances. </content>
         </interpParagraph>
       </interpParagraph>
-    </change><!-- end of notice changes -->
+    </change>
   </changeset>
   <!-- Analysis Missing: -->
   <!-- 20(c) -->
   <!-- 20(d) -->
   <!-- 41(a)(1) -->
-  <!-- 41( e)(4)(ii) -->
-  <!-- 41( e)(4)(iii) -->
-  <!-- 43( e)(4) -->
+  <!-- 41(e)(4)(ii) -->
+  <!-- 41(e)(4)(iii) -->
+  <!-- 43(e)(4) -->
   <!-- Appendix Q -->
   <!-- 20(d) -->
   <analysis>

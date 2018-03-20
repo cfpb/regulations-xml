@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -15,7 +16,7 @@
     </cfr>
     <documentNumber>2013-29844</documentNumber>
     <effectiveDate>2014-01-01</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2013/12/16/2013-29844/truth-in-lending-regulation-z</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/12/16/2013-29844/truth-in-lending-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-28195" rightDocumentNumber="2013-29844">
     <change operation="modified" label="1026-52-b-1-ii-A">

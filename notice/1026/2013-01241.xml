@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -15,7 +16,7 @@
     </cfr>
     <documentNumber>2013-01241</documentNumber>
     <effectiveDate>2014-01-10</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2013/02/14/2013-01241/mortgage-servicing-rules-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/02/14/2013-01241/mortgage-servicing-rules-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-00740" rightDocumentNumber="2013-01241">
     <!-- Update TOC for Section 20 and 41 subject changes -->
@@ -119,7 +120,6 @@
         </tocSecEntry>
       </tableOfContents>
     </change>
-
     <!-- Section 1026.17 is amended by revising paragraphs (a)(1) and (b) -->
     <change operation="modified" label="1026-17-a-1">
       <paragraph label="1026-17-a-1" marker="(1)">
@@ -2274,7 +2274,8 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-    </change><!-- Under Appendix H: paragraphs 7 introductory text and 7.i are revised.  -->
+    </change>
+    <!-- Under Appendix H: paragraphs 7 introductory text and 7.i are revised.  -->
     <change operation="modified" label="1026-H-Interp-7">
       <interpParagraph label="1026-H-Interp-7" marker="7.">
         <title type="keyterm">Models H-4(D) through H-4(J).</title>
@@ -2300,7 +2301,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-    <!-- end notice -->
   </changeset>
   <analysis>
     <analysisSection target="1026-20" notice="2013-01241" date="2014-01-10">

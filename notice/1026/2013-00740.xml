@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -15,16 +16,16 @@
     </cfr>
     <documentNumber>2013-00740</documentNumber>
     <effectiveDate>2014-01-10</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2013/01/31/2013-00740/high-cost-mortgage-and-homeownership-counseling-amendments-to-the-truth-in-lending-act-regulation-z</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/01/31/2013-00740/high-cost-mortgage-and-homeownership-counseling-amendments-to-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-00736" rightDocumentNumber="2013-00740">
-
     <!-- Section 1026.1 is amended by revising paragraph (d)(5) -->
     <change operation="modified" label="1026-1-d-5">
       <paragraph label="1026-1-d-5" marker="(5)">
         <content>Subpart E contains special rules for mortgage transactions. Section <ref target="1026-32" reftype="internal">1026.32</ref> requires certain disclosures and provides limitations for <ref target="1026-2-a-14" reftype="term">credit</ref> transactions and open-end <ref target="1026-2-a-14" reftype="term">credit</ref> plans that have rates or fees above specified amounts or certain <ref target="1026-32-b-6-i" reftype="term">prepayment penalties</ref>. Section <ref target="1026-33" reftype="internal">1026.33</ref> requires special disclosures, including the total annual loan cost rate, for <ref target="1026-33-a" reftype="term">reverse mortgage transactions</ref>. Section <ref target="1026-34" reftype="internal">1026.34</ref> prohibits specific acts and practices in connection with high-cost mortgages, as defined in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>. Section <ref target="1026-35" reftype="internal">1026.35</ref> prohibits specific acts and practices in connection with closed-end <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref>, as defined in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Section <ref target="1026-36" reftype="internal">1026.36</ref> prohibits specific acts and practices in connection with an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>.</content>
       </paragraph>
-    </change><!-- Section 1026.31 is amended by revising paragraph (c)(1) -->
+    </change>
+    <!-- Section 1026.31 is amended by revising paragraph (c)(1) -->
     <change operation="modified" label="1026-31-c-1">
       <paragraph label="1026-31-c-1" marker="(1)">
         <title type="keyterm">Disclosures for high-cost mortgages.</title>
@@ -49,7 +50,6 @@
         </paragraph>
       </paragraph>
     </change>
-
     <!-- Section 1026.31 is amended by adding paragraph (h) -->
     <change operation="added" label="1026-31-h" parent="1026-31" after="1026-31-g">
       <paragraph label="1026-31-h" marker="(h)">
@@ -84,7 +84,6 @@
         </paragraph>
       </paragraph>
     </change>
-
     <!-- Section 1026.32: Revise paragraph (a) -->
     <change operation="modified" label="1026-32-a">
       <paragraph label="1026-32-a" marker="(a)">
@@ -150,7 +149,6 @@
         </paragraph>
       </paragraph>
     </change>
-
     <!-- Section 1026.32: Add paragraphs (b)(2), (b)(3)(ii), (b)(4)(ii), and (b)(6)(ii); -->
     <change operation="modified" label="1026-32-b-2">
       <paragraph label="1026-32-b-2" marker="(2)">
@@ -199,28 +197,24 @@
           <content>Any transaction fee, including any minimum fee or per-transaction fee, that will be charged for a draw on the <ref target="1026-2-a-14" reftype="term">credit</ref> line, where the <ref target="1026-2-a-17" reftype="term">creditor</ref> must assume that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will make at least one draw during the term of the plan.</content></paragraph>
       </paragraph>
     </change>
-
     <!-- Section 1026.32: Add paragraphs (b)(2), (b)(3)(ii), (b)(4)(ii), and (b)(6)(ii); -->
     <change operation="modified" label="1026-32-b-3-ii">
       <paragraph label="1026-32-b-3-ii" marker="(ii)">
         <title>Open-end credit</title>
         <content>The term <ref target="1026-32-b-3-i" reftype="term">bona fide discount point</ref> means an amount equal to 1 percent of the <ref target="1026-2-a-14" reftype="term">credit</ref> limit for the plan when the account is opened, paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>, and that reduces the interest rate or time-price differential applicable to the transaction based on a calculation that is consistent with established industry practices for determining the amount of reduction in the interest rate or time-price differential appropriate for the amount of discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>. See comment 32(b)(3)(i)-1 for additional guidance in determining whether a discount point is bona fide.</content></paragraph>
     </change>
-
     <!-- Section 1026.32: Add paragraphs (b)(2), (b)(3)(ii), (b)(4)(ii), and (b)(6)(ii); -->
     <change operation="modified" label="1026-32-b-4-ii">
       <paragraph label="1026-32-b-4-ii" marker="(ii)">
         <title>Open-end credit</title>
         <content>The total <ref target="1026-43-b-5" reftype="term">loan amount</ref> for an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan is the <ref target="1026-2-a-14" reftype="term">credit</ref> limit for the plan when the account is opened.</content></paragraph>
     </change>
-
     <!-- Section 1026.32: Add paragraphs (b)(2), (b)(3)(ii), (b)(4)(ii), and (b)(6)(ii); -->
     <change operation="modified" label="1026-32-b-6-ii">
       <paragraph label="1026-32-b-6-ii" marker="(ii)">
         <title>Open-end credit</title>
         <content>For an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> means a charge imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan prior to the end of its term, other than a waived bona fide third-party charge that the <ref target="1026-2-a-17" reftype="term">creditor</ref> imposes if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan sooner than 36 months after account opening.</content></paragraph>
     </change>
-
     <!-- Section 1026.32: Revise paragraphs (c)(3) through (5) -->
     <change operation="modified" label="1026-32-c-3">
       <paragraph label="1026-32-c-3" marker="(3)">
@@ -247,7 +241,6 @@
         </paragraph>
       </paragraph>
     </change>
-
     <!-- Section 1026.32: Revise paragraphs (c)(3) through (5) -->
     <change operation="modified" label="1026-32-c-4">
       <paragraph label="1026-32-c-4" marker="(4)">
@@ -255,7 +248,6 @@
         <content>For variable-rate transactions, a statement that the interest rate and monthly payment may increase, and the amount of the single maximum monthly payment, based on the maximum interest rate required to be included in the contract by § 1026.30.</content>
       </paragraph>
     </change>
-
     <!-- Section 1026.32: Revise paragraphs (c)(3) through (5) -->
     <change operation="modified" label="1026-32-c-5">
       <paragraph label="1026-32-c-5" marker="(5)">
@@ -267,7 +259,6 @@
           <content>For an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, the <ref target="1026-2-a-14" reftype="term">credit</ref> limit for the plan when the account is opened.</content></paragraph>
       </paragraph>
     </change>
-
     <!-- Section 1026.32: Revise paragraph (d) introductory text -->
     <!-- Section 1026.32: Revise paragraphs (d)(1) and (6) -->
     <!-- Section 1026.32: Remove and reserve paragraph (d)(7) -->
@@ -330,7 +321,6 @@
         </paragraph>
       </paragraph>
     </change>
-
     <!-- Section 1026.34 is revised -->
     <change operation="modified" label="1026-34">
       <section label="1026-34" sectionNum="34">
@@ -473,7 +463,6 @@
           <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not structure any transaction that is otherwise a high-cost mortgage in a form, for the purpose, and with the intent to evade the requirements of a high-cost mortgage subject to this subpart, including by dividing any loan transaction into separate parts.</content></paragraph>
       </section>
     </change>
-
     <!-- Section 1026.36 is amended by reserving paragraphs (g) and (j) -->
     <change operation="modified" label="1026-36-g">
       <paragraph label="1026-36-g" marker="(g)">
@@ -489,7 +478,6 @@
       </paragraph>
     </change>
   -->
-
     <!-- Section 1026.36 is amended by adding paragraph (k) -->
     <change operation="added" label="1026-36-k" parent="1026-36" after="1026-36-j">
       <paragraph label="1026-36-k" marker="(k)">
@@ -512,8 +500,8 @@
           <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> that extends <ref target="1026-2-a-14" reftype="term">credit</ref> to a <ref target="1026-36-k-2-i" reftype="term">first-time borrower</ref> in connection with a closed-end transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § 1026.33 or a transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s interest in a timeshare plan described in 11 U.S.C. 101(53D), that may result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref> shall not steer or otherwise direct a <ref target="1026-2-a-11" reftype="term">consumer</ref> to choose a particular counselor or counseling organization for the counseling required under this paragraph (k).</content>
         </paragraph>
       </paragraph>
-    </change><!-- Interpretations -->
-
+    </change>
+    <!-- Interpretations -->
     <!-- Under 31(c)(1), the heading is revised. -->
     <!-- Under newly designated 31(c)(1), paragraph 1 is revised. -->
     <!-- Under 31(c)(1)(i) Change in terms, paragraph 2 is revised. -->
@@ -522,31 +510,25 @@
     <change operation="modified" label="1026-31-c-1-Interp" subpath="title">
       <title>31(c)(1) Disclosures for high-cost mortgages.</title>
     </change>
-
     <change operation="modified" label="1026-31-c-1-Interp-1" subpath="title">
       <title>Pre-consummation or account opening waiting period.</title>
     </change>
-
     <change operation="modified" label="1026-31-c-1-Interp-1" subpath="content">
       <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must furnish § <ref target="1026-32" reftype="internal">1026.32</ref> disclosures at least three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to consummation for a closed-end, high-cost mortgage and at least three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to account opening for an open-end, high-cost mortgage. Under § <ref target="1026-32" reftype="internal">1026.32</ref>, “<ref target="1026-2-a-6" reftype="term">business day</ref>” has the same meaning as the rescission rule in comment 2(a)(6)-2—all calendar days except Sundays and the Federal legal holidays listed in <ref target="USC:5-6103" reftype="external">5 U.S.C. 6103</ref>(a). However, while the disclosure rule under §§ <ref target="1026-15" reftype="internal">1026.15</ref> and <ref target="1026-23" reftype="internal">1026.23</ref> extends to midnight of the third <ref target="1026-2-a-6" reftype="term">business day</ref>, the rule under § <ref target="1026-32" reftype="internal">1026.32</ref> does not. For example, under § <ref target="1026-32" reftype="internal">1026.32</ref>, if disclosures were provided on a Friday, consummation or account opening could occur any time on Tuesday, the third <ref target="1026-2-a-6" reftype="term">business day</ref> following receipt of the disclosures. If the timing of the rescission rule were to be used, consummation or account opening could not occur until after midnight on Tuesday.</content>
     </change>
-
     <change operation="modified" label="1026-31-c-1-i-Interp-2">
       <interpParagraph label="1026-31-c-1-i-Interp-2" marker="2.">
         <title>Premiums or other charges financed at consummation or account opening.</title>
         <content>If the <ref target="1026-2-a-11" reftype="term">consumer</ref> finances the payment of premiums or other charges as permitted under § <ref target="1026-34-a-10" reftype="internal">1026.34(a)(10)</ref>, and as a result the monthly payment differs from what was previously disclosed under § <ref target="1026-32" reftype="internal">1026.32</ref>, redisclosure is required and a new three-day waiting period applies.</content></interpParagraph>
     </change>
-
     <change operation="modified" label="1026-31-c-1-ii-Interp-1">
       <interpParagraph label="1026-31-c-1-ii-Interp-1" marker="1.">
         <title>Telephone disclosures.</title>
         <content>Disclosures by telephone must be furnished at least three <ref target="1026-2-a-6" reftype="term">business days</ref> prior to <ref target="1026-2-a-13" reftype="term">consummation</ref> or account opening, as applicable, calculated in accordance with the timing rules under § <ref target="1026-31-c-1" reftype="internal">1026.31(c)(1)</ref>.</content></interpParagraph>
     </change>
-
     <change operation="modified" label="1026-31-c-1-iii-Interp" subpath="title">
       <title>31(c)(1)(iii) Consumer's waiver of waiting period before consummation or account opening.</title>
     </change>
-
     <!-- 31(h) Corrections and unintentional violations and paragraphs 1 and 2 are added. -->
     <change operation="added" label="1026-31-h-Interp" parent="1026-31-Interp" after="1026-31-d-Interp">
       <interpParagraph label="1026-31-h-Interp">
@@ -560,7 +542,6 @@
           <content>To claim the benefit of § <ref target="1026-31-h" reftype="internal">1026.31(h)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee must implement appropriate restitution and the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s elected adjustment within a reasonable time after the <ref target="1026-2-a-11" reftype="term">consumer</ref> provides notice of that election to the <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee. What length of time is reasonable will depend on what changes to a loan or <ref target="1026-2-a-14" reftype="term">credit</ref> plan's documentation, disclosure, or terms are necessary to effectuate the adjustment. In general, implementing appropriate restitution and completing an adjustment within 30 days of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s providing notice of the election can be considered reasonable.</content></interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- Paragraph 32(a)(1) and paragraph 1 are added. -->
     <!-- Under Paragraph 32(a)(1)(i), paragraphs 1, 2, and 3 are revised, and paragraph 4 is removed. -->
     <!-- Paragraph 32(a)(1)(i)(B) and paragraph 1 are added. -->
@@ -579,7 +560,6 @@
           <content/>
           <interpParagraph label="1026-32-a-1-Interp-1" marker="1.">
             <content>The term high-cost mortgage includes both a <ref target="1026-2-a-10" reftype="term">closed-end credit</ref> transaction and an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>. For purposes of determining coverage under § 1026.32, an open-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction is the account opening of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan. An advance of funds or a draw on the <ref target="1026-2-a-14" reftype="term">credit</ref> line under an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan subsequent to account opening does not constitute an open-end “transaction.”</content></interpParagraph>
-
           <interpParagraph label="1026-32-a-1-i-Interp" target="1026-32-a-1-i">
             <title>Paragraph 32(a)(1)(i)</title>
             <content/>
@@ -593,7 +573,6 @@
               <title type="keyterm">Rate set.</title>
               <content>Comment 35(a)(1)-2 provides guidance for determining the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> in effect on the date that the interest rate for the transaction is set.</content></interpParagraph>
           </interpParagraph>
-
           <interpParagraph label="1026-32-a-1-i-B-Interp" target="1026-32-a-1-i-B">
             <title>Paragraph 32(a)(1)(i)(B)</title>
         <content/>
@@ -601,7 +580,6 @@
               <title>Loan amount less than $50,000.</title>
               <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine whether to apply the APR threshold in § <ref target="1026-32-a-1-i-B" reftype="internal">1026.32(a)(1)(i)(B)</ref> based on the <ref target="1026-43-b-5" reftype="term">loan amount</ref>, which is the face amount of the note.</content></interpParagraph>
           </interpParagraph>
-
           <interpParagraph label="1026-32-a-1-ii-Interp" target="1026-32-a-1-ii">
             <title>Paragraph 32(a)(1)(ii)</title>
             <content/>
@@ -698,7 +676,6 @@
             <content>Section <ref target="1026-32-a-2" reftype="internal">1026.32(a)(2)</ref> lists certain transactions exempt from the provisions of § <ref target="1026-32" reftype="internal">1026.32</ref>. Nevertheless, those transactions may be subject to the provisions of § <ref target="1026-35" reftype="internal">1026.35</ref>, including any provisions of § <ref target="1026-32" reftype="internal">1026.32</ref> to which § <ref target="1026-35" reftype="internal">1026.35</ref> refers. See § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>.</content>
           </interpParagraph>
         </interpParagraph>
-
         <interpParagraph label="1026-32-a-2-ii-Interp" target="1026-32-a-2-ii">
           <title>Paragraph 32(a)(2)(ii)</title>
           <content/>
@@ -706,7 +683,6 @@
             <title>Construction-permanent loans.</title>
             <content>Section 1026.32 does not apply to a transaction to finance the initial construction of a <ref target="1026-2-a-19" reftype="term">dwelling</ref>. This exemption applies to a construction-only loan as well as to the construction phase of a construction-to-permanent loan. Section 1026.32 may apply, however, to permanent financing that replaces a construction loan, whether the permanent financing is extended by the same or a different <ref target="1026-2-a-17" reftype="term">creditor</ref>. When a construction loan may be permanently financed by the same <ref target="1026-2-a-17" reftype="term">creditor</ref>, § <ref target="1026-17-c-6-ii" reftype="internal">1026.17(c)(6)(ii)</ref> permits the <ref target="1026-2-a-17" reftype="term">creditor</ref> to give either one combined disclosure for both the construction financing and the permanent financing, or a separate set of disclosures for each of the two phases as though they were two separate transactions. See also comment 17(c)(6)-2. Section <ref target="1026-17-c-6-ii" reftype="internal">1026.17(c)(6)(ii)</ref> addresses only how a <ref target="1026-2-a-17" reftype="term">creditor</ref> may elect to disclose a construction to permanent transaction. Which disclosure option a <ref target="1026-2-a-17" reftype="term">creditor</ref> elects under § <ref target="1026-17-c-6-ii" reftype="internal">1026.17(c)(6)(ii)</ref> does not affect the determination of whether the permanent phase of the transaction is subject to § 1026.32. When the <ref target="1026-2-a-17" reftype="term">creditor</ref> discloses the two phases as separate transactions, the annual percentage rate for the permanent phase must be compared to the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a transaction that is comparable to the permanent financing to determine coverage under § 1026.32. Likewise, a single amount of <ref target="1026-32-b-1" reftype="term">points and fees</ref>, also reflecting the appropriate charges from the permanent phase, must be calculated and compared with the total <ref target="1026-43-b-5" reftype="term">loan amount</ref> to determine coverage under § 1026.32. When the <ref target="1026-2-a-17" reftype="term">creditor</ref> discloses the two phases as a single transaction, a single annual percentage rate, reflecting the appropriate charges from both phases, must be calculated for the transaction in accordance with § <ref target="1026-32-a-3" reftype="internal">1026.32(a)(3)</ref> and appendix D to part 1026. This annual percentage rate must be compared to the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a transaction that is comparable to the permanent financing to determine coverage under § 1026.32. Likewise, a single amount of <ref target="1026-32-b-1" reftype="term">points and fees</ref>, also reflecting the appropriate charges from both phases of the transaction, must be calculated and compared with the total <ref target="1026-43-b-5" reftype="term">loan amount</ref> to determine coverage under § 1026.32. If the transaction is determined to be a high-cost mortgage, only the permanent phase is subject to the requirements of §§ 1026.32 and 1026.34.</content></interpParagraph>
         </interpParagraph>
-
         <interpParagraph label="1026-32-a-2-iii-Interp" target="1026-32-a-2-iii">
           <title>Paragraph 32(a)(2)(iii)</title>
           <content/>
@@ -714,7 +690,6 @@
             <title>Housing Finance Agency.</title>
             <content>For purposes of § <ref target="1026-32-a-2-iii" reftype="internal">1026.32(a)(2)(iii)</ref>, a Housing Finance Agency means a housing finance agency as defined in 24 CFR 266.5.</content></interpParagraph>
         </interpParagraph>
-
         <interpParagraph label="1026-32-a-3-Interp" target="1026-32-a-3">
           <title>32(a)(3) Determination of annual percentage rate.</title>
           <content/>
@@ -752,7 +727,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- a. Paragraph 32(b)(2), Paragraph 32(b)(2)(i), and paragraph 1 are added. -->
     <!-- b. Paragraph 32(b)(2)(i)(B) and paragraph 1 are added. -->
     <!-- c. Paragraph 32(b)(2)(i)(C) and paragraph 1 are added. -->
@@ -764,7 +738,6 @@
     <!-- i. Paragraph 32(b)(2)(iv) and paragraph 1 are added. -->
     <!-- j. Paragraph 32(b)(2)(vii) and paragraph 1 are added. -->
     <!-- k. Paragraph 32(b)(2)(viii) and paragraphs 1 and 2 are added.-->
-
     <change operation="added" label="1026-32-b-2-Interp" parent="1026-32-b-Interp" after="1026-32-b-1-Interp">
       <interpParagraph label="1026-32-b-2-Interp">
         <title/>
@@ -862,7 +835,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- Under Paragraph 32(b)(6), as added elsewhere in this issue of the Federal Register, paragraphs 3 and 4 are added. -->
     <change operation="added" label="1026-32-b-6-Interp-3" parent="1026-32-b-6-Interp" after="1026-32-b-6-Interp-2">
       <interpParagraph label="1026-32-b-6-Interp-3" marker="3.">
@@ -883,7 +855,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- 32(c)(2) Annual percentage rate and paragraph 1 are added.
     Under 32(c)(3), the heading is revised.
     Under newly designated 32(c)(3), paragraph 1 is revised.
@@ -911,7 +882,6 @@
             <title type="keyterm">Balloon payment.</title>
             <content>Except as provided in § <ref target="1026-32-d-1-ii" reftype="internal">1026.32(d)(1)(ii)</ref> and <ref target="1026-32-d-1-iii" reftype="internal">(iii)</ref>, a mortgage transaction subject to this section may not include a payment schedule that results in a balloon payment.</content></interpParagraph>
         </interpParagraph>
-
         <interpParagraph label="1026-32-c-3-i-Interp" target="1026-32-c-3-i">
           <title>Paragraph 32(c)(3)(i)</title>
           <content/>
@@ -931,7 +901,6 @@
             </interpParagraph>
           </interpParagraph>
         </interpParagraph>
-
         <interpParagraph label="1026-32-c-4-Interp" target="1026-32-c-4">
           <title>32(c)(4) Variable-Rate</title>
           <content/>
@@ -946,7 +915,6 @@
             </interpParagraph>
           </interpParagraph>
         </interpParagraph>
-
         <interpParagraph label="1026-32-c-5-Interp" target="1026-32-c-5">
           <title>32(c)(5) Amount Borrowed</title>
           <content/>
@@ -957,19 +925,16 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- 32(d) Limitations: Paragraph 1 is revised. -->
     <change operation="modified" label="1026-32-d-Interp-1">
       <interpParagraph label="1026-32-d-Interp-1" marker="1.">
         <title type="keyterm">Additional prohibitions applicable under other sections.</title>
         <content>Section 1026.34 sets forth certain prohibitions in connection with high-cost mortgages, in addition to the limitations in § <ref target="1026-32-d" reftype="internal">1026.32(d)</ref>. Further, § <ref target="1026-35-b" reftype="internal">1026.35(b)</ref> prohibits certain practices in connection with closed-end transactions that meet the coverage test in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Because the coverage test in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref> is generally broader than the coverage test in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>, most closed-end high-cost mortgages are also subject to the prohibitions set forth in § <ref target="1026-35-b" reftype="internal">1026.35(b)</ref> (such as escrows), in addition to the limitations in § <ref target="1026-32-d" reftype="internal">1026.32(d)</ref>.</content></interpParagraph>
     </change>
-
     <!-- Under 32(d) Limitations: Paragraph 1 is revised. -->
     <change operation="modified" label="1026-32-d-Interp-1" subpath="content">
       <content>Section <ref target="1026-34" reftype="internal">1026.34</ref> sets forth certain prohibitions in connection with high-cost mortgages, in addition to the limitations in § <ref target="1026-32-d" reftype="internal">1026.32(d)</ref>. Further, § <ref target="1026-35-b" reftype="internal">1026.35(b)</ref> prohibits certain practices in connection with closed-end transactions that meet the coverage test in § <ref target="1026-35-a" reftype="internal">1026.35(a)</ref>. Because the coverage test in § 1026.35(a) is generally broader than the coverage test in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>, most closed-end high-cost mortgages are also subject to the prohibitions set forth in § <ref target="1026-35-b" reftype="internal">1026.35(b)</ref> (such as escrows), in addition to the limitations in § <ref target="1026-32-d" reftype="internal">1026.32(d)</ref>.</content>
     </change>
-
     <!-- Under 32(d)(1)(i) Balloon payment, paragraph 1 is revised and paragraphs 2 and 3 are added. -->
     <change operation="modified" label="1026-32-d-1-i-Interp-1" subpath="content">
       <content>The repayment schedule for a high-cost mortgage must fully amortize the outstanding principal balance through “regular periodic payments.” A payment is a “regular periodic payment” if it is not more than two times the amount of other payments. For purposes of <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plans, the term “regular periodic payment” or “periodic payment” means the required minimum periodic payment.</content>
@@ -983,16 +948,14 @@
         <title type="keyterm">No repayment period.</title>
         <content>If the terms of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan do not provide for a repayment period, the repayment schedule must fully amortize any outstanding principal balance in the draw period through regular periodic payments. However, the limitation on balloon payments in § <ref target="1026-32-d-1-i" reftype="internal">1026.32(d)(1)(i)</ref> does not preclude increases in regular periodic payments that result solely from the initial draw or additional draws on the <ref target="1026-2-a-14" reftype="term">credit</ref> line during the draw period.</content></interpParagraph>
     </change>
-
     <!-- Under 32(d)(2) Negative Amortization, paragraph 1 is revised. -->
     <change operation="modified" label="1026-32-d-2-Interp-1" subpath="content">
       <content>The prohibition against <ref target="1026-36-k-2-ii" reftype="term">negative amortization</ref> in a high-cost mortgage does not preclude reasonable increases in the principal balance that result from events permitted by the legal obligation unrelated to the payment schedule. For example, when a <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to obtain property insurance and the <ref target="1026-2-a-17" reftype="term">creditor</ref> purchases insurance, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may add a reasonable premium to the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s principal balance, to the extent permitted by applicable law and the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s legal obligation.</content>
-    </change><!-- 32(d)(6) Prepayment Penalties and paragraph 1 are removed. -->
+    </change>
+    <!-- 32(d)(6) Prepayment Penalties and paragraph 1 are removed. -->
     <change operation="deleted" label="1026-32-d-6-Interp"/>
-
     <!-- 32(d)(7) Prepayment Penalty Exception, Paragraph 32(d)(7)(iii) and paragraphs 1, 2, and 3, and Paragraph 32(d)(7)(iv) and paragraphs 1 and 2 are removed. -->
     <change operation="deleted" label="1026-32-d-7-Interp"/>
-
     <!-- Under 32(d)(8), the heading is revised.
     Under newly designated 32(d)(8), Paragraph 32(d)(8)(i) and paragraph 1 are added.
     Under Paragraph 32(d)(8)(ii), paragraph 1 is revised.
@@ -1008,7 +971,6 @@
             <title>Fraud or material misrepresentation.</title>
             <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may terminate a loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> and accelerate the balance if there has been fraud or material misrepresentation by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref>. What constitutes fraud or misrepresentation is determined by applicable State law and may include acts of omission as well as overt acts, as long as any necessary intent on the part of the <ref target="1026-2-a-11" reftype="term">consumer</ref> exists.</content></interpParagraph>
         </interpParagraph>
-
         <interpParagraph label="1026-32-d-8-ii-Interp" target="1026-32-d-8-ii">
           <title>Paragraph 32(d)(8)(ii)</title>
           <content/>
@@ -1016,7 +978,6 @@
             <title type="keyterm">Failure to meet repayment terms.</title>
             <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may terminate a loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> and accelerate the balance when the <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to meet the repayment terms resulting in a default in payment under the <ref target="1026-58-b-1" reftype="term">agreement</ref>; a <ref target="1026-2-a-17" reftype="term">creditor</ref> may do so, however, only if the <ref target="1026-2-a-11" reftype="term">consumer</ref> actually fails to make payments resulting in a default in the <ref target="1026-58-b-1" reftype="term">agreement</ref>. For example, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not terminate and accelerate if the <ref target="1026-2-a-11" reftype="term">consumer</ref>, in error, sends a payment to the wrong location, such as a branch rather than the main office of the <ref target="1026-2-a-17" reftype="term">creditor</ref>. If a <ref target="1026-2-a-11" reftype="term">consumer</ref> files for or is placed in bankruptcy, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may terminate and accelerate under § <ref target="1026-32-d-8-i" reftype="internal">1026.32(d)(8)(i)</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to meet the repayment terms resulting in a default of the <ref target="1026-58-b-1" reftype="term">agreement</ref>. Section <ref target="1026-32-d-8-i" reftype="internal">1026.32(d)(8)(i)</ref> does not override any State or other law that requires a <ref target="1026-2-a-17" reftype="term">creditor</ref> to notify a <ref target="1026-2-a-11" reftype="term">consumer</ref> of a right to cure, or otherwise places a duty on the <ref target="1026-2-a-17" reftype="term">creditor</ref> before it can terminate a loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> and accelerate the balance.</content></interpParagraph>
         </interpParagraph>
-
         <interpParagraph label="1026-32-d-8-iii-Interp" target="1026-32-d-8-iii">
           <title>Paragraph 32(d)(8)(iii)</title>
           <content/>
@@ -1056,7 +1017,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- Under 34(a)(4) Repayment ability, paragraphs 1 through 5 are revised.
     Under Paragraph 34(a)(4)(ii)(B), paragraph 1 is revised and paragraph 2 is removed.
     Paragraph 34(a)(4)(ii)(C) and paragraph 1 are removed.
@@ -1207,7 +1167,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- 34(a)(5) Pre-loan counseling, 34(a)(5)(i) Certification of counseling required, and paragraphs 1 through 5 are added.
     34(a)(5)(ii) Timing of counseling and paragraphs 1 and 2 are added.
     34(a)(5)(iv) Content of certification and paragraphs 1 and 2 are added.
@@ -1273,7 +1232,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- 34(a)(6) Recommended default and paragraphs 1 and 2 are added. -->
     <change operation="added" label="1026-34-a-6-Interp" parent="1026-34-a-Interp" after="1026-34-a-5-Interp">
       <interpParagraph label="1026-34-a-6-Interp" target="1026-34-a-6">
@@ -1301,7 +1259,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- 34(a)(8) Late Fees, 34(a)(8)(i) General, and paragraph 1 are added.
     34(a)(8)(iii) Multiple late charges assessed on payment subsequently paid and paragraph 1 are added.
     34(a)(8)(iv) Failure to make required payment and paragraph 1 are added. -->
@@ -1331,7 +1288,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- 34(a)(10) Financing of points and fees and paragraphs 1 and 2 are added. -->
     <change operation="added" label="1026-34-a-10-Interp" parent="1026-34-a-Interp">
       <interpParagraph label="1026-34-a-10-Interp" target="1026-34-a-10">
@@ -1347,7 +1303,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- Under 34(b), the heading is revised. -->
     <!-- Under revised 34(b) Prohibited acts or practices for dwelling-secured loans; structuring loans to evade highcost mortgage requirements, paragraph 1 is revised and paragraph 2 is added. -->
     <change operation="modified" label="1026-34-b-Interp">
@@ -1367,7 +1322,6 @@
           <content>Where a loan is documented as <ref target="1026-2-a-20" reftype="term">open-end credit</ref> but the features and terms or other circumstances demonstrate that it does not meet the definition of <ref target="1026-2-a-20" reftype="term">open-end credit</ref>, the loan is subject to the rules for <ref target="1026-2-a-10" reftype="term">closed-end credit</ref>. Thus, in determining the “total <ref target="1026-43-b-5" reftype="term">loan amount</ref>” for purposes of applying the triggers under § 1026.32, the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> that would have been extended if the loan had been documented as a closed-end loan is a factual determination to be made in each case. Factors to be considered include the amount of money the <ref target="1026-2-a-11" reftype="term">consumer</ref> originally requested, the amount of the first advance or the highest outstanding balance, or the amount of the <ref target="1026-2-a-14" reftype="term">credit</ref> line. The full amount of the <ref target="1026-2-a-14" reftype="term">credit</ref> line is considered only to the extent that it is reasonable to expect that the <ref target="1026-2-a-11" reftype="term">consumer</ref> might use the full amount of <ref target="1026-2-a-14" reftype="term">credit</ref>.</content></interpParagraph>
       </interpParagraph>
     </change>
-
     <!-- 36(k)(1)Counseling required and paragraphs 1 through 4 are added.
     36(k)(3) Steering prohibited and paragraph 1 are added.  -->
     <change operation="added" label="1026-36-k-Interp" parent="1026-36-Interp" after="1026-36-f-Interp">
@@ -1398,7 +1352,6 @@
           </interpParagraph>
         </interpParagraph>
       </interpParagraph>
-    </change><!-- end of notice -->
-
+    </change>
   </changeset>
 </notice>

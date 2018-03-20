@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -15,10 +16,9 @@
     </cfr>
     <documentNumber>2013-16962_20130724</documentNumber>
     <effectiveDate>2013-07-24</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2013/07/24/2013-16962/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/07/24/2013-16962/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-12125" rightDocumentNumber="2013-16962_20130724">
-
     <change operation="modified" label="1026-35-e">
       <paragraph label="1026-35-e" marker="(e)">
         <title type="keyterm">Repayment ability, prepayment penalties.</title>
@@ -54,7 +54,6 @@
         </paragraph>
       </paragraph>
     </change>
-    <!-- end of notice -->
   </changeset>
   <!-- Analysis Missing: 35(e) -->
   <analysis>
