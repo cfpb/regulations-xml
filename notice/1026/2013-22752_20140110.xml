@@ -23,7 +23,7 @@
     <!-- Section 1026.23 is amended by revising paragraph (a)(3)(ii) -->
     <change operation="modified" label="1026-23-a-3-ii">
       <paragraph label="1026-23-a-3-ii" marker="(ii)">
-        <content>For purposes of this paragraph <ref target="1026-23-a-3" reftype="internal">(a)(3)</ref>, the term “material disclosures” means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in §§ <ref target="1026-32-c" reftype="internal">1026.32(c)</ref> and <ref target="1026-32-d" reftype="internal">(d)</ref> and <ref target="1026-43-g" reftype="internal">1026.43(g)</ref>.</content>
+        <content>For purposes of this paragraph <ref target="1026-23-a-3" reftype="internal">(a)(3)</ref>, the term “<def term="material disclosure">material disclosures</def>” means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in §§ <ref target="1026-32-c" reftype="internal">1026.32(c)</ref> and <ref target="1026-32-d" reftype="internal">(d)</ref> and <ref target="1026-43-g" reftype="internal">1026.43(g)</ref>.</content>
       </paragraph>
     </change>
     <!-- Section 1026.31 is amended by revising paragraphs (g), (h)(1)(iii)(A), and (h)(2)(iii)(A) -->
@@ -56,13 +56,13 @@
     </change>
     <change operation="modified" label="1026-32-b-1-ii">
       <paragraph label="1026-32-b-1-ii" marker="(ii)">
-        <content>All <ref target="1026-36-a-3" reftype="term">compensation</ref> paid directly or indirectly by a <ref target="1026-2-a-11" reftype="term">consumer</ref> or <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, that can be attributed to that transaction at the time the interest rate is set unless:</content><paragraph label="1026-32-b-1-ii-A" marker="(A)">
+        <content>All <ref target="1026-36-a-3" reftype="term">compensation</ref> paid directly or indirectly by a <ref target="1026-2-a-11" reftype="term">consumer</ref> or <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, that can be attributed to that transaction at the time the interest rate is set unless:</content><paragraph label="1026-32-b-1-ii-A" marker="(A)">
           <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a <ref target="1026-2-a-11" reftype="term">consumer</ref> to a mortgage broker, as defined in § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, and already has been included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under paragraph <ref target="1026-32-b-1-i" reftype="internal">(b)(1)(i)</ref> of this section;</content></paragraph>
         <paragraph label="1026-32-b-1-ii-B" marker="(B)">
-          <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a mortgage broker, as defined in § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> that is an employee of the mortgage broker; or</content>
+          <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a mortgage broker, as defined in § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> that is an employee of the mortgage broker; or</content>
         </paragraph>
         <paragraph label="1026-32-b-1-ii-C" marker="(C)">
-          <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> that is an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; or</content>
+          <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> that is an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; or</content>
         </paragraph>
         <paragraph label="1026-32-b-1-ii-D" marker="(D)">
           <content>That compensation is paid by a retailer of manufactured homes to its employee.</content>
@@ -76,14 +76,14 @@
     </change>
     <change operation="modified" label="1026-32-b-2-ii">
       <paragraph label="1026-32-b-2-ii" marker="(ii)">
-        <content>All <ref target="1026-36-a-3" reftype="term">compensation</ref> paid directly or indirectly by a <ref target="1026-2-a-11" reftype="term">consumer</ref> or <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, that can be attributed to that transaction at the time the interest rate is set unless:</content>
+        <content>All <ref target="1026-36-a-3" reftype="term">compensation</ref> paid directly or indirectly by a <ref target="1026-2-a-11" reftype="term">consumer</ref> or <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref>, as defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, that can be attributed to that transaction at the time the interest rate is set unless:</content>
         <paragraph label="1026-32-b-2-ii-A" marker="(A)">
           <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a <ref target="1026-2-a-11" reftype="term">consumer</ref> to a mortgage broker, as defined in § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, and already has been included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under paragraph (b)(2)(i) of this section;</content></paragraph>
         <paragraph label="1026-32-b-2-ii-B" marker="(B)">
-          <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a mortgage broker, as defined in § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> that is an employee of the mortgage broker;</content>
+          <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a mortgage broker, as defined in § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>, to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> that is an employee of the mortgage broker;</content>
         </paragraph>
         <paragraph label="1026-32-b-2-ii-C" marker="(C)">
-          <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-ii" reftype="term">loan originator</ref> that is an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; or</content>
+          <content>That <ref target="1026-36-a-3" reftype="term">compensation</ref> is paid by a <ref target="1026-2-a-17" reftype="term">creditor</ref> to a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> that is an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; or</content>
         </paragraph>
         <paragraph label="1026-32-b-2-ii-D" marker="(D)">
           <content>That compensation is paid by a retailer of manufactured homes to its employee.</content>
@@ -318,9 +318,9 @@
     </change>
     <!-- This final rule is effective January 10, 2014, except for the amendments to Sec. Sec. 1026.35(b)(2)(iii), 1026.36(a), (b), and (j), and commentary to Sec. Sec. 1026.25(c)(2), 1026.35, and 1026.36(a), (b), (d), and (f) in Supp. I to part 1026, which are effective January 1, 2014, and the amendments to commentary to Sec. 1002.14(b)(3) in Supplement I to part 1002, which are effective January 18, 2014. -->
     <!-- In Supplement I to Part 1026:
-	 a. Under Section 1026.25 Record Retention
-	 i. Under Paragraph 25(c)(2) Records related to requirements for loan originator compensation, as amended February 15, 2013, at 78 FR 11280, paragraph 1 is revised.
-	 ii. Under Paragraph 25(c)(3) Records related to minimum standards for transactions secured by a dwelling, as added January 30, 2013, at 78 FR 6408, paragraph 1 is revised. -->
+    a. Under Section 1026.25 Record Retention
+    i. Under Paragraph 25(c)(2) Records related to requirements for loan originator compensation, as amended February 15, 2013, at 78 FR 11280, paragraph 1 is revised.
+    ii. Under Paragraph 25(c)(3) Records related to minimum standards for transactions secured by a dwelling, as added January 30, 2013, at 78 FR 6408, paragraph 1 is revised. -->
     <change operation="modified" label="1026-25-c-3-Interp-1">
       <interpParagraph label="1026-25-c-3-Interp-1" marker="1.">
         <title>Evidence of compliance with repayment ability provisions.</title>
@@ -332,7 +332,8 @@
     <change operation="added" label="1026-32-b-1-i-Interp-2" parent="1026-32-b-1-i-Interp" after="1026-32-b-1-i-Interp-1">
       <interpParagraph label="1026-32-b-1-i-Interp-2" marker="2.">
         <title>Charges paid by parties other than the consumer.</title>
-        <content>Under § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref>, <ref target="1026-32-b-1" reftype="term">points and fees</ref> may include charges paid by third parties in addition to charges paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>. Specifically, charges paid by third parties that fall within the definition of <ref target="1026-32-b-1" reftype="term">points and fees</ref> set forth in § <ref target="1026-32-b-1-i" reftype="internal">1026.32(b)(1)(i)</ref> through (vi) are included in <ref target="1026-32-b-1" reftype="term">points and fees</ref>. In calculating <ref target="1026-32-b-1" reftype="term">points and fees</ref> in connection with a transaction, <ref target="1026-2-a-17" reftype="term">creditors</ref> may rely on written statements from the <ref target="1026-2-a-11" reftype="term">consumer</ref> or third party paying for a charge, including the seller, to determine the source and purpose of any third-party payment for a charge.</content><interpParagraph label="1026-32-b-1-i-Interp-2-i" marker="i.">
+        <content>Under § <ref target="1026-32-b-1" reftype="internal">1026.32(b)(1)</ref>, <ref target="1026-32-b-1" reftype="term">points and fees</ref> may include charges paid by third parties in addition to charges paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>. Specifically, charges paid by third parties that fall within the definition of <ref target="1026-32-b-1" reftype="term">points and fees</ref> set forth in § <ref target="1026-32-b-1-i" reftype="internal">1026.32(b)(1)(i)</ref> through (vi) are included in <ref target="1026-32-b-1" reftype="term">points and fees</ref>. In calculating <ref target="1026-32-b-1" reftype="term">points and fees</ref> in connection with a transaction, <ref target="1026-2-a-17" reftype="term">creditors</ref> may rely on written statements from the <ref target="1026-2-a-11" reftype="term">consumer</ref> or third party paying for a charge, including the seller, to determine the source and purpose of any third-party payment for a charge.</content>
+        <interpParagraph label="1026-32-b-1-i-Interp-2-i" marker="i.">
           <title>Examples—included in points and fees.</title>
           <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref>'s origination charge paid by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s employer on the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s behalf that is included in the finance charge as defined in § <ref target="1026-4-a" reftype="internal">1026.4(a)</ref> or (b), must be included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-i" reftype="internal">1026.32(b)(1)(i)</ref>, unless other exclusions under § <ref target="1026-4" reftype="internal">1026.4</ref> or § <ref target="1026-32-b-1-i-A" reftype="internal">1026.32(b)(1)(i)(A)</ref> through (F) apply. In addition, consistent with comment 32(b)(1)(i)-1, a third-party payment of an item excluded from the finance charge under a provision of § <ref target="1026-4" reftype="internal">1026.4</ref>, while not included in the total <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-i" reftype="internal">1026.32(b)(1)(i)</ref>, may be included under § <ref target="1026-32-b-1-ii" reftype="internal">1026.32(b)(1)(ii)</ref> through (vi). For example, a payment by a third party of a <ref target="1026-2-a-17" reftype="term">creditor</ref>-imposed fee for an appraisal performed by an employee of the <ref target="1026-2-a-17" reftype="term">creditor</ref> is included in <ref target="1026-32-b-1" reftype="term">points and fees</ref> under § <ref target="1026-32-b-1-iii" reftype="internal">1026.32(b)(1)(iii)</ref>. See comment 32(b)(1)(i)-1.</content></interpParagraph>
         <interpParagraph label="1026-32-b-1-i-Interp-2-ii" marker="ii.">
@@ -385,7 +386,7 @@
     <!-- v. Under Paragraph 32(b)(2)(i)(D), as amended January 30, 2013, at 78 FR 6408, paragraph 1 is revised. -->
     <change operation="modified" label="1026-32-b-2-i-D-Interp-1">
       <interpParagraph label="1026-32-b-2-i-D-Interp-1" marker="1.">
-	<content>For purposes of § <ref target="1026-32-b-2-i-D" reftype="internal">1026.32(b)(2)(i)(D)</ref>, the term <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> means a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> as that term is defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, without regard to § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>. See comments 32(b)(1)(i)(D)-1 through -4 for further guidance concerning the exclusion of bona fide third-party charges from <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
+        <content>For purposes of § <ref target="1026-32-b-2-i-D" reftype="internal">1026.32(b)(2)(i)(D)</ref>, the term <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> means a <ref target="1026-36-a-1-i" reftype="term">loan originator</ref> as that term is defined in § <ref target="1026-36-a-1" reftype="internal">1026.36(a)(1)</ref>, without regard to § <ref target="1026-36-a-2" reftype="internal">1026.36(a)(2)</ref>. See comments 32(b)(1)(i)(D)-1 through -4 for further guidance concerning the exclusion of bona fide third-party charges from <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content></interpParagraph>
     </change>
     <!-- vi. Under Paragraph 32(d)(8)(ii), as amended January 30, 2013, at 78 FR 6408, paragraph 1 is revised.-->
     <change operation="modified" label="1026-32-d-8-ii-Interp-1">
@@ -405,7 +406,7 @@
         <interpParagraph label="1026-36-i-Interp-1" marker="1.">
           <title>Financing credit insurance premiums or fees.</title>
           <content>In the case of single-premium <ref target="1026-2-a-14" reftype="term">credit</ref> insurance, a <ref target="1026-2-a-17" reftype="term">creditor</ref> violates § <ref target="1026-36-i" reftype="internal">1026.36(i)</ref> by adding the <ref target="1026-2-a-14" reftype="term">credit</ref> insurance premium or fee to the amount owed by the <ref target="1026-2-a-11" reftype="term">consumer</ref> at closing. In the case of monthly-pay <ref target="1026-2-a-14" reftype="term">credit</ref> insurance, a <ref target="1026-2-a-17" reftype="term">creditor</ref> violates § <ref target="1026-36-i" reftype="internal">1026.36(i)</ref> if, upon the close of the monthly period in which the premium or fee is due, the <ref target="1026-2-a-17" reftype="term">creditor</ref> includes the premium or fee in the amount owed by the <ref target="1026-2-a-11" reftype="term">consumer</ref>.</content>
-	</interpParagraph>
+        </interpParagraph>
       </interpParagraph>
     </change>
     <!-- i. Under Paragraph 41(b), as amended February 14, 2013, at 78 FR 10901, paragraph 1 is revised. -->

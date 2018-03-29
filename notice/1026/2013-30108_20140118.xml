@@ -19,195 +19,205 @@
     <federalRegisterURL>https://www.federalregister.gov/documents/2013/12/26/2013-30108/appraisals-for-higher-priced-mortgage-loans</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-01809" rightDocumentNumber="2013-30108_20140118">
-    <!-- Changes include 1026.35 and Appendix N -->
-    <!-- Revise the paragraph (c) subject heading and paragraphs (c)(1)(ii) through (iv); -->
-    <change operation="modified" label="1026-35-c" subpath="title">
-      <title>Appraisals</title>
-    </change>
-    <!-- the below change is to relabel an old reference to "state agency" with its new target -->
-    <change operation="modified" label="1026-35-c-1-i">
-      <paragraph label="1026-35-c-1-i" marker="(i)">
-        <content><def term="certified or licensed appraiser">Certified or licensed appraiser</def> means a <ref target="1026-2-a-22" reftype="term">person</ref> who is certified or licensed by the <ref target="1026-42-g-3" reftype="term">State agency</ref> in the <ref target="1026-2-a-26" reftype="term">State</ref> in which the property that secures the transaction is located, and who performs the appraisal in conformity with the Uniform Standards of Professional Appraisal Practice and the requirements applicable to appraisers in title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, as amended (<ref target="USC:12-3331" reftype="external">12 U.S.C. 3331</ref> et seq.), and any implementing regulations in effect at the time the appraiser signs the appraiser's certification.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1026-35-c-1-ii">
-      <paragraph label="1026-35-c-1-ii" marker="(ii)">
-        <content><def term="credit risk">Credit risk</def> means the financial risk that a <ref target="1026-2-a-11" reftype="term">consumer</ref> will default on a loan.</content></paragraph>
-    </change>
-    <change operation="modified" label="1026-35-c-1-iii">
-      <paragraph label="1026-35-c-1-iii" marker="(iii)">
-        <content><def term="manufactured home">Manufactured home</def> has the same meaning as in <ref target="CFR:24-3280-2" reftype="external">24 CFR 3280.2</ref>.</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1026-35-c-1-iv">
-      <paragraph label="1026-35-c-1-iv" marker="(iv)">
-        <content><def term="manufacturer's invoice">Manufacturer's invoice</def> means a document issued by a manufacturer and provided with a <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref> to a retail dealer that separately details the wholesale (base) prices at the factory for specific models or series of <ref target="1026-35-c-1-iii" reftype="term">manufactured homes</ref> and itemized options (large appliances, built-in items and equipment), plus actual itemized charges for freight from the factory to the dealer’s lot or the homesite (including any rental of wheels and axles) and for any sales taxes to be paid by the dealer. The invoice may recite such prices and charges on an itemized basis or by stating an aggregate price or charge, as appropriate, for each category.</content></paragraph>
-    </change>
-    <!-- Add paragraphs (c)(1)(v) through (vii); -->
-    <change operation="added" label="1026-35-c-1-v">
-      <paragraph label="1026-35-c-1-v" marker="(v)">
-        <content><def term="national registry">National Registry</def> means the database of information about <ref target="1026-2-a-26" reftype="term">State</ref> certified and licensed appraisers maintained by the Appraisal Subcommittee of the Federal Financial Institutions Examination Council.</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1026-35-c-1-vi">
-      <paragraph label="1026-35-c-1-vi" marker="(vi)">
-        <content><def term="new manufactured home">New manufactured home</def> means a <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref> that has not been previously occupied.</content>
-      </paragraph>
-    </change>
-    <change operation="added" label="1026-35-c-1-vii">
-      <paragraph label="1026-35-c-1-vii" marker="(vii)">
-        <content><def term="state agency">State agency</def> means a “<ref target="1026-2-a-26" reftype="term">State</ref> appraiser certifying and licensing agency” recognized in accordance with section 1118(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (<ref target="USC:12-3347" reftype="external">12 U.S.C. 3347</ref>(b)) and any implementing regulations.</content></paragraph>
-    </change>
-    <!-- Revise paragraphs (c)(2) introductory text, (c)(2)(i) and (ii), and (v) -->
-    <change operation="modified" label="1026-35-c-2" subpath="content">
-      <content>Unless otherwise specified, the requirements in paragraph <ref target="1026-35-c-3" reftype="internal">(c)(3)</ref> through <ref target="1026-35-c-6" reftype="internal">(6)</ref> of this section do not apply to the following types of transactions:</content>
-    </change>
-    <change operation="modified" label="1026-35-c-2-i">
-      <paragraph label="1026-35-c-2-i" marker="(i)">
-        <content>A loan that satisfies the criteria of a qualified mortgage as defined pursuant to <ref target="USC:15-1639" reftype="external">15 U.S.C. 1639c</ref>;</content>
-      </paragraph>
-    </change>
-    <change operation="modified" label="1026-35-c-2-ii">
-      <paragraph label="1026-35-c-2-ii" marker="(ii)">
-        <content>An extension of <ref target="1026-2-a-14" reftype="term">credit</ref> for which the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended is equal to or less than the applicable threshold amount, which is adjusted every year to reflect increases in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as applicable, and published in the official staff commentary to this paragraph <ref target="1026-35-c-2-ii" reftype="internal">(c)(2)(ii)</ref>;</content></paragraph>
-    </change>
-    <change operation="modified" label="1026-35-c-2-v">
-      <paragraph label="1026-35-c-2-v" marker="(v)">
-        <content>A loan with maturity of 12 months or less, if the purpose of the loan is a “bridge” loan connected with the acquisition of a <ref target="1026-2-a-19" reftype="term">dwelling</ref> intended to become the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>.</content>
-      </paragraph>
-    </change>
-    <!-- Add paragraphs (c)(2)(vii) and (viii).  -->
-    <change operation="added" label="1026-35-c-2-vii">
-      <paragraph label="1026-35-c-2-vii" marker="(vii)">
-        <content>An extension of <ref target="1026-2-a-14" reftype="term">credit</ref> that is a refinancing secured by a first lien, with refinancing defined as in § <ref target="1026-20-a" reftype="internal">1026.20(a)</ref> (except that the <ref target="1026-2-a-17" reftype="term">creditor</ref> need not be the original <ref target="1026-2-a-17" reftype="term">creditor</ref> or a holder or servicer of the original obligation), provided that the refinancing meets the following criteria:</content><paragraph label="1026-35-c-2-vii-A" marker="(A)">
-          <content>Either—</content>
-          <paragraph label="1026-35-c-2-vii-A-1" marker="(1)">
-            <content>The <ref target="1026-2-a-14" reftype="term">credit</ref> risk of the refinancing is retained by the <ref target="1026-2-a-22" reftype="term">person</ref> that held the <ref target="1026-2-a-14" reftype="term">credit</ref> risk of the existing obligation and there is no commitment, at <ref target="1026-2-a-13" reftype="term">consummation</ref>, to transfer the <ref target="1026-2-a-14" reftype="term">credit</ref> risk to another <ref target="1026-2-a-22" reftype="term">person</ref>; or</content></paragraph>
-          <paragraph label="1026-35-c-2-vii-A-2" marker="(2)">
-            <content>The refinancing is insured or guaranteed by the same Federal government agency that insured or guaranteed the existing obligation;</content>
-          </paragraph>
+  <!-- Changes include 1026.35 and Appendix N -->
+  <!-- Revise the paragraph (c) subject heading and paragraphs (c)(1)(ii) through (iv); -->
+  <change operation="modified" label="1026-35-c" subpath="title">
+    <title>Appraisals</title>
+  </change><!-- the below change is to relabel an old reference to "state agency" with its new target -->
+  <change operation="modified" label="1026-35-c-1-i">
+    <paragraph label="1026-35-c-1-i" marker="(i)">
+      <content><def term="certified or licensed appraiser">Certified or licensed appraiser</def> means a <ref target="1026-2-a-22" reftype="term">person</ref> who is certified or licensed by the <ref target="1026-42-g-3" reftype="term">State agency</ref> in the <ref target="1026-2-a-26" reftype="term">State</ref> in which the property that secures the transaction is located, and who performs the appraisal in conformity with the Uniform Standards of Professional Appraisal Practice and the requirements applicable to appraisers in title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, as amended (<ref target="USC:12-3331" reftype="external">12 U.S.C. 3331</ref> et seq.), and any implementing regulations in effect at the time the appraiser signs the appraiser's certification.</content>
+    </paragraph>
+  </change>
+  <change operation="added" label="1026-35-c-1-ii">
+    <paragraph label="1026-35-c-1-ii" marker="(ii)">
+      <content><def term="credit risk">Credit risk</def> means the financial risk that a <ref target="1026-2-a-11" reftype="term">consumer</ref> will default on a loan.</content>
+    </paragraph>
+  </change>
+  <change operation="modified" label="1026-35-c-1-iii">
+    <paragraph label="1026-35-c-1-iii" marker="(iii)">
+      <content><def term="manufactured home">Manufactured home</def> has the same meaning as in <ref target="CFR:24-3280-2" reftype="external">24 CFR 3280.2</ref>.</content>
+    </paragraph>
+  </change>
+  <change operation="modified" label="1026-35-c-1-iv">
+    <paragraph label="1026-35-c-1-iv" marker="(iv)">
+      <content><def term="manufacturer's invoice">Manufacturer's invoice</def> means a document issued by a manufacturer and provided with a <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref> to a retail dealer that separately details the wholesale (base) prices at the factory for specific models or series of <ref target="1026-35-c-1-iii" reftype="term">manufactured homes</ref> and itemized options (large appliances, built-in items and equipment), plus actual itemized charges for freight from the factory to the dealer’s lot or the homesite (including any rental of wheels and axles) and for any sales taxes to be paid by the dealer. The invoice may recite such prices and charges on an itemized basis or by stating an aggregate price or charge, as appropriate, for each category.</content>
+    </paragraph>
+  </change>
+  <change operation="modified" label="1026-35-c-1-v">
+    <paragraph label="1026-35-c-1-v" marker="(v)">
+      <content><def term="national registry">National Registry</def> means the database of information about <ref target="1026-2-a-26" reftype="term">State</ref> certified and licensed appraisers maintained by the Appraisal Subcommittee of the Federal Financial Institutions Examination Council.</content>
+    </paragraph>
+  </change><!-- Add paragraphs (c)(1)(vi) through (vii); -->
+  <change operation="added" label="1026-35-c-1-vi">
+    <paragraph label="1026-35-c-1-vi" marker="(vi)">
+      <content><def term="new manufactured home">New manufactured home</def> means a <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref> that has not been previously occupied.</content>
+    </paragraph>
+  </change>
+  <change operation="added" label="1026-35-c-1-vii">
+    <paragraph label="1026-35-c-1-vii" marker="(vii)">
+      <content><def term="state agency">State agency</def> means a “<ref target="1026-2-a-26" reftype="term">State</ref> appraiser certifying and licensing agency” recognized in accordance with section 1118(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (<ref target="USC:12-3347" reftype="external">12 U.S.C. 3347</ref>(b)) and any implementing regulations.</content>
+    </paragraph>
+  </change><!-- Revise paragraphs (c)(2) introductory text, (c)(2)(i) and (ii), and (v) -->
+  <change operation="modified" label="1026-35-c-2" subpath="content">
+    <content>Unless otherwise specified, the requirements in paragraph <ref target="1026-35-c-3" reftype="internal">(c)(3)</ref> through <ref target="1026-35-c-6" reftype="internal">(6)</ref> of this section do not apply to the following types of transactions:</content>
+  </change>
+  <change operation="modified" label="1026-35-c-2-i">
+    <paragraph label="1026-35-c-2-i" marker="(i)">
+      <content>A loan that satisfies the criteria of a qualified mortgage as defined pursuant to <ref target="USC:15-1639" reftype="external">15 U.S.C. 1639c</ref>;</content>
+    </paragraph>
+  </change>
+  <change operation="modified" label="1026-35-c-2-ii">
+    <paragraph label="1026-35-c-2-ii" marker="(ii)">
+      <content>An extension of <ref target="1026-2-a-14" reftype="term">credit</ref> for which the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended is equal to or less than the applicable threshold amount, which is adjusted every year to reflect increases in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as applicable, and published in the official staff commentary to this paragraph <ref target="1026-35-c-2-ii" reftype="internal">(c)(2)(ii)</ref>;</content>
+    </paragraph>
+  </change>
+  <change operation="modified" label="1026-35-c-2-v">
+    <paragraph label="1026-35-c-2-v" marker="(v)">
+      <content>A loan with maturity of 12 months or less, if the purpose of the loan is a “bridge” loan connected with the acquisition of a <ref target="1026-2-a-19" reftype="term">dwelling</ref> intended to become the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>.</content>
+    </paragraph>
+  </change><!-- Add paragraphs (c)(2)(vii) and (viii).  -->
+  <change operation="added" label="1026-35-c-2-vii">
+    <paragraph label="1026-35-c-2-vii" marker="(vii)">
+      <content>An extension of <ref target="1026-2-a-14" reftype="term">credit</ref> that is a refinancing secured by a first lien, with refinancing defined as in § <ref target="1026-20-a" reftype="internal">1026.20(a)</ref> (except that the <ref target="1026-2-a-17" reftype="term">creditor</ref> need not be the original <ref target="1026-2-a-17" reftype="term">creditor</ref> or a holder or servicer of the original obligation), provided that the refinancing meets the following criteria:</content>
+      <paragraph label="1026-35-c-2-vii-A" marker="(A)">
+        <content>Either</content>
+        <paragraph label="1026-35-c-2-vii-A-1" marker="(1)">
+          <content>The <ref target="1026-2-a-14" reftype="term">credit</ref> risk of the refinancing is retained by the <ref target="1026-2-a-22" reftype="term">person</ref> that held the <ref target="1026-2-a-14" reftype="term">credit</ref> risk of the existing obligation and there is no commitment, at <ref target="1026-2-a-13" reftype="term">consummation</ref>, to transfer the <ref target="1026-2-a-14" reftype="term">credit</ref> risk to another <ref target="1026-2-a-22" reftype="term">person</ref>; or</content>
         </paragraph>
-        <paragraph label="1026-35-c-2-vii-B" marker="(B)">
-          <content>The regular periodic payments under the refinance loan do not—</content>
-          <paragraph label="1026-35-c-2-vii-B-1" marker="(1)">
-            <content>Cause the principal balance to increase;</content>
-          </paragraph>
-          <paragraph label="1026-35-c-2-vii-B-2" marker="(2)">
-            <content>Allow the <ref target="1026-2-a-11" reftype="term">consumer</ref> to defer repayment of principal; or</content></paragraph>
-          <paragraph label="1026-35-c-2-vii-B-3" marker="(3)">
-            <content>Result in a balloon payment, as defined in § <ref target="1026-18-s-5-i" reftype="internal">1026.18(s)(5)(i)</ref>; and</content></paragraph>
-        </paragraph>
-        <paragraph label="1026-35-c-2-vii-C" marker="(C)">
-          <content>The proceeds from the refinancing are used solely to satisfy the existing obligation and amounts attributed solely to the costs of the refinancing; and</content>
+        <paragraph label="1026-35-c-2-vii-A-2" marker="(2)">
+          <content>The refinancing is insured or guaranteed by the same Federal government agency that insured or guaranteed the existing obligation;</content>
         </paragraph>
       </paragraph>
-    </change>
-    <change operation="added" label="1026-35-c-2-viii">
-      <paragraph label="1026-35-c-2-viii" marker="(viii)">
-        <content>A transaction secured in whole or in part by a <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref>.</content>
+      <paragraph label="1026-35-c-2-vii-B" marker="(B)">
+        <content>The regular periodic payments under the refinance loan do not</content>
+        <paragraph label="1026-35-c-2-vii-B-1" marker="(1)">
+          <content>Cause the principal balance to increase;</content>
+        </paragraph>
+        <paragraph label="1026-35-c-2-vii-B-2" marker="(2)">
+          <content>Allow the <ref target="1026-2-a-11" reftype="term">consumer</ref> to defer repayment of principal; or</content>
+        </paragraph>
+        <paragraph label="1026-35-c-2-vii-B-3" marker="(3)">
+          <content>Result in a balloon payment, as defined in § <ref target="1026-18-s-5-i" reftype="internal">1026.18(s)(5)(i)</ref>; and</content>
+        </paragraph>
       </paragraph>
-    </change>
-    <!-- Appendix N intro para and paragraph 7 -->
-    <change operation="modified" label="1026-N-p1" subpath="content">
-      <content>To qualify for the safe harbor provided in § <ref target="1026-35-c-3-ii" reftype="internal">1026.35(c)(3)(ii)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> must confirm that the written appraisal:</content>
-    </change><change operation="modified" label="1026-N-p1-7" subpath="content">
-      <content>Indicates that a physical property visit of the interior of the property was performed, as applicable.</content>
-    </change>
-    <!-- Supplement I (Interp) updates -->
-    <!-- The 35(c)(2) entry is amended by adding paragraph 1. -->
-    <change operation="added" label="1026-35-c-2-Interp-1">
-      <interpParagraph label="1026-35-c-2-Interp-1" marker="1.">
-        <title type="keyterm">Compliance with title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (FIRREA).</title>
-        <content>Section 1026.35(c)(2) provides exemptions solely from the requirements of section 1026.35(c)(3) through (6). Institutions subject to the requirements of FIRREA and its implementing regulations that make a loan qualifying for an exemption under section 1026.35(c)(2) must still comply with appraisal and evaluation requirements under FIRREA and its implementing regulations.</content>
-      </interpParagraph>
-    </change>
-    <!-- A 35(c)(2)(i) entry is added. -->
-    <change operation="added" label="1026-35-c-2-i-Interp" before="1026-35-c-2-ii-Interp">
-      <interpParagraph label="1026-35-c-2-i-Interp" target="1026-35-c-2-i">
-        <title>Paragraph 35(c)(2)(i)</title>
-        <content/>
-        <interpParagraph label="1026-35-c-2-i-Interp-1" marker="1.">
-          <title type="keyterm">Qualified mortgage criteria.</title>
-          <content>Under § <ref target="1026-35-c-2-i" reftype="internal">1026.35(c)(2)(i)</ref>, a loan is exempt from the appraisal requirements of § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref> if either:</content><interpParagraph label="1026-35-c-2-i-Interp-1-i" marker="i.">
-            <content>The loan is—(1) subject to the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s ability-to-repay requirements in § 1026.43 as a “<ref target="1026-42-b-2" reftype="term">covered transaction</ref>” (defined in § <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>) and (2) a qualified mortgage pursuant to the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s rules or, for loans insured, guaranteed, or administered by the U.S. Department of Housing and Urban Development (HUD), U.S. Department of Veterans Affairs (VA), U.S. Department of Agriculture (USDA), or Rural Housing Service (RHS), a qualified mortgage pursuant to applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s definition of a qualified mortgage applies to those loans); or</content></interpParagraph>
-          <interpParagraph label="1026-35-c-2-i-Interp-1-ii" marker="ii.">
-            <content>The loan is—(1) not subject to the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s ability-to-repay requirements in § 1026.43 as a “<ref target="1026-42-b-2" reftype="term">covered transaction</ref>” (defined in § <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>), but (2) meets the criteria for a qualified mortgage in the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s rules or, for loans insured, guaranteed, or administered by HUD, VA, USDA, or RHS, meets the criteria for a qualified mortgage in the applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s criteria for a qualified mortgage applies to those loans). To explain further, loans enumerated in § 1026.43(a) are not “<ref target="1026-42-b-2" reftype="term">covered transaction</ref>” under the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s ability-to-repay requirements in § 1026.43, and thus cannot be qualified mortgages (entitled to a rebuttable presumption or safe harbor of compliance with the ability-to-repay requirements of § 1026.43, see, e.g., § <ref target="1026-43-e-1" reftype="internal">1026.43(e)(1)</ref>). These include an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> made pursuant to a program administered by a Housing Finance Agency, as defined under 24 CFR 266.5, or pursuant to a program authorized by sections 101 and 109 of the Emergency Economic Stabilization Act of 2008. See § <ref target="1026-43-a-3-iv" reftype="internal">1026.43(a)(3)(iv)</ref> and (vi). They also include extensions of <ref target="1026-2-a-14" reftype="term">credit</ref> made by a <ref target="1026-2-a-17" reftype="term">creditor</ref> identified in § <ref target="1026-43-a-3-v" reftype="internal">1026.43(a)(3)(v)</ref>. However, these loans are eligible for the exemption in § <ref target="1026-35-c-2-i" reftype="internal">1026.35(c)(2)(i)</ref> if they meet the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s qualified mortgage criteria in § <ref target="1026-43-e-2" reftype="internal">1026.43(e)(2)</ref>, (4), (5), or (6) or § <ref target="1026-43-f" reftype="internal">1026.43(f)</ref> (including limits on when loans must be consummated) or, for loans that are insured, guaranteed, or administered by HUD, VA, USDA, or RHS, in applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s criteria for a qualified mortgage applies to those loans). For example, assume that HUD has prescribed rules to define loans insured under its programs that are qualified mortgages and those rules are in effect. Assume further that a <ref target="1026-2-a-17" reftype="term">creditor</ref> designated as a Community Development Financial Institution, as defined under <ref target="CFR:12-1805" reftype="external">12 CFR 1805.104(h)</ref>, originates a loan insured by the Federal Housing Administration, which is a part of HUD. The loan is not a “<ref target="1026-42-b-2" reftype="term">covered transaction</ref>” and thus is not a qualified mortgage. See § <ref target="1026-43-a-3-v-A" reftype="internal">1026.43(a)(3)(v)(A)</ref> and (b)(1). Nonetheless, the transaction is eligible for an exemption from the appraisal requirements of § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref> if it meets the qualified mortgage criteria in HUD’s rules. Nothing in § <ref target="1026-35-c-2-i" reftype="internal">1026.35(c)(2)(i)</ref> alters the definition of a qualified mortgage under regulations of the <ref target="1026-2-a-5" reftype="term">Bureau</ref>, HUD, VA, USDA, or RHS.</content></interpParagraph>
+      <paragraph label="1026-35-c-2-vii-C" marker="(C)">
+        <content>The proceeds from the refinancing are used solely to satisfy the existing obligation and amounts attributed solely to the costs of the refinancing; and</content>
+      </paragraph>
+    </paragraph>
+  </change>
+  <change operation="added" label="1026-35-c-2-viii">
+    <paragraph label="1026-35-c-2-viii" marker="(viii)">
+      <content>A transaction secured in whole or in part by a <ref target="1026-35-c-1-iii" reftype="term">manufactured home</ref>.</content>
+    </paragraph>
+  </change><!-- Appendix N intro para and paragraph 7 -->
+  <change operation="modified" label="1026-N-p1" subpath="content">
+    <content>To qualify for the safe harbor provided in § <ref target="1026-35-c-3-ii" reftype="internal">1026.35(c)(3)(ii)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> must confirm that the written appraisal:</content>
+  </change><change operation="modified" label="1026-N-p1-7" subpath="content">
+    <content>Indicates that a physical property visit of the interior of the property was performed, as applicable.</content>
+  </change><!-- Supplement I (Interp)  35(c)(2) entry is amended by adding paragraph 1. -->
+  <change operation="added" label="1026-35-c-2-Interp-1">
+    <interpParagraph label="1026-35-c-2-Interp-1" marker="1.">
+      <title type="keyterm">Compliance with title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (FIRREA).</title>
+      <content>Section 1026.35(c)(2) provides exemptions solely from the requirements of section 1026.35(c)(3) through (6). Institutions subject to the requirements of FIRREA and its implementing regulations that make a loan qualifying for an exemption under section 1026.35(c)(2) must still comply with appraisal and evaluation requirements under FIRREA and its implementing regulations.</content>
+    </interpParagraph>
+  </change><!-- A 35(c)(2)(i) entry is added. -->
+  <change operation="added" label="1026-35-c-2-i-Interp" before="1026-35-c-2-ii-Interp">
+    <interpParagraph label="1026-35-c-2-i-Interp" target="1026-35-c-2-i">
+      <title>Paragraph 35(c)(2)(i)</title>
+      <content/>
+      <interpParagraph label="1026-35-c-2-i-Interp-1" marker="1.">
+        <title type="keyterm">Qualified mortgage criteria.</title>
+        <content>Under § <ref target="1026-35-c-2-i" reftype="internal">1026.35(c)(2)(i)</ref>, a loan is exempt from the appraisal requirements of § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref> if either:</content>
+        <interpParagraph label="1026-35-c-2-i-Interp-1-i" marker="i.">
+            <content>The loan is—(1) subject to the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s ability-to-repay requirements in § <ref target="1026-43" reftype="internal">1026.43</ref> as a “<ref target="1026-42-b-2" reftype="term">covered transaction</ref>” (defined in § <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>) and <ref target="1026-43-b-2" reftype="internal">(2)</ref> a qualified mortgage pursuant to the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s rules or, for loans insured, guaranteed, or administered by the U.S. Department of Housing and Urban Development (HUD), U.S. Department of Veterans Affairs (VA), U.S. Department of Agriculture (USDA), or Rural Housing Service (RHS), a qualified mortgage pursuant to applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s definition of a qualified mortgage applies to those loans); or</content>
+        </interpParagraph>
+        <interpParagraph label="1026-35-c-2-i-Interp-1-ii" marker="ii.">
+            <content>The loan is—(1) not subject to the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s ability-to-repay requirements in § <ref target="1026-43" reftype="internal">1026.43</ref> as a “<ref target="1026-42-b-2" reftype="term">covered transaction</ref>” (defined in § <ref target="1026-43-b-1" reftype="internal">1026.43(b)(1)</ref>), but (2) meets the criteria for a qualified mortgage in the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s rules or, for loans insured, guaranteed, or administered by HUD, VA, USDA, or RHS, meets the criteria for a qualified mortgage in the applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s criteria for a qualified mortgage applies to those loans). To explain further, loans enumerated in § <ref target="1026-43-a" reftype="internal">1026.43(a)</ref> are not “<ref target="1026-42-b-2" reftype="term">covered transaction</ref>” under the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s ability-to-repay requirements in § <ref target="1026-43" reftype="internal">1026.43</ref>, and thus cannot be qualified mortgages (entitled to a rebuttable presumption or safe harbor of compliance with the ability-to-repay requirements of § <ref target="1026-43" reftype="internal">1026.43</ref>, see, e.g., § <ref target="1026-43-e-1" reftype="internal">1026.43(e)(1)</ref>). These include an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> made pursuant to a program administered by a Housing Finance Agency, as defined under 24 CFR 266.5, or pursuant to a program authorized by sections 101 and 109 of the Emergency Economic Stabilization Act of 2008. See § <ref target="1026-43-a-3-iv" reftype="internal">1026.43(a)(3)(iv)</ref> and (vi). They also include extensions of <ref target="1026-2-a-14" reftype="term">credit</ref> made by a <ref target="1026-2-a-17" reftype="term">creditor</ref> identified in § <ref target="1026-43-a-3-v" reftype="internal">1026.43(a)(3)(v)</ref>. However, these loans are eligible for the exemption in § <ref target="1026-35-c-2-i" reftype="internal">1026.35(c)(2)(i)</ref> if they meet the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s qualified mortgage criteria in § <ref target="1026-43-e-2" reftype="internal">1026.43(e)(2)</ref>, (4), (5), or (6) or § <ref target="1026-43-f" reftype="internal">1026.43(f)</ref> (including limits on when loans must be consummated) or, for loans that are insured, guaranteed, or administered by HUD, VA, USDA, or RHS, in applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the <ref target="1026-2-a-5" reftype="term">Bureau</ref>’s criteria for a qualified mortgage applies to those loans). For example, assume that HUD has prescribed rules to define loans insured under its programs that are qualified mortgages and those rules are in effect. Assume further that a <ref target="1026-2-a-17" reftype="term">creditor</ref> designated as a Community Development Financial Institution, as defined under <ref target="CFR:12-1805" reftype="external">12 CFR 1805.104(h)</ref>, originates a loan insured by the Federal Housing Administration, which is a part of HUD. The loan is not a “<ref target="1026-42-b-2" reftype="term">covered transaction</ref>” and thus is not a qualified mortgage. See § <ref target="1026-43-a-3-v-A" reftype="internal">1026.43(a)(3)(v)(A)</ref> and (b)(1). Nonetheless, the transaction is eligible for an exemption from the appraisal requirements of § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref> if it meets the qualified mortgage criteria in HUD’s rules. Nothing in § <ref target="1026-35-c-2-i" reftype="internal">1026.35(c)(2)(i)</ref> alters the definition of a qualified mortgage under regulations of the <ref target="1026-2-a-5" reftype="term">Bureau</ref>, HUD, VA, USDA, or RHS.</content>
         </interpParagraph>
       </interpParagraph>
-    </change>
-    <!-- The 35(c)(2)(ii) entry is revised. -->
-    <change operation="modified" label="1026-35-c-2-ii-Interp" after="1026-35-c-2-i-Interp">
-      <interpParagraph label="1026-35-c-2-ii-Interp" target="1026-35-c-2-ii">
-        <title>Paragraph 35(c)(2)(ii)</title>
+    </interpParagraph>
+  </change><!-- The 35(c)(2)(ii) entry is revised. -->
+  <change operation="modified" label="1026-35-c-2-ii-Interp" after="1026-35-c-2-i-Interp">
+    <interpParagraph label="1026-35-c-2-ii-Interp" target="1026-35-c-2-ii">
+      <title>Paragraph 35(c)(2)(ii)</title>
+      <content/>
+      <interpParagraph label="1026-35-c-2-ii-Interp-1" marker="1.">
+        <title type="keyterm">Threshold amount.</title>
+        <content>For purposes of § <ref target="1026-35-c-2-ii" reftype="internal">1026.35(c)(2)(ii)</ref>, the threshold amount in effect during a particular one-year period is the amount stated below for that period. The threshold amount is adjusted effective January 1 of every year by the percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI–W) that was in effect on the preceding June 1. Every year, this comment will be amended to provide the threshold amount for the upcoming one-year period after the annual percentage change in the CPI–W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the percentage increase in the CPI–W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the percentage increase in the CPI–W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900.</content>
+        <interpParagraph label="1026-35-c-2-ii-Interp-1-i" marker="i.">
+          <content>From January 18, 2014, through December 31, 2014, the threshold amount is $25,000.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-35-c-2-ii-Interp-2" marker="2.">
+        <title type="keyterm">Qualifying for exemption—in general.</title>
+        <content>A transaction is exempt under § <ref target="1026-35-c-2-ii" reftype="internal">1026.35(c)(2)(ii)</ref> if the <ref target="1026-2-a-17" reftype="term">creditor</ref> makes an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> at <ref target="1026-2-a-13" reftype="term">consummation</ref> that is equal to or below the threshold amount in effect at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>. </content>
+      </interpParagraph>
+      <interpParagraph label="1026-35-c-2-ii-Interp-3" marker="3.">
+        <title type="keyterm">Qualifying for exemption—subsequent changes.</title>
+        <content>A transaction does not meet the condition for an exemption under § <ref target="1026-35-c-2-ii" reftype="internal">1026.35(c)(2)(ii)</ref> merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of <ref target="1026-2-a-14" reftype="term">credit</ref> is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a § <ref target="1026-35-c-2-ii" reftype="internal">1026.35(c)(2)(ii)</ref> exemption at <ref target="1026-2-a-13" reftype="term">consummation</ref> in year one is refinanced in year ten and that the new <ref target="1026-43-b-5" reftype="term">loan amount</ref> is greater than the threshold amount in effect in year ten. In these circumstances, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must comply with all of the applicable requirements of § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref> with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref> applies. See § <ref target="1026-35-c-2" reftype="internal">1026.35(c)(2)</ref> and § <ref target="1026-35-c-4-vii" reftype="internal">1026.35(c)(4)(vii)</ref>.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change><!-- The 35(c)(2)(iv) entry is amended by adding paragraph 2. -->
+  <change operation="added" label="1026-35-c-2-iv-Interp-2" after="1026-35-c-2-iv-Interp-1">
+    <interpParagraph label="1026-35-c-2-iv-Interp-2" marker="2.">
+      <title type="keyterm">Financing initial construction.</title>
+      <content>The exemption for construction loans in § <ref target="1026-35-c-2-iv" reftype="internal">1026.35(c)(2)(iv)</ref> applies to temporary financing of the construction of a <ref target="1026-2-a-19" reftype="term">dwelling</ref> that will be replaced by permanent financing once construction is complete. The exemption does not apply, for example, to loans to finance the purchase of <ref target="1026-35-c-1-iii" reftype="term">manufactured homes</ref> that have not been or are in the process of being built when the financing obtained by the <ref target="1026-2-a-11" reftype="term">consumer</ref> at that time is permanent. See § <ref target="1026-35-c-2-viii" reftype="internal">1026.35(c)(2)(viii)</ref>.</content>
+    </interpParagraph>
+  </change>
+  <!-- A 35(c)(2)(vii)(A)(1) entry is added. -->
+  <!-- Entries for 35(c)(2)(vii)(B) and (C) are added. -->
+  <change operation="added" label="1026-35-c-2-vii-Interp" parent="1026-35-c-2-Interp" after="1026-35-c-2-iv-Interp">
+    <interpParagraph label="1026-35-c-2-vii-Interp" target="1026-35-c-2-vii">
+      <title/>
+      <content/>
+      <interpParagraph label="1026-35-c-2-vii-A-1-Interp" marker="1." target="1026-35-c-2-vii-A-1">
+        <title type="keyterm">Paragraph 35(c)(2)(vii)(A)(1)</title>
         <content/>
-        <interpParagraph label="1026-35-c-2-ii-Interp-1" marker="1.">
-          <title type="keyterm">Threshold amount.</title>
-          <content>For purposes of § <ref target="1026-35-c-2-ii" reftype="internal">1026.35(c)(2)(ii)</ref>, the threshold amount in effect during a particular one-year period is the amount stated below for that period. The threshold amount is adjusted effective January 1 of every year by the percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI–W) that was in effect on the preceding June 1. Every year, this comment will be amended to provide the threshold amount for the upcoming one-year period after the annual percentage change in the CPI–W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the percentage increase in the CPI–W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the percentage increase in the CPI–W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900.</content><interpParagraph label="1026-35-c-2-ii-Interp-1-i" marker="i.">
-            <content>From January 18, 2014, through December 31, 2014, the threshold amount is $25,000.</content>
+        <interpParagraph label="1026-35-c-2-vii-A-1-Interp-1" marker="1.">
+          <title type="keyterm">Same credit risk holder.</title>
+          <content>The requirement that the holder of the <ref target="1026-2-a-14" reftype="term">credit</ref> risk on the existing obligation and the refinancing be the same applies to situations in which an entity bears the financial responsibility for the default of a loan by either holding the loan in its portfolio or guaranteeing payments of principal and any interest to investors in a mortgage-backed security in which the loan is pooled. See § <ref target="1026-35-c-1-ii" reftype="internal">1026.35(c)(1)(ii)</ref> (defining “<ref target="1026-2-a-14" reftype="term">credit</ref> risk”). For example, a <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder could be a bank that bears the <ref target="1026-2-a-14" reftype="term">credit</ref> risk on the existing obligation by holding the loan in the bank’s portfolio. Another example of a <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder would be a government-sponsored enterprise that bears the risk of default on a loan by guaranteeing the payment of principal and any interest on a loan to investors in a mortgage-backed security. The holder of <ref target="1026-2-a-14" reftype="term">credit</ref> risk under § <ref target="1026-35-c-2-vii-A-1" reftype="internal">1026.35(c)(2)(vii)(A)(1)</ref> does not mean individual investors in a mortgage-backed security or providers of private mortgage insurance.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-35-c-2-vii-A-1-Interp-2" marker="2.">
+          <title type="keyterm">Same credit risk holder-illustrations.</title>
+          <content>Illustrations of the <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder of the existing obligation continuing to be the <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder of the refinancing include, but are not limited to, the following:</content>
+          <interpParagraph label="1026-35-c-2-vii-A-1-Interp-2-i" marker="i.">
+            <content>The existing obligation is held in the portfolio of a bank, thus the bank holds the <ref target="1026-2-a-14" reftype="term">credit</ref> risk. The bank arranges to refinance the loan and also will hold the refinancing in its portfolio. If the refinancing otherwise meets the requirements for an exemption under § <ref target="1026-35-c-2-vii" reftype="internal">1026.35(c)(2)(vii)</ref>, the transaction will qualify for the exemption because the <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder is the same for the existing obligation and the refinance transaction. In this case, the exemption would apply regardless of whether the bank arranged to refinance the loan directly or indirectly, such as through the servicer or subservicer on the existing obligation.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-35-c-2-vii-A-1-Interp-2-ii" marker="ii.">
+            <content>The existing obligation is held in the portfolio of a government-sponsored enterprise (GSE), thus the GSE holds the <ref target="1026-2-a-14" reftype="term">credit</ref> risk. The existing obligation is then refinanced by the servicer of the loan and immediately transferred to the GSE. The GSE pools the refinancing in a mortgage-backed security guaranteed by the GSE, thus the GSE holds the <ref target="1026-2-a-14" reftype="term">credit</ref> risk on the refinance loan. If the refinance transaction otherwise meets the requirements for an exemption under § <ref target="1026-35-c-2-vii" reftype="internal">1026.35(c)(2)(vii)</ref>, the transaction will qualify for the exemption because the <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder is the same for the existing obligation and the refinance transaction. In this case, the exemption would apply regardless of whether the existing obligation was refinanced by the servicer or subservicer on the existing obligation (acting as a “<ref target="1026-2-a-17" reftype="term">creditor</ref>” under § <ref target="1026-2-a-17" reftype="internal">1026.2(a)(17)</ref>) or by a different <ref target="1026-2-a-17" reftype="term">creditor</ref>.</content>
           </interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1026-35-c-2-ii-Interp-2" marker="2.">
-          <title type="keyterm">Qualifying for exemption—in general.</title>
-          <content>A transaction is exempt under § <ref target="1026-35-c-2-ii" reftype="internal">1026.35(c)(2)(ii)</ref> if the <ref target="1026-2-a-17" reftype="term">creditor</ref> makes an extension of <ref target="1026-2-a-14" reftype="term">credit</ref> at <ref target="1026-2-a-13" reftype="term">consummation</ref> that is equal to or below the threshold amount in effect at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>. </content>
+        <interpParagraph label="1026-35-c-2-vii-A-1-Interp-3" marker="3.">
+          <title type="keyterm">Forward commitments.</title>
+          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may make a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> that will be sold or otherwise transferred pursuant to an <ref target="1026-58-b-1" reftype="term">agreement</ref> that has been entered into at or before the time the transaction is consummated. Such an <ref target="1026-58-b-1" reftype="term">agreement</ref> is sometimes known as a “forward commitment.” A refinance loan does not satisfy the requirement of § <ref target="1026-35-c-2-vii-A-1" reftype="internal">1026.35(c)(2)(vii)(A)(1)</ref> if the loan will be acquired pursuant to a forward commitment, such that the <ref target="1026-2-a-14" reftype="term">credit</ref> risk on the refinance loan will transfer to a <ref target="1026-2-a-22" reftype="term">person</ref> who did not hold the <ref target="1026-2-a-14" reftype="term">credit</ref> risk on the existing obligation.</content>
         </interpParagraph>
-        <interpParagraph label="1026-35-c-2-ii-Interp-3" marker="3.">
-          <title type="keyterm">Qualifying for exemption—subsequent changes.</title>
-          <content>A transaction does not meet the condition for an exemption under § <ref target="1026-35-c-2-ii" reftype="internal">1026.35(c)(2)(ii)</ref> merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of <ref target="1026-2-a-14" reftype="term">credit</ref> is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a § <ref target="1026-35-c-2-ii" reftype="internal">1026.35(c)(2)(ii)</ref> exemption at <ref target="1026-2-a-13" reftype="term">consummation</ref> in year one is refinanced in year ten and that the new <ref target="1026-43-b-5" reftype="term">loan amount</ref> is greater than the threshold amount in effect in year ten. In these circumstances, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must comply with all of the applicable requirements of § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref> with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref> applies. See § <ref target="1026-35-c-2" reftype="internal">1026.35(c)(2)</ref> and § <ref target="1026-35-c-4-vii" reftype="internal">1026.35(c)(4)(vii)</ref>.</content></interpParagraph>
       </interpParagraph>
-    </change><!-- The 35(c)(2)(iv) entry is amended by adding paragraph 2. -->
-    <change operation="added" label="1026-35-c-2-iv-Interp-2" after="1026-35-c-2-iv-Interp-1">
-      <interpParagraph label="1026-35-c-2-iv-Interp-2" marker="2.">
-        <title type="keyterm">Financing initial construction.</title>
-        <content>The exemption for construction loans in § <ref target="1026-35-c-2-iv" reftype="internal">1026.35(c)(2)(iv)</ref> applies to temporary financing of the construction of a <ref target="1026-2-a-19" reftype="term">dwelling</ref> that will be replaced by permanent financing once construction is complete. The exemption does not apply, for example, to loans to finance the purchase of <ref target="1026-35-c-1-iii" reftype="term">manufactured homes</ref> that have not been or are in the process of being built when the financing obtained by the <ref target="1026-2-a-11" reftype="term">consumer</ref> at that time is permanent. See § <ref target="1026-35-c-2-viii" reftype="internal">1026.35(c)(2)(viii)</ref>.</content></interpParagraph>
-    </change>
-    <!-- A 35(c)(2)(vii)(A)(1) entry is added. -->
-    <!-- Entries for 35(c)(2)(vii)(B) and (C) are added. -->
-    <change operation="added" label="1026-35-c-2-vii-Interp" parent="1026-35-c-2-Interp" after="1026-35-c-2-iv-Interp">
-      <interpParagraph label="1026-35-c-2-vii-Interp" target="1026-35-c-2-vii">
-        <title/>
+      <interpParagraph label="1026-35-c-2-vii-B-Interp" target="1026-35-c-2-vii-B">
+        <title type="keyterm">Paragraph 35(c)(2)(vii)(B)</title>
         <content/>
-        <interpParagraph label="1026-35-c-2-vii-A-1-Interp" marker="1." target="1026-35-c-2-vii-A-1">
-          <title type="keyterm">Paragraph 35(c)(2)(vii)(A)(1)</title>
-          <content/>
-          <interpParagraph label="1026-35-c-2-vii-A-1-Interp-1" marker="1.">
-            <title type="keyterm">Same credit risk holder.</title>
-          <content>The requirement that the holder of the <ref target="1026-2-a-14" reftype="term">credit</ref> risk on the existing obligation and the refinancing be the same applies to situations in which an entity bears the financial responsibility for the default of a loan by either holding the loan in its portfolio or guaranteeing payments of principal and any interest to investors in a mortgage-backed security in which the loan is pooled. See § <ref target="1026-35-c-1-ii" reftype="internal">1026.35(c)(1)(ii)</ref> (defining “<ref target="1026-2-a-14" reftype="term">credit</ref> risk”). For example, a <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder could be a bank that bears the <ref target="1026-2-a-14" reftype="term">credit</ref> risk on the existing obligation by holding the loan in the bank’s portfolio. Another example of a <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder would be a government-sponsored enterprise that bears the risk of default on a loan by guaranteeing the payment of principal and any interest on a loan to investors in a mortgage-backed security. The holder of <ref target="1026-2-a-14" reftype="term">credit</ref> risk under § <ref target="1026-35-c-2-vii-A-1" reftype="internal">1026.35(c)(2)(vii)(A)(1)</ref> does not mean individual investors in a mortgage-backed security or providers of private mortgage insurance.</content></interpParagraph>
-          <interpParagraph label="1026-35-c-2-vii-A-1-Interp-2" marker="2.">
-            <title type="keyterm">Same credit risk holder-illustrations.</title>
-            <content>Illustrations of the <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder of the existing obligation continuing to be the <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder of the refinancing include, but are not limited to, the following:</content><interpParagraph label="1026-35-c-2-vii-A-1-Interp-2-i" marker="i.">
-            <content>The existing obligation is held in the portfolio of a bank, thus the bank holds the <ref target="1026-2-a-14" reftype="term">credit</ref> risk. The bank arranges to refinance the loan and also will hold the refinancing in its portfolio. If the refinancing otherwise meets the requirements for an exemption under § <ref target="1026-35-c-2-vii" reftype="internal">1026.35(c)(2)(vii)</ref>, the transaction will qualify for the exemption because the <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder is the same for the existing obligation and the refinance transaction. In this case, the exemption would apply regardless of whether the bank arranged to refinance the loan directly or indirectly, such as through the servicer or subservicer on the existing obligation.</content></interpParagraph>
-            <interpParagraph label="1026-35-c-2-vii-A-1-Interp-2-ii" marker="ii.">
-            <content>The existing obligation is held in the portfolio of a government-sponsored enterprise (GSE), thus the GSE holds the <ref target="1026-2-a-14" reftype="term">credit</ref> risk. The existing obligation is then refinanced by the servicer of the loan and immediately transferred to the GSE. The GSE pools the refinancing in a mortgage-backed security guaranteed by the GSE, thus the GSE holds the <ref target="1026-2-a-14" reftype="term">credit</ref> risk on the refinance loan. If the refinance transaction otherwise meets the requirements for an exemption under § <ref target="1026-35-c-2-vii" reftype="internal">1026.35(c)(2)(vii)</ref>, the transaction will qualify for the exemption because the <ref target="1026-2-a-14" reftype="term">credit</ref> risk holder is the same for the existing obligation and the refinance transaction. In this case, the exemption would apply regardless of whether the existing obligation was refinanced by the servicer or subservicer on the existing obligation (acting as a “<ref target="1026-2-a-17" reftype="term">creditor</ref>” under § <ref target="1026-2-a-17" reftype="internal">1026.2(a)(17)</ref>) or by a different <ref target="1026-2-a-17" reftype="term">creditor</ref>.</content></interpParagraph>
-          </interpParagraph>
-          <interpParagraph label="1026-35-c-2-vii-A-1-Interp-3" marker="3.">
-            <title type="keyterm">Forward commitments.</title>
-            <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may make a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> that will be sold or otherwise transferred pursuant to an <ref target="1026-58-b-1" reftype="term">agreement</ref> that has been entered into at or before the time the transaction is consummated. Such an <ref target="1026-58-b-1" reftype="term">agreement</ref> is sometimes known as a “forward commitment.” A refinance loan does not satisfy the requirement of § <ref target="1026-35-c-2-vii-A-1" reftype="internal">1026.35(c)(2)(vii)(A)(1)</ref> if the loan will be acquired pursuant to a forward commitment, such that the <ref target="1026-2-a-14" reftype="term">credit</ref> risk on the refinance loan will transfer to a <ref target="1026-2-a-22" reftype="term">person</ref> who did not hold the <ref target="1026-2-a-14" reftype="term">credit</ref> risk on the existing obligation.</content>
-          </interpParagraph>
-        </interpParagraph>
-        <interpParagraph label="1026-35-c-2-vii-B-Interp" target="1026-35-c-2-vii-B">
-          <title type="keyterm">Paragraph 35(c)(2)(vii)(B)</title>
-          <content/>
-          <interpParagraph label="1026-35-c-2-vii-B-Interp-1" marker="1.">
-            <title type="keyterm">Regular periodic payments.</title>
-            <content>Under § <ref target="1026-35-c-2-vii-B" reftype="internal">1026.35(c)(2)(vii)(B)</ref>, the regular periodic payments on the refinance loan must not: result in an increase of the principal balance (<ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>); allow the <ref target="1026-2-a-11" reftype="term">consumer</ref> to defer repayment of principal (see comment 43(e)(2)(i)–2); or result in a balloon payment. Thus, the terms of the legal obligation must require the <ref target="1026-2-a-11" reftype="term">consumer</ref> to make payments of principal and interest on a monthly or other periodic basis that will repay the loan amount over the loan term. Except for payments resulting from any interest rate changes after <ref target="1026-2-a-13" reftype="term">consummation</ref> in an adjustablerate or <ref target="1026-18-s-7-ii" reftype="term">step-rate mortgage</ref>, the periodic payments must be substantially equal. For an explanation of the term “substantially equal,” see comment 43(c)(5)(i)–4. In addition, a single-payment transaction is not a refinancing meeting the requirements of § <ref target="1026-35-c-2-vii" reftype="internal">1026.35(c)(2)(vii)</ref> because it does not require “regular periodic payments.”</content></interpParagraph>
-        </interpParagraph>
-        <interpParagraph label="1026-35-c-2-vii-C-Interp" target="1026-35-c-2-vii-C">
-          <title type="keyterm">Paragraph 35(c)(2)(vii)(C)</title>
-          <content/>
-          <interpParagraph label="1026-35-c-2-vii-C-Interp-1" marker="1.">
-            <title type="keyterm">Permissible use of proceeds.</title>
-            <content>The exemption for a refinancing under § <ref target="1026-35-c-2-vii" reftype="internal">1026.35(c)(2)(vii)</ref> is available only if the proceeds from the refinancing are used exclusively for the existing obligation and amounts attributed solely to the costs of the refinancing. The existing obligation includes the unpaid principal balance of the existing first lien loan, any earned unpaid finance charges, and any other lawful charges related to the existing loan. For guidance on the meaning of refinancing costs, see comment 23(f)–4. If the proceeds of a refinancing are used for other purposes, such as to pay off other liens or to provide additional cash to the <ref target="1026-2-a-11" reftype="term">consumer</ref> for discretionary spending, the transaction does not qualify for the exemption for a refinancing under § <ref target="1026-35-c-2-vii" reftype="internal">1026.35(c)(2)(vii)</ref> from the appraisal requirements in § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref>.</content></interpParagraph>
+        <interpParagraph label="1026-35-c-2-vii-B-Interp-1" marker="1.">
+          <title type="keyterm">Regular periodic payments.</title>
+          <content>Under § <ref target="1026-35-c-2-vii-B" reftype="internal">1026.35(c)(2)(vii)(B)</ref>, the regular periodic payments on the refinance loan must not: result in an increase of the principal balance (<ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>); allow the <ref target="1026-2-a-11" reftype="term">consumer</ref> to defer repayment of principal (see comment 43(e)(2)(i)–2); or result in a balloon payment. Thus, the terms of the legal obligation must require the <ref target="1026-2-a-11" reftype="term">consumer</ref> to make payments of principal and interest on a monthly or other periodic basis that will repay the loan amount over the loan term. Except for payments resulting from any interest rate changes after <ref target="1026-2-a-13" reftype="term">consummation</ref> in an adjustablerate or <ref target="1026-18-s-7-ii" reftype="term">step-rate mortgage</ref>, the periodic payments must be substantially equal. For an explanation of the term “substantially equal,” see comment 43(c)(5)(i)–4. In addition, a single-payment transaction is not a refinancing meeting the requirements of § <ref target="1026-35-c-2-vii" reftype="internal">1026.35(c)(2)(vii)</ref> because it does not require “regular periodic payments.”</content>
         </interpParagraph>
       </interpParagraph>
-    </change>
-    <!-- Under the 35(c)(6)(ii) entry, paragraph 2 is removed and paragraph 3 is redesignated as paragraph 2. -->
-    <change operation="modified" label="1026-35-c-6-ii-Interp-2">
-      <interpParagraph label="1026-35-c-6-ii-Interp-2" marker="2.">
-        <title type="keyterm">No waiver.</title>
-        <content>Regulation B, <ref target="CFR:12-1002-14" reftype="external">12 CFR 1002.14</ref>(a)(1), allowing the <ref target="1026-2-a-11" reftype="term">consumer</ref> to waive the requirement that the appraisal copy be provided three <ref target="1026-2-a-6" reftype="term">business days</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref>, does not apply to <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> subject to § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref>. A <ref target="1026-2-a-11" reftype="term">consumer</ref> of a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> subject to § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref> may not waive the timing requirement to receive a copy of the appraisal under § <ref target="1026-35-c-6-i" reftype="internal">1026.35(c)(6)(i)</ref>.</content></interpParagraph>
-    </change>
-    <change operation="deleted" label="1026-35-c-6-ii-Interp-3"/>
-    <!-- End of notice changes -->
+      <interpParagraph label="1026-35-c-2-vii-C-Interp" target="1026-35-c-2-vii-C">
+        <title type="keyterm">Paragraph 35(c)(2)(vii)(C)</title>
+        <content/>
+        <interpParagraph label="1026-35-c-2-vii-C-Interp-1" marker="1.">
+          <title type="keyterm">Permissible use of proceeds.</title>
+          <content>The exemption for a refinancing under § <ref target="1026-35-c-2-vii" reftype="internal">1026.35(c)(2)(vii)</ref> is available only if the proceeds from the refinancing are used exclusively for the existing obligation and amounts attributed solely to the costs of the refinancing. The existing obligation includes the unpaid principal balance of the existing first lien loan, any earned unpaid finance charges, and any other lawful charges related to the existing loan. For guidance on the meaning of refinancing costs, see comment 23(f)–4. If the proceeds of a refinancing are used for other purposes, such as to pay off other liens or to provide additional cash to the <ref target="1026-2-a-11" reftype="term">consumer</ref> for discretionary spending, the transaction does not qualify for the exemption for a refinancing under § <ref target="1026-35-c-2-vii" reftype="internal">1026.35(c)(2)(vii)</ref> from the appraisal requirements in § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref>.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </interpParagraph>
+  </change><!-- Under the 35(c)(6)(ii) entry, paragraph 2 is removed and paragraph 3 is redesignated as paragraph 2. -->
+  <change operation="modified" label="1026-35-c-6-ii-Interp-2">
+    <interpParagraph label="1026-35-c-6-ii-Interp-2" marker="2.">
+      <title type="keyterm">No waiver.</title>
+      <content>Regulation B, <ref target="CFR:12-1002-14" reftype="external">12 CFR 1002.14</ref>(a)(1), allowing the <ref target="1026-2-a-11" reftype="term">consumer</ref> to waive the requirement that the appraisal copy be provided three <ref target="1026-2-a-6" reftype="term">business days</ref> before <ref target="1026-2-a-13" reftype="term">consummation</ref>, does not apply to <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> subject to § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref>. A <ref target="1026-2-a-11" reftype="term">consumer</ref> of a <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loan</ref> subject to § <ref target="1026-35-c" reftype="internal">1026.35(c)</ref> may not waive the timing requirement to receive a copy of the appraisal under § <ref target="1026-35-c-6-i" reftype="internal">1026.35(c)(6)(i)</ref>.</content>
+    </interpParagraph>
+  </change>
+  <change operation="deleted" label="1026-35-c-6-ii-Interp-3"/>
   </changeset>
   <!-- Analysis sections:
        2(a)(6)
@@ -226,7 +236,7 @@
        35(c)(2)(ii)(B) - missing
        35(c)(6)(ii) - missing
   -->
-<analysis>
+  <analysis>
     <analysisSection target="1026-2-a" notice="2013-30108_20140118" date="2014-01-18">
       <title>2(a) Definitions</title>
       <analysisSection target="1026-2-a-6" notice="2013-30108_20140118" date="2014-01-18">
