@@ -20,181 +20,180 @@
     <federalRegisterURL>https://www.federalregister.gov/documents/2016/11/22/2016-24503/prepaid-accounts-under-the-electronic-fund-transfer-act-regulation-e-and-the-truth-in-lending-act</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2016-24503" leftEffectiveDate="2018-04-01" rightDocumentNumber="2016-24503">
-
-    <change operation="modified" label="1005-19-b">
-      <paragraph label="1005-19-b" marker="(b)">
-        <title type="keyterm">Submission of agreements to the Bureau</title>
-        <content>—</content>
-        <paragraph label="1005-19-b-1" marker="(1)">
-          <title type="keyterm">Submissions on a rolling basis.</title>
-          <content>An <ref target="1005-19-a-4" reftype="term">issuer</ref> must make submissions of <ref target="1005-19-a-1" reftype="term">prepaid account agreements</ref> to the Bureau on a rolling basis, in the form and manner specified by the Bureau. Rolling submissions must be sent to the Bureau no later than 30 days after an <ref target="1005-19-a-4" reftype="term">issuer</ref> <ref target="1005-19-a-5" reftype="term">offers</ref>, <ref target="1005-19-a-2" reftype="term">amends</ref>, or ceases to offer any <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> as described in paragraphs <ref target="1005-19-b-1-ii" reftype="internal">(b)(1)(ii)</ref> through <ref target="1005-19-b-1-iv" reftype="internal">(iv)</ref> of this section. Each submission must contain:</content>
-          <paragraph label="1005-19-b-1-i" marker="(i)">
-            <content>Identifying information about the <ref target="1005-19-a-4" reftype="term">issuer</ref> and the <ref target="1005-19-a-1" reftype="term">agreements</ref> submitted, including the <ref target="1005-19-a-4" reftype="term">issuer</ref>'s name, address, and identifying number (such as an RSSD ID number or tax identification number), the effective date of the <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref>, the name of the program manager, if any, and the names of other relevant parties, if applicable (such as the employer for a payroll card program or the agency for a government benefit program);</content>
-          </paragraph>
-          <paragraph label="1005-19-b-1-ii" marker="(ii)">
-            <content>Any <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> offered by the <ref target="1005-19-a-4" reftype="term">issuer</ref> that has not been previously submitted to the Bureau;</content>
-          </paragraph>
-          <paragraph label="1005-19-b-1-iii" marker="(iii)">
-            <content>Any <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> previously submitted to the Bureau that has been amended, as described in paragraph <ref target="1005-19-b-2" reftype="internal">(b)(2)</ref> of this section; and</content>
-          </paragraph>
-          <paragraph label="1005-19-b-1-iv" marker="(iv)">
-            <content>Notification regarding any <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> previously submitted to the Bureau that the <ref target="1005-19-a-4" reftype="term">issuer</ref> is withdrawing, as described in paragraphs <ref target="1005-19-b-3" reftype="internal">(b)(3)</ref>, <ref target="1005-19-b-4-ii" reftype="internal">(b)(4)(ii)</ref>, and <ref target="1005-19-b-5-ii" reftype="internal">(b)(5)(ii)</ref> of this section.</content>
-          </paragraph>
+  <change operation="modified" label="1005-19-b">
+    <paragraph label="1005-19-b" marker="(b)">
+      <title type="keyterm">Submission of agreements to the Bureau</title>
+      <content/>
+      <paragraph label="1005-19-b-1" marker="(1)">
+        <title type="keyterm">Submissions on a rolling basis.</title>
+        <content>An <ref target="1005-19-a-4" reftype="term">issuer</ref> must make submissions of <ref target="1005-19-a-1" reftype="term">prepaid account agreements</ref> to the Bureau on a rolling basis, in the form and manner specified by the Bureau. Rolling submissions must be sent to the Bureau no later than 30 days after an <ref target="1005-19-a-4" reftype="term">issuer</ref> <ref target="1005-19-a-5" reftype="term">offers</ref>, <ref target="1005-19-a-2" reftype="term">amends</ref>, or ceases to offer any <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> as described in paragraphs <ref target="1005-19-b-1-ii" reftype="internal">(b)(1)(ii)</ref> through <ref target="1005-19-b-1-iv" reftype="internal">(iv)</ref> of this section. Each submission must contain:</content>
+        <paragraph label="1005-19-b-1-i" marker="(i)">
+          <content>Identifying information about the <ref target="1005-19-a-4" reftype="term">issuer</ref> and the <ref target="1005-19-a-1" reftype="term">agreements</ref> submitted, including the <ref target="1005-19-a-4" reftype="term">issuer</ref>'s name, address, and identifying number (such as an RSSD ID number or tax identification number), the effective date of the <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref>, the name of the program manager, if any, and the names of other relevant parties, if applicable (such as the employer for a payroll card program or the agency for a government benefit program);</content>
         </paragraph>
-        <paragraph label="1005-19-b-2" marker="(2)">
-          <title type="keyterm">Amended agreements.</title>
-          <content>If a <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> previously submitted to the Bureau is amended, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must submit the entire amended <ref target="1005-19-a-1" reftype="term">agreement</ref> to the Bureau, in the form and manner specified by the Bureau, no later than 30 days after the change comes effective.</content>
+        <paragraph label="1005-19-b-1-ii" marker="(ii)">
+          <content>Any <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> offered by the <ref target="1005-19-a-4" reftype="term">issuer</ref> that has not been previously submitted to the Bureau;</content>
         </paragraph>
-        <paragraph label="1005-19-b-3" marker="(3)">
-          <title type="keyterm">Withdrawal of agreements no longer offered.</title>
-          <content>If an <ref target="1005-19-a-4" reftype="term">issuer</ref> no longer <ref target="1005-19-a-5" reftype="term">offers</ref> a <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> that was previously submitted to the Bureau, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must notify the Bureau, in the form and manner specified by the Bureau, no later than 30 days after the <ref target="1005-19-a-4" reftype="term">issuer</ref> ceases to offer the <ref target="1005-19-a-1" reftype="term">agreement</ref>, that it is withdrawing the <ref target="1005-19-a-1" reftype="term">agreement</ref>.</content>
+        <paragraph label="1005-19-b-1-iii" marker="(iii)">
+          <content>Any <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> previously submitted to the Bureau that has been amended, as described in paragraph <ref target="1005-19-b-2" reftype="internal">(b)(2)</ref> of this section; and</content>
         </paragraph>
-        <paragraph label="1005-19-b-4" marker="(4)">
-          <title type="keyterm">De minimis exception.</title>
-          <content/>
-          <paragraph label="1005-19-b-4-i" marker="(i)">
-            <content>An <ref target="1005-19-a-4" reftype="term">issuer</ref> is not required to submit any <ref target="1005-19-a-1" reftype="term">prepaid account agreements</ref> to the Bureau if the <ref target="1005-19-a-4" reftype="term">issuer</ref> has fewer than 3,000 <ref target="1005-19-a-7" reftype="term">open prepaid accounts</ref>. If the <ref target="1005-19-a-4" reftype="term">issuer</ref> has 3,000 or more <ref target="1005-19-a-7" reftype="term">open prepaid accounts</ref> as of the last day of the calendar quarter, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must submit to the Bureau its <ref target="1005-19-a-1" reftype="term">prepaid account agreements</ref> no later than 30 days after the last day of that calendar quarter.</content>
-          </paragraph>
-          <paragraph label="1005-19-b-4-ii" marker="(ii)">
-            <content>If an <ref target="1005-19-a-4" reftype="term">issuer</ref> that did not previously qualify for the de minimis exception newly qualifies for the de minimis exception, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must continue to make submissions to the Bureau on a rolling basis until the <ref target="1005-19-a-4" reftype="term">issuer</ref> notifies the Bureau that the <ref target="1005-19-a-4" reftype="term">issuer</ref> is withdrawing all <ref target="1005-19-a-1" reftype="term">agreements</ref> it previously submitted to the Bureau.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1005-19-b-5" marker="(5)">
-          <title type="keyterm">Product testing exception.</title>
-          <content/>
-          <paragraph label="1005-19-b-5-i" marker="(i)">
-            <content>An <ref target="1005-19-a-4" reftype="term">issuer</ref> is not required to submit a <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> to the Bureau if the <ref target="1005-19-a-1" reftype="term">agreement</ref> meets the criteria set forth in paragraphs <ref target="1005-19-b-5-i-A" reftype="internal">(b)(5)(i)(A)</ref> through <ref target="1005-19-b-5-i-C" reftype="internal">(C)</ref> of this section. If the <ref target="1005-19-a-1" reftype="term">agreement</ref> fails to meet the criteria set forth in paragraphs <ref target="1005-19-b-5-i-A" reftype="internal">(b)(5)(i)(A)</ref> through <ref target="1005-19-b-5-i-C" reftype="internal">(C)</ref> of this section as of the last day of the calendar quarter, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must submit to the Bureau that <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> no later than 30 days after the last day of that calendar quarter. An <ref target="1005-19-a-1" reftype="term">agreement</ref> qualifies for the product testing exception if the <ref target="1005-19-a-1" reftype="term">agreement</ref>:</content>
-            <paragraph label="1005-19-b-5-i-A" marker="(A)">
-              <content>Is offered as part of a product test offered to only a limited group of <ref target="1005-2-e" reftype="term">consumers</ref> for a limited period of time;</content>
-            </paragraph>
-            <paragraph label="1005-19-b-5-i-B" marker="(B)">
-              <content>Is used for fewer than 3,000 <ref target="1005-19-a-7" reftype="term">open prepaid accounts</ref>; and</content>
-            </paragraph>
-            <paragraph label="1005-19-b-5-i-C" marker="(C)">
-              <content>Is not offered other than in connection with such a product test.</content>
-            </paragraph>
-          </paragraph>
-          <paragraph label="1005-19-b-5-ii" marker="(ii)">
-            <content>If an <ref target="1005-19-a-1" reftype="term">agreement</ref> that did not previously qualify for the product testing exception newly qualifies for the exception, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must continue to make submissions to the Bureau on a rolling basis with respect to that <ref target="1005-19-a-1" reftype="term">agreement</ref> until the <ref target="1005-19-a-4" reftype="term">issuer</ref> notifies the Bureau that the <ref target="1005-19-a-4" reftype="term">issuer</ref> is withdrawing the <ref target="1005-19-a-1" reftype="term">agreement</ref>.</content>
-          </paragraph>
-        </paragraph>
-        <paragraph label="1005-19-b-6" marker="(6)">
-          <title type="keyterm">Form and content of agreements submitted to the Bureau—</title>
-          <content>—</content>
-          <paragraph label="1005-19-b-6-i" marker="(i)">
-            <title type="keyterm">Form and content generally.</title>
-            <content/>
-            <paragraph label="1005-19-b-6-i-A" marker="(A)">
-              <content>Each <ref target="1005-19-a-1" reftype="term">agreement</ref> must contain the provisions of the <ref target="1005-19-a-1" reftype="term">agreement</ref> and the <ref target="1005-19-a-3" reftype="term">fee information</ref> currently in effect.</content>
-            </paragraph>
-            <paragraph label="1005-19-b-6-i-B" marker="(B)">
-              <content><ref target="1005-19-a-1" reftype="term">Agreements</ref> must not include any personally identifiable information relating to any <ref target="1005-2-e" reftype="term">consumer</ref>, such as name, address, telephone number, or <ref target="1005-2-b-1" reftype="term">account</ref> number.</content>
-            </paragraph>
-            <paragraph label="1005-19-b-6-i-C" marker="(C)">
-              <content>The following are not deemed to be part of the <ref target="1005-19-a-1" reftype="term">agreement</ref> for purposes of this section, and therefore are not required to be included in submissions to the Bureau:</content>
-              <paragraph label="1005-19-b-6-i-C-1" marker="(1)">
-                <content>Ancillary disclosures required by <ref target="1005-2-l" reftype="term">state</ref> or Federal law, such as affiliate marketing notices, privacy policies, or disclosures under the E-Sign Act;</content>
-              </paragraph>
-              <paragraph label="1005-19-b-6-i-C-2" marker="(2)">
-                <content>Solicitation or marketing materials;</content>
-              </paragraph>
-              <paragraph label="1005-19-b-6-i-C-3" marker="(3)">
-                <content>Periodic statements; and</content>
-              </paragraph>
-              <paragraph label="1005-19-b-6-i-C-4" marker="(4)">
-                <content>Documents that may be sent to the <ref target="1005-2-e" reftype="term">consumer</ref> along with the <ref target="1005-19-a-8" reftype="term">prepaid account</ref> or <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> such as a cover letter, a validation sticker on the card, or other information about card security.</content>
-              </paragraph>
-            </paragraph>
-            <paragraph label="1005-19-b-6-i-D" marker="(D)">
-              <content><ref target="1005-19-a-1" reftype="term">Agreements</ref> must be presented in a clear and legible font.</content>
-            </paragraph>
-          </paragraph>
-          <paragraph label="1005-19-b-6-ii" marker="(ii)">
-            <title type="keyterm">Fee information.</title>
-            <content><ref target="1005-19-a-3" reftype="term">Fee information</ref> must be set forth either in the <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> or in a single addendum to that <ref target="1005-19-a-1" reftype="term">agreement</ref>. The <ref target="1005-19-a-1" reftype="term">agreement</ref> or addendum thereto must contain all of the <ref target="1005-19-a-3" reftype="term">fee information</ref>, as defined by paragraph <ref target="1005-19-a-3" reftype="internal">(a)(3)</ref> of this section.</content>
-          </paragraph>
-          <paragraph label="1005-19-b-6-iii" marker="(iii)">
-            <title type="keyterm">Integrated agreement.</title>
-            <content>An <ref target="1005-19-a-4" reftype="term">issuer</ref> may not provide provisions of the <ref target="1005-19-a-1" reftype="term">agreement</ref> or <ref target="1005-19-a-3" reftype="term">fee information</ref> to the Bureau in the form of change-in-terms notices or riders (other than the optional <ref target="1005-19-a-3" reftype="term">fee information</ref> addendum). Changes in provisions or <ref target="1005-19-a-3" reftype="term">fee information</ref> must be integrated into the text of the <ref target="1005-19-a-1" reftype="term">agreement</ref>, or the optional <ref target="1005-19-a-3" reftype="term">fee information</ref> addendum, as appropriate.</content>
-          </paragraph>
+        <paragraph label="1005-19-b-1-iv" marker="(iv)">
+          <content>Notification regarding any <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> previously submitted to the Bureau that the <ref target="1005-19-a-4" reftype="term">issuer</ref> is withdrawing, as described in paragraphs <ref target="1005-19-b-3" reftype="internal">(b)(3)</ref>, <ref target="1005-19-b-4-ii" reftype="internal">(b)(4)(ii)</ref>, and <ref target="1005-19-b-5-ii" reftype="internal">(b)(5)(ii)</ref> of this section.</content>
         </paragraph>
       </paragraph>
-    </change>
-
-    <change operation="added" label="1005-19-b-Interp">
-      <interpParagraph label="1005-19-b-Interp">
-        <title>19(b) Submission of Agreements to the Bureau</title>
+      <paragraph label="1005-19-b-2" marker="(2)">
+        <title type="keyterm">Amended agreements.</title>
+        <content>If a <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> previously submitted to the Bureau is amended, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must submit the entire amended <ref target="1005-19-a-1" reftype="term">agreement</ref> to the Bureau, in the form and manner specified by the Bureau, no later than 30 days after the change comes effective.</content>
+      </paragraph>
+      <paragraph label="1005-19-b-3" marker="(3)">
+        <title type="keyterm">Withdrawal of agreements no longer offered.</title>
+        <content>If an <ref target="1005-19-a-4" reftype="term">issuer</ref> no longer <ref target="1005-19-a-5" reftype="term">offers</ref> a <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> that was previously submitted to the Bureau, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must notify the Bureau, in the form and manner specified by the Bureau, no later than 30 days after the <ref target="1005-19-a-4" reftype="term">issuer</ref> ceases to offer the <ref target="1005-19-a-1" reftype="term">agreement</ref>, that it is withdrawing the <ref target="1005-19-a-1" reftype="term">agreement</ref>.</content>
+      </paragraph>
+      <paragraph label="1005-19-b-4" marker="(4)">
+        <title type="keyterm">De minimis exception.</title>
         <content/>
-        <interpParagraph label="1005-19-b-1-Interp">
-          <title>19(b)(1) Submissions on a Rolling Basis</title>
+        <paragraph label="1005-19-b-4-i" marker="(i)">
+          <content>An <ref target="1005-19-a-4" reftype="term">issuer</ref> is not required to submit any <ref target="1005-19-a-1" reftype="term">prepaid account agreements</ref> to the Bureau if the <ref target="1005-19-a-4" reftype="term">issuer</ref> has fewer than 3,000 <ref target="1005-19-a-7" reftype="term">open prepaid accounts</ref>. If the <ref target="1005-19-a-4" reftype="term">issuer</ref> has 3,000 or more <ref target="1005-19-a-7" reftype="term">open prepaid accounts</ref> as of the last day of the calendar quarter, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must submit to the Bureau its <ref target="1005-19-a-1" reftype="term">prepaid account agreements</ref> no later than 30 days after the last day of that calendar quarter.</content>
+        </paragraph>
+        <paragraph label="1005-19-b-4-ii" marker="(ii)">
+          <content>If an <ref target="1005-19-a-4" reftype="term">issuer</ref> that did not previously qualify for the de minimis exception newly qualifies for the de minimis exception, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must continue to make submissions to the Bureau on a rolling basis until the <ref target="1005-19-a-4" reftype="term">issuer</ref> notifies the Bureau that the <ref target="1005-19-a-4" reftype="term">issuer</ref> is withdrawing all <ref target="1005-19-a-1" reftype="term">agreements</ref> it previously submitted to the Bureau.</content>
+        </paragraph>
+      </paragraph>
+      <paragraph label="1005-19-b-5" marker="(5)">
+        <title type="keyterm">Product testing exception.</title>
+        <content/>
+        <paragraph label="1005-19-b-5-i" marker="(i)">
+          <content>An <ref target="1005-19-a-4" reftype="term">issuer</ref> is not required to submit a <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> to the Bureau if the <ref target="1005-19-a-1" reftype="term">agreement</ref> meets the criteria set forth in paragraphs <ref target="1005-19-b-5-i-A" reftype="internal">(b)(5)(i)(A)</ref> through <ref target="1005-19-b-5-i-C" reftype="internal">(C)</ref> of this section. If the <ref target="1005-19-a-1" reftype="term">agreement</ref> fails to meet the criteria set forth in paragraphs <ref target="1005-19-b-5-i-A" reftype="internal">(b)(5)(i)(A)</ref> through <ref target="1005-19-b-5-i-C" reftype="internal">(C)</ref> of this section as of the last day of the calendar quarter, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must submit to the Bureau that <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> no later than 30 days after the last day of that calendar quarter. An <ref target="1005-19-a-1" reftype="term">agreement</ref> qualifies for the product testing exception if the <ref target="1005-19-a-1" reftype="term">agreement</ref>:</content>
+          <paragraph label="1005-19-b-5-i-A" marker="(A)">
+            <content>Is offered as part of a product test offered to only a limited group of <ref target="1005-2-e" reftype="term">consumers</ref> for a limited period of time;</content>
+          </paragraph>
+          <paragraph label="1005-19-b-5-i-B" marker="(B)">
+            <content>Is used for fewer than 3,000 <ref target="1005-19-a-7" reftype="term">open prepaid accounts</ref>; and</content>
+          </paragraph>
+          <paragraph label="1005-19-b-5-i-C" marker="(C)">
+            <content>Is not offered other than in connection with such a product test.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1005-19-b-5-ii" marker="(ii)">
+          <content>If an <ref target="1005-19-a-1" reftype="term">agreement</ref> that did not previously qualify for the product testing exception newly qualifies for the exception, the <ref target="1005-19-a-4" reftype="term">issuer</ref> must continue to make submissions to the Bureau on a rolling basis with respect to that <ref target="1005-19-a-1" reftype="term">agreement</ref> until the <ref target="1005-19-a-4" reftype="term">issuer</ref> notifies the Bureau that the <ref target="1005-19-a-4" reftype="term">issuer</ref> is withdrawing the <ref target="1005-19-a-1" reftype="term">agreement</ref>.</content>
+        </paragraph>
+      </paragraph>
+      <paragraph label="1005-19-b-6" marker="(6)">
+        <title type="keyterm">Form and content of agreements submitted to the Bureau.</title>
+        <content/>
+        <paragraph label="1005-19-b-6-i" marker="(i)">
+          <title type="keyterm">Form and content generally.</title>
           <content/>
-          <interpParagraph label="1005-19-b-1-Interp-1" marker="1.">
-            <title type="keyterm">Rolling submission requirement.</title>
-            <content>Section 1005.19(b)(1) requires issuers to send submissions to the Bureau no later than 30 days after offering, amending, or ceasing to offer any <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreement, as described in § 1005.19(b)(1)(ii) through (iv). For example, if on July 1 an issuer offers a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreement that has not been previously submitted to the Bureau, it must submit that agreement to the Bureau by July 31 of the same year. Similarly, if on August 1 an issuer amends a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreement previously submitted to the Bureau, and the change becomes effective on September 15, the issuer must submit the entire amended agreement as required by § 1005.19(b)(2) by October 15 of the same year. Furthermore, if on December 31 an issuer ceases to offer a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreement that was previously submitted to the Bureau, it must submit notification to the Bureau that it is withdrawing that agreement as required by § 1005.19(b)(3) by January 30 of the following year.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-19-b-1-Interp-2" marker="2.">
-            <title type="keyterm">Prepaid accounts offered in conjunction with multiple issuers.</title>
-            <content>If a program manager offers <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreements in conjunction with multiple issuers, each issuer must submit its own agreement to the Bureau. Alternatively, each issuer may use the program manager to submit the agreement on its behalf, in accordance with comment <ref target="1005-19-a-4-Interp-2" reftype="internal">19(a)(4)-2</ref>.</content>
-          </interpParagraph>
+          <paragraph label="1005-19-b-6-i-A" marker="(A)">
+            <content>Each <ref target="1005-19-a-1" reftype="term">agreement</ref> must contain the provisions of the <ref target="1005-19-a-1" reftype="term">agreement</ref> and the <ref target="1005-19-a-3" reftype="term">fee information</ref> currently in effect.</content>
+          </paragraph>
+          <paragraph label="1005-19-b-6-i-B" marker="(B)">
+            <content><ref target="1005-19-a-1" reftype="term">Agreements</ref> must not include any personally identifiable information relating to any <ref target="1005-2-e" reftype="term">consumer</ref>, such as name, address, telephone number, or <ref target="1005-2-b-1" reftype="term">account</ref> number.</content>
+          </paragraph>
+          <paragraph label="1005-19-b-6-i-C" marker="(C)">
+            <content>The following are not deemed to be part of the <ref target="1005-19-a-1" reftype="term">agreement</ref> for purposes of this section, and therefore are not required to be included in submissions to the Bureau:</content>
+            <paragraph label="1005-19-b-6-i-C-1" marker="(1)">
+              <content>Ancillary disclosures required by <ref target="1005-2-l" reftype="term">state</ref> or Federal law, such as affiliate marketing notices, privacy policies, or disclosures under the E-Sign Act;</content>
+            </paragraph>
+            <paragraph label="1005-19-b-6-i-C-2" marker="(2)">
+              <content>Solicitation or marketing materials;</content>
+            </paragraph>
+            <paragraph label="1005-19-b-6-i-C-3" marker="(3)">
+              <content>Periodic statements; and</content>
+            </paragraph>
+            <paragraph label="1005-19-b-6-i-C-4" marker="(4)">
+              <content>Documents that may be sent to the <ref target="1005-2-e" reftype="term">consumer</ref> along with the <ref target="1005-19-a-8" reftype="term">prepaid account</ref> or <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> such as a cover letter, a validation sticker on the card, or other information about card security.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1005-19-b-6-i-D" marker="(D)">
+            <content><ref target="1005-19-a-1" reftype="term">Agreements</ref> must be presented in a clear and legible font.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1005-19-b-6-ii" marker="(ii)">
+          <title type="keyterm">Fee information.</title>
+          <content><ref target="1005-19-a-3" reftype="term">Fee information</ref> must be set forth either in the <ref target="1005-19-a-1" reftype="term">prepaid account agreement</ref> or in a single addendum to that <ref target="1005-19-a-1" reftype="term">agreement</ref>. The <ref target="1005-19-a-1" reftype="term">agreement</ref> or addendum thereto must contain all of the <ref target="1005-19-a-3" reftype="term">fee information</ref>, as defined by paragraph <ref target="1005-19-a-3" reftype="internal">(a)(3)</ref> of this section.</content>
+        </paragraph>
+        <paragraph label="1005-19-b-6-iii" marker="(iii)">
+          <title type="keyterm">Integrated agreement.</title>
+          <content>An <ref target="1005-19-a-4" reftype="term">issuer</ref> may not provide provisions of the <ref target="1005-19-a-1" reftype="term">agreement</ref> or <ref target="1005-19-a-3" reftype="term">fee information</ref> to the Bureau in the form of change-in-terms notices or riders (other than the optional <ref target="1005-19-a-3" reftype="term">fee information</ref> addendum). Changes in provisions or <ref target="1005-19-a-3" reftype="term">fee information</ref> must be integrated into the text of the <ref target="1005-19-a-1" reftype="term">agreement</ref>, or the optional <ref target="1005-19-a-3" reftype="term">fee information</ref> addendum, as appropriate.</content>
+        </paragraph>
+      </paragraph>
+    </paragraph>
+  </change>
+
+  <change operation="added" label="1005-19-b-Interp">
+    <interpParagraph label="1005-19-b-Interp">
+      <title>19(b) Submission of Agreements to the Bureau</title>
+      <content/>
+      <interpParagraph label="1005-19-b-1-Interp">
+        <title>19(b)(1) Submissions on a Rolling Basis</title>
+        <content/>
+        <interpParagraph label="1005-19-b-1-Interp-1" marker="1.">
+          <title type="keyterm">Rolling submission requirement.</title>
+          <content>Section 1005.19(b)(1) requires issuers to send submissions to the Bureau no later than 30 days after offering, amending, or ceasing to offer any <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreement, as described in § 1005.19(b)(1)(ii) through (iv). For example, if on July 1 an issuer offers a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreement that has not been previously submitted to the Bureau, it must submit that agreement to the Bureau by July 31 of the same year. Similarly, if on August 1 an issuer amends a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreement previously submitted to the Bureau, and the change becomes effective on September 15, the issuer must submit the entire amended agreement as required by § 1005.19(b)(2) by October 15 of the same year. Furthermore, if on December 31 an issuer ceases to offer a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreement that was previously submitted to the Bureau, it must submit notification to the Bureau that it is withdrawing that agreement as required by § 1005.19(b)(3) by January 30 of the following year.</content>
         </interpParagraph>
-        <interpParagraph label="1005-19-b-2-Interp">
-          <title>19(b)(2) Amended Agreements</title>
-          <content/>
-          <interpParagraph label="1005-19-b-2-Interp-1" marker="1.">
-            <title type="keyterm">Change-in-terms notices not permissible.</title>
-            <content>Section 1005.19(b)(2) requires that if an agreement previously submitted to the Bureau is amended, the issuer must submit the entire revised agreement to the Bureau. An issuer may not fulfill this requirement by submitting a change-in-terms or similar notice covering only the terms that have changed. Amendments must be integrated into the text of the agreement (or the optional addendum described in § 1005.19(b)(6)), not provided as separate riders.</content>
-          </interpParagraph>
-        </interpParagraph>
-        <interpParagraph label="1005-19-b-3-Interp">
-          <title>19(b)(3) Withdrawal of Agreements No Longer Offered</title>
-          <content/>
-          <interpParagraph label="1005-19-b-3-Interp-1" marker="1.">
-            <title type="keyterm">No longer offers agreement.</title>
-            <content>Section 1005.19(b)(3) provides that, if an issuer no longer offers an agreement that was previously submitted to the Bureau, the issuer must notify the Bureau no later than 30 days after the issuer ceases to offer the agreement that it is withdrawing the agreement. An issuer no longer offers an agreement when it no longer allows a <ref target="1005-2-e" reftype="term">consumer</ref> to activate or register a new <ref target="1005-2-b-1" reftype="term">account</ref> in connection with that agreement.</content>
-          </interpParagraph>
-        </interpParagraph>
-        <interpParagraph label="1005-19-b-4-Interp">
-          <title>19(b)(4) De Minimis Exception</title>
-          <content/>
-          <interpParagraph label="1005-19-b-4-Interp-1" marker="1.">
-            <title type="keyterm">Relationship to other exceptions.</title>
-            <content>The de minimis exception in § 1005.19(b)(4) is distinct from the product testing exception under § 1005.19(b)(5). The de minimis exception provides that an issuer with fewer than 3,000 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> is not required to submit any agreements to the Bureau, regardless of whether those agreements qualify for the product testing exception. In contrast, the product testing exception provides that an issuer is not required to submit to the Bureau agreements offered solely in connection with certain types of <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> programs with fewer than 3,000 open <ref target="1005-2-b-1" reftype="term">accounts</ref>, regardless of the issuer's total number of open <ref target="1005-2-b-1" reftype="term">accounts</ref>.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-19-b-4-Interp-2" marker="2.">
-            <title type="keyterm">De minimis exception.</title>
-            <content>Under § 1005.19(b)(4), an issuer is not required to submit any <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreements to the Bureau under § 1005.19(b)(1) if the issuer has fewer than 3,000 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. For example, an issuer has 2,000 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. The issuer is not required to submit any agreements to the Bureau because the issuer qualifies for the de minimis exception.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-19-b-4-Interp-3" marker="3.">
-            <title type="keyterm">Date for determining whether issuer qualifies.</title>
-            <content>Whether an issuer qualifies for the de minimis exception is determined as of the last day of each calendar quarter. For example, an issuer has 2,500 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> as of December 31, the last day of the calendar quarter. As of January 30, the issuer has 3,100 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. As of March 31, the last day of the following calendar quarter, the issuer has 2,700 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. Even though the issuer had 3,100 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> at one time during the calendar quarter, the issuer qualifies for the de minimis exception because the number of open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> was less than 3,000 as of March 31. The issuer therefore is not required to submit any agreements to the Bureau under § 1005.19(b)(1).</content>
-          </interpParagraph>
-          <interpParagraph label="1005-19-b-4-Interp-4" marker="4.">
-            <title type="keyterm">Date for determining whether issuer ceases to qualify.</title>
-            <content>Whether an issuer ceases to qualify for the de minimis exception under § le, an issuer has 2,500 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> as of June 30, the last day of the calendar quarter. The issuer is not required to submit any agreements to the Bureau under § 1005.19(b) by July 30 (the 30th day after June 30) because the issuer qualifies for the de minimis exception. As of July 15, the issuer has 3,100 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. The issuer is not required to take any action at this time, because whether an issuer qualifies for the de minimis exception under § 1005.19(b)(4) is determined as of the last day of the calendar quarter. The issuer still has 3,100 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> as of September 30. Because the issuer had 3,100 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> as of September 30, the issuer ceases to qualify for the de minimis exception and must submit its agreements to the Bureau by October 30, the 30th day after the last day of the calendar quarter.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-19-b-4-Interp-5" marker="5.">
-            <title type="keyterm">Option to withdraw agreements.</title>
-            <content>Section 1005.19(b)(4) provides that if an issuer that did not previously qualify for the de minimis exception newly qualifies for the de minimis exception, the issuer must continue to make rolling submissions to the Bureau as required by § 1005.19(b)(1) until the issuer notifies the Bureau that the issuer is withdrawing all agreements it previously submitted to the Bureau. For example, an issuer offers three agreements and has 3,001 open <ref target="1005-2-b-1" reftype="term">accounts</ref> as of December 31. The issuer submitted each of the three agreements to the Bureau by January 30 as required under § 1005.19(b). As of March 31, the issuer has only 2,999 open <ref target="1005-2-b-1" reftype="term">accounts</ref>. The issuer has two options. First, the issuer may notify the Bureau that the issuer is withdrawing each of the three agreements it previously submitted. Once the issuer has notified the Bureau, the issuer is no longer required to make rolling submissions to the Bureau under § 1005.19(b) unless it later ceases to qualify for the de minimis exception. Alternatively, the issuer may choose not to notify the Bureau that it is withdrawing its agreements. In this case, the issuer must continue making rolling submissions to the Bureau as required by § 1005.19(b). The issuer might choose not to withdraw its agreements if, for example, the issuer believes it will likely cease to qualify for the de minimis exception again in the near future.</content>
-          </interpParagraph>
-        </interpParagraph>
-        <interpParagraph label="1005-19-b-6-Interp">
-          <title>19(b)(6) Form and Content of Agreements Submitted to the Bureau</title>
-          <content/>
-          <interpParagraph label="1005-19-b-6-Interp-1" marker="1.">
-            <title type="keyterm">Agreements currently in effect.</title>
-            <content>Agreements submitted to the Bureau must contain the provisions of the agreement and fee information currently in effect. For example, on June 1, an issuer decides to decrease the out-of-network ATM withdrawal fee associated with one of the agreements it offers. The change in that fee will become effective on August 1. The issuer must submit and post the amended agreement with the decreased out-of-network ATM withdrawal fee to the Bureau by August 31 as required by § 1005.19(b)(2) and (c).</content>
-          </interpParagraph>
-          <interpParagraph label="1005-19-b-6-Interp-2" marker="2.">
-            <title type="keyterm">Fee information variations do not constitute separate agreements.</title>
-            <content>Fee information that may vary from one <ref target="1005-2-e" reftype="term">consumer</ref> to another depending on the <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-l" reftype="term">state</ref> of residence or other factors must be disclosed by setting forth all the possible variations. For example, an issuer offers a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> with a monthly fee of $4.95 or $0 if the <ref target="1005-2-e" reftype="term">consumer</ref> regularly receives direct deposit to the <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref>. The issuer must submit to the Bureau one agreement with fee information listing the possible monthly fees of $4.95 or $0 and including the explanation that the latter fee is dependent upon the <ref target="1005-2-e" reftype="term">consumer</ref> regularly receiving direct deposit.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-19-b-6-Interp-3" marker="3.">
-            <title type="keyterm">Integrated agreement requirement.</title>
-            <content>Issuers may not submit provisions of the agreement or fee information in the form of change-in-terms notices or riders. The only addendum that may be submitted as part of an agreement is the optional fee information addendum described in § 1005.19(b)(6)(ii). Changes in provisions or fee information must be integrated into the body of the agreement or the optional fee information addendum described in § 1005.19(b)(6)(ii). For example, it would be impermissible for an issuer to submit to the Bureau an agreement in the form of a terms and conditions document on January 1 and subsequently submit a change-in-terms notice or an addendum to indicate amendments to the previously submitted agreement. Instead, the issuer must submit a document that integrates the changes made by each of the change-in-terms notices into the body of the original terms and conditions document and a single optional addendum displaying variations in fee information.</content>
-          </interpParagraph>
+        <interpParagraph label="1005-19-b-1-Interp-2" marker="2.">
+          <title type="keyterm">Prepaid accounts offered in conjunction with multiple issuers.</title>
+          <content>If a program manager offers <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreements in conjunction with multiple issuers, each issuer must submit its own agreement to the Bureau. Alternatively, each issuer may use the program manager to submit the agreement on its behalf, in accordance with comment <ref target="1005-19-a-4-Interp-2" reftype="internal">19(a)(4)-2</ref>.</content>
         </interpParagraph>
       </interpParagraph>
-    </change>
+      <interpParagraph label="1005-19-b-2-Interp">
+        <title>19(b)(2) Amended Agreements</title>
+        <content/>
+        <interpParagraph label="1005-19-b-2-Interp-1" marker="1.">
+          <title type="keyterm">Change-in-terms notices not permissible.</title>
+          <content>Section 1005.19(b)(2) requires that if an agreement previously submitted to the Bureau is amended, the issuer must submit the entire revised agreement to the Bureau. An issuer may not fulfill this requirement by submitting a change-in-terms or similar notice covering only the terms that have changed. Amendments must be integrated into the text of the agreement (or the optional addendum described in § 1005.19(b)(6)), not provided as separate riders.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1005-19-b-3-Interp">
+        <title>19(b)(3) Withdrawal of Agreements No Longer Offered</title>
+        <content/>
+        <interpParagraph label="1005-19-b-3-Interp-1" marker="1.">
+          <title type="keyterm">No longer offers agreement.</title>
+          <content>Section 1005.19(b)(3) provides that, if an issuer no longer offers an agreement that was previously submitted to the Bureau, the issuer must notify the Bureau no later than 30 days after the issuer ceases to offer the agreement that it is withdrawing the agreement. An issuer no longer offers an agreement when it no longer allows a <ref target="1005-2-e" reftype="term">consumer</ref> to activate or register a new <ref target="1005-2-b-1" reftype="term">account</ref> in connection with that agreement.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1005-19-b-4-Interp">
+        <title>19(b)(4) De Minimis Exception</title>
+        <content/>
+        <interpParagraph label="1005-19-b-4-Interp-1" marker="1.">
+          <title type="keyterm">Relationship to other exceptions.</title>
+          <content>The de minimis exception in § 1005.19(b)(4) is distinct from the product testing exception under § 1005.19(b)(5). The de minimis exception provides that an issuer with fewer than 3,000 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> is not required to submit any agreements to the Bureau, regardless of whether those agreements qualify for the product testing exception. In contrast, the product testing exception provides that an issuer is not required to submit to the Bureau agreements offered solely in connection with certain types of <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> programs with fewer than 3,000 open <ref target="1005-2-b-1" reftype="term">accounts</ref>, regardless of the issuer's total number of open <ref target="1005-2-b-1" reftype="term">accounts</ref>.</content>
+        </interpParagraph>
+        <interpParagraph label="1005-19-b-4-Interp-2" marker="2.">
+          <title type="keyterm">De minimis exception.</title>
+          <content>Under § 1005.19(b)(4), an issuer is not required to submit any <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> agreements to the Bureau under § 1005.19(b)(1) if the issuer has fewer than 3,000 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. For example, an issuer has 2,000 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. The issuer is not required to submit any agreements to the Bureau because the issuer qualifies for the de minimis exception.</content>
+        </interpParagraph>
+        <interpParagraph label="1005-19-b-4-Interp-3" marker="3.">
+          <title type="keyterm">Date for determining whether issuer qualifies.</title>
+          <content>Whether an issuer qualifies for the de minimis exception is determined as of the last day of each calendar quarter. For example, an issuer has 2,500 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> as of December 31, the last day of the calendar quarter. As of January 30, the issuer has 3,100 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. As of March 31, the last day of the following calendar quarter, the issuer has 2,700 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. Even though the issuer had 3,100 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> at one time during the calendar quarter, the issuer qualifies for the de minimis exception because the number of open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> was less than 3,000 as of March 31. The issuer therefore is not required to submit any agreements to the Bureau under § 1005.19(b)(1).</content>
+        </interpParagraph>
+        <interpParagraph label="1005-19-b-4-Interp-4" marker="4.">
+          <title type="keyterm">Date for determining whether issuer ceases to qualify.</title>
+          <content>Whether an issuer ceases to qualify for the de minimis exception under § le, an issuer has 2,500 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> as of June 30, the last day of the calendar quarter. The issuer is not required to submit any agreements to the Bureau under § 1005.19(b) by July 30 (the 30th day after June 30) because the issuer qualifies for the de minimis exception. As of July 15, the issuer has 3,100 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. The issuer is not required to take any action at this time, because whether an issuer qualifies for the de minimis exception under § 1005.19(b)(4) is determined as of the last day of the calendar quarter. The issuer still has 3,100 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> as of September 30. Because the issuer had 3,100 open <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> as of September 30, the issuer ceases to qualify for the de minimis exception and must submit its agreements to the Bureau by October 30, the 30th day after the last day of the calendar quarter.</content>
+        </interpParagraph>
+        <interpParagraph label="1005-19-b-4-Interp-5" marker="5.">
+          <title type="keyterm">Option to withdraw agreements.</title>
+          <content>Section 1005.19(b)(4) provides that if an issuer that did not previously qualify for the de minimis exception newly qualifies for the de minimis exception, the issuer must continue to make rolling submissions to the Bureau as required by § 1005.19(b)(1) until the issuer notifies the Bureau that the issuer is withdrawing all agreements it previously submitted to the Bureau. For example, an issuer offers three agreements and has 3,001 open <ref target="1005-2-b-1" reftype="term">accounts</ref> as of December 31. The issuer submitted each of the three agreements to the Bureau by January 30 as required under § 1005.19(b). As of March 31, the issuer has only 2,999 open <ref target="1005-2-b-1" reftype="term">accounts</ref>. The issuer has two options. First, the issuer may notify the Bureau that the issuer is withdrawing each of the three agreements it previously submitted. Once the issuer has notified the Bureau, the issuer is no longer required to make rolling submissions to the Bureau under § 1005.19(b) unless it later ceases to qualify for the de minimis exception. Alternatively, the issuer may choose not to notify the Bureau that it is withdrawing its agreements. In this case, the issuer must continue making rolling submissions to the Bureau as required by § 1005.19(b). The issuer might choose not to withdraw its agreements if, for example, the issuer believes it will likely cease to qualify for the de minimis exception again in the near future.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1005-19-b-6-Interp">
+        <title>19(b)(6) Form and Content of Agreements Submitted to the Bureau</title>
+        <content/>
+        <interpParagraph label="1005-19-b-6-Interp-1" marker="1.">
+          <title type="keyterm">Agreements currently in effect.</title>
+          <content>Agreements submitted to the Bureau must contain the provisions of the agreement and fee information currently in effect. For example, on June 1, an issuer decides to decrease the out-of-network ATM withdrawal fee associated with one of the agreements it offers. The change in that fee will become effective on August 1. The issuer must submit and post the amended agreement with the decreased out-of-network ATM withdrawal fee to the Bureau by August 31 as required by § 1005.19(b)(2) and (c).</content>
+        </interpParagraph>
+        <interpParagraph label="1005-19-b-6-Interp-2" marker="2.">
+          <title type="keyterm">Fee information variations do not constitute separate agreements.</title>
+          <content>Fee information that may vary from one <ref target="1005-2-e" reftype="term">consumer</ref> to another depending on the <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-l" reftype="term">state</ref> of residence or other factors must be disclosed by setting forth all the possible variations. For example, an issuer offers a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> with a monthly fee of $4.95 or $0 if the <ref target="1005-2-e" reftype="term">consumer</ref> regularly receives direct deposit to the <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref>. The issuer must submit to the Bureau one agreement with fee information listing the possible monthly fees of $4.95 or $0 and including the explanation that the latter fee is dependent upon the <ref target="1005-2-e" reftype="term">consumer</ref> regularly receiving direct deposit.</content>
+        </interpParagraph>
+        <interpParagraph label="1005-19-b-6-Interp-3" marker="3.">
+          <title type="keyterm">Integrated agreement requirement.</title>
+          <content>Issuers may not submit provisions of the agreement or fee information in the form of change-in-terms notices or riders. The only addendum that may be submitted as part of an agreement is the optional fee information addendum described in § 1005.19(b)(6)(ii). Changes in provisions or fee information must be integrated into the body of the agreement or the optional fee information addendum described in § 1005.19(b)(6)(ii). For example, it would be impermissible for an issuer to submit to the Bureau an agreement in the form of a terms and conditions document on January 1 and subsequently submit a change-in-terms notice or an addendum to indicate amendments to the previously submitted agreement. Instead, the issuer must submit a document that integrates the changes made by each of the change-in-terms notices into the body of the original terms and conditions document and a single optional addendum displaying variations in fee information.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
   </changeset>
 
   <analysis>
@@ -272,11 +271,11 @@
       <title>33(b) Notice of Error From Sender</title>
       <analysisParagraph>Proposed § 205.33(b) set forth the timing and content requirements for a notice of error provided by a sender in connection with a remittance transfer. Consistent with EFTA section 919(d)(1)(A), proposed § 205.33(b)(1)(i) stated that a sender must provide a notice of error orally or in writing to the remittance transfer provider no later than 180 days after the date of availability of the remittance transfer stated in the receipt or combined disclosure. Under proposed § 205.33(b)(1)(ii), such notice of error must enable the remittance transfer provider to identify: the sender's name and telephone number or address; the recipient's name, and if known, the telephone number or address of the recipient; and the remittance transfer to which the notice of error applies. Proposed § 205.33(b)(1)(iii) stated that the notice must also indicate why the sender believes the error exists and include to the extent possible the type, date, and amount of the error, except in the case of requests for documentation, additional information, or clarification under proposed § 205.33(a)(1)(v).</analysisParagraph>
       <analysisParagraph>Several industry commenters suggested that the time period for senders to assert an error is too long. Some industry commenters recommended that the time period be shortened to 60 days, similar to the time period that consumers have to assert errors for EFTs. <em data-original="E-03">See</em> § 1005.11(b)(3). Other industry commenters suggested 30 days. The Bureau notes that the 180-day time period for senders to assert an error is expressly stated in the statute. Given the international nature of remittance transfers, the additional time a sender may need to communicate with persons abroad, and the lack of information about problems associated with this time period, the Bureau does not believe that using its authority under EFTA sections 904(a) and (c) to change this time period is currently warranted.</analysisParagraph>
-      <analysisParagraph>Industry commenters also requested that the sender be required to assert an error in writing at a centralized address. The Bureau believes that requiring senders to assert an error in writing would have a chilling effect on the error resolution process, especially given that some senders may not feel comfortable writing in English. Although in some cases, a sender may have the ability to assert the error in a foreign language and be assured a response in that language, that ability may depend on the foreign languages used at the office of the remittance transfer provider where the error is asserted to advertise, solicit, or market remittance transfers under § 1005.31(g), as discussed above. Moreover, the current error resolution process for EFTs does not require a consumer to assert an error in writing.<footnote ref="81">&lt;em data-original="E-03"&gt;See&lt;/em&gt; &amp;#167;&amp;#8201;1005.11(b). Although a financial institution may request that a consumer assert the error in writing, a consumer's failure to do so does not cancel the error resolution process, but gives the financial institution 45 days to investigate the error without having to provide provisional credit. &lt;em data-original="E-03"&gt;See&lt;/em&gt; &amp;#167;&amp;#8201;1005.11(b)(2) and (c)(2).</footnote>
+      <analysisParagraph>Industry commenters also requested that the sender be required to assert an error in writing at a centralized address. The Bureau believes that requiring senders to assert an error in writing would have a chilling effect on the error resolution process, especially given that some senders may not feel comfortable writing in English. Although in some cases, a sender may have the ability to assert the error in a foreign language and be assured a response in that language, that ability may depend on the foreign languages used at the office of the remittance transfer provider where the error is asserted to advertise, solicit, or market remittance transfers under § 1005.31(g), as discussed above. Moreover, the current error resolution process for EFTs does not require a consumer to assert an error in writing.<footnote ref="81">&lt;em data-original="E-03"&gt;See&lt;/em&gt; § 1005.11(b). Although a financial institution may request that a consumer assert the error in writing, a consumer's failure to do so does not cancel the error resolution process, but gives the financial institution 45 days to investigate the error without having to provide provisional credit. &lt;em data-original="E-03"&gt;See&lt;/em&gt; § 1005.11(b)(2) and (c)(2).</footnote>
              Therefore, the Bureau declines to make the requested change, and proposed § 205.33(b)(1) is adopted substantially as proposed in renumbered § 1005.33(b)(1).</analysisParagraph>
       <analysisParagraph>Proposed § 205.33(b)(2) provided that when a notice of error was based on documentation, additional information, or clarification that the sender had previously requested under § 1005.33(a)(1)(v), the sender's notice of error would be timely if it were received by the provider no later than 60 days after the provider sends the requested documentation, information, or clarification. As the Board explained in the May 2011 Proposed Rule, the proposed 60-day time frame for the sender to provide a new notice of error following the sender's receipt of documentation, information, or clarification from the remittance transfer provider is consistent with the 60-day time frame established for similar circumstances under the general error resolution provisions in Regulation E, § 1005.11(b)(3).</analysisParagraph>
       <analysisParagraph>The Bureau agrees with the Board's reasoning that under these circumstances, 60 days, rather than the 180-day error resolution time frame generally applicable to remittance transfers, provides sufficient time for a sender to review the additional information provided by the remittance transfer provider and determine whether an error occurred in connection with a transfer. The Bureau did not receive any comments on this issue. However, the Bureau believes it is appropriate to clarify that a sender always has the original 180 days after the disclosed date of availability to assert an error. Consequently, the Bureau is amending proposed § 205.33(b)(2), renumbered as § 1005.33(b)(2), to provide that when a notice of error is based on documentation, additional information, or clarification that the sender had previously requested under § 1005.33(a)(1)(v), the sender's notice of error is timely if received by the remittance transfer provider the later of 180 days after the disclosed date of availability of the remittance transfer or 60 days after the provider sent the documentation, information, or clarification requested.</analysisParagraph>
-      <analysisParagraph>The Board proposed commentary to clarify proposed § 205.33(b). Proposed comment 33(b)-1 clarified that the error resolution procedures for remittance transfers apply only when a notice of error is received from the sender of the transfer. Thus, a notice of error provided by the designated recipient would not trigger the remittance transfer provider's error resolution obligations. As the Board explained in the May 2011 Proposed Rule, this interpretation is consistent with EFTA section 919(d)(1)(A), which establishes error resolution obligations for a remittance transfer provider only when a notice is received from the sender.<footnote ref="82">&lt;em data-original="E-03"&gt;See also&lt;/em&gt; EFTA section 919(g)(1) (providing that a designated recipient &amp;#8220;shall not be deemed to be a consumer for purposes of this Act&amp;#8221;).</footnote>
+      <analysisParagraph>The Board proposed commentary to clarify proposed § 205.33(b). Proposed comment 33(b)-1 clarified that the error resolution procedures for remittance transfers apply only when a notice of error is received from the sender of the transfer. Thus, a notice of error provided by the designated recipient would not trigger the remittance transfer provider's error resolution obligations. As the Board explained in the May 2011 Proposed Rule, this interpretation is consistent with EFTA section 919(d)(1)(A), which establishes error resolution obligations for a remittance transfer provider only when a notice is received from the sender.<footnote ref="82">&lt;em data-original="E-03"&gt;See also&lt;/em&gt; EFTA section 919(g)(1) (providing that a designated recipient “shall not be deemed to be a consumer for purposes of this Act”).</footnote>
              Proposed comment 33(b)-1 also clarified that the error resolution provisions do not apply when the remittance transfer provider itself discovers and corrects an error. The Bureau did not receive any comments on the proposed comment, which the Bureau adopts as proposed.</analysisParagraph>
       <analysisParagraph>The Board proposed comment 33(b)-2 to provide that a notice of error is effective so long as the remittance transfer provider is able to identify the remittance transfer in question. As explained in the May 2011 Proposed Rule, a sender could provide in the notice of error the confirmation number or code given to the sender for the pick-up of a remittance transfer to identify the particular transfer in their tracking systems and records, or any other identification number or code supplied by the provider in connection with the remittance transfer, if such number or code is sufficient to enable the provider to identify the transfer.</analysisParagraph>
       <analysisParagraph>One industry commenter requested that, for an account-based remittance transfer, the final rule require senders to include the account number in the notice of error. The Bureau notes that under comment 11(b)(1)-1 for EFTs, consumers are not required to provide their account numbers and need only provide sufficient information to enable the financial institution to identify the account. Similarly, the Bureau believes that a sender need not provide the account number, but must provide enough information such that the remittance transfer provider can identify the account and the transfer in question. The Bureau adopts comment 33(b)-2 with this clarification, and also makes other clarifying changes to comment 33(b)-2 to make the comment consistent with § 1005.33(b)(1).</analysisParagraph>
@@ -314,9 +313,9 @@
       <analysisParagraph>The disclosure required by final § 1005.18(b)(2)(viii)(A) indicating the number of additional fee types will generally be followed by the specific disclosure of two additional fee types pursuant to final § 1005.18(b)(2)(ix). The Bureau believes that a brief transition statement linking these two disclosures will enhance consumer understanding of both disclosures and dispel potential consumer misunderstanding that features are not offered if they are not disclosed on the short form.<footnote ref="404">See the section-by-section analysis of § 1005.18(b)(2)(ix) below discussing industry commenters' concern that disclosure of the proposed incidence-based fees would mislead consumers into thinking that features are not offered if they are not disclosed as incidence-based fees.</footnote>
              Thus, the line in the short form disclosure following the static fees would disclose the following or substantially similar clauses: “We charge X other types of fees. Here are some of them:”.</analysisParagraph>
       <analysisParagraph>As discussed in the section-by-section analysis of § 1005.18(b)(2)(ix) below, the Bureau believes that the brevity and clarity of the short form disclosure necessary for optimal consumer comprehension and engagement cannot support a detailed explanation of what additional fee types are or the criteria the financial institution used in determining which additional fee types to disclose. The Bureau's pre-proposal consumer testing of such explanations support this conclusion.<footnote ref="405">&lt;em data-original="E-03"&gt;See&lt;/em&gt; ICF Report I at 35 and ICF Report II at 22-23.</footnote>
-             Pre-proposal testing of a statement intended to inform consumers that the fees listed were those that generated significant revenue for the financial institution resulted in minimal participant comprehension or notice.<footnote ref="406">&lt;em data-original="E-03"&gt;See&lt;/em&gt; ICF Report I at 35. (Certain prototype short form disclosures tested included the statement: &amp;#8220;The fees below generate significant revenue for this company.&amp;#8221;)</footnote>
+             Pre-proposal testing of a statement intended to inform consumers that the fees listed were those that generated significant revenue for the financial institution resulted in minimal participant comprehension or notice.<footnote ref="406">&lt;em data-original="E-03"&gt;See&lt;/em&gt; ICF Report I at 35. (Certain prototype short form disclosures tested included the statement: “The fees below generate significant revenue for this company.”)</footnote>
 
-             Post-proposal testing of a similar disclosure that, in addition to including an explanation of the criteria for disclosing such fees (<em data-original="E-03">i.e.,</em> that the two fees listed were the most commonly charged), also directed consumers where to find detail about all fees, similarly did not increase participant comprehension.<footnote ref="407">&lt;em data-original="E-03"&gt;See&lt;/em&gt; ICF Report II at 22-23. (Certain prototype short form disclosures tested included the statement: &amp;#8220;We charge [x] additional fees. Details on fees inside the package, at 800-234-5678 or at &lt;em data-original="E-03"&gt;bit.ly/XYZprepaids&lt;/em&gt;. These are our most common:&amp;#8221;.)</footnote>
+             Post-proposal testing of a similar disclosure that, in addition to including an explanation of the criteria for disclosing such fees (<em data-original="E-03">i.e.,</em> that the two fees listed were the most commonly charged), also directed consumers where to find detail about all fees, similarly did not increase participant comprehension.<footnote ref="407">&lt;em data-original="E-03"&gt;See&lt;/em&gt; ICF Report II at 22-23. (Certain prototype short form disclosures tested included the statement: “We charge [x] additional fees. Details on fees inside the package, at 800-234-5678 or at &lt;em data-original="E-03"&gt;bit.ly/XYZprepaids&lt;/em&gt;. These are our most common:”.)</footnote>
             
           </analysisParagraph>
       <analysisParagraph>Thus, to make the connection for consumers that the additional fee types disclosed pursuant to final § 1005.18(b)(2)(ix) are a subset of the number of additional fee types disclosed pursuant to final § 1005.18(b)(2)(viii)(A), and that absence of any feature on the short form does not necessarily mean the prepaid account program does not offer that feature, the Bureau is including in the final rule the transition statement set forth above.</analysisParagraph>
@@ -328,10 +327,10 @@
       <analysisParagraph>The disclosure required by final § 1005.18(b)(2)(viii)(A) indicating the number of additional fee types will generally be followed by the specific disclosure of two additional fee types pursuant to final § 1005.18(b)(2)(ix). The Bureau believes that a brief transition statement linking these two disclosures will enhance consumer understanding of both disclosures and dispel potential consumer misunderstanding that features are not offered if they are not disclosed on the short form.<footnote ref="404">See the section-by-section analysis of § 1005.18(b)(2)(ix) below discussing industry commenters' concern that disclosure of the proposed incidence-based fees would mislead consumers into thinking that features are not offered if they are not disclosed as incidence-based fees.</footnote>
              Thus, the line in the short form disclosure following the static fees would disclose the following or substantially similar clauses: “We charge X other types of fees. Here are some of them:”.</analysisParagraph>
       <analysisParagraph>As discussed in the section-by-section analysis of § 1005.18(b)(2)(ix) below, the Bureau believes that the brevity and clarity of the short form disclosure necessary for optimal consumer comprehension and engagement cannot support a detailed explanation of what additional fee types are or the criteria the financial institution used in determining which additional fee types to disclose. The Bureau's pre-proposal consumer testing of such explanations support this conclusion.<footnote ref="405">&lt;em data-original="E-03"&gt;See&lt;/em&gt; ICF Report I at 35 and ICF Report II at 22-23.</footnote>
-             Pre-proposal testing of a statement intended to inform consumers that the fees listed were those that generated significant revenue for the financial institution resulted in minimal participant comprehension or notice.<footnote ref="406">&lt;em data-original="E-03"&gt;See&lt;/em&gt; ICF Report I at 35. (Certain prototype short form disclosures tested included the statement: &amp;#8220;The fees below generate significant revenue for this company.&amp;#8221;)</footnote>
+             Pre-proposal testing of a statement intended to inform consumers that the fees listed were those that generated significant revenue for the financial institution resulted in minimal participant comprehension or notice.<footnote ref="406">&lt;em data-original="E-03"&gt;See&lt;/em&gt; ICF Report I at 35. (Certain prototype short form disclosures tested included the statement: “The fees below generate significant revenue for this company.”)</footnote>
 
-             Post-proposal testing of a similar disclosure that, in addition to including an explanation of the criteria for disclosing such fees (<em data-original="E-03">i.e.,</em> that the two fees listed were the most commonly charged), also directed consumers where to find detail about all fees, similarly did not increase participant comprehension.<footnote ref="407">&lt;em data-original="E-03"&gt;See&lt;/em&gt; ICF Report II at 22-23. (Certain prototype short form disclosures tested included the statement: &amp;#8220;We charge [x] additional fees. Details on fees inside the package, at 800-234-5678 or at &lt;em data-original="E-03"&gt;bit.ly/XYZprepaids&lt;/em&gt;. These are our most common:&amp;#8221;.)</footnote>
-            
+             Post-proposal testing of a similar disclosure that, in addition to including an explanation of the criteria for disclosing such fees (<em data-original="E-03">i.e.,</em> that the two fees listed were the most commonly charged), also directed consumers where to find detail about all fees, similarly did not increase participant comprehension.<footnote ref="407">&lt;em data-original="E-03"&gt;See&lt;/em&gt; ICF Report II at 22-23. (Certain prototype short form disclosures tested included the statement: “We charge [x] additional fees. Details on fees inside the package, at 800-234-5678 or at &lt;em data-original="E-03"&gt;bit.ly/XYZprepaids&lt;/em&gt;. These are our most common:”.)</footnote>
+
           </analysisParagraph>
       <analysisParagraph>Thus, to make the connection for consumers that the additional fee types disclosed pursuant to final § 1005.18(b)(2)(ix) are a subset of the number of additional fee types disclosed pursuant to final § 1005.18(b)(2)(viii)(A), and that absence of any feature on the short form does not necessarily mean the prepaid account program does not offer that feature, the Bureau is including in the final rule the transition statement set forth above.</analysisParagraph>
       <analysisParagraph>Final comment 18(b)(2)(viii)(B)-1 provides guidance regarding the statement required by final § 1005.18(b)(2)(viii)(B) directing consumers to the disclosure of additional fee types pursuant final § 1005.18(b)(2)(ix). The comment explains that a financial institution that makes no disclosure pursuant to final § 1005.18(b)(2)(ix) may not include a disclosure pursuant to final § 1005.18(b)(2)(viii)(B). The comment also provides examples regarding substantially similar clauses a financial institution may use in certain circumstances to make its disclosures under final § 1005.18(b)(2)(viii)(A) and (B), such as when a financial institution has several additional fee types but is only required to disclose one of them pursuant to final § 1005.18(b)(2)(ix).</analysisParagraph>

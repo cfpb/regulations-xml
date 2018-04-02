@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -18,111 +19,91 @@
     <effectiveDate>2016-11-14</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/documents/2016/10/12/2016-24506/electronic-fund-transfers-regulation-e</federalRegisterURL>
   </preamble>
-
   <changeset leftDocumentNumber="2014-20681" rightDocumentNumber="2016-24506">
-
-    <!-- Section 1005.7 is amended by revising paragraph (b)(11) to read as follows: -->
-
-    <change operation="modified" label="1005-7-b-11">
-      <paragraph label="1005-7-b-11" marker="(11)">
-        <title>ATM fees.</title>
-        <content>A notice that a fee may be imposed by an automated teller machine operator as defined in &#167;&#8201;<ref target="1005-16-a" reftype="internal">1005.16(a)</ref>, when the consumer initiates an electronic fund transfer or makes a balance inquiry, and by any network used to complete the transaction.</content>
+  <!-- Section 1005.7 is amended by revising paragraph (b)(11) to read as follows: -->
+  <change operation="modified" label="1005-7-b-11">
+    <paragraph label="1005-7-b-11" marker="(11)">
+      <title>ATM fees.</title>
+      <content>A notice that a fee may be imposed by an automated teller machine operator as defined in § <ref target="1005-16-a" reftype="internal">1005.16(a)</ref>, when the consumer initiates an electronic fund transfer or makes a balance inquiry, and by any network used to complete the transaction.</content>
+    </paragraph>
+  </change>
+  <!-- Appendix A to part 1005 is amended by revising Model Form A-37 to read as follows: -->
+  <change operation="modified" label="1005-A-37">
+    <appendixSection appendixSecNum="39" label="1005-A-37">
+      <subject>A-37 Model Form for Error Resolution and Cancellation Disclosures (Short) (§ 1005.31(b)(2)(iv) and (b)(2)(vi))</subject>
+      <paragraph label="1005-A-37-p1" marker="">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.253)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/1005-2016-24506-A-37.jpg</url>
+          </graphic>
+        </content>
       </paragraph>
-    </change>
-
-    <!-- Appendix A to part 1005 is amended by revising Model Form A-37 to read as follows: -->
-
-    <change operation="modified" label="1005-A-37">
-      <appendixSection appendixSecNum="39" label="1005-A-37">
-        <subject>A-37&#8212;Model Form for Error Resolution and Cancellation Disclosures (Short) (&#167;&#8201;1005.31(b)(2)(iv) and (b)(2)(vi))</subject>
-        <paragraph label="1005-A-37-p1" marker="">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.253)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/eregulations/1005-2016-24506-A-37.jpg</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <!-- In Supplement I to Part 1005&#8212;Official Interpretations: -->
-
-    <!-- a. Under Section 1005.33&#8212;Procedures for Resolving Errors:-->
-
-    <!--i. In subsection 33(a)&#8212;Definition of Error, paragraph 9 is revised.-->
-
-    <change operation="modified" label="1005-33-a-Interp-9">
-      <interpParagraph label="1005-33-a-Interp-9" marker="9.">
-        <content>Account number or recipient institution identifier. For purposes of the exception in &#167;&#8201;1005.33(a)(1)(iv)(D), the terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction. In addition and for purposes of this exception, the term designated recipient's account in &#167;&#8201;1005.33(a)(1)(iv)(D) refers to an asset account, regardless of whether it is a consumer asset account, established for any purpose and held by a bank, savings association, credit union, or equivalent institution. A designated recipient's account does not, however, include a credit card, prepaid card, or a virtual account held by an Internet-based or mobile telephone company that is not a bank, savings association, credit union or equivalent institution.</content>
-      </interpParagraph>
-    </change>
-
-    <!--ii. In subsection 33(g)&#8212;Error Resolution Standards and Recordkeeping Requirements, paragraph 1 is revised.-->
-
-    <change operation="modified" label="1005-33-g-Interp-1">
-      <interpParagraph label="1005-33-g-Interp-1" marker="1.">
-        <content>Record retention requirements. As noted in &#167;&#8201;1005.33(g)(2), remittance transfer providers are subject to the record retention requirements under &#167;&#8201;1005.13. Therefore, remittance transfer providers must retain documentation, including documentation related to error investigations, for a period of not less than two years from the date a notice of error was submitted to the provider or action was required to be taken by the provider. A remittance transfer provider need not maintain records of individual disclosures that it has provided to each sender; it need only retain evidence demonstrating that its procedures reasonably ensure the sender's receipt of required disclosures and documentation.</content>
-      </interpParagraph>
-    </change>
-
-    <!--b. The heading Section 1005.36&#8212;Transfers Scheduled in Advance and paragraph 1 underneath said heading are removed.-->
-
-    <!--c. Under Section 1005.36&#8212;Transfers Scheduled before the Date of Transfer, paragraph 1 is added.-->
-
-    <change operation="modified" label="1005-36-Interp-1">
-      <interpParagraph label="1005-36-Interp-1" marker="1.">
-        <content>Applicability of subpart B. The requirements set forth in subpart B apply to remittance transfers subject to &#167;&#8201;1005.36, to the extent that &#167;&#8201;1005.36 does not modify those requirements. For example, the foreign language disclosure requirements in &#167;&#8201;1005.31(g) and related commentary continue to apply to disclosures provided in accordance with &#167;&#8201;1005.36(a)(2).</content>
-      </interpParagraph>
-    </change>
-
-    <change operation="modified" label="1005-36-Interp" subpath="title">
-      <title>Section 1005.36&#8212;Transfers Scheduled before the Date of Transfer</title>
-    </change>
+    </appendixSection>
+  </change>
+  <!-- In Supplement I to Part 1005 Official Interpretations: -->
+  <!-- a. Under Section 1005.33 Procedures for Resolving Errors:-->
+  <!--i. In subsection 33(a) Definition of Error, paragraph 9 is revised.-->
+  <change operation="modified" label="1005-33-a-Interp-9">
+    <interpParagraph label="1005-33-a-Interp-9" marker="9.">
+      <content>Account number or recipient institution identifier. For purposes of the exception in § 1005.33(a)(1)(iv)(D), the terms account number and recipient institution identifier refer to alphanumerical account or institution identifiers other than names or addresses, such as account numbers, routing numbers, Canadian transit numbers, International Bank Account Numbers (IBANs), Business Identifier Codes (BICs) and other similar account or institution identifiers used to route a transaction. In addition and for purposes of this exception, the term designated recipient's account in § 1005.33(a)(1)(iv)(D) refers to an asset account, regardless of whether it is a consumer asset account, established for any purpose and held by a bank, savings association, credit union, or equivalent institution. A designated recipient's account does not, however, include a credit card, prepaid card, or a virtual account held by an Internet-based or mobile telephone company that is not a bank, savings association, credit union or equivalent institution.</content>
+    </interpParagraph>
+  </change>
+  <!--ii. In subsection 33(g) Error Resolution Standards and Recordkeeping Requirements, paragraph 1 is revised.-->
+  <change operation="modified" label="1005-33-g-Interp-1">
+    <interpParagraph label="1005-33-g-Interp-1" marker="1.">
+      <content>Record retention requirements. As noted in § 1005.33(g)(2), remittance transfer providers are subject to the record retention requirements under § 1005.13. Therefore, remittance transfer providers must retain documentation, including documentation related to error investigations, for a period of not less than two years from the date a notice of error was submitted to the provider or action was required to be taken by the provider. A remittance transfer provider need not maintain records of individual disclosures that it has provided to each sender; it need only retain evidence demonstrating that its procedures reasonably ensure the sender's receipt of required disclosures and documentation.</content>
+    </interpParagraph>
+  </change>
+  <!--b. The heading Section 1005.36 Transfers Scheduled in Advance and paragraph 1 underneath said heading are removed.-->
+  <!--c. Under Section 1005.36 Transfers Scheduled before the Date of Transfer, paragraph 1 is added.-->
+  <change operation="modified" label="1005-36-Interp-1">
+    <interpParagraph label="1005-36-Interp-1" marker="1.">
+      <content>Applicability of subpart B. The requirements set forth in subpart B apply to remittance transfers subject to § 1005.36, to the extent that § 1005.36 does not modify those requirements. For example, the foreign language disclosure requirements in § 1005.31(g) and related commentary continue to apply to disclosures provided in accordance with § 1005.36(a)(2).</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1005-36-Interp" subpath="title">
+    <title>Section 1005.36 Transfers Scheduled before the Date of Transfer</title>
+  </change>
   </changeset>
 
   <analysis>
-    <analysisSection target="1005-7-b-11" notice="2016-24506" date="2016-11-14">
-      <title>
-        Section 1005.7 Initial Disclosures
-      </title>
-      <analysisParagraph>Section 1005.7(b)(11) in 12 CFR part 1005 cross-references the definition of an “automated teller machine operator” as defined in “§ 1005.16(a)(1).” This is a clerical error, as there is no such paragraph in § 1005.16. The definition of “automated teller machine operator” is set forth in § 1005.16(a). Accordingly, this final rule corrects the erroneous cross reference in § 1005.7(b)(11) by changing it from § 1005.16(a)(1) to § 1005.16(a).</analysisParagraph>
-    </analysisSection>
-
-    <analysisSection target="1005-A-37" notice="2016-24506" date="2016-11-14">
-      <title>
-        Model form for error resolution and cancellation disclosures (short).</title>
-      <analysisParagraph>
-        Model Form A-37 in appendix A to part 1005 sets forth language about the rights of a remittance transfer sender regarding error resolution and cancellation. Pursuant to § 1005.31(b)(2)(vi), it should contain language that informs a sender that the sender can contact the State agency that licenses or charters a remittance transfer provider and the Bureau for questions or complaints about the remittance transfer provider.
-        <footnote ref="3">
-          See
-          77 FR 6193, 6228 (Feb. 12, 2012) (explaining the contents of Model Form A-37).
-        </footnote>
-        However, the model form that was adopted only included this language in part. To correct this clerical error, Model Form A-37 is amended so that it now contains the disclosure required by § 1005.31(b)(2)(vi) in its entirety. The Bureau notes that other model forms in subpart B that contain the statement required by § 1005.31(b)(2)(vi) accurately reflect the statement.
-      </analysisParagraph>
-    </analysisSection>
-
-    <analysisSection target="1005-33-a-Interp-9" notice="2016-24506" date="2016-11-14">
-      <title>Official interpretation to § 1005.33(a) and (g).</title>
-      <analysisParagraph>
-        Section 1005.33(a)(1)(iv) provides that a remittance transfer provider's failure to make funds available to a designated recipient by the date of availability disclosed to the sender is an error unless an exception applies. One such exception, set forth in § 1005.33(a)(1)(iv)(D), is if the failure to make funds available is due to the sender having provided the remittance transfer provider with an incorrect account number for the designated recipient's account and the remittance transfer provider has met the conditions set forth in § 1005.33(h). Comment 33(a)-9 explains the application of § 1005.33(a)(1)(iv)(D). However, it erroneously cross-references § 1005.30(h)(2) when it should have crossed-referenced § 1005.33(a)(1)(iv)(D). This final rule corrects this error by removing the erroneous cross reference to § 1005.30(h)(2) and replacing it with the correct cross reference to § 1005.33(a)(1)(iv)(D). Additionally, comment 33(g)-1 contains a cross reference to the requirement set forth in the regulation that remittance transfer providers are subject to § 1005.13's record retention requirements. However, instead of cross-referencing § 1005.33(g)(2), where this requirement resides, the comment cross-references § 1005.31(g)(2). This final rule corrects the erroneous cross reference in comment 33(g)-1 by changing it from § 1005.31(g)(2) to § 1005.33(g)(2).
-      </analysisParagraph>
-    </analysisSection>
-
-    <analysisSection target="1005-33-g-Interp-1" notice="2016-24506" date="2016-11-14">
-      <title>Official interpretation to § 1005.33(a) and (g).</title>
-      <analysisParagraph>
-        Section 1005.33(a)(1)(iv) provides that a remittance transfer provider's failure to make funds available to a designated recipient by the date of availability disclosed to the sender is an error unless an exception applies. One such exception, set forth in § 1005.33(a)(1)(iv)(D), is if the failure to make funds available is due to the sender having provided the remittance transfer provider with an incorrect account number for the designated recipient's account and the remittance transfer provider has met the conditions set forth in § 1005.33(h). Comment 33(a)-9 explains the application of § 1005.33(a)(1)(iv)(D). However, it erroneously cross-references § 1005.30(h)(2) when it should have crossed-referenced § 1005.33(a)(1)(iv)(D). This final rule corrects this error by removing the erroneous cross reference to § 1005.30(h)(2) and replacing it with the correct cross reference to § 1005.33(a)(1)(iv)(D). Additionally, comment 33(g)-1 contains a cross reference to the requirement set forth in the regulation that remittance transfer providers are subject to § 1005.13's record retention requirements. However, instead of cross-referencing § 1005.33(g)(2), where this requirement resides, the comment cross-references § 1005.31(g)(2). This final rule corrects the erroneous cross reference in comment 33(g)-1 by changing it from § 1005.31(g)(2) to § 1005.33(g)(2).
-      </analysisParagraph>
-    </analysisSection>
-
-    <analysisSection target="1005-36-Interp-1" notice="2016-24506" date="2016-11-14">
-      <title>Official interpretation to § 1005.36.</title>
-      <analysisParagraph>
-        Currently, there are two section headings in the commentary to § 1005.36 (Transfers Scheduled before the Date of Transfer). The existence of two separate headings for the commentary to § 1005.36 is a clerical error. Further, one of the headings is different from the heading of § 1005.36 in the regulatory text. This final rule removes the erroneous heading so that the heading that remains in the commentary to § 1005.36 has the same heading as the heading of § 1005.36 in the regulatory text. Additionally, this final rule moves the commentary set forth under the erroneous heading and places it under the remaining heading.
-      </analysisParagraph>
-    </analysisSection>
+  <analysisSection target="1005-7-b-11" notice="2016-24506" date="2016-11-14">
+    <title>
+      Section 1005.7 Initial Disclosures
+    </title>
+    <analysisParagraph>Section 1005.7(b)(11) in 12 CFR part 1005 cross-references the definition of an “automated teller machine operator” as defined in “§ 1005.16(a)(1).” This is a clerical error, as there is no such paragraph in § 1005.16. The definition of “automated teller machine operator” is set forth in § 1005.16(a). Accordingly, this final rule corrects the erroneous cross reference in § 1005.7(b)(11) by changing it from § 1005.16(a)(1) to § 1005.16(a).</analysisParagraph>
+  </analysisSection>
+  <analysisSection target="1005-A-37" notice="2016-24506" date="2016-11-14">
+    <title>
+      Model form for error resolution and cancellation disclosures (short).</title>
+    <analysisParagraph>
+      Model Form A-37 in appendix A to part 1005 sets forth language about the rights of a remittance transfer sender regarding error resolution and cancellation. Pursuant to § 1005.31(b)(2)(vi), it should contain language that informs a sender that the sender can contact the State agency that licenses or charters a remittance transfer provider and the Bureau for questions or complaints about the remittance transfer provider.
+      <footnote ref="3">
+        See
+        77 FR 6193, 6228 (Feb. 12, 2012) (explaining the contents of Model Form A-37).
+      </footnote>
+      However, the model form that was adopted only included this language in part. To correct this clerical error, Model Form A-37 is amended so that it now contains the disclosure required by § 1005.31(b)(2)(vi) in its entirety. The Bureau notes that other model forms in subpart B that contain the statement required by § 1005.31(b)(2)(vi) accurately reflect the statement.
+    </analysisParagraph>
+  </analysisSection>
+  <analysisSection target="1005-33-a-Interp-9" notice="2016-24506" date="2016-11-14">
+    <title>Official interpretation to § 1005.33(a) and (g).</title>
+    <analysisParagraph>
+      Section 1005.33(a)(1)(iv) provides that a remittance transfer provider's failure to make funds available to a designated recipient by the date of availability disclosed to the sender is an error unless an exception applies. One such exception, set forth in § 1005.33(a)(1)(iv)(D), is if the failure to make funds available is due to the sender having provided the remittance transfer provider with an incorrect account number for the designated recipient's account and the remittance transfer provider has met the conditions set forth in § 1005.33(h). Comment 33(a)-9 explains the application of § 1005.33(a)(1)(iv)(D). However, it erroneously cross-references § 1005.30(h)(2) when it should have crossed-referenced § 1005.33(a)(1)(iv)(D). This final rule corrects this error by removing the erroneous cross reference to § 1005.30(h)(2) and replacing it with the correct cross reference to § 1005.33(a)(1)(iv)(D). Additionally, comment 33(g)-1 contains a cross reference to the requirement set forth in the regulation that remittance transfer providers are subject to § 1005.13's record retention requirements. However, instead of cross-referencing § 1005.33(g)(2), where this requirement resides, the comment cross-references § 1005.31(g)(2). This final rule corrects the erroneous cross reference in comment 33(g)-1 by changing it from § 1005.31(g)(2) to § 1005.33(g)(2).
+    </analysisParagraph>
+  </analysisSection>
+  <analysisSection target="1005-33-g-Interp-1" notice="2016-24506" date="2016-11-14">
+    <title>Official interpretation to § 1005.33(a) and (g).</title>
+    <analysisParagraph>
+      Section 1005.33(a)(1)(iv) provides that a remittance transfer provider's failure to make funds available to a designated recipient by the date of availability disclosed to the sender is an error unless an exception applies. One such exception, set forth in § 1005.33(a)(1)(iv)(D), is if the failure to make funds available is due to the sender having provided the remittance transfer provider with an incorrect account number for the designated recipient's account and the remittance transfer provider has met the conditions set forth in § 1005.33(h). Comment 33(a)-9 explains the application of § 1005.33(a)(1)(iv)(D). However, it erroneously cross-references § 1005.30(h)(2) when it should have crossed-referenced § 1005.33(a)(1)(iv)(D). This final rule corrects this error by removing the erroneous cross reference to § 1005.30(h)(2) and replacing it with the correct cross reference to § 1005.33(a)(1)(iv)(D). Additionally, comment 33(g)-1 contains a cross reference to the requirement set forth in the regulation that remittance transfer providers are subject to § 1005.13's record retention requirements. However, instead of cross-referencing § 1005.33(g)(2), where this requirement resides, the comment cross-references § 1005.31(g)(2). This final rule corrects the erroneous cross reference in comment 33(g)-1 by changing it from § 1005.31(g)(2) to § 1005.33(g)(2).
+    </analysisParagraph>
+  </analysisSection>
+  <analysisSection target="1005-36-Interp-1" notice="2016-24506" date="2016-11-14">
+    <title>Official interpretation to § 1005.36.</title>
+    <analysisParagraph>
+      Currently, there are two section headings in the commentary to § 1005.36 (Transfers Scheduled before the Date of Transfer). The existence of two separate headings for the commentary to § 1005.36 is a clerical error. Further, one of the headings is different from the heading of § 1005.36 in the regulatory text. This final rule removes the erroneous heading so that the heading that remains in the commentary to § 1005.36 has the same heading as the heading of § 1005.36 in the regulatory text. Additionally, this final rule moves the commentary set forth under the erroneous heading and places it under the remaining heading.
+    </analysisParagraph>
+  </analysisSection>
   </analysis>
-
 </notice>

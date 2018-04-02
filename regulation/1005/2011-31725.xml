@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -16,7 +17,7 @@
     </cfr>
     <documentNumber>2011-31725</documentNumber>
     <effectiveDate>2011-12-30</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2011/12/27/2011-31725/no-title-available</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2011/12/27/2011-31725/electronic-fund-transfers-regulation-e</federalRegisterURL>
   </preamble>
   <part label="1005">
     <tableOfContents>
@@ -4216,11 +4217,11 @@
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1005-20-d-Interp-2" marker="2.">
-	      <title>Relationship between §§ 1005.20(d)(2) and (c)(3).</title>
+              <title>Relationship between §§ 1005.20(d)(2) and (c)(3).</title>
               <content>Sections <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> and <ref target="1005-20-c-3" reftype="internal">(c)(3)</ref> contain similar, but not identical, disclosure requirements. Section <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> requires the disclosure of dormancy, inactivity, and <ref target="1005-20-a-6" reftype="term">service fees</ref> on a certificate or card. Section <ref target="1005-20-c-3" reftype="internal">1005.20(c)(3)</ref> requires that vendor <ref target="1005-2-j" reftype="term">person</ref> that issues or sells such certificate or card disclose to a <ref target="1005-2-e" reftype="term">consumer</ref> any dormancy, inactivity, and <ref target="1005-20-a-6" reftype="term">service fees</ref> associated with the certificate or card before such certificate or card may be purchased. Depending on the context, a single disclosure that meets the clear and conspicuous requirements of both §§ <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> and <ref target="1005-20-c-3" reftype="internal">(c)(3)</ref> may be used to disclose a dormancy, inactivity, or <ref target="1005-20-a-6" reftype="term">service fee</ref>. For example, if the disclosures on a certificate or card, required by § <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref>, are visible to the <ref target="1005-2-e" reftype="term">consumer</ref> without having to remove packaging or other materials sold with the certificate or card, for a purchase made in person, the disclosures also meet the requirements of § <ref target="1005-20-c-3" reftype="internal">1005.20(c)(3)</ref>. Otherwise, a dormancy, inactivity, or <ref target="1005-20-a-6" reftype="term">service fee</ref> may need to be disclosed multiple times to satisfy the requirements of §§ <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> and <ref target="1005-20-c-3" reftype="internal">(c)(3)</ref>. For example, if the disclosures on a certificate or card, required by § <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref>, are obstructed by packaging sold with the certificate or card, for a purchase made in person, they also must be disclosed on the packaging sold with the certificate or card to meet the requirements of § <ref target="1005-20-c-3" reftype="internal">1005.20(c)(3)</ref>.</content>
             </interpParagraph>
             <interpParagraph label="1005-20-d-Interp-3" marker="3.">
-	      <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
+              <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
               <content>In addition to any disclosures required under § <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref>, any applicable disclosures under §§ <ref target="1005-20-e-3" reftype="internal">1005.20(e)(3)</ref> and <ref target="1005-20-f-2" reftype="internal">(f)(2)</ref> of this section must also be provided on the certificate or card.</content>
             </interpParagraph>
             <interpParagraph label="1005-20-d-Interp-4" marker="4.">
@@ -4273,7 +4274,7 @@
               <content>A non-reloadable certificate or card that bears an expiration date that is at least seven years from the date of manufacture need not <ref target="1005-2-l" reftype="term">state</ref> the disclosure required by § <ref target="1005-20-e-3-iii" reftype="internal">1005.20(e)(3)(iii)</ref>. However, § <ref target="1005-20-e-1" reftype="internal">1005.20(e)(1)</ref> still prohibits the sale or issuance of such certificate or card unless there are policies and procedures in place to provide a <ref target="1005-2-e" reftype="term">consumer</ref> with a reasonable opportunity to purchase the certificate or card with at least five years remaining until the certificate or card expiration date. In addition, under § <ref target="1005-20-e-2" reftype="internal">1005.20(e)(2)</ref>, the funds may not expire before the certificate or card expiration date, even if the expiration date of the certificate or card bears an expiration date that is more than five years from the date of purchase. For purposes of this safe harbor, the date of manufacture is the date on which the certificate or card expiration date is printed on the certificate or card.</content>
             </interpParagraph>
             <interpParagraph label="1005-20-e-Interp-9" marker="9.">
-	      <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
+              <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
               <content>In addition to any disclosures required to be made under § <ref target="1005-20-e-3" reftype="internal">1005.20(e)(3)</ref>, any applicable disclosures under §§ <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> and <ref target="1005-20-f-2" reftype="internal">(f)(2)</ref> must also be provided on the certificate or card.</content>
             </interpParagraph>
             <interpParagraph label="1005-20-e-Interp-10" marker="10.">
@@ -4304,7 +4305,7 @@
               <content>Relationship to § 226.20(e)(3)(ii). The same toll-free telephone number and Web site may be used to comply with §§ 226.20(e)(3)(ii) and (f)(2). Neither a toll-free number nor a Web site must be maintained or disclosed if no fees are imposed in connection with a certificate or card, and both the certificate or card and underlying funds do not expire.</content>
             </interpParagraph>
             <interpParagraph label="1005-20-f-Interp-3" marker="3.">
-	      <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
+              <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
               <content>In addition to any disclosures required pursuant to § <ref target="1005-20-f-2" reftype="internal">1005.20(f)(2)</ref>, any applicable disclosures under §§ <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> and <ref target="1005-20-e-3" reftype="internal">(e)(3)</ref> must also be provided on the certificate or card.</content>
             </interpParagraph>
           </interpParagraph>
