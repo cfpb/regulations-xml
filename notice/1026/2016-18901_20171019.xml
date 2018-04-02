@@ -623,7 +623,7 @@
       </interpParagraph>
     </interpParagraph>
   </change>
-  <change label="1026-41-e-5-Interp" operation="modified">
+  <change operation="modified" label="1026-41-e-5-Interp">
     <interpParagraph label="1026-41-e-5-Interp" target="1026-41-e-5">
       <title>41(e)(5) Certain consumers in bankruptcy.</title>
       <content/>

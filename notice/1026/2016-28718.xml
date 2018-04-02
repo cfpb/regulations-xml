@@ -20,7 +20,7 @@
     <federalRegisterURL>https://www.federalregister.gov/documents/2016/11/30/2016-28718/truth-in-lending-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2016-30730" leftEffectiveDate="2017-01-01" rightDocumentNumber="2016-28718">
-  <change label="1026-3-b-Interp" operation="modified">
+  <change operation="modified" label="1026-3-b-Interp">
     <interpParagraph label="1026-3-b-Interp" marker="" target="1026-3-b">
       <title>Threshold amount.</title>
       <content/>
