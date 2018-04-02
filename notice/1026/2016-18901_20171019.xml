@@ -61,6 +61,21 @@
     <paragraph label="1026-36-c-1" marker="(1)">
       <title>Payment processing.</title>
       <content>In connection with a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>:</content>
+      <paragraph label="1026-36-c-1-i" marker="(i)">
+        <content>Periodic payments. No servicer shall fail to <ref target="1026-2-a-14" reftype="term">credit</ref> a periodic payment to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s loan account as of the date of receipt, except when a delay in crediting does not result in any charge to the <ref target="1026-2-a-11" reftype="term">consumer</ref> or in the reporting of negative information to a <ref target="1026-2-a-11" reftype="term">consumer</ref> reporti<ref target="1026-36-c-2" reftype="internal">ng age</ref>ncy, or except as provided in paragraph (c)(1)(iii) of this section. A periodic payment, as used in this paragraph (c), is an amount sufficient to cover principal, interest, and escrow (if applicable) for a given <ref target="1026-2-a-4" reftype="term">billing cycle</ref>. A payment qualifies as a periodic payment even if it does not include amounts required to cover late fees, other fees, or non-escrow payments a servicer has advanced on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s behalf.</content>
+      </paragraph>
+      <paragraph label="1026-36-c-1-ii" marker="(ii)">
+        <content>Partial payments. Any servicer that retains a partial payment, meaning any payment less than a periodic payment, in a suspense or unapplied funds account shall:</content>
+        <paragraph label="1026-36-c-1-ii-A" marker="(A)">
+          <content>Disclose to the <ref target="1026-2-a-11" reftype="term">consumer</ref> the total amount of funds held in such suspense or unapplied funds account on the periodic statement as required by § <ref target="1026-41-d-3" reftype="internal">1026.41(d)(3)</ref>, if a periodic statement is required; and</content>
+        </paragraph>
+        <paragraph label="1026-36-c-1-ii-B" marker="(B)">
+          <content>On accumulation of sufficient funds to cover a periodic payment in any suspense or unapplied funds account, treat such funds as a periodic payment received in accordance with paragraph <ref target="1026-36-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section.</content>
+        </paragraph>
+      </paragraph>
+      <paragraph label="1026-36-c-1-iii" marker="(iii)">
+        <content>Non-conforming payments. If a servicer specifies in writing requirements for the <ref target="1026-2-a-11" reftype="term">consumer</ref> to follow in making payments, but accepts a payment that does not conform to the requirements, the servicer shall <ref target="1026-2-a-14" reftype="term">credit</ref> the payment as of five days after receipt.</content>
+      </paragraph>
     </paragraph>
   </change>
   <change operation="modified" label="1026-36-c-2">

@@ -228,6 +228,61 @@
         <title>Loan amount.</title>
         <content>The total amount the consumer will borrow, as reflected by the face amount of the note, labeled “Loan Amount.”</content>
       </paragraph>
+      <paragraph label="1026-37-b-2" marker="(2)">
+        <title type="keyterm">Interest rate.</title>
+        <content>The interest rate that will be applicable to the transaction at <ref target="1026-2-a-13" reftype="term">consummation</ref>, labeled “Interest Rate.” For an adjustable rate transaction, if the interest rate at <ref target="1026-2-a-13" reftype="term">consummation</ref> is not known, the rate disclosed shall be the <ref target="1026-18-s-7-vi" reftype="term">fully-indexed rate</ref>, which, for purposes of this paragraph, means the interest rate calculated using the index value and margin at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
+      </paragraph>
+      <paragraph label="1026-37-b-3" marker="(3)">
+        <title type="keyterm">Principal and interest payment.</title>
+        <content>The initial periodic payment amount that will be due under the terms of the legal obligation, labeled “Principal &amp; Interest,” immediately preceded by the applicable unit-period, and a statement referring to the payment amount that includes any mortgage insurance and escrow payments that is required to be disclosed pursuant to paragraph (c) of this section. If the interest rate at <ref target="1026-2-a-13" reftype="term">consummation</ref> is not known, the amount disclosed shall be calculated using the <ref target="1026-18-s-7-vi" reftype="term">fully-indexed rate</ref> disclosed under paragraph (b)(2) of this section.</content>
+      </paragraph>
+      <paragraph label="1026-37-b-4" marker="(4)">
+        <title type="keyterm">Prepayment penalty.</title>
+        <content>A statement of whether the transaction includes a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, labeled “Prepayment Penalty.” For purposes of this paragraph (b)(4), “<ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>” means a charge imposed for paying all or part of a transaction’s principal before the date on which the principal is due, other than a waived, bona fide third-party charge that the <ref target="1026-2-a-17" reftype="term">creditor</ref> imposes if the <ref target="1026-2-a-11" reftype="term">consumer</ref> prepays all of the transaction’s principal sooner than 36 months after <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
+      </paragraph>
+      <paragraph label="1026-37-b-5" marker="(5)">
+        <title type="keyterm">Balloon payment.</title>
+        <content>A statement of whether the transaction includes a balloon payment, labeled “Balloon Payment.” For purposes of this paragraph (b)(5), “balloon payment” means a payment that is more than two times a regular periodic payment. “Balloon payment” includes the payment or payments under a transaction that requires only one or two payments during the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
+      </paragraph>
+      <paragraph label="1026-37-b-6" marker="(6)">
+        <title type="keyterm">Adjustments after consummation.</title>
+        <content>For each amount required to be disclosed by paragraphs (b)(1) through (3) of this section, a statement of whether the amount may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> as an affirmative or negative answer to the question, and under such question disclosed as a subheading, “Can this amount increase after closing?” and, in the case of an affirmative answer, the following additional information, as applicable:</content>
+        <paragraph label="1026-37-b-6-i" marker="(i)">
+          <title type="keyterm">Adjustment in loan amount.</title>
+          <content>The maximum principal balance for the transaction and the due date of the last payment that may cause the principal balance to increase. The disclosure further shall indicate whether the maximum principal balance is potential or is scheduled to occur under the terms of the legal obligation.</content>
+        </paragraph>
+        <paragraph label="1026-37-b-6-ii" marker="(ii)">
+          <title type="keyterm">Adjustment in interest rate.</title>
+          <content>The frequency of interest rate adjustments, the date when the interest rate may first adjust, the maximum interest rate, and the first date when the interest rate can reach the maximum interest rate, followed by a reference to the disclosure required by paragraph (j) of this section. If the <ref target="1026-43-b-6" reftype="term">loan term</ref>, as defined under paragraph (a)(8) of this section, may increase based on an interest rate adjustment, the disclosure required by this paragraph (b)(6)(ii) shall also <ref target="1026-2-a-26" reftype="term">state</ref> that fact and the maximum possible <ref target="1026-43-b-6" reftype="term">loan term</ref> determined in accordance with paragraph (a)(8) of this section.</content>
+        </paragraph>
+        <paragraph label="1026-37-b-6-iii" marker="(iii)">
+          <title type="keyterm">Increase in periodic payment.</title>
+          <content>The scheduled frequency of adjustments to the periodic principal and interest payment, the due date of the first adjusted principal and interest payment, the maximum possible periodic principal and interest payment, and the date when the periodic principal and interest payment may first equal the maximum principal and interest payment. If any adjustments to the principal and interest payment are not the result of a change to the interest rate, a reference to the disclosure required by paragraph (i) of this section. If there is a period during which only interest is required to be paid, the disclosure required by this paragraph (b)(6)(iii) shall also state that fact and the due date of the last periodic payment of such period.</content>
+        </paragraph>
+      </paragraph>
+      <paragraph label="1026-37-b-7" marker="(7)">
+        <title type="keyterm">Details about prepayment penalty and balloon payment.</title>
+        <content>The information required to be disclosed by paragraphs (b)(4) and (5) of this section shall be disclosed as an affirmative or negative answer to the question, and under such question disclosed as a subheading, “Does the loan have these features?” If an affirmative answer for a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> or balloon payment is required to be disclosed, the following information shall be included, as applicable:</content>
+        <paragraph label="1026-37-b-7-i" marker="(i)">
+          <content>The maximum amount of the <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> that may be imposed and the date when the period during which the penalty may be imposed terminates; and</content>
+        </paragraph>
+        <paragraph label="1026-37-b-7-ii" marker="(ii)">
+          <content>The maximum amount of the balloon payment and the due date of such payment.</content>
+        </paragraph>
+      </paragraph>
+      <paragraph label="1026-37-b-8" marker="(8)">
+        <title type="keyterm">Timing.</title>
+        <content/>
+        <paragraph label="1026-37-b-8-i" marker="(i)">
+          <content>The dates required to be disclosed by paragraph (b)(6)(ii) of this section shall be disclosed as the year in which the event occurs, counting from the date that interest for the first scheduled periodic payment begins to accrue after <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
+        </paragraph>
+        <paragraph label="1026-37-b-8-ii" marker="(ii)">
+          <content>The dates required to be disclosed by paragraphs (b)(6)(i), (b)(6)(iii) and (b)(7)(ii) of this section shall be disclosed as the year in which the event occurs, counting from the due date of the initial periodic payment.</content>
+        </paragraph>
+        <paragraph label="1026-37-b-8-iii" marker="(iii)">
+          <content>The date required to be disclosed by paragraph (b)(7)(i) of this section shall be disclosed as the year in which the event occurs, counting from the date of <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
+        </paragraph>
+      </paragraph>
     </paragraph>
   </change>
   <change operation="modified" label="1026-37-c-5-i">
