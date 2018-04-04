@@ -87,7 +87,7 @@
     </appendixSection>
   </change>
   <change operation="modified" label="1005-A-31">
-    <appendixSection appendixSecNum="33" label="1005-A-31">
+    <appendixSection appendixSecNum="34" label="1005-A-31">
       <subject>A-31—Model Form for Receipts for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(2))</subject>
       <paragraph label="1005-A-31-p1" marker= "">
         <content>
@@ -101,7 +101,7 @@
     </appendixSection>
   </change>
   <change operation="modified" label="1005-A-32">
-    <appendixSection appendixSecNum="34" label="1005-A-32">
+    <appendixSection appendixSecNum="35" label="1005-A-32">
       <subject>A-32—Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(3))</subject>
       <paragraph label="1005-A-32-a" marker= "(a)">
         <content>
@@ -124,7 +124,7 @@
     </appendixSection>
   </change>
   <change operation="modified" label="1005-A-33">
-    <appendixSection appendixSecNum="35" label="1005-A-33">
+    <appendixSection appendixSecNum="36" label="1005-A-33">
       <subject>A-33—Model Form for Pre-Payment Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(1))</subject>
       <paragraph label="1005-A-33-p1" marker= "">
         <content>
@@ -138,7 +138,7 @@
     </appendixSection>
   </change>
   <change operation="modified" label="1005-A-34">
-    <appendixSection appendixSecNum="36" label="1005-A-34">
+    <appendixSection appendixSecNum="37" label="1005-A-34">
       <subject>A-34—Model Form for Receipts for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(2))</subject>
       <paragraph label="1005-A-34-p1" marker= "">
         <content>
@@ -152,7 +152,7 @@
     </appendixSection>
   </change>
   <change operation="modified" label="1005-A-35">
-    <appendixSection appendixSecNum="37" label="1005-A-35">
+    <appendixSection appendixSecNum="38" label="1005-A-35">
       <subject>A-35—Model Form for Combined Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(3))</subject>
       <paragraph label="1005-A-35-p1" marker= "">
         <content>
@@ -166,7 +166,7 @@
     </appendixSection>
   </change>
   <change operation="modified" label="1005-A-36">
-    <appendixSection appendixSecNum="38" label="1005-A-36">
+    <appendixSection appendixSecNum="39" label="1005-A-36">
       <subject>A-36—Model Form for Error Resolution and Cancellation Disclosures (Long) (§ 1005.31(b)(4))</subject>
       <paragraph label="1005-A-36-p1" marker= "">
         <content>
@@ -180,7 +180,7 @@
     </appendixSection>
   </change>
   <change operation="modified" label="1005-A-37">
-    <appendixSection appendixSecNum="39" label="1005-A-37">
+    <appendixSection appendixSecNum="40" label="1005-A-37">
       <subject>A-37—Model Form for Error Resolution and Cancellation Disclosures (Short) (§ 1005.31(b)(2)(iv) and (b)(2)(vi))</subject>
       <paragraph label="1005-A-37-p1" marker= "">
         <content>
@@ -194,7 +194,7 @@
     </appendixSection>
   </change>
   <change operation="added" label="1005-A-38">
-    <appendixSection appendixSecNum="40" label="1005-A-38">
+    <appendixSection appendixSecNum="41" label="1005-A-38">
       <subject>A-38—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(1))</subject>
       <paragraph label="1005-A-38-p1" marker= "">
         <content>
@@ -208,7 +208,7 @@
     </appendixSection>
   </change>
   <change operation="added" label="1005-A-39">
-    <appendixSection appendixSecNum="41" label="1005-A-39">
+    <appendixSection appendixSecNum="42" label="1005-A-39">
       <subject>A-39—Model Form for Receipts for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(2))</subject>
       <paragraph label="1005-A-39-a" marker= "(a)">
         <content>
@@ -231,7 +231,7 @@
     </appendixSection>
   </change>
   <change operation="added" label="1005-A-40">
-    <appendixSection appendixSecNum="42" label="1005-A-40">
+    <appendixSection appendixSecNum="43" label="1005-A-40">
       <subject>A-40—Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(3))</subject>
       <paragraph label="1005-A-40-p1" marker= "">
         <content>
@@ -245,7 +245,7 @@
     </appendixSection>
   </change>
   <change operation="added" label="1005-A-41">
-    <appendixSection appendixSecNum="43" label="1005-A-41">
+    <appendixSection appendixSecNum="44" label="1005-A-41">
       <subject>A-41—Model Form for Error Resolution and Cancellation Disclosures (Long)—Spanish (§ 1005.31(b)(4))</subject>
       <paragraph label="1005-A-41-p1" marker= "">
         <content>
@@ -260,7 +260,7 @@
   </change>
   <!-- It looks like the initial parse had the above images in terms of tables. I'm just going to keep this commented out in here in case
    we want to back to it for some reason.-->
-  <!--<appendixSection appendixSecNum="10" label="1005-A-30">
+  <!--<appendixSection appendixSecNum="30" label="1005-A-30">
         <subject>A-30—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged Into Local Currency (§ 1005.31(b)(1))</subject>
         <paragraph label="1005-A-30-h1" marker="">
           <title>NOT A RECEIPT</title>
@@ -338,7 +338,7 @@
           <content>Today's Date: March 3, 2013</content>
         </paragraph>
       </appendixSection>
-      <appendixSection appendixSecNum="11" label="1005-A-31">
+      <appendixSection appendixSecNum="31" label="1005-A-31">
         <subject>A-31—Model Form for Receipts for Remittance Transfers Exchanged Into Local Currency (§ 1005.31(b)(2))</subject>
         <paragraph label="1005-A-31-h2" marker="">
           <title>RECEIPT</title>
@@ -491,7 +491,7 @@
           <content>Today's Date: March 3, 2013</content>
         </paragraph>
       </appendixSection>
-      <appendixSection appendixSecNum="12" label="1005-A-32">
+      <appendixSection appendixSecNum="32" label="1005-A-32">
         <subject>A-32—Model Form for Combined Disclosures for Remittance Transfers Exchanged Into Local Currency (§ 1005.31(b)(3))</subject>
         <paragraph label="1005-A-32-p40" marker="">
           <content>ABC Company</content>
@@ -646,7 +646,7 @@
           <content>www.consumerfinance.gov</content>
         </paragraph>
       </appendixSection>
-      <appendixSection appendixSecNum="13" label="1005-A-33">
+      <appendixSection appendixSecNum="33" label="1005-A-33">
         <subject>A-33—Model form for Pre-Payment Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(1))</subject>
         <paragraph label="1005-A-33-h3" marker="">
           <title>NOT A RECEIPT</title>
@@ -709,7 +709,7 @@
           <content>Today's Date: March 3, 2013</content>
         </paragraph>
       </appendixSection>
-      <appendixSection appendixSecNum="14" label="1005-A-34">
+      <appendixSection appendixSecNum="34" label="1005-A-34">
         <subject>A-34—Model Form for Receipts for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(2))</subject>
         <paragraph label="1005-A-34-h4" marker="">
           <title>RECEIPT</title>
@@ -853,7 +853,7 @@
           <content>Today's Date: March 3, 2013</content>
         </paragraph>
       </appendixSection>
-      <appendixSection appendixSecNum="15" label="1005-A-35">
+      <appendixSection appendixSecNum="35" label="1005-A-35">
         <subject>A-35—Model Form for Combined Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(3))</subject>
         <paragraph label="1005-A-35-p111" marker="">
           <content>ABC Company</content>
@@ -993,7 +993,7 @@
           <content>www.consumerfinance.gov</content>
         </paragraph>
       </appendixSection>
-      <appendixSection appendixSecNum="16" label="1005-A-36">
+      <appendixSection appendixSecNum="36" label="1005-A-36">
         <subject>A-36—Model Form for Error Resolution and Cancellation Disclosures (Long) (§ 1005.31(b)(4))</subject>
         <paragraph label="1005-A-36-p143" marker="">
           <content>What to do if you think there has been an <ref target="1005-11-a-1" reftype="term">error</ref> or problem:</content>
@@ -1041,7 +1041,7 @@
           </paragraph>
         </paragraph>
       </appendixSection>
-      <appendixSection appendixSecNum="17" label="1005-A-37">
+      <appendixSection appendixSecNum="37" label="1005-A-37">
         <subject>A-37—Model Form for Error Resolution and Cancellation Disclosures (Short) (§ 1005.31(b)(2)(iv) and (vi))</subject>
         <paragraph label="1005-A-37-p153" marker="">
           <content>You have a right to dispute <ref target="1005-11-a-1" reftype="term">errors</ref> in your transaction. If you think there is an <ref target="1005-11-a-1" reftype="term">error</ref>, contact us within 180 days at [insert telephone number] or [insert Web site]. You can also contact us for a written explanation of your rights.</content>
