@@ -16,17 +16,13 @@
     </cfr>
     <documentNumber>2015-30091</documentNumber>
     <effectiveDate>2016-01-01</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2015/11/27/2015-30091/truth-in-lending-regulation-z</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2015/11/27/2015-30091/truth-in-lending-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2015-24362" rightDocumentNumber="2015-30091">
-
-    <!-- In Supplement I to part 1026, under Section 1026.3—Exempt Transactions, under 3(b) Credit Over Applicable Threshold Amount, paragraph 1.vii is added to read as follows: -->
-
-    <change operation="added" label="1026-3-b-Interp-1-vii" parent="1026-3-b-Interp-1">
-      <interpParagraph label="1026-3-b-Interp-1-vii" marker="vii.">
-	<content>From January 1, 2016 through December 31, 2016, the threshold amount is $54,600.</content>
-      </interpParagraph>
-    </change>
+  <change operation="added" label="1026-3-b-Interp-1-vii" parent="1026-3-b-Interp-1">
+    <interpParagraph label="1026-3-b-Interp-1-vii" marker="vii.">
+      <content>From January 1, 2016 through December 31, 2016, the threshold amount is $54,600.</content>
+    </interpParagraph>
+  </change>
   </changeset>
-    
 </notice>

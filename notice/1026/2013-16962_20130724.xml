@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -15,46 +16,45 @@
     </cfr>
     <documentNumber>2013-16962_20130724</documentNumber>
     <effectiveDate>2013-07-24</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2013/07/24/2013-16962/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/07/24/2013-16962/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-12125" rightDocumentNumber="2013-16962_20130724">
-
-    <change operation="modified" label="1026-35-e">
-      <paragraph label="1026-35-e" marker="(e)">
-        <title type="keyterm">Repayment ability, prepayment penalties.</title>
-        <content>Except as provided in paragraph (e)(3) of this section, <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> are subject to the following restrictions:</content>
-        <paragraph label="1026-35-e-1" marker="(1)">
-          <title type="keyterm">Repayment ability.</title>
-          <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not extend <ref target="1026-2-a-14" reftype="term">credit</ref> based on the value of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s collateral without regard to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s repayment ability as of <ref target="1026-2-a-13" reftype="term">consummation</ref> as provided in § <ref target="1026-34-a-4" reftype="internal">1026.34(a)(4)</ref>.</content>
+  <change operation="modified" label="1026-35-e">
+    <paragraph label="1026-35-e" marker="(e)">
+      <title type="keyterm">Repayment ability, prepayment penalties.</title>
+      <content>Except as provided in paragraph (e)(3) of this section, <ref target="1026-35-a-1" reftype="term">higher-priced mortgage loans</ref> are subject to the following restrictions:</content>
+      <paragraph label="1026-35-e-1" marker="(1)">
+        <title type="keyterm">Repayment ability.</title>
+        <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> shall not extend <ref target="1026-2-a-14" reftype="term">credit</ref> based on the value of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s collateral without regard to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s repayment ability as of <ref target="1026-2-a-13" reftype="term">consummation</ref> as provided in § <ref target="1026-34-a-4" reftype="internal">1026.34(a)(4)</ref>.</content>
+      </paragraph>
+      <paragraph label="1026-35-e-2" marker="(2)">
+        <title type="keyterm">Prepayment penalties.</title>
+        <content>A loan may not include a penalty described by § <ref target="1026-32-d-6" reftype="internal">1026.32(d)(6)</ref> unless:</content>
+        <paragraph label="1026-35-e-2-i" marker="(i)">
+          <content>The penalty is otherwise permitted by law, including § <ref target="1026-32-d-7" reftype="internal">1026.32(d)(7)</ref> if the loan is a mortgage transaction described in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>; and</content>
         </paragraph>
-        <paragraph label="1026-35-e-2" marker="(2)">
-          <title type="keyterm">Prepayment penalties.</title>
-          <content>A loan may not include a penalty described by § <ref target="1026-32-d-6" reftype="internal">1026.32(d)(6)</ref> unless:</content>
-          <paragraph label="1026-35-e-2-i" marker="(i)">
-            <content>The penalty is otherwise permitted by law, including § <ref target="1026-32-d-7" reftype="internal">1026.32(d)(7)</ref> if the loan is a mortgage transaction described in § <ref target="1026-32-a" reftype="internal">1026.32(a)</ref>; and</content>
+        <paragraph label="1026-35-e-2-ii" marker="(ii)">
+          <content>Under the terms of the loan:</content>
+          <paragraph label="1026-35-e-2-ii-A" marker="(A)">
+            <content>The penalty will not apply after the two-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>;</content>
           </paragraph>
-          <paragraph label="1026-35-e-2-ii" marker="(ii)">
-            <content>Under the terms of the loan:</content>
-            <paragraph label="1026-35-e-2-ii-A" marker="(A)">
-              <content>The penalty will not apply after the two-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>;</content>
-            </paragraph>
-            <paragraph label="1026-35-e-2-ii-B" marker="(B)">
-              <content>The penalty will not apply if the source of the prepayment funds is a refinancing by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or an <ref target="1026-32-b-2" reftype="term">affiliate</ref> of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; and</content>
-            </paragraph>
-            <paragraph label="1026-35-e-2-ii-C" marker="(C)">
-              <content>The amount of the periodic payment of principal or interest or both may not change during the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
-            </paragraph>
+          <paragraph label="1026-35-e-2-ii-B" marker="(B)">
+            <content>The penalty will not apply if the source of the prepayment funds is a refinancing by the <ref target="1026-2-a-17" reftype="term">creditor</ref> or an <ref target="1026-32-b-2" reftype="term">affiliate</ref> of the <ref target="1026-2-a-17" reftype="term">creditor</ref>; and</content>
           </paragraph>
-        </paragraph>
-      	<paragraph label="1026-35-e-3" marker="(3)">
-      	  <title type="keyterm">Exclusions.</title>
-      	  <content>This paragraph (e) does not apply to a transaction to finance the initial construction of a <ref target="1026-2-a-19" reftype="term">dwelling</ref>; a temporary or “bridge” loan with a term of twelve months or less, such as a loan to purchase a new <ref target="1026-2-a-19" reftype="term">dwelling</ref> where the <ref target="1026-2-a-11" reftype="term">consumer</ref> plans to sell a current <ref target="1026-2-a-19" reftype="term">dwelling</ref> within twelve months; or a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33" reftype="term">1026.33</ref>.</content></paragraph>
-        <paragraph label="1026-35-e-4" marker="(4)">
-          <content>Sunset of requirements on repayment ability and prepayment penalties. The requirements described in this paragraph <ref target="1026-35-e" reftype="internal">(e)</ref> shall expire at 11:59 p.m. on January 9, 2014.</content>
+          <paragraph label="1026-35-e-2-ii-C" marker="(C)">
+            <content>The amount of the periodic payment of principal or interest or both may not change during the four-year period following <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
+          </paragraph>
         </paragraph>
       </paragraph>
-    </change>
-    <!-- end of notice -->
+      <paragraph label="1026-35-e-3" marker="(3)">
+        <title type="keyterm">Exclusions.</title>
+        <content>This paragraph (e) does not apply to a transaction to finance the initial construction of a <ref target="1026-2-a-19" reftype="term">dwelling</ref>; a temporary or “bridge” loan with a term of twelve months or less, such as a loan to purchase a new <ref target="1026-2-a-19" reftype="term">dwelling</ref> where the <ref target="1026-2-a-11" reftype="term">consumer</ref> plans to sell a current <ref target="1026-2-a-19" reftype="term">dwelling</ref> within twelve months; or a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33" reftype="internal">1026.33</ref>.</content>
+      </paragraph>
+      <paragraph label="1026-35-e-4" marker="(4)">
+        <content>Sunset of requirements on repayment ability and prepayment penalties. The requirements described in this paragraph <ref target="1026-35-e" reftype="internal">(e)</ref> shall expire at 11:59 p.m. on January 9, 2014.</content>
+      </paragraph>
+    </paragraph>
+  </change>
   </changeset>
   <!-- Analysis Missing: 35(e) -->
   <analysis>
