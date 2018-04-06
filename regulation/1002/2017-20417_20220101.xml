@@ -1334,7 +1334,7 @@
         <appendixSection appendixSecNum="1" label="1002-B-1">
           <subject/>
           <paragraph marker="" label="1002-B-1-p1">
-        <content>1. This appendix contains five model credit application forms, each designated for use in a particular type of consumer credit transaction as indicated by the bracketed caption on each form. The first sample form is intended for use in open-end, unsecured transactions; the second for closed-end, secured transactions; the third for closed-end transactions, whether unsecured or secured; the fourth in transactions involving community property or occurring in community property States; and the fifth in residential mortgage transactions which contains a model disclosure for use in complying with § 1002.13 for certain dwelling-related loans. This appendix also contains a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of § 1002.13(a)(1)(i)(A) and (ii). Appendix B to 12 CFR part 1003 provides a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of § 1002.13(a)(1)(i)(B) and (ii). All forms contained in this appendix are models; their use by creditors is optional.</content>
+        <content>1. This appendix contains four model credit application forms, each designated for use in a particular type of consumer credit transaction as indicated by the bracketed caption on each form. The first sample form is intended for use in open-end, unsecured transactions; the second for closed-end, secured transactions; the third for closed-end transactions, whether unsecured or secured; and the fourth in transactions involving community property or occurring in community property States. This appendix also contains a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of § 1002.13(a)(1)(i)(A) and (ii). Appendix B to 12 CFR part 1003 provides a data collection model form for collecting information concerning an applicant's ethnicity, race, and sex that complies with the requirements of § 1002.13(a)(1)(i)(B) and (ii). All forms contained in this appendix are models; their use by creditors is optional.</content>
       </paragraph>
     </appendixSection>
         <appendixSection appendixSecNum="2" label="1002-B-2">
@@ -1369,6 +1369,18 @@
                 <altText/>
                 <text>![](ER21DE11.047)</text>
                 <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.047/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="6" label="1002-B-p3">
+          <subject/>
+          <paragraph label="1002-B-p3-p1" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.048)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.048/original.gif</url>
               </graphic>
             </content>
           </paragraph>
@@ -1433,55 +1445,7 @@
             </content>
           </paragraph>
         </appendixSection>
-        <appendixSection appendixSecNum="12" label="1002-B-p9">
-          <subject/>
-          <paragraph label="1002-B-p9-p1" marker="">
-            <content>
-              <graphic>
-                <altText/>
-                <text>![](ER21DE11.054)</text>
-                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.054/original.gif</url>
-              </graphic>
-            </content>
-          </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="13" label="1002-B-p10">
-          <subject/>
-          <paragraph label="1002-B-p10-p1" marker="">
-            <content>
-              <graphic>
-                <altText/>
-                <text>![](ER21DE11.055)</text>
-                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.055/original.gif</url>
-              </graphic>
-            </content>
-          </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="14" label="1002-B-p11">
-          <subject/>
-          <paragraph label="1002-B-p11-p1" marker="">
-            <content>
-              <graphic>
-                <altText/>
-                <text>![](ER21DE11.056)</text>
-                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.056/original.gif</url>
-              </graphic>
-            </content>
-          </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="15" label="1002-B-p12">
-          <subject/>
-          <paragraph label="1002-B-p12-p1" marker="">
-            <content>
-              <graphic>
-                <altText/>
-                <text>![](ER21DE11.057)</text>
-                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.057/original.gif</url>
-              </graphic>
-            </content>
-          </paragraph>
-        </appendixSection>
-      </appendix>
+        </appendix>
       <appendix appendixLetter="C" label="1002-C">
         <appendixTitle>Appendix C to Part 1002—Sample Notification Forms</appendixTitle>
         <appendixSection appendixSecNum="1" label="1002-C-1">
@@ -3707,11 +3671,11 @@
           <title>Appendix B—Model Application Forms</title>
           <interpParagraph label="1002-B-Interp-1" marker="1.">
             <title type="keyterm">Freddie Mac/Fannie Mae form—residential loan application.</title>
-            <content><ref target="1002-2-f" reftype="term">application</ref>. The uniform residential loan <ref target="1002-2-f" reftype="term">application</ref> form (Freddie Mac 65/Fannie Mae 1003), including supplemental form (Freddie Mac 65A/Fannie Mae 1003A), prepared by the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association and dated October 1992 may be used by <ref target="1002-2-l" reftype="term">creditors</ref> without violating this part. <ref target="1002-2-l" reftype="term">Creditors</ref> that are governed by the monitoring requirements of this part (which limits collection to <ref target="1002-2-f" reftype="term">applications</ref> primarily for the purchase or refinancing of the <ref target="1002-2-e" reftype="term">applicant</ref>'s principal residence) should delete, strike, or modify the data-collection section on the form when using it for transactions not covered by § 1002.13(a) to ensure that they do not collect the information. <ref target="1002-2-l" reftype="term">Creditors</ref> that are subject to more extensive collection requirements by a substitute monitoring program under § 1002.13(d) or by the Home Mortgage Disclosure Act (HMDA) may use the form as issued, in compliance with the substitute program or HMDA.</content>
+            <content>The uniform residential loan <ref target="1002-2-f" reftype="term">application</ref> form (Freddie Mac 65/Fannie Mae 1003), including supplemental form (Freddie Mac 65A/Fannie Mae 1003A), prepared by the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association and dated October 1992 may be used by <ref target="1002-2-l" reftype="term">creditors</ref> without violating this part. <ref target="1002-2-l" reftype="term">Creditors</ref> that are governed by the monitoring requirements of this part (which limits collection to <ref target="1002-2-f" reftype="term">applications</ref> primarily for the purchase or refinancing of the <ref target="1002-2-e" reftype="term">applicant</ref>'s principal residence) should delete, strike, or modify the data-collection section on the form when using it for transactions not covered by § 1002.13(a) to ensure that they do not collect the information. <ref target="1002-2-l" reftype="term">Creditors</ref> that are subject to more extensive collection requirements by a substitute monitoring program under § 1002.13(d) or by the Home Mortgage Disclosure Act (HMDA) may use the form as issued, in compliance with the substitute program or HMDA.</content>
           </interpParagraph>
           <interpParagraph label="1002-B-Interp-2" marker="2.">
             <title type="keyterm">FHLMC/FNMA form—home improvement loan application.</title>
-            <content><ref target="1002-2-f" reftype="term">application</ref>. The home-improvement and energy loan <ref target="1002-2-f" reftype="term">application</ref> form (FHLMC 703/FNMA 1012), prepared by the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association and dated October 1986, complies with the requirements of the regulation for some <ref target="1002-2-l" reftype="term">creditors</ref> but not others because of the form's section “Information for Government Monitoring Purposes.” <ref target="1002-2-l" reftype="term">Creditors</ref> that are governed by § 1002.13(a) of the regulation (which limits collection to <ref target="1002-2-f" reftype="term">applications</ref> primarily for the purchase or refinancing of the <ref target="1002-2-e" reftype="term">applicant</ref>'s principal residence) should delete, strike, or modify the data-collection section on the form when using it for transactions not covered by § 1002.13(a) to ensure that they do not collect the information. <ref target="1002-2-l" reftype="term">Creditors</ref> that are subject to more extensive collection requirements by a substitute monitoring program under § 1002.13(d) may use the form as issued, in compliance with that substitute program.</content>
+            <content>The home-improvement and energy loan <ref target="1002-2-f" reftype="term">application</ref> form (FHLMC 703/FNMA 1012), prepared by the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association and dated October 1986, complies with the requirements of the regulation for some <ref target="1002-2-l" reftype="term">creditors</ref> but not others because of the form's section “Information for Government Monitoring Purposes.” <ref target="1002-2-l" reftype="term">Creditors</ref> that are governed by § 1002.13(a) of the regulation (which limits collection to <ref target="1002-2-f" reftype="term">applications</ref> primarily for the purchase or refinancing of the <ref target="1002-2-e" reftype="term">applicant</ref>'s principal residence) should delete, strike, or modify the data-collection section on the form when using it for transactions not covered by § 1002.13(a) to ensure that they do not collect the information. <ref target="1002-2-l" reftype="term">Creditors</ref> that are subject to more extensive collection requirements by a substitute monitoring program under § 1002.13(d) may use the form as issued, in compliance with that substitute program.</content>
           </interpParagraph>
         </interpSection>
         <interpSection label="1002-C-Interp" target="1002-C">
