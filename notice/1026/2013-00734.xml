@@ -258,9 +258,9 @@
   </change>
   <change operation="modified" label="1026-35-Interp">
     <interpSection label="1026-35-Interp" sectionNum="35">
-      <title>§ 1026.35—Requirements for Higher-Priced Mortgage Loans</title>
+      <title>§ 1026.35—Requirements for Higher-Priced Mortgage Loans.</title>
       <interpParagraph label="1026-35-a-Interp">
-        <title>35(a) Higher-Priced Mortgage Loans</title>
+        <title>35(a) Higher-Priced Mortgage Loans.</title>
         <content/>
         <interpParagraph target="1026-35-a-1" label="1026-35-a-1-Interp">
           <title>Paragraph 35(a)(1).</title>
@@ -279,7 +279,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-35-a-2-Interp" target="1026-35-a-2">
-          <title>Paragraph 35(a)(2)</title>
+          <title>Paragraph 35(a)(2).</title>
           <content/>
           <interpParagraph label="1026-35-a-2-Interp-1" marker="1.">
             <title type="keyterm">Average prime offer rate.</title>

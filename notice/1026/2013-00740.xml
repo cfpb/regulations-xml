@@ -200,19 +200,19 @@
   <!-- Section 1026.32: Add paragraphs (b)(2), (b)(3)(ii), (b)(4)(ii), and (b)(6)(ii); -->
   <change operation="modified" label="1026-32-b-3-ii">
     <paragraph label="1026-32-b-3-ii" marker="(ii)">
-      <title>Open-end credit</title>
+      <title>Open-end credit.</title>
       <content>The term <ref target="1026-32-b-3-i" reftype="term">bona fide discount point</ref> means an amount equal to 1 percent of the <ref target="1026-2-a-14" reftype="term">credit</ref> limit for the plan when the account is opened, paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>, and that reduces the interest rate or time-price differential applicable to the transaction based on a calculation that is consistent with established industry practices for determining the amount of reduction in the interest rate or time-price differential appropriate for the amount of discount points paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref>. See comment 32(b)(3)(i)-1 for additional guidance in determining whether a discount point is bona fide.</content></paragraph>
   </change>
   <!-- Section 1026.32: Add paragraphs (b)(2), (b)(3)(ii), (b)(4)(ii), and (b)(6)(ii); -->
   <change operation="modified" label="1026-32-b-4-ii">
     <paragraph label="1026-32-b-4-ii" marker="(ii)">
-      <title>Open-end credit</title>
+      <title>Open-end credit.</title>
       <content>The total <ref target="1026-43-b-5" reftype="term">loan amount</ref> for an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan is the <ref target="1026-2-a-14" reftype="term">credit</ref> limit for the plan when the account is opened.</content></paragraph>
   </change>
   <!-- Section 1026.32: Add paragraphs (b)(2), (b)(3)(ii), (b)(4)(ii), and (b)(6)(ii); -->
   <change operation="modified" label="1026-32-b-6-ii">
     <paragraph label="1026-32-b-6-ii" marker="(ii)">
-      <title>Open-end credit</title>
+      <title>Open-end credit.</title>
       <content>For an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> means a charge imposed by the <ref target="1026-2-a-17" reftype="term">creditor</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan prior to the end of its term, other than a waived bona fide third-party charge that the <ref target="1026-2-a-17" reftype="term">creditor</ref> imposes if the <ref target="1026-2-a-11" reftype="term">consumer</ref> terminates the <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan sooner than 36 months after account opening.</content></paragraph>
   </change>
   <!-- Section 1026.32: Revise paragraphs (c)(3) through (5) -->
@@ -552,15 +552,15 @@
   <!-- 32(a)(3) Determination of annual percentage rate and paragraphs 1, 2, 3, 4, and 5 are added. -->
   <change operation="modified" label="1026-32-a-Interp">
     <interpParagraph label="1026-32-a-Interp">
-      <title>32(a) Coverage</title>
+      <title>32(a) Coverage.</title>
       <content/>
       <interpParagraph label="1026-32-a-1-Interp" target="1026-32-a-1">
-        <title>Paragraph 32(a)(1)</title>
+        <title>Paragraph 32(a)(1).</title>
         <content/>
         <interpParagraph label="1026-32-a-1-Interp-1" marker="1.">
           <content>The term high-cost mortgage includes both a <ref target="1026-2-a-10" reftype="term">closed-end credit</ref> transaction and an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>. For purposes of determining coverage under § <ref target="1026-32" reftype="internal">1026.32</ref>, an open-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction is the account opening of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan. An advance of funds or a draw on the <ref target="1026-2-a-14" reftype="term">credit</ref> line under an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan subsequent to account opening does not constitute an open-end “transaction.”</content></interpParagraph>
         <interpParagraph label="1026-32-a-1-i-Interp" target="1026-32-a-1-i">
-          <title>Paragraph 32(a)(1)(i)</title>
+          <title>Paragraph 32(a)(1)(i).</title>
           <content/>
           <interpParagraph label="1026-32-a-1-i-Interp-1" marker="1.">
             <title type="keyterm">Average prime offer rate.</title>
@@ -573,14 +573,14 @@
             <content>Comment 35(a)(1)-2 provides guidance for determining the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> in effect on the date that the interest rate for the transaction is set.</content></interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-32-a-1-i-B-Interp" target="1026-32-a-1-i-B">
-          <title>Paragraph 32(a)(1)(i)(B)</title>
+          <title>Paragraph 32(a)(1)(i)(B).</title>
           <content/>
           <interpParagraph label="1026-32-a-1-i-B-Interp-1" marker="1.">
             <title>Loan amount less than $50,000.</title>
             <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine whether to apply the APR threshold in § <ref target="1026-32-a-1-i-B" reftype="internal">1026.32(a)(1)(i)(B)</ref> based on the <ref target="1026-43-b-5" reftype="term">loan amount</ref>, which is the face amount of the note.</content></interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-32-a-1-ii-Interp" target="1026-32-a-1-ii">
-          <title>Paragraph 32(a)(1)(ii)</title>
+          <title>Paragraph 32(a)(1)(ii).</title>
           <content/>
           <interpParagraph label="1026-32-a-1-ii-Interp-1" marker="1.">
             <title type="keyterm">Annual adjustment of $1,000.</title>
@@ -651,7 +651,7 @@
             <content>For purposes of § <ref target="1026-32-a-1-ii" reftype="internal">1026.32(a)(1)(ii)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> must determine the applicable <ref target="1026-32-b-1" reftype="term">points and fees</ref> threshold based on the face amount of the note (or, in the case of an <ref target="1026-2-a-20" reftype="term">open-end credit</ref> plan, the <ref target="1026-2-a-14" reftype="term">credit</ref> limit for the plan when the account is opened). However, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must apply the allowable <ref target="1026-32-b-1" reftype="term">points and fees</ref> percentage to the “total <ref target="1026-43-b-5" reftype="term">loan amount</ref>,” as defined in § <ref target="1026-32-b-4" reftype="internal">1026.32(b)(4)</ref>. For <ref target="1026-2-a-10" reftype="term">closed-end credit</ref> transactions, the total <ref target="1026-43-b-5" reftype="term">loan amount</ref> may be different than the face amount of the note. The $20,000 amount in § <ref target="1026-32-a-1-ii-A" reftype="internal">1026.32(a)(1)(ii)(A)</ref> and (B) is adjusted annually on January 1 by the annual percentage change in the CPI that was in effect on the preceding June 1.</content></interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-32-a-1-iii-Interp" target="1026-32-a-1-iii">
-          <title>Paragraph 32(a)(1)(iii)</title>
+          <title>Paragraph 32(a)(1)(iii).</title>
           <content/>
           <interpParagraph label="1026-32-a-1-iii-Interp-1" marker="1.">
             <title>Maximum period and amount.</title>
@@ -670,7 +670,7 @@
         </interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-32-a-2-Interp" target="1026-32-a-2">
-        <title>32(a)(2) Exemptions</title>
+        <title>32(a)(2) Exemptions.</title>
         <content/>
         <interpParagraph label="1026-32-a-2-Interp-1" marker="1.">
           <title type="keyterm">Exemption limited.</title>
@@ -678,14 +678,14 @@
         </interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-32-a-2-ii-Interp" target="1026-32-a-2-ii">
-        <title>Paragraph 32(a)(2)(ii)</title>
+        <title>Paragraph 32(a)(2)(ii).</title>
         <content/>
         <interpParagraph label="1026-32-a-2-ii-Interp-1" marker="ii.">
           <title>Construction-permanent loans.</title>
           <content>Section 1026.32 does not apply to a transaction to finance the initial construction of a <ref target="1026-2-a-19" reftype="term">dwelling</ref>. This exemption applies to a construction-only loan as well as to the construction phase of a construction-to-permanent loan. Section 1026.32 may apply, however, to permanent financing that replaces a construction loan, whether the permanent financing is extended by the same or a different <ref target="1026-2-a-17" reftype="term">creditor</ref>. When a construction loan may be permanently financed by the same <ref target="1026-2-a-17" reftype="term">creditor</ref>, § <ref target="1026-17-c-6-ii" reftype="internal">1026.17(c)(6)(ii)</ref> permits the <ref target="1026-2-a-17" reftype="term">creditor</ref> to give either one combined disclosure for both the construction financing and the permanent financing, or a separate set of disclosures for each of the two phases as though they were two separate transactions. See also comment 17(c)(6)-2. Section <ref target="1026-17-c-6-ii" reftype="internal">1026.17(c)(6)(ii)</ref> addresses only how a <ref target="1026-2-a-17" reftype="term">creditor</ref> may elect to disclose a construction to permanent transaction. Which disclosure option a <ref target="1026-2-a-17" reftype="term">creditor</ref> elects under § <ref target="1026-17-c-6-ii" reftype="internal">1026.17(c)(6)(ii)</ref> does not affect the determination of whether the permanent phase of the transaction is subject to § <ref target="1026-32" reftype="internal">1026.32</ref>. When the <ref target="1026-2-a-17" reftype="term">creditor</ref> discloses the two phases as separate transactions, the annual percentage rate for the permanent phase must be compared to the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a transaction that is comparable to the permanent financing to determine coverage under § <ref target="1026-32" reftype="internal">1026.32</ref>. Likewise, a single amount of <ref target="1026-32-b-1" reftype="term">points and fees</ref>, also reflecting the appropriate charges from the permanent phase, must be calculated and compared with the total <ref target="1026-43-b-5" reftype="term">loan amount</ref> to determine coverage under § <ref target="1026-32" reftype="internal">1026.32</ref>. When the <ref target="1026-2-a-17" reftype="term">creditor</ref> discloses the two phases as a single transaction, a single annual percentage rate, reflecting the appropriate charges from both phases, must be calculated for the transaction in accordance with § <ref target="1026-32-a-3" reftype="internal">1026.32(a)(3)</ref> and appendix D to part 1026. This annual percentage rate must be compared to the <ref target="1026-35-a-2" reftype="term">average prime offer rate</ref> for a transaction that is comparable to the permanent financing to determine coverage under § <ref target="1026-32" reftype="internal">1026.32</ref>. Likewise, a single amount of <ref target="1026-32-b-1" reftype="term">points and fees</ref>, also reflecting the appropriate charges from both phases of the transaction, must be calculated and compared with the total <ref target="1026-43-b-5" reftype="term">loan amount</ref> to determine coverage under § <ref target="1026-32" reftype="internal">1026.32</ref>. If the transaction is determined to be a high-cost mortgage, only the permanent phase is subject to the requirements of §§ <ref target="1026-32" reftype="internal">1026.32</ref> and <ref target="1026-34" reftype="internal">1026.34</ref>.</content></interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-32-a-2-iii-Interp" target="1026-32-a-2-iii">
-        <title>Paragraph 32(a)(2)(iii)</title>
+        <title>Paragraph 32(a)(2)(iii).</title>
         <content/>
         <interpParagraph label="1026-32-a-2-iii-Interp-1" marker="iii.">
           <title>Housing Finance Agency.</title>
@@ -744,14 +744,14 @@
       <title/>
       <content/>
       <interpParagraph label="1026-32-b-2-i-Interp" target="1026-32-b-2-i">
-        <title>Paragraph 32(b)(2)(i)</title>
+        <title>Paragraph 32(b)(2)(i).</title>
         <content/>
         <interpParagraph label="1026-32-b-2-i-Interp-1" marker="1.">
           <title>Finance charge.</title>
           <content> The <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation under § <ref target="1026-32-b-2" reftype="internal">1026.32(b)(2)</ref> generally does not include items that are included in the finance charge but that are not known until after account opening, such as minimum monthly finance charges or charges based on account activity or inactivity. Transaction fees also generally are not included in the <ref target="1026-32-b-1" reftype="term">points and fees</ref> calculation, except as provided in § <ref target="1026-32-b-2-vi" reftype="internal">1026.32(b)(2)(vi)</ref>. See comments 32(b)(1)-1 and 32(b)(1)(i)-1 and -2 for additional guidance concerning the calculation of <ref target="1026-32-b-1" reftype="term">points and fees</ref>.</content>
         </interpParagraph>
         <interpParagraph label="1026-32-b-2-i-B-Interp" target="1026-32-b-2-i-B">
-          <title>Paragraph 32(b)(2)(i)(B)</title>
+          <title>Paragraph 32(b)(2)(i)(B).</title>
           <content/>
           <interpParagraph label="1026-32-b-2-i-B-Interp-1" marker="1.">
             <title/>
@@ -766,7 +766,7 @@
             <content>See comment 32(b)(1)(i)(C)-1 and -2 for further guidance concerning the exclusion of mortgage insurance premiums payable for any guaranty or insurance that protects the <ref target="1026-2-a-17" reftype="term">creditor</ref> against the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or other <ref target="1026-2-a-14" reftype="term">credit</ref> loss and that is not in connection with any Federal or <ref target="1026-42-g-3" reftype="term">State agency</ref> program.</content></interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-32-b-2-i-D-Interp" target="1026-32-b-2-i-D">
-          <title>Paragraph 32(b)(2)(i)(D)</title>
+          <title>Paragraph 32(b)(2)(i)(D).</title>
           <content/>
           <interpParagraph label="1026-32-b-2-i-D-Interp-1" marker="1.">
             <title/>
@@ -864,7 +864,7 @@
   Under 32(c)(4) Variable rate, paragraph 1 is revised. -->
   <change operation="modified" label="1026-32-c-Interp">
     <interpParagraph label="1026-32-c-Interp" target="1026-32-c">
-      <title>32(c) Disclosures</title>
+      <title>32(c) Disclosures.</title>
       <content/>
       <interpParagraph label="1026-32-c-Interp-1" marker="1.">
         <title type="keyterm">Format.</title>
@@ -885,7 +885,7 @@
           <content>Except as provided in § <ref target="1026-32-d-1-ii" reftype="internal">1026.32(d)(1)(ii)</ref> and <ref target="1026-32-d-1-iii" reftype="internal">(iii)</ref>, a mortgage transaction subject to this section may not include a payment schedule that results in a balloon payment.</content></interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-32-c-3-i-Interp" target="1026-32-c-3-i">
-        <title>Paragraph 32(c)(3)(i)</title>
+        <title>Paragraph 32(c)(3)(i).</title>
         <content/>
         <interpParagraph label="1026-32-c-3-i-Interp-1" marker="1.">
           <title>General.</title>
@@ -905,7 +905,7 @@
         </interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-32-c-4-Interp" target="1026-32-c-4">
-        <title>32(c)(4) Variable-Rate</title>
+        <title>32(c)(4) Variable-Rate.</title>
         <content/>
         <interpParagraph label="1026-32-c-4-Interp-1" marker="1.">
           <title type="keyterm">Calculating “worst-case” payment example.</title>
@@ -920,7 +920,7 @@
         </interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-32-c-5-Interp" target="1026-32-c-5">
-        <title>32(c)(5) Amount Borrowed</title>
+        <title>32(c)(5) Amount Borrowed.</title>
         <content/>
         <interpParagraph label="1026-32-c-5-Interp-1" marker="1.">
           <title type="keyterm">Optional insurance; debt-cancellation coverage.</title>
@@ -976,14 +976,14 @@
           <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may terminate a loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> and accelerate the balance if there has been fraud or material misrepresentation by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in connection with the loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref>. What constitutes fraud or misrepresentation is determined by applicable State law and may include acts of omission as well as overt acts, as long as any necessary intent on the part of the <ref target="1026-2-a-11" reftype="term">consumer</ref> exists.</content></interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-32-d-8-ii-Interp" target="1026-32-d-8-ii">
-        <title>Paragraph 32(d)(8)(ii)</title>
+        <title>Paragraph 32(d)(8)(ii).</title>
         <content/>
         <interpParagraph label="1026-32-d-8-ii-Interp-1" marker="1.">
           <title type="keyterm">Failure to meet repayment terms.</title>
           <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may terminate a loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> and accelerate the balance when the <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to meet the repayment terms resulting in a default in payment under the <ref target="1026-58-b-1" reftype="term">agreement</ref>; a <ref target="1026-2-a-17" reftype="term">creditor</ref> may do so, however, only if the <ref target="1026-2-a-11" reftype="term">consumer</ref> actually fails to make payments resulting in a default in the <ref target="1026-58-b-1" reftype="term">agreement</ref>. For example, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may not terminate and accelerate if the <ref target="1026-2-a-11" reftype="term">consumer</ref>, in error, sends a payment to the wrong location, such as a branch rather than the main office of the <ref target="1026-2-a-17" reftype="term">creditor</ref>. If a <ref target="1026-2-a-11" reftype="term">consumer</ref> files for or is placed in bankruptcy, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may terminate and accelerate under § <ref target="1026-32-d-8-i" reftype="internal">1026.32(d)(8)(i)</ref> if the <ref target="1026-2-a-11" reftype="term">consumer</ref> fails to meet the repayment terms resulting in a default of the <ref target="1026-58-b-1" reftype="term">agreement</ref>. Section <ref target="1026-32-d-8-i" reftype="internal">1026.32(d)(8)(i)</ref> does not override any State or other law that requires a <ref target="1026-2-a-17" reftype="term">creditor</ref> to notify a <ref target="1026-2-a-11" reftype="term">consumer</ref> of a right to cure, or otherwise places a duty on the <ref target="1026-2-a-17" reftype="term">creditor</ref> before it can terminate a loan or <ref target="1026-2-a-20" reftype="term">open-end credit</ref> <ref target="1026-58-b-1" reftype="term">agreement</ref> and accelerate the balance.</content></interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-32-d-8-iii-Interp" target="1026-32-d-8-iii">
-        <title>Paragraph 32(d)(8)(iii)</title>
+        <title>Paragraph 32(d)(8)(iii).</title>
         <content/>
         <interpParagraph label="1026-32-d-8-iii-Interp-1" marker="1.">
           <title type="keyterm">Impairment of security.</title>
@@ -1028,7 +1028,7 @@
   Under Paragraph 34(a)(4)(iii)(B), paragraph 1 is revised. -->
   <change operation="modified" label="1026-34-a-4-Interp">
     <interpParagraph label="1026-34-a-4-Interp" target="1026-34-a-4">
-      <title>34(a)(4) Repayment ability for high-cost mortgages</title>
+      <title>34(a)(4) Repayment ability for high-cost mortgages.</title>
       <content/>
       <interpParagraph label="1026-34-a-4-Interp-1" marker="1.">
         <title type="keyterm">Application of repayment ability rule.</title>
@@ -1054,7 +1054,7 @@
         <content>Section <ref target="1026-34-a-4" reftype="internal">1026.34(a)(4)</ref> does not require or permit the <ref target="1026-2-a-17" reftype="term">creditor</ref> to make inquiries or verifications that would be prohibited by Regulation B, <ref target="CFR:12-1002" reftype="external">12 CFR part 1002</ref>.</content>
       </interpParagraph>
       <interpParagraph label="1026-34-a-4-i-Interp" target="1026-34-a-4-i">
-        <title>34(a)(4)(i) Mortgage-Related Obligations</title>
+        <title>34(a)(4)(i) Mortgage-Related Obligations.</title>
         <content/>
         <interpParagraph label="1026-34-a-4-i-Interp-1" marker="1.">
           <title type="keyterm">Mortgage-related obligations.</title>
@@ -1062,7 +1062,7 @@
         </interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-34-a-4-ii-Interp" target="1026-34-a-4-ii">
-        <title>34(a)(4)(ii) Verification of Repayment Ability</title>
+        <title>34(a)(4)(ii) Verification of Repayment Ability.</title>
         <content/>
         <interpParagraph label="1026-34-a-4-ii-Interp-1" marker="1.">
           <title type="keyterm">Income and assets relied on.</title>
@@ -1077,7 +1077,7 @@
           <content>If a <ref target="1026-2-a-17" reftype="term">creditor</ref> relies on expected income, the expectation must be reasonable and it must be verified with third-party documents that provide reasonably reliable evidence of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s expected income. For example, if the <ref target="1026-2-a-17" reftype="term">creditor</ref> relies on an expectation that a <ref target="1026-2-a-11" reftype="term">consumer</ref> will receive an annual bonus, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may verify the basis for that expectation with documents that show the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s past annual bonuses and the expected bonus must bear a reasonable relationship to past bonuses. Similarly, if the <ref target="1026-2-a-17" reftype="term">creditor</ref> relies on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s expected salary following the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s receipt of an educational degree, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may verify that expectation with a written statement from an employer indicating that the <ref target="1026-2-a-11" reftype="term">consumer</ref> will be employed upon graduation at a specified salary.</content>
         </interpParagraph>
         <interpParagraph label="1026-34-a-4-ii-A-Interp" target="1026-34-a-4-ii-A">
-          <title>Paragraph 34(a)(4)(ii)(A)</title>
+          <title>Paragraph 34(a)(4)(ii)(A).</title>
           <content/>
           <interpParagraph label="1026-34-a-4-ii-A-Interp-1" marker="1.">
             <title type="keyterm">Internal Revenue Service (IRS) Form W-2.</title>
@@ -1101,14 +1101,14 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-34-a-4-ii-B-Interp" target="1026-34-a-4-ii-B">
-          <title>Paragraph 34(a)(4)(ii)(B)</title>
+          <title>Paragraph 34(a)(4)(ii)(B).</title>
           <content/>
           <interpParagraph label="1026-34-a-4-ii-B-Interp-1" marker="1.">
             <title type="keyterm">In general.</title>
             <content>A <ref target="1026-2-a-14" reftype="term">credit</ref> report may be used to verify current obligations. A <ref target="1026-2-a-14" reftype="term">credit</ref> report, however, might not reflect an obligation that a <ref target="1026-2-a-11" reftype="term">consumer</ref> has listed on an application. The <ref target="1026-2-a-17" reftype="term">creditor</ref> is responsible for considering such an obligation, but the <ref target="1026-2-a-17" reftype="term">creditor</ref> is not required to independently verify the obligation. Similarly, a <ref target="1026-2-a-17" reftype="term">creditor</ref> is responsible for considering certain obligations undertaken just before or at account opening and secured by the same <ref target="1026-2-a-19" reftype="term">dwelling</ref> that secures the transaction (for example, a “piggy back” loan), of which the <ref target="1026-2-a-17" reftype="term">creditor</ref> knows, even if not reflected on a <ref target="1026-2-a-14" reftype="term">credit</ref> report. See comment 34(a)(4)-3.</content></interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-34-a-4-ii-C-Interp" target="1026-34-a-4-ii-C">
-          <title>Paragraph 34(a)(4)(ii)(C)</title>
+          <title>Paragraph 34(a)(4)(ii)(C).</title>
           <content/>
           <interpParagraph label="1026-34-a-4-ii-C-Interp-1" marker="1.">
             <title type="keyterm">In general.</title>
@@ -1116,13 +1116,13 @@
         </interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-34-a-4-iii-Interp" target="1026-34-a-4-iii">
-        <title>34(a)(4)(iii) Presumption of Compliance</title>
+        <title>34(a)(4)(iii) Presumption of Compliance.</title>
         <content/>
         <interpParagraph label="1026-34-a-4-iii-Interp-1" marker="1.">
           <title type="keyterm">In general.</title>
           <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> is presumed to have complied with § <ref target="1026-34-a-4" reftype="internal">1026.34(a)(4)</ref> if the <ref target="1026-2-a-17" reftype="term">creditor</ref> follows the three underwriting procedures specified in paragraph 34(a)(4)(iii) for verifying repayment ability, determining the payment obligation, and measuring the relationship of obligations to income. The procedures for verifying repayment ability are required under § <ref target="1026-34-a-4-ii" reftype="internal">1026.34(a)(4)(ii)</ref>; the other procedures are not required but, if followed along with the required procedures, create a presumption that the <ref target="1026-2-a-17" reftype="term">creditor</ref> has complied with § <ref target="1026-34-a-4" reftype="internal">1026.34(a)(4)</ref>. The <ref target="1026-2-a-11" reftype="term">consumer</ref> may rebut the presumption with evidence that the <ref target="1026-2-a-17" reftype="term">creditor</ref> nonetheless disregarded repayment ability despite following these procedures. For example, evidence of a very high debt-to-income ratio and a very limited residual income could be sufficient to rebut the presumption, depending on all of the facts and circumstances. If a <ref target="1026-2-a-17" reftype="term">creditor</ref> fails to follow one of the non-required procedures set forth in § <ref target="1026-34-a-4-iii" reftype="internal">1026.34(a)(4)(iii)</ref>, then the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s compliance is determined based on all of the facts and circumstances without there being a presumption of either compliance or violation.</content></interpParagraph>
         <interpParagraph label="1026-34-a-4-iii-B-Interp" target="1026-34-a-4-iii-B">
-          <title>Paragraph 34(a)(4)(iii)(B)</title>
+          <title>Paragraph 34(a)(4)(iii)(B).</title>
           <content/>
           <interpParagraph label="1026-34-a-4-iii-B-Interp-1" marker="1.">
             <title type="keyterm">Determination of payment schedule.</title>
@@ -1150,7 +1150,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-34-a-4-iii-C-Interp" target="1026-34-a-4-iii-C">
-          <title>Paragraph 34(a)(4)(iii)(C)</title>
+          <title>Paragraph 34(a)(4)(iii)(C).</title>
           <content/>
           <interpParagraph label="1026-34-a-4-iii-C-Interp-1" marker="1.">
             <title type="keyterm">“Income” and “debt”.</title>
@@ -1159,7 +1159,7 @@
         </interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-34-a-4-iv-Interp" target="1026-34-a-4-iv">
-        <title>34(a)(4)(iv) Exclusions From Presumption of Compliance</title>
+        <title>34(a)(4)(iv) Exclusions From Presumption of Compliance.</title>
         <content/>
         <interpParagraph label="1026-34-a-4-iv-Interp-1" marker="1.">
           <title type="keyterm">In general.</title>

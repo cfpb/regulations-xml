@@ -878,7 +878,7 @@
       <title/>
       <content/>
       <interpParagraph label="1026-43-a-3-v-D-Interp">
-        <title>Paragraph 43(a)(3)(v)(D)</title>
+        <title>Paragraph 43(a)(3)(v)(D).</title>
         <content/>
         <interpParagraph label="1026-43-a-3-v-D-Interp-1" marker="1.">
           <title type="keyterm">General.</title>
@@ -898,7 +898,7 @@
   </change><!-- Paragraph 43(e)(5) and paragraphs 1 through 10 are added. -->
   <change operation="added" label="1026-43-e-5-Interp" parent="1026-43-e-Interp" after="1026-43-e-4-Interp">
     <interpParagraph label="1026-43-e-5-Interp" target="1026-43-e-5">
-      <title>Paragraph 43(e)(5)</title>
+      <title>Paragraph 43(e)(5).</title>
       <content/>
       <interpParagraph label="1026-43-e-5-Interp-1" marker="1.">
         <title type="keyterm">Satisfaction of qualified mortgage requirements.</title>

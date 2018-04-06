@@ -869,7 +869,7 @@
             <content>[a larger amount due at maturity.]</content>
           </paragraph>
           <paragraph label="1026-H-4(A)-h1" marker="">
-            <title>Example based on the specific transaction</title>
+            <title>Example based on the specific transaction.</title>
             <content/>
             <paragraph label="1026-H-4(A)-h1-p22" marker="">
               <content>[If the interest rate increases by ___________% in      (time period),</content>
@@ -885,7 +885,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-H-4(A)-h2" marker="">
-            <title>Example based on a typical transaction</title>
+            <title>Example based on a typical transaction.</title>
             <content/>
             <paragraph label="1026-H-4(A)-h2-p26" marker="">
               <content>[If your load were for $___________ at ___________% for     (term)      and the rate increased to ___________% in      (time period),</content>
@@ -936,7 +936,7 @@
             <content>—[The initial interest rate is not based on the (index) (formula) used to make later adjustments. Ask us for the amount of current interest rate discounts.]</content>
           </paragraph>
           <paragraph label="1026-H-4(C)-h3" marker="">
-            <title>How Your Interest Rate Can Change</title>
+            <title>How Your Interest Rate Can Change.</title>
             <content/>
             <paragraph label="1026-H-4(C)-h3-p39" marker="">
               <content>• Your interest rate can change (frequency).</content>
@@ -948,7 +948,7 @@
               <content>• Your interest rate cannot increase [or decrease] more than __ percentage points over the term of the loan.</content>
             </paragraph>
             <paragraph label="1026-H-4(C)-h3-h4" marker="">
-              <title>How Your Payment Can Change</title>
+              <title>How Your Payment Can Change.</title>
               <content/>
               <paragraph label="1026-H-4(C)-h3-h4-p42" marker="">
                 <content>• Your payment can change (frequency) based on changes in the interest rate.</content>
@@ -1168,11 +1168,11 @@
         <appendixSection appendixSecNum="22" label="1026-H-9">
           <subject>H-9—Rescission Model Form (Refinancing With Original Creditor)</subject>
           <paragraph label="1026-H-9-h5" marker="">
-            <title>NOTICE OF RIGHT TO CANCEL</title>
+            <title>NOTICE OF RIGHT TO CANCEL.</title>
             <content/>
           </paragraph>
           <paragraph label="1026-H-9-h6" marker="">
-            <title>Your Right To Cancel</title>
+            <title>Your Right To Cancel.</title>
             <content/>
             <paragraph label="1026-H-9-h6-p75" marker="">
               <content>You are entering into a new transaction to increase the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> previously provided to you. Your home is the security for this new transaction. You have a legal right under Federal law to cancel this new transaction, without cost, within three <ref target="1026-2-a-6" reftype="term">business days</ref> from whichever of the following events occurs last:</content>
@@ -1197,7 +1197,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-H-9-h7" marker="">
-            <title>How To Cancel</title>
+            <title>How To Cancel.</title>
             <content/>
             <paragraph label="1026-H-9-h7-p79" marker="">
               <content>If you decide to cancel this new transaction, you may do so by notifying us in writing, at</content>
@@ -1234,7 +1234,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-H-9-h8" marker="">
-            <title>I WISH TO CANCEL</title>
+            <title>I WISH TO CANCEL.</title>
             <content/>
             <paragraph label="1026-H-9-h8-p88" marker="">
               <content>
@@ -1307,7 +1307,7 @@
             <content>This disclosure describes the features of the <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> (ARM) program you are considering. Information on other ARM programs is available upon request.</content>
           </paragraph>
           <paragraph label="1026-H-14-h9" marker="">
-            <title>How Your Interest Rate and Payment Are Determined</title>
+            <title>How Your Interest Rate and Payment Are Determined.</title>
             <content/>
             <paragraph label="1026-H-14-h9-p95" marker="">
               <content>• Your interest rate will be based on an index rate plus a margin.</content>
@@ -1326,7 +1326,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-H-14-h10" marker="">
-            <title>How Your Interest Rate Can Change</title>
+            <title>How Your Interest Rate Can Change.</title>
             <content/>
             <paragraph label="1026-H-14-h10-p100" marker="">
               <content>• Your interest rate can change yearly.</content>
@@ -1339,7 +1339,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-H-14-h11" marker="">
-            <title>How Your Monthly Payment Can Change</title>
+            <title>How Your Monthly Payment Can Change.</title>
             <content/>
             <paragraph label="1026-H-14-h11-p103" marker="">
               <content>• Your monthly payment can increase or decrease substantially based on annual changes in the interest rate.</content>
@@ -1666,9 +1666,9 @@
     <!-- Paragraph 20(d) Initial rate adjustment is added. -->
     <change operation="modified" label="1026-20-Interp">
       <interpSection label="1026-20-Interp" sectionNum="20">
-        <title>Section 1026.20—Disclosure Requirements Regarding Post-Consummation Events</title>
+        <title>Section 1026.20 Disclosure Requirements Regarding Post-Consummation Events.</title>
         <interpParagraph label="1026-20-a-Interp" target="1026-20-a">
-          <title>20(a) Refinancings</title>
+          <title>20(a) Refinancings.</title>
           <content/>
           <interpParagraph label="1026-20-a-Interp-1" marker="1.">
             <title type="keyterm">Definition.</title>
@@ -1712,7 +1712,7 @@
             <content>Section <ref target="1026-20-a" reftype="internal">1026.20(a)</ref> applies only to refinancings undertaken by the original <ref target="1026-2-a-17" reftype="term">creditor</ref> or a holder or servicer of the original obligation. A “refinancing” by any other <ref target="1026-2-a-22" reftype="term">person</ref> is a new transaction under the regulation, not a refinancing under this section.</content>
           </interpParagraph>
           <interpParagraph label="1026-20-a-1-Interp" target="1026-20-a-1">
-            <title>Paragraph 20(a)(1)</title>
+            <title>Paragraph 20(a)(1).</title>
             <content/>
             <interpParagraph label="1026-20-a-1-Interp-1" marker="1.">
               <title type="keyterm">Renewal.</title>
@@ -1729,7 +1729,7 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-20-a-2-Interp" target="1026-20-a-2">
-            <title>Paragraph 20(a)(2)</title>
+            <title>Paragraph 20(a)(2).</title>
             <content/>
             <interpParagraph label="1026-20-a-2-Interp-1" marker="1.">
               <title type="keyterm">Annual percentage rate reduction.</title>
@@ -1741,21 +1741,21 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-20-a-3-Interp" target="1026-20-a-3">
-            <title>Paragraph 20(a)(3)</title>
+            <title>Paragraph 20(a)(3).</title>
             <content/>
             <interpParagraph label="1026-20-a-3-Interp-1" marker="1.">
               <title type="keyterm">Court agreements.</title>
               <content>This exception includes, for example, <ref target="1026-58-b-1" reftype="term">agreements</ref> such as reaffirmations of debts discharged in bankruptcy, settlement <ref target="1026-58-b-1" reftype="term">agreements</ref>, and post-judgment <ref target="1026-58-b-1" reftype="term">agreements</ref>. (See the commentary to § <ref target="1026-2-a-14-Interp" reftype="internal">1026.2(a)(14)</ref> for a discussion of court-approved <ref target="1026-58-b-1" reftype="term">agreements</ref> that are not considered “<ref target="1026-2-a-14" reftype="term">credit</ref>.”)</content></interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-20-a-4-Interp" target="1026-20-a-4">
-            <title>Paragraph 20(a)(4)</title>
+            <title>Paragraph 20(a)(4).</title>
             <content/>
             <interpParagraph label="1026-20-a-4-Interp-1" marker="1.">
               <title type="keyterm">Workout agreements.</title>
               <content>A workout <ref target="1026-58-b-1" reftype="term">agreement</ref> is not a refinancing unless the annual percentage rate is increased or additional <ref target="1026-2-a-14" reftype="term">credit</ref> is advanced beyond amounts already accrued plus insurance premiums.</content></interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-20-a-5-Interp" target="1026-20-a-5">
-            <title>Paragraph 20(a)(5)</title>
+            <title>Paragraph 20(a)(5).</title>
             <content/>
             <interpParagraph label="1026-20-a-5-Interp-1" marker="1.">
               <title type="keyterm">Insurance renewal.</title>
@@ -1764,7 +1764,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-20-b-Interp" target="1026-20-b">
-          <title>20(b) Assumptions</title>
+          <title>20(b) Assumptions.</title>
           <content/>
           <interpParagraph label="1026-20-b-Interp-1" marker="1.">
             <title type="keyterm">General definition.</title>
@@ -2141,7 +2141,7 @@
     <!-- Section 1026.41—Periodic Statements for Residential Mortgage Loans is added. -->
     <change operation="added" label="1026-41-Interp">
       <interpSection label="1026-41-Interp" sectionNum="41">
-        <title>Section 1026.41—Periodic Statements for Residential Mortgage Loans</title>
+        <title>Section 1026.41 Periodic Statements for Residential Mortgage Loans.</title>
         <interpParagraph label="1026-41-a-Interp" target="1026-41-a">
           <title>41(a) In general.</title>
           <content/>
@@ -2340,7 +2340,7 @@
   </changeset>
   <analysis>
     <analysisSection target="1026-20" notice="2013-01241" date="2014-01-10">
-      <title>Section 1026.20 Subsequent Disclosure Requirements</title>
+      <title>Section 1026.20 Subsequent Disclosure Requirements.</title>
       <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed a new § 226.20(d) to implement the disclosure requirements of TILA sections 129D(j)(1)(B) and 129D(j)(2), as enacted by section 1462 of the Dodd-Frank Act. TILA section 129D(j)(1)(B) requires a creditor or servicer to provide the disclosures set forth in TILA section 129D(j)(2) when a consumer requests closure of an escrow account that was established in connection with a transaction secured by real property. Proposed § 226.20(d) would have directed the creditor or servicer to disclose the information about escrow accounts in accordance with certain format and timing requirements. As previously noted, the Bureau has delayed the implementation of certain disclosure requirements contained in title XIV of the Dodd-Frank Act, including those contained in sections 1461 and 1462. See 77 FR 70105 (Nov. 23, 2012). Consequently, the Bureau will not be adopting a new § 1026.20(d) in this rule.</analysisParagraph>
     </analysisSection>
   </analysis>

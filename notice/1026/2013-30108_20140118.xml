@@ -22,7 +22,7 @@
   <!-- Changes include 1026.35 and Appendix N -->
   <!-- Revise the paragraph (c) subject heading and paragraphs (c)(1)(ii) through (iv); -->
   <change operation="modified" label="1026-35-c" subpath="title">
-    <title>Appraisals</title>
+    <title>Appraisals.</title>
   </change><!-- the below change is to relabel an old reference to "state agency" with its new target -->
   <change operation="modified" label="1026-35-c-1-i">
     <paragraph label="1026-35-c-1-i" marker="(i)">
@@ -124,7 +124,7 @@
   </change><!-- A 35(c)(2)(i) entry is added. -->
   <change operation="added" label="1026-35-c-2-i-Interp" before="1026-35-c-2-ii-Interp">
     <interpParagraph label="1026-35-c-2-i-Interp" target="1026-35-c-2-i">
-      <title>Paragraph 35(c)(2)(i)</title>
+      <title>Paragraph 35(c)(2)(i).</title>
       <content/>
       <interpParagraph label="1026-35-c-2-i-Interp-1" marker="1.">
         <title type="keyterm">Qualified mortgage criteria.</title>
@@ -140,7 +140,7 @@
   </change><!-- The 35(c)(2)(ii) entry is revised. -->
   <change operation="modified" label="1026-35-c-2-ii-Interp" after="1026-35-c-2-i-Interp">
     <interpParagraph label="1026-35-c-2-ii-Interp" target="1026-35-c-2-ii">
-      <title>Paragraph 35(c)(2)(ii)</title>
+      <title>Paragraph 35(c)(2)(ii).</title>
       <content/>
       <interpParagraph label="1026-35-c-2-ii-Interp-1" marker="1.">
         <title type="keyterm">Threshold amount.</title>
@@ -172,7 +172,7 @@
       <title/>
       <content/>
       <interpParagraph label="1026-35-c-2-vii-A-1-Interp" marker="1." target="1026-35-c-2-vii-A-1">
-        <title type="keyterm">Paragraph 35(c)(2)(vii)(A)(1)</title>
+        <title type="keyterm">Paragraph 35(c)(2)(vii)(A)(1).</title>
         <content/>
         <interpParagraph label="1026-35-c-2-vii-A-1-Interp-1" marker="1.">
           <title type="keyterm">Same credit risk holder.</title>
@@ -194,7 +194,7 @@
         </interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-35-c-2-vii-B-Interp" target="1026-35-c-2-vii-B">
-        <title type="keyterm">Paragraph 35(c)(2)(vii)(B)</title>
+        <title type="keyterm">Paragraph 35(c)(2)(vii)(B).</title>
         <content/>
         <interpParagraph label="1026-35-c-2-vii-B-Interp-1" marker="1.">
           <title type="keyterm">Regular periodic payments.</title>
@@ -202,7 +202,7 @@
         </interpParagraph>
       </interpParagraph>
       <interpParagraph label="1026-35-c-2-vii-C-Interp" target="1026-35-c-2-vii-C">
-        <title type="keyterm">Paragraph 35(c)(2)(vii)(C)</title>
+        <title type="keyterm">Paragraph 35(c)(2)(vii)(C).</title>
         <content/>
         <interpParagraph label="1026-35-c-2-vii-C-Interp-1" marker="1.">
           <title type="keyterm">Permissible use of proceeds.</title>

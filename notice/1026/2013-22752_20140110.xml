@@ -418,7 +418,7 @@
     </change>
     <!-- ii. Under Paragraph 41(d), as amended February 14, 2013, at 78 FR 10901, paragraph 3 is revised. -->
     <change operation="modified" label="1026-41-d-Interp-3" subpath="title">
-      <title>Terminology</title>
+      <title>Terminology.</title>
     </change>
     <change operation="modified" label="1026-41-d-Interp-3" subpath="content">
       <content>A servicer may use terminology other than that found on the sample periodic statements in appendix H-30, so long as the new terminology is commonly understood. For example, servicers may take into consideration regional differences in terminology and refer to the account for the collection of taxes and insurance, referred to in § <ref target="1026-41-d" reftype="internal">1026.41(d)</ref> as the “escrow account,” as an “impound account.”</content>

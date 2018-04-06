@@ -132,7 +132,7 @@
         <content>This disclosure describes the features of the <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> (ARM) program you are considering. Information on other ARM programs is available upon request.</content>
       </paragraph>
       <paragraph label="1026-H-4(C)-p32" marker="">
-        <title>How Your Interest Rate and Payment Are Determined</title>
+        <title>How Your Interest Rate and Payment Are Determined.</title>
         <content/>
         <paragraph label="1026-H-4(C)-p33" marker="">
           <content>• Your interest rate will be based on [an index plus a margin] [a formula].</content>
@@ -154,7 +154,7 @@
         </paragraph>
       </paragraph>
       <paragraph label="1026-H-4(C)-h3" marker="">
-        <title>How Your Interest Rate Can Change</title>
+        <title>How Your Interest Rate Can Change.</title>
         <content/>
         <paragraph label="1026-H-4(C)-h3-p39" marker="">
           <content>• Your interest rate can change (frequency).</content>
@@ -167,7 +167,7 @@
         </paragraph>
       </paragraph>
       <paragraph label="1026-H-4(C)-h3-h4" marker="">
-        <title>How Your Payment Can Change</title>
+        <title>How Your Payment Can Change.</title>
         <content/>
         <paragraph label="1026-H-4(C)-h3-h4-p42" marker="">
           <content>• Your payment can change (frequency) based on changes in the interest rate.</content>
@@ -186,7 +186,7 @@
         </paragraph>
       </paragraph>
       <paragraph label="1026-H-4(C)-h3-h4-p47" marker="">
-        <title>Example</title>
+        <title>Example.</title>
         <content/>
         <paragraph label="1026-H-4(C)-h3-h4-p48" marker="">
           <content>The example below shows how your payments would have changed under this ARM program based on actual changes in the index from 1982 to 1996. This does not necessarily indicate how your index will change in the future.</content>
@@ -227,7 +227,7 @@
         <content>This disclosure describes the features of the <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> (ARM) program you are considering. Information on other ARM programs is available upon request.</content>
       </paragraph>
       <paragraph label="1026-H-14-h9" marker="">
-        <title>How Your Interest Rate and Payment Are Determined</title>
+        <title>How Your Interest Rate and Payment Are Determined.</title>
         <content/>
         <paragraph label="1026-H-14-h9-p95" marker="">
           <content>• Your interest rate will be based on an index rate plus a margin.</content>
@@ -246,7 +246,7 @@
         </paragraph>
       </paragraph>
       <paragraph label="1026-H-14-h10" marker="">
-        <title>How Your Interest Rate Can Change</title>
+        <title>How Your Interest Rate Can Change.</title>
         <content/>
         <paragraph label="1026-H-14-h10-p100" marker="">
           <content>• Your interest rate can change yearly.</content>
@@ -259,7 +259,7 @@
         </paragraph>
       </paragraph>
       <paragraph label="1026-H-14-h11" marker="">
-        <title>How Your Monthly Payment Can Change</title>
+        <title>How Your Monthly Payment Can Change.</title>
         <content/>
         <paragraph label="1026-H-14-h11-p103" marker="">
           <content>• Your monthly payment can increase or decrease substantially based on annual changes in the interest rate.</content>
@@ -272,7 +272,7 @@
         </paragraph>
       </paragraph>
       <paragraph label="1026-H-14-h11-p106" marker="">
-        <title>Example</title>
+        <title>Example.</title>
         <content/>
         <paragraph label="1026-H-14-h11-p107" marker="">
           <content>The example below shows how your payments would have changed under this ARM program based on actual changes in the index from 1982 to 1996. This does not necessarily indicate how your index will change in the future. The example is based on the following assumptions:</content>
@@ -384,10 +384,10 @@
   </change>
   <change operation="added" label="1026-2-a-27-Interp" parent="1026-2-a-Interp" after="1026-2-a-25-Interp">
     <interpParagraph label="1026-2-a-27-Interp">
-      <title>Paragraph 2(a)(27)</title>
+      <title>Paragraph 2(a)(27).</title>
       <content/>
       <interpParagraph label="1026-2-a-27-i-Interp" target="1026-2-a-27-i">
-        <title>2(a)(27)(i) Successor in interest</title>
+        <title>2(a)(27)(i) Successor in interest.</title>
         <content/>
         <interpParagraph label="1026-2-a-27-i-Interp-1" marker="1.">
           <title>Joint tenants and tenants by the entirety.</title>
@@ -866,7 +866,7 @@
   </changeset>
   <analysis>
   <analysisSection target="1026-36-c-1-iii" notice="2016-18901" date="2016-10-19">
-    <title>36(c)(1)(iii) Non-Conforming Payments</title>
+    <title>36(c)(1)(iii) Non-Conforming Payments.</title>
     <analysisParagraph>Section 1026.36(c) includes requirements relating to prompt crediting of payments, pyramiding of late fees, and payoff statements. In the proposal, the Bureau solicited comment on whether certain parts of § 1026.36(c) should apply with respect to successors in interest even if the servicer has not confirmed the successor in interest's identity and ownership interest in the dwelling. The Bureau received a variety of comments on this issue, including some that asked the Bureau to clarify how servicers should handle payments by potential successors in interest.<footnote ref="296">Some commenters also addressed whether § 1026.36(c) and other mortgage servicing requirements should apply to confirmed successors in interest. Those comments are addressed in part V.A. and the section-by-section analysis of § 1026.2(a)(11).</footnote>
       For the reasons explained in part V.A. and in this discussion, the final rule clarifies the operation of § 1026.36(c) with respect to potential successors in interest by amending comment 36(c)(1)(iii)-2.</analysisParagraph>
     <analysisParagraph>Several consumer advocacy groups stated that a servicer should always be required to credit payments promptly and to refrain from improper pyramiding of late fees. These groups noted that it could take potential successors in interest several months or longer to obtain and provide documentation of their status as a successor in interest. Consumer advocacy group commenters also indicated that successors in interest continue to have difficulties getting their payments credited. A local government commenter noted the importance of assisting successors in making payments on a loan if the loan is current at the time the servicer is notified of the borrower's death.</analysisParagraph>

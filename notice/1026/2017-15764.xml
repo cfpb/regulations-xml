@@ -6,7 +6,7 @@
     <volume>8</volume>
     <date>2017-08-11</date>
     <originalDate>2016-08-11</originalDate>
-    <title>CONSUMER LEASING</title>
+    <title>TRUTH IN LENDING</title>
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
@@ -355,7 +355,7 @@
   </change>
   <change operation="modified" label="1026-37-o-4">
     <paragraph label="1026-37-o-4" marker="(4)">
-      <title>Rounding</title>
+      <title>Rounding.</title>
       <content/>
       <paragraph label="1026-37-o-4-i" marker="(i)">
         <title>Nearest dollar.</title>
@@ -566,7 +566,7 @@
       <title>1(d) Organization.</title>
       <content/>
       <interpParagraph label="1026-1-d-5-Interp" target="1026-1-d-5">
-        <title>Paragraph 1(d)(5)</title>
+        <title>Paragraph 1(d)(5).</title>
         <content/>
         <interpParagraph label="1026-1-d-5-Interp-1" marker="1.">
           <title>Effective date.</title>
@@ -859,7 +859,7 @@
   </change>
   <change operation="modified" label="1026-19-e-3-iii-Interp-2">
     <interpParagraph label="1026-19-e-3-iii-Interp-2" marker="1.">
-      <title>Good faith requirement for required services chosen by the consumer. </title>
+      <title>Good faith requirement for required services chosen by the consumer.</title>
       <content>If a service is required by the creditor, the creditor permits the consumer to shop for that service consistent with § <ref target="1026-19-e-1-vi-A" reftype="internal">1026.19(e)(1)(vi)(A)</ref>, the creditor provides the list required under § <ref target="1026-19-e-1-vi-C" reftype="internal">1026.19(e)(1)(vi)(C)</ref>, and the consumer chooses a service provider that is not on that list to perform that service, then the actual amounts of such fees need not be compared to the original estimates for such fees to perform the good faith analysis required under § <ref target="1026-19-e-3-i" reftype="internal">1026.19(e)(3)(i)</ref> or (ii). Differences between the amounts of such charges disclosed under § <ref target="1026-19-e-1-i" reftype="internal">1026.19(e)(1)(i)</ref> and the amounts of such charges paid by or imposed on the consumer do not constitute a lack of good faith, so long as the original estimated charge, or lack of an estimated charge for a particular service, was based on the best information reasonably available to the creditor at the time the disclosure was provided. For example, if the consumer informs the creditor that the consumer will choose a settlement agent not identified by the creditor on the written list provided under § <ref target="1026-19-e-1-vi-C" reftype="internal">1026.19(e)(1)(vi)(C)</ref>, and the creditor discloses an unreasonably low estimated settlement agent fee of $20 when the average prices for settlement agent fees in that area are $150, then the under-disclosure does not comply with § <ref target="1026-19-e-3-iii" reftype="internal">1026.19(e)(3)(iii)</ref> and good faith is determined under § <ref target="1026-19-e-3-i" reftype="internal">1026.19(e)(3)(i)</ref>. If the creditor permits the consumer to shop consistent with § <ref target="1026-19-e-1-vi-A" reftype="internal">1026.19(e)(1)(vi)(A)</ref> but fails to provide the written list required under § <ref target="1026-19-e-1-vi-C" reftype="internal">1026.19(e)(1)(vi)(C)</ref>, good faith is determined under § <ref target="1026-19-e-3-ii" reftype="internal">1026.19(e)(3)(ii)</ref> instead of § <ref target="1026-19-e-3-iii" reftype="internal">1026.19(e)(3)(iii)</ref> unless the settlement service provider is the creditor or an affiliate of the creditor in which case good faith is determined under § <ref target="1026-19-e-3-i" reftype="internal">1026.19(e)(3)(i)</ref>. As noted in comment 19(e)(1)(vi)-1 whether the creditor permits the consumer to shop consistent with § <ref target="1026-19-e-1-vi-A" reftype="internal">1026.19(e)(1)(vi)(A)</ref> is determined based on all the relevant facts and circumstances.</content>
     </interpParagraph>
   </change>
@@ -1203,7 +1203,7 @@
         <content>When the down payment and other funds from the borrower is determined in accordance with § <ref target="1026-37-h-1-iii-A-1" reftype="internal">1026.37(h)(1)(iii)(A)(1)</ref>, the amount disclosed under § <ref target="1026-37-h-1-v" reftype="internal">1026.37(h)(1)(v)</ref> as funds for the borrower is $0.</content>
       </interpParagraph>
       <interpParagraph label="1026-37-h-1-v-Interp-2" marker="2.">
-        <title>Total amount of existing debt satisfied in the transaction,</title>
+        <title>Total amount of existing debt satisfied in the transaction.</title>
         <content>The amounts disclosed under § <ref target="1026-37-h-1-iii-A-2" reftype="internal">1026.37(h)(1)(iii)(A)(2)</ref> or (B), as applicable, and (h)(1)(v) are determined by subtracting the sum of the loan amount disclosed under § <ref target="1026-37-b-1" reftype="internal">1026.37(b)(1)</ref> and any amount of existing loans assumed or taken subject to that will be disclosed on the Closing Disclosure under § <ref target="1026-38-j-2-iv" reftype="internal">1026.38(j)(2)(iv)</ref> (excluding any closing costs financed disclosed under § <ref target="1026-37-h-1-ii" reftype="internal">1026.37(h)(1)(ii)</ref>) from the total amount of all existing debt being satisfied in the transaction. The total amount of all existing debt being satisfied in the transaction is the sum of the amounts that will be disclosed on the Closing Disclosure in the summaries of transactions table under § <ref target="1026-38-j-1-ii" reftype="internal">1026.38(j)(1)(ii)</ref>, (iii), and (v), as applicable.</content>
       </interpParagraph>
     </interpParagraph>
@@ -1592,7 +1592,7 @@
   </change>
   <change operation="modified" label="1026-38-j-1-ii-Interp">
     <interpParagraph label="1026-38-j-1-ii-Interp" target="1026-38-j-1-ii">
-      <title>Paragraph 38(j)(1)(ii). </title>
+      <title>Paragraph 38(j)(1)(ii).</title>
       <content/>
       <interpParagraph label="1026-38-j-1-ii-Interp-1" marker="1.">
         <title>Contract sales price and personal property.</title>

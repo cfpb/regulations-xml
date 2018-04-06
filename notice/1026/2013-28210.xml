@@ -667,7 +667,7 @@
   </change><!-- Section 1026.25 is amended by adding paragraph (c)(1) -->
   <change operation="modified" label="1026-25-c">
     <paragraph label="1026-25-c" marker="(c)">
-      <title type="keyterm">Records related to certain requirements for mortgage loans</title>
+      <title type="keyterm">Records related to certain requirements for mortgage loans.</title>
       <content/>
       <paragraph label="1026-25-c-1" marker="(1)">
         <title type="keyterm">Records related to requirements for loans secured by real property.</title>
@@ -1252,7 +1252,7 @@
           </paragraph>
         </paragraph>
         <paragraph label="1026-37-h" marker="(h)">
-          <title type="keyterm">Calculating cash to close</title>
+          <title type="keyterm">Calculating cash to close.</title>
           <content/>
           <paragraph label="1026-37-h-1" marker="(1)">
             <title type="keyterm">For all transactions.</title>
@@ -2194,10 +2194,10 @@
           </paragraph>
         </paragraph>
         <paragraph label="1026-38-j-3" marker="(3)">
-          <title type="keyterm">Calculation of borrower’s transaction. Under the label “Calculation”:</title>
+          <title type="keyterm">Calculation of borrower’s transaction.</title>
           <content/>
           <paragraph label="1026-38-j-3-i" marker="(i)">
-            <content>The amount disclosed pursuant to paragraph (j)(1)(i) of this section, labeled “Total Due from Borrower at Closing”;</content>
+            <content>Under the label “Calculation”: The amount disclosed pursuant to paragraph (j)(1)(i) of this section, labeled “Total Due from Borrower at Closing”;</content>
           </paragraph>
           <paragraph label="1026-38-j-3-ii" marker="(ii)">
             <content>The amount disclosed pursuant to paragraph (j)(2)(i) of this section, if any, disclosed as a negative number, labeled “Total Paid Already by or on Behalf of Borrower at Closing”; and</content>
@@ -2527,7 +2527,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-38-t" marker="(t)">
-            <title type="keyterm">Form of disclosures</title>
+            <title type="keyterm">Form of disclosures.</title>
             <content/>
             <paragraph label="1026-38-t-1" marker="(1)">
               <title type="keyterm">General requirements.</title>
@@ -5948,7 +5948,7 @@
     </interpParagraph>
   </change><change operation="added" label="1026-37-Interp">
     <interpSection label="1026-37-Interp" sectionNum="37" target="1026-37">
-      <title>Section 1026.37—Content of Disclosures for Certain Mortgage Transactions (Loan Estimate)</title>
+      <title>Section 1026.37 Content of Disclosures for Certain Mortgage Transactions (Loan Estimate).</title>
       <interpParagraph label="1026-37-Interp-1" marker="1.">
         <title type="keyterm">Disclosures not applicable.</title>
         <content>The disclosures required by § <ref target="1026-37" reftype="internal">1026.37</ref> are required to reflect the terms of the legal obligation between the parties, and if any information necessary for an accurate disclosure is unknown to the <ref target="1026-2-a-17" reftype="term">creditor</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> shall make the disclosure in good faith, based on the best information reasonably available to the <ref target="1026-2-a-17" reftype="term">creditor</ref> pursuant to §§ <ref target="1026-17-c" reftype="internal">1026.17(c)</ref> and <ref target="1026-19-e" reftype="internal">1026.19(e)</ref>. See comments 17(c)(1)– 1, 17(c)(2)(i)–1 and –2, and 19(e)(1)(i)–1. Where a disclosure is not applicable to a particular transaction, unless otherwise provided by § <ref target="1026-37" reftype="internal">1026.37</ref>, form H–24 of appendix H to this part may not be modified to delete the disclosure from form H–24, or to state “not applicable” or “N/A” in place of such disclosure. The portion of the form pertaining to the inapplicable disclosure may be left blank, unless otherwise provided by § <ref target="1026-37" reftype="internal">1026.37</ref>. For example, in a transaction for which the <ref target="1026-2-a-11" reftype="term">consumer</ref> does not pay points to the <ref target="1026-2-a-17" reftype="term">creditor</ref> to reduce the interest rate, the amounts required to be disclosed by § <ref target="1026-37-f-1-i" reftype="internal">1026.37(f)(1)(i)</ref> may be left blank on form H–24. As provided in § <ref target="1026-37-i" reftype="internal">1026.37(i)</ref> and (j), however, the adjustable payment and adjustable interest rate tables required by those paragraphs may be included only if those disclosures are applicable to the transaction and otherwise must be excluded.</content>
@@ -7002,8 +7002,8 @@
             <content>Although the label of the disclosure required by § <ref target="1026-37-i-5" reftype="internal">1026.37(i)(5)</ref> is “Principal and Interest Payments,” and the section refers to periodic principal and interest payments, it includes a scheduled periodic payment that only covers some or all of the interest that is due and not any principal (i.e., an interest only or negatively amortizing payment).</content>
           </interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1026-37-j-Interp">
-          <title>When table is not permitted to be disclosed.</title>
+        <interpParagraph label="1026-37-j-Interp" target="1026-37-j">
+          <title>37(j) When table is not permitted to be disclosed.</title>
           <content>The disclosure described in § <ref target="1026-37-j" reftype="internal">1026.37(j)</ref> is required only if the interest rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref>, either based on changes to an index or scheduled changes to the interest rate. If the legal obligation does not permit the interest rate to adjust after <ref target="1026-2-a-13" reftype="term">consummation</ref>, such as for a “Fixed Rate” product under § <ref target="1026-37-a-10" reftype="internal">1026.37(a)(10)</ref>, this table is not permitted to appear on the Loan Estimate. The <ref target="1026-2-a-17" reftype="term">creditor</ref> may not disclose a blank table or a table with “N/A” inserted within each row.</content>
           <interpParagraph label="1026-37-j-1-Interp" target="1026-37-j-1">
             <title>37(j)(1) Index and margin.</title>
@@ -7321,7 +7321,7 @@
       </interpSection>
   </change><change operation="added" label="1026-38-Interp">
     <interpSection label="1026-38-Interp" sectionNum="38" target="1026-38">
-      <title>Section 1026.38—Content of Disclosures for Certain Mortgage Transactions (Closing Disclosure)</title>
+      <title>Section 1026.38 Content of Disclosures for Certain Mortgage Transactions (Closing Disclosure).</title>
       <interpParagraph label="1026-38-Interp-1">
         <title type="keyterm">Disclosures not applicable.</title>
         <content>Where a disclosure is not applicable to a particular transaction, form H–25 of appendix H to this part may not be modified to state “not applicable” or “N/A.” The portion of the form pertaining to the inapplicable disclosure may be left blank unless otherwise provided by § <ref target="1026-38" reftype="internal">1026.38</ref>. For example, the disclosure required by § <ref target="1026-38-r" reftype="internal">1026.38(r)</ref> of the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s or seller’s real estate broker may be left blank for a transaction that does not involve real estate brokers, such as a refinance or home equity loan. As provided in § <ref target="1026-38-m" reftype="internal">1026.38(m)</ref> and (n), however, the adjustable payment and adjustable interest rate tables required by those paragraphs may be included only if those disclosures are applicable to the transaction and otherwise must be excluded.</content>
@@ -8526,7 +8526,7 @@
   </change><change operation="modified" label="1026-G_H-Interp-1-v" subpath="content">
     <content>Incorporating certain <ref target="1026-2-a-26" reftype="term">State</ref> “plain English” requirements.</content>
   </change><change operation="modified" label="1026-H-Interp" subpath="title">
-    <title>Appendix H—Closed-End Forms and Clauses</title>
+    <title>Appendix H Closed-End Forms and Clauses.</title>
   </change><change operation="modified" label="1026-H-Interp-16" subpath="content">
     <content>These samples illustrate various closed-end transactions. Samples H–13 and H– 15 are for transactions subject to § <ref target="1026-17-a" reftype="internal">1026.17(a)</ref>. Samples H–13 and H–15 do not illustrate the requirements of § <ref target="1026-18-c" reftype="internal">1026.18(c)</ref> or <ref target="1026-18-p" reftype="internal">(p)</ref> regarding the itemization of the amount financed and a reference to contract documents. See form H–2 for a model for these requirements.</content>
   </change><change operation="modified" label="1026-H-Interp-19" subpath="content">
