@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -19,561 +20,252 @@
     <federalRegisterURL>https://www.federalregister.gov/documents/2012/07/10/2012-16245/electronic-fund-transfers-regulation-e-correction</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2012-1728" rightDocumentNumber="2012-16245">
-
-    <change operation="modified" label="1005-3-a">
-      <paragraph label="1005-3-a" marker="(a)">
-        <title type="keyterm">General.</title>
-        <content>This part applies to any <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> that authorizes a <ref target="1005-2-i" reftype="term">financial institution</ref> to debit or <ref target="1005-2-f" reftype="term">credit</ref> a <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref>. Generally, this part applies to <ref target="1005-2-i" reftype="term">financial institutions</ref>. For purposes of §§ <ref target="1005-3-b-2" reftype="internal">1005.3(b)(2)</ref> and <ref target="1005-3-b-3" reftype="internal">(3)</ref>, <ref target="1005-10-b" reftype="internal">1005.10(b)</ref>, <ref target="1005-10-d" reftype="internal">(d)</ref>, and <ref target="1005-10-e" reftype="internal">(e)</ref>, <ref target="1005-13" reftype="internal">1005.13</ref>, and <ref target="1005-20" reftype="internal">1005.20</ref>, this part applies to any <ref target="1005-2-j" reftype="term">person</ref>, other than a <ref target="1005-2-j" reftype="term">person</ref> excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, Title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act,<ref target="PUBLIC_LAW:111-203" reftype="external"> Pub. L. 111-203, </ref>12<ref target="STATUTES_AT_LARGE:124-Stat.-1376" reftype="external">4 Stat. 1376. </ref>The requirements of subpart B apply to remittance transfer providers.</content>
+  <change operation="modified" label="1005-3-a">
+    <paragraph label="1005-3-a" marker="(a)">
+      <title type="keyterm">General.</title>
+      <content>This part applies to any <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> that authorizes a <ref target="1005-2-i" reftype="term">financial institution</ref> to debit or <ref target="1005-2-f" reftype="term">credit</ref> a <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref>. Generally, this part applies to <ref target="1005-2-i" reftype="term">financial institutions</ref>. For purposes of §§ <ref target="1005-3-b-2" reftype="internal">1005.3(b)(2)</ref> and <ref target="1005-3-b-3" reftype="internal">(3)</ref>, <ref target="1005-10-b" reftype="internal">1005.10(b)</ref>, <ref target="1005-10-d" reftype="internal">(d)</ref>, and <ref target="1005-10-e" reftype="internal">(e)</ref>, <ref target="1005-13" reftype="internal">1005.13</ref>, and <ref target="1005-20" reftype="internal">1005.20</ref>, this part applies to any <ref target="1005-2-j" reftype="term">person</ref>, other than a <ref target="1005-2-j" reftype="term">person</ref> excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, Title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act,<ref target="PUBLIC_LAW:111-203" reftype="external"> Pub. L. 111-203, </ref>12<ref target="STATUTES_AT_LARGE:124-Stat.-1376" reftype="external">4 Stat. 1376. </ref>The requirements of subpart B apply to remittance transfer providers.</content>
+    </paragraph>
+  </change>
+  <change operation="added" label="1005-A-30(a)">
+    <appendixSection appendixSecNum="30" label="1005-A-30a">
+      <subject>A-30(a)-Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))</subject>
+      <paragraph label="1005-A-30a-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.242)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.242.png</url>
+            <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.242.thumb.png</thumbUrl>
+          </graphic>
+        </content>
       </paragraph>
-    </change>
-
-    <change operation="added" label="1005-A-30(a)">
-      <appendixSection appendixSecNum="30" label="1005-A-30a">
-        <subject>A-30(a)-Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))</subject>
-        <paragraph label="1005-A-30a-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.242)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.242.png</url>
-              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.242.thumb.png</thumbUrl>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="added" label="1005-A-30(b)">
-      <appendixSection appendixSecNum="31" label="1005-A-30b">
-        <subject>A-30(b)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))(</subject>
-        <paragraph label="1005-A-30b-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.243)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.243.png</url>
-              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.243.thumb.png</thumbUrl>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="added" label="1005-A-30(c)">
-      <appendixSection appendixSecNum="32" label="1005-A-30c">
-        <subject>A-30(c)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))</subject>
-        <paragraph label="1005-A-30c-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.244)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.244.png</url>
-              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.244.thumb.png</thumbUrl>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="added" label="1005-A-30(d)">
-      <appendixSection appendixSecNum="33" label="1005-A-30d">
-        <subject>A-30(d)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))</subject>
-        <paragraph label="1005-A-30d-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.245)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.245.png</url>
-              <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.245.thumb.png</thumbUrl>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="modified" label="1005-A-31">
-      <appendixSection appendixSecNum="33" label="1005-A-31">
-        <subject>A-31—Model Form for Receipts for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(2))</subject>
-        <paragraph label="1005-A-31-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER18SE14.015)</text>
-              <url>https://s3.amazonaws.com/images.federalregister.gov/ER18SE14.015/original.gif</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="modified" label="1005-A-32">
-      <appendixSection appendixSecNum="34" label="1005-A-32">
-        <subject>A-32—Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(3))</subject>
-        <paragraph label="1005-A-32-a" marker= "(a)">
-          <content>
-            <graphic>
+    </appendixSection>
+  </change>
+  <change operation="added" label="1005-A-30(b)">
+    <appendixSection appendixSecNum="31" label="1005-A-30b">
+      <subject>A-30(b)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))(</subject>
+      <paragraph label="1005-A-30b-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.243)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.243.png</url>
+            <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.243.thumb.png</thumbUrl>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="added" label="1005-A-30(c)">
+    <appendixSection appendixSecNum="32" label="1005-A-30c">
+      <subject>A-30(c)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))</subject>
+      <paragraph label="1005-A-30c-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.244)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.244.png</url>
+            <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.244.thumb.png</thumbUrl>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="added" label="1005-A-30(d)">
+    <appendixSection appendixSecNum="33" label="1005-A-30d">
+      <subject>A-30(d)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))</subject>
+      <paragraph label="1005-A-30d-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.245)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.245.png</url>
+            <thumbUrl>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.245.thumb.png</thumbUrl>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="modified" label="1005-A-31">
+    <appendixSection appendixSecNum="34" label="1005-A-31">
+      <subject>A-31—Model Form for Receipts for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(2))</subject>
+      <paragraph label="1005-A-31-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER18SE14.015)</text>
+            <url>https://s3.amazonaws.com/images.federalregister.gov/ER18SE14.015/original.gif</url>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="modified" label="1005-A-32">
+    <appendixSection appendixSecNum="35" label="1005-A-32">
+      <subject>A-32—Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(3))</subject>
+      <paragraph label="1005-A-32-a" marker= "(a)">
+        <content>
+          <graphic> 
             <altText/>
             <text>![](ER22MY13.247)</text>
             <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.247.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-        <paragraph label="1005-A-32-b" marker= "(b)">
-          <content>
-            <graphic>
+          </graphic>
+        </content>
+      </paragraph>
+      <paragraph label="1005-A-32-b" marker= "(b)">
+        <content>
+          <graphic>
             <altText/>
             <text>![](ER22MY13.248)</text>
             <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.248.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="modified" label="1005-A-33">
-      <appendixSection appendixSecNum="35" label="1005-A-33">
-        <subject>A-33—Model Form for Pre-Payment Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(1))</subject>
-        <paragraph label="1005-A-33-p1" marker= "">
-          <content>
-            <graphic>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="modified" label="1005-A-33">
+    <appendixSection appendixSecNum="36" label="1005-A-33">
+      <subject>A-33—Model Form for Pre-Payment Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(1))</subject>
+      <paragraph label="1005-A-33-p1" marker= "">
+        <content>
+          <graphic>
             <altText/>
             <text>![](ER22MY13.249)</text>
             <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.249.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="modified" label="1005-A-34">
-      <appendixSection appendixSecNum="36" label="1005-A-34">
-        <subject>A-34—Model Form for Receipts for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(2))</subject>
-        <paragraph label="1005-A-34-p1" marker= "">
-          <content>
-            <graphic>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="modified" label="1005-A-34">
+    <appendixSection appendixSecNum="37" label="1005-A-34">
+      <subject>A-34—Model Form for Receipts for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(2))</subject>
+      <paragraph label="1005-A-34-p1" marker= "">
+        <content>
+          <graphic>
             <altText/>
             <text>![](ER22MY13.250)</text>
             <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.250.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="modified" label="1005-A-35">
-      <appendixSection appendixSecNum="37" label="1005-A-35">
-        <subject>A-35—Model Form for Combined Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(3))</subject>
-        <paragraph label="1005-A-35-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.250)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.250.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="modified" label="1005-A-36">
-      <appendixSection appendixSecNum="38" label="1005-A-36">
-        <subject>A-36—Model Form for Error Resolution and Cancellation Disclosures (Long) (§ 1005.31(b)(4))</subject>
-        <paragraph label="1005-A-36-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.252)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.252.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="modified" label="1005-A-37">
-      <appendixSection appendixSecNum="39" label="1005-A-37">
-        <subject>A-37—Model Form for Error Resolution and Cancellation Disclosures (Short) (§ 1005.31(b)(2)(iv) and (b)(2)(vi))</subject>
-        <paragraph label="1005-A-37-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.253)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.253.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="added" label="1005-A-38">
-      <appendixSection appendixSecNum="40" label="1005-A-38">
-        <subject>A-38—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(1))</subject>
-        <paragraph label="1005-A-38-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.254)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.254.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="added" label="1005-A-39">
-      <appendixSection appendixSecNum="41" label="1005-A-39">
-        <subject>A-39—Model Form for Receipts for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(2))</subject>
-        <paragraph label="1005-A-39-a" marker= "(a)">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.255)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.255.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-        <paragraph label="1005-A-39-b" marker= "(b)">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.256)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.256.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="added" label="1005-A-40">
-      <appendixSection appendixSecNum="42" label="1005-A-40">
-        <subject>A-40—Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(3))</subject>
-        <paragraph label="1005-A-40-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER18SE14.016)</text>
-              <url>https://s3.amazonaws.com/images.federalregister.gov/ER18SE14.016/original.gif</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <change operation="added" label="1005-A-41">
-      <appendixSection appendixSecNum="43" label="1005-A-41">
-        <subject>A-41—Model Form for Error Resolution and Cancellation Disclosures (Long)—Spanish (§ 1005.31(b)(4))</subject>
-        <paragraph label="1005-A-41-p1" marker= "">
-          <content>
-            <graphic>
-              <altText/>
-              <text>![](ER22MY13.258)</text>
-              <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.258.png</url>
-            </graphic>
-          </content>
-        </paragraph>
-      </appendixSection>
-    </change>
-
-    <!-- It looks like the initial parse had the above images in terms of tables. I'm just going to keep this commented out in here in case
-	 we want to back to it for some reason.-->
-
-    <!--<appendixSection appendixSecNum="10" label="1005-A-30">
-          <subject>A-30—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged Into Local Currency (§ 1005.31(b)(1))</subject>
-          <paragraph label="1005-A-30-h1" marker="">
-            <title>NOT A RECEIPT</title>
-            <content/>
-            <paragraph label="1005-A-30-h1-p5" marker="">
-              <content>
-                <table>
-                  <header>
-                    <columnHeaderRow>
-                      <column colspan="1" rowspan="1"/>
-                      <column colspan="1" rowspan="1"/>
-                    </columnHeaderRow>
-                  </header>
-                  <row>
-                    <cell>Transfer Amount</cell>
-                    <cell>$100.00</cell>
-                  </row>
-                  <row>
-                    <cell>Transfer Fees</cell>
-                    <cell>+$7.00</cell>
-                  </row>
-                  <row>
-                    <cell>Transfer Taxes</cell>
-                    <cell>+$3.00</cell>
-                  </row>
-                  <row>
-                    <cell>Total</cell>
-                    <cell>$110.00</cell>
-                  </row>
-                </table>
-              </content>
-            </paragraph>
-            <paragraph label="1005-A-30-h1-p6" marker="">
-              <content>Exchange Rate: US$1.00 = 12.27 MXN</content>
-            </paragraph>
-            <paragraph label="1005-A-30-h1-p7" marker="">
-              <content>
-                <table>
-                  <header>
-                    <columnHeaderRow>
-                      <column colspan="1" rowspan="1"/>
-                      <column colspan="1" rowspan="1"/>
-                    </columnHeaderRow>
-                  </header>
-                  <row>
-                    <cell>Transfer Amount</cell>
-                    <cell>1,227.00 MXN</cell>
-                  </row>
-                  <row>
-                    <cell>Other Fees</cell>
-                    <cell>−30.00 MXN</cell>
-                  </row>
-                  <row>
-                    <cell>Other Taxes</cell>
-                    <cell>−10.00 MXN</cell>
-                  </row>
-                  <row>
-                    <cell>Total to Recipient</cell>
-                    <cell>1,187.00 MXN</cell>
-                  </row>
-                </table>
-              </content>
-            </paragraph>
-          </paragraph>
-          <paragraph label="1005-A-30-p1" marker="">
-            <content>ABC Company</content>
-          </paragraph>
-          <paragraph label="1005-A-30-p2" marker="">
-            <content>1000 XYZ Avenue</content>
-          </paragraph>
-          <paragraph label="1005-A-30-p3" marker="">
-            <content>Anytown, Anystate 12345</content>
-          </paragraph>
-          <paragraph label="1005-A-30-p4" marker="">
-            <content>Today's Date: March 3, 2013</content>
-          </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="11" label="1005-A-31">
-          <subject>A-31—Model Form for Receipts for Remittance Transfers Exchanged Into Local Currency (§ 1005.31(b)(2))</subject>
-          <paragraph label="1005-A-31-h2" marker="">
-            <title>RECEIPT</title>
-            <content/>
-            <paragraph label="1005-A-31-h2-p12" marker="">
-              <content><ref target="1005-30-g" reftype="term">SENDER</ref>:</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p13" marker="">
-              <content>Pat Jones</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p14" marker="">
-              <content>100 Anywhere Street</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p15" marker="">
-              <content>Anytown, Anywhere 54321</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p16" marker="">
-              <content>222-555-1212</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p17" marker="">
-              <content>RECIPIENT:</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p18" marker="">
-              <content>Carlos Gomez</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p19" marker="">
-              <content>123 Calle XXX</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p20" marker="">
-              <content>Mexico City, Mexico</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p21" marker="">
-              <content>PICK-UP LOCATION:</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p22" marker="">
-              <content>ABC Company</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p23" marker="">
-              <content>65 Avenida YYY</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p24" marker="">
-              <content>Mexico City, Mexico</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p25" marker="">
-              <content>Confirmation Code: ABC 123 DEF 456</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p26" marker="">
-              <content>Date Available: March 4, 2013</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p27" marker="">
-              <content>
-                <table>
-                  <header>
-                    <columnHeaderRow>
-                      <column colspan="1" rowspan="1"/>
-                      <column colspan="1" rowspan="1"/>
-                    </columnHeaderRow>
-                  </header>
-                  <row>
-                    <cell>Transfer Amount</cell>
-                    <cell>$100.00</cell>
-                  </row>
-                  <row>
-                    <cell>Transfer Fees</cell>
-                    <cell>+$7.00</cell>
-                  </row>
-                  <row>
-                    <cell>Transfer Taxes</cell>
-                    <cell>+$3.00</cell>
-                  </row>
-                  <row>
-                    <cell>Total</cell>
-                    <cell>$110.00</cell>
-                  </row>
-                </table>
-              </content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p28" marker="">
-              <content>Exchange Rate: US$1.00 = 12.27 MXN</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p29" marker="">
-              <content>
-                <table>
-                  <header>
-                    <columnHeaderRow>
-                      <column colspan="1" rowspan="1"/>
-                      <column colspan="1" rowspan="1"/>
-                    </columnHeaderRow>
-                  </header>
-                  <row>
-                    <cell>Transfer Amount</cell>
-                    <cell>1,227.00 MXN</cell>
-                  </row>
-                  <row>
-                    <cell>Other Fees</cell>
-                    <cell>−30.00 MXN</cell>
-                  </row>
-                  <row>
-                    <cell>Other Taxes</cell>
-                    <cell>−10.00 MXN</cell>
-                  </row>
-                  <row>
-                    <cell>Total to Recipient</cell>
-                    <cell>1,187.00 MXN</cell>
-                  </row>
-                </table>
-              </content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p30" marker="">
-              <content>You have a right to dispute <ref target="1005-11-a-1" reftype="term">errors</ref> in your transaction. If you think there is an <ref target="1005-11-a-1" reftype="term">error</ref>, contact us within 180 days at 800-123-4567 or www.abccompany.com. You can also contact us for a written explanation of your rights.</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p31" marker="">
-              <content>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p32" marker="">
-              <content>For questions or complaints about ABC Company, contact:</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p33" marker="">
-              <content><ref target="1005-2-l" reftype="term">State</ref> Regulatory Agency</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p34" marker="">
-              <content>800-111-2222</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p35" marker="">
-              <content>www.stateregulatoryagency.gov</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p36" marker="">
-              <content>Consumer Financial Protection Bureau</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p37" marker="">
-              <content>855-411-2372</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p38" marker="">
-              <content>855-729-2372 (TTY/TDD)</content>
-            </paragraph>
-            <paragraph label="1005-A-31-h2-p39" marker="">
-              <content>www.consumerfinance.gov</content>
-            </paragraph>
-          </paragraph>
-          <paragraph label="1005-A-31-p8" marker="">
-            <content>ABC Company</content>
-          </paragraph>
-          <paragraph label="1005-A-31-p9" marker="">
-            <content>1000 XYZ Avenue</content>
-          </paragraph>
-          <paragraph label="1005-A-31-p10" marker="">
-            <content>Anytown, Anystate 12345</content>
-          </paragraph>
-          <paragraph label="1005-A-31-p11" marker="">
-            <content>Today's Date: March 3, 2013</content>
-          </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="12" label="1005-A-32">
-          <subject>A-32—Model Form for Combined Disclosures for Remittance Transfers Exchanged Into Local Currency (§ 1005.31(b)(3))</subject>
-          <paragraph label="1005-A-32-p40" marker="">
-            <content>ABC Company</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p41" marker="">
-            <content>1000 XYZ Avenue</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p42" marker="">
-            <content>Anytown, Anystate 12345</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p43" marker="">
-            <content>Today's Date: March 3, 2013</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p44" marker="">
-            <content><ref target="1005-30-g" reftype="term">SENDER</ref>:</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p45" marker="">
-            <content>Pat Jones</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p46" marker="">
-            <content>100 Anywhere Street</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p47" marker="">
-            <content>Anytown, Anywhere 54321</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p48" marker="">
-            <content>222-555-1212</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p49" marker="">
-            <content>RECIPIENT:</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p50" marker="">
-            <content>Carlos Gomez</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p51" marker="">
-            <content>123 Calle XXX</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p52" marker="">
-            <content>Mexico City</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p53" marker="">
-            <content>Mexico</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p54" marker="">
-            <content>PICK-UP LOCATION:</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p55" marker="">
-            <content>ABC Company</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p56" marker="">
-            <content>65 Avenida YYY</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p57" marker="">
-            <content>Mexico City</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p58" marker="">
-            <content>Mexico</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p59" marker="">
-            <content>Confirmation Code: ABC 123 DEF 456</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p60" marker="">
-            <content>Date Available: March 4, 2013</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p61" marker="">
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="modified" label="1005-A-35">
+    <appendixSection appendixSecNum="38" label="1005-A-35">
+      <subject>A-35—Model Form for Combined Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(3))</subject>
+      <paragraph label="1005-A-35-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.250)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.250.png</url>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="modified" label="1005-A-36">
+    <appendixSection appendixSecNum="39" label="1005-A-36">
+      <subject>A-36—Model Form for Error Resolution and Cancellation Disclosures (Long) (§ 1005.31(b)(4))</subject>
+      <paragraph label="1005-A-36-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.252)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.252.png</url>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="modified" label="1005-A-37">
+    <appendixSection appendixSecNum="40" label="1005-A-37">
+      <subject>A-37—Model Form for Error Resolution and Cancellation Disclosures (Short) (§ 1005.31(b)(2)(iv) and (b)(2)(vi))</subject>
+      <paragraph label="1005-A-37-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.253)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.253.png</url>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="added" label="1005-A-38">
+    <appendixSection appendixSecNum="41" label="1005-A-38">
+      <subject>A-38—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(1))</subject>
+      <paragraph label="1005-A-38-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.254)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.254.png</url>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="added" label="1005-A-39">
+    <appendixSection appendixSecNum="42" label="1005-A-39">
+      <subject>A-39—Model Form for Receipts for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(2))</subject>
+      <paragraph label="1005-A-39-a" marker= "(a)">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.255)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.255.png</url>
+          </graphic>
+        </content>
+      </paragraph>
+      <paragraph label="1005-A-39-b" marker= "(b)">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.256)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.256.png</url>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="added" label="1005-A-40">
+    <appendixSection appendixSecNum="43" label="1005-A-40">
+      <subject>A-40—Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(3))</subject>
+      <paragraph label="1005-A-40-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER18SE14.016)</text>
+            <url>https://s3.amazonaws.com/images.federalregister.gov/ER18SE14.016/original.gif</url>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <change operation="added" label="1005-A-41">
+    <appendixSection appendixSecNum="44" label="1005-A-41">
+      <subject>A-41—Model Form for Error Resolution and Cancellation Disclosures (Long)—Spanish (§ 1005.31(b)(4))</subject>
+      <paragraph label="1005-A-41-p1" marker= "">
+        <content>
+          <graphic>
+            <altText/>
+            <text>![](ER22MY13.258)</text>
+            <url>https://s3.amazonaws.com/files.consumerfinance.gov/f/ER22MY13.258.png</url>
+          </graphic>
+        </content>
+      </paragraph>
+    </appendixSection>
+  </change>
+  <!-- It looks like the initial parse had the above images in terms of tables. I'm just going to keep this commented out in here in case
+   we want to back to it for some reason.-->
+  <!--<appendixSection appendixSecNum="30" label="1005-A-30">
+        <subject>A-30—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged Into Local Currency (§ 1005.31(b)(1))</subject>
+        <paragraph label="1005-A-30-h1" marker="">
+          <title>NOT A RECEIPT</title>
+          <content/>
+          <paragraph label="1005-A-30-h1-p5" marker="">
             <content>
               <table>
                 <header>
@@ -601,10 +293,10 @@
               </table>
             </content>
           </paragraph>
-          <paragraph label="1005-A-32-p62" marker="">
+          <paragraph label="1005-A-30-h1-p6" marker="">
             <content>Exchange Rate: US$1.00 = 12.27 MXN</content>
           </paragraph>
-          <paragraph label="1005-A-32-p63" marker="">
+          <paragraph label="1005-A-30-h1-p7" marker="">
             <content>
               <table>
                 <header>
@@ -632,310 +324,334 @@
               </table>
             </content>
           </paragraph>
-          <paragraph label="1005-A-32-p64" marker="">
-            <content>You have a right to dispute <ref target="1005-11-a-1" reftype="term">errors</ref> in your transaction. If you think there is an <ref target="1005-11-a-1" reftype="term">error</ref>, contact us within 180 days at 800-123-4567 or www.abccompany.com. You can also contact us for a written explanation of your rights.</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p65" marker="">
-            <content>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p66" marker="">
-            <content>For questions or complaints about ABC Company, contact:</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p67" marker="">
-            <content><ref target="1005-2-l" reftype="term">State</ref> Regulatory Agency</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p68" marker="">
-            <content>800-111-2222</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p69" marker="">
-            <content>www.stateregulatoryagency.gov</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p70" marker="">
-            <content>Consumer Financial Protection Bureau</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p71" marker="">
-            <content>855-411-2372</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p72" marker="">
-            <content>855-729-2372 (TTY/TDD)</content>
-          </paragraph>
-          <paragraph label="1005-A-32-p73" marker="">
-            <content>www.consumerfinance.gov</content>
-          </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="13" label="1005-A-33">
-          <subject>A-33—Model form for Pre-Payment Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(1))</subject>
-          <paragraph label="1005-A-33-h3" marker="">
-            <title>NOT A RECEIPT</title>
-            <content/>
-            <paragraph label="1005-A-33-h3-p78" marker="">
-              <content>
-                <table>
-                  <header>
-                    <columnHeaderRow>
-                      <column colspan="1" rowspan="1"/>
-                      <column colspan="1" rowspan="1"/>
-                    </columnHeaderRow>
-                  </header>
-                  <row>
-                    <cell>Transfer Amount</cell>
-                    <cell>$100.00</cell>
-                  </row>
-                  <row>
-                    <cell>Transfer Fees</cell>
-                    <cell>+$7.00</cell>
-                  </row>
-                  <row>
-                    <cell>Transfer Taxes</cell>
-                    <cell>+$3.00</cell>
-                  </row>
-                  <row>
-                    <cell>Total</cell>
-                    <cell>$110.00</cell>
-                  </row>
-                  <row>
-                    <cell>Transfer Amount</cell>
-                    <cell>$100.00</cell>
-                  </row>
-                  <row>
-                    <cell>Other Fees</cell>
-                    <cell>−$4.00</cell>
-                  </row>
-                  <row>
-                    <cell>Other Taxes</cell>
-                    <cell>−$1.00</cell>
-                  </row>
-                  <row>
-                    <cell>Total to Recipient</cell>
-                    <cell>$95.00</cell>
-                  </row>
-                </table>
-              </content>
-            </paragraph>
-          </paragraph>
-          <paragraph label="1005-A-33-p74" marker="">
-            <content>ABC Company</content>
-          </paragraph>
-          <paragraph label="1005-A-33-p75" marker="">
-            <content>1000 XYZ Avenue</content>
-          </paragraph>
-          <paragraph label="1005-A-33-p76" marker="">
-            <content>Anytown, Anystate 12345</content>
-          </paragraph>
-          <paragraph label="1005-A-33-p77" marker="">
-            <content>Today's Date: March 3, 2013</content>
-          </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="14" label="1005-A-34">
-          <subject>A-34—Model Form for Receipts for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(2))</subject>
-          <paragraph label="1005-A-34-h4" marker="">
-            <title>RECEIPT</title>
-            <content/>
-            <paragraph label="1005-A-34-h4-p83" marker="">
-              <content><ref target="1005-30-g" reftype="term">SENDER</ref>:</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p84" marker="">
-              <content>Pat Jones</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p85" marker="">
-              <content>100 Anywhere Street</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p86" marker="">
-              <content>Anytown, Anywhere 54321</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p87" marker="">
-              <content>301-555-1212</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p88" marker="">
-              <content>RECIPIENT:</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p89" marker="">
-              <content>Carlos Gomez</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p90" marker="">
-              <content>106 Calle XXX</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p91" marker="">
-              <content>Mexico City</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p92" marker="">
-              <content>Mexico</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p93" marker="">
-              <content>PICK-UP LOCATION:</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p94" marker="">
-              <content>ABC Company</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p95" marker="">
-              <content>65 Avenida YYY</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p96" marker="">
-              <content>Mexico City</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p97" marker="">
-              <content>Mexico</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p98" marker="">
-              <content>Confirmation Code: ABC 123 DEF 456</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p99" marker="">
-              <content>Date Available: March 4, 2013</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p100" marker="">
-              <content>
-                <table>
-                  <header>
-                    <columnHeaderRow>
-                      <column colspan="1" rowspan="1"/>
-                      <column colspan="1" rowspan="1"/>
-                    </columnHeaderRow>
-                  </header>
-                  <row>
-                    <cell>Transfer Amount</cell>
-                    <cell>$100.00</cell>
-                  </row>
-                  <row>
-                    <cell>Transfer Fees</cell>
-                    <cell>+$7.00</cell>
-                  </row>
-                  <row>
-                    <cell>Transfer Taxes</cell>
-                    <cell>+$3.00</cell>
-                  </row>
-                  <row>
-                    <cell>Total</cell>
-                    <cell>$110.00</cell>
-                  </row>
-                  <row>
-                    <cell>Transfer Amount</cell>
-                    <cell>$100.00</cell>
-                  </row>
-                  <row>
-                    <cell>Other Fees</cell>
-                    <cell>−$4.00</cell>
-                  </row>
-                  <row>
-                    <cell>Other Taxes</cell>
-                    <cell>−$1.00</cell>
-                  </row>
-                  <row>
-                    <cell>Total to Recipient:</cell>
-                    <cell>$95.00</cell>
-                  </row>
-                </table>
-              </content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p101" marker="">
-              <content>You have a right to dispute <ref target="1005-11-a-1" reftype="term">errors</ref> in your transaction. If you think there is an <ref target="1005-11-a-1" reftype="term">error</ref>, contact us within 180 days at 800-123-4567 or www.abccompany.com. You can also contact us for a written explanation of your rights.</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p102" marker="">
-              <content>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p103" marker="">
-              <content>For questions or complaints about ABC Company, contact:</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p104" marker="">
-              <content><ref target="1005-2-l" reftype="term">State</ref> Regulatory Agency</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p105" marker="">
-              <content>800-111-2222</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p106" marker="">
-              <content>www.stateregulatoryagency.gov</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p107" marker="">
-              <content>Consumer Financial Protection Bureau</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p108" marker="">
-              <content>855-411-2372</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p109" marker="">
-              <content>855-729-2372 (TTY/TDD)</content>
-            </paragraph>
-            <paragraph label="1005-A-34-h4-p110" marker="">
-              <content>www.consumerfinance.gov</content>
-            </paragraph>
-          </paragraph>
-          <paragraph label="1005-A-34-p79" marker="">
-            <content>ABC Company</content>
-          </paragraph>
-          <paragraph label="1005-A-34-p80" marker="">
-            <content>1000 XYZ Avenue</content>
-          </paragraph>
-          <paragraph label="1005-A-34-p81" marker="">
-            <content>Anytown, Anystate 12345</content>
-          </paragraph>
-          <paragraph label="1005-A-34-p82" marker="">
-            <content>Today's Date: March 3, 2013</content>
-          </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="15" label="1005-A-35">
-          <subject>A-35—Model Form for Combined Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(3))</subject>
-          <paragraph label="1005-A-35-p111" marker="">
-            <content>ABC Company</content>
-          </paragraph>
-          <paragraph label="1005-A-35-p112" marker="">
-            <content>1000 XYZ Avenue</content>
-          </paragraph>
-          <paragraph label="1005-A-35-p113" marker="">
-            <content>Anytown, Anystate 12345</content>
-          </paragraph>
-          <paragraph label="1005-A-35-p114" marker="">
-            <content>Today's Date: March 3, 2013</content>
-          </paragraph>
-          <paragraph label="1005-A-35-p115" marker="">
+        </paragraph>
+        <paragraph label="1005-A-30-p1" marker="">
+          <content>ABC Company</content>
+        </paragraph>
+        <paragraph label="1005-A-30-p2" marker="">
+          <content>1000 XYZ Avenue</content>
+        </paragraph>
+        <paragraph label="1005-A-30-p3" marker="">
+          <content>Anytown, Anystate 12345</content>
+        </paragraph>
+        <paragraph label="1005-A-30-p4" marker="">
+          <content>Today's Date: March 3, 2013</content>
+        </paragraph>
+      </appendixSection>
+      <appendixSection appendixSecNum="31" label="1005-A-31">
+        <subject>A-31—Model Form for Receipts for Remittance Transfers Exchanged Into Local Currency (§ 1005.31(b)(2))</subject>
+        <paragraph label="1005-A-31-h2" marker="">
+          <title>RECEIPT</title>
+          <content/>
+          <paragraph label="1005-A-31-h2-p12" marker="">
             <content><ref target="1005-30-g" reftype="term">SENDER</ref>:</content>
           </paragraph>
-          <paragraph label="1005-A-35-p116" marker="">
+          <paragraph label="1005-A-31-h2-p13" marker="">
             <content>Pat Jones</content>
           </paragraph>
-          <paragraph label="1005-A-35-p117" marker="">
+          <paragraph label="1005-A-31-h2-p14" marker="">
             <content>100 Anywhere Street</content>
           </paragraph>
-          <paragraph label="1005-A-35-p118" marker="">
+          <paragraph label="1005-A-31-h2-p15" marker="">
             <content>Anytown, Anywhere 54321</content>
           </paragraph>
-          <paragraph label="1005-A-35-p119" marker="">
-            <content>301-555-1212</content>
+          <paragraph label="1005-A-31-h2-p16" marker="">
+            <content>222-555-1212</content>
           </paragraph>
-          <paragraph label="1005-A-35-p120" marker="">
+          <paragraph label="1005-A-31-h2-p17" marker="">
             <content>RECIPIENT:</content>
           </paragraph>
-          <paragraph label="1005-A-35-p121" marker="">
+          <paragraph label="1005-A-31-h2-p18" marker="">
             <content>Carlos Gomez</content>
           </paragraph>
-          <paragraph label="1005-A-35-p122" marker="">
-            <content>106 Calle XXX</content>
+          <paragraph label="1005-A-31-h2-p19" marker="">
+            <content>123 Calle XXX</content>
           </paragraph>
-          <paragraph label="1005-A-35-p123" marker="">
-            <content>Mexico City</content>
+          <paragraph label="1005-A-31-h2-p20" marker="">
+            <content>Mexico City, Mexico</content>
           </paragraph>
-          <paragraph label="1005-A-35-p124" marker="">
-            <content>Mexico</content>
-          </paragraph>
-          <paragraph label="1005-A-35-p125" marker="">
+          <paragraph label="1005-A-31-h2-p21" marker="">
             <content>PICK-UP LOCATION:</content>
           </paragraph>
-          <paragraph label="1005-A-35-p126" marker="">
+          <paragraph label="1005-A-31-h2-p22" marker="">
             <content>ABC Company</content>
           </paragraph>
-          <paragraph label="1005-A-35-p127" marker="">
+          <paragraph label="1005-A-31-h2-p23" marker="">
             <content>65 Avenida YYY</content>
           </paragraph>
-          <paragraph label="1005-A-35-p128" marker="">
-            <content>Mexico City</content>
+          <paragraph label="1005-A-31-h2-p24" marker="">
+            <content>Mexico City, Mexico</content>
           </paragraph>
-          <paragraph label="1005-A-35-p129" marker="">
-            <content>Mexico</content>
-          </paragraph>
-          <paragraph label="1005-A-35-p130" marker="">
+          <paragraph label="1005-A-31-h2-p25" marker="">
             <content>Confirmation Code: ABC 123 DEF 456</content>
           </paragraph>
-          <paragraph label="1005-A-35-p131" marker="">
+          <paragraph label="1005-A-31-h2-p26" marker="">
             <content>Date Available: March 4, 2013</content>
           </paragraph>
-          <paragraph label="1005-A-35-p132" marker="">
+          <paragraph label="1005-A-31-h2-p27" marker="">
+            <content>
+              <table>
+                <header>
+                  <columnHeaderRow>
+                    <column colspan="1" rowspan="1"/>
+                    <column colspan="1" rowspan="1"/>
+                  </columnHeaderRow>
+                </header>
+                <row>
+                  <cell>Transfer Amount</cell>
+                  <cell>$100.00</cell>
+                </row>
+                <row>
+                  <cell>Transfer Fees</cell>
+                  <cell>+$7.00</cell>
+                </row>
+                <row>
+                  <cell>Transfer Taxes</cell>
+                  <cell>+$3.00</cell>
+                </row>
+                <row>
+                  <cell>Total</cell>
+                  <cell>$110.00</cell>
+                </row>
+              </table>
+            </content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p28" marker="">
+            <content>Exchange Rate: US$1.00 = 12.27 MXN</content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p29" marker="">
+            <content>
+              <table>
+                <header>
+                  <columnHeaderRow>
+                    <column colspan="1" rowspan="1"/>
+                    <column colspan="1" rowspan="1"/>
+                  </columnHeaderRow>
+                </header>
+                <row>
+                  <cell>Transfer Amount</cell>
+                  <cell>1,227.00 MXN</cell>
+                </row>
+                <row>
+                  <cell>Other Fees</cell>
+                  <cell>−30.00 MXN</cell>
+                </row>
+                <row>
+                  <cell>Other Taxes</cell>
+                  <cell>−10.00 MXN</cell>
+                </row>
+                <row>
+                  <cell>Total to Recipient</cell>
+                  <cell>1,187.00 MXN</cell>
+                </row>
+              </table>
+            </content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p30" marker="">
+            <content>You have a right to dispute <ref target="1005-11-a-1" reftype="term">errors</ref> in your transaction. If you think there is an <ref target="1005-11-a-1" reftype="term">error</ref>, contact us within 180 days at 800-123-4567 or www.abccompany.com. You can also contact us for a written explanation of your rights.</content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p31" marker="">
+            <content>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p32" marker="">
+            <content>For questions or complaints about ABC Company, contact:</content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p33" marker="">
+            <content><ref target="1005-2-l" reftype="term">State</ref> Regulatory Agency</content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p34" marker="">
+            <content>800-111-2222</content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p35" marker="">
+            <content>www.stateregulatoryagency.gov</content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p36" marker="">
+            <content>Consumer Financial Protection Bureau</content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p37" marker="">
+            <content>855-411-2372</content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p38" marker="">
+            <content>855-729-2372 (TTY/TDD)</content>
+          </paragraph>
+          <paragraph label="1005-A-31-h2-p39" marker="">
+            <content>www.consumerfinance.gov</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1005-A-31-p8" marker="">
+          <content>ABC Company</content>
+        </paragraph>
+        <paragraph label="1005-A-31-p9" marker="">
+          <content>1000 XYZ Avenue</content>
+        </paragraph>
+        <paragraph label="1005-A-31-p10" marker="">
+          <content>Anytown, Anystate 12345</content>
+        </paragraph>
+        <paragraph label="1005-A-31-p11" marker="">
+          <content>Today's Date: March 3, 2013</content>
+        </paragraph>
+      </appendixSection>
+      <appendixSection appendixSecNum="32" label="1005-A-32">
+        <subject>A-32—Model Form for Combined Disclosures for Remittance Transfers Exchanged Into Local Currency (§ 1005.31(b)(3))</subject>
+        <paragraph label="1005-A-32-p40" marker="">
+          <content>ABC Company</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p41" marker="">
+          <content>1000 XYZ Avenue</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p42" marker="">
+          <content>Anytown, Anystate 12345</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p43" marker="">
+          <content>Today's Date: March 3, 2013</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p44" marker="">
+          <content><ref target="1005-30-g" reftype="term">SENDER</ref>:</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p45" marker="">
+          <content>Pat Jones</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p46" marker="">
+          <content>100 Anywhere Street</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p47" marker="">
+          <content>Anytown, Anywhere 54321</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p48" marker="">
+          <content>222-555-1212</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p49" marker="">
+          <content>RECIPIENT:</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p50" marker="">
+          <content>Carlos Gomez</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p51" marker="">
+          <content>123 Calle XXX</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p52" marker="">
+          <content>Mexico City</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p53" marker="">
+          <content>Mexico</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p54" marker="">
+          <content>PICK-UP LOCATION:</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p55" marker="">
+          <content>ABC Company</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p56" marker="">
+          <content>65 Avenida YYY</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p57" marker="">
+          <content>Mexico City</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p58" marker="">
+          <content>Mexico</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p59" marker="">
+          <content>Confirmation Code: ABC 123 DEF 456</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p60" marker="">
+          <content>Date Available: March 4, 2013</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p61" marker="">
+          <content>
+            <table>
+              <header>
+                <columnHeaderRow>
+                  <column colspan="1" rowspan="1"/>
+                  <column colspan="1" rowspan="1"/>
+                </columnHeaderRow>
+              </header>
+              <row>
+                <cell>Transfer Amount</cell>
+                <cell>$100.00</cell>
+              </row>
+              <row>
+                <cell>Transfer Fees</cell>
+                <cell>+$7.00</cell>
+              </row>
+              <row>
+                <cell>Transfer Taxes</cell>
+                <cell>+$3.00</cell>
+              </row>
+              <row>
+                <cell>Total</cell>
+                <cell>$110.00</cell>
+              </row>
+            </table>
+          </content>
+        </paragraph>
+        <paragraph label="1005-A-32-p62" marker="">
+          <content>Exchange Rate: US$1.00 = 12.27 MXN</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p63" marker="">
+          <content>
+            <table>
+              <header>
+                <columnHeaderRow>
+                  <column colspan="1" rowspan="1"/>
+                  <column colspan="1" rowspan="1"/>
+                </columnHeaderRow>
+              </header>
+              <row>
+                <cell>Transfer Amount</cell>
+                <cell>1,227.00 MXN</cell>
+              </row>
+              <row>
+                <cell>Other Fees</cell>
+                <cell>−30.00 MXN</cell>
+              </row>
+              <row>
+                <cell>Other Taxes</cell>
+                <cell>−10.00 MXN</cell>
+              </row>
+              <row>
+                <cell>Total to Recipient</cell>
+                <cell>1,187.00 MXN</cell>
+              </row>
+            </table>
+          </content>
+        </paragraph>
+        <paragraph label="1005-A-32-p64" marker="">
+          <content>You have a right to dispute <ref target="1005-11-a-1" reftype="term">errors</ref> in your transaction. If you think there is an <ref target="1005-11-a-1" reftype="term">error</ref>, contact us within 180 days at 800-123-4567 or www.abccompany.com. You can also contact us for a written explanation of your rights.</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p65" marker="">
+          <content>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p66" marker="">
+          <content>For questions or complaints about ABC Company, contact:</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p67" marker="">
+          <content><ref target="1005-2-l" reftype="term">State</ref> Regulatory Agency</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p68" marker="">
+          <content>800-111-2222</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p69" marker="">
+          <content>www.stateregulatoryagency.gov</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p70" marker="">
+          <content>Consumer Financial Protection Bureau</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p71" marker="">
+          <content>855-411-2372</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p72" marker="">
+          <content>855-729-2372 (TTY/TDD)</content>
+        </paragraph>
+        <paragraph label="1005-A-32-p73" marker="">
+          <content>www.consumerfinance.gov</content>
+        </paragraph>
+      </appendixSection>
+      <appendixSection appendixSecNum="33" label="1005-A-33">
+        <subject>A-33—Model form for Pre-Payment Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(1))</subject>
+        <paragraph label="1005-A-33-h3" marker="">
+          <title>NOT A RECEIPT</title>
+          <content/>
+          <paragraph label="1005-A-33-h3-p78" marker="">
             <content>
               <table>
                 <header>
@@ -979,98 +695,364 @@
               </table>
             </content>
           </paragraph>
-          <paragraph label="1005-A-35-p133" marker="">
+        </paragraph>
+        <paragraph label="1005-A-33-p74" marker="">
+          <content>ABC Company</content>
+        </paragraph>
+        <paragraph label="1005-A-33-p75" marker="">
+          <content>1000 XYZ Avenue</content>
+        </paragraph>
+        <paragraph label="1005-A-33-p76" marker="">
+          <content>Anytown, Anystate 12345</content>
+        </paragraph>
+        <paragraph label="1005-A-33-p77" marker="">
+          <content>Today's Date: March 3, 2013</content>
+        </paragraph>
+      </appendixSection>
+      <appendixSection appendixSecNum="34" label="1005-A-34">
+        <subject>A-34—Model Form for Receipts for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(2))</subject>
+        <paragraph label="1005-A-34-h4" marker="">
+          <title>RECEIPT</title>
+          <content/>
+          <paragraph label="1005-A-34-h4-p83" marker="">
+            <content><ref target="1005-30-g" reftype="term">SENDER</ref>:</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p84" marker="">
+            <content>Pat Jones</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p85" marker="">
+            <content>100 Anywhere Street</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p86" marker="">
+            <content>Anytown, Anywhere 54321</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p87" marker="">
+            <content>301-555-1212</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p88" marker="">
+            <content>RECIPIENT:</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p89" marker="">
+            <content>Carlos Gomez</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p90" marker="">
+            <content>106 Calle XXX</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p91" marker="">
+            <content>Mexico City</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p92" marker="">
+            <content>Mexico</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p93" marker="">
+            <content>PICK-UP LOCATION:</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p94" marker="">
+            <content>ABC Company</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p95" marker="">
+            <content>65 Avenida YYY</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p96" marker="">
+            <content>Mexico City</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p97" marker="">
+            <content>Mexico</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p98" marker="">
+            <content>Confirmation Code: ABC 123 DEF 456</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p99" marker="">
+            <content>Date Available: March 4, 2013</content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p100" marker="">
+            <content>
+              <table>
+                <header>
+                  <columnHeaderRow>
+                    <column colspan="1" rowspan="1"/>
+                    <column colspan="1" rowspan="1"/>
+                  </columnHeaderRow>
+                </header>
+                <row>
+                  <cell>Transfer Amount</cell>
+                  <cell>$100.00</cell>
+                </row>
+                <row>
+                  <cell>Transfer Fees</cell>
+                  <cell>+$7.00</cell>
+                </row>
+                <row>
+                  <cell>Transfer Taxes</cell>
+                  <cell>+$3.00</cell>
+                </row>
+                <row>
+                  <cell>Total</cell>
+                  <cell>$110.00</cell>
+                </row>
+                <row>
+                  <cell>Transfer Amount</cell>
+                  <cell>$100.00</cell>
+                </row>
+                <row>
+                  <cell>Other Fees</cell>
+                  <cell>−$4.00</cell>
+                </row>
+                <row>
+                  <cell>Other Taxes</cell>
+                  <cell>−$1.00</cell>
+                </row>
+                <row>
+                  <cell>Total to Recipient:</cell>
+                  <cell>$95.00</cell>
+                </row>
+              </table>
+            </content>
+          </paragraph>
+          <paragraph label="1005-A-34-h4-p101" marker="">
             <content>You have a right to dispute <ref target="1005-11-a-1" reftype="term">errors</ref> in your transaction. If you think there is an <ref target="1005-11-a-1" reftype="term">error</ref>, contact us within 180 days at 800-123-4567 or www.abccompany.com. You can also contact us for a written explanation of your rights.</content>
           </paragraph>
-          <paragraph label="1005-A-35-p134" marker="">
+          <paragraph label="1005-A-34-h4-p102" marker="">
             <content>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</content>
           </paragraph>
-          <paragraph label="1005-A-35-p135" marker="">
+          <paragraph label="1005-A-34-h4-p103" marker="">
             <content>For questions or complaints about ABC Company, contact:</content>
           </paragraph>
-          <paragraph label="1005-A-35-p136" marker="">
+          <paragraph label="1005-A-34-h4-p104" marker="">
             <content><ref target="1005-2-l" reftype="term">State</ref> Regulatory Agency</content>
           </paragraph>
-          <paragraph label="1005-A-35-p137" marker="">
+          <paragraph label="1005-A-34-h4-p105" marker="">
             <content>800-111-2222</content>
           </paragraph>
-          <paragraph label="1005-A-35-p138" marker="">
+          <paragraph label="1005-A-34-h4-p106" marker="">
             <content>www.stateregulatoryagency.gov</content>
           </paragraph>
-          <paragraph label="1005-A-35-p139" marker="">
+          <paragraph label="1005-A-34-h4-p107" marker="">
             <content>Consumer Financial Protection Bureau</content>
           </paragraph>
-          <paragraph label="1005-A-35-p140" marker="">
+          <paragraph label="1005-A-34-h4-p108" marker="">
             <content>855-411-2372</content>
           </paragraph>
-          <paragraph label="1005-A-35-p141" marker="">
+          <paragraph label="1005-A-34-h4-p109" marker="">
             <content>855-729-2372 (TTY/TDD)</content>
           </paragraph>
-          <paragraph label="1005-A-35-p142" marker="">
+          <paragraph label="1005-A-34-h4-p110" marker="">
             <content>www.consumerfinance.gov</content>
           </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="16" label="1005-A-36">
-          <subject>A-36—Model Form for Error Resolution and Cancellation Disclosures (Long) (§ 1005.31(b)(4))</subject>
-          <paragraph label="1005-A-36-p143" marker="">
-            <content>What to do if you think there has been an <ref target="1005-11-a-1" reftype="term">error</ref> or problem:</content>
+        </paragraph>
+        <paragraph label="1005-A-34-p79" marker="">
+          <content>ABC Company</content>
+        </paragraph>
+        <paragraph label="1005-A-34-p80" marker="">
+          <content>1000 XYZ Avenue</content>
+        </paragraph>
+        <paragraph label="1005-A-34-p81" marker="">
+          <content>Anytown, Anystate 12345</content>
+        </paragraph>
+        <paragraph label="1005-A-34-p82" marker="">
+          <content>Today's Date: March 3, 2013</content>
+        </paragraph>
+      </appendixSection>
+      <appendixSection appendixSecNum="35" label="1005-A-35">
+        <subject>A-35—Model Form for Combined Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(3))</subject>
+        <paragraph label="1005-A-35-p111" marker="">
+          <content>ABC Company</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p112" marker="">
+          <content>1000 XYZ Avenue</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p113" marker="">
+          <content>Anytown, Anystate 12345</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p114" marker="">
+          <content>Today's Date: March 3, 2013</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p115" marker="">
+          <content><ref target="1005-30-g" reftype="term">SENDER</ref>:</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p116" marker="">
+          <content>Pat Jones</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p117" marker="">
+          <content>100 Anywhere Street</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p118" marker="">
+          <content>Anytown, Anywhere 54321</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p119" marker="">
+          <content>301-555-1212</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p120" marker="">
+          <content>RECIPIENT:</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p121" marker="">
+          <content>Carlos Gomez</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p122" marker="">
+          <content>106 Calle XXX</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p123" marker="">
+          <content>Mexico City</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p124" marker="">
+          <content>Mexico</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p125" marker="">
+          <content>PICK-UP LOCATION:</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p126" marker="">
+          <content>ABC Company</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p127" marker="">
+          <content>65 Avenida YYY</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p128" marker="">
+          <content>Mexico City</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p129" marker="">
+          <content>Mexico</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p130" marker="">
+          <content>Confirmation Code: ABC 123 DEF 456</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p131" marker="">
+          <content>Date Available: March 4, 2013</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p132" marker="">
+          <content>
+            <table>
+              <header>
+                <columnHeaderRow>
+                  <column colspan="1" rowspan="1"/>
+                  <column colspan="1" rowspan="1"/>
+                </columnHeaderRow>
+              </header>
+              <row>
+                <cell>Transfer Amount</cell>
+                <cell>$100.00</cell>
+              </row>
+              <row>
+                <cell>Transfer Fees</cell>
+                <cell>+$7.00</cell>
+              </row>
+              <row>
+                <cell>Transfer Taxes</cell>
+                <cell>+$3.00</cell>
+              </row>
+              <row>
+                <cell>Total</cell>
+                <cell>$110.00</cell>
+              </row>
+              <row>
+                <cell>Transfer Amount</cell>
+                <cell>$100.00</cell>
+              </row>
+              <row>
+                <cell>Other Fees</cell>
+                <cell>−$4.00</cell>
+              </row>
+              <row>
+                <cell>Other Taxes</cell>
+                <cell>−$1.00</cell>
+              </row>
+              <row>
+                <cell>Total to Recipient</cell>
+                <cell>$95.00</cell>
+              </row>
+            </table>
+          </content>
+        </paragraph>
+        <paragraph label="1005-A-35-p133" marker="">
+          <content>You have a right to dispute <ref target="1005-11-a-1" reftype="term">errors</ref> in your transaction. If you think there is an <ref target="1005-11-a-1" reftype="term">error</ref>, contact us within 180 days at 800-123-4567 or www.abccompany.com. You can also contact us for a written explanation of your rights.</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p134" marker="">
+          <content>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p135" marker="">
+          <content>For questions or complaints about ABC Company, contact:</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p136" marker="">
+          <content><ref target="1005-2-l" reftype="term">State</ref> Regulatory Agency</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p137" marker="">
+          <content>800-111-2222</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p138" marker="">
+          <content>www.stateregulatoryagency.gov</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p139" marker="">
+          <content>Consumer Financial Protection Bureau</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p140" marker="">
+          <content>855-411-2372</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p141" marker="">
+          <content>855-729-2372 (TTY/TDD)</content>
+        </paragraph>
+        <paragraph label="1005-A-35-p142" marker="">
+          <content>www.consumerfinance.gov</content>
+        </paragraph>
+      </appendixSection>
+      <appendixSection appendixSecNum="36" label="1005-A-36">
+        <subject>A-36—Model Form for Error Resolution and Cancellation Disclosures (Long) (§ 1005.31(b)(4))</subject>
+        <paragraph label="1005-A-36-p143" marker="">
+          <content>What to do if you think there has been an <ref target="1005-11-a-1" reftype="term">error</ref> or problem:</content>
+        </paragraph>
+        <paragraph label="1005-A-36-p144" marker="">
+          <content>If you think there has been an <ref target="1005-11-a-1" reftype="term">error</ref> or problem with your <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>:</content>
+        </paragraph>
+        <paragraph label="1005-A-36-p145" marker="">
+          <content>• Call us at [insert telephone number][; or]</content>
+        </paragraph>
+        <paragraph label="1005-A-36-p146" marker="">
+          <content>• Write us at [insert address][; or]</content>
+        </paragraph>
+        <paragraph label="1005-A-36-p147" marker="">
+          <content>• [Email us at [insert electronic mail address]].</content>
+        </paragraph>
+        <paragraph label="1005-A-36-p148" marker="">
+          <content>You must contact us within 180 days of the date we promised to you that funds would be made available to the recipient. When you do, please tell us:</content>
+          <paragraph label="1005-A-36-p148-1" marker="(1)">
+            <content>Your name and address [or telephone number];</content>
           </paragraph>
-          <paragraph label="1005-A-36-p144" marker="">
-            <content>If you think there has been an <ref target="1005-11-a-1" reftype="term">error</ref> or problem with your <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>:</content>
+          <paragraph label="1005-A-36-p148-2" marker="(2)">
+            <content>The <ref target="1005-11-a-1" reftype="term">error</ref> or problem with the transfer, and why you believe it is an <ref target="1005-11-a-1" reftype="term">error</ref> or problem;</content>
           </paragraph>
-          <paragraph label="1005-A-36-p145" marker="">
-            <content>• Call us at [insert telephone number][; or]</content>
+          <paragraph label="1005-A-36-p148-3" marker="(3)">
+            <content>The name of the <ref target="1005-2-j" reftype="term">person</ref> receiving the funds, and if you know it, his or her telephone number or address; [and]</content>
           </paragraph>
-          <paragraph label="1005-A-36-p146" marker="">
-            <content>• Write us at [insert address][; or]</content>
+          <paragraph label="1005-A-36-p148-4" marker="(4)">
+            <content>The dollar amount of the transfer; [and</content>
           </paragraph>
-          <paragraph label="1005-A-36-p147" marker="">
-            <content>• [Email us at [insert electronic mail address]].</content>
+          <paragraph label="1005-A-36-p148-5" marker="(5)">
+            <content>The confirmation code or number of the transaction.]</content>
           </paragraph>
-          <paragraph label="1005-A-36-p148" marker="">
-            <content>You must contact us within 180 days of the date we promised to you that funds would be made available to the recipient. When you do, please tell us:</content>
-            <paragraph label="1005-A-36-p148-1" marker="(1)">
-              <content>Your name and address [or telephone number];</content>
-            </paragraph>
-            <paragraph label="1005-A-36-p148-2" marker="(2)">
-              <content>The <ref target="1005-11-a-1" reftype="term">error</ref> or problem with the transfer, and why you believe it is an <ref target="1005-11-a-1" reftype="term">error</ref> or problem;</content>
-            </paragraph>
-            <paragraph label="1005-A-36-p148-3" marker="(3)">
-              <content>The name of the <ref target="1005-2-j" reftype="term">person</ref> receiving the funds, and if you know it, his or her telephone number or address; [and]</content>
-            </paragraph>
-            <paragraph label="1005-A-36-p148-4" marker="(4)">
-              <content>The dollar amount of the transfer; [and</content>
-            </paragraph>
-            <paragraph label="1005-A-36-p148-5" marker="(5)">
-              <content>The confirmation code or number of the transaction.]</content>
-            </paragraph>
-            <paragraph label="1005-A-36-p148-p149" marker="">
-              <content>We will determine whether an <ref target="1005-11-a-1" reftype="term">error</ref> occurred within 90 days after you contact us and we will correct any <ref target="1005-11-a-1" reftype="term">error</ref> promptly. We will tell you the results within three <ref target="1005-30-b" reftype="term">business days</ref> after completing our investigation. If we decide that there was no <ref target="1005-11-a-1" reftype="term">error</ref>, we will send you a written explanation. You may ask for copies of any documents we used in our investigation.</content>
-            </paragraph>
-            <paragraph label="1005-A-36-p148-p150" marker="">
-              <content>What to do if you want to cancel a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>:</content>
-            </paragraph>
-            <paragraph label="1005-A-36-p148-p151" marker="">
-              <content>You have the right to cancel a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> and obtain a refund of all funds paid to us, including any fees. In order to cancel, you must contact us at the [phone number or email address] above within 30 minutes of payment for the transfer.</content>
-            </paragraph>
-            <paragraph label="1005-A-36-p148-p152" marker="">
-              <content>When you contact us, you must provide us with information to help us identify the transfer you wish to cancel, including the amount and location where the funds were sent. We will refund your money within three <ref target="1005-30-b" reftype="term">business days</ref> of your request to cancel a transfer as long as the funds have not already been picked up or deposited into a recipient's <ref target="1005-2-b-1" reftype="term">account</ref>.</content>
-            </paragraph>
+          <paragraph label="1005-A-36-p148-p149" marker="">
+            <content>We will determine whether an <ref target="1005-11-a-1" reftype="term">error</ref> occurred within 90 days after you contact us and we will correct any <ref target="1005-11-a-1" reftype="term">error</ref> promptly. We will tell you the results within three <ref target="1005-30-b" reftype="term">business days</ref> after completing our investigation. If we decide that there was no <ref target="1005-11-a-1" reftype="term">error</ref>, we will send you a written explanation. You may ask for copies of any documents we used in our investigation.</content>
           </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="17" label="1005-A-37">
-          <subject>A-37—Model Form for Error Resolution and Cancellation Disclosures (Short) (§ 1005.31(b)(2)(iv) and (vi))</subject>
-          <paragraph label="1005-A-37-p153" marker="">
-            <content>You have a right to dispute <ref target="1005-11-a-1" reftype="term">errors</ref> in your transaction. If you think there is an <ref target="1005-11-a-1" reftype="term">error</ref>, contact us within 180 days at [insert telephone number] or [insert Web site]. You can also contact us for a written explanation of your rights.</content>
+          <paragraph label="1005-A-36-p148-p150" marker="">
+            <content>What to do if you want to cancel a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>:</content>
           </paragraph>
-          <paragraph label="1005-A-37-p154" marker="">
-            <content>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</content>
+          <paragraph label="1005-A-36-p148-p151" marker="">
+            <content>You have the right to cancel a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> and obtain a refund of all funds paid to us, including any fees. In order to cancel, you must contact us at the [phone number or email address] above within 30 minutes of payment for the transfer.</content>
           </paragraph>
-          <paragraph label="1005-A-37-p155" marker="">
-            <content>For questions or complaints about [insert name of <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>], contact:</content>
+          <paragraph label="1005-A-36-p148-p152" marker="">
+            <content>When you contact us, you must provide us with information to help us identify the transfer you wish to cancel, including the amount and location where the funds were sent. We will refund your money within three <ref target="1005-30-b" reftype="term">business days</ref> of your request to cancel a transfer as long as the funds have not already been picked up or deposited into a recipient's <ref target="1005-2-b-1" reftype="term">account</ref>.</content>
           </paragraph>
-        </appendixSection>
-	-->
-
+        </paragraph>
+      </appendixSection>
+      <appendixSection appendixSecNum="37" label="1005-A-37">
+        <subject>A-37—Model Form for Error Resolution and Cancellation Disclosures (Short) (§ 1005.31(b)(2)(iv) and (vi))</subject>
+        <paragraph label="1005-A-37-p153" marker="">
+          <content>You have a right to dispute <ref target="1005-11-a-1" reftype="term">errors</ref> in your transaction. If you think there is an <ref target="1005-11-a-1" reftype="term">error</ref>, contact us within 180 days at [insert telephone number] or [insert Web site]. You can also contact us for a written explanation of your rights.</content>
+        </paragraph>
+        <paragraph label="1005-A-37-p154" marker="">
+          <content>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</content>
+        </paragraph>
+        <paragraph label="1005-A-37-p155" marker="">
+          <content>For questions or complaints about [insert name of <ref target="1005-30-f" reftype="term">remittance transfer provider</ref>], contact:</content>
+        </paragraph>
+      </appendixSection>
+-->
   </changeset>
 </notice>
