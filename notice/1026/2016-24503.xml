@@ -113,7 +113,7 @@
   </change>
   <!-- 20. Section 1026.52 is amended by revising the heading for paragraph (a) to read as follows: -->
   <change operation="modified" label="1026-52-a" subpath="title">
-    <title>Limitations during first year after account opening—</title>
+    <title>Limitations during first year after account opening.</title>
   </change>
   <!-- 21. Section 1026.60 is amended by revising paragraph (a)(5)(iv) and paragraph (b) introductory text to read as follows: -->
   <change operation="modified" label="1026-60-a-5-iv">
@@ -287,7 +287,7 @@
     <section label="1026-61" sectionNum="61">
       <subject>§ 1026.61 Hybrid prepaid-credit cards.</subject>
       <paragraph label="1026-61-a" marker="(a)">
-        <title type="keyterm">Hybrid prepaid-credit card—</title>
+        <title type="keyterm">Hybrid prepaid-credit card.</title>
         <content/>
         <paragraph label="1026-61-a-1" marker="(1)">
           <title type="keyterm">In general.</title>
@@ -300,7 +300,7 @@
             <content>A <ref target="1026-61-a-5-vii" reftype="term">prepaid card</ref> is not a hybrid prepaid-credit card or a <ref target="1026-2-a-15-i" reftype="term">credit card</ref> for purposes of this regulation if the only <ref target="1026-2-a-14" reftype="term">credit</ref> offered in connection with the <ref target="1026-61-a-5-v" reftype="term">prepaid account</ref> meets the conditions set forth in paragraph (a)(4) of this section.</content></paragraph>
         </paragraph>
         <paragraph label="1026-61-a-2" marker="(2)">
-          <title type="keyterm">Prepaid card can access credit from a covered separate credit feature—</title>
+          <title type="keyterm">Prepaid card can access credit from a covered separate credit feature.</title>
           <content/>
           <paragraph label="1026-61-a-2-i" marker="(i)">
             <title type="keyterm">Covered separate credit feature.</title>
@@ -319,7 +319,7 @@
             <content>A <ref target="1026-61-a-5-viii" reftype="term">separate credit feature</ref> that does not meet the two conditions set forth in paragraph <ref target="1026-61-a-2-i" reftype="internal">(a)(2)(i)</ref> of this section is defined as a non-covered <ref target="1026-61-a-5-viii" reftype="term">separate credit feature</ref>. A <ref target="1026-61-a-5-vii" reftype="term">prepaid card</ref> is not a hybrid prepaid-credit card with respect to a non-covered <ref target="1026-61-a-5-viii" reftype="term">separate credit feature</ref>, even if the <ref target="1026-61-a-5-vii" reftype="term">prepaid card</ref> is a hybrid prepaid-credit card with respect to a covered <ref target="1026-61-a-5-viii" reftype="term">separate credit feature</ref> as described in paragraph <ref target="1026-61-a-2-i" reftype="internal">(a)(2)(i)</ref> of this section. A non-covered <ref target="1026-61-a-5-viii" reftype="term">separate credit feature</ref> is not subject to the rules applicable to hybrid prepaid-credit cards; however, it may be subject to this regulation depending on its own terms and conditions, independent of the connection to the <ref target="1026-61-a-5-v" reftype="term">prepaid account</ref>.</content></paragraph>
         </paragraph>
         <paragraph label="1026-61-a-3" marker="(3)">
-          <title type="keyterm">Prepaid card can access credit extended through a negative balance on the asset feature of the prepaid account—</title>
+          <title type="keyterm">Prepaid card can access credit extended through a negative balance on the asset feature of the prepaid account.</title>
           <content/>
           <paragraph label="1026-61-a-3-i" marker="(i)">
             <title type="keyterm">In general.</title>
