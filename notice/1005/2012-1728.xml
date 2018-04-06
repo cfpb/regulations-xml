@@ -1695,7 +1695,7 @@
     <change operation="added" label="1005-31-Interp" after="1005-30-Interp">
       <interpSection label="1005-31-Interp" sectionNum="31" target="1005-31">
         <title>Section 1005.31-Disclosures</title>
-        <interpParagraph label="1005-31-a-Interp" marker="Interp" target="1005-31-a">
+        <interpParagraph label="1005-31-a-Interp">
           <title>31(a) General Form of Disclosures</title>
           <content/>
           <interpParagraph label="1005-31-a-1-Interp" marker="Interp" target="1005-31-a-1">
