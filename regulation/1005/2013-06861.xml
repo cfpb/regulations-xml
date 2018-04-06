@@ -214,10 +214,10 @@
             <paragraph label="1005-2-a" marker="(a)">
               <content/>
               <paragraph label="1005-2-a-1" marker="(1)">
-                <content>“<def term="access device" id="c01e31777df185658437f47e64134bc69e87144d">Access device</def>” means a card, code, or other means of access to a <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref>, or any combination thereof, that may be used by the <ref target="1005-2-e" reftype="term">consumer</ref> to initiate <ref target="1005-3-b-1" reftype="term">electronic fund transfers</ref>.</content>
+                <content>“<def term="access device">Access device</def>” means a card, code, or other means of access to a <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref>, or any combination thereof, that may be used by the <ref target="1005-2-e" reftype="term">consumer</ref> to initiate <ref target="1005-3-b-1" reftype="term">electronic fund transfers</ref>.</content>
               </paragraph>
               <paragraph label="1005-2-a-2" marker="(2)">
-                <content>An <ref target="1005-2-a-1" reftype="term">access device</ref> becomes an “<def term="accepted access device" id="d0a2a5aeb884e275d54fad4925dee8869368cdbd">accepted access device</def>” when the <ref target="1005-2-e" reftype="term">consumer</ref>:</content>
+                <content>An <ref target="1005-2-a-1" reftype="term">access device</ref> becomes an “<def term="accepted access device">accepted access device</def>” when the <ref target="1005-2-e" reftype="term">consumer</ref>:</content>
                 <paragraph label="1005-2-a-2-i" marker="(i)">
                   <content>Requests and receives, or signs, or uses (or authorizes another to use) the <ref target="1005-2-a-1" reftype="term">access device</ref> to transfer money between <ref target="1005-2-b-1" reftype="term">accounts</ref> or to obtain money, property, or services;</content>
                 </paragraph>
@@ -232,47 +232,47 @@
             <paragraph label="1005-2-b" marker="(b)">
               <content/>
               <paragraph label="1005-2-b-1" marker="(1)">
-                <content>“<def term="account" id="ca20728d35f00c3a4c21b1fc8b0086b59f89df2d">Account</def>” means a demand deposit (checking), savings, or other <ref target="1005-2-e" reftype="term">consumer</ref> asset account (other than an occasional or incidental <ref target="1005-2-f" reftype="term">credit</ref> balance in a <ref target="1005-2-f" reftype="term">credit</ref> plan) held directly or indirectly by a <ref target="1005-2-i" reftype="term">financial institution</ref> and established primarily for personal, family, or household purposes.</content>
+                <content>“<def term="account">Account</def>” means a demand deposit (checking), savings, or other <ref target="1005-2-e" reftype="term">consumer</ref> asset account (other than an occasional or incidental <ref target="1005-2-f" reftype="term">credit</ref> balance in a <ref target="1005-2-f" reftype="term">credit</ref> plan) held directly or indirectly by a <ref target="1005-2-i" reftype="term">financial institution</ref> and established primarily for personal, family, or household purposes.</content>
               </paragraph>
               <paragraph label="1005-2-b-2" marker="(2)">
-                <content>The term includes a “<def term="payroll card account" id="ef0952a3ad2bb2dfe50bddde925d7e1126c089a8">payroll card account</def>” which is an <ref target="1005-2-b-1" reftype="term">account</ref> that is directly or indirectly established through an employer and to which <ref target="1005-3-b-1" reftype="term">electronic fund transfers</ref> of the <ref target="1005-2-e" reftype="term">consumer</ref>'s wages, salary, or other employee compensation (such as commissions), are made on a recurring basis, whether the <ref target="1005-2-b-1" reftype="term">account</ref> is operated or managed by the employer, a third-party payroll processor, a depository institution or any other <ref target="1005-2-j" reftype="term">person</ref>. For rules governing payroll card <ref target="1005-2-b-1" reftype="term">accounts</ref>, see § <ref target="1005-18" reftype="internal">1005.18</ref>.</content>
+                <content>The term includes a “<def term="payroll card account">payroll card account</def>” which is an <ref target="1005-2-b-1" reftype="term">account</ref> that is directly or indirectly established through an employer and to which <ref target="1005-3-b-1" reftype="term">electronic fund transfers</ref> of the <ref target="1005-2-e" reftype="term">consumer</ref>'s wages, salary, or other employee compensation (such as commissions), are made on a recurring basis, whether the <ref target="1005-2-b-1" reftype="term">account</ref> is operated or managed by the employer, a third-party payroll processor, a depository institution or any other <ref target="1005-2-j" reftype="term">person</ref>. For rules governing payroll card <ref target="1005-2-b-1" reftype="term">accounts</ref>, see § <ref target="1005-18" reftype="internal">1005.18</ref>.</content>
               </paragraph>
               <paragraph label="1005-2-b-3" marker="(3)">
                 <content>The term does not include an <ref target="1005-2-b-1" reftype="term">account</ref> held by a <ref target="1005-2-i" reftype="term">financial institution</ref> under a bona fide trust agreement.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1005-2-c" marker="(c)">
-              <content>“<def term="act" id="76f3b5a7170a92212a5f574d56031269c1f38638">Act</def>” means the Electronic Fund Transfer Act (Title IX of the Consumer Credit Protection Act, <ref target="USC:15-1693" reftype="external">15 U.S.C. 1693</ref> et seq.).</content>
+              <content>“<def term="act">Act</def>” means the Electronic Fund Transfer Act (Title IX of the Consumer Credit Protection Act, <ref target="USC:15-1693" reftype="external">15 U.S.C. 1693</ref> et seq.).</content>
             </paragraph>
             <paragraph label="1005-2-d" marker="(d)">
-              <content>“<def term="business day" id="25fd9fdbc033117a3539f27992eb2411d9178f0d">Business day</def>” means any day on which the offices of the <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-i" reftype="term">financial institution</ref> are open to the public for carrying on substantially all business functions.</content>
+              <content>“<def term="business day">Business day</def>” means any day on which the offices of the <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-i" reftype="term">financial institution</ref> are open to the public for carrying on substantially all business functions.</content>
             </paragraph>
             <paragraph label="1005-2-e" marker="(e)">
-              <content>“<def term="consumer" id="cb7a82c317871051c535dc464aab698448138aae">Consumer</def>” means a natural <ref target="1005-2-j" reftype="term">person</ref>.</content>
+              <content>“<def term="consumer">Consumer</def>” means a natural <ref target="1005-2-j" reftype="term">person</ref>.</content>
             </paragraph>
             <paragraph label="1005-2-f" marker="(f)">
-              <content>“<def term="credit" id="9cf5e7cd8fcf394934688710870f7642ee7eede5">Credit</def>” means the right granted by a <ref target="1005-2-i" reftype="term">financial institution</ref> to a <ref target="1005-2-e" reftype="term">consumer</ref> to defer payment of debt, incur debt and defer its payment, or purchase property or services and defer payment therefor.</content>
+              <content>“<def term="credit">Credit</def>” means the right granted by a <ref target="1005-2-i" reftype="term">financial institution</ref> to a <ref target="1005-2-e" reftype="term">consumer</ref> to defer payment of debt, incur debt and defer its payment, or purchase property or services and defer payment therefor.</content>
             </paragraph>
             <paragraph label="1005-2-g" marker="(g)">
-              <content>“<def term="electronic fund transfer" id="1d9689472cf4fc970398f208a9900c0dd566262f">Electronic fund transfer</def>” is defined in § <ref target="1005-3" reftype="internal">1005.3</ref>.</content>
+              <content>“<def term="electronic fund transfer">Electronic fund transfer</def>” is defined in § <ref target="1005-3" reftype="internal">1005.3</ref>.</content>
             </paragraph>
             <paragraph label="1005-2-h" marker="(h)">
-              <content>“<def term="electronic terminal" id="5ad4532ee885744a6835681849ad9244d6f9b564">Electronic terminal</def>” means an electronic device, other than a telephone operated by a <ref target="1005-2-e" reftype="term">consumer</ref>, through which a <ref target="1005-2-e" reftype="term">consumer</ref> may initiate an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref>. The term includes, but is not limited to, point-of-sale terminals, automated teller machines (ATMs), and cash dispensing machines.</content>
+              <content>“<def term="electronic terminal">Electronic terminal</def>” means an electronic device, other than a telephone operated by a <ref target="1005-2-e" reftype="term">consumer</ref>, through which a <ref target="1005-2-e" reftype="term">consumer</ref> may initiate an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref>. The term includes, but is not limited to, point-of-sale terminals, automated teller machines (ATMs), and cash dispensing machines.</content>
             </paragraph>
             <paragraph label="1005-2-i" marker="(i)">
-              <content>“<def term="financial institution" id="a4cb491a8c6509702741c0f7f6d34ee36b51b653">Financial institution</def>” means a bank, savings association, credit union, or any other <ref target="1005-2-j" reftype="term">person</ref> that directly or indirectly holds an <ref target="1005-2-b-1" reftype="term">account</ref> belonging to a <ref target="1005-2-e" reftype="term">consumer</ref>, or that issues an <ref target="1005-2-a-1" reftype="term">access device</ref> and agrees with a <ref target="1005-2-e" reftype="term">consumer</ref> to provide <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> services, other than a <ref target="1005-2-j" reftype="term">person</ref> excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, Title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, <ref target="PUBLIC_LAW:111-203" reftype="external">Public Law 111-203</ref>, <ref target="STATUTES_AT_LARGE:124-Stat.-1376" reftype="external">124 Stat. 1376</ref>.</content>
+              <content>“<def term="financial institution">Financial institution</def>” means a bank, savings association, credit union, or any other <ref target="1005-2-j" reftype="term">person</ref> that directly or indirectly holds an <ref target="1005-2-b-1" reftype="term">account</ref> belonging to a <ref target="1005-2-e" reftype="term">consumer</ref>, or that issues an <ref target="1005-2-a-1" reftype="term">access device</ref> and agrees with a <ref target="1005-2-e" reftype="term">consumer</ref> to provide <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> services, other than a <ref target="1005-2-j" reftype="term">person</ref> excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, Title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, <ref target="PUBLIC_LAW:111-203" reftype="external">Public Law 111-203</ref>, <ref target="STATUTES_AT_LARGE:124-Stat.-1376" reftype="external">124 Stat. 1376</ref>.</content>
             </paragraph>
             <paragraph label="1005-2-j" marker="(j)">
-              <content>“<def term="person" id="d39a47507bbe27c2a7948861847f3607eda8e1be">Person</def>” means a natural person or an organization, including a corporation, government agency, estate, trust, partnership, proprietorship, cooperative, or association.</content>
+              <content>“<def term="person">Person</def>” means a natural person or an organization, including a corporation, government agency, estate, trust, partnership, proprietorship, cooperative, or association.</content>
             </paragraph>
             <paragraph label="1005-2-k" marker="(k)">
-              <content>“<def term="preauthorized electronic fund transfer" id="c51dcf9eb4f35900d8352999435438fe08703b81">Preauthorized electronic fund transfer</def>” means an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> authorized in advance to recur at substantially regular intervals.</content>
+              <content>“<def term="preauthorized electronic fund transfer">Preauthorized electronic fund transfer</def>” means an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> authorized in advance to recur at substantially regular intervals.</content>
             </paragraph>
             <paragraph label="1005-2-l" marker="(l)">
-              <content>“<def term="state" id="aa4a5f8125f234182e2dea92805afdfb747a86be">State</def>” means any state, territory, or possession of the United States; the District of Columbia; the Commonwealth of Puerto Rico; or any political subdivision of the thereof in this paragraph <ref target="1005-2-l" reftype="internal">(l)</ref>.</content>
+              <content>“<def term="state">State</def>” means any state, territory, or possession of the United States; the District of Columbia; the Commonwealth of Puerto Rico; or any political subdivision of the thereof in this paragraph <ref target="1005-2-l" reftype="internal">(l)</ref>.</content>
             </paragraph>
             <paragraph label="1005-2-m" marker="(m)">
-              <content>“<def term="unauthorized electronic fund transfer" id="db0ad6ad8818ac332169967c441b49d1a049d15b">Unauthorized electronic fund transfer</def>” means an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> from a <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> initiated by a <ref target="1005-2-j" reftype="term">person</ref> other than the <ref target="1005-2-e" reftype="term">consumer</ref> without actual authority to initiate the transfer and from which the <ref target="1005-2-e" reftype="term">consumer</ref> receives no benefit. The term does not include an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> initiated:</content>
+              <content>“<def term="unauthorized electronic fund transfer">Unauthorized electronic fund transfer</def>” means an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> from a <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> initiated by a <ref target="1005-2-j" reftype="term">person</ref> other than the <ref target="1005-2-e" reftype="term">consumer</ref> without actual authority to initiate the transfer and from which the <ref target="1005-2-e" reftype="term">consumer</ref> receives no benefit. The term does not include an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> initiated:</content>
               <paragraph label="1005-2-m-1" marker="(1)">
                 <content>By a <ref target="1005-2-j" reftype="term">person</ref> who was furnished the <ref target="1005-2-a-1" reftype="term">access device</ref> to the <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> by the <ref target="1005-2-e" reftype="term">consumer</ref>, unless the <ref target="1005-2-e" reftype="term">consumer</ref> has notified the <ref target="1005-2-i" reftype="term">financial institution</ref> that transfers by that <ref target="1005-2-j" reftype="term">person</ref> are no longer authorized;</content>
               </paragraph>
@@ -295,7 +295,7 @@
               <content/>
               <paragraph label="1005-3-b-1" marker="(1)">
                 <title type="keyterm">Definition.</title>
-                <content>The term “<def term="electronic fund transfer" id="1d9689472cf4fc970398f208a9900c0dd566262f">electronic fund transfer</def>” means any transfer of funds that is initiated through an <ref target="1005-2-h" reftype="term">electronic terminal</ref>, telephone, computer, or magnetic tape for the purpose of ordering, instructing, or authorizing a <ref target="1005-2-i" reftype="term">financial institution</ref> to debit or <ref target="1005-2-f" reftype="term">credit</ref> a <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref>. The term includes, but is not limited to:</content>
+                <content>The term “<def term="electronic fund transfer">electronic fund transfer</def>” means any transfer of funds that is initiated through an <ref target="1005-2-h" reftype="term">electronic terminal</ref>, telephone, computer, or magnetic tape for the purpose of ordering, instructing, or authorizing a <ref target="1005-2-i" reftype="term">financial institution</ref> to debit or <ref target="1005-2-f" reftype="term">credit</ref> a <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref>. The term includes, but is not limited to:</content>
                 <paragraph label="1005-3-b-1-i" marker="(i)">
                   <content>Point-of-sale transfers;</content>
                 </paragraph>
@@ -797,7 +797,7 @@
               <content/>
               <paragraph label="1005-11-a-1" marker="(1)">
                 <title type="keyterm">Types of transfers or inquiries covered.</title>
-                <content>The term “<def term="error" id="11f9578d05e6f7bb58a3cdd00107e9f4e3882671">error</def>” means:</content>
+                <content>The term “<def term="error">error</def>” means:</content>
                 <paragraph label="1005-11-a-1-i" marker="(i)">
                   <content>An <ref target="1005-2-m" reftype="term">unauthorized electronic fund transfer</ref>;</content>
                 </paragraph>
@@ -822,7 +822,7 @@
               </paragraph>
               <paragraph label="1005-11-a-2" marker="(2)">
                 <title type="keyterm">Types of inquiries not covered.</title>
-                <content>The term “<def term="error" id="11f9578d05e6f7bb58a3cdd00107e9f4e3882671">error</def>” does not include:</content>
+                <content>The term “<def term="error">error</def>” does not include:</content>
                 <paragraph label="1005-11-a-2-i" marker="(i)">
                   <content>A routine inquiry about the <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> balance;</content>
                 </paragraph>
@@ -1110,12 +1110,12 @@
                 <content>A government agency is deemed to be a <ref target="1005-2-i" reftype="term">financial institution</ref> for purposes of <ref target="USC:12-1693" reftype="external">the Act</ref> and this part if directly or indirectly it issues an <ref target="1005-2-a-1" reftype="term">access device</ref> to a <ref target="1005-2-e" reftype="term">consumer</ref> for use in initiating an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> of government benefits from an <ref target="1005-15-a-2" reftype="term">account</ref>, other than needs-tested benefits in a program established under <ref target="1005-2-l" reftype="term">state</ref> or local law or administered by a <ref target="1005-2-l" reftype="term">state</ref> or local agency. The agency shall comply with all applicable requirements of <ref target="USC:12-1693" reftype="external">the Act</ref> and this part, except as provided in this section.</content>
               </paragraph>
               <paragraph label="1005-15-a-2" marker="(2)">
-                <content>For purposes of this section, the term “<def term="account" id="ca20728d35f00c3a4c21b1fc8b0086b59f89df2d">account</def>” means an <ref target="1005-2-b-1" reftype="term">account</ref> established by a government agency for distributing government benefits to a <ref target="1005-2-e" reftype="term">consumer</ref> electronically, such as through automated teller machines or point-of-sale terminals, but does not include an <ref target="1005-2-b-1" reftype="term">account</ref> for distributing needs-tested benefits in a program established under <ref target="1005-2-l" reftype="term">state</ref> or local law or administered by a <ref target="1005-2-l" reftype="term">state</ref> or local agency.</content>
+                <content>For purposes of this section, the term “<def term="account">account</def>” means an <ref target="1005-2-b-1" reftype="term">account</ref> established by a government agency for distributing government benefits to a <ref target="1005-2-e" reftype="term">consumer</ref> electronically, such as through automated teller machines or point-of-sale terminals, but does not include an <ref target="1005-2-b-1" reftype="term">account</ref> for distributing needs-tested benefits in a program established under <ref target="1005-2-l" reftype="term">state</ref> or local law or administered by a <ref target="1005-2-l" reftype="term">state</ref> or local agency.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1005-15-b" marker="(b)">
               <title type="keyterm">Issuance of access devices.</title>
-              <content>For purposes of this section, a consumer is deemed to request an access device when the consumer applies for government benefits that the agency disburses or will disburse by means of an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref>. The agency shall verify the identity of the <ref target="1005-2-e" reftype="term">consumer</ref> receiving the device by reasonable means before the device is activated.</content>
+              <content>For purposes of this section, <def term="a consumer is deemed to request an access device when the consumer applies for government benefits that the agency disburses or will disburse by">a consumer is deemed to request an access device when the consumer applies for government benefits that the agency disburses or will disburse by</def> means of an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref>. The agency shall verify the identity of the <ref target="1005-2-e" reftype="term">consumer</ref> receiving the device by reasonable means before the device is activated.</content>
             </paragraph>
             <paragraph label="1005-15-c" marker="(c)">
               <title type="keyterm">Alternative to periodic statement.</title>
@@ -1164,32 +1164,32 @@
             <subject>§ 1005.16 Disclosures at automated teller machines.</subject>
             <paragraph label="1005-16-a" marker="(a)">
               <title type="keyterm">Definition.</title>
-              <content>“<def term="automated teller machine operator" id="fac24ee55ffea4f09afadfe70b9c0c50e15b9545">Automated teller machine operator</def>” means any <ref target="1005-2-j" reftype="term">person</ref> that operates an automated teller machine at which a <ref target="1005-2-e" reftype="term">consumer</ref> initiates an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> or a balance inquiry and that does not hold the <ref target="1005-2-b-1" reftype="term">account</ref> to or from which the transfer is made, or about which an inquiry is made.</content>
+              <content>“<def term="automated teller machine operator">Automated teller machine operator</def>” means any <ref target="1005-2-j" reftype="term">person</ref> that operates an automated teller machine at which a <ref target="1005-2-e" reftype="term">consumer</ref> initiates an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> or a balance inquiry and that does not hold the <ref target="1005-2-b-1" reftype="term">account</ref> to or from which the transfer is made, or about which an inquiry is made.</content>
             </paragraph>
             <paragraph label="1005-16-b" marker="(b)">
-        <title type="keyterm">General.</title>
-        <content>An <ref target="1005-16-a" reftype="term">automated teller machine operator</ref> that imposes a fee on a <ref target="1005-2-e" reftype="term">consumer</ref> for initiating an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> or a balance inquiry must provide a notice that a fee will be imposed for providing <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> services or a balance inquiry that discloses the amount of the fee.</content>
+      <title type="keyterm">General.</title>
+      <content>An <ref target="1005-16-a" reftype="term">automated teller machine operator</ref> that imposes a fee on a <ref target="1005-2-e" reftype="term">consumer</ref> for initiating an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> or a balance inquiry must provide a notice that a fee will be imposed for providing <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> services or a balance inquiry that discloses the amount of the fee.</content>
+    </paragraph>
+  <paragraph label="1005-16-c" marker="(c)">
+      <title type="keyterm">Notice requirement.</title>
+      <content>An <ref target="1005-16-a" reftype="term">automated teller machine operator</ref> must provide the notice required by paragraph <ref target="1005-16-b" reftype="internal">(b)</ref> of this section either by showing it on the screen of the automated teller machine or by providing it on paper, before the <ref target="1005-2-e" reftype="term">consumer</ref> is committed to paying a fee.</content>
+    </paragraph>
+  <paragraph label="1005-16-d" marker="(d)">
+      <title type="keyterm">Imposition of fee.</title>
+      <content>An <ref target="1005-16-a" reftype="term">automated teller machine operator</ref> may impose a fee on a <ref target="1005-2-e" reftype="term">consumer</ref> for initiating an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> or a balance inquiry only if:</content>
+      <paragraph label="1005-16-d-1" marker="(1)">
+        <content>The <ref target="1005-2-e" reftype="term">consumer</ref> is provided the notice required under paragraph <ref target="1005-16-c" reftype="internal">(c)</ref> of this section, and</content>
       </paragraph>
-    <paragraph label="1005-16-c" marker="(c)">
-        <title type="keyterm">Notice requirement.</title>
-        <content>An <ref target="1005-16-a" reftype="term">automated teller machine operator</ref> must provide the notice required by paragraph <ref target="1005-16-b" reftype="internal">(b)</ref> of this section either by showing it on the screen of the automated teller machine or by providing it on paper, before the <ref target="1005-2-e" reftype="term">consumer</ref> is committed to paying a fee.</content>
+      <paragraph label="1005-16-d-2" marker="(2)">
+        <content>The <ref target="1005-2-e" reftype="term">consumer</ref> elects to continue the transaction or inquiry after receiving such notice.</content>
       </paragraph>
-    <paragraph label="1005-16-d" marker="(d)">
-        <title type="keyterm">Imposition of fee.</title>
-        <content>An <ref target="1005-16-a" reftype="term">automated teller machine operator</ref> may impose a fee on a <ref target="1005-2-e" reftype="term">consumer</ref> for initiating an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref> or a balance inquiry only if:</content>
-        <paragraph label="1005-16-d-1" marker="(1)">
-          <content>The <ref target="1005-2-e" reftype="term">consumer</ref> is provided the notice required under paragraph <ref target="1005-16-c" reftype="internal">(c)</ref> of this section, and</content>
-        </paragraph>
-        <paragraph label="1005-16-d-2" marker="(2)">
-          <content>The <ref target="1005-2-e" reftype="term">consumer</ref> elects to continue the transaction or inquiry after receiving such notice.</content>
-        </paragraph>
-      </paragraph>
-    </section>
+    </paragraph>
+  </section>
           <section label="1005-17" sectionNum="17">
             <subject>§ 1005.17 Requirements for overdraft services.</subject>
             <paragraph label="1005-17-a" marker="(a)">
               <title type="keyterm">Definition.</title>
-              <content>For purposes of this section, the term “<def term="overdraft service" id="dc40d24f4087e1e1bb7dae38d53545e1cc77343f">overdraft service</def>” means a service under which a <ref target="1005-2-i" reftype="term">financial institution</ref> assesses a fee or charge on a <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> held by the institution for paying a transaction (including a check or other item) when the <ref target="1005-2-e" reftype="term">consumer</ref> has insufficient or unavailable funds in the <ref target="1005-2-b-1" reftype="term">account</ref>. The term “overdraft service” does not include any payment of overdrafts pursuant to:</content>
+              <content>For purposes of this section, the term “<def term="overdraft service">overdraft service</def>” means a service under which a <ref target="1005-2-i" reftype="term">financial institution</ref> assesses a fee or charge on a <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> held by the institution for paying a transaction (including a check or other item) when the <ref target="1005-2-e" reftype="term">consumer</ref> has insufficient or unavailable funds in the <ref target="1005-2-b-1" reftype="term">account</ref>. The term “overdraft service” does not include any payment of overdrafts pursuant to:</content>
               <paragraph label="1005-17-a-1" marker="(1)">
                 <content>A line of <ref target="1005-2-f" reftype="term">credit</ref> subject to Regulation Z (<ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref>), including transfers from a <ref target="1005-2-f" reftype="term">credit</ref> card <ref target="1005-2-b-1" reftype="term">account</ref>, home equity line of <ref target="1005-2-f" reftype="term">credit</ref>, or overdraft line of <ref target="1005-2-f" reftype="term">credit</ref>;</content>
               </paragraph>
@@ -1371,7 +1371,7 @@
               <title type="keyterm">Definitions.</title>
               <content>For purposes of this section, except as excluded under paragraph <ref target="1005-20-b" reftype="internal">(b)</ref>, the following definitions apply:</content>
               <paragraph label="1005-20-a-1" marker="(1)">
-                <content>“<def term="gift certificate" id="4388763b1dbeb1668b043707ce6a86e6178f0a71">Gift certificate</def>” means a card, code, or other device that is:</content>
+                <content>“<def term="gift certificate">Gift certificate</def>” means a card, code, or other device that is:</content>
                 <paragraph label="1005-20-a-1-i" marker="(i)">
                   <content>Issued on a prepaid basis primarily for personal, family, or household purposes to a <ref target="1005-2-e" reftype="term">consumer</ref> in a specified amount that may not be increased or reloaded in exchange for payment; and</content>
                 </paragraph>
@@ -1380,7 +1380,7 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1005-20-a-2" marker="(2)">
-                <content>“<def term="store gift card" id="c331325512c94a7df5dde3ad2285a0a576bf5bbc">Store gift card</def>” means a card, code, or other device that is:</content>
+                <content>“<def term="store gift card">Store gift card</def>” means a card, code, or other device that is:</content>
                 <paragraph label="1005-20-a-2-i" marker="(i)">
                   <content>Issued on a prepaid basis primarily for personal, family, or household purposes to a <ref target="1005-2-e" reftype="term">consumer</ref> in a specified amount, whether or not that amount may be increased or reloaded, in exchange for payment; and</content>
                 </paragraph>
@@ -1389,7 +1389,7 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1005-20-a-3" marker="(3)">
-                <content>“<def term="general-use prepaid card" id="13a79f173aedf7d32d28c5d22f7b1ea6ff2c2205">General-use prepaid card</def>” means a card, code, or other device that is:</content>
+                <content>“<def term="general-use prepaid card">General-use prepaid card</def>” means a card, code, or other device that is:</content>
                 <paragraph label="1005-20-a-3-i" marker="(i)">
                   <content>Issued on a prepaid basis primarily for personal, family, or household purposes to a <ref target="1005-2-e" reftype="term">consumer</ref> in a specified amount, whether or not that amount may be increased or reloaded, in exchange for payment; and</content>
                 </paragraph>
@@ -1398,7 +1398,7 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1005-20-a-4" marker="(4)">
-                <content>“<def term="loyalty, award, or promotional gift card" id="c958af103066be1dd7d124b56f7d57f45be74947">Loyalty, award, or promotional gift card</def>” means a card, code, or other device that:</content>
+                <content>“<def term="loyalty, award, or promotional gift card">Loyalty, award, or promotional gift card</def>” means a card, code, or other device that:</content>
                 <paragraph label="1005-20-a-4-i" marker="(i)">
                   <content>Is issued on a prepaid basis primarily for personal, family, or household purposes to a <ref target="1005-2-e" reftype="term">consumer</ref> in connection with a loyalty, award, or promotional program;</content>
                 </paragraph>
@@ -1423,15 +1423,15 @@
               </paragraph>
               <paragraph label="1005-20-a-5" marker="(5)">
                 <title type="keyterm">Dormancy or inactivity fee.</title>
-                <content>The terms “<def term="dormancy fee" id="1c1b992bf7c67ba08c9fbc2bcf8b7f6897db0ed2">dormancy fee</def>” and “<def term="inactivity fee">inactivity fee</def>” mean a fee for non-use of or inactivity on a <ref target="1005-20-a-1" reftype="term">gift certificate</ref>, <ref target="1005-20-a-2" reftype="term">store gift card</ref>, or <ref target="1005-20-a-3" reftype="term">general-use prepaid card</ref>.</content>
+                <content>The terms “<def term="dormancy fee">dormancy fee</def>” and “<def term="inactivity fee">inactivity fee</def>” mean a fee for non-use of or inactivity on a <ref target="1005-20-a-1" reftype="term">gift certificate</ref>, <ref target="1005-20-a-2" reftype="term">store gift card</ref>, or <ref target="1005-20-a-3" reftype="term">general-use prepaid card</ref>.</content>
               </paragraph>
               <paragraph label="1005-20-a-6" marker="(6)">
                 <title type="keyterm">Service fee.</title>
-                <content>The term “<def term="service fee" id="ff6aa0aa6000ebf7549db37784c247d873151257">service fee</def>” means a periodic fee for holding or use of a <ref target="1005-20-a-1" reftype="term">gift certificate</ref>, <ref target="1005-20-a-2" reftype="term">store gift card</ref>, or <ref target="1005-20-a-3" reftype="term">general-use prepaid card</ref>. A periodic fee includes any fee that may be imposed on a <ref target="1005-20-a-1" reftype="term">gift certificate</ref>, <ref target="1005-20-a-2" reftype="term">store gift card</ref>, or <ref target="1005-20-a-3" reftype="term">general-use prepaid card</ref> from time to time for holding or using the certificate or card.</content>
+                <content>The term “<def term="service fee">service fee</def>” means a periodic fee for holding or use of a <ref target="1005-20-a-1" reftype="term">gift certificate</ref>, <ref target="1005-20-a-2" reftype="term">store gift card</ref>, or <ref target="1005-20-a-3" reftype="term">general-use prepaid card</ref>. A periodic fee includes any fee that may be imposed on a <ref target="1005-20-a-1" reftype="term">gift certificate</ref>, <ref target="1005-20-a-2" reftype="term">store gift card</ref>, or <ref target="1005-20-a-3" reftype="term">general-use prepaid card</ref> from time to time for holding or using the certificate or card.</content>
               </paragraph>
               <paragraph label="1005-20-a-7" marker="(7)">
                 <title type="keyterm">Activity.</title>
-                <content>The term “<def term="activity" id="0bf4170444cd473cd4066c79b80cf62ffce582d8">activity</def>” means any action that results in an increase or decrease of the funds underlying a certificate or card, other than the imposition of a fee, or an adjustment due to an <ref target="1005-11-a-1" reftype="term">error</ref> or a reversal of a prior transaction.</content>
+                <content>The term “<def term="activity">activity</def>” means any action that results in an increase or decrease of the funds underlying a certificate or card, other than the imposition of a fee, or an adjustment due to an <ref target="1005-11-a-1" reftype="term">error</ref> or a reversal of a prior transaction.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1005-20-b" marker="(b)">
@@ -1651,7 +1651,7 @@
           </tocAppEntry>
           <tocAppEntry target="1005-A-9">
             <appendixLetter>9</appendixLetter>
-            <appendixSubject>A-9 Model Consent Fggorm for Overdraft Services § 1005.17</appendixSubject>
+            <appendixSubject>A-9 Model Consent Form for Overdraft Services § 1005.17</appendixSubject>
           </tocAppEntry>
         </tableOfContents>
         <appendixSection appendixSecNum="1" label="1005-A-1">
@@ -4182,11 +4182,11 @@
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1005-20-d-Interp-2" marker="2.">
-	      <title>Relationship between §§ 1005.20(d)(2) and (c)(3).</title>
+              <title>Relationship between §§ 1005.20(d)(2) and (c)(3).</title>
               <content>Sections <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> and <ref target="1005-20-c-3" reftype="internal">(c)(3)</ref> contain similar, but not identical, disclosure requirements. Section <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> requires the disclosure of dormancy, inactivity, and <ref target="1005-20-a-6" reftype="term">service fees</ref> on a certificate or card. Section <ref target="1005-20-c-3" reftype="internal">1005.20(c)(3)</ref> requires that vendor <ref target="1005-2-j" reftype="term">person</ref> that issues or sells such certificate or card disclose to a <ref target="1005-2-e" reftype="term">consumer</ref> any dormancy, inactivity, and <ref target="1005-20-a-6" reftype="term">service fees</ref> associated with the certificate or card before such certificate or card may be purchased. Depending on the context, a single disclosure that meets the clear and conspicuous requirements of both §§ <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> and <ref target="1005-20-c-3" reftype="internal">(c)(3)</ref> may be used to disclose a dormancy, inactivity, or <ref target="1005-20-a-6" reftype="term">service fee</ref>. For example, if the disclosures on a certificate or card, required by § <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref>, are visible to the <ref target="1005-2-e" reftype="term">consumer</ref> without having to remove packaging or other materials sold with the certificate or card, for a purchase made in person, the disclosures also meet the requirements of § <ref target="1005-20-c-3" reftype="internal">1005.20(c)(3)</ref>. Otherwise, a dormancy, inactivity, or <ref target="1005-20-a-6" reftype="term">service fee</ref> may need to be disclosed multiple times to satisfy the requirements of §§ <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> and <ref target="1005-20-c-3" reftype="internal">(c)(3)</ref>. For example, if the disclosures on a certificate or card, required by § <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref>, are obstructed by packaging sold with the certificate or card, for a purchase made in person, they also must be disclosed on the packaging sold with the certificate or card to meet the requirements of § <ref target="1005-20-c-3" reftype="internal">1005.20(c)(3)</ref>.</content>
             </interpParagraph>
             <interpParagraph label="1005-20-d-Interp-3" marker="3.">
-	      <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
+              <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
               <content>In addition to any disclosures required under § <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref>, any applicable disclosures under §§ <ref target="1005-20-e-3" reftype="internal">1005.20(e)(3)</ref> and <ref target="1005-20-f-2" reftype="internal">(f)(2)</ref> of this section must also be provided on the certificate or card.</content>
             </interpParagraph>
             <interpParagraph label="1005-20-d-Interp-4" marker="4.">
@@ -4239,7 +4239,7 @@
               <content>A non-reloadable certificate or card that bears an expiration date that is at least seven years from the date of manufacture need not <ref target="1005-2-l" reftype="term">state</ref> the disclosure required by § <ref target="1005-20-e-3-iii" reftype="internal">1005.20(e)(3)(iii)</ref>. However, § <ref target="1005-20-e-1" reftype="internal">1005.20(e)(1)</ref> still prohibits the sale or issuance of such certificate or card unless there are policies and procedures in place to provide a <ref target="1005-2-e" reftype="term">consumer</ref> with a reasonable opportunity to purchase the certificate or card with at least five years remaining until the certificate or card expiration date. In addition, under § <ref target="1005-20-e-2" reftype="internal">1005.20(e)(2)</ref>, the funds may not expire before the certificate or card expiration date, even if the expiration date of the certificate or card bears an expiration date that is more than five years from the date of purchase. For purposes of this safe harbor, the date of manufacture is the date on which the certificate or card expiration date is printed on the certificate or card.</content>
             </interpParagraph>
             <interpParagraph label="1005-20-e-Interp-9" marker="9.">
-	      <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
+              <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
               <content>In addition to any disclosures required to be made under § <ref target="1005-20-e-3" reftype="internal">1005.20(e)(3)</ref>, any applicable disclosures under §§ <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> and <ref target="1005-20-f-2" reftype="internal">(f)(2)</ref> must also be provided on the certificate or card.</content>
             </interpParagraph>
             <interpParagraph label="1005-20-e-Interp-10" marker="10.">
@@ -4270,7 +4270,7 @@
               <content>Relationship to § 226.20(e)(3)(ii). The same toll-free telephone number and Web site may be used to comply with §§ 226.20(e)(3)(ii) and (f)(2). Neither a toll-free number nor a Web site must be maintained or disclosed if no fees are imposed in connection with a certificate or card, and both the certificate or card and underlying funds do not expire.</content>
             </interpParagraph>
             <interpParagraph label="1005-20-f-Interp-3" marker="3.">
-	      <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
+              <title>Relationship between §§ 1005.20(d)(2), (e)(3), and (f)(2).</title>
               <content>In addition to any disclosures required pursuant to § <ref target="1005-20-f-2" reftype="internal">1005.20(f)(2)</ref>, any applicable disclosures under §§ <ref target="1005-20-d-2" reftype="internal">1005.20(d)(2)</ref> and <ref target="1005-20-e-3" reftype="internal">(e)(3)</ref> must also be provided on the certificate or card.</content>
             </interpParagraph>
           </interpParagraph>
