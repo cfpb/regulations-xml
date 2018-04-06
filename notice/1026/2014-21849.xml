@@ -16,18 +16,13 @@
     </cfr>
     <documentNumber>2014-21849</documentNumber>
     <effectiveDate>2015-01-01</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2014/09/22/2014-21849/truth-in-lending-regulation-z</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2014/09/22/2014-21849/truth-in-lending-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2014-18838" rightDocumentNumber="2014-21849">
-    <!-- Adds 1026.3(b) 1.vi Interp paragraph -->
-    <change operation="added" label="1026-3-b-Interp-1-vi">
-      <interpParagraph label="1026-3-b-Interp-1-vi" marker="vi.">
-        <content>From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.</content>
-      </interpParagraph>
-    </change>
-    <!-- End notice changes -->
+  <change operation="added" label="1026-3-b-Interp-1-vi">
+    <interpParagraph label="1026-3-b-Interp-1-vi" marker="vi.">
+      <content>From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.</content>
+    </interpParagraph>
+  </change>
   </changeset>
-  <!-- SxS Analysis -->
-  <analysis>
-  </analysis>
 </notice>

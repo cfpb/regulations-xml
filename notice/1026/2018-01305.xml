@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2018-02-13</date>
+    <originalDate>2016-08-11</originalDate>
+    <title>TRUTH IN LENDING</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>Z</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1026</section>
+    </cfr>
+    <documentNumber>2018-01305</documentNumber>
+    <effectiveDate>2019-04-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2018/02/13/2018-01305/rules-concerning-prepaid-accounts-under-the-electronic-fund-transfer-act-regulation-e-and-the-truth</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2017-15764" rightDocumentNumber="2018-01305">
+  <!-- Amend § 1026.61 by revising paragraphs (a)(1)(iii), (a)(3)(ii), (a)(4) introductory text, (a)(4)(i), and (a)(5)(iii) to read as follows:-->
+  <change operation="modified" label="1026-61-a-1-iii">
+    <paragraph label="1026-61-a-1-iii" marker="(iii)">
+      <content>With respect to a credit feature structured as a negative balance on the asset feature of the prepaid account as described in paragraph (a)(3) of this section, a prepaid card is not a hybrid prepaid-credit card or a credit card for purposes of this regulation if the conditions set forth in paragraph (a)(4) of this section are met.</content>
+    </paragraph>
+  </change>
+  <change operation="modified" label="1026-61-a-3-ii">
+    <paragraph label="1026-61-a-3-ii" marker="(ii)">
+      <title>Negative asset balances.</title>
+      <content>Notwithstanding paragraph (a)(3)(i) of this section with regard to coverage under this regulation, structuring a hybrid prepaid-credit card to access credit through a negative balance on the asset feature violates paragraph (b) of this section. A prepaid account issuer can use a negative asset balance structure to extend credit on an asset feature of a prepaid account only if the prepaid card is not a hybrid prepaid-credit card with respect to that credit as described in paragraph (a)(4) of this section.</content>
+    </paragraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4">
+    <paragraph label="1026-61-a-4" marker="(4)">
+      <title>Exception for credit extended through a negative balance.</title>
+      <content>A prepaid card is not a hybrid prepaid-credit card with respect to credit extended through a negative balance on the asset feature of the prepaid account and is not a credit card for purposes of this regulation with respect to that credit where:</content>
+    </paragraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4-i">
+    <paragraph label="1026-61-a-4-i" marker="(i)">
+      <content>The prepaid card cannot access credit from a covered separate credit feature as described in paragraph (a)(2)(i) of this section that is offered by a prepaid account issuer or its affiliate; and</content>
+    </paragraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii">
+    <paragraph label="1026-61-a-5-iii" marker="(iii)">
+      <content>Business partner means a person (other than the prepaid account issuer or its affiliates) that can extend credit through a separate credit feature where the person or its affiliate has an arrangement with a prepaid account issuer or its affiliate except as provided in paragraph (a)(5)(iii)(D) of this section.</content>
+      <paragraph label="1026-61-a-5-iii-A" marker="(A)">
+        <title>Arrangement defined.</title>
+        <content>For purposes of paragraph (a)(5)(iii) of this section, a person that can extend credit through a separate credit feature or the person's affiliate has an arrangement with a prepaid account issuer or its affiliate if the circumstances in either paragraph (a)(5)(iii)(B) or (C) of this section are met.</content>
+      </paragraph>
+      <paragraph label="1026-61-a-5-iii-B" marker="(B)">
+        <title>Arrangement by agreement.</title>
+        <content>A person that can extend credit through a separate credit feature or its affiliate has an arrangement with a prepaid account issuer or its affiliate if the parties have an agreement that allows the prepaid card from time to time to draw, transfer, or authorize a draw or transfer of credit in the course of authorizing, settling, or otherwise completing transactions conducted with the card to obtain goods or services, obtain cash, or conduct person-to-person transfers.</content>
+      </paragraph>
+      <paragraph label="1026-61-a-5-iii-C" marker="(C)">
+        <title>Marketing arrangement.</title>
+        <content>A person that can extend credit through a separate credit feature or its affiliate has an arrangement with a prepaid account issuer or its affiliate if:</content>
+        <paragraph label="1026-61-a-5-iii-C-1" marker="(1)">
+          <content>The parties have a business, marketing, or promotional agreement or other arrangement which provides that prepaid accounts offered by the prepaid account issuer will be marketed to the customers of the person that can extend credit; or the separate credit feature offered by the person who can extend credit will be marketed to the holders of prepaid accounts offered by the prepaid account issuer (including any marketing to customers to encourage them to authorize the prepaid card to access the separate credit feature as described in paragraph (a)(5)(iii)(C)(2) of this section); and</content>
+        </paragraph>
+        <paragraph label="1026-61-a-5-iii-C-2" marker="(2)">
+          <content>At the time of the marketing agreement or arrangement described in paragraph (a)(5)(iii)(C)(1) of this section, or at any time afterwards, the prepaid card from time to time can draw, transfer, or authorize the draw or transfer of credit from the separate credit feature offered by the person that can extend credit in the course of authorizing, settling, or otherwise completing transactions conducted with the card to obtain goods or services, obtain cash, or conduct person-to-person transfers. This requirement is satisfied even if there is no specific agreement between the parties that the card can access the credit feature, as described in paragraph (a)(5)(iii)(B) of this section.</content>
+        </paragraph>
+      </paragraph>
+      <paragraph label="1026-61-a-5-iii-D" marker="(D)">
+        <title>Exception for certain credit card account arrangements.</title>
+        <content>For purposes of paragraph (a)(5)(iii) of this section, a person that can extend credit through a credit card account is not a business partner of a prepaid account issuer with which it has an arrangement as defined in paragraphs (a)(5)(iii)(A) through (C) of this section with regard to such credit card account if all of the following conditions are met:</content>
+        <paragraph label="1026-61-a-5-iii-D-1" marker="(1)">
+          <content>The credit card account is a credit card account under an open-end (not home-secured) consumer credit plan that a consumer can access through a traditional credit card.</content>
+        </paragraph>
+        <paragraph label="1026-61-a-5-iii-D-2" marker="(2)">
+          <content>The prepaid account issuer and the card issuer do not allow the prepaid card to draw, transfer, or authorize the draw or transfer of credit from the credit card account from time to time in the course of authorizing, settling, or otherwise completing transactions conducted with the card to obtain goods or services, obtain cash, or conduct person-to-person transfers, except where the prepaid account issuer or the card issuer has received from the consumer a written request that is separately signed or initialized to authorize the prepaid card to access the credit card account as described above. If the credit card account is linked to the prepaid account prior to April 1, 2019, or prior to the arrangement between the prepaid account issuer and the card issuer as described in paragraphs (a)(5)(iii)(A) through (C) of this section, the prepaid account issuer and the card issuer will be deemed to have satisfied this condition even if they have not received from the consumer a written request that is separately signed or initialized to authorize the prepaid card to access the credit card account as described in this paragraph.</content>
+        </paragraph>
+        <paragraph label="1026-61-a-5-iii-D-3" marker="(3)">
+          <content>The prepaid account issuer and the card issuer do not condition the acquisition or retention of the prepaid account or the credit card account on whether a consumer authorizes the prepaid card to access the credit card account as described in paragraph (a)(5)(iii)(D)(2) of this section. If the credit card account is linked to the prepaid account prior to April 1, 2019, this condition only applies to the retention of the prepaid account and the credit card account on or after April 1, 2019.</content>
+        </paragraph>
+        <paragraph label="1026-61-a-5-iii-D-4" marker="(4)">
+          <content>The prepaid account issuer applies the same terms, conditions, or features to the prepaid account when a consumer authorizes linking the prepaid card to the credit card account as described in paragraph (a)(5)(iii)(D)(2) of this section as it applies to the consumer's prepaid account when the consumer does not authorize such a linkage. In addition, the prepaid account issuer applies the same fees to load funds from the credit card account that is linked to the prepaid account as described above as it charges for a comparable load on the consumer's prepaid account to access a credit feature offered by a person that is not the prepaid account issuer, its affiliate, or a person with which the prepaid account issuer has an arrangement as described in paragraphs (a)(5)(iii)(A) through (C) of this section.</content>
+        </paragraph>
+        <paragraph label="1026-61-a-5-iii-D-5" marker="(5)">
+          <content>The card issuer applies the same specified terms and conditions to the credit card account when a consumer authorizes linking the prepaid card to the credit card account as described in paragraph (a)(5)(iii)(D)(2) of this section as it applies to the consumer's credit card account when the consumer does not authorize such a linkage. In addition, the card issuer applies the same specified terms and conditions to extensions of credit accessed by the prepaid card from the credit card account as it applies to extensions of credit accessed by the traditional credit card. For purposes of this paragraph, “specified terms and conditions” means the terms and conditions required to be disclosed under § 1026.6(b), any repayment terms and conditions, and the limits on liability for unauthorized credit transactions.</content>
+        </paragraph>
+      </paragraph>
+    </paragraph>
+  </change>
+  <!-- In supplement I to part 1026:-->
+  <!-- a. Under Section 1026.4—Finance Charge, revise Paragraph 4(b)(11).
+       b. Under Section 1026.6—Account-Opening Disclosures, revise Paragraph 6(b)(3)(iii)(D).
+       c. Under Section 1026.52—Limitations on Fees, revise 52(b)(2)(i) Fees That Exceed Dollar Amount Associated With Violation.
+       d. Under Section 1026.61—Hybrid Prepaid-Credit Cards, revise 61(a)(3) Prepaid Card Can Access Credit Extended Through a Negative Balance on the Asset Feature, 61(a)(4) Exception (including the heading), Paragraph 61(a)(5)(iii), and 61(b) Structure of Start Printed Page 6441Credit Features Accessible by Hybrid Prepaid-Credit Cards.
+  -->
+  <change operation="modified" label="1026-4-b-11-Interp-1">
+    <interpParagraph label="1026-4-b-11-Interp-1" marker="1.">
+      <title>Credit in connection with a prepaid card.</title>
+      <content>Section 1026.61 governs credit offered in connection with a prepaid card.</content>
+      <interpParagraph label="1026-4-b-11-Interp-1-i" marker="i.">
+        <content>A separate credit feature that meets the conditions of § 1026.61(a)(2)(i) is defined as a covered separate credit feature accessible by a hybrid prepaid-credit card. See § 1026.61(a)(2)(i) and comment 61(a)(2)-4. In this case, the hybrid prepaid-credit card can access both the covered separate credit feature and the asset feature of the prepaid account. The rules for classification of fees or charges as finance charges with respect to the covered separate credit feature are specified in § 1026.4(b)(11) and related commentary.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-4-b-11-Interp-1-ii" marker="ii.">
+        <content>If a prepaid card can access a non-covered separate credit feature as described in § 1026.61(a)(2)(ii), the card is not a hybrid prepaid-credit card with respect to that credit feature. In that case:</content>
+        <interpParagraph label="1026-4-b-11-Interp-1-ii-A" marker="A.">
+          <content>Section 1026.4(b)(11) and related commentary do not apply to fees or charges imposed on the non-covered separate credit feature; instead, the general rules set forth in § 1026.4 determine whether these fees or charges are finance charges; and</content>
+        </interpParagraph>
+        <interpParagraph label="1026-4-b-11-Interp-1-ii-B" marker="B.">
+          <content>Fees or charges on the asset feature of the prepaid account are not finance charges under § 1026.4 with respect to the non-covered separate credit feature. See comment 61(a)(2)-5.iii for guidance on the applicability of this regulation in connection with non-covered credit features accessible by prepaid cards.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-4-b-11-Interp-1-iii" marker="iii.">
+        <content>If the prepaid card is not a hybrid prepaid-credit card with respect to credit extended through a negative balance on the asset feature of the prepaid account pursuant to § 1026.61(a)(4), with regard to that credit, fees charged on the asset feature of the prepaid account in accordance with § 1026.61(a)(4)(ii)(B) are not finance charges.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-4-b-11-i-Interp-1">
+    <interpParagraph label="1026-4-b-11-i-Interp-1" marker="1.">
+      <title>Transaction fees imposed on the covered separate credit feature.</title>
+      <content>Consistent with comment 4(a)-4, any transaction charge imposed on a cardholder by a card issuer on a covered separate credit feature accessible by a hybrid prepaid-credit card is a finance charge. Transaction charges that are imposed on the asset feature of a prepaid account are subject to § 1026.4(b)(11)(ii) and related commentary, instead of § 1026.4(b)(11)(i).</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-4-b-11-ii-Interp-1">
+    <interpParagraph label="1026-4-b-11-ii-Interp-1" marker="1.">
+      <title>Fees or charges imposed on the asset feature of a prepaid account.</title>
+      <content/>
+      <interpParagraph label="1026-4-b-11-ii-Interp-1-i" marker="i.">
+        <content>Under § 1026.4(b)(11)(ii), with regard to a covered separate credit feature and an asset feature of a prepaid account that are both accessible by a hybrid prepaid-credit card as defined § 1026.61, any fee or charge imposed on the asset feature of the prepaid account is a finance charge to the extent that the amount of the fee or charge exceeds comparable fees or charges imposed on prepaid accounts in the same prepaid account program that do not have a covered separate credit feature accessible by a hybrid prepaid-credit card. This comment provides guidance with respect to comparable fees under § 1026.4(b)(11)(ii) for the two types of credit extensions on a covered separate credit feature. See § 1026.61(a)(2)(i)(B) and comment 61(a)(2)-4.ii. Comment 4(b)(11)(ii)-1.ii provides guidance for credit extensions where the hybrid prepaid-credit card accesses credit from the covered separate credit feature in the course of authorizing, settling, or otherwise completing a transaction conducted with the card to obtain goods or services, obtain cash, or conduct person-to-person transfers. Comment 4(b)(11)(ii)-1.iii provides guidance for credit extensions where a consumer draws or transfers credit from the covered separate credit feature outside the course of a transaction conducted with the card to obtain goods or services, obtain cash, or conduct person-to-person transfers.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-4-b-11-ii-Interp-1-ii" marker="ii.">
+        <content>Where the hybrid prepaid-credit card accesses credit from a covered separate credit feature in the course of authorizing, settling, or otherwise completing a transaction conducted with the card to obtain goods or services, obtain cash, or conduct person-to-person transfers, any per transaction fees imposed on the asset feature of prepaid accounts, including load and transfer fees, for such credit from the credit feature are comparable only to per transaction fees for each transaction to access funds in the asset feature of a prepaid account that are imposed on prepaid accounts in the same prepaid account program that does not have such a credit feature. Per transaction fees for a transaction that is conducted to load or draw funds into a prepaid account from some other source are not comparable for purposes of § 1026.4(b)(11)(ii). To illustrate:</content>
+        <interpParagraph label="1026-4-b-11-ii-Interp-1-ii-A" marker="A.">
+          <content>Assume a prepaid account issuer charges $0.50 on prepaid accounts without a covered separate credit feature for each transaction that accesses funds in the asset feature of the prepaid accounts. Also, assume that the prepaid account issuer charges $0.50 per transaction on the asset feature of prepaid accounts in the same prepaid program where the hybrid prepaid-credit card accesses credit from a covered separate credit feature in the course of a transaction. In this case, the $0.50 per transaction fee imposed on the asset feature of the prepaid account with a covered separate credit feature is not a finance charge.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-4-b-11-ii-Interp-1-ii-B" marker="B.">
+          <content>Assume same facts as in paragraph A above, except that assume the prepaid account issuer charges $1.25 on the asset feature of a prepaid account for each transaction where the hybrid prepaid-credit card accesses credit from the covered separate credit feature in the course of the transaction. In this case, the additional $0.75 is a finance charge.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-4-b-11-ii-Interp-1-ii-C" marker="C.">
+          <content>Assume a prepaid account issuer charges $0.50 on prepaid accounts without a covered separate credit feature for each transaction that accesses funds in the asset feature of the prepaid accounts. Assume also that the prepaid account issuer charges both a $0.50 per transaction fee and a $1.25 transfer fee on the asset feature of prepaid accounts in the same prepaid program where the hybrid prepaid-credit card accesses credit from a covered separate credit feature in the course of a transaction. In this case, both fees charged on a per-transaction basis for the credit transaction (i.e., a combined fee of $1.75 per transaction) must be compared to the $0.50 per transaction fee to access funds in the asset feature of the prepaid account without a covered separate credit feature. Accordingly, the $1.25 excess is a finance charge.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-4-b-11-ii-Interp-1-ii-D" marker="D.">
+          <content>Assume same facts as in paragraph C above, except that assume the prepaid account issuer also charges a load fee of $1.25 whenever funds are transferred or loaded from a separate asset account, such as from a deposit account via a debit card, in the course of a transaction on prepaid accounts without a covered separate credit feature, in addition to charging a $0.50 per transaction fee. The $1.25 excess in paragraph C is still a finance charge because load or transfer fees that are charged on the asset feature of prepaid account for credit from the covered separate credit feature are compared only to per transaction fees imposed for accessing funds in the asset feature of the prepaid account for prepaid accounts without such a credit feature. Per transaction fees for a transaction that is conducted to load or draw funds into a prepaid account from some other source are not comparable for purposes of § 1026.4(b)(11)(ii).</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-4-b-11-ii-Interp-1-iii" marker="iii.">
+        <content>A consumer may choose in a particular circumstance to draw or transfer credit from the covered separate credit feature outside the course of a transaction conducted with the card to obtain goods or services, obtain cash, or conduct person-to-person transfers. For example, a consumer may use the prepaid card at the prepaid account issuer's website to load funds from the covered separate credit feature outside the course of a transaction conducted with the card to obtain goods or services, obtain cash, or conduct person-to-person transfers. See § 1026.61(a)(2)(i)(B) and comment 61(a)(2)-4.ii. In these situations, load or transfer fees imposed for draws or transfers of credit from the covered separate credit feature outside the course of a transaction are compared only with fees, if any, to load funds as a direct deposit of salary from an employer or a direct deposit of government benefits that are charged on prepaid accounts without a covered separate credit feature. Fees imposed on prepaid accounts without a covered separate credit feature for a one-time load or transfer of funds from a separate asset account or from a non-covered separate credit feature are not comparable for purposes of § 1026.4(b)(11)(ii). To illustrate:</content>
+        <interpParagraph label="1026-4-b-11-ii-Interp-1-iii-A" marker="A.">
+          <content>Assume a prepaid account issuer charges a $1.25 load fee to transfer funds from a non-covered separate credit feature, such as a non-covered separate credit card account, into prepaid accounts that do not have a covered separate credit feature and does not charge a fee for a direct deposit of salary from an employer or a direct deposit of government benefits on those prepaid accounts. Assume the prepaid account issuer charges $1.25 on the asset feature of a prepaid account with a covered separate credit feature to load funds from the covered separate credit feature outside the course of a transaction. In this case, the $1.25 fee imposed on the asset feature of the prepaid account with a covered separate credit feature is a finance charge because no fee is charged for a direct deposit of salary from an employer or a direct deposit of government benefits on prepaid accounts without such a credit feature. Fees imposed on prepaid accounts without a covered separate credit feature for a one-time load or transfer of funds from a non-covered separate credit feature are not comparable for purposes of § 1026.4(b)(11)(ii).</content>
+        </interpParagraph>
+        <interpParagraph label="1026-4-b-11-ii-Interp-1-iii-B" marker="B.">
+          <content>Assume that a prepaid account issuer charges a $1.25 load fee for a one-time transfer of funds from a separate asset account, such as from a deposit account via a debit card, to a prepaid account without a covered separate credit feature and does not charge a fee for a direct deposit of salary from an employer or a direct deposit of government benefits on those prepaid accounts. Assume the prepaid account issuer charges $1.25 on the asset feature of a prepaid account with a covered separate credit feature to load funds from the covered separate credit feature outside the course of a transaction. In this case, the $1.25 fee imposed on the asset feature of the prepaid account with a covered separate credit feature is a finance charge because no fee is charged for a direct deposit of salary from an employer or a direct deposit of government benefits on prepaid accounts without a covered separate credit feature. Fees imposed on prepaid accounts without a covered separate credit feature for a one-time load or transfer of funds from a separate asset account are not comparable for purposes of § 1026.4(b)(11)(ii).</content>
+        </interpParagraph>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-4-b-11-ii-Interp-2">
+    <interpParagraph label="1026-4-b-11-ii-Interp-2" marker="2.">
+      <title>Relation to Regulation E.</title>
+      <content>See Regulation E, 12 CFR 1005.18(g), which only permits a financial institution to charge the same or higher fees on the asset feature of a prepaid account with a covered separate credit feature accessible by a hybrid prepaid-credit card than the amount of a comparable fee it charges on prepaid accounts in the same prepaid account program without such a credit feature. Under that provision, a financial institution cannot charge a lower fee on the asset feature of a prepaid account with a covered separate credit feature accessible by a hybrid prepaid-credit card than the amount of a comparable fee it charges on prepaid accounts without such a credit feature in the same prepaid account program.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-6-b-3-iii-D-Interp-1">
+    <interpParagraph label="1026-6-b-3-iii-D-Interp-1" marker="1.">
+      <title>Fees imposed on the asset feature of the prepaid account in connection with a covered separate credit feature accessible by a hybrid prepaid-credit card.</title>
+      <content>Under § 1026.6(b)(3)(iii)(D), with regard to a covered separate credit feature and an asset feature on a prepaid account that are both accessible by a hybrid prepaid-credit card as defined in § 1026.61, a fee or charge imposed on the asset feature of the prepaid account is not a charge imposed as part of the plan under § 1026.6(b)(3) with respect to a covered separate credit feature to the extent that the amount of the fee or charge does not exceed comparable fees or charges imposed on prepaid accounts in the same prepaid account program that do not have a covered separate credit feature accessed by a hybrid prepaid-credit card. To illustrate:</content>
+      <interpParagraph label="1026-6-b-3-iii-D-Interp-1-i" marker="i.">
+        <content>Assume a prepaid account issuer charges a $0.50 per transaction fee on an asset feature of the prepaid account for purchases when a hybrid prepaid-credit card accesses a covered separate credit feature in the course of authorizing, settling, or otherwise completing purchase transactions conducted with the card and a $0.50 transaction fee for purchases that access funds in the asset feature of a prepaid account in the same program without such a credit feature. The $0.50 fees are comparable fees and the $0.50 fee for purchases when a hybrid prepaid-credit card accesses a covered separate credit feature in the course of authorizing, settling, or otherwise completing purchase transactions conducted with the card is not a charge imposed as part of the plan. However, if in this example, the prepaid account issuer imposes a $1.25 per transaction fee on an asset feature of the prepaid account for purchases when a hybrid prepaid-credit card accesses a covered separate credit feature in the course of authorizing, settling, or otherwise completing purchase transactions conducted with the card, the $0.75 excess is a charge imposed as part of the plan. This $0.75 excess also is a finance charge under § 1026.4(b)(11)(ii).</content>
+      </interpParagraph>
+      <interpParagraph label="1026-6-b-3-iii-D-Interp-1-ii" marker="ii.">
+        <content>See comment 4(b)(11)(ii)-1 for additional illustrations of when a prepaid account issuer is charging comparable per transaction fees or load or transfer fees on the prepaid account.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-52-b-2-i-Interp-1">
+    <interpParagraph label="1026-52-b-2-i-Interp-1" marker="1.">
+      <title>Late payment fees.</title>
+      <content>For purposes of § 1026.52(b)(2)(i), the dollar amount associated with a late payment is the amount of the required minimum periodic payment due immediately prior to assessment of the late payment fee. Thus, § 1026.52(b)(2)(i)(A) prohibits a card issuer from imposing a late payment fee that exceeds the amount of that required minimum periodic payment. For example:</content>
+      <interpParagraph label="1026-52-b-2-i-Interp-1-i" marker="i.">
+        <content>Assume that a $15 required minimum periodic payment is due on September 25. The card issuer does not receive any payment on or before September 25. On September 26, the card issuer imposes a late payment fee. For purposes of § 1026.52(b)(2)(i), the dollar amount associated with the late payment is the amount of the required minimum periodic payment due on September 25 ($15). Thus, under § 1026.52(b)(2)(i)(A), the amount of that fee cannot exceed $15 (even if a higher fee would be permitted under § 1026.52(b)(1)).</content>
+      </interpParagraph>
+      <interpParagraph label="1026-52-b-2-i-Interp-1-ii" marker="ii.">
+        <content>Same facts as above except that, on September 25, the card issuer receives a $10 payment. No further payments are received. On September 26, the card issuer imposes a late payment fee. For purposes of § 1026.52(b)(2)(i), the dollar amount associated with the late payment is the full amount of the required minimum periodic payment due on September 25 ($15), rather than the unpaid portion of that payment ($5). Thus, under § 1026.52(b)(2)(i)(A), the amount of the late payment fee cannot exceed $15 (even if a higher fee would be permitted under § 1026.52(b)(1)).</content>
+      </interpParagraph>
+      <interpParagraph label="1026-52-b-2-i-Interp-1-iii" marker="iii.">
+        <content>Assume that a $15 required minimum periodic payment is due on October 28 and the billing cycle for the account closes on October 31. The card issuer does not receive any payment on or before November 3. On November 3, the card issuer determines that the required minimum periodic payment due on November 28 is $50. On November 5, the card issuer imposes a late payment fee. For purposes of § 1026.52(b)(2)(i), the dollar amount associated with the late payment is the amount of the required minimum periodic payment due on October 28 ($15), rather than the amount of the required minimum periodic payment due on November 28 ($50). Thus, under § 1026.52(b)(2)(i)(A), the amount of that fee cannot exceed $15 (even if a higher fee would be permitted under § 1026.52(b)(1)).</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-52-b-2-i-Interp-2">
+    <interpParagraph label="1026-52-b-2-i-Interp-2" marker="2.">
+      <title>Returned payment fees.</title>
+      <content>For purposes of § 1026.52(b)(2)(i), the dollar amount associated with a returned payment is the amount of the required minimum periodic payment due immediately prior to the date on which the payment is returned to the card issuer. Thus, § 1026.52(b)(2)(i)(A) prohibits a card issuer from imposing a returned payment fee that exceeds the amount of that required minimum periodic payment. However, if a payment has been returned and is submitted again for payment by the card issuer, there is no additional dollar amount associated with a subsequent return of that payment and § 1026.52(b)(2)(i)(B) prohibits the card issuer from imposing an additional returned payment fee. For example:</content>
+      <interpParagraph label="1026-52-b-2-i-Interp-2-i" marker="i.">
+        <content>Assume that the billing cycles for an account begin on the first day of the month and end on the last day of the month and that the payment due date is the twenty-fifth day of the month. A minimum payment of $15 is due on March 25. The card issuer receives a check for $100 on March 23, which is returned to the card issuer for insufficient funds on March 26. For purposes of § 1026.52(b)(2)(i), the dollar amount associated with the returned payment is the amount of the required minimum periodic payment due on March 25 ($15). Thus, § 1026.52(b)(2)(i)(A) prohibits the card issuer from imposing a returned payment fee that exceeds $15 (even if a higher fee would be permitted under § 1026.52(b)(1)). Furthermore, § 1026.52(b)(2)(ii) prohibits the card issuer from assessing both a late payment fee and a returned payment fee in these circumstances. See comment 52(b)(2)(ii)-1.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-52-b-2-i-Interp-2-ii" marker="ii.">
+        <content>Same facts as above except that the card issuer receives the $100 check on March 31 and the check is returned for insufficient funds on April 2. The minimum payment due on April 25 is $30. For purposes of § 1026.52(b)(2)(i), the dollar amount associated with the returned payment is the amount of the required minimum periodic payment due on March 25 ($15), rather than the amount of the required minimum periodic payment due on April 25 ($30). Thus, § 1026.52(b)(2)(i)(A) prohibits the card issuer from imposing a returned payment fee that exceeds $15 (even if a higher fee would be permitted under § 1026.52(b)(1)). Furthermore, § 1026.52(b)(2)(ii) prohibits the card issuer from assessing both a late payment fee and a returned payment fee in these circumstances. See comment 52(b)(2)(ii)-1.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-52-b-2-i-Interp-2-iii" marker="iii.">
+        <content>Same facts as paragraph i above except that, on March 28, the card issuer presents the $100 check for payment a second time. On April 1, the check is again returned for insufficient funds. Section 1026.52(b)(2)(i)(B) prohibits the card issuer from imposing a returned payment fee based on the return of the payment on April 1.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-52-b-2-i-Interp-2-iv" marker="iv.">
+        <content>Assume that the billing cycles for an account begin on the first day of the month and end on the last day of the month and that the payment due date is the twenty-fifth day of the month. A minimum payment of $15 is due on August 25. The card issuer receives a check for $15 on August 23, which is not returned. The card issuer receives a check for $50 on September 5, which is returned to the card issuer for insufficient funds on September 7. Section 1026.52(b)(2)(i)(B) does not prohibit the card issuer from imposing a returned payment fee in these circumstances. Instead, for purposes of § 1026.52(b)(2)(i), the dollar amount associated with the returned payment is the amount of the required minimum periodic payment due on August 25 ($15). Thus, § 1026.52(b)(2)(i)(A) prohibits the card issuer from imposing a returned payment fee that exceeds $15 (even if a higher fee would be permitted under § 1026.52(b)(1)).</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-52-b-2-i-Interp-3">
+    <interpParagraph label="1026-52-b-2-i-Interp-3" marker="3.">
+      <title>Over-the-limit fees.</title>
+      <content>For purposes of § 1026.52(b)(2)(i), the dollar amount associated with extensions of credit in excess of the credit limit for an account is the total amount of credit extended by the card issuer in excess of the credit limit during the billing cycle in which the over-the-limit fee is imposed. Thus, § 1026.52(b)(2)(i)(A) prohibits a card issuer from imposing an over-the-limit fee that exceeds that amount. Nothing in § 1026.52(b) permits a card issuer to impose an over-the-limit fee if imposition of the fee is inconsistent with § 1026.56. The following examples illustrate the application of § 1026.52(b)(2)(i)(A) to over-the-limit fees:</content>
+      <interpParagraph label="1026-52-b-2-i-Interp-3-i" marker="i.">
+        <content>Assume that the billing cycles for a credit card account with a credit limit of $5,000 begin on the first day of the month and end on the last day of the month. Assume also that, consistent with § 1026.56, the consumer has affirmatively consented to the payment of transactions that exceed the credit limit. On March 1, the account has a $4,950 balance. On March 6, a $60 transaction is charged to the account, increasing the balance to $5,010. On March 25, a $5 transaction is charged to the account, increasing the balance to $5,015. On the last day of the billing cycle (March 31), the card issuer imposes an over-the-limit fee. For purposes of § 1026.52(b)(2)(i), the dollar amount associated with the extensions of credit in excess of the credit limit is the total amount of credit extended by the card issuer in excess of the credit limit during the March billing cycle ($15). Thus, § 1026.52(b)(2)(i)(A) prohibits the card issuer from imposing an over-the-limit fee that exceeds $15 (even if a higher fee would be permitted under § 1026.52(b)(1)).</content>
+      </interpParagraph>
+      <interpParagraph label="1026-52-b-2-i-Interp-3-ii" marker="ii.">
+        <content>Same facts as above except that, on March 26, the card issuer receives a payment of $20, reducing the balance below the credit limit to $4,995. Nevertheless, for purposes of § 1026.52(b)(2)(i), the dollar amount associated with the extensions of credit in excess of the credit limit is the total amount of credit extended by the card issuer in excess of the credit limit during the March billing cycle ($15). Thus, consistent with § 1026.52(b)(2)(i)(A), the card issuer may impose an over-the-limit fee of $15.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-52-b-2-i-Interp-4">
+    <interpParagraph label="1026-52-b-2-i-Interp-4" marker="4.">
+      <title>Declined access check fees.</title>
+      <content>For purposes of § 1026.52(b)(2)(i), the dollar amount associated with declining payment on a check that accesses a credit card account is the amount of the check. Thus, when a check that accesses a credit card account is declined, § 1026.52(b)(2)(i)(A) prohibits a card issuer from imposing a fee that exceeds the amount of that check. For example, assume that a check that accesses a credit card account is used as payment for a $50 transaction, but payment on the check is declined by the card issuer because the transaction would have exceeded the credit limit for the account. For purposes of § 1026.52(b)(2)(i), the dollar amount associated with the declined check is the amount of the check ($50). Thus, § 1026.52(b)(2)(i)(A) prohibits the card issuer from imposing a fee that exceeds $50. However, the amount of this fee must also comply with § 1026.52(b)(1)(i) or (b)(1)(ii).</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-52-b-2-i-Interp-5">
+    <interpParagraph label="1026-52-b-2-i-Interp-5" marker="5.">
+      <title>Inactivity fees.</title>
+      <content>Section 1026.52(b)(2)(i)(B)(2) prohibits a card issuer from imposing a fee with respect to a credit card account under an open-end (not home-secured) consumer credit plan based on inactivity on that account (including the consumer's failure to use the account for a particular number or dollar amount of transactions or a particular type of transaction). For example, § 1026.52(b)(2)(i)(B)(2) prohibits a card issuer from imposing a $50 fee when a credit card account under an open-end (not home-secured) consumer credit plan is not used for at least $2,000 in purchases over the course of a year. Similarly, § 1026.52(b)(2)(i)(B)(2) prohibits a card issuer from imposing a $50 annual fee on all accounts of a particular type but waiving the fee on any account that is used for at least $2,000 in purchases over the course of a year if the card issuer promotes the waiver or rebate of the annual fee for purposes of § 1026.55(e). However, if the card issuer does not promote the waiver or rebate of the annual fee for purposes of § 1026.55(e), § 1026.52(b)(2)(i)(B)(2) does not prohibit a card issuer from considering account activity along with other factors when deciding whether to waive or rebate annual fees on individual accounts (such as in response to a consumer's request).</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-52-b-2-i-Interp-6">
+    <interpParagraph label="1026-52-b-2-i-Interp-6" marker="6.">
+      <title>Closed account fees.</title>
+      <content>Section 1026.52(b)(2)(i)(B)(3) prohibits a card issuer from imposing a fee based on the closure or termination of an account. For example, § 1026.52(b)(2)(i)(B)(3) prohibits a card issuer from:</content>
+      <interpParagraph label="1026-52-b-2-i-Interp-6-i" marker="i.">
+        <content>Imposing a one-time fee to consumers who close their accounts.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-52-b-2-i-Interp-6-ii" marker="ii.">
+        <content>Imposing a periodic fee (such as an annual fee, a monthly maintenance fee, or a closed account fee) after an account is closed or terminated if that fee was not imposed prior to closure or termination. This prohibition applies even if the fee was disclosed prior to closure or termination. See also comment 55(d)-1.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-52-b-2-i-Interp-6-iii" marker="iii.">
+        <content>Increasing a periodic fee (such as an annual fee or a monthly maintenance fee) after an account is closed or terminated. However, a card issuer is not prohibited from continuing to impose a periodic fee that was imposed before the account was closed or terminated.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-52-b-2-i-Interp-7">
+    <interpParagraph label="1026-52-b-2-i-Interp-7" marker="7.">
+      <title>Declined transaction fees.</title>
+      <content>Section 1026.52(b)(2)(i)(B)(1) states that card issuers must not impose a fee when there is no dollar amount associated with the violation, such as for transactions that the card issuer declines to authorize. With regard to a covered separate credit feature and an asset feature on a prepaid account that are both accessible by a hybrid prepaid-credit card as defined in § 1026.61 where the credit feature is a credit card account under an open-end (not home-secured) consumer credit plan, § 1026.52(b)(2)(i)(B)(1) prohibits a card issuer from imposing declined transaction fees in connection with the credit feature, regardless of whether the declined transaction fee is imposed on the credit feature or on the asset feature of the prepaid account. For example, if the prepaid card attempts to access credit from the covered separate credit feature accessible by the hybrid prepaid-credit card and the transaction is declined, § 1026.52(b)(2)(i)(B)(1) prohibits the card issuer from imposing a declined transaction fee, regardless of whether the fee is imposed on the credit feature or on the asset feature of the prepaid account. Fees imposed for declining a transaction that would have only accessed the asset feature of the prepaid account and would not have accessed the covered separate credit feature accessible by the hybrid prepaid-credit are not covered by § 1026.52(b)(2)(i)(B)(1).</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-3-i-Interp-1">
+    <interpParagraph label="1026-61-a-3-i-Interp-1" marker="1.">
+      <title>Credit accessed on an asset feature of a prepaid account.</title>
+      <content/>
+      <interpParagraph label="1026-61-a-3-i-Interp-1-i" marker="i.">
+        <content>See comment 2(a)(14)-3 for examples of when transactions authorized or paid on the asset feature of a prepaid account meet the definition of credit under § 1026.2(a)(14).</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-3-i-Interp-1-ii" marker="ii.">
+        <content>Except as provided in § 1026.61(a)(4), a prepaid card would trigger coverage as a hybrid prepaid-credit card if it is a single device that can be used from time to time to access credit that can be extended through a negative balance on the asset feature of the prepaid account. (However, unless the credit extended through a negative balance on the asset feature of the prepaid account meets the requirements of § 1026.61(a)(4), such a product structure would violate the rules under § 1026.61(b).) A credit extension through a negative balance on the asset feature of a prepaid account can occur during the authorization phase of the transaction as discussed in comment 61(a)(3)(i)-1.iii or in later periods up to the settlement of the transaction, as discussed in comment 61(a)(3)(i)-1.iv.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-3-i-Interp-1-iii" marker="iii.">
+        <content>The following example illustrates transactions where a credit extension occurs during the course of authorizing a transaction.</content>
+        <interpParagraph label="1026-61-a-3-i-Interp-1-iii-A" marker="A.">
+          <content>A transaction initiated using a prepaid card when there are insufficient or unavailable funds in the asset feature of the prepaid account at the time the transaction is initiated and credit is extended through a negative balance on the asset feature of the prepaid account when the transaction is authorized.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-3-i-Interp-1-iv" marker="iv.">
+        <content>The following examples illustrate transactions where a credit extension occurs at settlement.</content>
+        <interpParagraph label="1026-61-a-3-i-Interp-1-iv-A" marker="A.">
+          <content>Transactions that occur when there are sufficient or available funds in the asset feature of the prepaid account at the time of authorization to cover the amount of the transaction but where the consumer does not have sufficient or available funds in the asset feature to cover the transaction at the time of settlement. Credit is extended through a negative balance on the asset feature at settlement to pay those transactions.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-61-a-3-i-Interp-1-iv-B" marker="B.">
+          <content>Transactions that settle even though they were not authorized in advance where credit is extended through a negative balance on the asset feature at settlement to pay those transactions.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-3-ii-Interp-1">
+    <interpParagraph label="1026-61-a-3-ii-Interp-1" marker="1.">
+      <title>Credit extended on the asset feature of the prepaid account.</title>
+      <content>Section 1026.61(a)(3)(i) determines whether a prepaid card triggers coverage as a hybrid prepaid-credit card under § 1026.61(a), and thus, whether a prepaid account issuer is a card issuer under § 1026.2(a)(7) subject to this regulation, including § 1026.61(b). However, § 1026.61(b) requires that any credit feature accessible by a hybrid prepaid-credit card must be structured as a separate credit feature using either a credit subaccount of the prepaid account or a separate credit account. Unless § 1026.61(a)(4) applies, a card issuer would violate § 1026.61(b) if it structures a credit feature as a negative balance on the asset feature of the prepaid account. A prepaid account issuer can use a negative asset balance structure to extend credit on a prepaid account if the prepaid card is not a hybrid prepaid-credit card with respect to that credit as described in § 1026.61(a)(4).</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4-Interp-1">
+    <interpParagraph label="1026-61-a-4-Interp-1" marker="1.">
+      <title>Prepaid card that is not a hybrid prepaid-credit card.</title>
+      <content/>
+      <interpParagraph label="1026-61-a-4-Interp-1-i" marker="i.">
+        <content>A prepaid card that is not a hybrid prepaid-credit card as described in § 1026.61(a)(4) with respect to credit extended through a negative balance on the asset feature of the prepaid account is not a credit card under this regulation with respect to that credit. A prepaid card is not a hybrid prepaid-credit card with respect to credit extended through a negative balance on the asset feature of the prepaid account if:</content>
+        <interpParagraph label="1026-61-a-4-Interp-1-A" marker="A.">
+          <content>The card cannot access credit from a covered separate credit feature under § 1026.61(a)(2)(i) that is offered by the prepaid account issuer or its affiliate, though it is permissible for it to access credit from a covered separate credit feature offered by a business partner or from a non-covered separate credit feature as described under § 1026.61(a)(2)(ii); and</content>
+        </interpParagraph>
+        <interpParagraph label="1026-61-a-4-Interp-1-B" marker="B.">
+          <content>The card can only access credit extended through a negative balance on the asset feature of the prepaid account in accordance with both the conditions set forth in § 1026.61(a)(4)(ii)(A) and (B).</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-4-Interp-1-ii" marker="ii.">
+        <content>If the conditions of § 1026.61(a)(4) are met and the prepaid card can access credit from a covered separate credit feature as defined in § 1026.61(a)(2)(i) that is offered by a business partner, the prepaid card is a hybrid prepaid-credit card with respect to the covered separate credit feature pursuant to § 1026.61(a)(2)(i) but is not a hybrid prepaid-credit card with respect to credit extended by a prepaid account issuer through a negative balance on the asset feature of the prepaid account that meets the conditions of § 1026.61(a)(4) or with respect to any non-covered separate credit feature pursuant to § 1026.61(a)(2)(ii). If the conditions of § 1026.61(a)(4) are met and the prepaid card cannot access credit from any covered separate credit feature as defined in § 1026.61(a)(2)(i), the prepaid card is not a hybrid prepaid-credit card with respect to credit extended by a prepaid account issuer through a negative balance on the asset feature of the prepaid account that meets the conditions of § 1026.61(a)(4) or with respect to any non-covered separate credit feature pursuant to § 1026.61(a)(2)(ii).</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-4-Interp-1-iii" marker="iii.">
+        <content>Below is an example of when a prepaid card is not a hybrid prepaid-credit card with respect to credit extended through a negative balance on the asset feature of the prepaid account because the conditions set forth in § 1026.61(a)(4) have been met.</content>
+        <interpParagraph label="1026-61-a-4-Interp-1-iii-A" marker="A.">
+          <content>The prepaid card can only access credit extended through a negative balance on the asset feature of the prepaid account in accordance with both the conditions set forth in § 1026.61(a)(4)(ii)(A) and (B). The card can access credit from a non-covered separate credit feature as defined in § 1026.61(a)(2)(ii) and from a covered separate credit feature as defined in § 1026.61(a)(2)(i) offered by a business partner, but cannot access credit for a covered separate credit feature that is offered by a prepaid account issuer or its affiliate.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-4-Interp-1-iv" marker="iv.">
+        <content>Below is an example of when a prepaid card is a hybrid prepaid-credit card with respect to credit extended through a negative balance on the asset feature of the prepaid account because the conditions set forth in § 1026.61(a)(4) have not been met.</content>
+        <interpParagraph label="1026-61-a-4-Interp-1-iv-A" marker="A.">
+          <content>When there are insufficient or unavailable funds in the asset feature of the prepaid account at the time a transaction is initiated, the card can be used to draw, transfer, or authorize the draw or transfer of credit from a covered separate credit feature offered by the prepaid account issuer or its affiliate during the authorization phase to complete the transaction so that credit is not extended on the asset feature of the prepaid account. The exception in § 1026.61(a)(4) does not apply because the prepaid card can be used to draw, transfer, or authorize the draw or transfer of credit from a covered separate credit feature defined in § 1026.61(a)(2)(i) that is offered by the prepaid account issuer or its affiliate. The card is a hybrid prepaid-credit card with respect to credit extended through a negative balance on the asset feature of the prepaid account pursuant to § 1026.61(a)(3) and with respect to the covered separate credit feature pursuant to § 1026.61(a)(2)(i). In that case, a card issuer has violated § 1026.61(b) because it has structured the credit feature as a negative balance on the asset feature of the prepaid account. See § 1026.61(a)(3)(ii) and (b).</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-4-Interp-1-v" marker="v.">
+        <content>In the case where a prepaid card is not a hybrid prepaid-credit card with respect to credit extended through a negative balance on the asset feature of the prepaid account because the conditions set forth in § 1026.61(a)(4) are met:</content>
+        <interpParagraph label="1026-61-a-4-Interp-1-v-A" marker="A.">
+          <content>The prepaid account issuer is not a card issuer under § 1026.2(a)(7) with respect to the prepaid card when it accesses credit extended through the negative balance on the asset feature of the prepaid account. The prepaid account issuer also is not a creditor under § 1026.2(a)(17)(iii) or (iv) because it is not a card issuer under § 1026.2(a)(7) with respect to the prepaid card when it accesses credit extended through the negative balance on the asset feature of the prepaid account. The prepaid account issuer also is not a creditor under § 1026.2(a)(17)(i) with respect to credit extended through the negative balance on the asset feature of the prepaid account as a result of imposing fees on the prepaid account because those fees are not finance charges with respect to that credit. See comment 4(b)(11)-1.iii.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4-ii-A-Interp-1">
+    <interpParagraph label="1026-61-a-4-ii-A-Interp-1" marker="1.">
+      <title>Authorization not required for every transaction.</title>
+      <content>The prepaid account issuer is not required to receive an authorization request for each transaction to comply with § 1026.61(a)(4)(ii)(A). Nonetheless, the prepaid account issuer generally must establish an authorization policy as described in § 1026.61(a)(4)(ii)(A) and have reasonable practices in place to comply with its established policy with respect to the authorization requests it receives. In that case, a prepaid account issuer is deemed to satisfy § 1026.61(a)(4)(ii)(A) even if a negative balance results on the prepaid account when a transaction is settled.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4-ii-A-Interp-2">
+    <interpParagraph label="1026-61-a-4-ii-A-Interp-2" marker="2.">
+      <title>Provisional credit.</title>
+      <content>A prepaid account issuer may still satisfy the requirements set forth in § 1026.61(a)(4)(ii)(A) even if a negative balance results on the asset feature of the prepaid account because the prepaid account issuer debits the amount of any provisional credit that was previously granted on the prepaid account as specified in Regulation E, 12 CFR 1005.11, so long as the prepaid account issuer otherwise complies with the conditions set forth in § 1026.61(a)(4). For example, under § 1026.61(a)(4), a prepaid account issuer may not impose a fee or charge enumerated under § 1026.61(a)(4)(ii)(B) with respect to this negative balance.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4-ii-A-Interp-3">
+    <interpParagraph label="1026-61-a-4-ii-A-Interp-3" marker="3.">
+      <title>Delayed load cushion.</title>
+      <content/>
+      <interpParagraph label="1026-61-a-4-ii-A-Interp-3-i" marker="i.">
+        <content>Incoming fund transfers. For purposes of § 1026.61(a)(4)(ii)(A)(2), cases where the prepaid account issuer has received an instruction or confirmation for an incoming electronic fund transfer originated from a separate asset account to load funds to the prepaid account include a direct deposit of salary from an employer and a direct deposit of government benefits.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-4-ii-A-Interp-3-ii" marker="ii.">
+        <content>Consumer requests. For purposes of § 1026.61(a)(4)(ii)(A)(2), cases where the prepaid account issuer has received a request from the consumer to load funds to the prepaid account from a separate asset account include where the consumer, in the course of a transaction, requests a load from a deposit account or uses a debit card to cover the amount of the transaction if there are insufficient funds in the asset feature of the prepaid account to pay for the transaction.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4-ii-A-Interp-4">
+    <interpParagraph label="1026-61-a-4-ii-A-Interp-4" marker="4.">
+      <title>Permitted authorization circumstances are not mutually exclusive.</title>
+      <content>The two circumstances set forth in § 1026.61(a)(4)(ii)(A)(1) and (2) are not mutually exclusive. For example, assume a prepaid account issuer has adopted the $10 cushion described in § 1026.61(a)(4)(ii)(A)(1), and the delayed load cushion described in § 1026.61(a)(4)(ii)(A)(2). Also, assume the prepaid account issuer has received an instruction or confirmation for an incoming electronic fund transfer originated from a separate asset account to load funds to the prepaid account but the prepaid account issuer has not received the funds from the separate asset account. In this case, a prepaid account issuer satisfies § 1026.61(a)(4)(ii)(A) if the amount of a transaction at authorization will not cause the prepaid account balance to become negative at the time of the authorization by more than the requested load amount plus the $10 cushion.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4-ii-B-Interp-1">
+    <interpParagraph label="1026-61-a-4-ii-B-Interp-4" marker="1.">
+      <title>Different terms on different prepaid account programs.</title>
+      <content>Section 1026.61(a)(4)(ii)(B) does not prohibit a prepaid account issuer from charging different terms on different prepaid account programs. For example, the terms may differ between a prepaid account program where a covered separate credit feature accessible by a hybrid prepaid-credit card is not offered in connection with any prepaid accounts within the prepaid account program, and a prepaid account program where a covered separate credit feature accessible by a hybrid prepaid-credit card may be offered to some consumers in connection with their prepaid accounts.</content>
+    </interpParagraph>
+  </change>
+  <change operation="added" label="1026-61-a-4-ii-Interp-4">
+    <interpParagraph label="1026-61-a-4-ii-Interp-4" marker="1.">
+      <title>Fees or charges covered by § 1026.61(a)(4)(ii)(B)(1).</title>
+      <content>To qualify for the exception in § 1026.61(a)(4)(ii)(B), the prepaid account issuer may not impose any fees or charges for opening, issuing, or holding a negative balance on the asset feature, or for the availability of credit, whether imposed on a one-time or periodic basis. Section 1026.61(a)(4)(ii)(B)(1) does not include fees or charges to open, issue, or hold the prepaid account where the amount of the fee or charge imposed on the asset feature is not higher based on whether credit might be offered or has been accepted, whether or how much credit the consumer has accessed, or the amount of credit available.</content>
+      <interpParagraph label="1026-61-a-4-ii-Interp-4-i" marker="i.">
+        <content>The types of fees or charges prohibited by § 1026.61(a)(4)(ii)(B)(1) include:</content>
+        <interpParagraph label="1026-61-a-4-ii-Interp-4-i-A" marker="A.">
+          <content>A daily, weekly, monthly, or other periodic fee assessed each period a prepaid account has a negative balance or is in “overdraft” status; and</content>
+        </interpParagraph>
+        <interpParagraph label="1026-61-a-4-ii-Interp-4-i-B" marker="B.">
+          <content>A daily, weekly, monthly or other periodic fee to hold the prepaid account where the amount of the fee that applies each period is higher if the consumer is enrolled in a purchase cushion as described in § 1026.61(a)(4)(ii)(A)(1) or a delayed load cushion as described in § 1026.61(a)(4)(ii)(A)(2) during that period. For example, assume that a consumer will pay a fee to hold the prepaid account of $10 if the consumer is not enrolled in a purchase cushion as described in § 1026.61(a)(4)(ii)(A)(1) or a delayed load cushion as described in § 1026.61(a)(4)(ii)(A)(2) during that month, and will pay a fee to hold the prepaid account of $15 if the consumer is enrolled in a purchase cushion or delayed load cushion that period. The $15 charge is a charge described in § 1026.61(a)(4)(ii)(B)(1) because the amount of the fee to hold the prepaid account is higher based on whether the consumer is participating in the payment cushion or delayed load cushion during that period.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-4-ii-Interp-4-ii" marker="ii.">
+        <content>Fees or charges described in § 1026.61(a)(4)(ii)(B) do not include:</content>
+        <interpParagraph label="1026-61-a-4-ii-Interp-4-ii-A" marker="A.">
+          <content>A daily, weekly, monthly, or other periodic fee to hold the prepaid account where the amount of the fee is not higher based on whether the consumer is enrolled in a purchase cushion as described in § 1026.61(a)(4)(ii)(A)(1) or a delayed load cushion as described in § 1026.61(a)(4)(ii)(A)(2) during that period, whether or how much credit has been extended during that period, or the amount of credit that is available during that period.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4-ii-B-2-Interp-1">
+    <interpParagraph label="1026-61-a-4-ii-B-2-Interp-1" marker="1.">
+      <title>Fees or charges covered by § 1026.61(a)(4)(ii)(B)(2).</title>
+      <content>To qualify for the exception in § 1026.61(a)(4)(ii)(B), the prepaid account issuer may not impose any fees or charges on the asset feature of the prepaid account that will be imposed only when credit is extended on the asset feature or when there is a negative balance on the asset feature.</content>
+      <interpParagraph label="1026-61-a-4-ii-B-2-Interp-1-i" marker="i.">
+        <content>These types of fees or charges include:</content>
+        <interpParagraph label="1026-61-a-4-ii-B-2-Interp-1-i-A" marker="A.">
+          <content>A fee imposed because the balance on the prepaid account becomes negative;</content>
+        </interpParagraph>
+        <interpParagraph label="1026-61-a-4-ii-B-2-Interp-1-i-B" marker="B.">
+          <content>Interest charges attributable to a periodic rate that applies to the negative balance;</content>
+        </interpParagraph>
+        <interpParagraph label="1026-61-a-4-ii-B-2-Interp-1-i-C" marker="C.">
+          <content>Any fees for delinquency, default, or a similar occurrences that result from the prepaid account having a negative balance or being in “overdraft” status, except that the actual costs to collect the credit may be imposed if otherwise permitted by law; and</content>
+        </interpParagraph>
+        <interpParagraph label="1026-61-a-4-ii-B-2-Interp-1-i-D" marker="D.">
+          <content>Late payment fees.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-4-ii-B-2-Interp-1-ii" marker="ii.">
+        <content>Fees or charges described in § 1026.61(a)(4)(ii)(B) do not include:</content>
+        <interpParagraph label="1026-61-a-4-ii-B-2-Interp-1-ii-A" marker="A.">
+          <content>Fees for actual collection costs, including attorney's fees, to collect any credit extended on the prepaid account if otherwise permitted by law. Late payment fees are not considered fees imposed for actual collection costs. See comment 61(a)(4)(ii)(B)(2)-1.i.D.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4-ii-B-3-Interp-1">
+    <interpParagraph label="1026-61-a-4-ii-B-3-Interp-1" marker="1.">
+      <title>Fees or charges covered by § 1026.61(a)(4)(ii)(B)(3).</title>
+      <content/>
+      <interpParagraph label="1026-61-a-4-ii-B-3-Interp-1-i" marker="i.">
+        <content>To qualify for the exception in § 1026.61(a)(4)(ii)(B), the prepaid account issuer may not impose any fees or charges on the asset feature of the prepaid account that are higher when credit is extended on the asset feature or when there is a negative balance on the asset feature. These types of fees or charges include:</content>
+        <interpParagraph label="1026-61-a-4-ii-B-3-Interp-1-i-A" marker="A.">
+          <content>Transaction fees where the amount of the fee is higher based on whether the transaction accesses only asset funds in the asset feature or accesses credit. For example, a $15 transaction charge is imposed on the asset feature each time a transaction is authorized or paid when there are insufficient or unavailable funds in the asset feature at the time of the authorization or settlement. A $1.50 fee is imposed each time a transaction only accesses funds in the asset feature. The $15 charge is a charge described in § 1026.61(a)(4)(ii)(B)(3) because the amount of the transaction fee is higher when the transaction accesses credit than the amount of the fee that applies when the transaction accesses only asset funds in the asset feature; and</content>
+        </interpParagraph>
+        <interpParagraph label="1026-61-a-4-ii-B-3-Interp-1-i-B" marker="B.">
+          <content>A fee for a service on the prepaid account where the amount of the fee is higher based on whether the service is requested when the asset feature has a negative balance. For example, if a prepaid account issuer charges a higher fee for an ATM balance inquiry requested on the prepaid account if the balance inquiry is requested when there is a negative balance on the asset feature than the amount of fee imposed when there is a positive balance on the asset feature, the balance inquiry fee is a fee described in § 1026.61(a)(4)(ii)(B)(3) because the amount of the fee is higher based on whether it is imposed when there is a negative balance on the asset feature.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-4-ii-B-3-Interp-1-ii" marker="ii.">
+        <content>Fees or charges described in § 1026.61(a)(4)(ii)(B) do not include:</content>
+        <interpParagraph label="1026-61-a-4-ii-B-3-Interp-1-ii-A" marker="A.">
+          <content>Transaction fees on the prepaid account where the amount of the fee imposed when the transaction accesses credit does not exceed the amount of the fee imposed when the transaction only accesses asset funds in the prepaid account. For example, assume a $1.50 transaction charge is imposed on the prepaid account for each paid transaction that is made with the prepaid card, including transactions that only access asset funds, transactions that take the account balance negative, and transactions that occur when the account balance is already negative. The $1.50 transaction charge imposed on the prepaid account is not a fee described in § 1026.61(a)(4)(ii)(B); and</content>
+        </interpParagraph>
+        <interpParagraph label="1026-61-a-4-ii-B-3-Interp-1-ii-B" marker="B.">
+          <content>A fee for a service on the prepaid account where the amount of the fee is not higher based on whether the service is requested when the asset feature has a negative balance. For example, if a prepaid account issuer charges the same amount of fee for an ATM balance inquiry regardless of whether there is a positive or negative balance on the asset feature, the balance inquiry fee is not a fee described in § 1026.61(a)(4)(ii)(B).</content>
+        </interpParagraph>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-4-ii-C-Interp-1">
+    <interpParagraph label="1026-61-a-4-ii-C-Interp-1" marker="1.">
+      <title>Fees or charges not covered by § 1026.61(a)(4)(ii)(B).</title>
+      <content>Under § 1026.61(a)(4)(ii)(C), a prepaid account issuer may still satisfy the exception in § 1026.61(a)(4) even if it debits fees or charges from the prepaid account when there are insufficient or unavailable funds in the asset feature of the prepaid account to cover those fees or charges at the time they are imposed, so long as those fees or charges are not the type of fees or charges enumerated in § 1026.61(a)(4)(ii)(B). A fee or charge not otherwise covered by § 1026.61(a)(4)(ii)(B) does not become covered by that provision simply because there are insufficient or unavailable funds in the asset feature of the prepaid account to pay the fee when it is imposed. For example, assume that a prepaid account issuer imposes a fee for an ATM balance inquiry and the amount of the fee is not higher based on whether credit is extended or whether there is a negative balance on the prepaid account. Also assume that when the fee is imposed, there are insufficient or unavailable funds in the asset feature of the prepaid account to pay the fee. The ATM balance inquiry fee does not become a fee covered by § 1026.61(a)(4)(ii)(B) because the fee is debited from the prepaid account balance when there are insufficient or unavailable funds in the asset feature of the prepaid account to cover the fee at the time it is imposed.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii-Interp-1">
+    <interpParagraph label="1026-61-a-5-iii-Interp-1" marker="1.">
+      <title>Card network or payment network agreements.</title>
+      <content>A draw, transfer, or authorization of the draw or transfer from a credit feature may be effectuated through a card network or a payment network. However, for purposes of § 1026.61(a)(5)(iii), agreements to participate in a card network or payment network themselves do not constitute an “agreement” or a “business, marketing, or promotional agreement or other arrangement” described in § 1026.61(a)(5)(iii)(B) or (C), respectively.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii-Interp-2">
+    <interpParagraph label="1026-61-a-5-iii-Interp-2" marker="2.">
+      <title>Relationship to prepaid account issuer.</title>
+      <content>A person (other than a prepaid account issuer or its affiliates) that can extend credit through a separate credit feature will be deemed to have an arrangement with the prepaid account issuer if the person that can extend credit, its service provider, or the person's affiliate has an arrangement with the prepaid account issuer, its service provider such as a program manager, or the issuer's affiliate. In that case, the person that can extend credit will be a business partner of the prepaid account issuer. For example, if the affiliate of the person that can extend credit has an arrangement with the prepaid account issuer's affiliate, the person that can extend credit will be the business partner of the prepaid account issuer.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii-Interp-1">
+    <interpParagraph label="1026-61-a-5-iii-Interp-1" marker="1.">
+      <title>When the exception applies.</title>
+      <content>If the exception in § 1026.61(a)(5)(iii)(D) applies, a person that can extend credit through the credit card account is not a business partner of a prepaid account issuer with which it has an arrangement as defined in § 1026.61(a)(5)(iii)(A) through (C). Accordingly, where a consumer has authorized his or her prepaid card in accordance with § 1026.61(a)(5)(iii)(D) to be linked to the credit card account in such a way as to allow the prepaid card to access the credit card account as described in § 1026.61(a)(5)(iii)(D)(2), the linked prepaid card is not a hybrid prepaid-credit card with respect to the linked credit card account. Rather, the linked credit card account is a non-covered separate credit feature as discussed in § 1026.61(a)(2)(ii). See comment 61(a)(2)-5. In this case, by definition, the linked credit card account will be subject to the credit card rules in this regulation in its own right because it is a credit card account under an open-end (not home-secured) consumer credit plan, pursuant to the condition set forth in § 1026.61(a)(5)(iii)(D)(1).</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii-Interp-1">
+    <interpParagraph label="1026-61-a-5-iii-Interp-1" marker="1.">
+      <title>Traditional credit card.</title>
+      <content>For purposes of § 1026.61(a)(5)(iii)(D), “traditional credit card ” means a credit card that is not a hybrid prepaid-credit card. Thus, the condition in § 1026.61(a)(5)(iii)(D)(1) is not satisfied if the only credit card that a consumer can use to access the credit card account under an open-end (not home-secured) consumer credit plan is a hybrid prepaid-credit card.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii-Interp-1">
+    <interpParagraph label="1026-61-a-5-iii-Interp-1" marker="1.">
+      <title>Written request.</title>
+      <content>Under § 1026.61(a)(5)(iii)(D)(2), any accountholder on either the prepaid account or the credit card account may make the written request.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii-Interp-1">
+    <interpParagraph label="1026-61-a-5-iii-Interp-1" marker="1.">
+      <title>Account terms, conditions, or features.</title>
+      <content>Account terms, conditions, and features subject to § 1026.61(a)(5)(iii)(D)(4) include, but are not limited to:</content>
+      <interpParagraph label="1026-61-a-5-iii-Interp-1-i" marker="i.">
+        <content>Interest paid on funds deposited into the prepaid account, if any;</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-5-iii-Interp-1-ii" marker="ii.">
+        <content>Fees or charges imposed on the prepaid account (see comment 61(a)(5)(iii)(D)(4)-3 for additional guidance on this element with regard to load fees);</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-5-iii-Interp-1-iii" marker="iii.">
+        <content>The type of access device provided to the consumer;</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-5-iii-Interp-1-iv" marker="iv.">
+        <content>Minimum balance requirements on the prepaid account; or</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-5-iii-Interp-1-v" marker="v.">
+        <content>Account features offered in connection with the prepaid account, such as online bill payment services.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii-Interp-2">
+    <interpParagraph label="1026-61-a-5-iii-Interp-2" marker="2.">
+      <title>The same terms, conditions, and features apply to the consumer's prepaid account.</title>
+      <content>For the exception in § 1026.61(a)(5)(iii)(D) to apply, under § 1026.61(a)(5)(iii)(D)(4), the prepaid account issuer must not vary the terms, conditions, and features on the consumer's prepaid account depending on whether the consumer has authorized linking the prepaid card to the credit card account as described in § 1026.61(a)(5)(iii)(D)(2). For example, a prepaid account issuer would not satisfy this condition of § 1026.61(a)(5)(iii)(D)(4) if it provides on a consumer's prepaid account rewards points or cash back on purchases with the prepaid card where the consumer has authorized a link to the credit card account as discussed above while not providing such rewards points or cash back on the consumer's account if the consumer has not authorized such a linkage.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii-Interp-3">
+    <interpParagraph label="1026-61-a-5-iii-Interp-3" marker="3.">
+      <title>Example of impermissible variations in load fees.</title>
+      <content>For the exception in § 1026.61(a)(5)(iii)(D) to apply, under § 1026.61(a)(5)(iii)(D)(4), the prepaid account issuer must apply the same fees to load funds from the credit card account that is linked to the prepaid account as described in § 1026.61(a)(5)(iii)(D)(2) as it charges for a comparable load on the consumer's prepaid account to access a credit feature offered by a person that is not the prepaid account issuer, its affiliates, or a person with which the prepaid account issuer has an arrangement as described in § 1026.61(a)(5)(iii)(A) through (C). For example, a prepaid account issuer would not satisfy this condition of § 1026.61(a)(5)(iii)(D)(4) if it charges on the consumer's prepaid account $0.50 to load funds in the course of a transaction from a credit card account offered by a card issuer with which the prepaid account issuer has an arrangement, but $1.00 to load funds in the course of a transaction from a credit card account offered by a card issuer with which it does not have an arrangement.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii-Interp-1">
+    <interpParagraph label="1026-61-a-5-iii-Interp-1" marker="1.">
+      <title>Specified terms and conditions.</title>
+      <content>For purposes of § 1026.61(a)(5)(iii)(D), “specified terms and conditions” on a credit card account means:</content>
+      <interpParagraph label="1026-61-a-5-iii-Interp-1-i" marker="i.">
+        <content>The terms and conditions required to be disclosed under § 1026.6(b), which include pricing terms, such as periodic rates, annual percentage rates, and fees and charges imposed on the credit card account; any security interests acquired under the credit account; claims and defenses rights under § 1026.12(c); and error resolution rights under § 1026.13;</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-5-iii-Interp-1-ii" marker="ii.">
+        <content>Any repayment terms and conditions, including the length of the billing cycle, the payment due date, any grace period on the transactions on the account, the minimum payment formula, and the required or permitted methods for making conforming payments on the credit feature; and</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-5-iii-Interp-1-iii" marker="iii.">
+        <content>The limits on liability for unauthorized credit transactions.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-a-5-iii-Interp-2">
+    <interpParagraph label="1026-61-a-5-iii-Interp-2" marker="2.">
+      <title>Same specified terms and conditions regardless of whether the credit card account is linked to the prepaid account.</title>
+      <content>For the exception in § 1026.61(a)(5)(iii)(D) to apply, under § 1026.61(a)(5)(iii)(D)(5), the card issuer must not vary the specified terms and conditions on the consumer's credit card account depending on whether the consumer has authorized linking the prepaid card to the credit card account as described in § 1026.61(a)(5)(iii)(D)(2). The following are examples of circumstances in which a card issuer would not meet the condition described above:</content>
+      <interpParagraph label="1026-61-a-5-iii-Interp-2-i" marker="i.">
+        <content>The card issuer structures the credit card account as a “charge card account” (where no periodic rate is used to compute a finance charge on the credit card account) if the credit feature is linked to the prepaid card as described in § 1026.61(a)(5)(iii)(D)(2), but applies a periodic rate to compute a finance charge on the consumer's account (and thus does not use a charge card account structure) if there is no such link. See § 1026.2(a)(15)(iii) for the definition of “charge card.”</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-5-iii-Interp-2-ii" marker="ii.">
+        <content>The card issuer imposes a $50 annual fee on a consumer's credit card account if the credit feature is linked to the prepaid card as described in § 1026.61(a)(5)(iii)(D)(2), but does not impose an annual fee on the consumer's credit card account if there is no such link.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="added" label="1026-61-a-5-iii-Interp-3">
+    <interpParagraph label="1026-61-a-5-iii-Interp-3" marker="3.">
+      <title>Same specified terms and conditions regardless of whether credit is accessed by the prepaid card or the traditional credit card.</title>
+      <content>To satisfy the condition of § 1026.61(a)(5)(iii)(D)(1), the credit card account must be a credit card account under an open-end (not home-secured) consumer credit plan that a consumer can access through a traditional credit card. As explained in comment 61(a)(5)(iii)(D)(1)-1, for purposes of § 1026.61(a)(5)(iii)(D), “traditional credit card” means a credit card that is not a hybrid prepaid-credit card. For the exception in § 1026.61(a)(5)(iii)(D) to apply, under § 1026.61(a)(5)(iii)(D)(5), a card issuer must not vary the specified terms and conditions on the credit card account when a consumer authorizes linking the account with the prepaid card as described in § 1026.61(a)(5)(iii)(D)(2) depending on whether a particular credit extension from the credit card account is accessed by the prepaid card or by the traditional credit card.</content>
+      <interpParagraph label="1026-61-a-5-iii-Interp-3-i" marker="i.">
+        <content>The following examples are circumstances in which a card issuer would not meet the condition of § 1026.61(a)(5)(iii)(D)(5) described above:</content>
+        <interpParagraph label="1026-61-a-5-iii-Interp-3-i-A" marker="A.">
+          <content>The card issuer considers transactions using the traditional credit card to obtain goods or services from an unaffiliated merchant of the card issuer as purchase transactions with certain annual percentage rates (APRs), fees, and a grace period that applies to those purchase transactions, but treats credit extensions as cash advances that are subject to different APRs, fees, grace periods, and other specified terms and conditions where the prepaid card is used to draw, transfer, or authorize the draw or transfer of credit from the linked credit card account in the course of authorizing, settling, or otherwise completing transactions conducted with the prepaid card to obtain goods or services from an unaffiliated merchant of the card issuer.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-61-a-5-iii-Interp-3-i-B" marker="B.">
+          <content>The card issuer generally treats one-time transfers of credit using the credit card account number to asset accounts as cash advance transactions with certain APRs and fees, but treats one-time transfers of credit using the prepaid card to the prepaid account as purchase transactions that are subject to different APRs and fees.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-5-iii-Interp-3-ii" marker="ii.">
+        <content>To apply the same rights under § 1026.12(c) regarding claims and defenses applicable to use of a credit card to purchase property or services, the card issuer must treat an extension of credit as a credit card transaction to purchase property or services where a prepaid card is used to draw, transfer, or authorize the draw or transfer of credit from the linked credit card account in the course of authorizing, settling, or otherwise completing transactions conducted with the prepaid card to purchase property or services and provide the same rights under § 1026.12(c) as it applies to property or services purchased with the traditional credit card. This includes situations where a consumer uses a prepaid card to make a purchase to obtain property or services from a merchant and credit is transferred from the linked credit card account in the course of authorizing, settling, or otherwise completing the prepaid transaction to make the purchase. For a transaction where a prepaid card is used to obtain property or services from a merchant and the transaction is partially paid with funds from the asset feature of the prepaid account, and partially paid with credit from the linked credit card account, the amount of the purchase transaction that is funded by credit would be subject to this guidance. A card issuer is not required to provide the rights under § 1026.12(c) with respect to the amount of the transaction funded from the prepaid account.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-a-5-iii-Interp-3-iii" marker="iii.">
+        <content>To apply the same limits on liability for unauthorized extensions of credit from the credit card account using the prepaid card as it applies to unauthorized extensions of credit from the credit card account using the traditional credit card, the card issuer must treat an extension of credit accessed by the prepaid card as a credit card transaction for purposes of the limits on liability for unauthorized extensions of credit set forth in § 1026.12(b) and impose the same liability under § 1026.12(b) to this credit extension as it applies to unauthorized transactions using the traditional credit card.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-b-Interp-1">
+    <interpParagraph label="1026-61-b-Interp-1" marker="1.">
+      <title>Credit subaccount on a prepaid account.</title>
+      <content>If a credit feature that is accessible by a hybrid prepaid-credit card is structured as a subaccount of the prepaid account, the credit feature must be set up as a separate balance on the prepaid account such that there are at least two balances on the prepaid account—the asset account balance and the credit account balance.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-61-b-Interp-2">
+    <interpParagraph label="1026-61-b-Interp-2" marker="2.">
+      <title>Credit extended on a credit subaccount or a separate credit account.</title>
+      <content>Under § 1026.61(b), with respect to a credit feature that is accessed by a hybrid prepaid-credit card, a card issuer at its option may structure the credit feature as a separate credit feature, either as a subaccount on the prepaid account that is separate from the asset feature or as a separate credit account. The separate credit feature would be a covered separate credit feature accessible by a hybrid prepaid-credit card under § 1026.61(a)(2)(i). Regardless of whether the card issuer is structuring its covered separate credit feature as a subaccount of the prepaid account or as a separate credit account:</content>
+      <interpParagraph label="1026-61-b-Interp-2-i" marker="i.">
+        <content>If at the time a prepaid card transaction is initiated there are insufficient or unavailable funds in the asset feature of the prepaid account to complete the transaction, credit must be drawn, transferred or authorized to be drawn or transferred, from the covered separate credit feature at the time the transaction is authorized. The card issuer may not allow the asset feature on the prepaid account to become negative and draw or transfer the credit from the covered separate credit feature at a later time, such as at the end of the day. The card issuer must comply with the applicable provisions of this regulation with respect to the credit extension from the time the prepaid card transaction is authorized.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-b-Interp-2-ii" marker="ii.">
+        <content>For transactions where there are insufficient or unavailable funds in the asset feature of the prepaid account to cover that transaction at the time it settles and the prepaid transaction either was not authorized in advance or the transaction was authorized and there were sufficient or available funds in the prepaid account at the time of authorization to cover the transaction, credit must be drawn from the covered separate credit feature to settle these transactions. The card issuer may not allow the asset feature on the prepaid account to become negative. The card issuer must comply with the applicable provisions of this regulation from the time the transaction is settled.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-61-b-Interp-2-iii" marker="iii.">
+        <content>If a negative balance would result on the asset feature in circumstances other than those described in comment 61(b)-2.i and ii, credit must be drawn from the covered separate credit feature to avoid the negative balance. The card issuer may not allow the asset feature on the prepaid account to become negative. The card issuer must comply with the applicable provisions in this regulation from the time credit is drawn from the covered separate credit feature. For example, assume that a fee for an ATM balance inquiry is imposed on the prepaid account when there are insufficient or unavailable funds to cover the amount of the fee when it is imposed. Credit must be drawn from the covered separate credit feature to avoid a negative balance.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  </changeset>
+</notice>

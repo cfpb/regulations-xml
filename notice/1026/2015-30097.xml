@@ -16,17 +16,13 @@
     </cfr>
     <documentNumber>2015-30097</documentNumber>
     <effectiveDate>2016-01-01</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2015/11/27/2015-30097/appraisals-for-higher-priced-mortgage-loans-exemption-threshold</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2015/11/27/2015-30097/appraisals-for-higher-priced-mortgage-loans-exemption-threshold</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2015-30091" rightDocumentNumber="2015-30097">
-
-    <!-- In Supplement I to part 1026, under Section 1026.35—Requirements for Higher-Priced Mortgage Loans, under paragraph 35(c)(2)(ii), paragraph 35(c)(2)(ii)-1.iii is added to read as follows:-->
-
-    <change operation="added" label="1026-35-c-2-ii-Interp-1-iii" parent="1026-35-c-2-ii-Interp-1">
-      <interpParagraph label="1026-35-c-2-ii-Interp-1-iii" marker="iii.">
-	<content>From January 1, 2016, through December 31, 2016, the threshold amount is $25,500.</content>
-      </interpParagraph>
-    </change>
-
+  <change operation="added" label="1026-35-c-2-ii-Interp-1-iii" parent="1026-35-c-2-ii-Interp-1">
+    <interpParagraph label="1026-35-c-2-ii-Interp-1-iii" marker="iii.">
+      <content>From January 1, 2016, through December 31, 2016, the threshold amount is $25,500.</content>
+    </interpParagraph>
+  </change>
   </changeset>
 </notice>

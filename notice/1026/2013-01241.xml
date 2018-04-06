@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
@@ -15,7 +16,7 @@
     </cfr>
     <documentNumber>2013-01241</documentNumber>
     <effectiveDate>2014-01-10</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2013/02/14/2013-01241/mortgage-servicing-rules-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/02/14/2013-01241/mortgage-servicing-rules-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2013-00740" rightDocumentNumber="2013-01241">
     <!-- Update TOC for Section 20 and 41 subject changes -->
@@ -119,7 +120,6 @@
         </tocSecEntry>
       </tableOfContents>
     </change>
-
     <!-- Section 1026.17 is amended by revising paragraphs (a)(1) and (b) -->
     <change operation="modified" label="1026-17-a-1">
       <paragraph label="1026-17-a-1" marker="(1)">
@@ -146,7 +146,8 @@
             <content>A reduction in the annual percentage rate with a corresponding change in the payment schedule.</content>
           </paragraph>
           <paragraph label="1026-20-a-3" marker="(3)">
-            <content>An <ref target="1026-58-b-1" reftype="term">agreement</ref> involving a court proceeding.</content></paragraph>
+            <content>An <ref target="1026-58-b-1" reftype="term">agreement</ref> involving a court proceeding.</content>
+          </paragraph>
           <paragraph label="1026-20-a-4" marker="(4)">
             <content>A change in the payment schedule or a change in collateral requirements as a result of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s default or delinquency, unless the rate is increased, or the new amount financed exceeds the unpaid balance plus earned finance charge and premiums for continuation of insurance of the types described in § <ref target="1026-4-d" reftype="internal">1026.4(d)</ref>.</content>
           </paragraph>
@@ -175,11 +176,13 @@
         </paragraph>
         <paragraph label="1026-20-c" marker="(c)">
           <title type="keyterm">Rate adjustments with a corresponding change in payment.</title>
-          <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer of an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> shall provide <ref target="1026-2-a-11" reftype="term">consumers</ref> with disclosures, as described in this paragraph (c), in connection with the adjustment of interest rates pursuant to the loan contract that results in a corresponding adjustment to the payment. To the extent that other provisions of this subpart C govern the disclosures required by this paragraph (c), those provisions apply to assignees and servicers as well as to <ref target="1026-2-a-17" reftype="term">creditors</ref>. The disclosures required by this paragraph (c) also shall be provided for an interest rate adjustment resulting from the conversion of an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> to a fixed-rate transaction, if that interest rate adjustment results in a corresponding payment change.</content><paragraph label="1026-20-c-1" marker="(1)">
+          <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer of an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> shall provide <ref target="1026-2-a-11" reftype="term">consumers</ref> with disclosures, as described in this paragraph (c), in connection with the adjustment of interest rates pursuant to the loan contract that results in a corresponding adjustment to the payment. To the extent that other provisions of this subpart C govern the disclosures required by this paragraph (c), those provisions apply to assignees and servicers as well as to <ref target="1026-2-a-17" reftype="term">creditors</ref>. The disclosures required by this paragraph (c) also shall be provided for an interest rate adjustment resulting from the conversion of an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> to a fixed-rate transaction, if that interest rate adjustment results in a corresponding payment change.</content>
+          <paragraph label="1026-20-c-1" marker="(1)">
             <content>Coverage.</content>
             <paragraph label="1026-20-c-1-i" marker="(i)">
               <title type="keyterm">In general.</title>
-              <content>For purposes of this paragraph <ref target="1026-20-c" reftype="internal">(c)</ref>, an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> or “ARM” is a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> in which the annual percentage rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content></paragraph>
+              <content>For purposes of this paragraph <ref target="1026-20-c" reftype="internal">(c)</ref>, an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> or “ARM” is a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> in which the annual percentage rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
+            </paragraph>
             <paragraph label="1026-20-c-1-ii" marker="(ii)">
               <title type="keyterm">Exemptions.</title>
               <content>The requirements of this paragraph <ref target="1026-20-c" reftype="internal">(c)</ref> do not apply to:</content>
@@ -197,12 +200,14 @@
             <paragraph label="1026-20-c-2-i" marker="(i)">
               <content>A statement providing:</content>
               <paragraph label="1026-20-c-2-i-A" marker="(A)">
-                <content>An explanation that under the terms of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref>, the specific time period in which the current interest rate has been in effect is ending and the interest rate and mortgage payment will change;</content></paragraph>
+                <content>An explanation that under the terms of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref>, the specific time period in which the current interest rate has been in effect is ending and the interest rate and mortgage payment will change;</content>
+              </paragraph>
               <paragraph label="1026-20-c-2-i-B" marker="(B)">
                 <content>The effective date of the interest rate adjustment and when additional future interest rate adjustments are scheduled to occur; and</content>
               </paragraph>
               <paragraph label="1026-20-c-2-i-C" marker="(C)">
-                <content>Any other changes to <ref target="1026-43-b-6" reftype="term">loan terms</ref>, features, or options taking effect on the same date as the interest rate adjustment, such as the expiration of <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> or payment-option features.</content></paragraph>
+                <content>Any other changes to <ref target="1026-43-b-6" reftype="term">loan terms</ref>, features, or options taking effect on the same date as the interest rate adjustment, such as the expiration of <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> or payment-option features.</content>
+              </paragraph>
             </paragraph>
             <paragraph label="1026-20-c-2-ii" marker="(ii)">
               <content>A table containing the following information:</content>
@@ -213,7 +218,8 @@
                 <content>The current and new payments and the date the first new payment is due; and</content>
               </paragraph>
               <paragraph label="1026-20-c-2-ii-C" marker="(C)">
-                <content>For <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> or negatively-amortizing payments, the amount of the current and new payment allocated to principal, interest, and taxes and insurance in escrow, as applicable. The current payment allocation disclosed shall be the payment allocation for the last payment prior to the date of the disclosure. The new payment allocation disclosed shall be the expected payment allocation for the first payment for which the new interest rate will apply.</content></paragraph>
+                <content>For <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> or negatively-amortizing payments, the amount of the current and new payment allocated to principal, interest, and taxes and insurance in escrow, as applicable. The current payment allocation disclosed shall be the payment allocation for the last payment prior to the date of the disclosure. The new payment allocation disclosed shall be the expected payment allocation for the first payment for which the new interest rate will apply.</content>
+              </paragraph>
             </paragraph>
             <paragraph label="1026-20-c-2-iii" marker="(iii)">
               <content>An explanation of how the interest rate is determined, including:</content>
@@ -239,12 +245,15 @@
                 <content>The loan balance expected on the date of the interest rate adjustment; and</content>
               </paragraph>
               <paragraph label="1026-20-c-2-v-D" marker="(D)">
-                <content>The length of the remaining <ref target="1026-43-b-6" reftype="term">loan term</ref> expected on the date of the interest rate adjustment and any change in the term of the loan caused by the adjustment.</content></paragraph>
+                <content>The length of the remaining <ref target="1026-43-b-6" reftype="term">loan term</ref> expected on the date of the interest rate adjustment and any change in the term of the loan caused by the adjustment.</content>
+              </paragraph>
             </paragraph>
             <paragraph label="1026-20-c-2-vi" marker="(vi)">
-              <content>If applicable, a statement that the new payment will not be allocated to pay loan principal and will not reduce the loan balance. If the new payment will result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, a statement that the new payment will not be allocated to pay loan principal and will pay only part of the loan interest, thereby adding to the balance of the loan. If the new payment will result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref> as a result of the interest rate adjustment, the statement shall set forth the payment required to amortize fully the remaining balance at the new interest rate over the remainder of the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content></paragraph>
+              <content>If applicable, a statement that the new payment will not be allocated to pay loan principal and will not reduce the loan balance. If the new payment will result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, a statement that the new payment will not be allocated to pay loan principal and will pay only part of the loan interest, thereby adding to the balance of the loan. If the new payment will result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref> as a result of the interest rate adjustment, the statement shall set forth the payment required to amortize fully the remaining balance at the new interest rate over the remainder of the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
+            </paragraph>
             <paragraph label="1026-20-c-2-vii" marker="(vii)">
-              <content>The circumstances under which any <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in § <ref target="1026-32-b-6-i" reftype="internal">1026.32(b)(6)(i)</ref>, may be imposed, such as when paying the loan in full or selling or refinancing the principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>; the time period during which such a penalty may be imposed; and a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> may contact the servicer for additional information, including the maximum amount of the penalty.</content></paragraph>
+              <content>The circumstances under which any <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in § <ref target="1026-32-b-6-i" reftype="internal">1026.32(b)(6)(i)</ref>, may be imposed, such as when paying the loan in full or selling or refinancing the principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>; the time period during which such a penalty may be imposed; and a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> may contact the servicer for additional information, including the maximum amount of the penalty.</content>
+            </paragraph>
           </paragraph>
           <paragraph label="1026-20-c-3" marker="(3)">
             <content>Format.</content>
@@ -258,12 +267,14 @@
         </paragraph>
         <paragraph label="1026-20-d" marker="(d)">
           <title type="keyterm">Initial rate adjustment.</title>
-          <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer of an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> shall provide <ref target="1026-2-a-11" reftype="term">consumers</ref> with disclosures, as described in this paragraph (d), in c<ref target="1026-20-c" reftype="internal">onn</ref>ection with the initial interest rate adjustment pursuant to the loan contract. To the extent that other provisions of this subpart C govern the disclosures required by this paragraph (d), those provisions apply to assignees and servicers as well as to <ref target="1026-2-a-17" reftype="term">creditors</ref>. The disclosures required by this paragraph (d) shall be provided as a separate document from other documents provided by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer. The disclosures shall be provided to <ref target="1026-2-a-11" reftype="term">consumers</ref> at least 210, but no more than 240, days before the first payment at the adjusted level is due. If the first payment at the adjusted level is due within the first 210 days after <ref target="1026-2-a-13" reftype="term">consummation</ref>, the disclosures shall be provided at <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content><paragraph label="1026-20-d-1" marker="(1)">
+          <content>The <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer of an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> shall provide <ref target="1026-2-a-11" reftype="term">consumers</ref> with disclosures, as described in this paragraph (d), in c<ref target="1026-20-c" reftype="internal">onn</ref>ection with the initial interest rate adjustment pursuant to the loan contract. To the extent that other provisions of this subpart C govern the disclosures required by this paragraph (d), those provisions apply to assignees and servicers as well as to <ref target="1026-2-a-17" reftype="term">creditors</ref>. The disclosures required by this paragraph (d) shall be provided as a separate document from other documents provided by the <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer. The disclosures shall be provided to <ref target="1026-2-a-11" reftype="term">consumers</ref> at least 210, but no more than 240, days before the first payment at the adjusted level is due. If the first payment at the adjusted level is due within the first 210 days after <ref target="1026-2-a-13" reftype="term">consummation</ref>, the disclosures shall be provided at <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
+          <paragraph label="1026-20-d-1" marker="(1)">
             <title type="keyterm">Coverage.</title>
             <content/>
             <paragraph label="1026-20-d-1-i" marker="(i)">
               <title type="keyterm">In general.</title>
-              <content>For purposes of this paragraph <ref target="1026-20-d" reftype="internal">(d)</ref>, an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> or “ARM” is a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> in which the annual percentage rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content></paragraph>
+              <content>For purposes of this paragraph <ref target="1026-20-d" reftype="internal">(d)</ref>, an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> or “ARM” is a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> in which the annual percentage rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
+            </paragraph>
             <paragraph label="1026-20-d-1-ii" marker="(ii)">
               <title type="keyterm">Exemptions.</title>
               <content>The requirements of this paragraph <ref target="1026-20-d" reftype="internal">(d)</ref> do not apply to ARMs with terms of one year or less.</content>
@@ -278,12 +289,14 @@
             <paragraph label="1026-20-d-2-ii" marker="(ii)">
               <content>A statement providing:</content>
               <paragraph label="1026-20-d-2-ii-A" marker="(A)">
-                <content>An explanation that under the terms of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref>, the specific time period in which the current interest rate has been in effect is ending and that any change in the interest rate may result in a change in the mortgage payment;</content></paragraph>
+                <content>An explanation that under the terms of the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref>, the specific time period in which the current interest rate has been in effect is ending and that any change in the interest rate may result in a change in the mortgage payment;</content>
+              </paragraph>
               <paragraph label="1026-20-d-2-ii-B" marker="(B)">
                 <content>The effective date of the interest rate adjustment and when additional future interest rate adjustments are scheduled to occur; and</content>
               </paragraph>
               <paragraph label="1026-20-d-2-ii-C" marker="(C)">
-                <content>Any other changes to <ref target="1026-43-b-6" reftype="term">loan terms</ref>, features, or options taking effect on the same date as the interest rate adjustment, such as the expiration of <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> or payment-option features.</content></paragraph>
+                <content>Any other changes to <ref target="1026-43-b-6" reftype="term">loan terms</ref>, features, or options taking effect on the same date as the interest rate adjustment, such as the expiration of <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> or payment-option features.</content>
+              </paragraph>
             </paragraph>
             <paragraph label="1026-20-d-2-iii" marker="(iii)">
               <content>A table containing the following information:</content>
@@ -294,7 +307,8 @@
                 <content>The current and new payments and the date the first new payment is due; and</content>
               </paragraph>
               <paragraph label="1026-20-d-2-iii-C" marker="(C)">
-                <content>For <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> or negatively-amortizing payments, the amount of the current and new payment allocated to principal, interest, and taxes and insurance in escrow, as applicable. The current payment allocation disclosed shall be the payment allocation for the last payment prior to the date of the disclosure. The new payment allocation disclosed shall be the expected payment allocation for the first payment for which the new interest rate will apply.</content></paragraph>
+                <content>For <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> or negatively-amortizing payments, the amount of the current and new payment allocated to principal, interest, and taxes and insurance in escrow, as applicable. The current payment allocation disclosed shall be the payment allocation for the last payment prior to the date of the disclosure. The new payment allocation disclosed shall be the expected payment allocation for the first payment for which the new interest rate will apply.</content>
+              </paragraph>
             </paragraph>
             <paragraph label="1026-20-d-2-iv" marker="(iv)">
               <content>An explanation of how the interest rate is determined, including:</content>
@@ -320,15 +334,18 @@
                 <content>The loan balance expected on the date of the interest rate adjustment;</content>
               </paragraph>
               <paragraph label="1026-20-d-2-vi-D" marker="(D)">
-                <content>The length of the remaining <ref target="1026-43-b-6" reftype="term">loan term</ref> expected on the date of the interest rate adjustment and any change in the term of the loan caused by the adjustment; and</content></paragraph>
+                <content>The length of the remaining <ref target="1026-43-b-6" reftype="term">loan term</ref> expected on the date of the interest rate adjustment and any change in the term of the loan caused by the adjustment; and</content>
+              </paragraph>
               <paragraph label="1026-20-d-2-vi-E" marker="(E)">
                 <content>If the new interest rate or new payment provided is an estimate, a statement that another disclosure containing the actual new interest rate and new payment will be provided to the <ref target="1026-2-a-11" reftype="term">consumer</ref> between two and four months before the first payment at the adjusted level is due for interest rate adjustments that result in a corresponding payment change.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1026-20-d-2-vii" marker="(vii)">
-              <content>If applicable, a statement that the new payment will not be allocated to pay loan principal and will not reduce the loan balance. If the new payment will result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, a statement that the new payment will not be allocated to pay loan principal and will pay only part of the loan interest, thereby adding to the balance of the loan. If the new payment will result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref> as a result of the interest rate adjustment, the statement shall set forth the payment required to amortize fully the remaining balance at the new interest rate over the remainder of the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content></paragraph>
+              <content>If applicable, a statement that the new payment will not be allocated to pay loan principal and will not reduce the loan balance. If the new payment will result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>, a statement that the new payment will not be allocated to pay loan principal and will pay only part of the loan interest, thereby adding to the balance of the loan. If the new payment will result in <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref> as a result of the interest rate adjustment, the statement shall set forth the payment required to amortize fully the remaining balance at the new interest rate over the remainder of the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
+            </paragraph>
             <paragraph label="1026-20-d-2-viii" marker="(viii)">
-              <content>The circumstances under which any <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in § <ref target="1026-32-b-6-i" reftype="internal">1026.32(b)(6)(i)</ref>, may be imposed, such as when paying the loan in full or selling or refinancing the principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>; the time period during which such a penalty may be imposed; and a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> may contact the servicer for additional information, including the maximum amount of the penalty.</content></paragraph>
+              <content>The circumstances under which any <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>, as defined in § <ref target="1026-32-b-6-i" reftype="internal">1026.32(b)(6)(i)</ref>, may be imposed, such as when paying the loan in full or selling or refinancing the principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>; the time period during which such a penalty may be imposed; and a statement that the <ref target="1026-2-a-11" reftype="term">consumer</ref> may contact the servicer for additional information, including the maximum amount of the penalty.</content>
+            </paragraph>
             <paragraph label="1026-20-d-2-ix" marker="(ix)">
               <content>The telephone number of the <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer for <ref target="1026-2-a-11" reftype="term">consumers</ref> to call if they anticipate not being able to make their new payments.</content>
             </paragraph>
@@ -355,7 +372,7 @@
             <title type="keyterm">Format.</title>
             <content/>
             <paragraph label="1026-20-d-3-i" marker="(i)">
-              <content>Except for the disclosures required by paragraph <ref target="1026-20-d-2-i" reftype="internal">(d)(2)(i)</ref> of this section, the disclosures required by this paragraph <ref target="1026-20-d" reftype="internal">(d)</ref> shall be provided in the form of a table and in the same order as, and with headings and format substantially similar to, forms <ref target="1026-H-4(D)(3)" reftype="internal">H-4(D)(3)</ref> and (4) in appendix <ref target="1026-H" reftype="internal">H</ref> to this part;</content>
+                <content>Except for the disclosures required by paragraph <ref target="1026-20-d-2-i" reftype="internal">(d)(2)(i)</ref> of this section, the disclosures required by this paragraph <ref target="1026-20-d" reftype="internal">(d)</ref> shall be provided in the form of a table and in the same order as, and with headings and format substantially similar to, forms <ref target="1026-H-4(D)(3)" reftype="internal">H-4(D)(3)</ref> and <ref target="1026-H-4(D)(4)" reftype="internal">(4)</ref> in appendix <ref target="1026-H" reftype="internal">H</ref> to this part;</content>
             </paragraph>
             <paragraph label="1026-20-d-3-ii" marker="(ii)">
               <content>The disclosures required by paragraph <ref target="1026-20-d-2-i" reftype="internal">(d)(2)(i)</ref> of this section shall appear outside of and above the table required in paragraph <ref target="1026-20-d-3-i" reftype="internal">(d)(3)(i)</ref> of this section; and</content>
@@ -371,10 +388,12 @@
     <change operation="modified" label="1026-36-c">
       <paragraph label="1026-36-c" marker="(c)">
         <title type="keyterm">Servicing practices.</title>
-        <content>For purposes of this paragraph (c), the terms “servicer” and “servicing” have the same meanings as provided in 12 CFR <ref target="1024-2-b" reftype="internal">1024.2(b)</ref>.</content><paragraph label="1026-36-c-1" marker="(1)">
+        <content>For purposes of this paragraph (c), the terms “servicer” and “servicing” have the same meanings as provided in 12 CFR <ref target="CFR:12-1024-2-b" reftype="external">1024.2(b)</ref>.</content>
+        <paragraph label="1026-36-c-1" marker="(1)">
           <content>Payment processing. In connection with a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>:</content>
           <paragraph label="1026-36-c-1-i" marker="(i)">
-            <content>Periodic payments. No servicer shall fail to <ref target="1026-2-a-14" reftype="term">credit</ref> a periodic payment to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s loan account as of the date of receipt, except when a delay in crediting does not result in any charge to the <ref target="1026-2-a-11" reftype="term">consumer</ref> or in the reporting of negative information to a <ref target="1026-2-a-11" reftype="term">consumer</ref> reporti<ref target="1026-36-c-2" reftype="internal">ng age</ref>ncy, or except as provided in paragraph (c)(1)(iii) of this section. A periodic payment, as used in this paragraph (c), is an amount sufficient to cover principal, interest, and escrow (if applicable) for a given <ref target="1026-2-a-4" reftype="term">billing cycle</ref>. A payment qualifies as a periodic payment even if it does not include amounts required to cover late fees, other fees, or non-escrow payments a servicer has advanced on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s behalf.</content></paragraph>
+            <content>Periodic payments. No servicer shall fail to <ref target="1026-2-a-14" reftype="term">credit</ref> a periodic payment to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s loan account as of the date of receipt, except when a delay in crediting does not result in any charge to the <ref target="1026-2-a-11" reftype="term">consumer</ref> or in the reporting of negative information to a <ref target="1026-2-a-11" reftype="term">consumer</ref> reporti<ref target="1026-36-c-2" reftype="internal">ng age</ref>ncy, or except as provided in paragraph (c)(1)(iii) of this section. A periodic payment, as used in this paragraph (c), is an amount sufficient to cover principal, interest, and escrow (if applicable) for a given <ref target="1026-2-a-4" reftype="term">billing cycle</ref>. A payment qualifies as a periodic payment even if it does not include amounts required to cover late fees, other fees, or non-escrow payments a servicer has advanced on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s behalf.</content>
+          </paragraph>
           <paragraph label="1026-36-c-1-ii" marker="(ii)">
             <content>Partial payments. Any servicer that retains a partial payment, meaning any payment less than a periodic payment, in a suspense or unapplied funds account shall:</content>
             <paragraph label="1026-36-c-1-ii-A" marker="(A)">
@@ -399,7 +418,8 @@
         </paragraph>
         <paragraph label="1026-36-c-3" marker="(3)">
           <title type="keyterm">Payoff statements.</title>
-          <content>In connection with a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-19" reftype="term">dwelling</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee or servicer, as applicable, must provide an accurate statement of the total outstanding balance that would be required to pay the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s obligation in full as of a specified date. The statement shall be sent within a reasonable time, but in no case more than seven <ref target="1026-2-a-6" reftype="term">business days</ref>, after receiving a written request from the <ref target="1026-2-a-11" reftype="term">consumer</ref> or any <ref target="1026-2-a-22" reftype="term">person</ref> acting on behalf of the <ref target="1026-2-a-11" reftype="term">consumer</ref>. When a <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer, as applicable, is not able to provide the statement within seven <ref target="1026-2-a-6" reftype="term">business days</ref> of such a request because a loan is in bankruptcy or foreclosure, because the loan is a reverse mortgage or shared appreciation mortgage, or because of natural disasters or other similar circumstances, the payoff statement must be provided within a reasonable time. A <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee that does not currently own the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> or the mortgage servicing rights is not subject to the requirement in this paragraph (c)(3) to provide a payoff statement.</content></paragraph>
+          <content>In connection with a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s <ref target="1026-2-a-19" reftype="term">dwelling</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee or servicer, as applicable, must provide an accurate statement of the total outstanding balance that would be required to pay the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s obligation in full as of a specified date. The statement shall be sent within a reasonable time, but in no case more than seven <ref target="1026-2-a-6" reftype="term">business days</ref>, after receiving a written request from the <ref target="1026-2-a-11" reftype="term">consumer</ref> or any <ref target="1026-2-a-22" reftype="term">person</ref> acting on behalf of the <ref target="1026-2-a-11" reftype="term">consumer</ref>. When a <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer, as applicable, is not able to provide the statement within seven <ref target="1026-2-a-6" reftype="term">business days</ref> of such a request because a loan is in bankruptcy or foreclosure, because the loan is a reverse mortgage or shared appreciation mortgage, or because of natural disasters or other similar circumstances, the payoff statement must be provided within a reasonable time. A <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee that does not currently own the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> or the mortgage servicing rights is not subject to the requirement in this paragraph (c)(3) to provide a payoff statement.</content>
+        </paragraph>
       </paragraph>
     </change>
     <!-- Section 1026.41 is added -->
@@ -411,10 +431,12 @@
           <content/>
           <paragraph label="1026-41-a-1" marker="(1)">
             <title type="keyterm">Scope.</title>
-            <content>This section applies to a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, unless an exemption in paragraph <ref target="1026-41-e" reftype="internal">(e)</ref> of this section applies. Such transactions are referred to as <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> for the purposes of this section.</content></paragraph>
+            <content>This section applies to a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, unless an exemption in paragraph <ref target="1026-41-e" reftype="internal">(e)</ref> of this section applies. Such transactions are referred to as <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> for the purposes of this section.</content>
+          </paragraph>
           <paragraph label="1026-41-a-2" marker="(2)">
             <title type="keyterm">Periodic statements.</title>
-            <content>A servicer of a transaction subject to this section shall provide the <ref target="1026-2-a-11" reftype="term">consumer</ref>, for each <ref target="1026-2-a-4" reftype="term">billing cycle</ref>, a periodic statement meeting the requirements of paragraphs <ref target="1026-41-b" reftype="internal">(b)</ref>, <ref target="1026-41-c" reftype="internal">(c)</ref>, and <ref target="1026-41-d" reftype="internal">(d)</ref> of this section. If a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> has a <ref target="1026-2-a-4" reftype="term">billing cycle</ref> shorter than a period of 31 days (for example, a bi-weekly <ref target="1026-2-a-4" reftype="term">billing cycle</ref>), a periodic statement covering an entire month may be used. For the purposes of this section, servicer includes the <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer, as applicable. A <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee that does not currently own the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> or the mortgage servicing rights is not subject to the requirement in this section to provide a periodic statement.</content></paragraph>
+            <content>A servicer of a transaction subject to this section shall provide the <ref target="1026-2-a-11" reftype="term">consumer</ref>, for each <ref target="1026-2-a-4" reftype="term">billing cycle</ref>, a periodic statement meeting the requirements of paragraphs <ref target="1026-41-b" reftype="internal">(b)</ref>, <ref target="1026-41-c" reftype="internal">(c)</ref>, and <ref target="1026-41-d" reftype="internal">(d)</ref> of this section. If a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> has a <ref target="1026-2-a-4" reftype="term">billing cycle</ref> shorter than a period of 31 days (for example, a bi-weekly <ref target="1026-2-a-4" reftype="term">billing cycle</ref>), a periodic statement covering an entire month may be used. For the purposes of this section, servicer includes the <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer, as applicable. A <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee that does not currently own the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> or the mortgage servicing rights is not subject to the requirement in this section to provide a periodic statement.</content>
+          </paragraph>
         </paragraph>
         <paragraph label="1026-41-b" marker="(b)">
           <title type="keyterm">Timing of the periodic statement.</title>
@@ -444,7 +466,8 @@
             <title type="keyterm">Explanation of amount due.</title>
             <content>The following items, grouped together in close proximity to each other and located on the first page of the statement:</content>
             <paragraph label="1026-41-d-2-i" marker="(i)">
-              <content>The monthly payment amount, including a breakdown showing how much, if any, will be applied to principal, interest, and escrow and, if a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> has multiple payment options, a breakdown of each of the payment options along with information on whether the principal balance will increase, decrease, or stay the same for each option listed;</content></paragraph>
+              <content>The monthly payment amount, including a breakdown showing how much, if any, will be applied to principal, interest, and escrow and, if a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> has multiple payment options, a breakdown of each of the payment options along with information on whether the principal balance will increase, decrease, or stay the same for each option listed;</content>
+            </paragraph>
             <paragraph label="1026-41-d-2-ii" marker="(ii)">
               <content>The total sum of any fees or charges imposed since the last statement; and</content>
             </paragraph>
@@ -464,7 +487,7 @@
           </paragraph>
           <paragraph label="1026-41-d-4" marker="(4)">
             <title type="keyterm">Transaction activity.</title>
-            <content>A list of all the transaction activity that occurred since the last statement. For purposes of this paragraph <ref target="1026-41-d-4" reftype="internal">(d)(4)</ref>, transaction activity means any activity that causes a <ref target="1026-2-a-14" reftype="term">credit</ref> or debit to the amount currently due. This list must include the date of the transaction, a brief description of the transaction, and the amount of the transaction for each activity on the list.</content>
+            <content>A list of all the <def term="transaction activity">transaction activity</def> that occurred since the last statement. For purposes of this paragraph <ref target="1026-41-d-4" reftype="internal">(d)(4)</ref>, transaction activity means any activity that causes a <ref target="1026-2-a-14" reftype="term">credit</ref> or debit to the amount currently due. This list must include the date of the transaction, a brief description of the transaction, and the amount of the transaction for each activity on the list.</content>
           </paragraph>
           <paragraph label="1026-41-d-5" marker="(5)">
             <title type="keyterm">Partial payment information.</title>
@@ -481,7 +504,8 @@
               <content>The amount of the outstanding principal balance;</content>
             </paragraph>
             <paragraph label="1026-41-d-7-ii" marker="(ii)">
-              <content>The current interest rate in effect for the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref>;</content></paragraph>
+              <content>The current interest rate in effect for the <ref target="1026-39-a-2" reftype="term">mortgage loan</ref>;</content>
+            </paragraph>
             <paragraph label="1026-41-d-7-iii" marker="(iii)">
               <content>The date after which the interest rate may next change;</content>
             </paragraph>
@@ -559,19 +583,22 @@
             <content/>
             <paragraph label="1026-41-e-4-i" marker="(i)">
               <title type="keyterm">Exemption.</title>
-              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer is exempt from the requirements of this section for <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> serviced by a small servicer.</content></paragraph>
+              <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref>, assignee, or servicer is exempt from the requirements of this section for <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> serviced by a small servicer.</content>
+            </paragraph>
             <paragraph label="1026-41-e-4-ii" marker="(ii)">
               <title type="keyterm">Small servicer defined.</title>
               <content>A small servicer is a servicer that either:</content>
               <paragraph label="1026-41-e-4-ii-A" marker="(A)">
-                <content>Services 5,000 or fewer <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>, for all of which the servicer (or an <ref target="1026-32-b-5" reftype="term">affiliate</ref>) is the <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee; or</content></paragraph>
+                <content>Services 5,000 or fewer <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>, for all of which the servicer (or an <ref target="1026-32-b-5" reftype="term">affiliate</ref>) is the <ref target="1026-2-a-17" reftype="term">creditor</ref> or assignee; or</content>
+              </paragraph>
               <paragraph label="1026-41-e-4-ii-B" marker="(B)">
                 <content>Is a Housing Finance Agency, as defined in <ref target="CFR:24-266-5" reftype="external">24 CFR 266.5</ref>.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1026-41-e-4-iii" marker="(iii)">
               <title type="keyterm">Small servicer determination.</title>
-              <content>In determining whether a small servicer services 5,000 or fewer <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>, a servicer is evaluated based on the number of <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> serviced by the servicer and any <ref target="1026-32-b-5" reftype="term">affiliates</ref> as of January 1 for the remainder of the calendar year. A servicer that crosses the threshold will have six months after crossing the threshold or until the next January 1, whichever is later, to comply with any requirements for which a servicer is no longer exempt as a small servicer.</content></paragraph>
+              <content>In determining whether a small servicer services 5,000 or fewer <ref target="1026-39-a-2" reftype="term">mortgage loans</ref>, a servicer is evaluated based on the number of <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> serviced by the servicer and any <ref target="1026-32-b-5" reftype="term">affiliates</ref> as of January 1 for the remainder of the calendar year. A servicer that crosses the threshold will have six months after crossing the threshold or until the next January 1, whichever is later, to comply with any requirements for which a servicer is no longer exempt as a small servicer.</content>
+            </paragraph>
           </paragraph>
         </paragraph>
       </section>
@@ -842,7 +869,7 @@
             <content>[a larger amount due at maturity.]</content>
           </paragraph>
           <paragraph label="1026-H-4(A)-h1" marker="">
-            <title>Example based on the specific transaction</title>
+            <title>Example based on the specific transaction.</title>
             <content/>
             <paragraph label="1026-H-4(A)-h1-p22" marker="">
               <content>[If the interest rate increases by ___________% in      (time period),</content>
@@ -858,10 +885,10 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-H-4(A)-h2" marker="">
-            <title>Example based on a typical transaction</title>
+            <title>Example based on a typical transaction.</title>
             <content/>
             <paragraph label="1026-H-4(A)-h2-p26" marker="">
-              <content>[If your loan were for $___________ at ___________% for     (term)      and the rate increased to ___________% in      (time period),</content>
+              <content>[If your load were for $___________ at ___________% for     (term)      and the rate increased to ___________% in      (time period),</content>
             </paragraph>
             <paragraph label="1026-H-4(A)-h2-p27" marker="">
               <content>[your regular payments would increase by $___________.]</content>
@@ -885,7 +912,8 @@
         <appendixSection appendixSecNum="6" label="1026-H-4(C)">
           <subject>H-4(C)—Variable-Rate Model Clauses</subject>
           <paragraph label="1026-H-4(C)-p31" marker="">
-            <content>This disclosure describes the features of the <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> (ARM) program you are considering. Information on other ARM programs is available upon request.</content></paragraph>
+            <content>This disclosure describes the features of the <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> (ARM) program you are considering. Information on other ARM programs is available upon request.</content>
+          </paragraph>
           <paragraph label="1026-H-4(C)-p32" marker="">
             <content>How Your Interest Rate and Payment Are Determined</content>
           </paragraph>
@@ -893,7 +921,8 @@
             <content>• Your interest rate will be based on [an index plus a margin] [a formula].</content>
           </paragraph>
           <paragraph label="1026-H-4(C)-p34" marker="">
-            <content>• Your payment will be based on the interest rate, loan balance, and <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content></paragraph>
+            <content>• Your payment will be based on the interest rate, loan balance, and <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
+          </paragraph>
           <paragraph label="1026-H-4(C)-p35" marker="">
             <content>—[The interest rate will be based on (identification of index) plus our margin. Ask for our current interest rate and margin.]</content>
           </paragraph>
@@ -907,7 +936,7 @@
             <content>—[The initial interest rate is not based on the (index) (formula) used to make later adjustments. Ask us for the amount of current interest rate discounts.]</content>
           </paragraph>
           <paragraph label="1026-H-4(C)-h3" marker="">
-            <title>How Your Interest Rate Can Change</title>
+            <title>How Your Interest Rate Can Change.</title>
             <content/>
             <paragraph label="1026-H-4(C)-h3-p39" marker="">
               <content>• Your interest rate can change (frequency).</content>
@@ -919,7 +948,7 @@
               <content>• Your interest rate cannot increase [or decrease] more than __ percentage points over the term of the loan.</content>
             </paragraph>
             <paragraph label="1026-H-4(C)-h3-h4" marker="">
-              <title>How Your Payment Can Change</title>
+              <title>How Your Payment Can Change.</title>
               <content/>
               <paragraph label="1026-H-4(C)-h3-h4-p42" marker="">
                 <content>• Your payment can change (frequency) based on changes in the interest rate.</content>
@@ -1139,11 +1168,11 @@
         <appendixSection appendixSecNum="22" label="1026-H-9">
           <subject>H-9—Rescission Model Form (Refinancing With Original Creditor)</subject>
           <paragraph label="1026-H-9-h5" marker="">
-            <title>NOTICE OF RIGHT TO CANCEL</title>
+            <title>NOTICE OF RIGHT TO CANCEL.</title>
             <content/>
           </paragraph>
           <paragraph label="1026-H-9-h6" marker="">
-            <title>Your Right To Cancel</title>
+            <title>Your Right To Cancel.</title>
             <content/>
             <paragraph label="1026-H-9-h6-p75" marker="">
               <content>You are entering into a new transaction to increase the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> previously provided to you. Your home is the security for this new transaction. You have a legal right under Federal law to cancel this new transaction, without cost, within three <ref target="1026-2-a-6" reftype="term">business days</ref> from whichever of the following events occurs last:</content>
@@ -1163,11 +1192,12 @@
                 <content>You may keep any money we have given you in this new transaction until we have done the things mentioned above, but you must then offer to return the money at the address below.</content>
               </paragraph>
               <paragraph label="1026-H-9-h6-p75-p78" marker="">
-                <content>If we do not take possession of the money within 20 calendar days of your <ref target="1026-58-b-5" reftype="term">offer</ref>, you may keep it without further obligation.</content></paragraph>
+                <content>If we do not take possession of the money within 20 calendar days of your <ref target="1026-58-b-5" reftype="term">offer</ref>, you may keep it without further obligation.</content>
+              </paragraph>
             </paragraph>
           </paragraph>
           <paragraph label="1026-H-9-h7" marker="">
-            <title>How To Cancel</title>
+            <title>How To Cancel.</title>
             <content/>
             <paragraph label="1026-H-9-h7-p79" marker="">
               <content>If you decide to cancel this new transaction, you may do so by notifying us in writing, at</content>
@@ -1204,13 +1234,14 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-H-9-h8" marker="">
-            <title>I WISH TO CANCEL</title>
+            <title>I WISH TO CANCEL.</title>
             <content/>
             <paragraph label="1026-H-9-h8-p88" marker="">
               <content>
                 <ref target="1026-2-a-11" reftype="term">Consumer</ref>
-                <dash><ref target="1026-2-a-11" reftype="term">Consumer</ref>'s Signature</dash>
-              </content></paragraph>
+                <dash>Consumer's Signature</dash>
+              </content>
+            </paragraph>
             <paragraph label="1026-H-9-h8-p89" marker="">
               <content>
                 <dash>Date</dash>
@@ -1273,15 +1304,17 @@
         <appendixSection appendixSecNum="27" label="1026-H-14">
           <subject>H-14—Variable-Rate Mortgage Sample</subject>
           <paragraph label="1026-H-14-p94" marker="">
-            <content>This disclosure describes the features of the <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> (ARM) program you are considering. Information on other ARM programs is available upon request.</content></paragraph>
+            <content>This disclosure describes the features of the <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> (ARM) program you are considering. Information on other ARM programs is available upon request.</content>
+          </paragraph>
           <paragraph label="1026-H-14-h9" marker="">
-            <title>How Your Interest Rate and Payment Are Determined</title>
+            <title>How Your Interest Rate and Payment Are Determined.</title>
             <content/>
             <paragraph label="1026-H-14-h9-p95" marker="">
               <content>• Your interest rate will be based on an index rate plus a margin.</content>
             </paragraph>
             <paragraph label="1026-H-14-h9-p96" marker="">
-              <content>• Your payment will be based on the interest rate, loan balance, and <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content></paragraph>
+              <content>• Your payment will be based on the interest rate, loan balance, and <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
+            </paragraph>
             <paragraph label="1026-H-14-h9-p97" marker="">
               <content>—The interest rate will be based on the weekly average yield on United States Treasury securities adjusted to a constant maturity of 1 year (your index), plus our margin. Ask us for our current interest rate and margin.</content>
             </paragraph>
@@ -1293,7 +1326,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-H-14-h10" marker="">
-            <title>How Your Interest Rate Can Change</title>
+            <title>How Your Interest Rate Can Change.</title>
             <content/>
             <paragraph label="1026-H-14-h10-p100" marker="">
               <content>• Your interest rate can change yearly.</content>
@@ -1306,7 +1339,7 @@
             </paragraph>
           </paragraph>
           <paragraph label="1026-H-14-h11" marker="">
-            <title>How Your Monthly Payment Can Change</title>
+            <title>How Your Monthly Payment Can Change.</title>
             <content/>
             <paragraph label="1026-H-14-h11-p103" marker="">
               <content>• Your monthly payment can increase or decrease substantially based on annual changes in the interest rate.</content>
@@ -1607,7 +1640,7 @@
     <change operation="modified" label="1026-17-c-1-Interp-1">
       <interpParagraph label="1026-17-c-1-Interp-1" marker="1.">
         <title type="keyterm">Legal obligation.</title>
-        <content>The disclosures shall reflect the <ref target="1026-2-a-14" reftype="term">credit</ref> terms to which the parties are legally bound as of the outset of the transaction. In the case of disclosures required under § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref> and (d), the disclosures shall reflect the <ref target="1026-2-a-14" reftype="term">credit</ref> terms to which the parties are legally bound when the disclosures are provided. The legal obligation is determined by applicable <ref target="1026-2-a-26" reftype="term">State</ref> law or other law. (Certain transactions are specifically addressed in this commentary. See, for example, the discussion of buydown transactions elsewhere in the commenta<ref target="1026-17-c-Interp" reftype="internal">ry to § 10</ref>26.17(c).) The fact that a term or contract may later be deemed unenforceable by a court on the basis of equity or other grounds does not, by itself, mean that disclosures based on that term or contract did not reflect the legal obligation.</content>
+        <content>The disclosures shall reflect the <ref target="1026-2-a-14" reftype="term">credit</ref> terms to which the parties are legally bound as of the outset of the transaction. In the case of disclosures required under § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref> and (d), the disclosures shall reflect the <ref target="1026-2-a-14" reftype="term">credit</ref> terms to which the parties are legally bound when the disclosures are provided. The legal obligation is determined by applicable <ref target="1026-2-a-26" reftype="term">State</ref> law or other law. (Certain transactions are specifically addressed in this commentary. See, for example, the discussion of buydown transactions elsewhere in the commentary to § <ref target="1026-17-c-Interp" reftype="internal">1026.17(c)</ref>.) The fact that a term or contract may later be deemed unenforceable by a court on the basis of equity or other grounds does not, by itself, mean that disclosures based on that term or contract did not reflect the legal obligation.</content>
       </interpParagraph>
     </change>
     <!-- Paragraph 19(b)  paragraphs 4 and 5.i.C are revised. -->
@@ -1619,23 +1652,23 @@
     </change>
     <change operation="modified" label="1026-19-b-Interp-5-i-C">
       <interpParagraph label="1026-19-b-Interp-5-i-C" marker="C.">
-        <content>“Price-level-adjusted mortgages” or other indexed mortgages that have a fixed rate of interest but provide for periodic adjustments to payments and the loan balance to reflect changes in an index measuring prices or inflation. The disclosures under § <ref target="1026-19-b-1" reftype="internal">1026.19(b)(1)</ref> are not applicable to such loans, nor are the following provisions to the extent they relate to the determination of the interest rate by the addition of a margin, changes in the interest rate, or interest rate discounts: § 1026.1<ref target="1026-19-b-2-i" reftype="internal">9(b)(2)(i)</ref>, <ref target="1026-19-b-2-iii" reftype="internal">(iii)</ref>, <ref target="1026-19-b-2-iv" reftype="internal">(iv)</ref>, <ref target="1026-19-b-2-v" reftype="internal">(v)</ref>, <ref target="1026-19-b-2-vi" reftype="internal">(vi)</ref>, <ref target="1026-19-b-2-vii" reftype="internal">(vii)</ref>, <ref target="1026-19-b-2-viii" reftype="internal">(viii)</ref>, and <ref target="1026-19-b-2-ix" reftype="internal">(ix)</ref>. (See comments 20(c)(1)(ii)-3.ii, 20(d)(1)(ii)-2.ii, and 30-1 regarding the inapplicability of variable-rate adjustment notices and interest rate limitations to price-level-adjusted or similar mortgages.)</content>
+        <content>“Price-level-adjusted mortgages” or other indexed mortgages that have a fixed rate of interest but provide for periodic adjustments to payments and the loan balance to reflect changes in an index measuring prices or inflation. The disclosures under § <ref target="1026-19-b-1" reftype="internal">1026.19(b)(1)</ref> are not applicable to such loans, nor are the following provisions to the extent they relate to the determination of the interest rate by the addition of a margin, changes in the interest rate, or interest rate discounts: § <ref target="1026-19-b-2-i" reftype="internal">1026.19(b)(2)(i)</ref>, <ref target="1026-19-b-2-iii" reftype="internal">(iii)</ref>, <ref target="1026-19-b-2-iv" reftype="internal">(iv)</ref>, <ref target="1026-19-b-2-v" reftype="internal">(v)</ref>, <ref target="1026-19-b-2-vi" reftype="internal">(vi)</ref>, <ref target="1026-19-b-2-vii" reftype="internal">(vii)</ref>, <ref target="1026-19-b-2-viii" reftype="internal">(viii)</ref>, and <ref target="1026-19-b-2-ix" reftype="internal">(ix)</ref>. (See comments 20(c)(1)(ii)-3.ii, 20(d)(1)(ii)-2.ii, and 30-1 regarding the inapplicability of variable-rate adjustment notices and interest rate limitations to price-level-adjusted or similar mortgages.)</content>
       </interpParagraph>
     </change>
     <!-- Paragraph 19(b)(2)(xi), paragraph 1 is revised. -->
     <change operation="modified" label="1026-19-b-2-xi-Interp-1">
       <interpParagraph label="1026-19-b-2-xi-Interp-1" marker="1.">
         <title type="keyterm">Adjustment notices.</title>
-        <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must disclose to the <ref target="1026-2-a-11" reftype="term">consumer</ref> the type of information that will be contained in subsequent notices of adjustments and when such notices will be provided. (See the commentary to § <ref target="1026-20-c-Interp" reftype="internal">1026.20(c)</ref> and (d) regarding notices of adjustments.) For example, the disclosure provided pursuant to § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref> might <ref target="1026-2-a-26" reftype="term">state</ref>, “You will be notified at least 210, but no more than 240, days before the first payment at the adjusted level is due after the initial interest rate adjustment of the loan. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.” The disclosure provided pursuant to § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref> might <ref target="1026-2-a-26" reftype="term">state</ref>, “You will be notified at least 60, but no more than 120, days before the first payment at the adjusted level is due after any interest rate adjustment resulting in a corresponding payment change. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.”</content></interpParagraph>
+        <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must disclose to the <ref target="1026-2-a-11" reftype="term">consumer</ref> the type of information that will be contained in subsequent notices of adjustments and when such notices will be provided. (See the commentary to § <ref target="1026-20-c-Interp" reftype="internal">1026.20(c)</ref> and <ref target="1026-20-d-Interp" reftype="internal">(d)</ref> regarding notices of adjustments.) For example, the disclosure provided pursuant to § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref> might <ref target="1026-2-a-26" reftype="term">state</ref>, “You will be notified at least 210, but no more than 240, days before the first payment at the adjusted level is due after the initial interest rate adjustment of the loan. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.” The disclosure provided pursuant to § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref> might <ref target="1026-2-a-26" reftype="term">state</ref>, “You will be notified at least 60, but no more than 120, days before the first payment at the adjusted level is due after any interest rate adjustment resulting in a corresponding payment change. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.”</content></interpParagraph>
     </change>
     <!-- The heading for Section 1026.20 is revised. -->
     <!-- Paragraph 20(c) Variable-rate adjustments is revised. -->
     <!-- Paragraph 20(d) Initial rate adjustment is added. -->
     <change operation="modified" label="1026-20-Interp">
       <interpSection label="1026-20-Interp" sectionNum="20">
-        <title>Section 1026.20—Disclosure Requirements Regarding Post-Consummation Events</title>
+        <title>Section 1026.20 Disclosure Requirements Regarding Post-Consummation Events.</title>
         <interpParagraph label="1026-20-a-Interp" target="1026-20-a">
-          <title>20(a) Refinancings</title>
+          <title>20(a) Refinancings.</title>
           <content/>
           <interpParagraph label="1026-20-a-Interp-1" marker="1.">
             <title type="keyterm">Definition.</title>
@@ -1679,7 +1712,7 @@
             <content>Section <ref target="1026-20-a" reftype="internal">1026.20(a)</ref> applies only to refinancings undertaken by the original <ref target="1026-2-a-17" reftype="term">creditor</ref> or a holder or servicer of the original obligation. A “refinancing” by any other <ref target="1026-2-a-22" reftype="term">person</ref> is a new transaction under the regulation, not a refinancing under this section.</content>
           </interpParagraph>
           <interpParagraph label="1026-20-a-1-Interp" target="1026-20-a-1">
-            <title>Paragraph 20(a)(1)</title>
+            <title>Paragraph 20(a)(1).</title>
             <content/>
             <interpParagraph label="1026-20-a-1-Interp-1" marker="1.">
               <title type="keyterm">Renewal.</title>
@@ -1696,7 +1729,7 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-20-a-2-Interp" target="1026-20-a-2">
-            <title>Paragraph 20(a)(2)</title>
+            <title>Paragraph 20(a)(2).</title>
             <content/>
             <interpParagraph label="1026-20-a-2-Interp-1" marker="1.">
               <title type="keyterm">Annual percentage rate reduction.</title>
@@ -1708,21 +1741,21 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-20-a-3-Interp" target="1026-20-a-3">
-            <title>Paragraph 20(a)(3)</title>
+            <title>Paragraph 20(a)(3).</title>
             <content/>
             <interpParagraph label="1026-20-a-3-Interp-1" marker="1.">
               <title type="keyterm">Court agreements.</title>
               <content>This exception includes, for example, <ref target="1026-58-b-1" reftype="term">agreements</ref> such as reaffirmations of debts discharged in bankruptcy, settlement <ref target="1026-58-b-1" reftype="term">agreements</ref>, and post-judgment <ref target="1026-58-b-1" reftype="term">agreements</ref>. (See the commentary to § <ref target="1026-2-a-14-Interp" reftype="internal">1026.2(a)(14)</ref> for a discussion of court-approved <ref target="1026-58-b-1" reftype="term">agreements</ref> that are not considered “<ref target="1026-2-a-14" reftype="term">credit</ref>.”)</content></interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-20-a-4-Interp" target="1026-20-a-4">
-            <title>Paragraph 20(a)(4)</title>
+            <title>Paragraph 20(a)(4).</title>
             <content/>
             <interpParagraph label="1026-20-a-4-Interp-1" marker="1.">
               <title type="keyterm">Workout agreements.</title>
               <content>A workout <ref target="1026-58-b-1" reftype="term">agreement</ref> is not a refinancing unless the annual percentage rate is increased or additional <ref target="1026-2-a-14" reftype="term">credit</ref> is advanced beyond amounts already accrued plus insurance premiums.</content></interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-20-a-5-Interp" target="1026-20-a-5">
-            <title>Paragraph 20(a)(5)</title>
+            <title>Paragraph 20(a)(5).</title>
             <content/>
             <interpParagraph label="1026-20-a-5-Interp-1" marker="1.">
               <title type="keyterm">Insurance renewal.</title>
@@ -1731,7 +1764,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-20-b-Interp" target="1026-20-b">
-          <title>20(b) Assumptions</title>
+          <title>20(b) Assumptions.</title>
           <content/>
           <interpParagraph label="1026-20-b-Interp-1" marker="1.">
             <title type="keyterm">General definition.</title>
@@ -1757,7 +1790,8 @@
           </interpParagraph>
           <interpParagraph label="1026-20-b-Interp-3" marker="3.">
             <title type="keyterm">Express agreement.</title>
-            <content>Expressly agrees means that the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s <ref target="1026-58-b-1" reftype="term">agreement</ref> must relate specifically to the new debtor and must unequivocally accept that debtor as a primary obligor. The following events are not construed to be express <ref target="1026-58-b-1" reftype="term">agreements</ref> between the <ref target="1026-2-a-17" reftype="term">creditor</ref> and the subsequent <ref target="1026-2-a-11" reftype="term">consumer</ref>:</content><interpParagraph label="1026-20-b-Interp-3-i" marker="i.">
+            <content>Expressly agrees means that the <ref target="1026-2-a-17" reftype="term">creditor</ref>'s <ref target="1026-58-b-1" reftype="term">agreement</ref> must relate specifically to the new debtor and must unequivocally accept that debtor as a primary obligor. The following events are not construed to be express <ref target="1026-58-b-1" reftype="term">agreements</ref> between the <ref target="1026-2-a-17" reftype="term">creditor</ref> and the subsequent <ref target="1026-2-a-11" reftype="term">consumer</ref>:</content>
+            <interpParagraph label="1026-20-b-Interp-3-i" marker="i.">
               <content>Approval of creditworthiness.</content>
             </interpParagraph>
             <interpParagraph label="1026-20-b-Interp-3-ii" marker="ii.">
@@ -1833,7 +1867,8 @@
               </interpParagraph>
               <interpParagraph label="1026-20-c-1-ii-Interp-3" marker="3.">
                 <title type="keyterm">Non-adjustable-rate mortgages.</title>
-                <content>The following transactions, if structured as fixed-rate and not as <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgages</ref> based on an index or formula, are not subject to § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref>:</content><interpParagraph label="1026-20-c-1-ii-Interp-3-i" marker="i.">
+                <content>The following transactions, if structured as fixed-rate and not as <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgages</ref> based on an index or formula, are not subject to § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref>:</content>
+                <interpParagraph label="1026-20-c-1-ii-Interp-3-i" marker="i.">
                   <content>Shared-equity or shared-appreciation mortgages;</content>
                 </interpParagraph>
                 <interpParagraph label="1026-20-c-1-ii-Interp-3-ii" marker="ii.">
@@ -1951,7 +1986,8 @@
               </interpParagraph>
               <interpParagraph label="1026-20-d-1-ii-Interp-2" marker="2.">
                 <title type="keyterm">Non-adjustable-rate mortgages.</title>
-                <content>The following transactions, if structured as fixed-rate and not as <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgages</ref> based on an index or formula, are not subject to § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref>:</content><interpParagraph label="1026-20-d-1-ii-Interp-2-i" marker="i.">
+                <content>The following transactions, if structured as fixed-rate and not as <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgages</ref> based on an index or formula, are not subject to § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref>:</content>
+                <interpParagraph label="1026-20-d-1-ii-Interp-2-i" marker="i.">
                   <content>Shared-equity or shared-appreciation mortgages;</content>
                 </interpParagraph>
                 <interpParagraph label="1026-20-d-1-ii-Interp-2-ii" marker="ii.">
@@ -2105,7 +2141,7 @@
     <!-- Section 1026.41—Periodic Statements for Residential Mortgage Loans is added. -->
     <change operation="added" label="1026-41-Interp">
       <interpSection label="1026-41-Interp" sectionNum="41">
-        <title>Section 1026.41—Periodic Statements for Residential Mortgage Loans</title>
+        <title>Section 1026.41 Periodic Statements for Residential Mortgage Loans.</title>
         <interpParagraph label="1026-41-a-Interp" target="1026-41-a">
           <title>41(a) In general.</title>
           <content/>
@@ -2274,37 +2310,37 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-    </change><!-- Under Appendix H: paragraphs 7 introductory text and 7.i are revised.  -->
+    </change>
+    <!-- Under Appendix H: paragraphs 7 introductory text and 7.i are revised.  -->
     <change operation="modified" label="1026-H-Interp-7">
       <interpParagraph label="1026-H-Interp-7" marker="7.">
         <title type="keyterm">Models H-4(D) through H-4(J).</title>
         <content>These model clauses and sample and model forms illustrate certain notices, statements, and other disclosures required as follows:</content>
         <interpParagraph label="1026-H-Interp-7-i" marker="i.">
-          <content>Model <ref target="1026-H-4D1" reftype="internal">H-4(D)(1)</ref> illustrates the interest rate adjustment notice required under § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref> and Model <ref target="1026-H-4D1" reftype="internal">H-4(D)(2)</ref> provides an example of a notice of interest rate adjustment with corresponding payment change. Model <ref target="1026-H-4D1" reftype="internal">H-4(D)(3)</ref> illustrates the interest rate adjustment notice required under § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref> and Model <ref target="1026-H-4D4" reftype="internal">H-4(D)(4)</ref> provides an example of a notice of initial interest rate adjustment.</content></interpParagraph>
+          <content>Model <ref target="1026-H-4(D)(1)" reftype="internal">H-4(D)(1)</ref> illustrates the interest rate adjustment notice required under § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref> and Model <ref target="1026-H-4(D)(2)" reftype="internal">H-4(D)(2)</ref> provides an example of a notice of interest rate adjustment with corresponding payment change. Model <ref target="1026-H-4(D)(3)" reftype="internal">H-4(D)(3)</ref> illustrates the interest rate adjustment notice required under § <ref target="1026-20-d" reftype="internal">1026.20(d)</ref> and Model <ref target="1026-H-4(D)(4)" reftype="internal">H-4(D)(4)</ref> provides an example of a notice of initial interest rate adjustment.</content></interpParagraph>
         <interpParagraph label="1026-H-Interp-7-ii" marker="ii.">
-          <content>Model <ref target="1026-H-4E" reftype="internal">H-4(E)</ref> illustrates the interest rate and payment summary table required under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> for a <ref target="1026-18-s-7-iii" reftype="term">fixed-rate mortgage</ref> transaction.</content></interpParagraph>
+          <content>Model <ref target="1026-H-4(E)" reftype="internal">H-4(E)</ref> illustrates the interest rate and payment summary table required under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> for a <ref target="1026-18-s-7-iii" reftype="term">fixed-rate mortgage</ref> transaction.</content></interpParagraph>
         <interpParagraph label="1026-H-Interp-7-iii" marker="iii.">
-          <content>Model <ref target="1026-H-4F" reftype="internal">H-4(F)</ref> illustrates the interest rate and payment summary table required under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> for an adjustable-rate or a <ref target="1026-18-s-7-ii" reftype="term">step-rate mortgage</ref> transaction.</content></interpParagraph>
+          <content>Model <ref target="1026-H-4(F)" reftype="internal">H-4(F)</ref> illustrates the interest rate and payment summary table required under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> for an adjustable-rate or a <ref target="1026-18-s-7-ii" reftype="term">step-rate mortgage</ref> transaction.</content></interpParagraph>
         <interpParagraph label="1026-H-Interp-7-iv" marker="iv.">
-          <content>Model <ref target="1026-H-4G" reftype="internal">H-4(G)</ref> illustrates the interest rate and payment summary table required under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> for a mortgage transaction with <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>.</content>
+          <content>Model <ref target="1026-H-4(G)" reftype="internal">H-4(G)</ref> illustrates the interest rate and payment summary table required under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> for a mortgage transaction with <ref target="1026-18-s-7-v" reftype="term">negative amortization</ref>.</content>
         </interpParagraph>
         <interpParagraph label="1026-H-Interp-7-v" marker="v.">
-          <content>Model <ref target="1026-H-4H" reftype="internal">H-4(H)</ref> illustrates the interest rate and payment summary table required under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> for a fixed-rate, <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> mortgage transaction.</content></interpParagraph>
+          <content>Model <ref target="1026-H-4(H)" reftype="internal">H-4(H)</ref> illustrates the interest rate and payment summary table required under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> for a fixed-rate, <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> mortgage transaction.</content></interpParagraph>
         <interpParagraph label="1026-H-Interp-7-vi" marker="vi.">
-          <content>Model <ref target="1026-H-4I" reftype="internal">H-4(I)</ref> illustrates the <ref target="1026-16-g-2-ii" reftype="term">introductory rate</ref> disclosure required by § <ref target="1026-18-s-2-iii" reftype="internal">1026.18(s)(2)(iii)</ref> for an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> transaction with an <ref target="1026-16-g-2-ii" reftype="term">introductory rate</ref>.</content></interpParagraph>
+          <content>Model <ref target="1026-H-4(I)" reftype="internal">H-4(I)</ref> illustrates the <ref target="1026-16-g-2-ii" reftype="term">introductory rate</ref> disclosure required by § <ref target="1026-18-s-2-iii" reftype="internal">1026.18(s)(2)(iii)</ref> for an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> transaction with an <ref target="1026-16-g-2-ii" reftype="term">introductory rate</ref>.</content></interpParagraph>
         <interpParagraph label="1026-H-Interp-7-vii" marker="vii.">
-          <content>Model <ref target="1026-H-4J" reftype="internal">H-4(J)</ref> illustrates the balloon payment disclosure required by § <ref target="1026-18-s-5" reftype="internal">1026.18(s)(5)</ref> for a mortgage transaction with a balloon payment term.</content>
+          <content>Model <ref target="1026-H-4(J)" reftype="internal">H-4(J)</ref> illustrates the balloon payment disclosure required by § <ref target="1026-18-s-5" reftype="internal">1026.18(s)(5)</ref> for a mortgage transaction with a balloon payment term.</content>
         </interpParagraph>
         <interpParagraph label="1026-H-Interp-7-viii" marker="viii.">
-          <content>Model <ref target="1026-H-4K" reftype="internal">H-4(K)</ref> illustrates the no-guarantee-to-refinance statement required by § <ref target="1026-18-t" reftype="internal">1026.18(t)</ref> for a mortgage transaction.</content>
+          <content>Model <ref target="1026-H-4(K)" reftype="internal">H-4(K)</ref> illustrates the no-guarantee-to-refinance statement required by § <ref target="1026-18-t" reftype="internal">1026.18(t)</ref> for a mortgage transaction.</content>
         </interpParagraph>
       </interpParagraph>
     </change>
-    <!-- end notice -->
   </changeset>
   <analysis>
     <analysisSection target="1026-20" notice="2013-01241" date="2014-01-10">
-      <title>Section 1026.20 Subsequent Disclosure Requirements</title>
+      <title>Section 1026.20 Subsequent Disclosure Requirements.</title>
       <analysisParagraph>In the 2011 Escrows Proposal, the Board proposed a new § 226.20(d) to implement the disclosure requirements of TILA sections 129D(j)(1)(B) and 129D(j)(2), as enacted by section 1462 of the Dodd-Frank Act. TILA section 129D(j)(1)(B) requires a creditor or servicer to provide the disclosures set forth in TILA section 129D(j)(2) when a consumer requests closure of an escrow account that was established in connection with a transaction secured by real property. Proposed § 226.20(d) would have directed the creditor or servicer to disclose the information about escrow accounts in accordance with certain format and timing requirements. As previously noted, the Bureau has delayed the implementation of certain disclosure requirements contained in title XIV of the Dodd-Frank Act, including those contained in sections 1461 and 1462. See 77 FR 70105 (Nov. 23, 2012). Consequently, the Bureau will not be adopting a new § 1026.20(d) in this rule.</analysisParagraph>
     </analysisSection>
   </analysis>

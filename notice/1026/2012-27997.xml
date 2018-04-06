@@ -16,13 +16,13 @@
     </cfr>
     <documentNumber>2012-27997</documentNumber>
     <effectiveDate>2013-01-01</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2012/11/21/2012-27997/truth-in-lending-regulation-z</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2012/11/21/2012-27997/truth-in-lending-regulation-z</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2012-27993" rightDocumentNumber="2012-27997">
-    <change operation="added" label="1026-32-a-1-ii-Interp-2-xviii" parent="1026-32-a-1-ii-Interp-2" after="1026-32-a-1-ii-Interp-2-xvii">
-      <interpParagraph label="1026-32-a-1-ii-Interp-2-xviii" marker="xviii.">
-        <content>For 2013, $625, reflecting a 2.3 percent increase in the CPI-U from June 2011 to June 2012, rounded to the nearest whole dollar.</content>
-      </interpParagraph>
-    </change>
+  <change operation="added" label="1026-32-a-1-ii-Interp-2-xviii" parent="1026-32-a-1-ii-Interp-2" after="1026-32-a-1-ii-Interp-2-xvii">
+    <interpParagraph label="1026-32-a-1-ii-Interp-2-xviii" marker="xviii.">
+      <content>For 2013, $625, reflecting a 2.3 percent increase in the CPI-U from June 2011 to June 2012, rounded to the nearest whole dollar.</content>
+    </interpParagraph>
+  </change>
   </changeset>
 </notice>

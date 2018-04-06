@@ -16,27 +16,24 @@
     </cfr>
     <documentNumber>2014-30419</documentNumber>
     <effectiveDate>2015-01-01</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2014/12/30/2014-30419/appraisals-for-higher-priced-mortgage-loans-exemption-threshold-adjustment-final-rule</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2014/12/30/2014-30419/appraisals-for-higher-priced-mortgage-loans-exemption-threshold-adjustment-final-rule</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2014-30405" rightDocumentNumber="2014-30419">
-    <!-- Notice changes Interp paragraph 1026.35(c)(2)(ii) 1.ii -->
-    <change operation="added" label="1026-35-c-2-ii-Interp-1-ii">
-      <interpParagraph label="1026-35-c-2-ii-Interp-1-ii" marker="ii.">
-        <content>From January 1, 2015, through December 31, 2015, the threshold amount is $25,500.</content>
-      </interpParagraph>
-    </change>
-    <!-- End of notice changes -->
+  <change operation="added" label="1026-35-c-2-ii-Interp-1-ii">
+    <interpParagraph label="1026-35-c-2-ii-Interp-1-ii" marker="ii.">
+      <content>From January 1, 2015, through December 31, 2015, the threshold amount is $25,500.</content>
+    </interpParagraph>
+  </change>
   </changeset>
-  <!-- SxS Analysis -->
   <analysis>
-    <analysisSection target="1026-35-c-2-ii" notice="2014-30419" date="2015-01-01">
-      <title>35(c)(2)(ii)</title>
-      <analysisSection>
-        <title>Transactions Secured by a New Manufactured Home</title>
-        <analysisParagraph>The Agencies proposed to exclude from coverage of the higher-risk mortgage appraisal rules any loan secured solely by a residential structure, such as a manufactured home.<footnote ref="32">The Agencies proposed to exclude from the definition of “higher-risk mortgage loan” any loans secured solely by a “residential structure,” as that term is used in Regulation Z's definition of “dwelling.” See 12 CFR 1026.2(a)(19). The provision was intended to exclude loans that are not secured in whole or in part by land. Thus, for example, loans secured by manufactured homes that are not also secured by the land on which they are sited were proposed to be excluded from the definition of higher-risk mortgage loan, regardless of whether the manufactured home itself is deemed to be personal property or real property under applicable State law.</footnote>
-            The Agencies believed that requiring appraisals performed by certified or licensed appraisers was not appropriate, because such transactions typically more closely resemble titled vehicle loans. At the same time, based on outreach, the Agencies believed that for loans for residential structures, such as manufactured homes that are secured by both the home and the land to which the home is attached, appraisals performed by certified or licensed appraisers are feasible. Such transactions were therefore covered by the proposed rule. The Agencies believed the exemption for a loan secured solely by a residential structure was appropriate pursuant to the exemption authority under TILA section 129H(b)(4)(B). 15 U.S.C. 1026.35(b)(4)(B).</analysisParagraph>
-        <analysisParagraph>The Agencies requested comment on whether the proposed exclusion was appropriate, and if not, reasonable methods by which creditors could comply with the requirements of this proposed rule when providing loans secured solely by a residential structure. The Agencies also requested comment on whether some alternative standards for valuing residential structures securing higher-risk mortgage loans might be feasible and appropriate to include as part of the final rule, in lieu of an appraisal performed by a certified or licensed appraiser.</analysisParagraph>
-      </analysisSection>
+  <analysisSection target="1026-35-c-2-ii" notice="2014-30419" date="2015-01-01">
+    <title>35(c)(2)(ii)</title>
+    <analysisSection>
+      <title>Transactions Secured by a New Manufactured Home</title>
+      <analysisParagraph>The Agencies proposed to exclude from coverage of the higher-risk mortgage appraisal rules any loan secured solely by a residential structure, such as a manufactured home.<footnote ref="32">The Agencies proposed to exclude from the definition of “higher-risk mortgage loan” any loans secured solely by a “residential structure,” as that term is used in Regulation Z's definition of “dwelling.” See 12 CFR 1026.2(a)(19). The provision was intended to exclude loans that are not secured in whole or in part by land. Thus, for example, loans secured by manufactured homes that are not also secured by the land on which they are sited were proposed to be excluded from the definition of higher-risk mortgage loan, regardless of whether the manufactured home itself is deemed to be personal property or real property under applicable State law.</footnote>
+        The Agencies believed that requiring appraisals performed by certified or licensed appraisers was not appropriate, because such transactions typically more closely resemble titled vehicle loans. At the same time, based on outreach, the Agencies believed that for loans for residential structures, such as manufactured homes that are secured by both the home and the land to which the home is attached, appraisals performed by certified or licensed appraisers are feasible. Such transactions were therefore covered by the proposed rule. The Agencies believed the exemption for a loan secured solely by a residential structure was appropriate pursuant to the exemption authority under TILA section 129H(b)(4)(B). 15 U.S.C. 1026.35(b)(4)(B).</analysisParagraph>
+      <analysisParagraph>The Agencies requested comment on whether the proposed exclusion was appropriate, and if not, reasonable methods by which creditors could comply with the requirements of this proposed rule when providing loans secured solely by a residential structure. The Agencies also requested comment on whether some alternative standards for valuing residential structures securing higher-risk mortgage loans might be feasible and appropriate to include as part of the final rule, in lieu of an appraisal performed by a certified or licensed appraiser.</analysisParagraph>
     </analysisSection>
+  </analysisSection>
   </analysis>
 </notice>
