@@ -1582,23 +1582,23 @@
           <section label="1005-30" sectionNum="30">
             <subject>§ 1005.30 Remittance transfer definitions.</subject>
             <paragraph label="1005-30-a" marker="(a)">
-              <content>“<def term="agent" id="0608c4054662dd902e1314f7e450e3eaa81c1143">Agent</def>” means an agent, authorized delegate, or <ref target="1005-2-j" reftype="term">person</ref> affiliated with a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>, as defined under <ref target="1005-2-l" reftype="term">State</ref> or other applicable law, when such agent, authorized delegate, or affiliate <ref target="1005-2-c" reftype="term">acts</ref> for that <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>.</content>
+              <content>“<def term="agent">Agent</def>” means an agent, authorized delegate, or <ref target="1005-2-j" reftype="term">person</ref> affiliated with a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>, as defined under <ref target="1005-2-l" reftype="term">State</ref> or other applicable law, when such agent, authorized delegate, or affiliate <ref target="1005-2-c" reftype="term">acts</ref> for that <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>.</content>
             </paragraph>
             <paragraph label="1005-30-b" marker="(b)">
-              <content>“<def term="business day" id="25fd9fdbc033117a3539f27992eb2411d9178f0d">Business day</def>” means any day on which the offices of a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> are open to the public for carrying on substantially all business functions.</content>
+              <content>“<def term="business day">Business day</def>” means any day on which the offices of a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> are open to the public for carrying on substantially all business functions.</content>
             </paragraph>
             <paragraph label="1005-30-c" marker="(c)">
-              <content>“<def term="designated recipient" id="e427d4040320abee2f863b2a43ae2c76f1b45260">Designated recipient</def>” means any <ref target="1005-2-j" reftype="term">person</ref> specified by the <ref target="1005-30-g" reftype="term">sender</ref> as the authorized recipient of a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> to be received at a location in a foreign country.</content>
+              <content>“<def term="designated recipient">Designated recipient</def>” means any <ref target="1005-2-j" reftype="term">person</ref> specified by the <ref target="1005-30-g" reftype="term">sender</ref> as the authorized recipient of a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> to be received at a location in a foreign country.</content>
             </paragraph>
             <paragraph label="1005-30-d" marker="(d)">
-              <content>“<def term="preauthorized remittance transfer" id="4bbcb22303365769f846dbc2a375f44da7042093">Preauthorized remittance transfer</def>” means a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> authorized in advance to recur at substantially regular intervals.</content>
+              <content>“<def term="preauthorized remittance transfer">Preauthorized remittance transfer</def>” means a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> authorized in advance to recur at substantially regular intervals.</content>
             </paragraph>
             <paragraph label="1005-30-e" marker="(e)">
               <title type="keyterm">Remittance transfer</title>
               <content/>
               <paragraph label="1005-30-e-1" marker="(1)">
                 <title type="keyterm">General definition.</title>
-                <content>A “<def term="remittance transfer" id="3044cc24b29f6c249b0773a30bf970b7e03f03d7">remittance transfer</def>” means the electronic transfer of funds requested by a <ref target="1005-30-g" reftype="term">sender</ref> to a <ref target="1005-30-c" reftype="term">designated recipient</ref> that is sent by a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>. The term applies regardless of whether the <ref target="1005-30-g" reftype="term">sender</ref> holds an <ref target="1005-2-b-1" reftype="term">account</ref> with the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>, and regardless of whether the transaction is also an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref>, as defined in § <ref target="1005-3-b" reftype="internal">1005.3(b)</ref>.</content>
+                <content>A “<def term="remittance transfer">remittance transfer</def>” means the electronic transfer of funds requested by a <ref target="1005-30-g" reftype="term">sender</ref> to a <ref target="1005-30-c" reftype="term">designated recipient</ref> that is sent by a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>. The term applies regardless of whether the <ref target="1005-30-g" reftype="term">sender</ref> holds an <ref target="1005-2-b-1" reftype="term">account</ref> with the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>, and regardless of whether the transaction is also an <ref target="1005-3-b-1" reftype="term">electronic fund transfer</ref>, as defined in § <ref target="1005-3-b" reftype="internal">1005.3(b)</ref>.</content>
               </paragraph>
               <paragraph label="1005-30-e-2" marker="(2)">
                 <title type="keyterm">Exclusions from coverage.</title>
@@ -1616,11 +1616,11 @@
             <paragraph label="1005-30-f" marker="">
               <content/>
               <paragraph label="1005-30-f-1" marker="(f)">
-                <content>“<def term="remittance transfer provider">Remittance transfer provider</def>” or “<def term="provider" id="90c5d1358d128117989fc21f2897a25c99205e50">provider</def>” means any <ref target="1005-2-j" reftype="term">person</ref> that provides <ref target="1005-30-e-1" reftype="term">remittance transfers</ref> for a <ref target="1005-2-e" reftype="term">consumer</ref> in the normal course of its business, regardless of whether the <ref target="1005-2-e" reftype="term">consumer</ref> holds an <ref target="1005-2-b-1" reftype="term">account</ref> with such <ref target="1005-2-j" reftype="term">person</ref>.</content>
+                <content>“<def term="remittance transfer provider">Remittance transfer provider</def>” or “<def term="provider">provider</def>” means any <ref target="1005-2-j" reftype="term">person</ref> that provides <ref target="1005-30-e-1" reftype="term">remittance transfers</ref> for a <ref target="1005-2-e" reftype="term">consumer</ref> in the normal course of its business, regardless of whether the <ref target="1005-2-e" reftype="term">consumer</ref> holds an <ref target="1005-2-b-1" reftype="term">account</ref> with such <ref target="1005-2-j" reftype="term">person</ref>.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1005-30-g" marker="(g)">
-              <content>“<def term="sender" id="acc6a31daa43161b626de8ab3de5e1e70ad5a4c0">Sender</def>” means a <ref target="1005-2-e" reftype="term">consumer</ref> in a <ref target="1005-2-l" reftype="term">State</ref> who primarily for personal, family, or household purposes requests a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> to send a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> to a <ref target="1005-30-c" reftype="term">designated recipient</ref>.</content>
+              <content>“<def term="sender">Sender</def>” means a <ref target="1005-2-e" reftype="term">consumer</ref> in a <ref target="1005-2-l" reftype="term">State</ref> who primarily for personal, family, or household purposes requests a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> to send a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> to a <ref target="1005-30-c" reftype="term">designated recipient</ref>.</content>
             </paragraph>
           </section>
           <section label="1005-31" sectionNum="31">
@@ -1813,7 +1813,7 @@
               </paragraph>
               <paragraph label="1005-32-a-3" marker="(3)">
                 <title type="keyterm">Insured institution.</title>
-                <content>For purposes of this section, the term “<def term="insured institution" id="a2aec9709782057fe68f192aa4c50fe963db3af2">insured institution</def>” means insured depository institutions (which includes uninsured U.S. branches and agencies of foreign depository institutions) as defined in section 3 of the Federal Deposit Insurance Act (<ref target="USC:12-1813" reftype="external">12 U.S.C. 1813</ref>), and insured <ref target="1005-2-f" reftype="term">credit</ref> unions as defined in section 101 of the Federal Credit Union Act (<ref target="USC:12-1752" reftype="external">12 U.S.C. 1752</ref>).</content>
+                <content>For purposes of this section, the term “<def term="insured institution">insured institution</def>” means insured depository institutions (which includes uninsured U.S. branches and agencies of foreign depository institutions) as defined in section 3 of the Federal Deposit Insurance Act (<ref target="USC:12-1813" reftype="external">12 U.S.C. 1813</ref>), and insured <ref target="1005-2-f" reftype="term">credit</ref> unions as defined in section 101 of the Federal Credit Union Act (<ref target="USC:12-1752" reftype="external">12 U.S.C. 1752</ref>).</content>
               </paragraph>
             </paragraph>
             <paragraph label="1005-32-b" marker="(b)">
@@ -1889,7 +1889,7 @@
               <content/>
               <paragraph label="1005-33-a-1" marker="(1)">
                 <title type="keyterm">Types of transfers or inquiries covered.</title>
-                <content>For purposes of this section, the term <def term="error" id="11f9578d05e6f7bb58a3cdd00107e9f4e3882671">error</def> means:</content>
+                <content>For purposes of this section, the term <def term="error">error</def> means:</content>
                 <paragraph label="1005-33-a-1-i" marker="(i)">
                   <content>An incorrect amount paid by a <ref target="1005-30-g" reftype="term">sender</ref> in connection with a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>;</content>
                 </paragraph>
@@ -5606,13 +5606,16 @@
             </interpParagraph>
           </interpParagraph>
         </interpSection>
-        <interpSection label="1005-30-Interp" sectionNum="30" target="1005-30">
-        <title>Section 1005.30-Remittance Transfer Definitions</title>
+        </interpretations>
+    <interpretations label="1005-Subpart-B-Interp">
+        <title>Interpretations for Subpart B - Requirements for Remittance Transfers.</title>
+      <interpSection label="1005-30-Interp" sectionNum="30" target="1005-30">
+        <title>Section 1005.30 Remittance Transfer Definitions.</title>
         <interpParagraph label="1005-30-Interp-1" marker="1.">
           <content>Applicability of definitions in subpart A. Except as modified or limited by subpart B (which modifications or limitations apply only to subpart B), the definitions in § <ref target="1005-2" reftype="internal">1005.2</ref> apply to all of Regulation E, including subpart B.</content>
         </interpParagraph>
         <interpParagraph label="1005-30-b-Interp" marker="Interp" target="1005-30-b">
-          <title>30(b) Business Day</title>
+          <title>30(b) Business Day.</title>
           <content/>
           <interpParagraph label="1005-30-b-Interp-1" marker="1.">
             <title>General.</title>
@@ -5632,7 +5635,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-30-c-Interp" marker="Interp" target="1005-30-c">
-          <title>30(c) Designated Recipient</title>
+          <title>30(c) Designated Recipient.</title>
           <content/>
           <interpParagraph label="1005-30-c-Interp-1" marker="1.">
             <title>Person.</title>
@@ -5656,7 +5659,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-30-d-Interp" marker="Interp" target="1005-30-d">
-          <title>30(d) Preauthorized Remittance Transfer</title>
+          <title>30(d) Preauthorized Remittance Transfer.</title>
           <content/>
           <interpParagraph label="1005-30-d-Interp-1" marker="1.">
             <title>Advance authorization.</title>
@@ -5664,7 +5667,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-30-e-Interp" marker="Interp" target="1005-30-e">
-          <title>30(e) Remittance Transfer</title>
+          <title>30(e) Remittance Transfer.</title>
           <content/>
           <interpParagraph label="1005-30-e-Interp-1" marker="1.">
             <title>Electronic transfer of funds.</title>
@@ -5717,7 +5720,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-30-f-Interp" marker="Interp" target="1005-30-f-1">
-          <title>30(f) Remittance Transfer Provider</title>
+          <title>30(f) Remittance Transfer Provider.</title>
           <content/>
           <interpParagraph label="1005-30-f-Interp-1" marker="1.">
             <title>Agents.</title>
@@ -5733,7 +5736,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-30-g-Interp" marker="Interp" target="1005-30-g">
-          <title>30(g) Sender</title>
+          <title>30(g) Sender.</title>
           <content/>
           <interpParagraph label="1005-30-g-Interp-1" marker="1.">
             <title>Determining whether a consumer is located in a State.</title>
@@ -5742,12 +5745,12 @@
         </interpParagraph>
       </interpSection>
     <interpSection label="1005-31-Interp" sectionNum="31" target="1005-31">
-        <title>Section 1005.31-Disclosures</title>
+        <title>Section 1005.31 Disclosures.</title>
         <interpParagraph label="1005-31-a-Interp">
-          <title>31(a) General Form of Disclosures</title>
+          <title>31(a) General Form of Disclosures.</title>
           <content/>
           <interpParagraph label="1005-31-a-1-Interp" marker="Interp" target="1005-31-a-1">
-            <title>31(a)(1) Clear and Conspicuous</title>
+            <title>31(a)(1) Clear and Conspicuous.</title>
             <content/>
             <interpParagraph label="1005-31-a-1-Interp-1" marker="1.">
               <title>Clear and conspicuous standard.</title>
@@ -5759,7 +5762,7 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1005-31-a-2-Interp" marker="Interp" target="1005-31-a-2">
-            <title>31(a)(2) Written and Electronic Disclosures</title>
+            <title>31(a)(2) Written and Electronic Disclosures.</title>
             <content/>
             <interpParagraph label="1005-31-a-2-Interp-1" marker="1.">
               <title>E-Sign Act requirements.</title>
@@ -5779,7 +5782,7 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1005-31-a-3-Interp" marker="Interp" target="1005-31-a-3">
-            <title>31(a)(3) Disclosures for Oral Telephone Transactions</title>
+            <title>31(a)(3) Disclosures for Oral Telephone Transactions.</title>
             <content/>
             <interpParagraph label="1005-31-a-3-Interp-1" marker="1.">
               <title>Transactions conducted partially by telephone.</title>
@@ -5791,7 +5794,7 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1005-31-a-5-Interp" marker="Interp" target="1005-31-a-5">
-            <title>31(a)(5) Disclosures for Mobile Application or Text Message Transactions</title>
+            <title>31(a)(5) Disclosures for Mobile Application or Text Message Transactions.</title>
             <content/>
             <interpParagraph label="1005-31-a-5-Interp-1" marker="1.">
               <title>Mobile application and text message transactions.</title>
@@ -5800,7 +5803,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-31-b-Interp" marker="Interp" target="1005-31-b">
-          <title>31(b) Disclosure Requirements</title>
+          <title>31(b) Disclosure Requirements.</title>
           <content/>
           <interpParagraph label="1005-31-b-Interp-1" marker="1.">
             <title>Disclosures provided as applicable.</title>
@@ -5811,7 +5814,7 @@
             <content>Certain disclosures required by § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref> must be described using the terms set forth in § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref> or substantially similar terms. Terms may be more specific than those provided. For example, a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> sending funds to Colombia may describe a tax under § <ref target="1005-31-b-1-vi" reftype="internal">1005.31(b)(1)(vi)</ref> as a “Colombian Tax” in lieu of describing it as “Other Taxes.” Foreign language disclosures required under § <ref target="1005-31-g" reftype="internal">1005.31(g)</ref> must contain accurate translations of the terms, language, and notices required by § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref>.</content>
           </interpParagraph>
           <interpParagraph label="1005-31-b-1-Interp" marker="Interp" target="1005-31-b-1">
-            <title>31(b)(1) Pre-Payment Disclosures</title>
+            <title>31(b)(1) Pre-Payment Disclosures.</title>
             <content/>
             <interpParagraph label="1005-31-b-1-Interp-1" marker="1.">
               <content>Fees and taxes.</content>
@@ -5831,7 +5834,7 @@
               <content>The exchange rate used to calculate the transfer amount in § <ref target="1005-31-b-1-v" reftype="internal">1005.31(b)(1)(v)</ref>, the fees and taxes imposed on the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> by a <ref target="1005-2-j" reftype="term">person</ref> other than the <ref target="1005-30-f-1" reftype="term">provider</ref> in § <ref target="1005-31-b-1-vi" reftype="internal">1005.31(b)(1)(vi)</ref>, and the amount received in § <ref target="1005-31-b-1-vii" reftype="internal">1005.31(b)(1)(vii)</ref> is the exchange rate in § <ref target="1005-31-b-1-iv" reftype="internal">1005.31(b)(1)(iv)</ref>, including an estimated exchange rate to the extent permitted by § <ref target="1005-32" reftype="internal">1005.32</ref>, prior to any rounding of the exchange rate. For example, if one U.S. dollar exchanges for 11.9483779 Mexican pesos, a <ref target="1005-30-f-1" reftype="term">provider</ref> must calculate these disclosures using this rate, even though the <ref target="1005-30-f-1" reftype="term">provider</ref> may disclose pursuant to § <ref target="1005-31-b-1-iv" reftype="internal">1005.31(b)(1)(iv)</ref> that the U.S. dollar exchanges for 11.9484 Mexican pesos. Similarly, if a <ref target="1005-30-f-1" reftype="term">provider</ref> estimates pursuant to § <ref target="1005-32" reftype="internal">1005.32</ref> that one U.S. dollar exchanges for 11.9483 Mexican pesos, a <ref target="1005-30-f-1" reftype="term">provider</ref> must calculate these disclosures using this rate, even though the <ref target="1005-30-f-1" reftype="term">provider</ref> may disclose pursuant to § <ref target="1005-31-b-1-iv" reftype="internal">1005.31(b)(1)(iv)</ref> that the U.S. dollar exchanges for 11.95 Mexican pesos (Estimated). If an exchange rate need not be rounded, a <ref target="1005-30-f-1" reftype="term">provider</ref> must use that exchange rate to calculate these disclosures. For example, if one U.S. dollar exchanges for exactly 11.9 Mexican pesos, a <ref target="1005-30-f-1" reftype="term">provider</ref> must calculate these disclosures using this exchange rate.</content>
             </interpParagraph>
             <interpParagraph label="1005-31-b-1-iv-Interp" marker="Interp" target="1005-31-b-1-iv">
-              <title>31(b)(1)(iv) Exchange Rate</title>
+              <title>31(b)(1)(iv) Exchange Rate.</title>
               <content/>
               <interpParagraph label="1005-31-b-1-iv-Interp-1" marker="1.">
                 <title>Applicable exchange rate.</title>
@@ -5847,7 +5850,7 @@
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1005-31-b-1-vi-Interp" marker="Interp" target="1005-31-b-1-vi">
-              <title>31(b)(1)(vi) Fees and Taxes Imposed by a Person Other Than the Provider</title>
+              <title>31(b)(1)(vi) Fees and Taxes Imposed by a Person Other Than the Provider.</title>
               <content/>
               <interpParagraph label="1005-31-b-1-vi-Interp-1" marker="1.">
                 <title>Fees and taxes disclosed in the currency in which the funds will be received.</title>
@@ -5859,7 +5862,7 @@
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1005-31-b-1-vii-Interp" marker="Interp" target="1005-31-b-1-vii">
-              <title>31(b)(1)(vii) Amount Received</title>
+              <title>31(b)(1)(vii) Amount Received.</title>
               <content/>
               <interpParagraph label="1005-31-b-1-vii-Interp-1" marker="1.">
                 <title>Amount received.</title>
@@ -5868,7 +5871,7 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1005-31-b-2-Interp" marker="Interp" target="1005-31-b-2">
-            <title>31(b)(2) Receipt</title>
+            <title>31(b)(2) Receipt.</title>
             <content/>
             <interpParagraph label="1005-31-b-2-Interp-1" marker="1.">
               <content>Date funds will be available. A <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> does not comply with the requirements of § <ref target="1005-31-b-2-ii" reftype="internal">1005.31(b)(2)(ii)</ref> if it provides a range of dates that the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> may be available or an estimate of the date on which funds will be available. If a <ref target="1005-30-f-1" reftype="term">provider</ref> does not know the exact date on which funds will be available, the <ref target="1005-30-f-1" reftype="term">provider</ref> may disclose the latest date on which the funds will be available. For example, if funds may be available on January 3, but are not certain to be available until January 10, then a <ref target="1005-30-f-1" reftype="term">provider</ref> complies with § <ref target="1005-31-b-2-ii" reftype="internal">1005.31(b)(2)(ii)</ref> if it discloses January 10 as the date funds will be available. However, a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may also disclose that funds “may be available sooner” or use a substantially similar term to inform <ref target="1005-30-g" reftype="term">senders</ref> that funds may be available to the <ref target="1005-30-c" reftype="term">designated recipient</ref> on a date earlier than the date disclosed. For example, a <ref target="1005-30-f-1" reftype="term">provider</ref> may disclose “January 10 (may be available sooner).”</content>
@@ -5881,7 +5884,7 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1005-31-b-3-Interp" marker="Interp" target="1005-31-b-3">
-            <title>31(b)(3) Combined Disclosure</title>
+            <title>31(b)(3) Combined Disclosure.</title>
             <content/>
             <interpParagraph label="1005-31-b-3-Interp-1" marker="1.">
               <content>Proof of payment. If a <ref target="1005-30-g" reftype="term">sender</ref> initiating a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> receives a combined disclosure provided under § <ref target="1005-31-b-3" reftype="internal">1005.31(b)(3)</ref> and then completes the transaction, the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> must provide the <ref target="1005-30-g" reftype="term">sender</ref> with proof of payment. The proof of payment must be clear and conspicuous, provided in writing or electronically, and provided in a retainable form. The combined disclosure must be provided to the <ref target="1005-30-g" reftype="term">sender</ref> when the <ref target="1005-30-g" reftype="term">sender</ref> requests the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>, but prior to payment for the transfer, pursuant to § <ref target="1005-31-e-1" reftype="internal">1005.31(e)(1)</ref>, and the proof of payment must be provided when payment is made for the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>. The proof of payment for the transaction may be provided on the same piece of paper as the combined disclosure or on a separate piece of paper. For example, a <ref target="1005-30-f-1" reftype="term">provider</ref> may feed a combined disclosure through a computer printer when payment is made to add the date and time of the transaction, a confirmation code, and an indication that the transfer was paid in full. A <ref target="1005-30-f-1" reftype="term">provider</ref> may also provide this additional information to a <ref target="1005-30-g" reftype="term">sender</ref> on a separate piece of paper when payment is made. A <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> does not comply with the requirements of § <ref target="1005-31-b-3" reftype="internal">1005.31(b)(3)</ref> by providing a combined disclosure with no further indication that payment has been received.</content>
@@ -5889,17 +5892,17 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-31-c-Interp" marker="Interp" target="1005-31-c">
-          <title>31(c) Specific Format Requirements</title>
+          <title>31(c) Specific Format Requirements.</title>
           <content/>
           <interpParagraph label="1005-31-c-1-Interp" marker="Interp" target="1005-31-c-1">
-            <title>31(c)(1) Grouping</title>
+            <title>31(c)(1) Grouping.</title>
             <content/>
             <interpParagraph label="1005-31-c-1-Interp-1" marker="1.">
               <content>Grouping. Information is grouped together for purposes of subpart B if multiple disclosures are in close proximity to one another and a <ref target="1005-30-g" reftype="term">sender</ref> can reasonably calculate the total amount of the transaction and the amount that will be received by the <ref target="1005-30-c" reftype="term">designated recipient</ref>. Model Forms <ref target="1005-A-30" reftype="internal">A-30</ref> through <ref target="1005-A-35" reftype="internal">A-35</ref> in Appendix <ref target="1005-A" reftype="internal">A</ref> illustrate how information may be grouped to comply with the rule, but a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may group the information in another manner. For example, a <ref target="1005-30-f-1" reftype="term">provider</ref> could provide the grouped information as a horizontal, rather than a vertical, calculation.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1005-31-c-4-Interp" marker="Interp" target="1005-31-c-4">
-            <title>31(c)(4) Segregation</title>
+            <title>31(c)(4) Segregation.</title>
             <content/>
             <interpParagraph label="1005-31-c-4-Interp-1" marker="1.">
               <content>Segregation. Disclosures may be segregated from other information in a variety of ways. For example, the disclosures may appear on a separate sheet of paper or may appear on the front of a page where other information appears on the back of that page. The disclosures may be set off from other information on a notice by outlining them in a box or series of boxes, with bold print dividing lines or a different color background, or by using other means.</content>
@@ -5940,14 +5943,14 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-31-d-Interp" marker="Interp" target="1005-31-d">
-          <title>31(d) Estimates</title>
+          <title>31(d) Estimates.</title>
           <content/>
           <interpParagraph label="1005-31-d-Interp-1" marker="1.">
             <content>Terms. A <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may provide estimates of the amounts required by § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref>, to the extent permitted by § <ref target="1005-32" reftype="internal">1005.32</ref>. An estimate must be described using the term “Estimated” or a substantially similar term in close proximity to the term or terms described. For example, a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> could describe an estimated disclosure as “Estimated Transfer Amount,” “Other Estimated Fees and Taxes,” or “Total to Recipient (Est.).”</content>
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-31-e-Interp" marker="Interp" target="1005-31-e">
-          <title>31(e) Timing</title>
+          <title>31(e) Timing.</title>
           <content/>
           <interpParagraph label="1005-31-e-Interp-1" marker="1.">
             <content>Request to send a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>. Except as provided in § <ref target="1005-36-a" reftype="internal">1005.36(a)</ref>, pre-payment and combined disclosures are required to be provided to the <ref target="1005-30-g" reftype="term">sender</ref> when the <ref target="1005-30-g" reftype="term">sender</ref> requests the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>, but prior to payment for the transfer. Whether a <ref target="1005-2-e" reftype="term">consumer</ref> has requested a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> depends on the facts and circumstances. A <ref target="1005-30-g" reftype="term">sender</ref> that asks a <ref target="1005-30-f-1" reftype="term">provider</ref> to send a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>, and provides transaction-specific information to the <ref target="1005-30-f-1" reftype="term">provider</ref> in order to send funds to a <ref target="1005-30-c" reftype="term">designated recipient</ref>, has requested a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>. For example, a <ref target="1005-30-g" reftype="term">sender</ref> who asks the <ref target="1005-30-f-1" reftype="term">provider</ref> to send money to a recipient in Mexico and provides the <ref target="1005-30-g" reftype="term">sender</ref> and recipient information to the <ref target="1005-30-f-1" reftype="term">provider</ref> has requested a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>. A <ref target="1005-2-e" reftype="term">consumer</ref> who solely inquires about that day's rates and fees to send to Mexico, however, has not requested the <ref target="1005-30-f-1" reftype="term">provider</ref> to send a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>.</content>
@@ -5966,14 +5969,14 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-31-f-Interp" marker="Interp" target="1005-31-f">
-          <title>31(f) Accurate When Payment Is Made</title>
+          <title>31(f) Accurate When Payment Is Made.</title>
           <content/>
           <interpParagraph label="1005-31-f-Interp-1" marker="1.">
             <content>No guarantee of disclosures provided before payment. Except as provided in § <ref target="1005-36-b" reftype="internal">1005.36(b)</ref>, disclosures required by § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref> must be accurate when a <ref target="1005-30-g" reftype="term">sender</ref> makes payment for the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>. A <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> is not required to guarantee the terms of the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> in the disclosures required by § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref> for any specific period of time. However, if any of the disclosures required by § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref> are not accurate when a <ref target="1005-30-g" reftype="term">sender</ref> makes payment for the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>, a <ref target="1005-30-f-1" reftype="term">provider</ref> must give new disclosures before accepting payment.</content>
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-31-g-Interp" marker="Interp" target="1005-31-g">
-          <title>31(g) Foreign Language Disclosures</title>
+          <title>31(g) Foreign Language Disclosures.</title>
           <content/>
           <interpParagraph label="1005-31-g-Interp-1" marker="1.">
             <content>Number of foreign languages used in written disclosure. Section <ref target="1005-31-g-1" reftype="internal">1005.31(g)(1)</ref> does not limit the number of languages that may be used on a single document, but such disclosures must be clear and conspicuous pursuant to § <ref target="1005-31-a-1" reftype="internal">1005.31(a)(1)</ref>. Under § <ref target="1005-31-g-1" reftype="internal">1005.31(g)(1)</ref>, a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may, but need not, provide the <ref target="1005-30-g" reftype="term">sender</ref> with a written or electronic disclosure that is in English and, if applicable, in each foreign language that the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> principally uses to advertise, solicit, or market either orally, in writing, or electronically, at the office in which a <ref target="1005-30-g" reftype="term">sender</ref> conducts a transaction or asserts an <ref target="1005-11-a-1" reftype="term">error</ref>, respectively. Alternatively, the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may provide the disclosure solely in English and, if applicable, the foreign language primarily used by the <ref target="1005-30-g" reftype="term">sender</ref> with the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> to conduct the transaction or assert an <ref target="1005-11-a-1" reftype="term">error</ref>, provided such language is principally used by the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> to advertise, solicit, or market either orally, in writing, or electronically, at the office in which the <ref target="1005-30-g" reftype="term">sender</ref> conducts the transaction or asserts the <ref target="1005-11-a-1" reftype="term">error</ref>, respectively. If the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> chooses the alternative method, it may provide disclosures in a single document with both languages or in two separate documents with one document in English and the other document in the applicable foreign language. The following examples illustrate this concept.</content>
@@ -5997,7 +6000,7 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1005-31-g-1-Interp" marker="Interp" target="1005-31-g-1">
-            <title>31(g)(1) General</title>
+            <title>31(g)(1) General.</title>
             <content/>
             <interpParagraph label="1005-31-g-1-Interp-1" marker="1.">
               <content>Principally used.</content>
@@ -6060,15 +6063,15 @@
         </interpParagraph>
       </interpSection>
     <interpSection label="1005-32-Interp" sectionNum="32" target="1005-32">
-        <title>Section 1005.32-Estimates</title>
-        <interpParagraph label="1005-32-Interp-1" marker="1.">
+        <title>Section 1005.32 Estimates.</title>
+        <interpParagraph label="1005-32-Interp-1" marker="Interp" target="1005-32">
           <content>Disclosures where estimates can be used. Section <ref target="1005-32-a" reftype="internal">1005.32(a)</ref> and <ref target="1005-32-b" reftype="internal">(b)</ref> permit estimates to be used in certain circumstances for disclosures described in § <ref target="1005-31-b-1" reftype="internal">1005.31(b)(1)</ref> through <ref target="1005-31-b-3" reftype="internal">(3)</ref> and <ref target="1005-36-a-1" reftype="internal">1005.36(a)(1)</ref> and <ref target="1005-36-a-2" reftype="internal">(2)</ref>. To the extent permitted in § <ref target="1005-32-a" reftype="internal">1005.32(a)</ref> and <ref target="1005-32-b" reftype="internal">(b)</ref>, estimates may be used in the pre-payment disclosure described in § <ref target="1005-31-b-1" reftype="internal">1005.31(b)(1)</ref>, the receipt disclosure described in § <ref target="1005-31-b-2" reftype="internal">1005.31(b)(2)</ref>, the combined disclosure described in § <ref target="1005-31-b-3" reftype="internal">1005.31(b)(3)</ref>, and the pre-payment disclosures and receipt disclosures for both first and subsequent <ref target="1005-30-d" reftype="term">preauthorized remittance transfers</ref> described in § <ref target="1005-36-a-1" reftype="internal">1005.36(a)(1)</ref> and <ref target="1005-36-a-2" reftype="internal">(2)</ref>.</content>
         </interpParagraph>
         <interpParagraph label="1005-32-a-Interp" marker="Interp">
-          <title>32(a) Temporary Exception for Insured Institutions</title>
+          <title>32(a) Temporary Exception for Insured Institutions.</title>
           <content/>
           <interpParagraph label="1005-32-a-1-Interp" marker="Interp" target="1005-32-a-1">
-            <title>32(a)(1) General</title>
+            <title>32(a)(1) General.</title>
             <content/>
             <interpParagraph label="1005-32-a-1-Interp-1" marker="1.">
               <content>Control. For purposes of this section, an <ref target="1005-32-a-3" reftype="term">insured institution</ref> cannot determine exact amounts “for reasons beyond its control” when a <ref target="1005-2-j" reftype="term">person</ref> other than the <ref target="1005-32-a-3" reftype="term">insured institution</ref> or with which the <ref target="1005-32-a-3" reftype="term">insured institution</ref> has no correspondent relationship sets the exchange rate required to be disclosed under § <ref target="1005-31-b-1-iv" reftype="internal">1005.31(b)(1)(iv)</ref> or imposes a fee required to be disclosed under § <ref target="1005-31-b-1-vi" reftype="internal">1005.31(b)(1)(vi)</ref>. For example, if an <ref target="1005-32-a-3" reftype="term">insured institution</ref> has a correspondent relationship with a <ref target="1005-2-i" reftype="term">financial institution</ref> in another country and that correspondent institution sets the exchange rate or imposes a fee for <ref target="1005-30-e-1" reftype="term">remittance transfers</ref> sent from the <ref target="1005-32-a-3" reftype="term">insured institution</ref> to the correspondent institution, then the <ref target="1005-32-a-3" reftype="term">insured institution</ref> must determine exact amounts for the disclosures required under § <ref target="1005-31-b-1-iv" reftype="internal">1005.31(b)(1)(iv)</ref> or <ref target="1005-31-b-1-vi" reftype="internal">(vi)</ref> because the determination of those amounts are not beyond the <ref target="1005-32-a-3" reftype="term">insured institution</ref>'s control.</content>
@@ -6106,7 +6109,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-32-b-Interp" marker="Interp" target="1005-32-b">
-          <title>32(b) Permanent Exception for Transfers to Certain Countries</title>
+          <title>32(b) Permanent Exception for Transfers to Certain Countries.</title>
           <content/>
           <interpParagraph label="1005-32-b-Interp-1" marker="1.">
             <content>Laws of the recipient country. The laws of the recipient country do not permit a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> to determine exact amounts required to be disclosed when a law or regulation of the recipient country requires the <ref target="1005-2-j" reftype="term">person</ref> making funds directly available to the <ref target="1005-30-c" reftype="term">designated recipient</ref> to apply an exchange rate that is:</content>
@@ -6158,10 +6161,10 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-32-c-Interp" marker="Interp" target="1005-32-c">
-          <title>32(c) Bases for Estimates</title>
+          <title>32(c) Bases for Estimates.</title>
           <content/>
           <interpParagraph label="1005-32-c-1-Interp" marker="Interp" target="1005-32-c-1">
-            <title>32(c)(1) Exchange Rate</title>
+            <title>32(c)(1) Exchange Rate.</title>
             <content/>
             <interpParagraph label="1005-32-c-1-Interp-1" marker="1.">
               <content>Most recent exchange rate for qualifying international ACH transfers. If the exchange rate for a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> sent via international ACH that qualifies for the § <ref target="1005-32-b-1-ii" reftype="internal">1005.32(b)(1)(ii)</ref> exception is set the following <ref target="1005-30-b" reftype="term">business day</ref>, the most recent exchange rate available for a transfer is the exchange rate set for the day that the disclosure is provided, i.e. the current <ref target="1005-30-b" reftype="term">business day</ref>'s exchange rate.</content>
@@ -6177,14 +6180,14 @@
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1005-32-c-3-Interp" marker="Interp" target="1005-32-c-3">
-            <title>32(c)(3) Other Fees</title>
+            <title>32(c)(3) Other Fees.</title>
             <content/>
             <interpParagraph label="1005-32-c-3-Interp-1" marker="1.">
               <content>Potential transmittal routes. A <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> from the <ref target="1005-30-g" reftype="term">sender</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> at an <ref target="1005-32-a-3" reftype="term">insured institution</ref> to the <ref target="1005-30-c" reftype="term">designated recipient</ref>'s institution may take several routes, depending on the correspondent relationships each institution in the transmittal route has with other institutions. In providing an estimate of the fees required to be disclosed under § <ref target="1005-31-b-1-vi" reftype="internal">1005.31(b)(1)(vi)</ref> pursuant to the § <ref target="1005-32-a" reftype="internal">1005.32(a)</ref> temporary exception, an <ref target="1005-32-a-3" reftype="term">insured institution</ref> may rely upon the representations of the <ref target="1005-30-c" reftype="term">designated recipient</ref>'s institution and the institutions that act as intermediaries in any one of the potential transmittal routes that it reasonably believes a requested <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> may travel.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1005-32-c-4-Interp" marker="Interp" target="1005-32-c-4">
-            <title>32(c)(4) Other Taxes Imposed in the Recipient Country</title>
+            <title>32(c)(4) Other Taxes Imposed in the Recipient Country.</title>
             <content/>
             <interpParagraph label="1005-32-c-4-Interp-1" marker="1.">
               <content>Other taxes imposed in a recipient country that are a percentage. Section <ref target="1005-32-c-4" reftype="internal">1005.32(c)(4)</ref> sets forth the basis for providing an estimate of only those taxes imposed in a recipient country that are a percentage of the amount transferred to the <ref target="1005-30-c" reftype="term">designated recipient</ref> because a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> can determine the exact amount of other taxes, such as a tax of a specific amount imposed without regard to the amount of the funds transferred or received. However, a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> can determine the exact amount of other taxes that are a percentage of the amount transferred if the <ref target="1005-30-f-1" reftype="term">provider</ref> can determine the exchange rate and the exact amount of other fees imposed on the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>.</content>
@@ -6193,9 +6196,9 @@
         </interpParagraph>
       </interpSection>
     <interpSection label="1005-33-Interp" sectionNum="33" target="1005-33">
-        <title>Section 1005.33-Procedures for Resolving Errors</title>
+        <title>Section 1005.33 Procedures for Resolving Errors.</title>
         <interpParagraph label="1005-33-a-Interp" marker="Interp" target="1005-33-a">
-          <title>33(a) Definition of Error</title>
+          <title>33(a) Definition of Error.</title>
           <content/>
           <interpParagraph label="1005-33-a-Interp-1" marker="1.">
             <content>Incorrect amount of currency paid by <ref target="1005-30-g" reftype="term">sender</ref>. Section <ref target="1005-33-a-1-i" reftype="internal">1005.33(a)(1)(i)</ref> covers circumstances in which a <ref target="1005-30-g" reftype="term">sender</ref> pays an amount that differs from the total amount of the transaction, including fees imposed in connection with the transfer, stated in the receipt or combined disclosure provided under § <ref target="1005-31-b-2" reftype="internal">1005.31(b)(2)</ref> or <ref target="1005-31-b-3" reftype="internal">(3)</ref>. Such <ref target="1005-33-a-1" reftype="term">error</ref> may be asserted by a <ref target="1005-30-g" reftype="term">sender</ref> regardless of the form or method of payment provided, including when a debit, <ref target="1005-2-f" reftype="term">credit</ref>, or prepaid card is used to fund the transfer and an excess amount is paid. For example, if a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> incorrectly charged a <ref target="1005-30-g" reftype="term">sender</ref>'s <ref target="1005-2-f" reftype="term">credit</ref> card <ref target="1005-2-b-1" reftype="term">account</ref> for US$150, and US$120 was sent, plus a transfer fee of US$10, the <ref target="1005-30-g" reftype="term">sender</ref> could assert an <ref target="1005-33-a-1" reftype="term">error</ref> with the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> for the incorrect charge under § <ref target="1005-33-a-1-i" reftype="internal">1005.33(a)(1)(i)</ref>.</content>
@@ -6250,7 +6253,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-33-b-Interp" marker="Interp" target="1005-33-b">
-          <title>33(b) Notice of Error From Sender</title>
+          <title>33(b) Notice of Error From Sender.</title>
           <content/>
           <interpParagraph label="1005-33-b-Interp-1" marker="1.">
             <content><ref target="1005-2-j" reftype="term">Person</ref> asserting or discovering <ref target="1005-33-a-1" reftype="term">error</ref>. The <ref target="1005-33-a-1" reftype="term">error</ref> resolution procedures of this section apply only when a notice of <ref target="1005-33-a-1" reftype="term">error</ref> is received from the <ref target="1005-30-g" reftype="term">sender</ref>, and not when a notice of <ref target="1005-33-a-1" reftype="term">error</ref> is received from the <ref target="1005-30-c" reftype="term">designated recipient</ref> or when the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> itself discovers and corrects an <ref target="1005-33-a-1" reftype="term">error</ref>.</content>
@@ -6272,7 +6275,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-33-c-Interp" marker="Interp" target="1005-33-c">
-          <title>33(c) Time Limits and Extent of Investigation</title>
+          <title>33(c) Time Limits and Extent of Investigation.</title>
           <content/>
           <interpParagraph label="1005-33-c-Interp-1" marker="1.">
             <content>Notice to <ref target="1005-30-g" reftype="term">sender</ref> of finding of <ref target="1005-33-a-1" reftype="term">error</ref>. If the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> determines during its investigation that an <ref target="1005-33-a-1" reftype="term">error</ref> occurred as described by the <ref target="1005-30-g" reftype="term">sender</ref>, the remittance <ref target="1005-30-f-1" reftype="term">provider</ref> may inform the <ref target="1005-30-g" reftype="term">sender</ref> of its findings either orally or in writing. However, if the <ref target="1005-30-f-1" reftype="term">provider</ref> determines that no <ref target="1005-33-a-1" reftype="term">error</ref> or a different <ref target="1005-33-a-1" reftype="term">error</ref> occurred, the <ref target="1005-30-f-1" reftype="term">provider</ref> must provide a written explanation of its findings under § <ref target="1005-33-d-1" reftype="internal">1005.33(d)(1)</ref>.</content>
@@ -6312,21 +6315,21 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-33-d-Interp" marker="Interp" target="1005-33-d">
-          <title>33(d) Procedures if Remittance Transfer Provider Determines No Error or Different Error Occurred</title>
+          <title>33(d) Procedures if Remittance Transfer Provider Determines No Error or Different Error Occurred.</title>
           <content/>
           <interpParagraph label="1005-33-d-Interp-1" marker="1.">
             <content><ref target="1005-33-a-1" reftype="term">Error</ref> different from that alleged. When a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> determines that an <ref target="1005-33-a-1" reftype="term">error</ref> occurred in a manner or amount different from that described by the <ref target="1005-30-g" reftype="term">sender</ref>, it must comply with the requirements of both § <ref target="1005-33-c" reftype="internal">1005.33(c)</ref> and <ref target="1005-33-d" reftype="internal">(d)</ref>, as applicable. The <ref target="1005-30-f-1" reftype="term">provider</ref> may give the notice of correction and the explanation separately or in a combined form.</content>
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-33-e-Interp" marker="Interp" target="1005-33-e">
-          <title>33(e) Reassertion of Error</title>
+          <title>33(e) Reassertion of Error.</title>
           <content/>
           <interpParagraph label="1005-33-e-Interp-1" marker="1.">
             <content>Withdrawal of <ref target="1005-33-a-1" reftype="term">error</ref>; right to reassert. The <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> has no further <ref target="1005-33-a-1" reftype="term">error</ref> resolution responsibilities if the <ref target="1005-30-g" reftype="term">sender</ref> voluntarily withdraws the notice alleging an <ref target="1005-33-a-1" reftype="term">error</ref>. A <ref target="1005-30-g" reftype="term">sender</ref> who has withdrawn an allegation of <ref target="1005-33-a-1" reftype="term">error</ref> has the right to reassert the allegation unless the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> had already complied with all of the <ref target="1005-33-a-1" reftype="term">error</ref> resolution requirements before the allegation was withdrawn. The <ref target="1005-30-g" reftype="term">sender</ref> must do so, however, within the original 180-day period from the disclosed date of availability or, if applicable, the 60-day period for a notice of <ref target="1005-33-a-1" reftype="term">error</ref> asserted pursuant to § <ref target="1005-33-b-2" reftype="internal">1005.33(b)(2)</ref>.</content>
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-33-f-Interp" marker="Interp" target="1005-33-f">
-          <title>33(f) Relation to Other Laws</title>
+          <title>33(f) Relation to Other Laws.</title>
           <content/>
           <interpParagraph label="1005-33-f-Interp-1" marker="1.">
             <content>Concurrent <ref target="1005-33-a-1" reftype="term">error</ref> obligations. A <ref target="1005-2-i" reftype="term">financial institution</ref> that is also the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may have <ref target="1005-33-a-1" reftype="term">error</ref> obligations under both § <ref target="1005-11" reftype="internal">1005.11</ref> and <ref target="1005-33" reftype="internal">1005.33</ref>. For example, if a <ref target="1005-30-g" reftype="term">sender</ref> asserts an <ref target="1005-33-a-1" reftype="term">error</ref> under § <ref target="1005-11" reftype="internal">1005.11</ref> with a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> that holds the <ref target="1005-30-g" reftype="term">sender</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref>, and the <ref target="1005-33-a-1" reftype="term">error</ref> is not also an <ref target="1005-33-a-1" reftype="term">error</ref> under § <ref target="1005-33" reftype="internal">1005.33</ref> (such as the omission of an EFT on a periodic statement), then the <ref target="1005-33-a-1" reftype="term">error</ref>-resolution provisions of § <ref target="1005-11" reftype="internal">1005.11</ref> exclusively apply to the <ref target="1005-33-a-1" reftype="term">error</ref>. However, if a <ref target="1005-30-g" reftype="term">sender</ref> asserts an <ref target="1005-33-a-1" reftype="term">error</ref> under § <ref target="1005-33" reftype="internal">1005.33</ref> with a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> that holds the <ref target="1005-30-g" reftype="term">sender</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref>, and the <ref target="1005-33-a-1" reftype="term">error</ref> is also an <ref target="1005-33-a-1" reftype="term">error</ref> under § <ref target="1005-11" reftype="internal">1005.11</ref> (such as when the amount the <ref target="1005-30-g" reftype="term">sender</ref> requested to be deducted from the <ref target="1005-30-g" reftype="term">sender</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> and sent for the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> differs from the amount that was actually deducted from the <ref target="1005-2-b-1" reftype="term">account</ref> and sent), then the <ref target="1005-33-a-1" reftype="term">error</ref>-resolution provisions of § <ref target="1005-33" reftype="internal">1005.33</ref> exclusively apply to the <ref target="1005-33-a-1" reftype="term">error</ref>.</content>
@@ -6339,7 +6342,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-33-g-Interp" marker="Interp" target="1005-33-g">
-          <title>33(g) Error Resolution Standards and Recordkeeping Requirements</title>
+          <title>33(g) Error Resolution Standards and Recordkeeping Requirements.</title>
           <content/>
           <interpParagraph label="1005-33-g-Interp-1" marker="1.">
             <content>Record retention requirements. As noted in § <ref target="1005-31-g-2" reftype="internal">1005.31(g)(2)</ref>, <ref target="1005-30-f-1" reftype="term">remittance transfer providers</ref> are subject to the record retention requirements under § <ref target="1005-13" reftype="internal">1005.13</ref>. Therefore, <ref target="1005-30-f-1" reftype="term">remittance transfer providers</ref> must retain documentation, including documentation related to <ref target="1005-33-a-1" reftype="term">error</ref> investigations, for a period of not less than two years from the date a notice of <ref target="1005-33-a-1" reftype="term">error</ref> was submitted to the <ref target="1005-30-f-1" reftype="term">provider</ref> or action was required to be taken by the <ref target="1005-30-f-1" reftype="term">provider</ref>. A <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> need not maintain records of individual disclosures that it has provided to each <ref target="1005-30-g" reftype="term">sender</ref>; it need only retain evidence demonstrating that its procedures reasonably ensure the <ref target="1005-30-g" reftype="term">sender</ref>'s receipt of required disclosures and documentation.</content>
@@ -6347,9 +6350,9 @@
         </interpParagraph>
       </interpSection>
     <interpSection label="1005-34-Interp" sectionNum="34" target="1005-34">
-        <title>Section 1005.34-Procedures for Cancellation and Refund of Remittance Transfers</title>
+        <title>Section 1005.34 Procedures for Cancellation and Refund of Remittance Transfers.</title>
         <interpParagraph label="1005-34-a-Interp" marker="Interp" target="1005-34-a">
-          <title>34(a) Sender Right of Cancellation and Refund</title>
+          <title>34(a) Sender Right of Cancellation and Refund.</title>
           <content/>
           <interpParagraph label="1005-34-a-Interp-1" marker="1.">
             <content>Content of cancellation request. A request to cancel a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> is valid so long as the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> is able to identify the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> in question. For example, the <ref target="1005-30-g" reftype="term">sender</ref> could provide the confirmation number or code that would be used by the <ref target="1005-30-c" reftype="term">designated recipient</ref> to pick up the transfer or other identification number or code supplied by the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> in connection with the transfer, if such number or code is sufficient for the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> to identify the transfer. A <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may also request, or the <ref target="1005-30-g" reftype="term">sender</ref> may provide, the <ref target="1005-30-g" reftype="term">sender</ref>'s email address instead of a physical address, so long as the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> is able to identify the transfer to which the request to cancel applies.</content>
@@ -6368,7 +6371,7 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1005-34-b-Interp" marker="Interp" target="1005-34-b">
-          <title>34(b) Time Limits and Refund Requirements</title>
+          <title>34(b) Time Limits and Refund Requirements.</title>
           <content/>
           <interpParagraph label="1005-34-b-Interp-1" marker="1.">
             <content>Form of refund. At its discretion, a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> generally may issue a refund either in cash or in the same form of payment that was initially provided by the <ref target="1005-30-g" reftype="term">sender</ref> for the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>. For example, if the <ref target="1005-30-g" reftype="term">sender</ref> originally provided a <ref target="1005-2-f" reftype="term">credit</ref> card as payment for the transfer, the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may issue a <ref target="1005-2-f" reftype="term">credit</ref> to the <ref target="1005-30-g" reftype="term">sender</ref>'s <ref target="1005-2-f" reftype="term">credit</ref> card <ref target="1005-2-b-1" reftype="term">account</ref> in the amount of the payment. However, if a <ref target="1005-30-g" reftype="term">sender</ref> initially provided cash for the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>, a <ref target="1005-30-f-1" reftype="term">provider</ref> may issue a refund by check. For example, if the <ref target="1005-30-g" reftype="term">sender</ref> originally provided cash as payment for the transfer, the <ref target="1005-30-f-1" reftype="term">provider</ref> may mail a check to the <ref target="1005-30-g" reftype="term">sender</ref> in the amount of the payment.</content>
@@ -6379,18 +6382,18 @@
         </interpParagraph>
       </interpSection>
     <interpSection label="1005-35-Interp" sectionNum="35" target="1005-35">
-        <title>Section 1005.35—Acts of Agents</title>
+        <title>Section 1005.35 Acts of Agents.</title>
         <interpParagraph label="1005-35-Interp-1" marker="Interp" target="1005-35">
           <content>General. <ref target="1005-30-f-1" reftype="term">Remittance transfer providers</ref> must comply with the requirements of subpart B, including, but not limited to, providing the disclosures set forth in § <ref target="1005-31" reftype="internal">1005.31</ref> and providing any remedies as set forth in § <ref target="1005-33" reftype="internal">1005.33</ref>, even if an <ref target="1005-30-a" reftype="term">agent</ref> or other <ref target="1005-2-j" reftype="term">person</ref> performs functions for the <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>, and regardless of whether the <ref target="1005-30-f-1" reftype="term">provider</ref> has an agreement with a third party that transfers or otherwise makes funds available to a <ref target="1005-30-c" reftype="term">designated recipient</ref>.</content>
         </interpParagraph>
       </interpSection>
     <interpSection label="1005-36-Interp" sectionNum="36" target="1005-36">
-        <title>Section 1005.36-Transfers Scheduled in Advance</title>
+        <title>Section 1005.36 Transfers Scheduled in Advance.</title>
         <interpParagraph label="1005-36-Interp-1" marker="1.">
           <content>Applicability of subpart B. The requirements set forth in subpart B apply to <ref target="1005-30-e-1" reftype="term">remittance transfers</ref> subject to § <ref target="1005-36" reftype="internal">1005.36</ref>, to the extent that § <ref target="1005-36" reftype="internal">1005.36</ref> does not modify those requirements. For example, the foreign language disclosure requirements in § <ref target="1005-31-g" reftype="internal">1005.31(g)</ref> and related commentary continue to apply to disclosures provided in accordance with § <ref target="1005-36-a-2" reftype="internal">1005.36(a)(2)</ref>.</content>
         </interpParagraph>
         <interpParagraph label="1005-36-c-Interp" marker="Interp" target="1005-36-c">
-          <title>36(c) Cancellation</title>
+          <title>36(c) Cancellation.</title>
           <content/>
           <interpParagraph label="1005-36-c-Interp-1" marker="1.">
             <content>Scheduled <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>. Section <ref target="1005-36-c" reftype="internal">1005.36(c)</ref> applies when a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> is scheduled by the <ref target="1005-30-g" reftype="term">sender</ref> at least three <ref target="1005-30-b" reftype="term">business days</ref> before the date of the transfer, whether the <ref target="1005-30-g" reftype="term">sender</ref> schedules a <ref target="1005-30-d" reftype="term">preauthorized remittance transfer</ref> or a one-time transfer. A <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> is scheduled if it will require no further action by the <ref target="1005-30-g" reftype="term">sender</ref> to send the transfer after the <ref target="1005-30-g" reftype="term">sender</ref> requests the transfer. For example, a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> is scheduled at least three <ref target="1005-30-b" reftype="term">business days</ref> before the date of the transfer, and § <ref target="1005-36-c" reftype="internal">1005.36(c)</ref> applies, where a <ref target="1005-30-g" reftype="term">sender</ref> on March 1 requests a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> to send a wire transfer to pay a bill in a foreign country on March 15, if it will require no further action by the <ref target="1005-30-g" reftype="term">sender</ref> to send the transfer after the <ref target="1005-30-g" reftype="term">sender</ref> requests the transfer. A <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> is not scheduled, and § <ref target="1005-36-c" reftype="internal">1005.36(c)</ref> does not apply, where a transfer occurs more than three days after the date the <ref target="1005-30-g" reftype="term">sender</ref> requests the transfer solely due to the <ref target="1005-30-f-1" reftype="term">provider</ref>'s processing time. The following are examples of when a <ref target="1005-30-g" reftype="term">sender</ref> has not scheduled a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> at least three <ref target="1005-30-b" reftype="term">business days</ref> before the date of the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>, such that the cancellation rule in § <ref target="1005-34" reftype="internal">1005.34</ref> applies.</content>
@@ -6413,9 +6416,6 @@
         </interpParagraph>
       </interpSection>
     </interpretations>
-    <interpretations label="1005-Subpart-B-Interp">
-        <title>Interpretations for Subpart B - Requirements for Remittance Transfers</title>
-      </interpretations>
     <interpretations label="1005-Appendices-Interp">
         <title>Appendix A to Part 1005-Model Disclosure Clauses and Forms.</title>
       <interpSection label="1005-A-Interp" target="1005-A">
