@@ -7003,8 +7003,8 @@
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-37-j-Interp" target="1026-37-j">
-          <title>37(j) When table is not permitted to be disclosed.</title>
-          <content>The disclosure described in § <ref target="1026-37-j" reftype="internal">1026.37(j)</ref> is required only if the interest rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref>, either based on changes to an index or scheduled changes to the interest rate. If the legal obligation does not permit the interest rate to adjust after <ref target="1026-2-a-13" reftype="term">consummation</ref>, such as for a “Fixed Rate” product under § <ref target="1026-37-a-10" reftype="internal">1026.37(a)(10)</ref>, this table is not permitted to appear on the Loan Estimate. The <ref target="1026-2-a-17" reftype="term">creditor</ref> may not disclose a blank table or a table with “N/A” inserted within each row.</content>
+          <title>37(j) Adjustable interest rate table.</title>
+          <content>1. When table is not permitted to be disclosed. The disclosure described in § <ref target="1026-37-j" reftype="internal">1026.37(j)</ref> is required only if the interest rate may increase after <ref target="1026-2-a-13" reftype="term">consummation</ref>, either based on changes to an index or scheduled changes to the interest rate. If the legal obligation does not permit the interest rate to adjust after <ref target="1026-2-a-13" reftype="term">consummation</ref>, such as for a “Fixed Rate” product under § <ref target="1026-37-a-10" reftype="internal">1026.37(a)(10)</ref>, this table is not permitted to appear on the Loan Estimate. The <ref target="1026-2-a-17" reftype="term">creditor</ref> may not disclose a blank table or a table with “N/A” inserted within each row.</content>
           <interpParagraph label="1026-37-j-1-Interp" target="1026-37-j-1">
             <title>37(j)(1) Index and margin.</title>
             <content/>
