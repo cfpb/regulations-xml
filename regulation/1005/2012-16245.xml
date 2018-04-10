@@ -5093,7 +5093,59 @@
             </interpParagraph>
           </interpParagraph>
         </interpSection>
-        </interpretations>
+        <interpSection label="1005-A-Interp" target="1005-A">
+          <title>Appendix A—Model Disclosure Clauses and Forms</title>
+          <interpParagraph label="1005-A-Interp-1" marker="1.">
+            <title>Review of forms.</title>
+            <content>The Bureau will not review or approve disclosure forms or statements for <ref target="1005-2-i" reftype="term">financial institutions</ref>. However, the Bureau has issued model clauses for institutions to use in designing their disclosures. If an institution uses these clauses accurately to reflect its service, the institution is protected from liability for failure to make disclosures in proper form.</content>
+          </interpParagraph>
+          <interpParagraph label="1005-A-Interp-2" marker="2.">
+        <title>Use of forms.</title>
+        <content>The appendix contains model disclosure clauses for optional use by <ref target="1005-2-i" reftype="term">financial institutions</ref> and <ref target="1005-30-f-1" reftype="term">remittance transfer providers</ref> to facilitate compliance with the disclosure requirements of sections §§ <ref target="1005-5-b-2" reftype="internal">1005.5(b)(2)</ref> and <ref target="1005-5-b-3" reftype="internal">(3)</ref>, <ref target="1005-6-a" reftype="internal">1005.6(a)</ref>, <ref target="1005-7" reftype="internal">1005.7</ref>, <ref target="1005-8-b" reftype="internal">1005.8(b)</ref>, <ref target="1005-14-b-1-ii" reftype="internal">1005.14(b)(1)(ii)</ref>, <ref target="1005-15-d-1" reftype="internal">1005.15(d)(1)</ref> and <ref target="1005-15-d-2" reftype="internal">(2)</ref>, <ref target="1005-18-c-1" reftype="internal">1005.18(c)(1)</ref> and <ref target="1005-18-c-2" reftype="internal">(2)</ref>, <ref target="1005-31" reftype="internal">1005.31</ref>, and <ref target="1005-36" reftype="internal">1005.36</ref>. The use of appropriate clauses in making disclosures will protect a <ref target="1005-2-i" reftype="term">financial institution</ref> and a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> from liability under sections 916 and 917 of the act provided the clauses accurately reflect the institution's EFT services and the <ref target="1005-30-f-1" reftype="term">provider</ref>'s <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> services, respectively.</content>
+      </interpParagraph>
+    <interpParagraph label="1005-A-Interp-3" marker="3.">
+            <title>Altering the clauses.</title>
+            <content><ref target="1005-2-i" reftype="term">Financial institutions</ref> may use clauses of their own design in conjunction with the Bureau's model clauses. The inapplicable words or portions of phrases in parentheses should be deleted. The catchlines are not part of the clauses and need not be used. <ref target="1005-2-i" reftype="term">Financial institutions</ref> may make alterations, substitutions, or additions in the clauses to reflect the services offered, such as technical changes (including the substitution of a trade name for the word “card,” deletion of inapplicable services, or substitution of lesser liability limits). Several of the model clauses include references to a telephone number and address. Where two or more of these clauses are used in a disclosure, the telephone number and address may be referenced and need not be repeated.</content>
+          </interpParagraph>
+        <interpParagraph label="1005-A-Interp-4" marker="4.">
+        <title>Model forms for remittance transfers.</title>
+        <content>The Bureau will not review or approve disclosure forms for <ref target="1005-30-f-1" reftype="term">remittance transfer providers</ref>. However, this appendix contains 12 model forms for use in connection with <ref target="1005-30-e-1" reftype="term">remittance transfers</ref>. These model forms are intended to demonstrate several formats a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may use to comply with the requirements of § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref>. Model Forms <ref target="1005-A-30" reftype="internal">A-30</ref> through <ref target="1005-A-32" reftype="internal">A-32</ref> demonstrate how a <ref target="1005-30-f-1" reftype="term">provider</ref> could provide the required disclosures for a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> exchanged into local currency. Model Forms <ref target="1005-A-33" reftype="internal">A-33</ref> through <ref target="1005-A-35" reftype="internal">A-35</ref> demonstrate how a <ref target="1005-30-f-1" reftype="term">provider</ref> could provide the required disclosures for dollar-to-dollar <ref target="1005-30-e-1" reftype="term">remittance transfers</ref>. These forms also demonstrate disclosure of the required content, in accordance with the grouping and proximity requirements of § <ref target="1005-31-c-1" reftype="internal">1005.31(c)(1)</ref> and <ref target="1005-31-c-2" reftype="internal">(2)</ref>, in both a register receipt format and an 8.5 inch by 11 inch format. Model Form <ref target="1005-A-36" reftype="internal">A-36</ref> provides long form model <ref target="1005-11-a-1" reftype="term">error</ref> resolution and cancellation disclosures required by § <ref target="1005-31-b-4" reftype="internal">1005.31(b)(4)</ref>, and Model Form <ref target="1005-A-37" reftype="internal">A-37</ref> provides short form model <ref target="1005-11-a-1" reftype="term">error</ref> resolution and cancellation disclosures required by § <ref target="1005-31-b-2-iv" reftype="internal">1005.31(b)(2)(iv)</ref> and <ref target="1005-31-b-2-vi" reftype="internal">(vi)</ref>. Model Forms A-38 through A-41 provide language for Spanish language disclosures.</content>
+        <interpParagraph label="1005-A-Interp-4-i" marker="i.">
+          <content>The model forms contain information that is not required by subpart B, such as a confirmation code and the <ref target="1005-30-g" reftype="term">sender</ref>'s name and contact information. Additional information not required by subpart B may be presented on the model forms as permitted by § <ref target="1005-31-c-4" reftype="internal">1005.31(c)(4)</ref>. Any additional information must be presented consistent with a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>'s obligation to provide required disclosures in a clear and conspicuous manner.</content>
+        </interpParagraph>
+        <interpParagraph label="1005-A-Interp-4-ii" marker="ii.">
+          <content>Use of the model forms is optional. A <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may change the forms by rearranging the format or by making modifications to the language of the forms, in each case without modifying the substance of the disclosures. Any rearrangement or modification of the format of the model forms must be consistent with the form, grouping, proximity, and other requirements of § <ref target="1005-31-a" reftype="internal">1005.31(a)</ref> and <ref target="1005-31-c" reftype="internal">(c)</ref>. <ref target="1005-30-f-1" reftype="term">Providers</ref> making revisions that do not comply with this section will lose the benefit of the safe harbor for appropriate use of Model Forms <ref target="1005-A-30" reftype="internal">A-30</ref> to A-41.</content>
+        </interpParagraph>
+        <interpParagraph label="1005-A-Interp-4-iii" marker="iii.">
+          <content>Permissible changes to the language and format of the model forms include, for example:</content>
+          <interpParagraph label="1005-A-Interp-4-iii-A" marker="A.">
+            <content>Substituting the information contained in the model forms that is intended to demonstrate how to complete the information in the model forms—such as names, addresses, and Web sites; dates; numbers; and <ref target="1005-2-l" reftype="term">State</ref>-specific contact information—with information applicable to the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>.</content>
+          </interpParagraph>
+          <interpParagraph label="1005-A-Interp-4-iii-B" marker="B.">
+            <content>Eliminating disclosures that are not applicable to the transfer, as permitted under § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref>.</content>
+          </interpParagraph>
+          <interpParagraph label="1005-A-Interp-4-iii-C" marker="C.">
+            <content>Correcting or updating telephone numbers, mailing addresses, or Web site addresses that may change over time.</content>
+          </interpParagraph>
+          <interpParagraph label="1005-A-Interp-4-iii-D" marker="D.">
+            <content>Providing the disclosures on a paper size that is different from a register receipt and 8.5 inch by 11 inch formats.</content>
+          </interpParagraph>
+          <interpParagraph label="1005-A-Interp-4-iii-E" marker="E.">
+            <content>Adding a term substantially similar to “estimated” in close proximity to the specified terms in § <ref target="1005-31-b-1" reftype="internal">1005.31(b)(1)</ref> and <ref target="1005-31-b-2" reftype="internal">(2)</ref>, as required under § <ref target="1005-31-d" reftype="internal">1005.31(d)</ref>.</content>
+          </interpParagraph>
+          <interpParagraph label="1005-A-Interp-4-iii-F" marker="F.">
+            <content>Providing the disclosures in a foreign language, or multiple foreign languages, subject to the requirements of § <ref target="1005-31-g" reftype="internal">1005.31(g)</ref>.</content>
+          </interpParagraph>
+          <interpParagraph label="1005-A-Interp-4-iii-G" marker="G.">
+            <content>Substituting cancellation language to reflect the right to a cancellation made pursuant to the requirements of § <ref target="1005-36-c" reftype="internal">1005.36(c)</ref>.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1005-A-Interp-4-iv" marker="iv.">
+          <content>Changes to the model forms that are not permissible include, for example, adding information that is not segregated from the required disclosures, other than as permitted by § <ref target="1005-31-c-4" reftype="internal">1005.31(c)(4)</ref>.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </interpSection>
+      </interpretations>
     <interpretations label="1005-Subpart-B-Interp">
         <title>Interpretations for Subpart B - Requirements for Remittance Transfers.</title>
       <interpSection label="1005-30-Interp" sectionNum="30" target="1005-30">
@@ -5905,58 +5957,6 @@
     </interpretations>
     <interpretations label="1005-Appendices-Interp">
         <title>Appendix A to Part 1005-Model Disclosure Clauses and Forms.</title>
-      <interpSection label="1005-A-Interp" target="1005-A">
-          <title>Appendix A—Model Disclosure Clauses and Forms</title>
-          <interpParagraph label="1005-A-Interp-1" marker="1.">
-            <title>Review of forms.</title>
-            <content>The Bureau will not review or approve disclosure forms or statements for <ref target="1005-2-i" reftype="term">financial institutions</ref>. However, the Bureau has issued model clauses for institutions to use in designing their disclosures. If an institution uses these clauses accurately to reflect its service, the institution is protected from liability for failure to make disclosures in proper form.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-A-Interp-2" marker="2.">
-        <title>Use of forms.</title>
-        <content>The appendix contains model disclosure clauses for optional use by <ref target="1005-2-i" reftype="term">financial institutions</ref> and <ref target="1005-30-f-1" reftype="term">remittance transfer providers</ref> to facilitate compliance with the disclosure requirements of sections §§ <ref target="1005-5-b-2" reftype="internal">1005.5(b)(2)</ref> and <ref target="1005-5-b-3" reftype="internal">(3)</ref>, <ref target="1005-6-a" reftype="internal">1005.6(a)</ref>, <ref target="1005-7" reftype="internal">1005.7</ref>, <ref target="1005-8-b" reftype="internal">1005.8(b)</ref>, <ref target="1005-14-b-1-ii" reftype="internal">1005.14(b)(1)(ii)</ref>, <ref target="1005-15-d-1" reftype="internal">1005.15(d)(1)</ref> and <ref target="1005-15-d-2" reftype="internal">(2)</ref>, <ref target="1005-18-c-1" reftype="internal">1005.18(c)(1)</ref> and <ref target="1005-18-c-2" reftype="internal">(2)</ref>, <ref target="1005-31" reftype="internal">1005.31</ref>, and <ref target="1005-36" reftype="internal">1005.36</ref>. The use of appropriate clauses in making disclosures will protect a <ref target="1005-2-i" reftype="term">financial institution</ref> and a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> from liability under sections 916 and 917 of the act provided the clauses accurately reflect the institution's EFT services and the <ref target="1005-30-f-1" reftype="term">provider</ref>'s <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> services, respectively.</content>
-      </interpParagraph>
-    <interpParagraph label="1005-A-Interp-3" marker="3.">
-            <title>Altering the clauses.</title>
-            <content><ref target="1005-2-i" reftype="term">Financial institutions</ref> may use clauses of their own design in conjunction with the Bureau's model clauses. The inapplicable words or portions of phrases in parentheses should be deleted. The catchlines are not part of the clauses and need not be used. <ref target="1005-2-i" reftype="term">Financial institutions</ref> may make alterations, substitutions, or additions in the clauses to reflect the services offered, such as technical changes (including the substitution of a trade name for the word “card,” deletion of inapplicable services, or substitution of lesser liability limits). Several of the model clauses include references to a telephone number and address. Where two or more of these clauses are used in a disclosure, the telephone number and address may be referenced and need not be repeated.</content>
-          </interpParagraph>
-        <interpParagraph label="1005-A-Interp-4" marker="4.">
-        <title>Model forms for remittance transfers.</title>
-        <content>The Bureau will not review or approve disclosure forms for <ref target="1005-30-f-1" reftype="term">remittance transfer providers</ref>. However, this appendix contains 12 model forms for use in connection with <ref target="1005-30-e-1" reftype="term">remittance transfers</ref>. These model forms are intended to demonstrate several formats a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may use to comply with the requirements of § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref>. Model Forms <ref target="1005-A-30" reftype="internal">A-30</ref> through <ref target="1005-A-32" reftype="internal">A-32</ref> demonstrate how a <ref target="1005-30-f-1" reftype="term">provider</ref> could provide the required disclosures for a <ref target="1005-30-e-1" reftype="term">remittance transfer</ref> exchanged into local currency. Model Forms <ref target="1005-A-33" reftype="internal">A-33</ref> through <ref target="1005-A-35" reftype="internal">A-35</ref> demonstrate how a <ref target="1005-30-f-1" reftype="term">provider</ref> could provide the required disclosures for dollar-to-dollar <ref target="1005-30-e-1" reftype="term">remittance transfers</ref>. These forms also demonstrate disclosure of the required content, in accordance with the grouping and proximity requirements of § <ref target="1005-31-c-1" reftype="internal">1005.31(c)(1)</ref> and <ref target="1005-31-c-2" reftype="internal">(2)</ref>, in both a register receipt format and an 8.5 inch by 11 inch format. Model Form <ref target="1005-A-36" reftype="internal">A-36</ref> provides long form model <ref target="1005-11-a-1" reftype="term">error</ref> resolution and cancellation disclosures required by § <ref target="1005-31-b-4" reftype="internal">1005.31(b)(4)</ref>, and Model Form <ref target="1005-A-37" reftype="internal">A-37</ref> provides short form model <ref target="1005-11-a-1" reftype="term">error</ref> resolution and cancellation disclosures required by § <ref target="1005-31-b-2-iv" reftype="internal">1005.31(b)(2)(iv)</ref> and <ref target="1005-31-b-2-vi" reftype="internal">(vi)</ref>. Model Forms A-38 through A-41 provide language for Spanish language disclosures.</content>
-        <interpParagraph label="1005-A-Interp-4-i" marker="i.">
-          <content>The model forms contain information that is not required by subpart B, such as a confirmation code and the <ref target="1005-30-g" reftype="term">sender</ref>'s name and contact information. Additional information not required by subpart B may be presented on the model forms as permitted by § <ref target="1005-31-c-4" reftype="internal">1005.31(c)(4)</ref>. Any additional information must be presented consistent with a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>'s obligation to provide required disclosures in a clear and conspicuous manner.</content>
-        </interpParagraph>
-        <interpParagraph label="1005-A-Interp-4-ii" marker="ii.">
-          <content>Use of the model forms is optional. A <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> may change the forms by rearranging the format or by making modifications to the language of the forms, in each case without modifying the substance of the disclosures. Any rearrangement or modification of the format of the model forms must be consistent with the form, grouping, proximity, and other requirements of § <ref target="1005-31-a" reftype="internal">1005.31(a)</ref> and <ref target="1005-31-c" reftype="internal">(c)</ref>. <ref target="1005-30-f-1" reftype="term">Providers</ref> making revisions that do not comply with this section will lose the benefit of the safe harbor for appropriate use of Model Forms <ref target="1005-A-30" reftype="internal">A-30</ref> to A-41.</content>
-        </interpParagraph>
-        <interpParagraph label="1005-A-Interp-4-iii" marker="iii.">
-          <content>Permissible changes to the language and format of the model forms include, for example:</content>
-          <interpParagraph label="1005-A-Interp-4-iii-A" marker="A.">
-            <content>Substituting the information contained in the model forms that is intended to demonstrate how to complete the information in the model forms—such as names, addresses, and Web sites; dates; numbers; and <ref target="1005-2-l" reftype="term">State</ref>-specific contact information—with information applicable to the <ref target="1005-30-e-1" reftype="term">remittance transfer</ref>.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-A-Interp-4-iii-B" marker="B.">
-            <content>Eliminating disclosures that are not applicable to the transfer, as permitted under § <ref target="1005-31-b" reftype="internal">1005.31(b)</ref>.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-A-Interp-4-iii-C" marker="C.">
-            <content>Correcting or updating telephone numbers, mailing addresses, or Web site addresses that may change over time.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-A-Interp-4-iii-D" marker="D.">
-            <content>Providing the disclosures on a paper size that is different from a register receipt and 8.5 inch by 11 inch formats.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-A-Interp-4-iii-E" marker="E.">
-            <content>Adding a term substantially similar to “estimated” in close proximity to the specified terms in § <ref target="1005-31-b-1" reftype="internal">1005.31(b)(1)</ref> and <ref target="1005-31-b-2" reftype="internal">(2)</ref>, as required under § <ref target="1005-31-d" reftype="internal">1005.31(d)</ref>.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-A-Interp-4-iii-F" marker="F.">
-            <content>Providing the disclosures in a foreign language, or multiple foreign languages, subject to the requirements of § <ref target="1005-31-g" reftype="internal">1005.31(g)</ref>.</content>
-          </interpParagraph>
-          <interpParagraph label="1005-A-Interp-4-iii-G" marker="G.">
-            <content>Substituting cancellation language to reflect the right to a cancellation made pursuant to the requirements of § <ref target="1005-36-c" reftype="internal">1005.36(c)</ref>.</content>
-          </interpParagraph>
-        </interpParagraph>
-        <interpParagraph label="1005-A-Interp-4-iv" marker="iv.">
-          <content>Changes to the model forms that are not permissible include, for example, adding information that is not segregated from the required disclosures, other than as permitted by § <ref target="1005-31-c-4" reftype="internal">1005.31(c)(4)</ref>.</content>
-        </interpParagraph>
-      </interpParagraph>
-    </interpSection>
       </interpretations>
     </content>
   </part>

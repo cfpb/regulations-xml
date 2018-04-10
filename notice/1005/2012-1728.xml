@@ -1538,18 +1538,23 @@
     b. Under Subheading Appendix A, paragraph (2)
     -->
     <!-- we need to create interps for subpart B first -->
+    <!-- The old interps apply to what has become Subpart A, so rename 1005-Interp to 1005-Subpart-A-Interp -->
+    <change operation="changeLabel" label="1005-Interp" newLabel="1005-Subpart-A-Interp"/>
+
+    <change operation="added" label="1005-Subpart-B-Interp" after="1005-Interp">
+      <interpretations label="1005-Subpart-B-Interp">
+        <title>Interpretations for Subpart B - Requirements for Remittance Transfers.</title>
+      </interpretations>
+    </change>
+
     <!-- Break out appendix interps into their own section -->
     <change operation="added" label="1005-Appendices-Interp" parent="1005" after="1005-Subpart-B-Interp">
       <interpretations label="1005-Appendices-Interp">
         <title>Appendix A to Part 1005-Model Disclosure Clauses and Forms.</title>
       </interpretations>
     </change>
-    <change operation="moved" label="1005-A-Interp" parent="1005-Appendices-Interp"/>
-    <change operation="added" label="1005-Subpart-B-Interp" after="1005-Interp">
-      <interpretations label="1005-Subpart-B-Interp">
-        <title>Interpretations for Subpart B - Requirements for Remittance Transfers.</title>
-      </interpretations>
-    </change>
+    <!-- <change operation="moved" label="1005-A-Interp" parent="1005-Appendices-Interp"/> -->
+
     <change operation="added" label="1005-30-Interp" parent="1005-Subpart-B-Interp">
       <interpSection label="1005-30-Interp" sectionNum="30" target="1005-30">
         <title>Section 1005.30 Remittance Transfer Definitions.</title>
@@ -2415,8 +2420,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-    <!-- The old interps apply to what has become Subpart A, so rename 1005-Interp to 1005-Subpart-A-Interp -->
-    <change operation="changeLabel" label="1005-Interp" newLabel="1005-Subpart-A-Interp"/>
   </changeset>
   <analysis>
     <analysisSection target="1005-1" notice="2012-1728" date="2013-10-28">
