@@ -16,12 +16,12 @@
       <section>1005</section>
     </cfr>
     <documentNumber>2017-08341</documentNumber>
-    <effectiveDate>2018-04-01</effectiveDate>
+    <effectiveDate>2019-04-01</effectiveDate>
     <federalRegisterURL>https://www.federalregister.gov/articles/2017/04/25/2017-08341/prepaid-accounts-under-the-electronic-fund-transfer-act-regulation-e-and-the-truth-in-lending-act</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2016-24506" rightDocumentNumber="2018-01305">
 
-  <!-- Amend § 1005.19 by revising the reference to “October 1, 2017” to read “April 1, 2018” -->
+  <!-- Amend § 1005.19 by revising the reference to “October 1, 2017” to read “April 1, 2019” -->
   <change operation="modified" label="1005-19-b">
     <paragraph label="1005-19-b" marker="(b)">
       <title type="keyterm">Submission of agreements to the Bureau</title>
@@ -125,7 +125,7 @@
   <change operation="modified" label="1005-19-f-1">
     <paragraph label="1005-19-f-1" marker="(1)">
       <title type="keyterm">Effective date generally.</title>
-      <content>Except as provided in paragraph <ref target="1005-19-f-2" reftype="internal">(f)(2)</ref>of this section, the requirements of this section apply to <ref target="1005-19-a-8" reftype="term">prepaid accounts</ref> beginning on April 1, 2018.</content>
+      <content>Except as provided in paragraph <ref target="1005-19-f-2" reftype="internal">(f)(2)</ref>of this section, the requirements of this section apply to <ref target="1005-19-a-8" reftype="term">prepaid accounts</ref> beginning on April 1, 2019.</content>
     </paragraph>
   </change>
 
