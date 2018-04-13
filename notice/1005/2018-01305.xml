@@ -487,7 +487,7 @@
   </change>
 
   <!-- b. Under Section 1005.18—Requirements for Financial Institutions Offering Prepaid Accounts, revise 18(a) Coverage, 18(b)(1) Timing of Disclosures, 18(b)(2) Short Form Disclosure Content, 18(b)(4) Long Form Disclosure Content, 18(b)(5) Disclosure Requirements Outside the Short Form Disclosure, 18(b)(6)(i) General, 18(b)(7)(ii) Prominence and Size, 18(b)(9) Prepaid Accounts Acquired in Foreign Languages, 18(c) Access to Prepaid Account Information, 18(e) Modified Limitations on Liability and Error Resolution Requirements, and 18(h) Effective Date and Special Transition Rules for Disclosure Provisions.-->
-  <change operation="added" label="1005-18-Interp" parent="1005-Subpart-A-Interp">
+  <change operation="added" label="1005-18-Interp" parent="1005-Interp">
     <interpSection label="1005-18-Interp" sectionNum="18">
       <title>Section 1005.18 Requirements for Financial Institutions Offering Payroll Card Accounts</title>
       <interpParagraph label="1005-18-a-Interp" marker="Interp" target="1005-18-a">
