@@ -386,10 +386,12 @@
           <paragraph label="1005-18-b-1" marker="(1)">
             <content>Timing of disclosures—</content>
             <paragraph label="1005-18-b-1-i" marker="(i)">
-              <content>General. Except as provided in paragraphs (b)(1)(ii) or (iii) of this section, a <ref target="1005-2-i" reftype="term">financial institution</ref> shall provide the disclosures required by paragraph (b) of this section before a <ref target="1005-2-e" reftype="term">consumer</ref> acquires a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref>.</content>
+              <title>General.</title>
+              <content>Except as provided in paragraphs (b)(1)(ii) or (iii) of this section, a <ref target="1005-2-i" reftype="term">financial institution</ref> shall provide the disclosures required by paragraph (b) of this section before a <ref target="1005-2-e" reftype="term">consumer</ref> acquires a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref>.</content>
             </paragraph>
             <paragraph label="1005-18-b-1-ii" marker="(ii)">
-              <content>Disclosures for <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> acquired in retail locations. A <ref target="1005-2-i" reftype="term">financial institution</ref> is not required to provide the long form disclosures required by paragraph (b)(4) of this section before a <ref target="1005-2-e" reftype="term">consumer</ref> acquires a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> in person at a retail location if the following conditions are met:</content>
+              <title>Disclosures for prepaid accounts acquired in retail locations.</title>
+              <content>A <ref target="1005-2-i" reftype="term">financial institution</ref> is not required to provide the long form disclosures required by paragraph (b)(4) of this section before a <ref target="1005-2-e" reftype="term">consumer</ref> acquires a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> in person at a retail location if the following conditions are met:</content>
               <paragraph label="1005-18-b-1-ii-A" marker="(A)">
                 <content>The <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> <ref target="1005-2-a-1" reftype="term">access device</ref> is contained inside the packaging material.</content>
               </paragraph>
@@ -404,7 +406,8 @@
               </paragraph>
             </paragraph>
             <paragraph label="1005-18-b-1-iii" marker="(iii)">
-              <content>Disclosures for <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> acquired orally by telephone. A <ref target="1005-2-i" reftype="term">financial institution</ref> is not required to provide the long form disclosures required by paragraph (b)(4) of this section before a <ref target="1005-2-e" reftype="term">consumer</ref> acquires a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> orally by telephone if the following conditions are met:</content>
+              <title>Disclosures for prepaid accounts acquired orally by telephone.</title>
+              <content>A <ref target="1005-2-i" reftype="term">financial institution</ref> is not required to provide the long form disclosures required by paragraph (b)(4) of this section before a <ref target="1005-2-e" reftype="term">consumer</ref> acquires a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> orally by telephone if the following conditions are met:</content>
               <paragraph label="1005-18-b-1-iii-A" marker="(A)">
                 <content>The <ref target="1005-2-i" reftype="term">financial institution</ref> communicates to the <ref target="1005-2-e" reftype="term">consumer</ref> orally, before the <ref target="1005-2-e" reftype="term">consumer</ref> acquires the <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref>, that the information required to be disclosed by paragraph <ref target="1005-18-b-4" reftype="internal">(b)(4)</ref> of this section is available both by telephone and on a Web site.</content>
               </paragraph>
@@ -417,7 +420,8 @@
             </paragraph>
           </paragraph>
           <paragraph label="1005-18-b-2" marker="(2)">
-            <content>Short form disclosure content. In accordance with paragraph (b<ref target="1005-18-b-1-ii" reftype="internal">)(1) of th</ref>is se<ref target="1005-18-b-1-iii" reftype="internal">ction</ref>, a <ref target="1005-2-i" reftype="term">financial institution</ref> shall provide a disclosure setting <ref target="1005-9-b" reftype="internal">forth the</ref> following fees and information for a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref>, as applicable:</content>
+            <title>Short form disclosure content.</title>
+            <content>In accordance with paragraph <ref target="1005-18-b-1" reftype="internal">(b)(1)</ref> of this section, a <ref target="1005-2-i" reftype="term">financial institution</ref> shall provide a disclosure setting forth the following fees and information for a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref>, as applicable:</content>
             <paragraph label="1005-18-b-2-i" marker="(i)">
               <title type="keyterm">Periodic fee.</title>
               <content>The periodic fee charged for holding the <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref>, assessed on a monthly or other periodic basis, using the term “Monthly fee,” “Annual fee,” or a substantially similar term.</content>
@@ -1589,8 +1593,8 @@
     </change>
     <change operation="modified" label="1005-12-b-Interp-2">
       <interpParagraph label="1005-12-b-Interp-2" marker="2.">
-        <title type="keyterm">Preemption determination.</title>
-        <content>Preemption determinations generally. The Bureau recognizes <ref target="1005-2-l" reftype="term">state</ref> law preemption determinations made by the Board of Governors of the Federal Reserve System prior to July 21, 2011, until and unless the Bureau makes and publishes any contrary determination.</content>
+        <title type="keyterm">Preemption determinations generally.</title>
+        <content>The Bureau recognizes <ref target="1005-2-l" reftype="term">state</ref> law preemption determinations made by the Board of Governors of the Federal Reserve System prior to July 21, 2011, until and unless the Bureau makes and publishes any contrary determination.</content>
       </interpParagraph>
     </change>
     <change operation="added" label="1005-12-b-Interp-3">
