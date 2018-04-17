@@ -378,13 +378,14 @@
         <subject>§ 1005.18 Requirements for financial institutions offering prepaid accounts.</subject>
         <paragraph label="1005-18-a" marker="(a)">
           <title type="keyterm">Coverage.</title>
-          <content>A <ref target="1005-2-i" reftype="term">financial institution</ref> shall comply with all applicable requirements of  and this part with respect to <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> except as modified by this section. For rules governing <ref target="1005-15-a-2" reftype="term">government benefit accounts</ref>, see § 1005.15.</content>
+          <content>A <ref target="1005-2-i" reftype="term">financial institution</ref> shall comply with all applicable requirements of the Act and this part with respect to <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> except as modified by this section. For rules governing <ref target="1005-15-a-2" reftype="term">government benefit accounts</ref>, see § 1005.15.</content>
         </paragraph>
         <paragraph label="1005-18-b" marker="(b)">
-          <title type="keyterm">Alternative to periodic statements.</title>
-          <content>Pre-acquisition disclosure requirements—</content>
+          <title type="keyterm">Pre-acquisition disclosure requirements.</title>
+          <content/>
           <paragraph label="1005-18-b-1" marker="(1)">
-            <content>Timing of disclosures—</content>
+            <title>Timing of disclosures.</title>
+            <content/>
             <paragraph label="1005-18-b-1-i" marker="(i)">
               <title>General.</title>
               <content>Except as provided in paragraphs (b)(1)(ii) or (iii) of this section, a <ref target="1005-2-i" reftype="term">financial institution</ref> shall provide the disclosures required by paragraph (b) of this section before a <ref target="1005-2-e" reftype="term">consumer</ref> acquires a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref>.</content>
