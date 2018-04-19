@@ -992,11 +992,104 @@
           </paragraph>
         </paragraph>
         <paragraph label="1005-19-b" marker="(b)">
-          <content>[Reserved]</content>
+          <title>Submission of agreements to the Bureau.</title>
+          <content/>
+          <paragraph label="1005-19-b-1" marker="(1)">
+            <title>Submissions on a rolling basis.</title>
+            <content>An issuer must make submissions of prepaid account agreements to the Bureau on a rolling basis, in the form and manner specified by the Bureau. Rolling submissions must be sent to the Bureau no later than 30 days after an issuer offers, amends, or ceases to offer any prepaid account agreement as described in paragraphs (b)(1)(ii) through (iv) of this section. Each submission must contain:</content>
+            <paragraph label="1005-19-b-1-i" marker="(i)">
+              <content>Identifying information about the issuer and the agreements submitted, including the issuer's name, address, and identifying number (such as an RSSD ID number or tax identification number), the effective date of the prepaid account agreement, the name of the program manager, if any, and the names of other relevant parties, if applicable (such as the employer for a payroll card program or the agency for a government benefit program);</content>
+            </paragraph>
+            <paragraph label="1005-19-b-1-ii" marker="(ii)">
+              <content>Any prepaid account agreement offered by the issuer that has not been previously submitted to the Bureau;</content>
+            </paragraph>
+            <paragraph label="1005-19-b-1-iii" marker="(iii)">
+              <content>Any prepaid account agreement previously submitted to the Bureau that has been amended, as described in paragraph (b)(2) of this section; and</content>
+            </paragraph>
+            <paragraph label="1005-19-b-1-iv" marker="(iv)">
+              <content>Notification regarding any prepaid account agreement previously submitted to the Bureau that the issuer is withdrawing, as described in paragraphs (b)(3), (b)(4)(ii), and (b)(5)(ii) of this section.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1005-19-b-2" marker="(2)">
+            <title>Amended agreements.</title>
+            <content>If a prepaid account agreement previously submitted to the Bureau is amended, the issuer must submit the entire amended agreement to the Bureau, in the form and manner specified by the Bureau, no later than 30 days after the change comes effective.</content>
+          </paragraph>
+          <paragraph label="1005-19-b-3" marker="(3)">
+            <title>Withdrawal of agreements no longer offered.</title>
+            <content>If an issuer no longer offers a prepaid account agreement that was previously submitted to the Bureau, the issuer must notify the Bureau, in the form and manner specified by the Bureau, no later than 30 days after the issuer ceases to offer the agreement, that it is withdrawing the agreement.</content>
+          </paragraph>
+          <paragraph label="1005-19-b-4" marker="(4)">
+            <title>De minimis exception.</title>
+            <content/>
+            <paragraph label="1005-19-b-4-i" marker="(i)">
+              <content>An issuer is not required to submit any prepaid account agreements to the Bureau if the issuer has fewer than 3,000 open prepaid accounts. If the issuer has 3,000 or more open prepaid accounts as of the last day of the calendar quarter, the issuer must submit to the Bureau its prepaid account agreements no later than 30 days after the last day of that calendar quarter.</content>
+            </paragraph>
+            <paragraph label="1005-19-b-4-ii" marker="(ii)">
+              <content>If an issuer that did not previously qualify for the de minimis exception newly qualifies for the de minimis exception, the issuer must continue to make submissions to the Bureau on a rolling basis until the issuer notifies the Bureau that the issuer is withdrawing all agreements it previously submitted to the Bureau.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1005-19-b-5" marker="(5)">
+            <title>Product testing exception.</title>
+            <content/>
+            <paragraph label="1005-19-b-5-i" marker="(i)">
+              <content>An issuer is not required to submit a prepaid account agreement to the Bureau if the agreement meets the criteria set forth in paragraphs (b)(5)(i)(A) through (C) of this section. If the agreement fails to meet the criteria set forth in paragraphs (b)(5)(i)(A) through (C) of this section as of the last day of the calendar quarter, the issuer must submit to the Bureau that prepaid account agreement no later than 30 days after the last day of that calendar quarter. An agreement qualifies for the product testing exception if the agreement:</content>
+              <paragraph label="1005-19-b-5-i-A" marker="(A)">
+                <content>Is offered as part of a product test offered to only a limited group of consumers for a limited period of time;</content>
+              </paragraph>
+              <paragraph label="1005-19-b-5-i-B" marker="(B)">
+                <content>Is used for fewer than 3,000 open prepaid accounts; and</content>
+              </paragraph>
+              <paragraph label="1005-19-b-5-i-C" marker="(C)">
+                <content>Is not offered other than in connection with such a product test.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1005-19-b-5-ii" marker="(ii)">
+              <content>If an agreement that did not previously qualify for the product testing exception newly qualifies for the exception, the issuer must continue to make submissions to the Bureau on a rolling basis with respect to that agreement until the issuer notifies the Bureau that the issuer is withdrawing the agreement.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1005-19-b-6" marker="(6)">
+            <title>Form and content of agreements submitted to the Bureau.</title>
+            <content/><paragraph label="1005-19-b-6-i" marker="(i)">
+              <title>Form and content generally.</title>
+              <content/>
+              <paragraph label="1005-19-b-6-i-A" marker="(A)">
+                <content>Each agreement must contain the provisions of the agreement and the fee information currently in effect.</content>
+              </paragraph>
+              <paragraph label="1005-19-b-6-i-B" marker="(B)">
+                <content>Agreements must not include any personally identifiable information relating to any consumer, such as name, address, telephone number, or account number.</content>
+              </paragraph>
+              <paragraph label="1005-19-b-6-i-C" marker="(C)">
+                <content>The following are not deemed to be part of the agreement for purposes of this section, and therefore are not required to be included in submissions to the Bureau:</content>
+                <paragraph label="1005-19-b-6-i-C-1" marker="(1)">
+                  <content>Ancillary disclosures required by state or Federal law, such as affiliate marketing notices, privacy policies, or disclosures under the E-Sign Act;</content>
+                </paragraph>
+                <paragraph label="1005-19-b-6-i-C-2" marker="(2)">
+                  <content>Solicitation or marketing materials;</content>
+                </paragraph>
+                <paragraph label="1005-19-b-6-i-C-3" marker="(3)">
+                  <content>Periodic statements; and</content>
+                </paragraph>
+                <paragraph label="1005-19-b-6-i-C-4" marker="(4)">
+                  <content>Documents that may be sent to the consumer along with the prepaid account or prepaid account agreement such as a cover letter, a validation sticker on the card, or other information about card security.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1005-19-b-6-i-D" marker="(D)">
+                <content>Agreements must be presented in a clear and legible font.</content>
+                <paragraph label="1005-19-b-6-i-D-ii" marker="(ii)">
+                  <title>Fee information.</title>
+                  <content>Fee information must be set forth either in the prepaid account agreement or in a single addendum to that agreement. The agreement or addendum thereto must contain all of the fee information, as defined by paragraph (a)(3) of this section.</content>
+                </paragraph>
+                <paragraph label="1005-19-b-6-i-D-iii" marker="(iii)">
+                  <title>Integrated agreement.</title>
+                  <content>An issuer may not provide provisions of the agreement or fee information to the Bureau in the form of change-in-terms notices or riders (other than the optional fee information addendum). Changes in provisions or fee information must be integrated into the text of the agreement, or the optional fee information addendum, as appropriate.</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+          </paragraph>
         </paragraph>
         <paragraph label="1005-19-c" marker="(c)">
           <title type="keyterm">Posting of agreements offered to the general public.</title>
-          <content></content>
+          <content/>
           <paragraph label="1005-19-c-1" marker="(1)">
             <content>An <ref target="1005-19-a-4" reftype="term">issuer</ref> must post and maintain on its publicly available Web site any <ref target="1005-19-a-1" reftype="term">prepaid account agreements</ref> offered to the general public that the <ref target="1005-19-a-4" reftype="term">issuer</ref> is required to submit to the Bureau under paragraph (b) of this section.</content>
           </paragraph>
