@@ -1760,7 +1760,7 @@
       </interpParagraph>
     </change>
     <change operation="added" label="1005-15-Interp" parent="1005-Interp">
-      <interpSection label="1005-15-Interp" sectionNum="15">
+      <interpSection label="1005-15-Interp" sectionNum="15" target="1005-15">
         <title>Section 1005.15—Electronic Fund Transfer of Government Benefits</title>
         <interpParagraph label="1005-15-c-Interp">
           <title>15(c) Pre-Acquisition Disclosure Requirements.</title>
@@ -1812,7 +1812,7 @@
       </interpSection>
     </change>
     <change operation="added" label="1005-19-Interp" parent="1005-Interp">
-      <interpSection label="1005-19-Interp" sectionNum="19">
+      <interpSection label="1005-19-Interp" sectionNum="19" target="1005-19">
         <title>Section 1005.19 Internet Posting of Prepaid Account Agreements</title>
         <interpParagraph label="1005-19-a-Interp">
           <title>19(a) Definitions.</title>
