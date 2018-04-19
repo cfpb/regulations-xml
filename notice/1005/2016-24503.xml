@@ -1811,7 +1811,6 @@
         </interpParagraph>
       </interpSection>
     </change>
-    <change operation="deleted" label="1005-18-Interp"/>
     <change operation="added" label="1005-19-Interp" parent="1005-Interp">
       <interpSection label="1005-19-Interp" sectionNum="19">
         <title>Section 1005.19 Internet Posting of Prepaid Account Agreements</title>
