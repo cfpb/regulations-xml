@@ -494,7 +494,7 @@
                 <title type="keyterm">Timing of initial assessment of additional fee type disclosure.</title>
                 <content/>
                 <paragraph label="1005-18-b-2-ix-D-1" marker="(1)">
-                  <content>Existing <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> programs as of October 1, 2017. For a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> program in effect as of October 1, 2017, the <ref target="1005-2-i" reftype="term">financial institution</ref> must disclose the additional fee types based on revenue for a 24-month period that begins no earlier than October 1, 2017.</content>
+                  <content>Existing <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> programs as of October 1, 2017. For a <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> program in effect as of October 1, 2017, the <ref target="1005-2-i" reftype="term">financial institution</ref> must disclose the additional fee types based on revenue for a 24-month period that begins no earlier than October 1, 2014.</content>
                 </paragraph>
                 <paragraph label="1005-18-b-2-ix-D-2" marker="(2)">
                   <content>Existing <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> programs as of October 1, 2017 with unavailable data. If a <ref target="1005-2-i" reftype="term">financial institution</ref> does not have 24 months of fee revenue data for a particular <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> program from which to calculate the additional fee types disclosure in advance of October 1, 2017, the <ref target="1005-2-i" reftype="term">financial institution</ref> must disclose the additional fee types based on revenue it reasonably anticipates the <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> program will generate over the 24-month period that begins on October 1, 2017.</content>
@@ -758,17 +758,15 @@
           </paragraph>
         </paragraph>
         <paragraph label="1005-18-c" marker="(c)">
-          <title type="keyterm">Modified requirements.</title>
-          <content>Access to <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> information —</content>
+          <title type="keyterm">Access to prepaid account information.</title>
+          <content/>
           <paragraph label="1005-18-c-1" marker="(1)">
-            <title type="keyterm">Initial disclosures.</title>
-            <content>Periodic statement alternative. A <ref target="1005-2-i" reftype="term">financial institution</ref> need not furnish periodic statements required by § <ref target="1005-9-b" reftype="internal">1005.9(b)</ref> if the <ref target="1005-2-i" reftype="term">financial institution</ref> makes available to the <ref target="1005-2-e" reftype="term">consumer</ref>:</content>
+            <title type="keyterm">Periodic statement alternative.</title>
+            <content>A <ref target="1005-2-i" reftype="term">financial institution</ref> need not furnish periodic statements required by § <ref target="1005-9-b" reftype="internal">1005.9(b)</ref> if the <ref target="1005-2-i" reftype="term">financial institution</ref> makes available to the <ref target="1005-2-e" reftype="term">consumer</ref>:</content>
             <paragraph label="1005-18-c-1-i" marker="(i)">
-              <title type="keyterm">Account information.</title>
               <content>The <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> balance, through a readily available telephone line;</content>
             </paragraph>
             <paragraph label="1005-18-c-1-ii" marker="(ii)">
-              <title type="keyterm">Error resolution.</title>
               <content>An electronic history of the <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> transactions, such as through a Web site, that covers at least 12 months preceding the date t<ref target="1005-A" reftype="internal">h</ref>e <ref target="1005-2-e" reftype="term">consumer</ref> electronically accesses the <ref target="1005-2-b-1" reftype="term">account</ref>; and</content>
             </paragraph>
             <paragraph label="1005-18-c-1-iii" marker="(iii)">
@@ -776,16 +774,16 @@
             </paragraph>
           </paragraph>
           <paragraph label="1005-18-c-2" marker="(2)">
-            <title type="keyterm">Annual error resolution notice.</title>
-            <content>Periodic statement alternative for unverified <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref>. For <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> that are not <ref target="1005-2-b-3-i-A" reftype="term">payroll card accounts</ref> or <ref target="1005-15-a-2" reftype="term">government benefit accounts</ref>, a <ref target="1005-2-i" reftype="term">financial institution</ref> is not required to provide <ref target="1005-A" reftype="internal">a</ref> written history of the <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> transacti<ref target="1005-8-b" reftype="internal">ons pursu</ref>ant to paragraph (c)(1)(iii) of this section for any <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> for which the <ref target="1005-2-i" reftype="term">financial institution</ref> has not completed its <ref target="1005-2-e" reftype="term">consumer</ref><ref target="1005-18-b-1" reftype="internal">sumer identif</ref>ication and verification process as described in paragraph (e)(3)(i)(A) through (C) of this section.</content>
+            <title type="keyterm">Periodic statement alternative for unverified prepaid accounts.</title>
+            <content>For <ref target="1005-2-b-3-i" reftype="term">prepaid accounts</ref> that are not <ref target="1005-2-b-3-i-A" reftype="term">payroll card accounts</ref> or <ref target="1005-15-a-2" reftype="term">government benefit accounts</ref>, a <ref target="1005-2-i" reftype="term">financial institution</ref> is not required to provide <ref target="1005-A" reftype="internal">a</ref> written history of the <ref target="1005-2-e" reftype="term">consumer</ref>'s <ref target="1005-2-b-1" reftype="term">account</ref> transacti<ref target="1005-8-b" reftype="internal">ons pursu</ref>ant to paragraph (c)(1)(iii) of this section for any <ref target="1005-2-b-3-i" reftype="term">prepaid account</ref> for which the <ref target="1005-2-i" reftype="term">financial institution</ref> has not completed its <ref target="1005-2-e" reftype="term">consumer</ref><ref target="1005-18-b-1" reftype="internal">sumer identif</ref>ication and verification process as described in paragraph (e)(3)(i)(A) through (C) of this section.</content>
           </paragraph>
           <paragraph label="1005-18-c-3" marker="(3)">
-            <title type="keyterm">Limitations on liability.</title>
-            <content>Information included on electronic or written histories. The history of <ref target="1005-2-b-1" reftype="term">account</ref> transactions provided under paragraphs (c)(1)(ii) and (iii) of this section must include the information set forth in § <ref target="1005-9-b" reftype="internal">1005.9(b)</ref>.</content>
+            <title type="keyterm">Information included on electronic or written histories.</title>
+            <content>The history of <ref target="1005-2-b-1" reftype="term">account</ref> transactions provided under paragraphs (c)(1)(ii) and (iii) of this section must include the information set forth in § <ref target="1005-9-b" reftype="internal">1005.9(b)</ref>.</content>
           </paragraph>
           <paragraph label="1005-18-c-4" marker="(4)">
-            <title type="keyterm">Error resolution.</title>
-            <content>Inclusion of all fees charged. A <ref target="1005-2-i" reftype="term">financial institution</ref> must disclose the amount of any fees assessed against the <ref target="1005-2-b-1" reftype="term">account</ref>, whether for <ref target="1005-3-b-1" reftype="term">electronic fund transfers</ref> or otherwise, on any periodic statement provided pursuant to § <ref target="1005-9-b" reftype="internal">1005.9(b)</ref> and on any history of <ref target="1005-2-b-1" reftype="term">account</ref> transactions provided or made available by the <ref target="1005-2-i" reftype="term">financial institution</ref>.</content>
+            <title type="keyterm">Inclusion of all fees charged.</title>
+            <content>A <ref target="1005-2-i" reftype="term">financial institution</ref> must disclose the amount of any fees assessed against the <ref target="1005-2-b-1" reftype="term">account</ref>, whether for <ref target="1005-3-b-1" reftype="term">electronic fund transfers</ref> or otherwise, on any periodic statement provided pursuant to § <ref target="1005-9-b" reftype="internal">1005.9(b)</ref> and on any history of <ref target="1005-2-b-1" reftype="term">account</ref> transactions provided or made available by the <ref target="1005-2-i" reftype="term">financial institution</ref>.</content>
           </paragraph>
           <paragraph label="1005-18-c-5" marker="(5)">
             <title type="keyterm">Summary totals of fees.</title>
