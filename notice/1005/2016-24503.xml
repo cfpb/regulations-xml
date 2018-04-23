@@ -116,7 +116,7 @@
         <paragraph label="1005-2-b-3-i" marker="(i)">
             <content>“<def term="prepaid account">Prepaid account</def>” means:</content>
           <paragraph label="1005-2-b-3-i-A" marker="(A)">
-              <content>A “<def term="payroll card account">payroll card account</def>,” which is an <ref target="1005-2-b-1" reftype="term">account</ref> that is directly or indirectly established through an employer and to which <ref target="1005-3-b-1" reftype="term">electronic fund transfers</ref> of the <ref target="1005-2-e" reftype="term">consumer</ref>'s wages, salary, or other employee compensation (such as commissions) are made on a recurring basis, whether the <ref target="1005-2-b-1" reftype="term">account</ref> is operated or managed by the employer, a third-party payroll processor, a depository institution, or any other <ref target="1005-2-j" reftype="term">person</ref>; or</content>
+            <content>A “<def term="payroll card account">payroll card account</def>,” which is an <ref target="1005-2-b-1" reftype="term">account</ref> that is directly or indirectly established through an employer and to which <ref target="1005-3-b-1" reftype="term">electronic fund transfers</ref> of the <ref target="1005-2-e" reftype="term">consumer</ref>'s wages, salary, or other employee compensation (such as commissions) are made on a recurring basis, whether the <ref target="1005-2-b-1" reftype="term">account</ref> is operated or managed by the employer, a third-party payroll processor, a depository institution, or any other <ref target="1005-2-j" reftype="term">person</ref>; or</content>
           </paragraph>
           <paragraph label="1005-2-b-3-i-B" marker="(B)">
             <content>A “<ref target="1005-15-a-2" reftype="term">government benefit account</ref>,” as defined in § <ref target="1005-15-a-2" reftype="internal">1005.15(a)(2)</ref>; or</content>
@@ -1369,42 +1369,42 @@
             <paragraph label="1005-A-7-p35" marker="">
               <content>[For accounts that are or can be registered:] [If your account is registered with us,] You also have the right to obtain at least 24 months of written history of account transactions by calling [telephone number], or by writing us at [address]. You will not be charged a fee for this information unless you request it more than once per month.</content>
             </paragraph>
-            <paragraph label="1005-A-7-b" marker="(b)">
-              <title>Disclosure of error-resolution procedures for financial institutions that do not provide periodic statements (§ 1005.18(d)(1)(ii) and (d)(2).</title>
-              <content/>
-              <paragraph label="1005-A-7-p36" marker="">
-                <content>In Case of Errors or Questions About Your Prepaid Account Telephone us at [telephone number] or Write us at [address] [or email us at [email address]] as soon as you can, if you think an error has occurred in your prepaid account. We must allow you to report an error until 60 days after the earlier of the date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared. You may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address]. You will need to tell us:</content>
-              </paragraph>
-              <paragraph label="1005-A-7-p37" marker="">
-                <content>Your name and [prepaid account] number.</content>
-              </paragraph>
-              <paragraph label="1005-A-7-p38" marker="">
-                <content>Why you believe there is an error, and the dollar amount involved.</content>
-              </paragraph>
-              <paragraph label="1005-A-7-p39" marker="">
-                <content>Approximately when the error took place. </content>
-              </paragraph>
-              <paragraph label="1005-A-7-p40" marker="">
-                <content>If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. .</content>
-              </paragraph>
-              <paragraph label="1005-A-7-p41" marker="">
-                <content>We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, [and your account is registered with us,] we will credit your account within 10 business days for the amount you think is in error, so that you will have the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account. [Keep reading to learn more about how to register your card.] .</content>
-              </paragraph>
-              <paragraph label="1005-A-7-p42" marker="">
-                <content>For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.</content>
-              </paragraph>
-              <paragraph label="1005-A-7-p43" marker="">
-                <content>We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation. </content>
-              </paragraph>
-              <paragraph label="1005-A-7-p44" marker="">
-                <content>You may ask for copies of the documents that we used in our investigation.</content>
-              </paragraph>
-              <paragraph label="1005-A-7-p45" marker="">
-                <content>If you need more information about our error-resolution procedures, call us at [telephone number] [the telephone number shown above] [or visit [Internet address]].</content>
-              </paragraph>
+          </paragraph>
+          <paragraph label="1005-A-7-b" marker="(b)">
+            <title>Disclosure of error-resolution procedures for financial institutions that do not provide periodic statements (§ 1005.18(d)(1)(ii) and (d)(2).</title>
+            <content/>
+            <paragraph label="1005-A-7-p36" marker="">
+              <content>In Case of Errors or Questions About Your Prepaid Account Telephone us at [telephone number] or Write us at [address] [or email us at [email address]] as soon as you can, if you think an error has occurred in your prepaid account. We must allow you to report an error until 60 days after the earlier of the date you electronically access your account, if the error could be viewed in your electronic history, or the date we sent the FIRST written history on which the error appeared. You may request a written history of your transactions at any time by calling us at [telephone number] or writing us at [address]. You will need to tell us:</content>
+            </paragraph>
+            <paragraph label="1005-A-7-p37" marker="">
+              <content>Your name and [prepaid account] number.</content>
+            </paragraph>
+            <paragraph label="1005-A-7-p38" marker="">
+              <content>Why you believe there is an error, and the dollar amount involved.</content>
+            </paragraph>
+            <paragraph label="1005-A-7-p39" marker="">
+              <content>Approximately when the error took place. </content>
+            </paragraph>
+            <paragraph label="1005-A-7-p40" marker="">
+              <content>If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. .</content>
+            </paragraph>
+            <paragraph label="1005-A-7-p41" marker="">
+              <content>We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, [and your account is registered with us,] we will credit your account within 10 business days for the amount you think is in error, so that you will have the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account. [Keep reading to learn more about how to register your card.] .</content>
+            </paragraph>
+            <paragraph label="1005-A-7-p42" marker="">
+              <content>For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error.</content>
+            </paragraph>
+            <paragraph label="1005-A-7-p43" marker="">
+              <content>We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation. </content>
+            </paragraph>
+            <paragraph label="1005-A-7-p44" marker="">
+              <content>You may ask for copies of the documents that we used in our investigation.</content>
+            </paragraph>
+            <paragraph label="1005-A-7-p45" marker="">
+              <content>If you need more information about our error-resolution procedures, call us at [telephone number] [the telephone number shown above] [or visit [Internet address]].</content>
             </paragraph>
           </paragraph>
-          <paragraph label="1005-A-7-c" marker="c">
+          <paragraph label="1005-A-7-c" marker="(c)">
             <title>Warning regarding unregistered prepaid accounts (§ 1005.18(e)(3)).</title>
             <content>It is important to register your prepaid account as soon as possible. Unless you register your account, we may not credit your account in the amount you think is in error until we complete our investigation. To register your account, go to [Internet address] or call us at [telephone number]. We will ask you for identifying information about yourself (including your full name, address, date of birth, and [Social Security Number] [government-issued identification number]), so that we can verify your identity.</content>
           </paragraph>
