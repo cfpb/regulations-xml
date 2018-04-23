@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2017-08-30</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>TRUTH IN LENDING</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <cfr>
+      <title>12</title>
+      <section>1026</section>
+    </cfr>
+    <documentNumber>2017-18003</documentNumber>
+    <effectiveDate>2018-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2017/08/30/2017-18003/truth-in-lending-regulation-z-annual-threshold-adjustments-credit-cards-hoepa-and-atrqm</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2017-15764" rightDocumentNumber="2017-18003">
+  <change operation="added" label="1026-32-a-1-ii-Interp-1-iv">
+    <interpParagraph label="1026-32-a-1-ii-Interp-1-iv" marker="iv.">
+      <content>For 2018, $1,052, reflecting a 2.2 percent increase in the CPI-U from June 2016 to June 2017, rounded to the nearest whole dollar.</content>
+    </interpParagraph>
+  </change>
+  <change operation="added" label="1026-32-a-1-ii-Interp-3-iv">
+    <interpParagraph label="1026-32-a-1-ii-Interp-3-iv" marker="iv.">
+      <content>For 2018, $21,032, reflecting a 2.2 percent increase in the CPI-U from June 2016 to June 2017, rounded to the nearest whole dollar.</content>
+    </interpParagraph>
+  </change>
+  <change operation="added" label="1026-43-e-3-ii-Interp-1-iv">
+    <interpParagraph label="1026-43-e-3-ii-Interp-1-iv" marker="iv.">
+      <content>For 2018, reflecting a 2.2 percent increase in the CPI-U that was reported on the preceding June 1, a covered transaction is not a qualified mortgage unless the transaction's total points and fees do not exceed:</content>
+      <interpParagraph label="1026-43-e-3-ii-Interp-1-iv-A" marker="A.">
+        <content>For a loan amount greater than or equal to $105,158: 3 percent of the total loan amount;</content>
+      </interpParagraph>
+      <interpParagraph label="1026-43-e-3-ii-Interp-1-iv-B" marker="B.">
+        <content>For a loan amount greater than or equal to $63,095 but less than $105,158: $3,155;</content>
+      </interpParagraph>
+      <interpParagraph label="1026-43-e-3-ii-Interp-1-iv-C" marker="C.">
+        <content>For a loan amount greater than or equal to $21,032 but less than $63,095: 5 percent of the total loan amount;</content>
+      </interpParagraph>
+      <interpParagraph label="1026-43-e-3-ii-Interp-1-iv-D" marker="D.">
+        <content>For a loan amount greater than or equal to $13,145 but less than $21,032: $1,052;</content>
+      </interpParagraph>
+      <interpParagraph label="1026-43-e-3-ii-Interp-1-iv-E" marker="E.">
+        <content>For a loan amount less than $13,145: 8 percent of the total loan amount.</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="added" label="1026-52-b-1-ii-Interp-2-i-E">
+    <interpParagraph label="1026-52-b-1-ii-Interp-2-i-E" marker="E.">
+      <content>Card issuers were permitted to impose a fee for violating the terms of an agreement if the fee did not exceed $27 under § 1026.52(b)(1)(ii)(A) and $38 under § 1026.52(b)(1)(ii)(B), through December 31, 2017.</content>
+    </interpParagraph>
+  </change>
+  </changeset>
+</notice>

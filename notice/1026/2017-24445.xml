@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2017-11-09</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>TRUTH IN LENDING</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <cfr>
+      <title>12</title>
+      <section>1026</section>
+    </cfr>
+    <documentNumber>2017-24445</documentNumber>
+    <effectiveDate>2018-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2017/11/09/2017-24445/truth-in-lending-regulation-z</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2017-24443" rightDocumentNumber="2017-24445">
+  <change operation="added" label="1026-3-b-Interp-3-ix">
+    <interpParagraph label="1026-3-b-Interp-3-ix" marker="ix.">
+      <content>From January 1, 2018 through December 31, 2018, the threshold amount is $55,800.</content>
+    </interpParagraph>
+  </change>
+  </changeset>
+</notice>
