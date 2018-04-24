@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2018-03-12</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>TRUTH IN LENDING</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>Z</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1026</section>
+    </cfr>
+    <documentNumber>2018-04823</documentNumber>
+    <effectiveDate>2018-04-19</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/articles/2018/03/12/2018-04823/mortgage-servicing-rules-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2016-18901" rightDocumentNumber="2018-04823">
+  <!-- Amend § 1026.41 by:
+       a. Revising paragraph (e)(5)(iv)(B); and
+       b. Removing paragraph (e)(5)(iv)(C).-->
+  <change operation="modified" label="1026-41-e-5-iv-B">
+    <paragraph label="1026-41-e-5-iv-B" marker="(B)">
+      <title type="keyterm">Single-statement exemption.</title>
+      <content>As of the date on which one of the events listed in paragraph <ref target="1026-41-e-5-iv-A" reftype="internal">(e)(5)(iv)(A)</ref>of this section occurs, a servicer is exempt from the requirements of this section with respect to the next periodic statement or coupon book that would otherwise be required but thereafter must provide modified or unmodified periodic statements or coupon books that comply with the requirements of this section.</content>
+    </paragraph>
+  </change>
+  <change operation="deleted" label="1026-41-e-5-iv-C"/>
+  <!-- Amend Supplement I to Part 1026 as follows:
+       a. Under Section 1026.41—Periodic Statements for Residential Mortgage Loans:
+       i. 41(e)(5)(iv)(B) Transitional single-billing-cycle exemption is revised; and
+       ii. 41(e)(5)(iv)(C) Timing of first modified or unmodified statement or coupon book after transition is removed. -->
+  <change operation="modified" label="1026-41-e-5-iv-B-Interp">
+    <interpParagraph label="1026-41-e-5-iv-B-Interp" marker="(B)">
+      <title>Single-Statement Exemption.</title>
+      <content/>
+      <interpParagraph label="1026-41-e-5-iv-B-Interp-1" marker="1.">
+        <title>Timing.</title>
+        <content>The exemption in § <ref target="1026-41-e-5-iv-B" reftype="internal">1026.41(e)(5)(iv)(B)</ref> applies with respect to a single periodic statement or coupon book following an event listed in § <ref target="1026-41-e-5-iv-A" reftype="internal">1026.41(e)(5)(iv)(A)</ref>. For example, assume that a mortgage loan has a monthly billing cycle, each payment due date is on the first day of the month following its respective billing cycle, and each payment due date has a 15-day courtesy period. In this scenario:</content>
+        <interpParagraph label="1026-41-e-5-iv-B-Interp-1-i" marker="i.">
+          <content>If an event listed in § 1026.41(e)(5)(iv)(A) occurs on October 6, before the end of the 15-day courtesy period provided for the October 1 payment due date, and the servicer has not yet provided a periodic statement or coupon book for the billing cycle with a November 1 payment due date, the servicer is exempt from providing a periodic statement or coupon book for that billing cycle. The servicer is required thereafter to resume providing periodic statements or coupon books that comply with the requirements of § 1026.41 by providing a modified or unmodified periodic statement or coupon book for the billing cycle with a December 1 payment due date within a reasonably prompt time after November 1 or the end of the 15-day courtesy period provided for the November 1 payment due date. See § 1026.41(b).</content>
+        </interpParagraph>
+        <interpParagraph label="1026-41-e-5-iv-B-Interp-1-ii" marker="ii.">
+          <content>If an event listed in § 1026.41(e)(5)(iv)(A) occurs on October 20, after the end of the 15-day courtesy period provided for the October 1 payment due date, and the servicer timely provided a periodic statement or coupon book for the billing cycle with the November 1 payment due date, the servicer is not required to correct the periodic statement or coupon book already provided and is exempt from providing the next periodic statement or coupon book, which is the one that would otherwise be required for the billing cycle with a December 1 payment due date. The servicer is required thereafter to resume providing periodic statements or coupon books that comply with the requirements of § 1026.41 by providing a modified or unmodified periodic statement or coupon book for the billing cycle with a January 1 payment due date within a reasonably prompt time after December 1 or the end of the 15-day courtesy period provided for the December 1 payment due date. See § 1026.41(b).</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-41-e-5-iv-B-Interp-2" marker="2.">
+        <title>Duplicate coupon books not required.</title>
+        <content>If a servicer provides a coupon book instead of a periodic statement under § 1026.41(e)(3), § 1026.41 requires the servicer to provide a new coupon book after one of the events listed in § 1026.41(e)(5)(iv)(A) occurs only to the extent the servicer has not previously provided the consumer with a coupon book that covers the upcoming billing cycle.</content>
+      </interpParagraph>
+      <interpParagraph label="1026-41-e-5-iv-B-Interp-3" marker="3.">
+        <title>Subsequent triggering events.</title>
+        <content>The single-statement exemption in § 1026.41(e)(5)(iv)(B) might apply more than once over the life of a loan. For example, assume the exemption applies beginning on April 14 because the consumer files for bankruptcy on that date and the bankruptcy plan provides that the consumer will surrender the dwelling, such that the mortgage loan becomes subject to the requirements of § 1026.41(f). See § 1026.41(e)(5)(iv)(A)(1). If the consumer later exits bankruptcy on November 2 and has not discharged personal liability for the mortgage loan pursuant to 11 U.S.C. 727, 1141, 1228, or 1328, such that the mortgage loan ceases to be subject to the requirements of § 1026.41(f), the single-statement exemption would apply again beginning on November 2. See § 1026.41(e)(5)(iv)(A)(2).</content>
+      </interpParagraph>
+    </interpParagraph>
+  </change>
+  <change operation="deleted" label="1026-41-e-5-iv-C-Interp"/>
+  </changeset>
+</notice>
