@@ -22,7 +22,7 @@
   <changeset leftDocumentNumber="2017-15764" rightDocumentNumber="2016-18901">
   <change operation="modified" label="1026-2-a-11">
     <paragraph label="1026-2-a-11" marker="(11)">
-      <content><def term="consumer">Consumer</def> means a cardholder or natural <ref target="1026-2-a-22" reftype="term">person</ref> to whom <ref target="1026-2-a-12" reftype="term">consumer credit</ref> is offered or extended. However, for purposes of rescission under §§ <ref target="1026-15" reftype="internal">1026.15</ref> and <ref target="1026-23" reftype="internal">1026.23</ref>, the term also includes a natural <ref target="1026-2-a-22" reftype="term">person</ref> in whose principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> a <ref target="1026-2-a-25" reftype="term">security interest</ref> is or will be retained or acquired, if that <ref target="1026-2-a-22" reftype="term">person</ref>'s ownership interest in the <ref target="1026-2-a-19" reftype="term">dwelling</ref> is or will be subject to the <ref target="1026-2-a-25" reftype="term">security interest</ref>.</content>
+      <content><def term="consumer">Consumer</def> means a cardholder or natural <ref target="1026-2-a-22" reftype="term">person</ref> to whom <ref target="1026-2-a-12" reftype="term">consumer credit</ref> is offered or extended. However, for purposes of rescission under §§ <ref target="1026-15" reftype="internal">1026.15</ref> and <ref target="1026-23" reftype="internal">1026.23</ref>, the term also includes a natural <ref target="1026-2-a-22" reftype="term">person</ref> in whose principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> a <ref target="1026-2-a-25" reftype="term">security interest</ref> is or will be retained or acquired, if that <ref target="1026-2-a-22" reftype="term">person</ref>'s ownership interest in the <ref target="1026-2-a-19" reftype="term">dwelling</ref> is or will be subject to the <ref target="1026-2-a-25" reftype="term">security interest</ref>. For purposes of §§ <ref target="1026-20-c" reftype="internal">1026.20(c)</ref> through <ref target="1026-20-e" reftype="internal">(e)</ref>, <ref target="1026-36-c" reftype="internal">1026.36(c)</ref>, <ref target="1026-39" reftype="internal">1026.39</ref>, and <ref target="1026-41" reftype="internal">1026.41</ref>, the term includes a confirmed successor in interest.</content>
     </paragraph>
   </change>
   <change operation="added" label="1026-2-a-27" parent="1026-2-a">
@@ -467,16 +467,22 @@
       <content>The requirements of § 1026.20(e)(4) to provide the § 1026.20(e) disclosures with the headings, content, order, and format substantially similar to model form H-29 in appendix H to this part do not preclude creditors and servicers from modifying the disclosures to accommodate particular consumer circumstances or transactions not addressed by the form or from adjusting the statement required by § 1026.20(e)(2)(ii)(A), concerning consequences if the consumer fails to pay property costs, to the circumstances of the particular consumer.</content>
     </interpParagraph>
   </change>
-  <change operation="added" label="1026-36-c-1-iii-Interp-4" parent="1026-36-c-1-iii-Interp">
-    <interpParagraph label="1026-36-c-1-iii-Interp-4" marker="4.">
+  <change operation="added" label="1026-36-c-1-i-Interp-4" parent="1026-36-c-1-i-Interp">
+    <interpParagraph label="1026-36-c-1-i-Interp-4" marker="4.">
       <title>Temporary loss mitigation programs.</title>
       <content>If a loan contract has not been permanently modified but the consumer has agreed to a temporary loss mitigation program, a periodic payment under § 1026.36(c)(1)(i) is the amount sufficient to cover principal, interest, and escrow (if applicable) for a given billing cycle under the loan contract, regardless of the payment due under the temporary loss mitigation program.</content>
     </interpParagraph>
   </change>
-  <change operation="added" label="1026-36-c-1-iii-Interp-5" parent="1026-36-c-1-iii-Interp">
-    <interpParagraph label="1026-36-c-1-iii-Interp-5" marker="5.">
+  <change operation="added" label="1026-36-c-1-i-Interp-5" parent="1026-36-c-1-i-Interp">
+    <interpParagraph label="1026-36-c-1-i-Interp-5" marker="5.">
       <title>Permanent loan modifications.</title>
       <content>If a loan contract has been permanently modified, a periodic payment under § 1026.36(c)(1)(i) is an amount sufficient to cover principal, interest, and escrow (if applicable) for a given billing cycle under the modified loan contract.</content>
+    </interpParagraph>
+  </change>
+  <change operation="modified" label="1026-36-c-1-iii-Interp-2" parent="1026-36-c-1-iii-Interp">
+    <interpParagraph label="1026-36-c-1-iii-Interp-2" marker="2.">
+      <title>Payment requirements—Limitations.</title>
+      <content>Requirements for making payments must be reasonable; it should not be difficult for most consumers and potential successors in interest to make conforming payments. For example, it would be reasonable to require a cut-off time of 5 p.m. for receipt of a mailed check at the location specified by the servicer for receipt of such check.</content>
     </interpParagraph>
   </change>
   <change operation="modified" label="1026-41-a-Interp-1">
