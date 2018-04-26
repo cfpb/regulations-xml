@@ -1107,10 +1107,10 @@
         <appendixSection appendixSecNum="15" label="1026-H-4(I)">
           <subject>H-4(I)—Introductory Rate Model Clause</subject>
           <paragraph label="1026-H-4(I)-p64" marker="">
-            <content>[<ref target="1026-16-g-2-ii" reftype="term">Introductory Rate</ref> Notice</content>
+            <content>[Introductory Rate Notice</content>
           </paragraph>
           <paragraph label="1026-H-4(I)-p65" marker="">
-            <content>You have a discounted <ref target="1026-16-g-2-ii" reftype="term">introductory rate</ref> of ____ % that ends after (period).</content>
+            <content>You have a discounted introductory rate of ____ % that ends after (period).</content>
           </paragraph>
           <paragraph label="1026-H-4(I)-p66" marker="">
             <content>In the (period in sequence), even if market rates do not change, this rate will increase to __ %.]</content>
@@ -2328,7 +2328,7 @@
         <interpParagraph label="1026-H-Interp-7-v" marker="v.">
           <content>Model <ref target="1026-H-4(H)" reftype="internal">H-4(H)</ref> illustrates the interest rate and payment summary table required under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> for a fixed-rate, <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> mortgage transaction.</content></interpParagraph>
         <interpParagraph label="1026-H-Interp-7-vi" marker="vi.">
-          <content>Model <ref target="1026-H-4(I)" reftype="internal">H-4(I)</ref> illustrates the <ref target="1026-16-g-2-ii" reftype="term">introductory rate</ref> disclosure required by § <ref target="1026-18-s-2-iii" reftype="internal">1026.18(s)(2)(iii)</ref> for an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> transaction with an <ref target="1026-16-g-2-ii" reftype="term">introductory rate</ref>.</content></interpParagraph>
+          <content>Model <ref target="1026-H-4(I)" reftype="internal">H-4(I)</ref> illustrates the introductory rate disclosure required by § <ref target="1026-18-s-2-iii" reftype="internal">1026.18(s)(2)(iii)</ref> for an <ref target="1026-18-s-7-i" reftype="term">adjustable-rate mortgage</ref> transaction with an introductory rate.</content></interpParagraph>
         <interpParagraph label="1026-H-Interp-7-vii" marker="vii.">
           <content>Model <ref target="1026-H-4(J)" reftype="internal">H-4(J)</ref> illustrates the balloon payment disclosure required by § <ref target="1026-18-s-5" reftype="internal">1026.18(s)(5)</ref> for a mortgage transaction with a balloon payment term.</content>
         </interpParagraph>
