@@ -62,10 +62,12 @@
       <title>Payment processing.</title>
       <content>In connection with a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>:</content>
       <paragraph label="1026-36-c-1-i" marker="(i)">
-        <content>Periodic payments. No servicer shall fail to <ref target="1026-2-a-14" reftype="term">credit</ref> a periodic payment to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s loan account as of the date of receipt, except when a delay in crediting does not result in any charge to the <ref target="1026-2-a-11" reftype="term">consumer</ref> or in the reporting of negative information to a <ref target="1026-2-a-11" reftype="term">consumer</ref> reporti<ref target="1026-36-c-2" reftype="internal">ng age</ref>ncy, or except as provided in paragraph (c)(1)(iii) of this section. A periodic payment, as used in this paragraph (c), is an amount sufficient to cover principal, interest, and escrow (if applicable) for a given <ref target="1026-2-a-4" reftype="term">billing cycle</ref>. A payment qualifies as a periodic payment even if it does not include amounts required to cover late fees, other fees, or non-escrow payments a servicer has advanced on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s behalf.</content>
+        <title>Periodic payments.</title>
+        <content>No servicer shall fail to <ref target="1026-2-a-14" reftype="term">credit</ref> a periodic payment to the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s loan account as of the date of receipt, except when a delay in crediting does not result in any charge to the <ref target="1026-2-a-11" reftype="term">consumer</ref> or in the reporting of negative information to a <ref target="1026-2-a-11" reftype="term">consumer</ref> reporti<ref target="1026-36-c-2" reftype="internal">ng age</ref>ncy, or except as provided in paragraph (c)(1)(iii) of this section. A periodic payment, as used in this paragraph (c), is an amount sufficient to cover principal, interest, and escrow (if applicable) for a given <ref target="1026-2-a-4" reftype="term">billing cycle</ref>. A payment qualifies as a periodic payment even if it does not include amounts required to cover late fees, other fees, or non-escrow payments a servicer has advanced on a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s behalf.</content>
       </paragraph>
       <paragraph label="1026-36-c-1-ii" marker="(ii)">
-        <content>Partial payments. Any servicer that retains a partial payment, meaning any payment less than a periodic payment, in a suspense or unapplied funds account shall:</content>
+        <title>Partial payments.</title>
+        <content>Any servicer that retains a partial payment, meaning any payment less than a periodic payment, in a suspense or unapplied funds account shall:</content>
         <paragraph label="1026-36-c-1-ii-A" marker="(A)">
           <content>Disclose to the <ref target="1026-2-a-11" reftype="term">consumer</ref> the total amount of funds held in such suspense or unapplied funds account on the periodic statement as required by § <ref target="1026-41-d-3" reftype="internal">1026.41(d)(3)</ref>, if a periodic statement is required; and</content>
         </paragraph>
@@ -74,7 +76,8 @@
         </paragraph>
       </paragraph>
       <paragraph label="1026-36-c-1-iii" marker="(iii)">
-        <content>Non-conforming payments. If a servicer specifies in writing requirements for the <ref target="1026-2-a-11" reftype="term">consumer</ref> to follow in making payments, but accepts a payment that does not conform to the requirements, the servicer shall <ref target="1026-2-a-14" reftype="term">credit</ref> the payment as of five days after receipt.</content>
+        <title>Non-conforming payments.</title>
+        <content>If a servicer specifies in writing requirements for the <ref target="1026-2-a-11" reftype="term">consumer</ref> to follow in making payments, but accepts a payment that does not conform to the requirements, the servicer shall <ref target="1026-2-a-14" reftype="term">credit</ref> the payment as of five days after receipt.</content>
       </paragraph>
     </paragraph>
   </change>
@@ -184,6 +187,101 @@
           <content>A servicer may not retroactively assess fees or interest on the account for the period of time during which the exemption in paragraph (e)(6)(i) of this section applied.</content>
         </paragraph>
       </paragraph>
+    </paragraph>
+  </change>
+  <change operation="added" label="1026-41-f" parent="1026-41">
+    <paragraph label="1026-41-f" marker="(f)">
+      <title>Modified periodic statements and coupon books for certain consumers in bankruptcy.</title>
+      <content>While any consumer on a mortgage loan is a debtor in bankruptcy under title 11 of the United States Code, or if such consumer has discharged personal liability for the mortgage loan pursuant to 11 U.S.C. 727, 1141, 1228, or 1328, the requirements of this section are subject to the following modifications with regard to that mortgage loan:</content>
+      <paragraph label="1026-41-f-1" marker="(1)">
+        <title>Requirements not applicable.</title>
+        <content>The periodic statement may omit the information set forth in paragraphs (d)(1)(ii) and (d)(8)(i), (ii), and (v) of this section. The requirement in paragraph (d)(1)(iii) of this section that the amount due must be shown more prominently than other disclosures on the page shall not apply.</content>
+      </paragraph>
+      <paragraph label="1026-41-f-2" marker="(2)">
+        <title>Bankruptcy notices.</title>
+        <content>The periodic statement must include the following:</content>
+        <paragraph label="1026-41-f-2-i" marker="(i)">
+          <content>A statement identifying the consumer's status as a debtor in bankruptcy or the discharged status of the mortgage loan; and</content>
+        </paragraph>
+        <paragraph label="1026-41-f-2-ii" marker="(ii)">
+          <content>A statement that the periodic statement is for informational purposes only.</content>
+        </paragraph>
+      </paragraph>
+      <paragraph label="1026-41-f-3" marker="(3)">
+        <title>Chapter 12 and chapter 13 consumers.</title>
+        <content>In addition to any other provisions of this paragraph (f) that may apply, with regard to a mortgage loan for which any consumer with primary liability is a debtor in a chapter 12 or chapter 13 bankruptcy case, the requirements of this section are subject to the following modifications:</content>
+        <paragraph label="1026-41-f-3-i" marker="(i)">
+          <title>Requirements not applicable.</title>
+          <content>In addition to omitting the information set forth in paragraph (f)(1) of this section, the periodic statement may also omit the information set forth in paragraphs (d)(8)(iii), (iv), (vi), and (vii) of this section.</content>
+        </paragraph>
+        <paragraph label="1026-41-f-3-ii" marker="(ii)">
+          <title>Amount due.</title>
+          <content>The amount due information set forth in paragraph (d)(1) of this section may be limited to the date and amount of the post-petition payments due and any post-petition fees and charges imposed by the servicer.</content>
+        </paragraph>
+        <paragraph label="1026-41-f-3-iii" marker="(iii)">
+          <title>Explanation of amount due.</title>
+          <content>The explanation of amount due information set forth in paragraph (d)(2) of this section may be limited to:</content>
+          <paragraph label="1026-41-f-3-iii-A" marker="(A)">
+            <content>The monthly post-petition payment amount, including a breakdown showing how much, if any, will be applied to principal, interest, and escrow;</content>
+          </paragraph>
+          <paragraph label="1026-41-f-3-iii-B" marker="(B)">
+            <content>The total sum of any post-petition fees or charges imposed since the last statement; and</content>
+          </paragraph>
+          <paragraph label="1026-41-f-3-iii-C" marker="(C)">
+            <content>Any post-petition payment amount past due.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-41-f-3-iv" marker="(iv)">
+          <title>Transaction activity.</title>
+          <content>The transaction activity information set forth in paragraph (d)(4) of this section must include all payments the servicer has received since the last statement, including all post-petition and pre-petition payments and payments of post-petition fees and charges, and all post-petition fees and charges the servicer has imposed since the last statement. The brief description of the activity need not identify the source of any payments.</content>
+        </paragraph>
+        <paragraph label="1026-41-f-3-v" marker="(v)">
+          <title>Pre-petition arrearage.</title>
+          <content>If applicable, a servicer must disclose, grouped in close proximity to each other and located on the first page of the statement or, alternatively, on a separate page enclosed with the periodic statement or in a separate letter:</content>
+          <paragraph label="1026-41-f-3-v-A" marker="(A)">
+            <content>The total of all pre-petition payments received since the last statement;</content>
+          </paragraph>
+          <paragraph label="1026-41-f-3-v-B" marker="(B)">
+            <content>The total of all pre-petition payments received since the beginning of the consumer's bankruptcy case; and</content>
+          </paragraph>
+          <paragraph label="1026-41-f-3-v-C" marker="(C)">
+            <content>The current balance of the consumer's pre-petition arrearage.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1026-41-f-3-vi" marker="(vi)">
+          <title>Additional disclosures.</title>
+          <content>The periodic statement must include, as applicable:</content>
+          <paragraph label="1026-41-f-3-vi-A" marker="(A)">
+            <content>A statement that the amount due includes only post-petition payments and does not include other payments that may be due under the terms of the consumer's bankruptcy plan;</content>
+          </paragraph>
+          <paragraph label="1026-41-f-3-vi-B" marker="(B)">
+            <content>If the consumer's bankruptcy plan requires the consumer to make the post-petition mortgage payments directly to a bankruptcy trustee, a statement that the consumer should send the payment to the trustee and not to the servicer;</content>
+          </paragraph>
+          <paragraph label="1026-41-f-3-vi-C" marker="(C)">
+            <content>A statement that the information disclosed on the periodic statement may not include payments the consumer has made to the trustee and may not be consistent with the trustee's records;</content>
+          </paragraph>
+          <paragraph label="1026-41-f-3-vi-D" marker="(D)">
+            <content>A statement that encourages the consumer to contact the consumer's attorney or the trustee with questions regarding the application of payments; and</content>
+          </paragraph>
+          <paragraph label="1026-41-f-3-vi-E" marker="(E)">
+            <content>If the consumer is more than 45 days delinquent on post-petition payments, a statement that the servicer has not received all the payments that became due since the consumer filed for bankruptcy.</content>
+          </paragraph>
+        </paragraph>
+      </paragraph>
+      <paragraph label="1026-41-f-4" marker="(4)">
+        <title>Multiple obligors.</title>
+        <content>If this paragraph (f) applies in connection with a mortgage loan with more than one primary obligor, the servicer may provide the modified statement to any or all of the primary obligors, even if a primary obligor to whom the servicer provides the modified statement is not a debtor in bankruptcy.</content>
+      </paragraph>
+      <paragraph label="1026-41-f-5" marker="(5)">
+        <title>Coupon books.</title>
+        <content>A servicer that provides a coupon book instead of a periodic statement under paragraph (e)(3) of this section must include in the coupon book the disclosures set forth in paragraphs (f)(2) and (f)(3)(vi) of this section, as applicable. The servicer may include these disclosures anywhere in the coupon book provided to the consumer or on a separate page enclosed with the coupon book. The servicer must make available upon request to the consumer by telephone, in writing, in person, or electronically, if the consumer consents, the information listed in paragraph (f)(3)(v) of this section, as applicable. The modifications set forth in paragraphs (f)(1) and (f)(3)(i) through (iv) and (vi) of this section apply to a coupon book and other information a servicer provides to the consumer under paragraph (e)(3) of this section.</content>
+      </paragraph>
+    </paragraph>
+  </change>
+  <change operation="added" label="1026-41-g" parent="1026-41">
+    <paragraph label="1026-41-g" marker="(g)">
+      <title>Successor in interest.</title>
+      <content>If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with Regulation X, § 1024.32(c)(1) of this chapter, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by this section unless and until the confirmed successor in interest either assumes the mortgage loan obligation under State law or has provided the servicer an executed acknowledgment in accordance with Regulation X, § 1024.32(c)(1)(iv) of this chapter, that the confirmed successor in interest has not revoked.</content>
     </paragraph>
   </change>
   <change operation="modified" label="1026-H-4(C)">
@@ -714,7 +812,7 @@
           <content/>
           <interpParagraph label="1026-41-e-5-ii-Interp-1" marker="1.">
             <title>Form of periodic statement or coupon book.</title>
-            <content>Section <ref target="1026-41-e-5-ii" reftype="internal">1026.41(e)(5)(ii)</ref> generally requires a servicer, notwithstanding § 1026.41(e)(5)(i), to resume providing a periodic statement or coupon book if the consumer in bankruptcy reaffirms personal liability for the mortgage loan or any consumer on the mortgage loan requests in writing that the servicer provide a periodic statement or coupon book. Whether a servicer provides a periodic statement or coupon book as modified by § 1026.41(f) or an unmodified periodic statement or coupon book depends on whether or not § 1026.41(f) applies to that mortgage loan at that time. For example, § 1026.41(f) does not apply with respect to a mortgage loan once the consumer has reaffirmed personal liability; therefore, following a consumer's reaffirmation, a servicer generally would provide a periodic statement or coupon book that complies with § 1026.41 but without the modifications set forth in § 1026.41(f). See comment 41(f)-6. Section 1026.41(f) does apply, however, with respect to a mortgage loan following a consumer's written request to receive a periodic statement or coupon book, so long as any consumer on the mortgage loan remains in bankruptcy or has discharged personal liability for the mortgage loan; accordingly, following that written request, a servicer must provide a periodic statement or coupon book that includes the modifications set forth in § 1026.41(f).</content>
+            <content>Section 1026.41(e)(5)(ii) generally requires a servicer, notwithstanding § 1026.41(e)(5)(i), to resume providing a periodic statement or coupon book if the consumer in bankruptcy reaffirms personal liability for the mortgage loan or any consumer on the mortgage loan requests in writing that the servicer provide a periodic statement or coupon book. Whether a servicer provides a periodic statement or coupon book as modified by § 1026.41(f) or an unmodified periodic statement or coupon book depends on whether or not § 1026.41(f) applies to that mortgage loan at that time. For example, § 1026.41(f) does not apply with respect to a mortgage loan once the consumer has reaffirmed personal liability; therefore, following a consumer's reaffirmation, a servicer generally would provide a periodic statement or coupon book that complies with § 1026.41 but without the modifications set forth in § 1026.41(f). See comment 41(f)-6. Section 1026.41(f) does apply, however, with respect to a mortgage loan following a consumer's written request to receive a periodic statement or coupon book, so long as any consumer on the mortgage loan remains in bankruptcy or has discharged personal liability for the mortgage loan; accordingly, following that written request, a servicer must provide a periodic statement or coupon book that includes the modifications set forth in § 1026.41(f).</content>
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-41-e-5-iv-Interp">
@@ -725,11 +823,11 @@
             <content/>
             <interpParagraph label="1026-41-e-5-iv-A-Interp-1" marker="1.">
               <title>Section 1026.41(f) becomes applicable or ceases to apply.</title>
-              <content>Section <ref target="1026-41-e-5-iv" reftype="internal">1026.41(e)(5)(iv)</ref> sets forth the time period in which a servicer must provide a periodic statement or coupon book for the first time after a mortgage loan either becomes subject to the requirements of § 1026.41(f) or ceases to be subject to the requirements of § 1026.41(f). A mortgage loan becomes subject to the requirements of § 1026.41(f) when, for example, any consumer on the mortgage loan becomes a debtor in bankruptcy or discharges personal liability for the mortgage loan. A mortgage loan may cease to be subject to the requirements of § 1026.41(f) when, for example, the consumer in bankruptcy reaffirms personal liability for a mortgage loan or the consumer's bankruptcy case is closed or dismissed without the consumer having discharged personal liability for the mortgage loan. See comment 41(f)-6.</content>
+              <content>Section 1026.41(e)(5)(iv) sets forth the time period in which a servicer must provide a periodic statement or coupon book for the first time after a mortgage loan either becomes subject to the requirements of § 1026.41(f) or ceases to be subject to the requirements of § 1026.41(f). A mortgage loan becomes subject to the requirements of § 1026.41(f) when, for example, any consumer on the mortgage loan becomes a debtor in bankruptcy or discharges personal liability for the mortgage loan. A mortgage loan may cease to be subject to the requirements of § 1026.41(f) when, for example, the consumer in bankruptcy reaffirms personal liability for a mortgage loan or the consumer's bankruptcy case is closed or dismissed without the consumer having discharged personal liability for the mortgage loan. See comment 41(f)-6.</content>
             </interpParagraph>
             <interpParagraph label="1026-41-e-5-iv-A-Interp-2" marker="2.">
               <title>Servicer ceases to qualify for an exemption.</title>
-              <content>Section <ref target="1026-41-e-5-iv" reftype="internal">1026.41(e)(5)(iv)</ref> sets forth the time period in which a servicer must provide a periodic statement or coupon book for the first time after a servicer ceases to qualify for an exemption pursuant to § 1026.41(e)(5)(i) with respect to a mortgage loan. A servicer ceases to qualify for an exemption pursuant to § 1026.41(e)(5)(i) with respect to a mortgage loan when, for example:</content>
+              <content>Section 1026.41(e)(5)(iv) sets forth the time period in which a servicer must provide a periodic statement or coupon book for the first time after a servicer ceases to qualify for an exemption pursuant to § 1026.41(e)(5)(i) with respect to a mortgage loan. A servicer ceases to qualify for an exemption pursuant to § 1026.41(e)(5)(i) with respect to a mortgage loan when, for example:</content>
               <interpParagraph label="1026-41-e-5-iv-A-Interp-2-i" marker="i.">
                 <content>The consumer's bankruptcy case is dismissed or closed without the consumer having discharged personal liability for the mortgage loan;</content>
               </interpParagraph>
@@ -759,11 +857,11 @@
             <content/>
             <interpParagraph label="1026-41-e-5-iv-C-Interp-1" marker="1.">
               <title>Reasonably prompt time.</title>
-              <content>Section <ref target="1026-41-e-5-iv-C" reftype="internal">1026.41(e)(5)(iv)(C)</ref> requires that, when one of the events listed in § 1026.41(e)(5)(iv)(A) occurs, a servicer must provide the next periodic statement or coupon book by delivering or placing it in the mail within a reasonably prompt time after the next payment due date, or the end of any courtesy period for the payment's corresponding billing cycle, that is more than 14 days after the date on which the applicable event listed in § 1026.41(e)(5)(iv)(A) occurs. Delivering, emailing, or placing the periodic statement or coupon book in the mail within four days after the payment due date or the end of the courtesy period generally would be considered reasonably prompt. See comment 41(b)-1.</content>
+              <content>Section 1026.41(e)(5)(iv)(C) requires that, when one of the events listed in § 1026.41(e)(5)(iv)(A) occurs, a servicer must provide the next periodic statement or coupon book by delivering or placing it in the mail within a reasonably prompt time after the next payment due date, or the end of any courtesy period for the payment's corresponding billing cycle, that is more than 14 days after the date on which the applicable event listed in § 1026.41(e)(5)(iv)(A) occurs. Delivering, emailing, or placing the periodic statement or coupon book in the mail within four days after the payment due date or the end of the courtesy period generally would be considered reasonably prompt. See comment 41(b)-1.</content>
             </interpParagraph>
             <interpParagraph label="1026-41-e-5-iv-C-Interp-2" marker="2.">
               <title>Subsequent periodic statements or coupon books.</title>
-              <content>Section <ref target="1026-41-e-5-iv-C" reftype="internal">1026.41(e)(5)(iv)(C)</ref> applies to the timing of only the first periodic statement or coupon book a servicer provides after one of the events listed in § 1026.41(e)(5)(iv)(A) occurs. For subsequent billing cycles, a servicer must provide a periodic statement or coupon book in accordance with the timing requirements of § 1026.41(a)(2) and (b), as applicable.</content>
+              <content>Section 1026.41(e)(5)(iv)(C) applies to the timing of only the first periodic statement or coupon book a servicer provides after one of the events listed in § 1026.41(e)(5)(iv)(A) occurs. For subsequent billing cycles, a servicer must provide a periodic statement or coupon book in accordance with the timing requirements of § 1026.41(a)(2) and (b), as applicable.</content>
             </interpParagraph>
             <interpParagraph label="1026-41-e-5-iv-C-Interp-3" marker="3.">
               <title>Duplicate coupon books not required.</title>
@@ -794,7 +892,7 @@
       <content/>
       <interpParagraph label="1026-41-e-6-i-B-Interp-1" marker="1.">
         <title>Clearly and conspicuously.</title>
-        <content>Section <ref target="1026-41-e-6-i-B" reftype="internal">1026.41(e)(6)(i)(B)</ref> requires that the periodic statement be clearly and conspicuously labeled “Suspension of Statements &amp; Notice of Charge Off—Retain This Copy for Your Records” and that it clearly and conspicuously provide certain explanations to the consumer, as applicable, but no minimum type size or other technical requirements are imposed. The clear and conspicuous standard generally requires that disclosures be in a reasonably understandable form and readily noticeable to the consumer. See comment 41(c)-1.</content>
+        <content>Section 1026.41(e)(6)(i)(B) requires that the periodic statement be clearly and conspicuously labeled “Suspension of Statements &amp; Notice of Charge Off—Retain This Copy for Your Records” and that it clearly and conspicuously provide certain explanations to the consumer, as applicable, but no minimum type size or other technical requirements are imposed. The clear and conspicuous standard generally requires that disclosures be in a reasonably understandable form and readily noticeable to the consumer. See comment 41(c)-1.</content>
       </interpParagraph>
     </interpParagraph>
   </change>
