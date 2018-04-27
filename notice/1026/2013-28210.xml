@@ -6709,7 +6709,11 @@
           </interpParagraph>
           <interpParagraph label="1026-37-g-1-Interp-5" marker="5.">
             <title type="keyterm">Transfer taxes—seller.</title>
-            <content>Transfer taxes paid by the seller in a purchase transaction are not disclosed on the Loan Estimate under § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref>, but are disclosed on the Closing Disclosure pursuant to § <ref target="1026-38-g-1-ii" reftype="internal">1026.38(g)(1)(ii)</ref>. 6. Deletion and addition of items. The lines and labels required by § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref> may not be deleted, even if recording fees or transfer taxes are not charged to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. No additional items may be listed under the subheading in § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref>.</content>
+            <content>Transfer taxes paid by the seller in a purchase transaction are not disclosed on the Loan Estimate under § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref>, but are disclosed on the Closing Disclosure pursuant to § <ref target="1026-38-g-1-ii" reftype="internal">1026.38(g)(1)(ii)</ref>.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-37-g-1-Interp-6" marker="6.">
+            <title type="keyterm">Deletion and addition of items.</title>
+            <content>The lines and labels required by § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref> may not be deleted, even if recording fees or transfer taxes are not charged to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. No additional items may be listed under the subheading in § <ref target="1026-37-g-1" reftype="internal">1026.37(g)(1)</ref>.</content>
           </interpParagraph>
         </interpParagraph>
         <interpParagraph label="1026-37-g-2-Interp" target="1026-37-g-2">
@@ -8293,7 +8297,7 @@
             <content/>
             <interpParagraph label="1026-38-o-3-Interp-1" marker="1.">
               <title type="keyterm">Calculation of amount financed.</title>
-              <content>The amount financed is calculated in accordance with the requirements of § <ref target="1026-18-b" reftype="internal">1026.18(b)</ref> and its commentary. 38(o)(5) Total interest percentage. 1. In general. For guidance on calculation and disclosure of the total interest percentage, see § <ref target="1026-37-l-3" reftype="internal">1026.37(l)(3)</ref> and its commentary.</content>
+              <content>The amount financed is calculated in accordance with the requirements of § <ref target="1026-18-b" reftype="internal">1026.18(b)</ref> and its commentary.</content>
             </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1026-38-o-5-Interp" target="1026-38-o-5">
