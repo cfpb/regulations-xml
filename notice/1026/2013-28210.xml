@@ -7326,15 +7326,15 @@
   </change><change operation="added" label="1026-38-Interp">
     <interpSection label="1026-38-Interp" sectionNum="38" target="1026-38">
       <title>Section 1026.38 Content of Disclosures for Certain Mortgage Transactions (Closing Disclosure).</title>
-      <interpParagraph label="1026-38-Interp-1">
+      <interpParagraph label="1026-38-Interp-1" marker="1.">
         <title type="keyterm">Disclosures not applicable.</title>
         <content>Where a disclosure is not applicable to a particular transaction, form H–25 of appendix H to this part may not be modified to state “not applicable” or “N/A.” The portion of the form pertaining to the inapplicable disclosure may be left blank unless otherwise provided by § <ref target="1026-38" reftype="internal">1026.38</ref>. For example, the disclosure required by § <ref target="1026-38-r" reftype="internal">1026.38(r)</ref> of the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s or seller’s real estate broker may be left blank for a transaction that does not involve real estate brokers, such as a refinance or home equity loan. As provided in § <ref target="1026-38-m" reftype="internal">1026.38(m)</ref> and (n), however, the adjustable payment and adjustable interest rate tables required by those paragraphs may be included only if those disclosures are applicable to the transaction and otherwise must be excluded.</content>
       </interpParagraph>
-      <interpParagraph label="1026-38-Interp-2">
+      <interpParagraph label="1026-38-Interp-2" marker="2.">
         <title type="keyterm">Format.</title>
         <content>See § <ref target="1026-38-t" reftype="internal">1026.38(t)</ref> and its commentary for guidance on the proper format to be used in making the disclosures, as well as required and permissible modifications.</content>
       </interpParagraph>
-      <interpParagraph label="1026-38-Interp-3">
+      <interpParagraph label="1026-38-Interp-3" marker="3.">
         <title type="keyterm">Good faith requirement.</title>
         <content>The disclosures required by § <ref target="1026-38" reftype="internal">1026.38</ref> are required to reflect the actual terms of the legal obligation between the parties, and the actual costs associated with the settlement of the transaction. <ref target="1026-2-a-17" reftype="term">Creditors</ref> and settlement agents may estimate disclosures as provided pursuant to § <ref target="1026-19-f-1-i" reftype="internal">1026.19(f)(1)(i)</ref> when the actual term or cost is unknown at the time the disclosures are made. See §§ <ref target="1026-17-c-2" reftype="internal">1026.17(c)(2)</ref> and <ref target="1026-19-f-1-i" reftype="internal">1026.19(f)(1)(i)</ref> and comments 17(c)(2)(i)–1 and –2, and 19(f)(1)(i)–2.</content>
       </interpParagraph>
