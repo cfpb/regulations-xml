@@ -133,14 +133,14 @@
               <paragraph label="1026-Q-h1-A-3-a-ii" marker="ii.">
                 <content>The employer's confirmation of current, ongoing employment status.</content>
               </paragraph>
-            </paragraph>
-            <paragraph label="1026-Q-h1-A-3-a-p1" marker="">
-              <content>
-                <callout type="note">
-                  <line>Note:</line>
-                  <line>Creditors may assume that employment is ongoing if a consumer's employer verifies current employment and does not indicate that employment has been, or is set to be terminated. Creditors should not rely upon a verification of current employment that includes an affirmative statement that the employment is likely to cease, such as a statement that indicates the employee has given (or been given) notice of employment suspension or termination.</line>
-                </callout>
-              </content>
+              <paragraph label="1026-Q-h1-A-3-a-p1" marker="">
+                <content>
+                  <callout type="note">
+                    <line>Note:</line>
+                    <line>Creditors may assume that employment is ongoing if a consumer's employer verifies current employment and does not indicate that employment has been, or is set to be terminated. Creditors should not rely upon a verification of current employment that includes an affirmative statement that the employment is likely to cease, such as a statement that indicates the employee has given (or been given) notice of employment suspension or termination.</line>
+                  </callout>
+                </content>
+              </paragraph>
             </paragraph>
             <paragraph label="1026-Q-h1-A-3-b" marker="b.">
               <content><ref target="1026-2-a-17" reftype="term">Creditors</ref> may favorably consider the stability of a <ref target="1026-2-a-11" reftype="term">consumer</ref>'s income if he/she changes jobs frequently within the same line of work, but continues to advance in income or benefits. In this analysis, income stability takes precedence over job stability.</content>
@@ -932,10 +932,10 @@
                 </callout>
               </content>
             </paragraph>
-            <paragraph label="1026-Q-h2-D-8" marker="8.">
-              <title type="keyterm">Policy Exceptions Regarding the Exclusion of Rental Income From a Principal Residence Being Vacated by a Consumer.</title>
-              <content>When a <ref target="1026-2-a-11" reftype="term">consumer</ref> vacates a principal residence in favor of another principal residence, the rental income, reduced by the appropriate vacancy factor, may be considered in the underwriting analysis under the circumstances listed in the table below.</content>
-            </paragraph>
+          </paragraph>
+          <paragraph label="1026-Q-h2-D-8" marker="8.">
+            <title type="keyterm">Policy Exceptions Regarding the Exclusion of Rental Income From a Principal Residence Being Vacated by a Consumer.</title>
+            <content>When a <ref target="1026-2-a-11" reftype="term">consumer</ref> vacates a principal residence in favor of another principal residence, the rental income, reduced by the appropriate vacancy factor, may be considered in the underwriting analysis under the circumstances listed in the table below.</content>
             <paragraph label="1026-Q-h2-D-p20" marker="">
               <content>
                 <graphic>
