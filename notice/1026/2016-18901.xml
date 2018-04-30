@@ -99,7 +99,7 @@
   </change>
   <change operation="added" label="1026-41-e-4-iii-D" parent="1026-41-e-4-iii">
     <paragraph label="1026-41-e-4-iii-D" marker="(D)">
-      <content>Transactions serviced by the servicer for a seller financer that meets all of the criteria identified in § 1026.36(a)(5).</content>
+      <content>Transactions serviced by the servicer for a seller financer that meets all of the criteria identified in § <ref target="1026-36-a-5" reftype="internal">1026.36(a)(5)</ref>.</content>
     </paragraph>
   </change>
   <change operation="modified" label="1026-41-e-5" parent="1026-41-e">
@@ -870,29 +870,25 @@
           </interpParagraph>
         </interpParagraph>
       </interpParagraph>
-    </interpParagraph>
-  </change>
-  <change operation="added" label="1026-41-e-6-Interp" parent="1026-41-e-Interp" after="1026-41-e-5-Interp">
-    <interpParagraph label="1026-41-e-6-Interp" target="1026-41-e-6">
-      <title>41(e)(6) Charged-off loans.</title>
-      <content/>
-      <interpParagraph label="1026-41-e-6-Interp-1" marker="1.">
-        <title>Change in ownership.</title>
-        <content>If a charged-off mortgage loan is subsequently purchased, assigned, or transferred, § 1026.39(b) requires a covered person, as defined in § 1026.39(a)(1), to provide mortgage transfer disclosures. See § 1026.39.</content>
+      <interpParagraph label="1026-41-e-6-Interp" target="1026-41-e-6">
+        <title>41(e)(6) Charged-off loans.</title>
+        <content/>
+        <interpParagraph label="1026-41-e-6-Interp-1" marker="1.">
+          <title>Change in ownership.</title>
+          <content>If a charged-off mortgage loan is subsequently purchased, assigned, or transferred, § 1026.39(b) requires a covered person, as defined in § 1026.39(a)(1), to provide mortgage transfer disclosures. See § 1026.39.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-41-e-6-Interp-2" marker="2.">
+          <title>Change in servicing.</title>
+          <content>A servicer may take advantage of the exemption in § 1026.41(e)(6)(i), subject to the requirements of that paragraph, and may rely on a prior servicer's provision to the consumer of a periodic statement pursuant to § 1026.41(e)(6)(i)(B) unless the servicer provided the consumer a periodic statement pursuant to § 1026.41(a).</content>
+        </interpParagraph>
       </interpParagraph>
-      <interpParagraph label="1026-41-e-6-Interp-2" marker="2.">
-        <title>Change in servicing.</title>
-        <content>A servicer may take advantage of the exemption in § 1026.41(e)(6)(i), subject to the requirements of that paragraph, and may rely on a prior servicer's provision to the consumer of a periodic statement pursuant to § 1026.41(e)(6)(i)(B) unless the servicer provided the consumer a periodic statement pursuant to § 1026.41(a).</content>
-      </interpParagraph>
-    </interpParagraph>
-  </change>
-  <change operation="added" label="1026-41-e-6-i-B-Interp" parent="1026-41-e-Interp" after="1026-41-e-6-Interp">
-    <interpParagraph label="1026-41-e-6-i-B-Interp" marker="1.">
-      <title>Paragraph 41(e)(6)(i)(B).</title>
-      <content/>
-      <interpParagraph label="1026-41-e-6-i-B-Interp-1" marker="1.">
-        <title>Clearly and conspicuously.</title>
-        <content>Section 1026.41(e)(6)(i)(B) requires that the periodic statement be clearly and conspicuously labeled “Suspension of Statements &amp; Notice of Charge Off—Retain This Copy for Your Records” and that it clearly and conspicuously provide certain explanations to the consumer, as applicable, but no minimum type size or other technical requirements are imposed. The clear and conspicuous standard generally requires that disclosures be in a reasonably understandable form and readily noticeable to the consumer. See comment 41(c)-1.</content>
+      <interpParagraph label="1026-41-e-6-i-B-Interp" marker="1.">
+        <title>Paragraph 41(e)(6)(i)(B).</title>
+        <content/>
+        <interpParagraph label="1026-41-e-6-i-B-Interp-1" marker="1.">
+          <title>Clearly and conspicuously.</title>
+          <content>Section 1026.41(e)(6)(i)(B) requires that the periodic statement be clearly and conspicuously labeled “Suspension of Statements &amp; Notice of Charge Off—Retain This Copy for Your Records” and that it clearly and conspicuously provide certain explanations to the consumer, as applicable, but no minimum type size or other technical requirements are imposed. The clear and conspicuous standard generally requires that disclosures be in a reasonably understandable form and readily noticeable to the consumer. See comment 41(c)-1.</content>
+        </interpParagraph>
       </interpParagraph>
     </interpParagraph>
   </change>
