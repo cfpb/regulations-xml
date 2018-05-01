@@ -24,7 +24,7 @@
   <change operation="modified" label="1026-41-a-1">
     <paragraph label="1026-41-a-1" marker="(1)">
       <title type="keyterm">Scope.</title>
-      <content>This section applies to a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, unless an exemption in paragraph <ref target="1026-41-e" reftype="internal">(e)</ref> of this section applies. A closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> is referred to as a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> for purposes of this section.</content>
+      <content>This section applies to a closed-end consumer credit transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, unless an exemption in paragraph <ref target="1026-41-e" reftype="internal">(e)</ref> of this section applies. A closed-end consumer credit transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> is referred to as a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> for purposes of this section.</content>
     </paragraph>
   </change>
   <change operation="modified" label="1026-41-e-4-ii">
@@ -1221,7 +1221,7 @@
       <content/>
       <interpParagraph label="1026-41-e-4-ii-Interp-1" marker="1.">
         <title>Mortgage loans considered.</title>
-        <content>Pursuant to § <ref target="1026-41-a-1" reftype="internal">1026.41(a)(1)</ref>, the <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> considered in determining status as a small servicer are closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transactions secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, subject to the exclusions in § <ref target="1026-41-e-4-iii" reftype="internal">1026.41(e)(4)(iii)</ref>.</content>
+        <content>Pursuant to § <ref target="1026-41-a-1" reftype="internal">1026.41(a)(1)</ref>, the <ref target="1026-39-a-2" reftype="term">mortgage loans</ref> considered in determining status as a small servicer are closed-end consumer credit transactions secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, subject to the exclusions in § <ref target="1026-41-e-4-iii" reftype="internal">1026.41(e)(4)(iii)</ref>.</content>
       </interpParagraph>
       <interpParagraph label="1026-41-e-4-ii-Interp-2" marker="2.">
         <title>Requirements to be a small servicer.</title>

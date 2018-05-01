@@ -60,7 +60,7 @@
   </change>
   <change operation="added" label="1026-43-a-3-vii" parent="1026-43-a-3" after="1026-43-a-3-vi">
     <paragraph label="1026-43-a-3-vii" marker="(vii)">
-      <content><ref target="1026-2-a-12" reftype="term">Consumer credit</ref> transactions that meet the following criteria are not considered in determining whether a <ref target="1026-2-a-17" reftype="term">creditor</ref> exceeds the <ref target="1026-2-a-14" reftype="term">credit</ref> extension limitation in paragraph <ref target="1026-43-a-3-v-D-1" reftype="internal">(a)(3)(v)(D)(1)</ref> of this section:</content>
+      <content>Consumer credit transactions that meet the following criteria are not considered in determining whether a <ref target="1026-2-a-17" reftype="term">creditor</ref> exceeds the <ref target="1026-2-a-14" reftype="term">credit</ref> extension limitation in paragraph <ref target="1026-43-a-3-v-D-1" reftype="internal">(a)(3)(v)(D)(1)</ref> of this section:</content>
       <paragraph label="1026-43-a-3-vii-A" marker="(A)">
         <content>The transaction is secured by a subordinate lien;</content>
       </paragraph>
@@ -103,7 +103,7 @@
           <content>Fees for recordation of security instruments, deeds, and similar documents;</content>
         </paragraph>
         <paragraph label="1026-43-a-3-vii-E-2" marker="(2)">
-          <content>A bona fide and reasonable application fee; and</content>
+          <content>A bona fide and reasonable <ref target="1026-2-a-3-i" reftype="term">application</ref> fee; and</content>
         </paragraph>
         <paragraph label="1026-43-a-3-vii-E-3" marker="(3)">
           <content>A bona fide and reasonable fee for housing counseling services; and</content>

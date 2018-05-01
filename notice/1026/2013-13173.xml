@@ -55,7 +55,7 @@
       <subject>§ 1026.43 Minimum standards for transactions secured by a dwelling.</subject>
       <paragraph label="1026-43-a" marker="(a)">
         <title type="keyterm">Scope.</title>
-        <content>This section applies to any <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction that is secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, as defined in § <ref target="1026-2-a-19" reftype="internal">1026.2(a)(19)</ref>, including any real property attached to a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than:</content>
+        <content>This section applies to any consumer credit transaction that is secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, as defined in § <ref target="1026-2-a-19" reftype="internal">1026.2(a)(19)</ref>, including any real property attached to a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than:</content>
         <paragraph label="1026-43-a-1" marker="(1)">
           <content>A home equity line of <ref target="1026-2-a-14" reftype="term">credit</ref> subject to § <ref target="1026-40" reftype="internal">1026.40</ref>;</content>
         </paragraph>
@@ -112,7 +112,7 @@
         <title type="keyterm">Definitions.</title>
         <content>For purposes of this section:</content>
         <paragraph label="1026-43-b-1" marker="(1)">
-          <content><def term="covered transaction">Covered transaction</def> means a <ref target="1026-2-a-12" reftype="term">consumer credit</ref> transaction that is secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, as defined in § <ref target="1026-2-a-19" reftype="internal">1026.2(a)(19)</ref>, including any real property attached to a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a transaction exempt from coverage under paragraph <ref target="1026-43-a" reftype="internal">(a)</ref> of this section.</content>
+          <content><def term="covered transaction">Covered transaction</def> means a consumer credit transaction that is secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, as defined in § <ref target="1026-2-a-19" reftype="internal">1026.2(a)(19)</ref>, including any real property attached to a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than a transaction exempt from coverage under paragraph <ref target="1026-43-a" reftype="internal">(a)</ref> of this section.</content>
         </paragraph>
         <paragraph label="1026-43-b-2" marker="(2)">
           <content><def term="fully amortizing payment">Fully amortizing payment</def> means a periodic payment of principal and interest that will fully repay the <ref target="1026-43-b-5" reftype="term">loan amount</ref> over the <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
@@ -763,7 +763,7 @@
           <title type="keyterm">Alternative offer required.</title>
           <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must not <ref target="1026-58-b-5" reftype="term">offer</ref> a <ref target="1026-2-a-11" reftype="term">consumer</ref> a <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> unless the <ref target="1026-2-a-17" reftype="term">creditor</ref> also <ref target="1026-58-b-5" reftype="term">offers</ref> the <ref target="1026-2-a-11" reftype="term">consumer</ref> an alternative <ref target="1026-43-b-1" reftype="term">covered transaction</ref> without a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref> and the alternative <ref target="1026-43-b-1" reftype="term">covered transaction</ref>:</content>
           <paragraph label="1026-43-g-3-i" marker="(i)">
-            <content>Has an annual percentage rate that cannot increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> and has the same <def term="type of interest rate">type of interest rate</def> as the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>; for purposes of this paragraph <ref target="1026-43-g" reftype="internal">(g)</ref>, the term “<ref target="1026-43-g-3-i" reftype="term">type of interest rate</ref>” refers to whether a transaction:</content>
+            <content>Has an annual percentage rate that cannot increase after <ref target="1026-2-a-13" reftype="term">consummation</ref> and has the same <def term="type of interest rate">type of interest rate</def> as the <ref target="1026-43-b-1" reftype="term">covered transaction</ref> with a <ref target="1026-32-b-6-i" reftype="term">prepayment penalty</ref>; for purposes of this paragraph <ref target="1026-43-g" reftype="internal">(g)</ref>, the term “type of interest rate” refers to whether a transaction:</content>
             <paragraph label="1026-43-g-3-i-A" marker="(A)">
               <content>Is a <ref target="1026-18-s-7-iii" reftype="term">fixed-rate mortgage</ref>, as defined in § <ref target="1026-18-s-7-iii" reftype="internal">1026.18(s)(7)(iii)</ref>; or</content>
             </paragraph>
