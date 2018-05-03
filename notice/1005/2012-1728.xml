@@ -186,7 +186,7 @@
           <section label="1005-30" sectionNum="30">
             <subject>§ 1005.30 Remittance transfer definitions.</subject>
             <paragraph label="1005-30-a" marker="(a)">
-              <content>“<def term="agent">Agent</def>” means an agent, authorized delegate, or <ref target="1005-2-j" reftype="term">person</ref> affiliated with a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>, as defined under <ref target="1005-2-l" reftype="term">State</ref> or other applicable law, when such agent, authorized delegate, or affiliate <ref target="1005-2-c" reftype="term">acts</ref> for that <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>.</content>
+              <content>“<def term="agent">Agent</def>” means an agent, authorized delegate, or <ref target="1005-2-j" reftype="term">person</ref> affiliated with a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>, as defined under <ref target="1005-2-l" reftype="term">State</ref> or other applicable law, when such agent, authorized delegate, or affiliate acts for that <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref>.</content>
             </paragraph>
             <paragraph label="1005-30-b" marker="(b)">
               <content>“<def term="business day">Business day</def>” means any day on which the offices of a <ref target="1005-30-f-1" reftype="term">remittance transfer provider</ref> are open to the public for carrying on substantially all business functions.</content>
