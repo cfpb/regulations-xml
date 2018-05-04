@@ -4,8 +4,8 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2015-07-24</date>
-    <originalDate>2012-01-01</originalDate>
+    <date>2016-10-19</date>
+    <originalDate>2016-10-19</originalDate>
     <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
   </fdsys>
   <preamble>
@@ -15,9 +15,9 @@
       <title>12</title>
       <section>1024</section>
     </cfr>
-    <documentNumber>2015-18239</documentNumber>
-    <effectiveDate>2015-10-03</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/documents/2015/07/24/2015-18239/2013-integrated-mortgage-disclosures-rule-under-the-real-estate-settlement-procedures-act-regulation</federalRegisterURL>
+    <documentNumber>2016-18901</documentNumber>
+    <effectiveDate>2017-10-19</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2016/10/19/2016-18901/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
   <part label="1024">
     <tableOfContents>
@@ -2711,9 +2711,9 @@
               <title type="keyterm">Format for initial escrow account statement.</title>
               <content/>
               <paragraph label="1024-17-h-1" marker="(1)">
-                <content>The format and a completed example for an initial escrow account statement are set out in Public Guidance Documents entitled “Initial Escrow Account Disclosure Statement—Format” and “Initial Escrow Account Disclosure Statement—Example”, available in accordance with § <ref target="1024-3" reftype="internal">1024.3</ref>.</content>
-              </paragraph>
-              <paragraph label="1024-17-h-2" marker="(2)">
+        <content>The format and a completed example for an initial escrow account statement are set out in Public Guidance Documents entitled “Initial Escrow Account Disclosure Statement—Format” and “Initial Escrow Account Disclosure Statement—Example,” available in accordance with the direction in the definition of Public Guidance Documents in § 1024.2.</content>
+      </paragraph>
+    <paragraph label="1024-17-h-2" marker="(2)">
                 <title type="keyterm">Incorporation of initial escrow account statement into HUD-1 or HUD-1A settlement statement.</title>
                 <content>Pursuant to § <ref target="1024-9-a-11" reftype="internal">1024.9(a)(11)</ref>, a servicer may add the initial escrow account statement to the HUD-1 or HUD-1A settlement statement. The servicer may include the initial escrow account statement in the basic text or may attach the initial escrow account statement as an additional page to the HUD-1 or HUD-1A settlement statement.</content>
               </paragraph>
@@ -2924,27 +2924,12 @@
               <title type="keyterm">Permissible changes.</title>
               <content/>
               <paragraph label="1024-6-d-1" marker="(1)">
-                <content/>
-                <paragraph label="1024-6-d-1-i" marker="(i)">
-                  <content>No changes to, deletions from, or additions to the special information booklet currently prescribed by the Bureau shall be made other than the permissible changes specified in paragraphs <ref target="1024-6-d-1-ii" reftype="internal">(d)(1)(ii)</ref> through <ref target="1024-6-d-3" reftype="internal">(d)(3)</ref> of this section or changes as otherwise approved in writing by the Bureau in accordance with the procedures described in this paragraph. A request to the Bureau for approval of any changes other than the permissible changes specified in paragraphs <ref target="1024-6-d-1-ii" reftype="internal">(d)(1)(ii)</ref> through <ref target="1024-6-d-3" reftype="internal">(d)(3)</ref> of this section shall be submitted in writing to the address indicated in § <ref target="1024-3" reftype="internal">1024.3</ref>, stating the reasons why the applicant believes such changes, deletions or additions are necessary.</content>
-                </paragraph>
-                <paragraph label="1024-6-d-1-ii" marker="(ii)">
-                  <content/>
-                  <paragraph label="1024-6-d-1-ii-A" marker="(A)">
-                    <content>In the Complaints section of the booklet, it is a permissible change to substitute “the Bureau of Consumer Financial Protection” for “HUD's Office of RESPA” and “the RESPA office.”</content>
-                  </paragraph>
-                  <paragraph label="1024-6-d-1-ii-B" marker="(B)">
-                    <content>In the Avoiding Foreclosure section of the booklet, it is a permissible change to inform homeowners that they may find information on and assistance in avoiding foreclosures at http://www.consumerfinance.gov. The deletion of the reference to the HUD Web page, http://www.hud.gov/foreclosure/, in the Avoiding Foreclosure section of the booklet is not a permissible change.</content>
-                  </paragraph>
-                  <paragraph label="1024-6-d-1-ii-C" marker="(C)">
-                    <content>In the Appendix to the booklet, it is a permissible change to substitute “the Bureau of Consumer Financial Protection” for the reference to the “Board of Governors of the Federal Reserve System” in the No Discrimination section of the Appendix to the booklet. In the Contact Information section of the Appendix to the booklet, it is a permissible change to add the following contact information for the Bureau: “Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20006; www.consumerfinance.gov/learnmore ”. It is also a permissible change to remove the contact information for HUD's Office of RESPA and Interstate Land Sales from the Contact Information section of the Appendix to the booklet.</content>
-                  </paragraph>
-                </paragraph>
-              </paragraph>
-              <paragraph label="1024-6-d-2" marker="(2)">
-                <content>The cover of the booklet may be in any form and may contain any drawings, pictures or artwork, provided that the words “settlement costs” are used in the title. Names, addresses and telephone numbers of the lender or others and similar information may appear on the cover, but no discussion of the matters covered in the booklet shall appear on the cover. References to HUD on the cover of the booklet may be changed to references to the Bureau.</content>
-              </paragraph>
-              <paragraph label="1024-6-d-3" marker="(3)">
+        <content>No changes to, deletions from, or additions to the special information booklet currently prescribed by the Bureau shall be made other than the permissible changes specified in paragraphs (d)(2) and (3) of this section or changes as otherwise approved in writing by the Bureau in accordance with the procedures described in this paragraph (d). A request to the Bureau for approval of any changes other than the permissible changes specified in paragraphs (d)(2) and (3) of this section shall be submitted in writing to the address indicated in the definition of Public Guidance Documents in § 1024.2, stating the reasons why the applicant believes such changes, deletions, or additions are necessary.</content>
+      </paragraph>
+    <paragraph label="1024-6-d-2" marker="(2)">
+        <content>The cover of the booklet may be in any form and may contain any drawings, pictures, or artwork, provided that the words “settlement costs” are used in the title. Names, addresses and telephone numbers of the lender or others and similar information may appear on the cover, but no discussion of the matters covered in the booklet shall appear on the cover.</content>
+      </paragraph>
+    <paragraph label="1024-6-d-3" marker="(3)">
                 <content>The special information booklet may be translated into languages other than English.</content>
               </paragraph>
             </paragraph>
@@ -3141,9 +3126,9 @@
                 <content>Charges not listed on the HUD-1, but that are customary locally or pursuant to the lender's practice, may be inserted in blank spaces. Where existing blank spaces on the HUD-1 are insufficient, additional lines and spaces may be added and numbered in sequence with spaces on the HUD-1.</content>
               </paragraph>
               <paragraph label="1024-9-a-5" marker="(5)">
-                <content>The following variations in layout and format are within the discretion of persons reproducing the HUD-1 and do not require prior HUD approval: size of pages; tint or color of pages; size and style of type or print; vertical spacing between lines or provision for additional horizontal space on lines (for example, to provide sufficient space for recording time periods used in prorations); printing of the HUD-1 contents on separate pages, on the front and back of a single page, or on one continuous page; use of multicopy tear-out sets; printing on rolls for computer purposes; reorganization of sections B through I, when necessary to accommodate computer printing; and manner of placement of the HUD number, but not the OMB approval number, neither of which may be deleted. The expiration date associated with the OMB number listed on the form may be deleted. Any changes in the HUD number or OMB approval number may be announced by notice in the Federal Register, rather than by amendment of this part.</content>
-              </paragraph>
-              <paragraph label="1024-9-a-6" marker="(6)">
+        <content>The following variations in layout and format are within the discretion of persons reproducing the HUD-1 and do not require prior Bureau approval: Size of pages; tint or color of pages; size and style of type or print; vertical spacing between lines or provision for additional horizontal space on lines (for example, to provide sufficient space for recording time periods used in prorations); printing of the HUD-1 contents on separate pages, on the front and back of a single page, or on one continuous page; use of multicopy tear-out sets; printing on rolls for computer purposes; reorganization of sections B through I, when necessary to accommodate computer printing; and manner of placement of the HUD number, but not the OMB approval number, neither of which may be deleted. The expiration date associated with the OMB number listed on the form may be deleted. Any changes in the HUD number or OMB approval number may be announced by notice in the Federal Register, rather than by amendment of this part.</content>
+      </paragraph>
+    <paragraph label="1024-9-a-6" marker="(6)">
                 <content>The borrower's information and the seller's information may be provided on separate pages.</content>
               </paragraph>
               <paragraph label="1024-9-a-7" marker="(7)">
@@ -3167,10 +3152,10 @@
               <content>The changes and insertions on the HUD-1 permitted under paragraph <ref target="1024-9-a" reftype="internal">(a)</ref> of this section are also permitted when the HUD-1A settlement statement is reproduced, except the changes described in paragraphs <ref target="1024-9-a-3" reftype="internal">(a)(3)</ref> and <ref target="1024-9-a-6" reftype="internal">(6)</ref> of this section.</content>
             </paragraph>
             <paragraph label="1024-9-c" marker="(c)">
-              <title type="keyterm">Written approval.</title>
-              <content>Any other deviation in the HUD-1 or HUD-1A forms is permissible only upon receipt of written approval of the Bureau; provided, however, that notwithstanding contrary instructions in this section or Appendix <ref target="1024-A" reftype="internal">A</ref>, reproducing the HUD-1 or HUD-1A forms with the Bureau's OMB approval number displayed in place of HUD's OMB approval number does not require the written approval of the Bureau. A request to the Bureau for approval shall be submitted in writing to the address indicated in § <ref target="1024-3" reftype="internal">1024.3</ref> and shall state the reasons why the applicant believes such deviation is needed. The prescribed form(s) must be used until approval is received.</content>
-            </paragraph>
-          </section>
+        <title>Written approval.</title>
+        <content>Any other deviation in the HUD-1 or HUD-1A forms is permissible only upon receipt of written approval of the Bureau; provided, however, that notwithstanding contrary instructions in this section or appendix A of this part, reproducing the HUD-1 or HUD-1A forms with the Bureau's OMB approval number displayed in place of HUD's OMB approval number does not require the written approval of the Bureau. A request to the Bureau for approval shall be submitted in writing to the address indicated in the definition of Public Guidance Documents in § 1024.2 and shall state the reasons why the applicant believes such deviation is needed. The prescribed form(s) must be used until approval is received.</content>
+      </paragraph>
+    </section>
           </content>
       </subpart>
     <subpart subpartLetter="C" label="1024-Subpart-C">
@@ -3260,7 +3245,10 @@
         <paragraph label="1024-31-p1" marker="">
           <content>For purposes of this subpart:</content>
         </paragraph>
-        <paragraph label="1024-31-ConsumerReportingAgency" marker="">
+        <paragraph label="1024-31-Delinquency" marker="">
+        <content><def term="delinquency">Delinquency</def> means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.</content>
+      </paragraph>
+    <paragraph label="1024-31-ConsumerReportingAgency" marker="">
           <content><def term="consumer reporting agency">Consumer reporting agency</def> has the meaning set forth in section 603 of the Fair Credit Reporting Act, 15 U.S.C. 1681a.</content>
         </paragraph>
         <paragraph label="1024-31-Day" marker="">
@@ -3757,9 +3745,18 @@
               <content>A statement that requests the borrower to provide hazard insurance information for the borrower's property and identifies the property by its physical address;</content>
             </paragraph>
             <paragraph label="1024-37-c-2-v" marker="(v)">
-              <content>A statement that the borrower's hazard insurance is expiring or has expired, as applicable, and that the servicer does not have evidence that the borrower has hazard insurance coverage past the expiration date, and that, if applicable, identifies the type of hazard insurance for which the servicer lacks evidence of coverage;</content>
-            </paragraph>
-            <paragraph label="1024-37-c-2-vi" marker="(vi)">
+        <content>A statement that:</content>
+        <paragraph label="1024-37-c-2-v-A" marker="(A)">
+          <content>The borrower's hazard insurance is expiring, has expired, or provides insufficient coverage, as applicable;</content>
+        </paragraph>
+        <paragraph label="1024-37-c-2-v-B" marker="(B)">
+          <content>The servicer does not have evidence that the borrower has hazard insurance coverage past the expiration date or evidence that the borrower has hazard insurance that provides sufficient coverage, as applicable; and</content>
+        </paragraph>
+        <paragraph label="1024-37-c-2-v-C" marker="(C)">
+          <content>If applicable, identifies the type of hazard insurance for which the servicer lacks evidence of coverage;</content>
+        </paragraph>
+      </paragraph>
+    <paragraph label="1024-37-c-2-vi" marker="(vi)">
               <content>A statement that hazard insurance is required on the borrower's property, and that the servicer has purchased or will purchase, as applicable, such insurance at the borrower's expense;</content>
             </paragraph>
             <paragraph label="1024-37-c-2-vii" marker="(vii)">
@@ -3789,10 +3786,10 @@
             <content>A servicer must set the information required by paragraphs <ref target="1024-37-c-2-iv" reftype="internal">(c)(2)(iv)</ref>, <ref target="1024-37-c-2-vi" reftype="internal">(vi)</ref>, and <ref target="1024-37-c-2-ix-A" reftype="internal">(ix)(A)</ref> and <ref target="1024-37-c-2-ix-B" reftype="internal">(B)</ref> in bold text, except that the information about the physical address of the borrower's property required by paragraph <ref target="1024-37-c-2-iv" reftype="internal">(c)(2)(iv)</ref> of this section may be set in regular text. A servicer may use form <ref target="1024-MS-3" reftype="internal">MS-3</ref>A in appendix <ref target="1024-MS-3" reftype="internal">MS-3</ref> of this part to comply with the requirements of paragraphs <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> and <ref target="1024-37-c-2" reftype="internal">(2)</ref> of this section.</content>
           </paragraph>
           <paragraph label="1024-37-c-4" marker="(4)">
-            <title type="keyterm">Additional information.</title>
-            <content>A servicer may not include any information other than information required by paragraphs <ref target="1024-37-c-2" reftype="internal">(c)(2)</ref> of this section in the written notice required by paragraph <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section. However, a servicer may provide such additional information to a borrower on separate pieces of paper in the same transmittal.</content>
-          </paragraph>
-        </paragraph>
+        <title>Additional information.</title>
+        <content>Except for the mortgage loan account number, a servicer may not include any information other than information required by paragraph (c)(2) of this section in the written notice required by paragraph (c)(1)(i) of this section. However, a servicer may provide such additional information to a borrower on separate pieces of paper in the same transmittal.</content>
+      </paragraph>
+    </paragraph>
         <paragraph label="1024-37-d" marker="(d)">
           <title type="keyterm">Reminder notice.</title>
           <content/>
@@ -3819,9 +3816,9 @@
               </paragraph>
             </paragraph>
             <paragraph label="1024-37-d-2-ii" marker="(ii)">
-              <title type="keyterm">Servicer not receiving demonstration of continuous coverage.</title>
-              <content>A servicer that has received hazard insurance information after delivering to a borrower or placing in the mail the notice required by paragraph <ref target="1024-37-c-1-i" reftype="internal">(c)(1)(i)</ref> of this section, but has not received, from the borrower or otherwise, evidence demonstrating that the borrower has had hazard insurance coverage in place continuously, must set forth in the notice required by paragraph <ref target="1024-37-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section the following information:</content>
-              <paragraph label="1024-37-d-2-ii-A" marker="(A)">
+              <title>Servicer lacking evidence of continuous coverage.</title>
+    <content>A servicer that has received hazard insurance information after delivering to a borrower or placing in the mail the notice required by paragraph (c)(1)(i) of this section, but has not received, from the borrower or otherwise, evidence demonstrating that the borrower has had sufficient hazard insurance coverage in place continuously, must set forth in the notice required by paragraph (c)(1)(ii) of this section the following information:</content>
+    <paragraph label="1024-37-d-2-ii-A" marker="(A)">
                 <content>The date of the notice;</content>
               </paragraph>
               <paragraph label="1024-37-d-2-ii-B" marker="(B)">
