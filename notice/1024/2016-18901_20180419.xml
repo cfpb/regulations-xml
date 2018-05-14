@@ -52,26 +52,144 @@
       </paragraph>
     </change>
 
-    <!--
-    <change operation="added" label="1024-30-d" parent="1024-30" after="1024-30-e">
+    <change operation="added" label="1024-30-d" parent="1024-30" after="1024-30-c">
       <paragraph label="1024-30-d" marker="(d)">
       <title>Successors in interest.</title>
         <content>A confirmed successor in interest shall be considered a borrower for purposes of § 1024.17 and this subpart.</content>
       </paragraph>
     </change>
-    -->
 
-    <!--
     <change operation="added" label="1024-31-ConfirmedSuccessorInInterest" parent="1024-31" after="1024-31-p1">
       <paragraph label="1024-31-ConfirmedSuccessorInInterest" marker="">
         <content><def term="confirmed successor in interest">Confirmed successor in interest</def> means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in a property that secures a mortgage loan subject to this subpart.</content>
       </paragraph>
     </change>
-    -->
 
-    <change operation="modified" label="1024-31-Delinquency" parent="1024-31" after="1024-31-p1">
-      <paragraph label="1024-31-Delinquency" marker="">
-        <content><def term="delinquency">Delinquency</def> means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.</content>
+    <change operation="added" label="1024-31-SuccessorInInterest" parent="1024-31" after="1024-31-p1">
+      <paragraph label="1024-31-SuccessorInInterest" marker="">
+        <content><def term="successor in interest">Successor in interest</def> means a person to whom an ownership interest in a property securing a mortgage loan subject to this subpart is transferred from a borrower, provided that the transfer is:</content>
+        <paragraph label="1024-31-SuccessorInInterest-1" marker="(1)">
+          <content>A transfer by devise, descent, or operation of law on the death of a joint tenant or tenant by the entirety;</content>
+        </paragraph>
+        <paragraph label="1024-31-SuccessorInInterest-2" marker="(2)">
+          <content>A transfer to a relative resulting from the death of a borrower;</content>
+        </paragraph>
+        <paragraph label="1024-31-SuccessorInInterest-3" marker="(3)">
+          <content>A transfer where the spouse or children of the borrower become an owner of the property;</content>
+        </paragraph>
+        <paragraph label="1024-31-SuccessorInInterest-4" marker="(4)">
+          <content>A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement, by which the spouse of the borrower becomes an owner of the property; or</content>
+        </paragraph>
+        <paragraph label="1024-31-SuccessorInInterest-5" marker="(5)">
+          <content>A transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1024-32-c" parent="1024-32" after="1024-32-b">
+      <paragraph label="1024-32-c" marker="(c)">
+        <title>Successors in interest.</title>
+        <content/>
+        <paragraph label="1024-32-c-1" marker="(1)">
+          <title>Optional notice with acknowledgment form.</title>
+          <content>Upon confirmation, a servicer may provide a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice together with a separate acknowledgment form that meets the requirements of paragraph (c)(1)(iv) of this section and that does not require acknowledgment of any items other than those identified in paragraph (c)(1)(iv) of this section. The written notice must clearly and conspicuously explain that:</content>
+          <paragraph label="1024-32-c-1-i" marker="(i)">
+            <content>The servicer has confirmed the successor in interest's identity and ownership interest in the property;</content>
+          </paragraph>
+          <paragraph label="1024-32-c-1-ii" marker="(ii)">
+            <content>Unless the successor in interest assumes the mortgage loan obligation under State law, the successor in interest is not liable for the mortgage debt and cannot be required to use the successor in interest's assets to pay the mortgage debt, except that the lender has a security interest in the property and a right to foreclose on the property, when permitted by law and authorized under the mortgage loan contract;</content>
+          </paragraph>
+          <paragraph label="1024-32-c-1-iii" marker="(iii)">
+            <content>The successor in interest may be entitled to receive certain notices and communications about the mortgage loan if the servicer is not providing them to another confirmed successor in interest or borrower on the account;</content>
+          </paragraph>
+          <paragraph label="1024-32-c-1-iv" marker="(iv)">
+            <content>In order to receive such notices and communications, the successor in interest must execute and provide to the servicer an acknowledgment form that:</content>
+            <paragraph label="1024-32-c-1-iv-A" marker="(A)">
+              <content>Requests receipt of such notices and communications if the servicer is not providing them to another confirmed successor in interest or borrower on the account; and</content>
+            </paragraph>
+            <paragraph label="1024-32-c-1-iv-B" marker="(B)">
+              <content>Indicates that the successor in interest understands that such notices do not make the successor in interest liable for the mortgage debt and that the successor in interest is only liable for the mortgage debt if the successor in interest assumes the mortgage loan obligation under State law; and</content>
+            </paragraph>
+            <paragraph label="1024-32-c-1-iv-C" marker="(C)">
+              <content>Informs the successor in interest that there is no time limit to return the acknowledgment but that the servicer will not begin sending such notices and communications to the confirmed successor in interest until the acknowledgment is returned; and</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1024-32-c-1-v" marker="(v)">
+            <content>Whether or not the successor in interest executes the acknowledgment described in paragraph (c)(1)(iv) of this section, the successor in interest is entitled to submit notices of error under § 1024.35, requests for information under § 1024.36, and requests for a payoff statement under § 1026.36 with respect to the mortgage loan account, with a brief explanation of those rights and how to exercise them, including appropriate address information.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1024-32-c-2" marker="(2)">
+          <title>Effect of failure to execute acknowledgment.</title>
+          <content>If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with paragraph (c)(1) of this section, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by § 1024.17, § 1024.33, § 1024.34, § 1024.37, or § 1024.39 or to comply with the live contact requirements in § 1024.39(a) with respect to the confirmed successor in interest until the confirmed successor in interest either assumes the mortgage loan obligation under State law or executes an acknowledgment that complies with paragraph (c)(1)(iv) of this section and provides it to the servicer.</content>
+        </paragraph>
+        <paragraph label="1024-32-c-3" marker="(3)">
+          <title>Additional copies of acknowledgment form.</title>
+          <content>If a servicer provides a confirmed successor in interest with a written notice and acknowledgment form in accordance with paragraph (c)(1) of this section, the servicer must make additional copies of the written notice and acknowledgment form available to the confirmed successor in interest upon written or oral request.</content>
+        </paragraph>
+        <paragraph label="1024-32-c-4" marker="(4)">
+          <title>Multiple notices unnecessary.</title>
+          <content>Except as required by § 1024.36, a servicer is not required to provide to a confirmed successor in interest any written disclosure required by § 1024.17, § 1024.33, § 1024.34, § 1024.37, or § 1024.39(b) if the servicer is providing the same specific disclosure to another borrower on the account. A servicer is also not required to comply with the live contact requirements set forth in § 1024.39(a) with respect to a confirmed successor in interest if the servicer is complying with those requirements with respect to another borrower on the account.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1024-35-e-5">
+      <paragraph label="1024-35-e-5" marker="(5)">
+        <title>Omissions in responses to requests for documentation.</title>
+        <content>In its response to a request for documentation under paragraph (e)(4) of this section, a servicer may omit location and contact information and personal financial information (other than information about the terms, status, and payment history of the mortgage loan) if:</content>
+        <paragraph label="1024-35-e-5-i" marker="(i)">
+          <content>The information pertains to a potential or confirmed successor in interest who is not the requester; or</content>
+        </paragraph>
+        <paragraph label="1024-35-e-5-ii" marker="(ii)">
+          <content>The requester is a confirmed successor in interest and the information pertains to any borrower who is not the requester.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1024-36-d-3">
+      <paragraph label="1024-36-d-3" marker="(3)">
+        <title>Omissions in responses to requests.</title>
+        <content>In its response to a request for information, a servicer may omit location and contact information and personal financial information (other than information about the terms, status, and payment history of the mortgage loan) if:</content>
+        <paragraph label="1024-36-d-3-i" marker="(i)">
+          <content>The information pertains to a potential or confirmed successor in interest who is not the requester; or</content>
+        </paragraph>
+        <paragraph label="1024-36-d-3-ii" marker="(ii)">
+          <content>The requester is a confirmed successor and the information pertains to any borrower who is not the requester.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+
+    <change operation="added" label="1024-36-i">
+      <paragraph label="1024-36-i" marker="(i)">
+        <title>Potential successors in interest.</title>
+        <content/>
+        <paragraph label="1024-36-i-1" marker="(1)">
+          <content>With respect to any written request from a person that indicates that the person may be a successor in interest and that includes the name of the transferor borrower from whom the person received an ownership interest and information that enables the servicer to identify the mortgage loan account, a servicer shall respond by providing the potential successor in interest with a written description of the documents the servicer reasonably requires to confirm the person's identity and ownership interest in the property and contact information, including a telephone number, for further assistance. With respect to the written request, a servicer shall treat the potential successor in interest as a borrower for purposes of the requirements of paragraphs (c) through (g) of this section.</content>
+        </paragraph>
+        <paragraph label="1024-36-i-2" marker="(2)">
+          <content>If a written request under paragraph (i)(1) of this section does not provide sufficient information to enable the servicer to identify the documents the servicer reasonably requires to confirm the person's identity and ownership interest in the property, the servicer may provide a response that includes examples of documents typically accepted to establish identity and ownership interest in a property; indicates that the person may obtain a more individualized description of required documents by providing additional information; specifies what additional information is required to enable the servicer to identify the required documents; and provides contact information, including a telephone number, for further assistance. A servicer's response under this paragraph (i)(2) must otherwise comply with the requirements of paragraph (i)(1). Notwithstanding paragraph (f)(1)(i) of this section, if a potential successor in interest subsequently provides orally or in writing the required information specified by the servicer pursuant to this paragraph (i)(2), the servicer must treat the new information, together with the original request, as a new, non-duplicative request under paragraph (i)(1), received as of the date the required information was received, and must respond accordingly.</content>
+        </paragraph>
+        <paragraph label="1024-36-i-3" marker="(3)">
+          <content>In responding to a request under paragraph (i)(1) of this section prior to confirmation, the servicer is not required to provide any information other than the information specified in paragraphs (i)(1) and (2) of this section. In responding to a written request under paragraph (i)(1) that requests other information, the servicer must indicate that the potential successor in interest may resubmit any request for information once confirmed as a successor in interest.</content>
+        </paragraph>
+        <paragraph label="1024-36-i-4" marker="(4)">
+          <content>If a servicer has established an address that a borrower must use to request information pursuant to paragraph (b) of this section, a servicer must comply with the requirements of paragraph (i)(1) of this section only for requests received at the established address.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+
+    <change operation="modified" label="1024-38-b-1-vi">
+      <paragraph label="1024-38-b-1-vi" marker="(vi)">
+        <content/>
+        <paragraph label="1024-38-b-1-vi-A" marker="(A)">
+          <content>Upon receiving notice of the death of a borrower or of any transfer of the property securing a mortgage loan, promptly facilitate communication with any potential or confirmed successors in interest regarding the property;</content>
+        </paragraph>
+        <paragraph label="1024-38-b-1-vi-B" marker="(B)">
+          <content>Upon receiving notice of the existence of a potential successor in interest, promptly determine the documents the servicer reasonably requires to confirm that person's identity and ownership interest in the property and promptly provide to the potential successor in interest a description of those documents and how the person may submit a written request under § 1024.36(i) (including the appropriate address); and</content>
+        </paragraph>
+        <paragraph label="1024-38-b-1-vi-C" marker="(C)">
+          <content>Upon the receipt of such documents, promptly make a confirmation determination and promptly notify the person, as applicable, that the servicer has confirmed the person's status, has determined that additional documents are required (and what those documents are), or has determined that the person is not a successor in interest.</content>
+        </paragraph>
       </paragraph>
     </change>
 
