@@ -4224,7 +4224,8 @@
             <content/>
             <paragraph label="1024-41-c-2-i" marker="(i)">
         <title type="keyterm">In general.</title>
-        <content>Except as set forth in paragraphs <ref target="1024-41-c-2-ii" reftype="internal">(c)(2)(ii)</ref> and <ref target="1024-41-c-2-iii" reftype="internal">(iii)</ref> of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation application for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.</content></paragraph>
+        <content>Except as set forth in paragraphs <ref target="1024-41-c-2-ii" reftype="internal">(c)(2)(ii)</ref> and <ref target="1024-41-c-2-iii" reftype="internal">(iii)</ref> of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation application for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.</content>
+      </paragraph>
     <paragraph label="1024-41-c-2-ii" marker="(ii)">
               <title type="keyterm">Reasonable time.</title>
 <content>Notwithstanding paragraph <ref target="1024-41-c-2-i" reftype="internal">(c)(2)(i)</ref> of this section, if a servicer has exercised reasonable diligence in obtaining documents and information to complete a loss mitigation application, but a loss mitigation application remains incomplete for a significant period of time under the circumstances without further progress by a borrower to make the loss mitigation application complete, a servicer may, in its discretion, evaluate an incomplete loss mitigation application and offer a borrower a loss mitigation option. Any such evaluation and offer is not subject to the requirements of this section and shall not constitute an evaluation of a single complete loss mitigation application for purposes of paragraph <ref target="1024-41-i" reftype="internal">(i)</ref> of this section.</content>
@@ -4241,7 +4242,7 @@
         </paragraph>
         <paragraph label="1024-41-d" marker="(d)">
         <title type="keyterm">Denial of loan modification options.</title>
-        <content>If a borrower’s complete loss mitigation application is denied for any trial or permanent loan modification option available to the borrower pursuant to paragraph <ref target="1024-41-c" reftype="internal">(c)</ref> of this section, a servicer shall state in the notice sent to the borrower pursuant to paragraph <ref target="1024-41-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section the specific reason or reasons for the servicer’s determination for each such trial or permanent loan modification option and, if applicable, that the borrower was not evaluated on other criteria. </content>
+        <content>If a borrower’s complete loss mitigation application is denied for any trial or permanent loan modification option available to the borrower pursuant to paragraph <ref target="1024-41-c" reftype="internal">(c)</ref> of this section, a servicer shall state in the notice sent to the borrower pursuant to paragraph <ref target="1024-41-c-1-ii" reftype="internal">(c)(1)(ii)</ref> of this section the specific reason or reasons for the servicer’s determination for each such trial or permanent loan modification option and, if applicable, that the borrower was not evaluated on other criteria.</content>
       </paragraph>
     <paragraph label="1024-41-e" marker="(e)">
           <title type="keyterm">Borrower response.</title>
@@ -4278,7 +4279,7 @@
           <content>The foreclosure is based on a borrower’s violation of a due-on-sale clause; or</content>
         </paragraph>
         <paragraph label="1024-41-f-1-iii" marker="(iii)">
-          <content>The servicer is joining the foreclosure action of a subordinate lienholder. </content>
+          <content>The servicer is joining the foreclosure action of a subordinate lienholder.</content>
         </paragraph>
       </paragraph>
     <paragraph label="1024-41-f-2" marker="(2)">
@@ -4332,7 +4333,7 @@
         </paragraph>
         <paragraph label="1024-41-j" marker="(j)">
         <title type="keyterm">Small servicer requirements.</title>
-        <content>A small servicer shall be subject to the prohibition on foreclosure referral in paragraph <ref target="1024-41-f-1" reftype="internal">(f)(1)</ref> of this section. A small servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option. </content>
+        <content>A small servicer shall be subject to the prohibition on foreclosure referral in paragraph <ref target="1024-41-f-1" reftype="internal">(f)(1)</ref> of this section. A small servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.</content>
       </paragraph>
     </section>
     </content>
@@ -4611,7 +4612,8 @@
           <content>Any periodic statement or coupon book required pursuant to <ref target="CFR:12-1026-41" reftype="external">12 CFR 1026.41</ref>.</content>
         </interpParagraph>
         <interpParagraph label="1024-35-c-Interp-2-iii" marker="(iii)">
-          <content>Any Web site the servicer maintains in connection with the servicing of the loan. </content></interpParagraph>
+          <content>Any Web site the servicer maintains in connection with the servicing of the loan. </content>
+        </interpParagraph>
         <interpParagraph label="1024-35-c-Interp-2-iv" marker="(iv)">
           <content>Any notice required pursuant to §§ <ref target="1024-39" reftype="internal">1024.39</ref> or <ref target="1024-41" reftype="internal">.41</ref> that includes contact information for assistance.</content>
         </interpParagraph>
@@ -4757,7 +4759,8 @@
           <content>Any periodic statement or coupon book required pursuant to <ref target="CFR:12-1026-41" reftype="external">12 CFR 1026.41</ref>.</content>
         </interpParagraph>
         <interpParagraph label="1024-36-b-Interp-2-iii" marker="(iii)">
-          <content>Any Web site the servicer maintains in connection with the servicing of the loan. </content></interpParagraph>
+          <content>Any Web site the servicer maintains in connection with the servicing of the loan. </content>
+        </interpParagraph>
         <interpParagraph label="1024-36-b-Interp-2-iv" marker="(iv)">
           <content>Any notice required pursuant to §§ <ref target="1024-39" reftype="internal">1024.39</ref> or <ref target="1024-41" reftype="internal">.41</ref> that includes contact information for assistance.</content>
         </interpParagraph>
@@ -5118,7 +5121,8 @@
               </interpParagraph>
             <interpParagraph label="1024-38-b-5-Interp-3" marker="3.">
         <title type="keyterm">Notices of error incorrectly sent to addresses associated with submission of loss mitigation applications or the continuity of contact.</title>
-        <content>A servicer’s policies and procedures must be reasonably designed to ensure that if a borrower incorrectly submits an assertion of an error to any address given to the borrower in connection with submission of a loss mitigation application or the continuity of contact pursuant to § <ref target="1024-40" reftype="internal">1024.40</ref>, the servicer will inform the borrower of the procedures for submitting written notices of error set forth in § <ref target="1024-35" reftype="internal">1024.35</ref>, including the correct address. Alternatively, the servicer could redirect such notices to the correct address.</content></interpParagraph>
+        <content>A servicer’s policies and procedures must be reasonably designed to ensure that if a borrower incorrectly submits an assertion of an error to any address given to the borrower in connection with submission of a loss mitigation application or the continuity of contact pursuant to § <ref target="1024-40" reftype="internal">1024.40</ref>, the servicer will inform the borrower of the procedures for submitting written notices of error set forth in § <ref target="1024-35" reftype="internal">1024.35</ref>, including the correct address. Alternatively, the servicer could redirect such notices to the correct address.</content>
+      </interpParagraph>
     </interpParagraph>
           </interpParagraph>
           <interpParagraph label="1024-38-c-Interp">
@@ -5379,7 +5383,8 @@
         <content/>
         <interpParagraph label="1024-41-b-3-Interp-1" marker="1.">
           <title type="keyterm">Foreclosure sale not scheduled.</title>
-          <content>If no foreclosure sale has been scheduled as of the date that a complete loss mitigation application is received, the application is considered to have been received more than 90 days before any foreclosure sale.</content></interpParagraph>
+          <content>If no foreclosure sale has been scheduled as of the date that a complete loss mitigation application is received, the application is considered to have been received more than 90 days before any foreclosure sale.</content>
+        </interpParagraph>
         <interpParagraph label="1024-41-b-3-Interp-2" marker="2.">
           <title type="keyterm">Foreclosure sale re-scheduled.</title>
           <content>The protections under § <ref target="1024-41" reftype="internal">1024.41</ref> that have been determined to apply to a borrower pursuant to § <ref target="1024-41-b-3" reftype="internal">1024.41(b)(3)</ref> remain in effect thereafter, even if a foreclosure sale is later scheduled or rescheduled.</content>
@@ -5436,23 +5441,28 @@
         <content/>
         <interpParagraph label="1024-41-c-2-iii-Interp-1" marker="1.">
           <title type="keyterm">Short-term payment forbearance program.</title>
-          <content>The exemption in § 1024.41(c)(2)(iii) applies to short-term payment forbearance programs. A payment forbearance program is a loss mitigation option for which a servicer allows a borrower to forgo making certain payments or portions of payments for a period of time. A short-term payment forbearance program allows the forbearance of payments due over periods of no more than six months. Such a program would be short-term regardless of the amount of time a servicer allows the borrower to make up the missing payments.</content></interpParagraph>
+          <content>The exemption in § 1024.41(c)(2)(iii) applies to short-term payment forbearance programs. A payment forbearance program is a loss mitigation option for which a servicer allows a borrower to forgo making certain payments or portions of payments for a period of time. A short-term payment forbearance program allows the forbearance of payments due over periods of no more than six months. Such a program would be short-term regardless of the amount of time a servicer allows the borrower to make up the missing payments.</content>
+        </interpParagraph>
         <interpParagraph label="1024-41-c-2-iii-Interp-2" marker="2.">
           <title type="keyterm">Payment forbearance and incomplete applications.</title>
-          <content>Section 1024.41(c)(2)(iii) allows a servicer to offer a borrower a short-term payment forbearance program based on an evaluation of an incomplete loss mitigation application. Such an incomplete loss mitigation application is still subject to the other obligations in § <ref target="1024-41" reftype="internal">1024.41</ref>, including the obligation in § <ref target="1024-41-b-2" reftype="internal">1024.41(b)(2)</ref> to review the application to determine if it is complete, the obligation in § <ref target="1024-41-b-1" reftype="internal">1024.41(b)(1)</ref> to exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application (see comment <ref target="1024-41-b-1-Interp-4-iii" reftype="internal">41(b)(1)–4.iii</ref>), and the obligation to provide the borrower with the § <ref target="1024-41-b-2-i-B" reftype="internal">1024.41(b)(2)(i)(B)</ref> notice that the servicer acknowledges the receipt of the application and has determined the application is incomplete.</content></interpParagraph>
+          <content>Section 1024.41(c)(2)(iii) allows a servicer to offer a borrower a short-term payment forbearance program based on an evaluation of an incomplete loss mitigation application. Such an incomplete loss mitigation application is still subject to the other obligations in § <ref target="1024-41" reftype="internal">1024.41</ref>, including the obligation in § <ref target="1024-41-b-2" reftype="internal">1024.41(b)(2)</ref> to review the application to determine if it is complete, the obligation in § <ref target="1024-41-b-1" reftype="internal">1024.41(b)(1)</ref> to exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application (see comment <ref target="1024-41-b-1-Interp-4-iii" reftype="internal">41(b)(1)–4.iii</ref>), and the obligation to provide the borrower with the § <ref target="1024-41-b-2-i-B" reftype="internal">1024.41(b)(2)(i)(B)</ref> notice that the servicer acknowledges the receipt of the application and has determined the application is incomplete.</content>
+        </interpParagraph>
         <interpParagraph label="1024-41-c-2-iii-Interp-3" marker="3.">
           <title type="keyterm">Payment forbearance and complete applications.</title>
-          <content>Even if a servicer offers a borrower a payment forbearance program based on an evaluation of an incomplete loss mitigation application, the servicer must still comply with all the requirements in § <ref target="1024-41" reftype="internal">1024.41</ref> if the borrower completes his or her loss mitigation application.</content></interpParagraph>
+          <content>Even if a servicer offers a borrower a payment forbearance program based on an evaluation of an incomplete loss mitigation application, the servicer must still comply with all the requirements in § <ref target="1024-41" reftype="internal">1024.41</ref> if the borrower completes his or her loss mitigation application.</content>
+        </interpParagraph>
       </interpParagraph>
     <interpParagraph label="1024-41-c-2-iv-Interp" target="1024-41-c-2-iv" marker="(iv)">
         <title type="keyterm">41(c)(2)(iv) Facially complete application.</title>
         <content/>
         <interpParagraph label="1024-41-c-2-iv-Interp-1" marker="1.">
           <title type="keyterm">Reasonable opportunity.</title>
-          <content>Section 1024.41(c)(2)(iv) requires a servicer to treat a facially complete application as complete for the purposes of paragraphs (f)(2) and (g) until the borrower has been given a reasonable opportunity to complete the application. A reasonable opportunity requires the servicer to notify the borrower of what additional information or corrected documents are required, and to afford the borrower sufficient time to gather the information and documentation necessary to complete the application and submit it to the servicer. The amount of time that is sufficient for this purpose will depend on the facts and circumstances.</content></interpParagraph>
+          <content>Section 1024.41(c)(2)(iv) requires a servicer to treat a facially complete application as complete for the purposes of paragraphs (f)(2) and (g) until the borrower has been given a reasonable opportunity to complete the application. A reasonable opportunity requires the servicer to notify the borrower of what additional information or corrected documents are required, and to afford the borrower sufficient time to gather the information and documentation necessary to complete the application and submit it to the servicer. The amount of time that is sufficient for this purpose will depend on the facts and circumstances.</content>
+        </interpParagraph>
         <interpParagraph label="1024-41-c-2-iv-Interp-2" marker="2.">
           <title type="keyterm">Borrower fails to complete the application.</title>
-          <content>If the borrower fails to complete the application within the timeframe provided under § 1024.41(c)(2)(iv), the application shall be considered incomplete.</content></interpParagraph>
+          <content>If the borrower fails to complete the application within the timeframe provided under § 1024.41(c)(2)(iv), the application shall be considered incomplete.</content>
+        </interpParagraph>
       </interpParagraph>
     </interpParagraph>
           </interpParagraph>
@@ -5781,168 +5791,165 @@
             <content>[Borrower's Mailing Address]</content>
           </paragraph>
           <paragraph label="1024-MS-3(A)-p34" marker="">
-            <content>Subject: Please provide insurance information for [Property</content>
+            <content>Subject: Please provide insurance information for [Property Address]</content>
           </paragraph>
           <paragraph label="1024-MS-3(A)-p35" marker="">
-            <content>Address]</content>
-          </paragraph>
-          <paragraph label="1024-MS-3(A)-p36" marker="">
             <content>Dear [Borrower's Name]:</content>
           </paragraph>
-          <paragraph label="1024-MS-3(A)-p37" marker="">
+          <paragraph label="1024-MS-3(A)-p36" marker="">
             <content>Our records show that your [hazard] [Insurance Type] insurance [is expiring] [expired], and we do not have evidence that you have obtained new coverage. Because [hazard] [Insurance Type] insurance is required on your property, [we bought insurance for your property] [we plan to buy insurance for your property]. You must pay us for any period during which the insurance we buy is in effect but you do not have insurance.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(A)-p38" marker="">
+          <paragraph label="1024-MS-3(A)-p37" marker="">
             <content>You should immediately provide us with your insurance information. [Describe the insurance information the borrower must provide]. [The information must be provided in writing.]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(A)-p39" marker="">
+          <paragraph label="1024-MS-3(A)-p38" marker="">
             <content>The insurance we [bought] [buy]:</content>
           </paragraph>
-          <paragraph label="1024-MS-3(A)-p40" marker="">
+          <paragraph label="1024-MS-3(A)-p39" marker="">
             <content>• May be more expensive than the insurance you can buy yourself.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(A)-p41" marker="">
+          <paragraph label="1024-MS-3(A)-p40" marker="">
             <content>• May not provide as much coverage as an insurance policy you buy yourself.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(A)-p42" marker="">
+          <paragraph label="1024-MS-3(A)-p41" marker="">
             <content>If you have any questions, please contact us at [telephone number].</content>
           </paragraph>
-          <paragraph label="1024-MS-3(A)-p43" marker="">
+          <paragraph label="1024-MS-3(A)-p42" marker="">
             <content>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</content>
           </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="5" label="1024-MS-3(B)">
           <subject>MS-3(B)— Model Form for Force-Placed Insurance Notice Containing Information Required By § 1024.37(d)(2)(i)</subject>
-          <paragraph label="1024-MS-3(B)-p44" marker="">
+          <paragraph label="1024-MS-3(B)-p43" marker="">
             <content>[Name and Mailing Address of Servicer]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p45" marker="">
+          <paragraph label="1024-MS-3(B)-p44" marker="">
             <content>[Date of Notice]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p46" marker="">
+          <paragraph label="1024-MS-3(B)-p45" marker="">
             <content>[Borrower's Name]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p47" marker="">
+          <paragraph label="1024-MS-3(B)-p46" marker="">
             <content>[Borrower's Mailing Address]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p48" marker="">
+          <paragraph label="1024-MS-3(B)-p47" marker="">
             <content>Subject: Second and final notice—please provide insurance information for [Property Address]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p49" marker="">
+          <paragraph label="1024-MS-3(B)-p48" marker="">
             <content>Dear [Borrower's Name]:</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p50" marker="">
+          <paragraph label="1024-MS-3(B)-p49" marker="">
             <content>This is your second and final notice that our records show that your [hazard] [Insurance Type] insurance [is expiring] [expired], and we do not have evidence that you have obtained new coverage. Because [hazard] [Insurance Type] insurance is required on your property, [we bought insurance for your property] [we plan to buy insurance for your property]. You must pay us for any period during which the insurance we buy is in effect but you do not have insurance.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p51" marker="">
+          <paragraph label="1024-MS-3(B)-p50" marker="">
             <content>You should immediately provide us with your insurance information. [Describe the insurance information the borrower must provide]. [The information must be provided in writing.]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p52" marker="">
+          <paragraph label="1024-MS-3(B)-p51" marker="">
             <content>The insurance we [bought] [buy]:</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p53" marker="">
+          <paragraph label="1024-MS-3(B)-p52" marker="">
             <content>• [Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p54" marker="">
+          <paragraph label="1024-MS-3(B)-p53" marker="">
             <content>• May not provide as much coverage as an insurance policy you buy yourself.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p55" marker="">
+          <paragraph label="1024-MS-3(B)-p54" marker="">
             <content>If you have any questions, please contact us at [telephone number].</content>
           </paragraph>
-          <paragraph label="1024-MS-3(B)-p56" marker="">
+          <paragraph label="1024-MS-3(B)-p55" marker="">
             <content>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</content>
           </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="6" label="1024-MS-3(C)">
           <subject>MS-3(C)— Model Form for Force-Placed Insurance Notice Containing Information Required By § 1024.37(d)(2)(ii)</subject>
-          <paragraph label="1024-MS-3(C)-p57" marker="">
+          <paragraph label="1024-MS-3(C)-p56" marker="">
             <content>[Name and Mailing Address of Servicer]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p58" marker="">
+          <paragraph label="1024-MS-3(C)-p57" marker="">
             <content>[Date of Notice]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p59" marker="">
+          <paragraph label="1024-MS-3(C)-p58" marker="">
             <content>[Borrower's Name]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p60" marker="">
+          <paragraph label="1024-MS-3(C)-p59" marker="">
             <content>[Borrower's Mailing Address]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p61" marker="">
+          <paragraph label="1024-MS-3(C)-p60" marker="">
             <content>Subject: Second and final notice—please provide insurance information for [Property Address]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p62" marker="">
+          <paragraph label="1024-MS-3(C)-p61" marker="">
             <content>Dear [Borrower's Name]:</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p63" marker="">
+          <paragraph label="1024-MS-3(C)-p62" marker="">
             <content>We received the insurance information you provided, but we are unable to verify coverage from [Date Range].</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p64" marker="">
+          <paragraph label="1024-MS-3(C)-p63" marker="">
             <content>Please provide us with insurance information for [Date Range] immediately.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p65" marker="">
+          <paragraph label="1024-MS-3(C)-p64" marker="">
             <content>We will charge you for insurance we [bought] [plan to buy] for [Date Range] unless we can verify that you have insurance coverage for [Date Range].</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p66" marker="">
+          <paragraph label="1024-MS-3(C)-p65" marker="">
             <content>The insurance we [bought] [buy]:</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p67" marker="">
+          <paragraph label="1024-MS-3(C)-p66" marker="">
             <content>• Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p68" marker="">
+          <paragraph label="1024-MS-3(C)-p67" marker="">
             <content>• May not provide as much coverage as an insurance policy you buy yourself.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p69" marker="">
+          <paragraph label="1024-MS-3(C)-p68" marker="">
             <content>If you have any questions, please contact us at [telephone number].</content>
           </paragraph>
-          <paragraph label="1024-MS-3(C)-p70" marker="">
+          <paragraph label="1024-MS-3(C)-p69" marker="">
             <content>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</content>
           </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="7" label="1024-MS-3(D)">
           <subject>MS-3(D)—Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By § 1024.37(e)(2)</subject>
-    <paragraph label="1024-MS-3(D)-p71" marker="">
+    <paragraph label="1024-MS-3(D)-p70" marker="">
             <content>[Name and Mailing Address of Servicer]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p72" marker="">
+          <paragraph label="1024-MS-3(D)-p71" marker="">
             <content>[Date of Notice]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p73" marker="">
+          <paragraph label="1024-MS-3(D)-p72" marker="">
             <content>[Borrower's Name]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p74" marker="">
+          <paragraph label="1024-MS-3(D)-p73" marker="">
             <content>[Borrower's Mailing Address]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p75" marker="">
+          <paragraph label="1024-MS-3(D)-p74" marker="">
             <content>Subject: Please update insurance information for [Property Address]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p76" marker="">
+          <paragraph label="1024-MS-3(D)-p75" marker="">
             <content>Dear [Borrower's Name]:</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p77" marker="">
+          <paragraph label="1024-MS-3(D)-p76" marker="">
             <content>Because we did not have evidence that you had [hazard] [Insurance Type] insurance on the property listed above, we bought insurance on your property and added the cost to your mortgage loan account.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p78" marker="">
+          <paragraph label="1024-MS-3(D)-p77" marker="">
             <content>The policy that we bought [expired] [is scheduled to expire]. Because [hazard][Insurance Type] insurance] is required on your property, we intend to maintain insurance on your property by renewing or replacing the insurance we bought.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p79" marker="">
+          <paragraph label="1024-MS-3(D)-p78" marker="">
             <content>The insurance we buy:</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p80" marker="">
+          <paragraph label="1024-MS-3(D)-p79" marker="">
             <content>• [Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p81" marker="">
+          <paragraph label="1024-MS-3(D)-p80" marker="">
             <content>• May not provide as much coverage as an insurance policy you buy yourself.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p82" marker="">
+          <paragraph label="1024-MS-3(D)-p81" marker="">
             <content>If you buy [hazard] [Insurance Type] insurance, you should immediately provide us with your insurance information.</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p83" marker="">
+          <paragraph label="1024-MS-3(D)-p82" marker="">
             <content>[Describe the insurance information the borrower must provide]. [The information must be provided in writing.]</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p84" marker="">
+          <paragraph label="1024-MS-3(D)-p83" marker="">
             <content>If you have any questions, please contact us at [telephone number].</content>
           </paragraph>
-          <paragraph label="1024-MS-3(D)-p85" marker="">
+          <paragraph label="1024-MS-3(D)-p84" marker="">
             <content>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</content>
           </paragraph>
         </appendixSection>
@@ -5954,43 +5961,43 @@
         </appendixSection>
         <appendixSection appendixSecNum="9" label="1024-MS-4(A)">
           <subject>MS-4(A)—Statement Encouraging the Borrower To Contact the Servicer and Additional Information About Loss Mitigation Options (§ 1024.39(b)(2)(i), (ii) and (iv))</subject>
-          <paragraph label="1024-MS-4(A)-p86" marker="">
+          <paragraph label="1024-MS-4(A)-p85" marker="">
             <content>Call us today to learn more about your options and instructions for how to apply. [The longer you wait, or the further you fall behind on your payments, the harder it will be to find a solution.]</content>
           </paragraph>
-          <paragraph label="1024-MS-4(A)-p87" marker="">
+          <paragraph label="1024-MS-4(A)-p86" marker="">
             <content>[Servicer Name]</content>
           </paragraph>
-          <paragraph label="1024-MS-4(A)-p88" marker="">
+          <paragraph label="1024-MS-4(A)-p87" marker="">
             <content>[Servicer Address]</content>
           </paragraph>
-          <paragraph label="1024-MS-4(A)-p89" marker="">
+          <paragraph label="1024-MS-4(A)-p88" marker="">
             <content>[Servicer Telephone Number]</content>
           </paragraph>
-          <paragraph label="1024-MS-4(A)-p90" marker="">
+          <paragraph label="1024-MS-4(A)-p89" marker="">
             <content>[For more information, visit [Servicer Web site] [and][or] [Email Address]].</content>
           </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="10" label="1024-MS-4(B)">
           <subject>MS-4(B)—Available Loss Mitigation Options (§ 1024.39(b)(2)(iii))</subject>
-          <paragraph label="1024-MS-4(B)-p91" marker="">
+          <paragraph label="1024-MS-4(B)-p90" marker="">
             <content>[If you need help, the following options may be possible (most are subject to lender approval):]</content>
           </paragraph>
-          <paragraph label="1024-MS-4(B)-p92" marker="">
+          <paragraph label="1024-MS-4(B)-p91" marker="">
             <content>• [Refinance your loan with us or another lender;]</content>
           </paragraph>
-          <paragraph label="1024-MS-4(B)-p93" marker="">
+          <paragraph label="1024-MS-4(B)-p92" marker="">
             <content>• [Modify your loan terms with us;]</content>
           </paragraph>
-          <paragraph label="1024-MS-4(B)-p94" marker="">
+          <paragraph label="1024-MS-4(B)-p93" marker="">
             <content>• [Payment forbearance temporarily gives you more time to pay your monthly payment;] [or]</content>
           </paragraph>
-          <paragraph label="1024-MS-4(B)-p95" marker="">
+          <paragraph label="1024-MS-4(B)-p94" marker="">
             <content>• [If you are not able to continue paying your mortgage, your best option may be to find more affordable housing. As an alternative to foreclosure, you may be able to sell your home and use the proceeds to pay off your current loan.]</content>
           </paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="11" label="1024-MS-4(C)">
           <subject>MS-4(C)—Housing Counselors (§ 1024.39(b)(2)(v))</subject>
-          <paragraph label="1024-MS-4(C)-p96" marker="">
+          <paragraph label="1024-MS-4(C)-p95" marker="">
             <content>For help exploring your options, the Federal government provides contact information for housing counselors, which you can access by contacting [the Consumer Financial Protection Bureau at [Bureau Housing Counselor List Web site]] [the Department of Housing and Urban Development at [HUD Housing Counselor List Web site]] or by calling [HUD Housing Counselor List Telephone Number].</content>
           </paragraph>
         </appendixSection>
