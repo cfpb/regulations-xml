@@ -593,7 +593,7 @@
     </change>
 
     <change operation="added" label="1024-30-d-Interp">
-      <interpParagraph label="1024-30-d-Interp" marker="">
+      <interpParagraph label="1024-30-d-Interp" target="1024-30-d">
         <title>30(d) Successors in interest.</title>
         <content/>
         <interpParagraph label="1024-30-d-Interp-1" marker="1.">
@@ -692,7 +692,7 @@
     </change>
 
     <change operation="added" label="1024-36-i-Interp">
-      <interpParagraph label="1024-36-i-Interp" marker="">
+      <interpParagraph label="1024-36-i-Interp" target="1024-36-i">
         <title>36(i) Potential successors in interest.</title>
         <content/>
         <interpParagraph label="1024-36-i-Interp-1" marker="1.">
@@ -711,7 +711,7 @@
     </change>
 
     <change operation="added" label="1024-37-d-5-Interp">
-      <interpParagraph label="1024-37-d-5-Interp" marker="">
+      <interpParagraph label="1024-37-d-5-Interp" target="1024-37-d-5">
         <title>37(d)(5) Updating notice with borrower information.</title>
         <content/>
         <interpParagraph label="1024-37-d-5-Interp-1" marker="1.">
@@ -722,7 +722,7 @@
     </change>
 
     <change operation="added" label="1024-38-b-1-vi-Interp">
-      <interpParagraph label="1024-38-b-1-vi-Interp" marker="">
+      <interpParagraph label="1024-38-b-1-vi-Interp" target="1024-38-b-1-vi">
         <title>Paragraph 38(b)(1)(vi).</title>
         <content/>
         <interpParagraph label="1024-38-b-1-vi-Interp-1" marker="1.">
@@ -765,7 +765,7 @@
     </change>
 
     <change operation="added" label="1024-38-b-3-Interp">
-      <interpParagraph label="1024-38-b-3-iii-Interp" marker="">
+      <interpParagraph label="1024-38-b-3-iii-Interp" target="1024-38-b-3-iii">
         <title>Paragraph 38(b)(3)(iii).</title>
         <content/>
         <interpParagraph label="1024-38-b-3-iii-Interp-1" marker="1.">
@@ -860,7 +860,7 @@
     </change>
 
     <change operation="added" label="1024-39-c-Interp">
-      <interpParagraph label="1024-39-c-Interp" marker="">
+      <interpParagraph label="1024-39-c-Interp" target="1024-39-c">
         <title>39(c) Borrowers in bankruptcy.</title>
         <content/>
         <interpParagraph label="1024-39-c-Interp-1" marker="1.">
@@ -918,7 +918,7 @@
     </change>
 
     <change operation="added" label="1024-39-d-2-Interp">
-      <interpParagraph label="1024-39-d-2-Interp" marker="">
+      <interpParagraph label="1024-39-d-2-Interp" target="1024-39-d-2">
         <title>Paragraph 39(d)(2).</title>
         <content/>
         <interpParagraph label="1024-39-d-2-Interp-1" marker="1.">
@@ -1104,6 +1104,8 @@
       </interpParagraph>
     </change>
 
+    <change operation="deleted" label="1024-41-d-1-Interp-2-p1"/>
+
     <change operation="modified" label="1024-41-g-Interp-3">
       <interpParagraph label="1024-41-g-Interp-3" marker="3.">
         <title>Interaction with foreclosure counsel.</title>
@@ -1131,7 +1133,7 @@
     </change>
 
     <change operation="added" label="1024-41-k-Interp">
-      <interpParagraph label="1024-41-k-Interp" marker="">
+      <interpParagraph label="1024-41-k-Interp" target="1024-41-k">
         <title>41(k) Servicing transfers.</title>
         <content/>
         <interpParagraph label="1024-41-k-Interp-1" marker="1.">

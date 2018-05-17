@@ -4750,7 +4750,7 @@
           <content>If a property ceases to be a borrower's principal residence, the procedures set forth in §§ 1024.39 through 1024.41 do not apply to a mortgage loan secured by that property. Determination of principal residence status will depend on the specific facts and circumstances regarding the property and applicable State law. For example, a vacant property may still be a borrower's principal residence.</content>
         </interpParagraph>
       </interpParagraph>
-    <interpParagraph label="1024-30-d-Interp" marker="">
+    <interpParagraph label="1024-30-d-Interp" target="1024-30-d">
         <title>30(d) Successors in interest.</title>
         <content/>
         <interpParagraph label="1024-30-d-Interp-1" marker="1.">
@@ -5258,7 +5258,7 @@
               </interpParagraph>
             </interpParagraph>
           </interpParagraph>
-        <interpParagraph label="1024-36-i-Interp" marker="">
+        <interpParagraph label="1024-36-i-Interp" target="1024-36-i">
         <title>36(i) Potential successors in interest.</title>
         <content/>
         <interpParagraph label="1024-36-i-Interp-1" marker="1.">
@@ -5375,7 +5375,7 @@
                 <title type="keyterm">Reasonable time.</title>
                 <content>A servicer may have to prepare the written notice required by § <ref target="1024-37-c-1-ii" reftype="internal">1024.37(c)(1)(ii)</ref> in advance of delivering or placing the notice in the mail. If the notice has already been put into production, the servicer is not required to update the notice with new insurance information received about the borrower so long as the written notice was put into production within a reasonable time prior to the servicer delivering or placing the notice in the mail. For purposes of § <ref target="1024-37-d-4" reftype="internal">1024.37(d)(4)</ref>, five days (excluding legal holidays, Saturdays, and Sundays) is a reasonable time.</content></interpParagraph>
             </interpParagraph>
-          <interpParagraph label="1024-37-d-5-Interp" marker="">
+          <interpParagraph label="1024-37-d-5-Interp" target="1024-37-d-5">
         <title>37(d)(5) Updating notice with borrower information.</title>
         <content/>
         <interpParagraph label="1024-37-d-5-Interp-1" marker="1.">
@@ -5463,7 +5463,7 @@
                   <content>The relevant current information to owners or assignees of mortgage loans includes, among other things, information about a servicer's evaluation of borrowers for loss mitigation options and a servicer's agreements with borrowers on loss mitigation options, including loan modifications. Such information includes, for example, information regarding the date, terms, and features of loan modifications, the components of any capitalized arrears, the amount of any servicer advances, and any assumptions regarding the value of a property used in evaluating any loss mitigation options.</content>
                 </interpParagraph>
               </interpParagraph>
-            <interpParagraph label="1024-38-b-1-vi-Interp" marker="">
+            <interpParagraph label="1024-38-b-1-vi-Interp" target="1024-38-b-1-vi">
         <title>Paragraph 38(b)(1)(vi).</title>
         <content/>
         <interpParagraph label="1024-38-b-1-vi-Interp-1" marker="1.">
@@ -5523,7 +5523,7 @@
                   <content>A servicer must have policies and procedures reasonably designed to evaluate a borrower for a loss mitigation option consistent with any owner or assignee requirements, even where the requirements of § <ref target="1024-41" reftype="internal">1024.41</ref> may be inapplicable. For example, an owner or assignee may require that a servicer implement certain procedures to review a loss mitigation application submitted by a borrower less than 37 days before a foreclosure sale. Further, an owner or assignee may require that a servicer implement certain procedures to re-evaluate a borrower who has demonstrated a material change in the borrower's financial circumstances for a loss mitigation option after the servicer's initial evaluation. A servicer must have policies and procedures reasonably designed to implement these requirements even if such loss mitigation evaluations may not be required pursuant to § <ref target="1024-41" reftype="internal">1024.41</ref>.</content></interpParagraph>
               </interpParagraph>
             </interpParagraph>
-            <interpParagraph label="1024-38-b-3-iii-Interp" marker="">
+            <interpParagraph label="1024-38-b-3-iii-Interp" target="1024-38-b-3-iii">
         <title>Paragraph 38(b)(3)(iii).</title>
         <content/>
         <interpParagraph label="1024-38-b-3-iii-Interp-1" marker="1.">
@@ -5724,7 +5724,7 @@
               </interpParagraph>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1024-39-c-Interp" marker="">
+          <interpParagraph label="1024-39-c-Interp" target="1024-39-c">
         <title>39(c) Borrowers in bankruptcy.</title>
         <content/>
         <interpParagraph label="1024-39-c-Interp-1" marker="1.">
@@ -5933,11 +5933,7 @@
         <interpParagraph label="1024-41-d-Interp-2" marker="2.">
           <title type="keyterm">Net present value calculation.</title>
           <content>If a trial or permanent loan modification is denied because of a net present value calculation, the specific reasons in the notice provided to the borrower must include the inputs used in the net present value calculation.</content>
-          <interpParagraph label="1024-41-d-1-Interp-2-p1" marker="">
-            <title type="keyterm">(c)(1)(4) Other notices.</title>
-            <content>A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B (12 CFR 1002 et seq.) or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to § <ref target="1024-41-d" reftype="internal">1024.41(d)</ref>, unless otherwise prohibited by applicable law.</content>
           </interpParagraph>
-        </interpParagraph>
         <interpParagraph label="1024-41-d-Interp-3" marker="3.">
           <title type="keyterm">Determination not to offer a loan modification option constitutes a denial.</title>
           <content>A servicer's determination not to offer a borrower a loan modification available to the borrower constitutes a denial of the borrower for that loan modification option, notwithstanding whether a servicer offers a borrower a different loan modification option or other loss mitigation option.</content>
@@ -6026,7 +6022,7 @@
         <content>Section 1024.41(i) provides that a servicer need not comply with § 1024.41 for a subsequent loss mitigation application from a borrower where certain conditions are met. A transferee servicer and a transferor servicer, however, are not the same servicer. Accordingly, a transferee servicer is required to comply with the applicable requirements of § 1024.41 upon receipt of a loss mitigation application from a borrower whose servicing the transferee servicer has obtained through a servicing transfer, even if the borrower previously received an evaluation of a complete loss mitigation application from the transferor servicer.</content>
       </interpParagraph>
     </interpParagraph>
-        <interpParagraph label="1024-41-k-Interp" marker="">
+        <interpParagraph label="1024-41-k-Interp" target="1024-41-k">
         <title>41(k) Servicing transfers.</title>
         <content/>
         <interpParagraph label="1024-41-k-Interp-1" marker="1.">
