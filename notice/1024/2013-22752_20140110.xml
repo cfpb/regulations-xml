@@ -180,7 +180,7 @@
       <title>§ 1024.41—Loss Mitigation Procedures.</title>
     </change>
     <change operation="added" label="1024-41-b-2-Interp">
-      <interpParagraph label="1024-41-b-2-Interp">
+      <interpParagraph label="1024-41-b-2-Interp" target="1024-41-b-2">
         <title>41(b)(2) Review of loss mitigation application submission.</title>
         <content/>
         <interpParagraph label="1024-41-b-2-i-Interp">
@@ -190,7 +190,7 @@
             <title>Paragraph 41(b)(2)(i)(B).</title>
             <content/>
             <interpParagraph label="1024-41-b-2-i-B-Interp-1" marker="(1)">
-              <title type="keyterm">Later discovery of additional information required to evaluate application.</title>
+              <title>Later discovery of additional information required to evaluate application.</title>
               <content>Even if a servicer has informed a borrower that an application is complete (or notified the borrower of specific information necessary to complete an incomplete application), if the servicer determines, in the course of evaluating the loss mitigation application submitted by the borrower, that additional information or a corrected version of a previously submitted document is required, the servicer must promptly request the additional information or corrected document from the borrower pursuant to the reasonable diligence obligation in § <ref target="1024-41-b-1" reftype="internal">1024.41(b)(1)</ref>. See § <ref target="1024-41-c-2-iv" reftype="internal">1024.41(c)(2)(iv)</ref> addressing facially complete applications.</content>
             </interpParagraph>
           </interpParagraph>
@@ -199,7 +199,7 @@
           <title>41(b)(2)(ii) Time period disclosure.</title>
           <content/>
           <interpParagraph label="1024-41-b-2-ii-Interp-1" marker="1.">
-            <title type="keyterm">Reasonable date.</title>
+            <title>Reasonable date.</title>
             <content>Section 1024.41(b)(2)(ii) requires that a notice informing a borrower that a loss mitigation application is incomplete must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete. In determining a reasonable date, a servicer should select the deadline that preserves the maximum borrower rights under § <ref target="1024-41" reftype="internal">1024.41</ref> based on the milestones listed below, except when doing so would be impracticable to permit the borrower sufficient time to obtain and submit the type of documentation needed. Generally, it would be impracticable for a borrower to obtain and submit documents in less than seven days. In setting a date, the following milestones should be considered (if the date of a foreclosure sale is not known, a servicer may use a reasonable estimate of the date for which a foreclosure sale may be scheduled):</content>
             <interpParagraph label="1024-41-b-2-ii-Interp-1-i" marker="i.">
               <content>The date by which any document or information submitted by a borrower will be considered stale or invalid pursuant to any requirements applicable to any loss mitigation option available to the borrower;</content>

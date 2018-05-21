@@ -5271,22 +5271,20 @@
                 <title type="keyterm">Diligence requirements.</title>
                 <content>Although a servicer has flexibility to establish its own requirements regarding the documents and information necessary for a loss mitigation application, the servicer must act with reasonable diligence to collect information needed to complete the application. Further, a servicer must request information necessary to make a loss mitigation application complete promptly after receiving the loss mitigation application. Reasonable diligence includes, without limitation, the following actions:</content>
                 <interpParagraph label="1024-41-b-1-Interp-4-i" marker="i.">
-                  <content>A servicer requires additional information from the applicant, such as an address or a telephone number to verify employment; the servicer contacts the applicant promptly to obtain such information after receiving a loss mitigation application; </content>
+                  <content>A servicer requires additional information from the applicant, such as an address or a telephone number to verify employment; the servicer contacts the applicant promptly to obtain such information after receiving a loss mitigation application;</content>
                 </interpParagraph>
                 <interpParagraph label="1024-41-b-1-Interp-4-ii" marker="ii.">
                   <content>Servicing for a mortgage loan is transferred to a servicer and the borrower makes an incomplete loss mitigation application to the transferee servicer after the transfer; the transferee servicer reviews documents provided by the transferor servicer to determine if information required to make the loss mitigation application complete is contained within documents transferred by the transferor servicer to the servicer; and</content>
                 </interpParagraph>
                 <interpParagraph label="1024-41-b-1-Interp-4-iii" marker="iii.">
-                  <content>
-                    A servicer offers a borrower a payment forbearance program based on an incomplete loss mitigation application; the servicer notifies the borrower that he or she is being offered a payment forbearance program based on an evaluation of an incomplete application, and that the borrower has the option of completing the application to receive a full evaluation of all loss mitigation options available to the borrower. If a servicer provides such a notification, the borrower remains in compliance with the payment forbearance program, and the borrower does not request further assistance, the servicer could suspend reasonable diligence efforts until near the end of the payment forbearance program. Near the end of the program, and prior to the end of the forbearance period, it may be necessary for the servicer to contact the borrower to determine if the borrower wishes to complete the application and proceed with a full loss mitigation evaluation.
-                  </content>
+                  <content>A servicer offers a borrower a payment forbearance program based on an incomplete loss mitigation application; the servicer notifies the borrower that he or she is being offered a payment forbearance program based on an evaluation of an incomplete application, and that the borrower has the option of completing the application to receive a full evaluation of all loss mitigation options available to the borrower. If a servicer provides such a notification, the borrower remains in compliance with the payment forbearance program, and the borrower does not request further assistance, the servicer could suspend reasonable diligence efforts until near the end of the payment forbearance program. Near the end of the program, and prior to the end of the forbearance period, it may be necessary for the servicer to contact the borrower to determine if the borrower wishes to complete the application and proceed with a full loss mitigation evaluation.</content>
                 </interpParagraph>
               </interpParagraph>
               <interpParagraph label="1024-41-b-1-Interp-5" marker="5.">
                 <title type="keyterm">Information not in the borrower's control.</title>
                 <content>A loss mitigation application is complete when a borrower provides all information required from the borrower notwithstanding that additional information may be required by a servicer that is not in the control of a borrower. For example, if a servicer requires a consumer report for a loss mitigation evaluation, a loss mitigation application is considered complete if a borrower has submitted all information required from the borrower without regard to whether a servicer has obtained a consumer report that a servicer has requested from a consumer reporting agency.</content></interpParagraph>
             </interpParagraph>
-          <interpParagraph label="1024-41-b-2-Interp">
+          <interpParagraph label="1024-41-b-2-Interp" target="1024-41-b-2">
         <title>41(b)(2) Review of loss mitigation application submission.</title>
         <content/>
         <interpParagraph label="1024-41-b-2-i-Interp">
@@ -5296,7 +5294,7 @@
             <title>Paragraph 41(b)(2)(i)(B).</title>
             <content/>
             <interpParagraph label="1024-41-b-2-i-B-Interp-1" marker="(1)">
-              <title type="keyterm">Later discovery of additional information required to evaluate application.</title>
+              <title>Later discovery of additional information required to evaluate application.</title>
               <content>Even if a servicer has informed a borrower that an application is complete (or notified the borrower of specific information necessary to complete an incomplete application), if the servicer determines, in the course of evaluating the loss mitigation application submitted by the borrower, that additional information or a corrected version of a previously submitted document is required, the servicer must promptly request the additional information or corrected document from the borrower pursuant to the reasonable diligence obligation in § <ref target="1024-41-b-1" reftype="internal">1024.41(b)(1)</ref>. See § <ref target="1024-41-c-2-iv" reftype="internal">1024.41(c)(2)(iv)</ref> addressing facially complete applications.</content>
             </interpParagraph>
           </interpParagraph>
@@ -5305,7 +5303,7 @@
           <title>41(b)(2)(ii) Time period disclosure.</title>
           <content/>
           <interpParagraph label="1024-41-b-2-ii-Interp-1" marker="1.">
-            <title type="keyterm">Reasonable date.</title>
+            <title>Reasonable date.</title>
             <content>Section 1024.41(b)(2)(ii) requires that a notice informing a borrower that a loss mitigation application is incomplete must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete. In determining a reasonable date, a servicer should select the deadline that preserves the maximum borrower rights under § <ref target="1024-41" reftype="internal">1024.41</ref> based on the milestones listed below, except when doing so would be impracticable to permit the borrower sufficient time to obtain and submit the type of documentation needed. Generally, it would be impracticable for a borrower to obtain and submit documents in less than seven days. In setting a date, the following milestones should be considered (if the date of a foreclosure sale is not known, a servicer may use a reasonable estimate of the date for which a foreclosure sale may be scheduled):</content>
             <interpParagraph label="1024-41-b-2-ii-Interp-1-i" marker="i.">
               <content>The date by which any document or information submitted by a borrower will be considered stale or invalid pursuant to any requirements applicable to any loss mitigation option available to the borrower;</content>
