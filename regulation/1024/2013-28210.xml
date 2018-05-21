@@ -4339,11 +4339,11 @@
     </content>
       </subpart>
     <interpretations label="1024-Interp">
-	<tableOfContents>
-	  <tocInterpEntry target="1024-Interp-h1">
-	    <interpTitle>Introduction</interpTitle>
-	  </tocInterpEntry>
-	</tableOfContents>
+        <tableOfContents>
+          <tocInterpEntry target="1024-Interp-h1">
+            <interpTitle>Introduction</interpTitle>
+          </tocInterpEntry>
+        </tableOfContents>
         <title>Supplement I to Part 1024—Official Bureau Interpretations</title>
         <interpSection label="1024-Interp-h1">
           <title>Introduction</title>
@@ -4362,7 +4362,7 @@
           <interpParagraph label="1024-Interp-h1-4" marker="4.">
             <title type="keyterm">Rules of construction.</title>
             <content>(a) Lists that appear in the commentary may be exhaustive or illustrative; the appropriate construction should be clear from the context. In most cases, illustrative lists are introduced by phrases such as “including, but not limited to,” “among other things,” “for example,” or “such as.”
-	    (b) Throughout the commentary, reference to “this section” or “this paragraph” means the section or paragraph in the regulation that is the subject of the comment.</content>
+	            (b) Throughout the commentary, reference to “this section” or “this paragraph” means the section or paragraph in the regulation that is the subject of the comment.</content>
           </interpParagraph>
           <interpParagraph label="1024-Interp-h1-5" marker="5.">
             <title type="keyterm">Comment designations.</title>
@@ -5363,7 +5363,8 @@
           <content/>
           <interpParagraph label="1024-41-b-2-ii-Interp-1" marker="1.">
             <title type="keyterm">Reasonable date.</title>
-            <content>Section 1024.41(b)(2)(ii) requires that a notice informing a borrower that a loss mitigation application is incomplete must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete. In determining a reasonable date, a servicer should select the deadline that preserves the maximum borrower rights under § <ref target="1024-41" reftype="internal">1024.41</ref> based on the milestones listed below, except when doing so would be impracticable to permit the borrower sufficient time to obtain and submit the type of documentation needed. Generally, it would be impracticable for a borrower to obtain and submit documents in less than seven days. In setting a date, the following milestones should be considered (if the date of a foreclosure sale is not known, a servicer may use a reasonable estimate of the date for which a foreclosure sale may be scheduled):</content><interpParagraph label="1024-41-b-2-ii-Interp-1-i" marker="i.">
+            <content>Section 1024.41(b)(2)(ii) requires that a notice informing a borrower that a loss mitigation application is incomplete must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete. In determining a reasonable date, a servicer should select the deadline that preserves the maximum borrower rights under § <ref target="1024-41" reftype="internal">1024.41</ref> based on the milestones listed below, except when doing so would be impracticable to permit the borrower sufficient time to obtain and submit the type of documentation needed. Generally, it would be impracticable for a borrower to obtain and submit documents in less than seven days. In setting a date, the following milestones should be considered (if the date of a foreclosure sale is not known, a servicer may use a reasonable estimate of the date for which a foreclosure sale may be scheduled):</content>
+            <interpParagraph label="1024-41-b-2-ii-Interp-1-i" marker="i.">
               <content>The date by which any document or information submitted by a borrower will be considered stale or invalid pursuant to any requirements applicable to any loss mitigation option available to the borrower;</content>
             </interpParagraph>
             <interpParagraph label="1024-41-b-2-ii-Interp-1-ii" marker="ii.">

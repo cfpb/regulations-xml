@@ -648,27 +648,41 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-<!--
-    <change operation="added" label="1024-32-Interp">
-      <interpSection label="1024-32-Interp" sectionNum="32" target="1024-32">
-        <interpParagraph label="1024-32-c-1-Interp-1" marker="1.">
-          <content>A servicer may identify in the acknowledgment form examples of the types of notices and communications identified in § 1024.32(c)(1)(iii), such as periodic statements and mortgage servicing transfer notices. Any examples provided should be the types of notices or communications that would be available to a confirmed successor in interest if the confirmed successor in interest executed the acknowledgment and returned it to the servicer.</content>
-        </interpParagraph>
-        <interpParagraph label="1024-32-c-2-Interp-1" marker="1.">
-          <title>No time limit to return acknowledgment.</title>
-          <content>A confirmed successor in interest may provide an executed acknowledgment that complies with § 1024.32(c)(1)(iv) to the servicer at any time after confirmation.</content>
-        </interpParagraph>
-        <interpParagraph label="1024-32-c-2-Interp-2" marker="2.">
-          <title>Effect of revocation of acknowledgment.</title>
-          <content>If a confirmed successor in interest who is not liable on the mortgage loan obligation executes and then later revokes an acknowledgment pursuant to § 1024.32(c)(1)(iv), the servicer is not required to provide to the confirmed successor in interest any written disclosure required by § 1024.17, § 1024.33, § 1024.34, § 1024.37, or § 1024.39 or to comply with the live contact requirements in § 1024.39(a) with respect to the confirmed successor in interest from the date the revocation is received until the confirmed successor in interest either assumes the mortgage loan obligation under State law or executes a new acknowledgment that complies with § 1024.32(c)(1)(iv) and provides it to the servicer.</content>
-        </interpParagraph>
-        <interpParagraph label="1024-32-c-4-Interp-1" marker="1.">
-          <title>Specific written disclosure.</title>
-          <content>A servicer may rely on § 1024.32(c)(4) if the servicer provides a specific written disclosure required by § 1024.17, § 1024.33, § 1024.34, § 1024.37, or § 1024.39(b) to another borrower. For example, a servicer is not required to provide a force-placed insurance notice required under § 1024.37 to a confirmed successor in interest if the servicer is providing the same force-placed insurance notice to a transferor borrower or to another confirmed successor in interest.</content>
+
+    <change operation="added" label="1024-32-Interp" before="1024-33-Interp">
+      <interpSection label="1024-32-Interp" sectionNum="32">
+        <title>§ 1024.32—General Disclosure Requirements.</title>
+        <interpParagraph label="1024-32-c-Interp" marker="">
+          <title>32(c) Confirmed successors in interest.</title>
+          <content/>
+          <interpParagraph label="1024-32-c-1-Interp-1" marker="">
+            <title>32(c)(1) Optional notice with acknowledgment form.</title>
+            <content>1. A servicer may identify in the acknowledgment form examples of the types of notices and communications identified in § 1024.32(c)(1)(iii), such as periodic statements and mortgage servicing transfer notices. Any examples provided should be the types of notices or communications that would be available to a confirmed successor in interest if the confirmed successor in interest executed the acknowledgment and returned it to the servicer.</content>
+          </interpParagraph>
+          <interpParagraph label="1024-32-c-2-Interp" marker="">
+            <title>32(c)(2) Effect of failure to execute acknowledgment.</title>
+            <content/>
+            <interpParagraph label="1024-32-c-2-Interp-1" marker="1.">
+              <title>No time limit to return acknowledgment.</title>
+              <content>A confirmed successor in interest may provide an executed acknowledgment that complies with § 1024.32(c)(1)(iv) to the servicer at any time after confirmation.</content>
+            </interpParagraph>
+            <interpParagraph label="1024-32-c-2-Interp-2" marker="2.">
+              <title>Effect of revocation of acknowledgment.</title>
+              <content>If a confirmed successor in interest who is not liable on the mortgage loan obligation executes and then later revokes an acknowledgment pursuant to § 1024.32(c)(1)(iv), the servicer is not required to provide to the confirmed successor in interest any written disclosure required by § 1024.17, § 1024.33, § 1024.34, § 1024.37, or § 1024.39 or to comply with the live contact requirements in § 1024.39(a) with respect to the confirmed successor in interest from the date the revocation is received until the confirmed successor in interest either assumes the mortgage loan obligation under State law or executes a new acknowledgment that complies with § 1024.32(c)(1)(iv) and provides it to the servicer.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1024-32-c-4-Interp" marker="">
+            <title>32(c)(4) Multiple notices unnecessary.</title>
+            <content/>
+            <interpParagraph label="1024-32-c-4-Interp-1" marker="1.">
+              <title>Specific written disclosure.</title>
+              <content>A servicer may rely on § 1024.32(c)(4) if the servicer provides a specific written disclosure required by § 1024.17, § 1024.33, § 1024.34, § 1024.37, or § 1024.39(b) to another borrower. For example, a servicer is not required to provide a force-placed insurance notice required under § 1024.37 to a confirmed successor in interest if the servicer is providing the same force-placed insurance notice to a transferor borrower or to another confirmed successor in interest.</content>
+            </interpParagraph>
+          </interpParagraph>
         </interpParagraph>
       </interpSection>
     </change>
--->
+
     <change operation="modified" label="1024-36-a-Interp-2">
       <interpParagraph label="1024-36-a-Interp-2" marker="2.">
         <title>Owner or assignee of a mortgage loan.</title>

@@ -4648,11 +4648,11 @@
     </content>
       </subpart>
     <interpretations label="1024-Interp">
-	<tableOfContents>
-	  <tocInterpEntry target="1024-Interp-h1">
-	    <interpTitle>Introduction</interpTitle>
-	  </tocInterpEntry>
-	</tableOfContents>
+        <tableOfContents>
+          <tocInterpEntry target="1024-Interp-h1">
+            <interpTitle>Introduction</interpTitle>
+          </tocInterpEntry>
+        </tableOfContents>
         <title>Supplement I to Part 1024—Official Bureau Interpretations</title>
         <interpSection label="1024-Interp-h1">
           <title>Introduction</title>
@@ -4671,7 +4671,7 @@
           <interpParagraph label="1024-Interp-h1-4" marker="4.">
             <title type="keyterm">Rules of construction.</title>
             <content>(a) Lists that appear in the commentary may be exhaustive or illustrative; the appropriate construction should be clear from the context. In most cases, illustrative lists are introduced by phrases such as “including, but not limited to,” “among other things,” “for example,” or “such as.”
-	    (b) Throughout the commentary, reference to “this section” or “this paragraph” means the section or paragraph in the regulation that is the subject of the comment.</content>
+	            (b) Throughout the commentary, reference to “this section” or “this paragraph” means the section or paragraph in the regulation that is the subject of the comment.</content>
           </interpParagraph>
           <interpParagraph label="1024-Interp-h1-5" marker="5.">
             <title type="keyterm">Comment designations.</title>
@@ -4838,7 +4838,38 @@
         </interpParagraph>
       </interpParagraph>
     </interpSection>
-        <interpSection label="1024-33-Interp" sectionNum="33">
+        <interpSection label="1024-32-Interp" sectionNum="32">
+        <title>§ 1024.32—General Disclosure Requirements.</title>
+        <interpParagraph label="1024-32-c-Interp" marker="">
+          <title>32(c) Confirmed successors in interest.</title>
+          <content/>
+          <interpParagraph label="1024-32-c-1-Interp-1" marker="">
+            <title>32(c)(1) Optional notice with acknowledgment form.</title>
+            <content>1. A servicer may identify in the acknowledgment form examples of the types of notices and communications identified in § 1024.32(c)(1)(iii), such as periodic statements and mortgage servicing transfer notices. Any examples provided should be the types of notices or communications that would be available to a confirmed successor in interest if the confirmed successor in interest executed the acknowledgment and returned it to the servicer.</content>
+          </interpParagraph>
+          <interpParagraph label="1024-32-c-2-Interp" marker="">
+            <title>32(c)(2) Effect of failure to execute acknowledgment.</title>
+            <content/>
+            <interpParagraph label="1024-32-c-2-Interp-1" marker="1.">
+              <title>No time limit to return acknowledgment.</title>
+              <content>A confirmed successor in interest may provide an executed acknowledgment that complies with § 1024.32(c)(1)(iv) to the servicer at any time after confirmation.</content>
+            </interpParagraph>
+            <interpParagraph label="1024-32-c-2-Interp-2" marker="2.">
+              <title>Effect of revocation of acknowledgment.</title>
+              <content>If a confirmed successor in interest who is not liable on the mortgage loan obligation executes and then later revokes an acknowledgment pursuant to § 1024.32(c)(1)(iv), the servicer is not required to provide to the confirmed successor in interest any written disclosure required by § 1024.17, § 1024.33, § 1024.34, § 1024.37, or § 1024.39 or to comply with the live contact requirements in § 1024.39(a) with respect to the confirmed successor in interest from the date the revocation is received until the confirmed successor in interest either assumes the mortgage loan obligation under State law or executes a new acknowledgment that complies with § 1024.32(c)(1)(iv) and provides it to the servicer.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1024-32-c-4-Interp" marker="">
+            <title>32(c)(4) Multiple notices unnecessary.</title>
+            <content/>
+            <interpParagraph label="1024-32-c-4-Interp-1" marker="1.">
+              <title>Specific written disclosure.</title>
+              <content>A servicer may rely on § 1024.32(c)(4) if the servicer provides a specific written disclosure required by § 1024.17, § 1024.33, § 1024.34, § 1024.37, or § 1024.39(b) to another borrower. For example, a servicer is not required to provide a force-placed insurance notice required under § 1024.37 to a confirmed successor in interest if the servicer is providing the same force-placed insurance notice to a transferor borrower or to another confirmed successor in interest.</content>
+            </interpParagraph>
+          </interpParagraph>
+        </interpParagraph>
+      </interpSection>
+    <interpSection label="1024-33-Interp" sectionNum="33">
           <title>§ 1024.33—Mortgage Servicing Transfers</title>
           <interpParagraph label="1024-33-a-Interp" target="1024-33-a">
             <title>33(a) Servicing disclosure statement.</title>

@@ -2143,11 +2143,11 @@
 
     <change operation="added" label="1024-Interp">
       <interpretations label="1024-Interp">
-	<tableOfContents>
-	  <tocInterpEntry target="1024-Interp-h1">
-	    <interpTitle>Introduction</interpTitle>
-	  </tocInterpEntry>
-	</tableOfContents>
+        <tableOfContents>
+          <tocInterpEntry target="1024-Interp-h1">
+            <interpTitle>Introduction</interpTitle>
+          </tocInterpEntry>
+        </tableOfContents>
         <title>Supplement I to Part 1024—Official Bureau Interpretations</title>
         <interpSection label="1024-Interp-h1">
           <title>Introduction</title>
@@ -2166,7 +2166,7 @@
           <interpParagraph label="1024-Interp-h1-4" marker="4.">
             <title type="keyterm">Rules of construction.</title>
             <content>(a) Lists that appear in the commentary may be exhaustive or illustrative; the appropriate construction should be clear from the context. In most cases, illustrative lists are introduced by phrases such as “including, but not limited to,” “among other things,” “for example,” or “such as.”
-	    (b) Throughout the commentary, reference to “this section” or “this paragraph” means the section or paragraph in the regulation that is the subject of the comment.</content>
+	            (b) Throughout the commentary, reference to “this section” or “this paragraph” means the section or paragraph in the regulation that is the subject of the comment.</content>
           </interpParagraph>
           <interpParagraph label="1024-Interp-h1-5" marker="5.">
             <title type="keyterm">Comment designations.</title>
