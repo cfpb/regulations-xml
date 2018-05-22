@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2013-05-02</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>X</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1024</section>
+    </cfr>
+    <documentNumber>2013-09750</documentNumber>
+    <effectiveDate>2013-06-03</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/05/02/2013-09750/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedure-act-regulation-x</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2011-31722" rightDocumentNumber="2013-09750">
+    <change operation="added" label="1024-5-c">
+      <paragraph label="1024-5-c" marker="(c)">
+        <title>Relation to State laws.</title>
+        <content/>
+        <paragraph label="1024-5-c-1" marker="(1)">
+          <content>State laws that are inconsistent with RESPA or this part are preempted to the extent of the inconsistency. However, RESPA and these regulations do not annul, alter, affect, or exempt any person subject to their provisions from complying with the laws of any State with respect to settlement practices, except to the extent of the inconsistency.</content>
+        </paragraph>
+        <paragraph label="1024-5-c-2" marker="(2)">
+          <content>Upon request by any person, the Bureau is authorized to determine if inconsistencies with State law exist; in doing so, the Bureau shall consult with appropriate Federal agencies.</content>
+          <paragraph label="1024-5-c-2-i" marker="(i)">
+            <content>The Bureau may not determine that a State law or regulation is inconsistent with any provision of RESPA or this part, if the Bureau determines that such law or regulation gives greater protection to the consumer.</content>
+          </paragraph>
+          <paragraph label="1024-5-c-2-ii" marker="(ii)">
+            <content>In determining whether provisions of State law or regulations concerning affiliated business arrangements are inconsistent with RESPA or this part, the Bureau may not construe those provisions that impose more stringent limitations on affiliated business arrangements as inconsistent with RESPA so long as they give more protection to consumers and/or competition.</content>
+          </paragraph>
+        </paragraph>
+        <paragraph label="1024-5-c-3" marker="(3)">
+          <content>Any person may request the Bureau to determine whether an inconsistency exists by submitting to the address established by the Bureau to request an official interpretation, a copy of the State law in question, any other law or judicial or administrative opinion that implements, interprets or applies the relevant provision, and an explanation of the possible inconsistency. A determination by the Bureau that an inconsistency with State law exists will be made by publication of a notice in the Federal Register. “Law” as used in this section includes regulations and any enactment which has the force and effect of law and is issued by a State or any political subdivision of a State.</content>
+        </paragraph>
+        <paragraph label="1024-5-c-4" marker="(4)">
+          <content>A specific preemption of conflicting State laws regarding notices and disclosures of mortgage servicing transfers is set forth in § <ref target="1024-33-d" reftype="internal">1024.33(d)</ref>.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+<!--<change operation="deleted" label="1024-13"/> -->
+<!--
+    <change operation="added" label="1024-Interp">
+      <interpSection label="1024-5-Interp" sectionNum="5">
+        <title>§ 1024.5—Coverage of RESPA.</title>
+        <interpParagraph label="1024-5-c-Interp-1" target="1024-5-c">
+          <title>Paragraph 5(c)(1).</title>
+          <content>1. State laws that are in conflict with the requirements of RESPA or Regulation X may be preempted by RESPA or Regulation X. State laws that give greater protection to consumers do not conflict with and are not preempted by RESPA or Regulation X. In addition, nothing in RESPA or Regulation X should be construed to preempt the entire field of regulation of the practices covered by RESPA or Regulation X, including the regulations in Subpart C with respect to mortgage servicers or mortgage servicing.</content>
+        </interpParagraph>
+      </interpSection>
+    </change>
+-->
+  </changeset>
+</notice>
