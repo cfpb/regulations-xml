@@ -4628,7 +4628,7 @@
               <content>Pursuant to <ref target="CFR:12-617-7000" reftype="external">12 CFR 617.7000</ref>, certain servicers may be considered “qualified lenders” only with respect to loans discounted or pledged pursuant to <ref target="USC:12-2015" reftype="external">12 U.S.C. 2015</ref>(b)(1). To the extent a servicer, as defined in RESPA, services a mortgage loan that has not been discounted or pledged pursuant to <ref target="USC:12-2015" reftype="external">12 U.S.C. 2015</ref>(b)(1), and is not subject to the requirements set forth in 12 CFR 617, the servicer may be required to comply with the requirements of §§ <ref target="1024-38" reftype="internal">1024.38</ref> through 41 with respect to that mortgage loan.</content>
             </interpParagraph>
           </interpParagraph>
-        <interpParagraph label="1024-30-c-2-Interp" marker="">
+        <interpParagraph label="1024-30-c-2-Interp" target="1024-30-c-2">
         <title>Paragraph 30(c)(2).</title>
         <content/>
         <interpParagraph label="1024-30-c-2-Interp-1" marker="1.">
@@ -4726,14 +4726,14 @@
     </interpSection>
         <interpSection label="1024-32-Interp" sectionNum="32">
         <title>§ 1024.32—General Disclosure Requirements.</title>
-        <interpParagraph label="1024-32-c-Interp" marker="">
+        <interpParagraph label="1024-32-c-Interp" target="1024-32-c">
           <title>32(c) Confirmed successors in interest.</title>
           <content/>
-          <interpParagraph label="1024-32-c-1-Interp-1" marker="">
+          <interpParagraph label="1024-32-c-1-Interp-1" target="1024-32-c-1">
             <title>32(c)(1) Optional notice with acknowledgment form.</title>
             <content>1. A servicer may identify in the acknowledgment form examples of the types of notices and communications identified in § 1024.32(c)(1)(iii), such as periodic statements and mortgage servicing transfer notices. Any examples provided should be the types of notices or communications that would be available to a confirmed successor in interest if the confirmed successor in interest executed the acknowledgment and returned it to the servicer.</content>
           </interpParagraph>
-          <interpParagraph label="1024-32-c-2-Interp" marker="">
+          <interpParagraph label="1024-32-c-2-Interp" target="1024-32-c-2">
             <title>32(c)(2) Effect of failure to execute acknowledgment.</title>
             <content/>
             <interpParagraph label="1024-32-c-2-Interp-1" marker="1.">
@@ -4745,7 +4745,7 @@
               <content>If a confirmed successor in interest who is not liable on the mortgage loan obligation executes and then later revokes an acknowledgment pursuant to § 1024.32(c)(1)(iv), the servicer is not required to provide to the confirmed successor in interest any written disclosure required by § 1024.17, § 1024.33, § 1024.34, § 1024.37, or § 1024.39 or to comply with the live contact requirements in § 1024.39(a) with respect to the confirmed successor in interest from the date the revocation is received until the confirmed successor in interest either assumes the mortgage loan obligation under State law or executes a new acknowledgment that complies with § 1024.32(c)(1)(iv) and provides it to the servicer.</content>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1024-32-c-4-Interp" marker="">
+          <interpParagraph label="1024-32-c-4-Interp" target="1024-32-c-4">
             <title>32(c)(4) Multiple notices unnecessary.</title>
             <content/>
             <interpParagraph label="1024-32-c-4-Interp-1" marker="1.">
@@ -5681,7 +5681,7 @@
           <content>If the borrower's bankruptcy case is revived, for example if the court reinstates a previously dismissed case or reopens the case, § 1024.39(c)(1) once again applies. However, § 1024.39(c)(1)(iii)(C) provides that a servicer is not required to provide the written notice more than once during a single bankruptcy case. For example, assume a borrower's bankruptcy case commences on June 1, the servicer provides the written notice on July 10 in compliance with § 1024.39(b) as modified by § 1024.39(c)(1)(iii), and the bankruptcy case is dismissed on August 1. If the court subsequently reopens or reinstates the borrower's bankruptcy case and the servicer does not provide a second written notice for that bankruptcy case, the servicer has complied with § 1024.39(b) and (c)(1)(iii).</content>
         </interpParagraph>
       </interpParagraph>
-    <interpParagraph label="1024-39-d-Interp" marker="">
+    <interpParagraph label="1024-39-d-Interp" target="1024-39-d">
         <title>39(d) Fair Debt Collection Practices Act—partial exemption.</title>
         <content/>
         <interpParagraph label="1024-39-d-Interp-1" marker="1.">
@@ -5906,10 +5906,10 @@
         </interpParagraph>
       </interpParagraph>
     </interpParagraph>
-          <interpParagraph label="1024-41-c-3-Interp" marker="">
+          <interpParagraph label="1024-41-c-3-Interp" target="1024-41-c-3">
         <title>41(c)(3) Notice of complete application.</title>
         <content/>
-        <interpParagraph label="1024-41-c-3-i-Interp" marker="">
+        <interpParagraph label="1024-41-c-3-i-Interp" target="1024-41-c-3-i">
           <title>Paragraph 41(c)(3)(i).</title>
           <content/>
           <interpParagraph label="1024-41-c-3-i-Interp-1" marker="1.">
@@ -5926,10 +5926,10 @@
           </interpParagraph>
         </interpParagraph>
       </interpParagraph>
-    <interpParagraph label="1024-41-c-4-Interp" marker="">
+    <interpParagraph label="1024-41-c-4-Interp" target="1024-41-c">
         <title>41(c)(4) Information not in the borrower's control.</title>
         <content/>
-        <interpParagraph label="1024-41-c-4-i-Interp" marker="">
+        <interpParagraph label="1024-41-c-4-i-Interp" target="1024-41-c-4-i">
           <title>41(c)(4)(i) Diligence requirements.</title>
           <content/>
           <interpParagraph label="1024-41-c-4-i-Interp-1" marker="1.">
@@ -6063,10 +6063,10 @@
           <title>Pending loss mitigation application.</title>
           <content>For purposes of § 1024.41(k), a loss mitigation application is pending if it was subject to § 1024.41 and had not been fully resolved before the transfer date. For example, a loss mitigation application would not be considered pending if a transferor servicer had denied a borrower for all options and the borrower's time for making an appeal, if any, had expired prior to the transfer date, such that the transferor servicer had no continuing obligations under § 1024.41 with respect to the application. A pending application is considered a pending complete application if it was complete as of the transfer date under the transferor servicer's criteria for evaluating loss mitigation applications.</content>
         </interpParagraph>
-        <interpParagraph label="1024-41-k-1-Interp" marker="">
+        <interpParagraph label="1024-41-k-1-Interp" target="1024-41-k-1">
           <title>41(k)(1) In general.</title>
           <content/>
-          <interpParagraph label="1024-41-k-1-i-Interp" marker="">
+          <interpParagraph label="1024-41-k-1-i-Interp" target="1024-41-k-1-i">
             <title>41(k)(1)(i) Timing of compliance.</title>
             <content/>
             <interpParagraph label="1024-41-k-1-i-Interp-1" marker="1.">
@@ -6092,7 +6092,7 @@
             </interpParagraph>
           </interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1024-41-k-1-ii-Interp" marker="">
+        <interpParagraph label="1024-41-k-1-ii-Interp" target="1024-41-k-1-ii">
           <title>41(k)(1)(ii) Transfer date defined.</title>
           <content/>
           <interpParagraph label="1024-41-k-1-ii-Interp-1" marker="1.">
@@ -6100,10 +6100,10 @@
             <content>Section 1024.41(k)(1)(ii) provides that the transfer date is the date on which the transferee servicer will begin accepting payments relating to the mortgage loan, as disclosed on the notice of transfer of loan servicing pursuant to § 1024.33(b)(4)(iv). The transfer date is the same date as that on which the transfer of the servicing responsibilities from the transferor servicer to the transferee servicer occurs. The transfer date is not necessarily the same date as either the effective date of the transfer of servicing as disclosed on the notice of transfer of loan servicing pursuant to § 1024.33(b)(4)(i) or the sale date identified in a servicing transfer agreement.</content>
           </interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1024-41-k-2-Interp" marker="">
+        <interpParagraph label="1024-41-k-2-Interp" target="1024-41-k-2">
           <title>41(k)(2) Acknowledgment notices.</title>
           <content/>
-          <interpParagraph label="1024-41-k-2-ii-Interp" marker="">
+          <interpParagraph label="1024-41-k-2-ii-Interp" target="1024-41-k-2-ii">
             <title>41(k)(2)(ii) Prohibitions.</title>
             <content/>
             <interpParagraph label="1024-41-k-2-ii-Interp-1" marker="1.">
@@ -6126,7 +6126,7 @@
             </interpParagraph>
           </interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1024-41-k-3-Interp" marker="">
+        <interpParagraph label="1024-41-k-3-Interp" target="1024-41-k-3">
           <title>41(k)(3) Complete loss mitigation applications pending at transfer.</title>
           <content/>
           <interpParagraph label="1024-41-k-3-Interp-1" marker="1.">
@@ -6138,7 +6138,7 @@
             <content>If the borrower's loss mitigation application was incomplete based on the transferor servicer's criteria prior to transfer but is complete based upon the transferee servicer's criteria, the application is considered a pending loss mitigation application complete as of the transfer date for purposes of § 1024.41(k)(3). Consequently, the transferee servicer must comply with the applicable requirements of § 1024.41(c)(1) and (4) within 30 days of the transfer date. For purposes of § 1024.41(c) through (h), the application is complete as of the date the transferor servicer received the documents and information constituting the complete application. See comment 41(k)(1)(i)-2. In such circumstances, § 1024.41(c)(3) requires the transferee servicer to provide a notice of complete application that discloses the date the transferor servicer received the documents and information constituting the complete application.</content>
           </interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1024-41-k-4-Interp" marker="">
+        <interpParagraph label="1024-41-k-4-Interp" target="1024-41-k-4">
           <title>41(k)(4) Applications subject to appeal process.</title>
           <content/>
           <interpParagraph label="1024-41-k-4-Interp-1" marker="1.">
@@ -6150,7 +6150,7 @@
             <content>A transferee servicer may be unable to make a determination on an appeal when, for example, the transferor servicer denied a borrower for a loan modification option that the transferee servicer does not offer or when the transferee servicer receives the mortgage loan through an involuntary transfer and the transferor servicer failed to maintain proper records such that the transferee servicer lacks sufficient information to review the appeal. In that circumstance, the transferee servicer is required to treat the appeal as a pending complete application, and it must permit the borrower to accept or reject any loss mitigation options offered by the transferor servicer, even if it does not offer the loss mitigation options offered by the transferor servicer, in addition to the loss mitigation options, if any, that the transferee servicer determines to offer the borrower based on its own evaluation of the borrower's complete loss mitigation application. For example, assume a transferor servicer denied a borrower for all loan modification options but offered the borrower a short sale option, and assume that the borrower's appeal of the loan modification denial was pending as of the transfer date. If the transferee servicer is unable to determine the borrower's appeal, the transferee servicer must evaluate the borrower for all available loss mitigation options in accordance with § 1024.41(c) and (k)(3). At the conclusion of such evaluation, the transferee servicer must permit the borrower to accept the short sale option offered by the transferor servicer, even if the transferee servicer does not offer the short sale option, in addition to any loss mitigation options the transferee servicer determines to offer the borrower based upon its own evaluation.</content>
           </interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1024-41-k-5-Interp" marker="">
+        <interpParagraph label="1024-41-k-5-Interp" target="1024-41-k-5">
           <title>41(k)(5) Pending loss mitigation offers.</title>
           <content/>
           <interpParagraph label="1024-41-k-5-Interp-1" marker="1.">
