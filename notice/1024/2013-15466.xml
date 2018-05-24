@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2013-07-02</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>X</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1024</section>
+    </cfr>
+    <documentNumber>2013-15466</documentNumber>
+    <effectiveDate>2014-02-14</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2013/07/02/2013-15466/amendments-to-the-2013-mortgage-rules-under-the-equal-credit-opportunity-act-regulation-b-real</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2013-01248" rightDocumentNumber="2013-15466">
+    <change operation="modified" label="1024-30-a">
+      <paragraph label="1024-30-a" marker="(a)">
+        <title>In general.</title>
+        <content>Except as provided in paragraphs (b) and (c) of this section, this subpart applies to any mortgage loan, as that term is defined in § 1024.31.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-35-g-1-iii-B">
+      <paragraph label="1024-35-g-1-iii-B" marker="(B)">
+        <content>The mortgage loan is discharged.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-36-f-1-v-B">
+      <paragraph label="1024-36-f-1-v-B" marker="(B)">
+        <content>The mortgage loan is discharged.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-39-b-1">
+      <paragraph label="1024-39-b-1" marker="(1)">
+        <title>Notice required.</title>
+        <content>Except as otherwise provided in this section, a servicer shall provide to a delinquent borrower a written notice with the information set forth in paragraph (b)(2) of this section not later than the 45th day of the borrower's delinquency. A servicer is not required to provide the written notice more than once during any 180-day period.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-39-b-3">
+      <paragraph label="1024-39-b-3" marker="(3)">
+        <title>Model clauses.</title>
+        <content>Model clauses MS-4(A), MS-4(B), and MS-4(C), in appendix MS-4 to this part may be used to comply with the requirements of this paragraph (b).</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-41-b-2-ii">
+      <paragraph label="1024-41-b-2-ii" marker="(ii)">
+        <title>Time period disclosure.</title>
+        <content>The notice required pursuant to paragraph (b)(2)(i)(B) of this section must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-41-b-3">
+      <paragraph label="1024-41-b-3" marker="(3)">
+        <title>Timelines.</title>
+        <content>For purposes of this section, timelines based on the proximity of a foreclosure sale to the receipt of a complete loss mitigation application will be determined as of the date a complete loss mitigation application is received.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-41-c-1-ii">
+      <paragraph label="1024-41-c-1-ii" marker="(ii)">
+        <content>Provide the borrower with a notice in writing stating the servicer's determination of which loss mitigation options, if any, it will offer to the borrower on behalf of the owner or assignee of the mortgage. The servicer shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph (e) of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal as provided for in paragraph (h) of this section.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-41-c-2-i">
+      <paragraph label="1024-41-c-2-i" marker="(i)">
+        <title>In general.</title>
+        <content>Except as set forth in paragraphs (c)(2)(ii) and (iii) of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation application for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-41-c-2-iii">
+      <paragraph label="1024-41-c-2-iii" marker="(iii)">
+        <title>Payment forbearance.</title>
+        <content>Notwithstanding paragraph (c)(2)(i) of this section, a servicer may offer a short-term payment forbearance program to a borrower based upon an evaluation of an incomplete loss mitigation application. A servicer offering such a program to a borrower who has submitted an incomplete loss mitigation application must include in the notice of incomplete application required pursuant to paragraph (b)(2)(i)(B) of this section a statement that:</content>
+        <paragraph label="1024-41-c-2-iii-A" marker="(A)">
+          <content>The servicer has received an incomplete loss mitigation application, and on the basis of that application the servicer is offering a payment forbearance program;</content>
+        </paragraph>
+        <paragraph label="1024-41-c-2-iii-B" marker="(B)">
+          <content>Absent further action by the borrower, the servicer will not review the incomplete application for other loss mitigation options; and</content>
+        </paragraph>
+        <paragraph label="1024-41-c-2-iii-C" marker="(C)">
+          <content>If the borrower would like to be considered for other loss mitigation options, the borrower must notify the servicer and submit the missing documents and information required to complete the loss mitigation application.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-41-c-2-iv">
+      <paragraph label="1024-41-c-2-iv" marker="(iv)">
+        <title>Servicer creates reasonable expectation that a loss mitigation application is complete.</title>
+        <content>If a servicer creates a reasonable expectation that a loss mitigation application is complete but the servicer later discovers that the application is incomplete, the servicer shall treat the application as complete as of the date the borrower had reason to believe the application was complete for purposes of paragraphs (f)(2) and (g) of this section until the borrower has been given a reasonable opportunity to complete the loss mitigation application.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-41-d">
+      <paragraph label="1024-41-d" marker="(d)">
+        <title>Denial of loan modification options.</title>
+        <content>If a borrower's complete loss mitigation application is denied for any trial or permanent loan modification option available to the borrower pursuant to paragraph (c) of this section, a servicer shall state in the notice sent to the borrower pursuant to paragraph (c)(1)(ii) of this section the specific reason or reasons for the servicer's determination for each such trial or permanent loan modification option, and a notification that the borrower was not evaluated on other criteria (if applicable).</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-41-f-1">
+      <paragraph label="1024-41-f-1" marker="(1)">
+        <title>Pre-foreclosure review period.</title>
+        <content>A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:</content>
+        <paragraph label="1024-41-f-1-i" marker="(i)">
+          <content>A borrower's mortgage loan obligation is more than 120 days delinquent;</content>
+        </paragraph>
+        <paragraph label="1024-41-f-1-ii" marker="(ii)">
+          <content>The foreclosure is based on a borrower's violation of a due-on-sale clause; or</content>
+        </paragraph>
+        <paragraph label="1024-41-f-1-iii" marker="(iii)">
+          <content>The servicer is joining the foreclosure action of a subordinate lienholder.</content>
+        </paragraph>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-41-h-4">
+      <paragraph label="1024-41-h-4" marker="(4)">
+        <title>Appeal determination.</title>
+        <content>Within 30 days of a borrower making an appeal, the servicer shall provide a notice to the borrower stating the servicer's determination of whether the servicer will offer the borrower a loss mitigation option based upon the appeal, and, if applicable, how long the borrower has to accept or reject such an offer or a prior offer of a loss mitigation option, as provided for in this paragraph. A servicer may require that a borrower accept or reject an offer of a loss mitigation option after an appeal no earlier than 14 days after the servicer provides the notice to a borrower. A servicer's determination under this paragraph is not subject to any further appeal.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1024-41-j">
+      <paragraph label="1024-41-j" marker="(j)">
+        <title>Small servicer requirements.</title>
+        <content>A small servicer shall be subject to the prohibition on foreclosure referral in paragraph (f)(1) of this section. A small servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.</content>
+      </paragraph>
+    </change>
+<!--
+    <change operation="modified" label="1024-17-k-Interp-5-ii" subpath="title">
+      <title>17(k)(5)(ii) Inability to disburse funds.</title>
+    </change>
+-->
+    <change operation="modified" label="1024-33-a-Interp">
+      <interpParagraph label="1024-33-a-Interp" target="1024-33-a">
+        <title>33(a) Servicing disclosure statement.</title>
+        <content/>
+        <interpParagraph label="1024-33-a-Interp-1">
+          <title>Terminology.</title>
+          <content>Although the servicing disclosure statement must be clear and conspicuous pursuant to § 1024.32(a), § 1024.33(a) does not set forth any specific rules for the format of the statement, and the specific language of the servicing disclosure statement in appendix MS-1 is not required to be used. The model format may be supplemented with additional information that clarifies or enhances the model language.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1024-33-c-Interp">
+      <interpParagraph label="1024-33-c-Interp" target="1024-33-c">
+        <title>33(c) Borrower payments during transfer of servicing.</title>
+        <content/>
+        <interpParagraph label="1024-33-c-1-Interp">
+          <title>33(c)(1) Payments not considered late.</title>
+          <content/>
+          <interpParagraph label="1024-33-c-1-Interp-2" marker="2.">
+            <title>Compliance with § 1024.39.</title>
+            <content>A transferee servicer's compliance with § 1024.39 during the 60-day period beginning on the effective date of a servicing transfer does not constitute treating a payment as late for purposes of § 1024.33(c)(1).</content>
+          </interpParagraph>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1024-36-b-Interp">
+      <interpParagraph label="1024-36-b-Interp" target="1024-36-b">
+        <title>36(b) Contact information for borrowers to request information.</title>
+        <content/>
+        <interpParagraph label="1024-36-b-Interp-2" marker="2.">
+          <title>Notice of an exclusive address.</title>
+          <content>A notice establishing an address that a borrower must use to request information may be included with a different disclosure, such as on a notice of transfer, periodic statement, or coupon book. The notice is subject to the clear and conspicuous requirement in § 1024.32(a)(1). If a servicer establishes an address that a borrower must use to request information, a servicer must provide that address to the borrower in any communication in which the servicer provides the borrower with an address for assistance from the servicer.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1024-41-b-2-Interp">
+      <interpParagraph label="1024-41-b-2-Interp" target="1024-41-b-2">
+        <title>41(b)(2) Review of loss mitigation application submission.</title>
+        <content/>
+        <interpParagraph label="1024-41-b-2-i-Interp">
+          <title>41(b)(2)(i) Requirements.</title>
+          <content/>
+          <interpParagraph label="1024-41-b-2-i-B-Interp">
+            <title>Paragraph 41(b)(2)(i)(B).</title>
+            <content/>
+            <interpParagraph label="1024-41-b-2-i-B-Interp-1" marker="1.">
+              <title>Notification of complete application.</title>
+              <content>Even if a servicer has informed a borrower that an application is complete (or notified the borrower of specific information necessary to complete an incomplete application), if the servicer determines, in the course of evaluating the loss mitigation application submitted by the borrower, that additional information is required, the servicer must request the additional information from a borrower pursuant to the § 1024.41(b)(1) obligation to exercise reasonable diligence in obtaining such documents and information.</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-b-2-i-B-Interp-2" marker="2.">
+              <title>Effect on timelines.</title>
+              <content>Except as provided in § 1024.41(c)(2)(iv), the provisions and timelines triggered by a complete loss mitigation application in § 1024.41 will not be triggered by an incomplete application, regardless of whether a servicer has sent a § 1024.41(b)(2)(i)(B) notification incorrectly informing the borrower that the loss mitigation application is complete or otherwise given the borrower reason to believe the application is complete.</content>
+            </interpParagraph>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1024-41-b-2-ii-Interp">
+          <title>41(b)(2)(ii) Time period disclosure.</title>
+          <content/>
+          <interpParagraph label="1024-41-b-2-ii-Interp-1" marker="1.">
+            <title>Reasonable date factors.</title>
+            <content>Section 1024.41(b)(2)(ii) requires that a notice informing a borrower that a loss mitigation application is incomplete must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete. In determining a reasonable date, a servicer should select the deadline that preserves the maximum borrower rights under § 1024.41, except when doing so would be impracticable. Thus, in setting a date, the factors listed below should be considered (if the date of a foreclosure sale is not known, a servicer may use a reasonable estimate of when a foreclosure sale may be scheduled):</content>
+            <interpParagraph label="1024-41-b-2-ii-Interp-1-i" marker="i.">
+              <content>The date by which any document or information submitted by a borrower will be considered stale or invalid pursuant to any requirements applicable to any loss mitigation option available to the borrower;</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-b-2-ii-Interp-1-ii" marker="ii.">
+              <content>The date that is the 120th day of the borrower's delinquency;</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-b-2-ii-Interp-1-iii" marker="iii.">
+              <content>The date that is 90 days before a foreclosure sale;</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-b-2-ii-Interp-1-iv" marker="iv.">
+              <content>The date that is 38 days before a foreclosure sale.</content>
+            </interpParagraph>
+          </interpParagraph>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1024-41-b-3-Interp">
+      <interpParagraph label="1024-41-b-3-Interp" target="1024-41-b-3">
+        <title>41(b)(3) Timelines.</title>
+        <content/>
+        <interpParagraph label="1024-41-b-3-Interp-1" marker="1.">
+          <title>Foreclosure sale not scheduled.</title>
+          <content>If no foreclosure sale has been scheduled as of the date that a complete loss mitigation application is received, the application shall be treated as if it were received at least 90 days before a scheduled foreclosure sale.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-41-b-3-Interp-2" marker="2.">
+          <title>Foreclosure sale re-scheduled.</title>
+          <content>These timelines established as of the receipt of a complete loss mitigation application shall remain in effect, even if a foreclosure sale is later re-scheduled to occur earlier or later.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1024-41-c-2-Interp">
+      <interpParagraph label="1024-41-c-2-Interp" target="1024-41-c-2">
+        <title>41(c)(2) Incomplete loss mitigation application evaluation.</title>
+        <content/>
+        <interpParagraph label="1024-41-c-2-iii-Interp">
+          <title>41(c)(2)(iii) Payment forbearance.</title>
+          <content/>
+          <interpParagraph label="1024-41-c-2-iii-Interp-1" marker="1.">
+            <title>Short-term payment forbearance program.</title>
+            <content>The exemption in § 1024.41(c)(2)(iii) applies to a short-term payment forbearance program. A payment forbearance program is a loss mitigation option for which a servicer allows a borrower to forgo making certain payments or portions of payments for a period of time. A short-term payment forbearance program allows the forbearance of payments due over periods of no more than two months. Such a program would be short-term regardless of the amount of time a servicer allows the borrower to make up the missing payments. The examples below illustrate how the length of a payment forbearance program is calculated for purposes of § 1024.41(c)(2)(iii).</content>
+            <interpParagraph label="1024-41-c-2-iii-Interp-1-i" marker="i.">
+              <content>A servicer allows a borrower to forgo payment for January, February and March, and the borrower must make these payments in addition to the April payment at the time the April payment is due. This is a three-month forbearance program and thus would not be considered short-term.</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-c-2-iii-Interp-1-ii" marker="ii.">
+              <content>A servicer allows a borrower to forgo payment for January and February, and the borrower must make the January and February payments in addition to the March payment, at the time the March payment is due. This is a two-month forbearance program, and thus would be considered short-term.</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-c-2-iii-Interp-1-iii" marker="iii.">
+              <content>A servicer allows a borrower to forgo payment for January and February. These payments are spread over the next six months, and the borrower will make larger payments for March through August. This is a two-month forbearance program, and thus would be considered short-term.</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-c-2-iii-Interp-1-iv" marker="iv.">
+              <content>A servicer allows a borrower to forgo payment for January and February. These payments are added to the last monthly payment at the end of the loan obligation. This is a two-month forbearance program, and thus would be considered short-term.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1024-41-c-2-iii-Interp-2" marker="2.">
+            <title>Payment forbearance and incomplete applications.</title>
+            <content>Section 1024.41(c)(2)(iii) allows a servicer to offer a borrower a short-term payment forbearance program based on an evaluation of an incomplete loss mitigation application. Such an incomplete loss mitigation application is still subject to the other obligations in § 1024.41, including the obligation in § 1024.41(b)(2) to review the application to determine if it is complete, the obligation in § 1024.41(b)(1) to exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application, and the obligation to provide the borrower with the § 1024.41(b)(2)(ii) notice that the servicer acknowledges the receipt of the application and has determined the application is incomplete (and any other information required to be in such a notice).</content>
+          </interpParagraph>
+          <interpParagraph label="1024-41-c-2-iii-Interp-3" marker="3.">
+            <title>Payment forbearance and complete applications.</title>
+            <content>Even if a servicer offers a borrower a payment forbearance program after an evaluation of an incomplete loss mitigation application, the servicer must still comply with all other requirements in § 1024.41 on receipt of a borrower's submission of a complete loss mitigation application.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1024-41-c-2-iv-Interp">
+          <title>41(c)(2)(iv) Servicer creates reasonable expectation that a loss mitigation application is complete.</title>
+          <content/>
+          <interpParagraph label="1024-41-c-2-iv-Interp-1" marker="1.">
+            <title>Reasonable expectation.</title>
+            <content>A servicer creates a reasonable expectation that a loss mitigation application is complete when:</content>
+            <interpParagraph label="1024-41-c-2-iv-Interp-1-i" marker="i.">
+              <content>The servicer notifies the borrower in the § 1024.41(b)(2)(i)(B) notice that the servicer has determined the application is complete. The borrower would have a reasonable expectation upon receipt of the notice that the application was complete as of the date the application was submitted.</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-c-2-iv-Interp-1-ii" marker="ii.">
+              <content>The servicer notifies the borrower in the § 1024.41(b)(2)(i)(B) notice that the servicer has determined the application is incomplete and identifies information and documentation necessary to complete the application, and the borrower provides all the documents and information that were listed as missing in that notice within a reasonable time. The borrower would have a reasonable expectation that the application was complete as of the date the borrower submitted all the documents and information that were listed as missing.</content>
+            </interpParagraph>
+            <interpParagraph label="1024-41-c-2-iv-Interp-1-iii" marker="iii.">
+              <content></content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1024-41-c-2-iv-Interp-2" marker="2.">
+            <title>Reasonable opportunity.</title>
+            <content>Section 1024.41(c)(2)(iv) requires a servicer to treat as complete an application that the servicer has created a reasonable expectation is complete until a borrower has been given a reasonable opportunity to complete the loss mitigation application. A reasonable opportunity requires the servicer to notify the borrower of what information and documentation is missing, and afford the borrower sufficient time to gather the information and/or documentation necessary to complete the application and submit it to the servicer. The amount of time that is sufficient for this purpose will depend on the facts and circumstances.</content>
+          </interpParagraph>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1024-41-d-Interp-4">
+      <interpParagraph label="1024-41-d-Interp-4" marker="4.">
+        <title>Reasons listed.</title>
+        <content>A servicer is required to disclose the actual reason or reasons for the denial. If a servicer's systems establish a hierarchy of eligibility criteria and reach the first criterion that causes a denial but do not evaluate the borrower based on additional criteria, a servicer complies with the rule by providing only the reason or reasons with respect to which the borrower was actually evaluated as well as notification that the borrower was not evaluated on other criteria. A servicer is not required to determine or disclose whether a borrower would have been denied on the basis of additional criteria if such criteria were not actually considered.</content>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1024-41-f-Interp">
+      <interpParagraph label="1024-41-f-Interp" target="1024-41-f">
+        <title>41(f) Prohibition on foreclosure referral.</title>
+        <content/>
+        <interpParagraph label="1024-41-f-Interp-1" marker="1.">
+          <title>Prohibited activities.</title>
+          <content>Section 1024.41(f) prohibits a servicer from making the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process under certain circumstances. Whether a document is considered the first notice or filing is determined under applicable State law. Specifically, a document is considered the first notice or filing if it would be used by the servicer as evidence of compliance with foreclosure practices required pursuant to State law, but is not considered the first notice or filing if it is used solely for other purposes. Thus, a servicer is not prohibited from attempting to collect payments, sending periodic statements, sending breach letters, or engaging in any other activity during the pre-foreclosure review period, so long as such documents or activity would not be used as evidence of complying with requirements applicable pursuant to State law in connection with a foreclosure process, and are not banned by other applicable law (e.g., the Fair Debt Collection Practices Act or bankruptcy law).</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+  </changeset>
+</notice>
