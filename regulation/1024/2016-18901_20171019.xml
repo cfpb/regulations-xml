@@ -3245,16 +3245,16 @@
         <paragraph label="1024-31-p1" marker="">
           <content>For purposes of this subpart:</content>
         </paragraph>
-        <paragraph label="1024-31-Delinquency" marker="">
-        <content><def term="delinquency">Delinquency</def> means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.</content>
-      </paragraph>
-    <paragraph label="1024-31-ConsumerReportingAgency" marker="">
+        <paragraph label="1024-31-ConsumerReportingAgency" marker="">
           <content><def term="consumer reporting agency">Consumer reporting agency</def> has the meaning set forth in section 603 of the Fair Credit Reporting Act, 15 U.S.C. 1681a.</content>
         </paragraph>
         <paragraph label="1024-31-Day" marker="">
           <content><def term="day">Day</def> means calendar day.</content>
         </paragraph>
-        <paragraph label="1024-31-HazardInsurance" marker="">
+        <paragraph label="1024-31-Delinquency" marker="">
+        <content><def term="delinquency">Delinquency</def> means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.</content>
+      </paragraph>
+    <paragraph label="1024-31-HazardInsurance" marker="">
           <content><def term="hazard insurance">Hazard insurance</def> means insurance on the property securing a mortgage loan that protects the property against loss caused by fire, wind, flood, earthquake, theft, falling objects, freezing, and other similar hazards for which the owner or assignee of such loan requires insurance.</content>
         </paragraph>
         <paragraph label="1024-31-LossMitigationApplication" marker="">

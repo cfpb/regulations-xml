@@ -52,7 +52,7 @@
       </paragraph>
     </change>
 
-    <change operation="added" label="1024-31-Delinquency" parent="1024-31" after="1024-31-p1">
+    <change operation="added" label="1024-31-Delinquency" parent="1024-31" after="1024-31-Day">
       <paragraph label="1024-31-Delinquency" marker="">
         <content><def term="delinquency">Delinquency</def> means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.</content>
       </paragraph>

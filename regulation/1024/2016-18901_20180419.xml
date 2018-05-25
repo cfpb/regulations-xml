@@ -3249,29 +3249,8 @@
         <paragraph label="1024-31-p1" marker="">
           <content>For purposes of this subpart:</content>
         </paragraph>
-        <paragraph label="1024-31-SuccessorInInterest" marker="">
-        <content><def term="successor in interest">Successor in interest</def> means a person to whom an ownership interest in a property securing a mortgage loan subject to this subpart is transferred from a borrower, provided that the transfer is:</content>
-        <paragraph label="1024-31-SuccessorInInterest-1" marker="(1)">
-          <content>A transfer by devise, descent, or operation of law on the death of a joint tenant or tenant by the entirety;</content>
-        </paragraph>
-        <paragraph label="1024-31-SuccessorInInterest-2" marker="(2)">
-          <content>A transfer to a relative resulting from the death of a borrower;</content>
-        </paragraph>
-        <paragraph label="1024-31-SuccessorInInterest-3" marker="(3)">
-          <content>A transfer where the spouse or children of the borrower become an owner of the property;</content>
-        </paragraph>
-        <paragraph label="1024-31-SuccessorInInterest-4" marker="(4)">
-          <content>A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement, by which the spouse of the borrower becomes an owner of the property; or</content>
-        </paragraph>
-        <paragraph label="1024-31-SuccessorInInterest-5" marker="(5)">
-          <content>A transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property.</content>
-        </paragraph>
-      </paragraph>
-    <paragraph label="1024-31-ConfirmedSuccessorInInterest" marker="">
+        <paragraph label="1024-31-ConfirmedSuccessorInInterest" marker="">
         <content><def term="confirmed successor in interest">Confirmed successor in interest</def> means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in a property that secures a mortgage loan subject to this subpart.</content>
-      </paragraph>
-    <paragraph label="1024-31-Delinquency" marker="">
-        <content><def term="delinquency">Delinquency</def> means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.</content>
       </paragraph>
     <paragraph label="1024-31-ConsumerReportingAgency" marker="">
           <content><def term="consumer reporting agency">Consumer reporting agency</def> has the meaning set forth in section 603 of the Fair Credit Reporting Act, 15 U.S.C. 1681a.</content>
@@ -3279,7 +3258,10 @@
         <paragraph label="1024-31-Day" marker="">
           <content><def term="day">Day</def> means calendar day.</content>
         </paragraph>
-        <paragraph label="1024-31-HazardInsurance" marker="">
+        <paragraph label="1024-31-Delinquency" marker="">
+        <content><def term="delinquency">Delinquency</def> means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.</content>
+      </paragraph>
+    <paragraph label="1024-31-HazardInsurance" marker="">
           <content><def term="hazard insurance">Hazard insurance</def> means insurance on the property securing a mortgage loan that protects the property against loss caused by fire, wind, flood, earthquake, theft, falling objects, freezing, and other similar hazards for which the owner or assignee of such loan requires insurance.</content>
         </paragraph>
         <paragraph label="1024-31-LossMitigationApplication" marker="">
@@ -3308,7 +3290,25 @@
           <content><def term="service provider">Service provider</def> means any party retained by a servicer that interacts with a borrower or provides a service to the servicer for which a borrower may incur a fee.</content></paragraph>
         <paragraph label="1024-31-Subservicer" marker="">
           <content><def term="subservicer">Subservicer</def> means a servicer that does not own the right to perform servicing, but that performs servicing on behalf of the master servicer.</content></paragraph>
-        <paragraph label="1024-31-TransfereeServicer" marker="">
+        <paragraph label="1024-31-SuccessorInInterest" marker="">
+        <content><def term="successor in interest">Successor in interest</def> means a person to whom an ownership interest in a property securing a mortgage loan subject to this subpart is transferred from a borrower, provided that the transfer is:</content>
+        <paragraph label="1024-31-SuccessorInInterest-1" marker="(1)">
+          <content>A transfer by devise, descent, or operation of law on the death of a joint tenant or tenant by the entirety;</content>
+        </paragraph>
+        <paragraph label="1024-31-SuccessorInInterest-2" marker="(2)">
+          <content>A transfer to a relative resulting from the death of a borrower;</content>
+        </paragraph>
+        <paragraph label="1024-31-SuccessorInInterest-3" marker="(3)">
+          <content>A transfer where the spouse or children of the borrower become an owner of the property;</content>
+        </paragraph>
+        <paragraph label="1024-31-SuccessorInInterest-4" marker="(4)">
+          <content>A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement, by which the spouse of the borrower becomes an owner of the property; or</content>
+        </paragraph>
+        <paragraph label="1024-31-SuccessorInInterest-5" marker="(5)">
+          <content>A transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property.</content>
+        </paragraph>
+      </paragraph>
+    <paragraph label="1024-31-TransfereeServicer" marker="">
           <content><def term="transferee servicer">Transferee servicer</def> means a servicer that obtains or will obtain the right to perform servicing pursuant to an agreement or understanding.</content></paragraph>
         <paragraph label="1024-31-TransferorServicer" marker="">
           <content><def term="transferor servicer">Transferor servicer</def> means a servicer, including a table-funding mortgage broker or dealer on a first- lien dealer loan, that transfers or will transfer the right to perform servicing pursuant to an agreement or understanding. </content></paragraph>

@@ -65,7 +65,7 @@
       </paragraph>
     </change>
 
-    <change operation="added" label="1024-31-SuccessorInInterest" parent="1024-31" after="1024-31-p1">
+    <change operation="added" label="1024-31-SuccessorInInterest" parent="1024-31" after="1024-31-Subservicer">
       <paragraph label="1024-31-SuccessorInInterest" marker="">
         <content><def term="successor in interest">Successor in interest</def> means a person to whom an ownership interest in a property securing a mortgage loan subject to this subpart is transferred from a borrower, provided that the transfer is:</content>
         <paragraph label="1024-31-SuccessorInInterest-1" marker="(1)">
