@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2017-10-16</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>X</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1024</section>
+    </cfr>
+    <documentNumber>2017-21912</documentNumber>
+    <effectiveDate>2017-10-19</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2017/10/16/2017-21912/mortgage-servicing-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2017-13796" rightDocumentNumber="2017-21912">
+    <change operation="modified" label="1024-39-d-3-iii" subpath="content">
+      <content>A servicer is prohibited from providing the written notice more than once during any 180-day period. If a borrower is 45 days or more delinquent at the end of any 180-day period after the servicer has provided the written notice, a servicer must provide the written notice again no later than 190 days after the provision of the prior written notice. If a borrower is less than 45 days delinquent at the end of any 180-day period after the servicer has provided the written notice, a servicer must provide the written notice again no later than 45 days after the payment due date for which the borrower remains delinquent or 190 days after the provision of the prior written notice, whichever is later.</content>
+    </change>
+  </changeset>
+</notice>
