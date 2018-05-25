@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2017-07-05</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>X</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1024</section>
+    </cfr>
+    <documentNumber>2017-13796</documentNumber>
+    <effectiveDate>2017-10-19</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2017/07/05/2017-13796/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2016-18901" rightDocumentNumber="2017-13796">
+    <change operation="modified" label="1024-MS-4(D)-p1" subpath="content">
+      <content>This is a legally required notice. We are sending this notice to you because you are behind on your mortgage payment. We want to notify you of possible ways to avoid losing your home. We have a right to invoke foreclosure based on the terms of your mortgage contract. Please read this letter carefully.</content>
+    </change>
+    <change operation="added" label="1024-39-d-2-Interp">
+      <interpParagraph label="1024-39-d-2-Interp" target="1024-39-d-2">
+        <title>Paragraph 39(d)(2).</title>
+        <content/>
+        <interpParagraph label="1024-39-d-2-Interp-1" marker="1.">
+          <title>Borrowers in bankruptcy.</title>
+          <content>To the extent the Fair Debt Collection Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) applies to a servicer's communications with a borrower and the borrower has provided a notification pursuant to FDCPA section 805(c) notifying the servicer that the borrower refuses to pay a debt or that the borrower wishes the servicer to cease further communications, with regard to that mortgage loan, § 1024.39(d)(2) exempts a servicer from providing the written notice required by § 1024.39(b) while any borrower on the mortgage loan is also a debtor in bankruptcy under title 11 of the United States Code. For an example, see comment 39(c)(1)(ii)-2.ii.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+  </changeset>
+</notice>
