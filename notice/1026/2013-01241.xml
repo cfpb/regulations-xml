@@ -839,7 +839,7 @@
             <content>The annual percentage rate may increase during the term of this transaction if:</content>
           </paragraph>
           <paragraph label="1026-H-4(A)-p12" marker="">
-            <content>[the prime interest rate of      (<ref target="1026-2-a-17" reftype="term">creditor</ref>)      increases.]</content>
+            <content>[the prime interest rate of      (creditor)      increases.]</content>
           </paragraph>
           <paragraph label="1026-H-4(A)-p13" marker="">
             <content>[the balance in your deposit account falls below $___________.]</content>
@@ -888,7 +888,7 @@
             <title>Example based on a typical transaction.</title>
             <content/>
             <paragraph label="1026-H-4(A)-h2-p26" marker="">
-              <content>[If your load were for $___________ at ___________% for     (term)      and the rate increased to ___________% in      (time period),</content>
+              <content>[If your loan were for $___________ at ___________% for     (term)      and the rate increased to ___________% in      (time period),</content>
             </paragraph>
             <paragraph label="1026-H-4(A)-h2-p27" marker="">
               <content>[your regular payments would increase by $___________.]</content>
@@ -921,7 +921,7 @@
             <content>• Your interest rate will be based on [an index plus a margin] [a formula].</content>
           </paragraph>
           <paragraph label="1026-H-4(C)-p34" marker="">
-            <content>• Your payment will be based on the interest rate, loan balance, and <ref target="1026-43-b-6" reftype="term">loan term</ref>.</content>
+            <content>• Your payment will be based on the interest rate, loan balance, and loan term.</content>
           </paragraph>
           <paragraph label="1026-H-4(C)-p35" marker="">
             <content>—[The interest rate will be based on (identification of index) plus our margin. Ask for our current interest rate and margin.]</content>
