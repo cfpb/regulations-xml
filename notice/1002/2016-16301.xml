@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>BANKS AND BANKING</cfrTitleText>
+    <volume>8</volume>
+    <date>2016-07-11</date>
+    <originalDate>2011-12-21</originalDate>
+    <title>EQUAL CREDIT OPPORTUNITY ACT</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>B</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1002</section>
+    </cfr>
+    <documentNumber>2016-16301</documentNumber>
+    <effectiveDate>2016-07-11</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2016/07/11/2016-16301/equal-credit-opportunity-act-regulation-b</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2013-22752" rightDocumentNumber="2016-16301">
+<!-- CFR Correction
+     In Title 12 of the Code of Federal Regulations, Parts 900 to 1025, revised as of January 1, 2016, on page 86, in supplement 1 to part 1002, under “Section 1002.14—Rules on Providing Appraisals and Valuations”, remove subsection 14(c).   
+    <change operation="deleted" label="1002-14-c"/>
+-->
+  </changeset>
+</notice>
