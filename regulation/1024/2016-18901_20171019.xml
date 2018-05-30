@@ -4664,70 +4664,70 @@
     </interpSection>
         <interpSection label="1024-31-Interp" sectionNum="31" target="1024-31">
           <title>§ 1024.31—Definitions</title>
-          <interpParagraph label="1024-31-Interp-None">
+          <interpParagraph label="1024-31-Interp-LossMitigationApplication" target="1024-31-LossMitigationApplication">
             <title>Loss mitigation application.</title>
             <content/>
-            <interpParagraph label="1024-31-Interp-None-1" marker="1.">
+            <interpParagraph label="1024-31-Interp-LossMitigationApplication-1" marker="1.">
               <title type="keyterm">Borrower's representative.</title>
               <content>A loss mitigation application is deemed to be submitted by a borrower if the loss mitigation application is submitted by an agent of the borrower. Servicers may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf.</content></interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1024-31-Interp-2">
+          <interpParagraph label="1024-31-Interp-LossMitigationOption" target="1024-31-LossMitigationOption">
             <title>Loss mitigation option.</title>
             <content/>
-            <interpParagraph label="1024-31-Interp-2-1" marker="1.">
+            <interpParagraph label="1024-31-Interp-LossMitigationOption-1" marker="1.">
               <title type="keyterm">Types of loss mitigation options.</title>
               <content>Loss mitigation options include temporary and long-term relief, including options that allow borrowers who are behind on their mortgage payments to remain in their homes or to leave their homes without a foreclosure, such as, without limitation, refinancing, trial or permanent modification, repayment of the amount owed over an extended period of time, forbearance of future payments, short-sale, deed-in-lieu of foreclosure, and loss mitigation programs sponsored by a locality, a State, or the Federal government.</content>
             </interpParagraph>
-            <interpParagraph label="1024-31-Interp-2-2" marker="2.">
+            <interpParagraph label="1024-31-Interp-LossMitigationOption-2" marker="2.">
               <title type="keyterm">Available through the servicer.</title>
               <content>A loss mitigation option available through the servicer refers to an option for which a borrower may apply, even if the borrower ultimately does not qualify for such option.</content>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1024-31-Interp-5">
+          <interpParagraph label="1024-31-Interp-QualifiedWrittenRequest" target="1024-31-QualifiedWrittenRequest">
             <title>Qualified written request.</title>
             <content/>
-            <interpParagraph label="1024-31-Interp-5-1" marker="1.">
+            <interpParagraph label="1024-31-Interp-QualifiedWrittenRequest-1" marker="1.">
               <content>A qualified written request is a written notice a borrower provides to request a servicer either correct an error relating to the servicing of a mortgage loan or to request information relating to the servicing of the mortgage loan. A qualified written request is not required to include both types of requests. For example, a qualified written request may request information relating to the servicing of a mortgage loan but not assert that an error relating to the servicing of a loan has occurred.</content>
             </interpParagraph>
-            <interpParagraph label="1024-31-Interp-5-2" marker="2.">
+            <interpParagraph label="1024-31-Interp-QualifiedWrittenRequest-2" marker="2.">
               <content>A qualified written request is just one form that a written notice of error or information request may take. Thus, the error resolution and information request requirements in §§ <ref target="1024-35" reftype="internal">1024.35</ref> and <ref target="1024-36" reftype="internal">1024.36</ref> apply as set forth in those sections irrespective of whether the servicer receives a qualified written request.</content>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1024-31-Interp-8">
+          <interpParagraph label="1024-31-Interp-ServiceProvider" target="1024-31-ServiceProvider">
             <title>Service provider.</title>
             <content/>
-            <interpParagraph label="1024-31-Interp-8-1" marker="1.">
+            <interpParagraph label="1024-31-Interp-ServiceProvider-1" marker="1.">
               <content>Service providers may include attorneys retained to represent a servicer or an owner or assignee of a mortgage loan in a foreclosure proceeding, as well as other professionals retained to provide appraisals or inspections of properties.</content>
             </interpParagraph>
           </interpParagraph>
-        <interpParagraph label="1024-31-Interp-9" marker="">
+        <interpParagraph label="1024-31-Interp-Delinquency" target="1024-31-Delinquency">
         <title>Delinquency.</title>
         <content/>
-        <interpParagraph label="1024-31-Interp-9-1" marker="1.">
+        <interpParagraph label="1024-31-Interp-Delinquency-1" marker="1.">
           <title>Length of delinquency.</title>
           <content>A borrower's delinquency begins on the date an amount sufficient to cover a periodic payment of principal, interest, and, if applicable, escrow becomes due and unpaid, and lasts until such time as no periodic payment is due and unpaid, even if the borrower is afforded a period after the due date to pay before the servicer assesses a late fee.</content>
         </interpParagraph>
-        <interpParagraph label="1024-31-Interp-9-2" marker="2.">
+        <interpParagraph label="1024-31-Interp-Delinquency-2" marker="2.">
           <title>Application of funds.</title>
           <content>If a servicer applies payments to the oldest outstanding periodic payment, a payment by a delinquent borrower advances the date the borrower's delinquency began. For example, assume a borrower's mortgage loan obligation provides that a periodic payment sufficient to cover principal, interest, and escrow is due on the first of each month. The borrower fails to make a payment on January 1 or on any day in January, and on January 31 the borrower is 30 days delinquent. On February 3, the borrower makes a periodic payment. The servicer applies the payment it received on February 3 to the outstanding January payment. On February 4, the borrower is three days delinquent.</content>
         </interpParagraph>
-        <interpParagraph label="1024-31-Interp-9-3" marker="3.">
+        <interpParagraph label="1024-31-Interp-Delinquency-3" marker="3.">
           <title>Payment tolerance.</title>
           <content>For any given billing cycle for which a borrower's payment is less than the periodic payment due, if a servicer chooses not to treat a borrower as delinquent for purposes of any section of this subpart, that borrower is not delinquent as defined in § 1024.31.</content>
         </interpParagraph>
-        <interpParagraph label="1024-31-Interp-9-4" marker="4.">
+        <interpParagraph label="1024-31-Interp-Delinquency-4" marker="4.">
           <title>Creditor's contract rights.</title>
           <content>This subpart does not prevent a creditor from exercising a right provided by a mortgage loan contract to accelerate payment for a breach of that contract. Failure to pay the amount due after the creditor accelerates the mortgage loan obligation in accordance with the mortgage loan contract would begin or continue delinquency.</content>
         </interpParagraph>
       </interpParagraph>
-    <interpParagraph label="1024-31-Interp-10" marker="">
+    <interpParagraph label="1024-31-Interp-SuccessorInInterest" target="1024-31-SuccessorInInterest">
         <title>Successor in interest.</title>
         <content/>
-        <interpParagraph label="1024-31-Interp-10-1" marker="1.">
+        <interpParagraph label="1024-31-Interp-SuccessorInInterest-1" marker="1.">
           <title>Joint tenants and tenants by the entirety.</title>
           <content>If a borrower who has an ownership interest as a joint tenant or tenant by the entirety in a property securing a mortgage loan subject to this subpart dies, a surviving joint tenant or tenant by the entirety with a right of survivorship in the property is a successor in interest as defined in § 1024.31.</content>
         </interpParagraph>
-        <interpParagraph label="1024-31-Interp-10-2" marker="2.">
+        <interpParagraph label="1024-31-Interp-SuccessorInInterest-2" marker="2.">
           <title>Beneficiaries of inter vivos trusts.</title>
           <content>In the event of a transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property, the beneficiaries of the inter vivos trust rather than the inter vivos trust itself are considered to be the successors in interest for purposes of § 1024.31. For example, assume Borrower A transfers her home into such an inter vivos trust for the benefit of her spouse and herself. As of the transfer date, Borrower A and her spouse would be considered successors in interest and, upon confirmation, would be borrowers for purposes of certain provisions of Regulation X. If the lender has not released Borrower A from the loan obligation, Borrower A would also remain a borrower more generally for purposes of Regulation X.</content>
         </interpParagraph>

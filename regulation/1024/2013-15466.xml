@@ -4417,39 +4417,39 @@
         </interpSection>
         <interpSection label="1024-31-Interp" sectionNum="31" target="1024-31">
           <title>§ 1024.31—Definitions</title>
-          <interpParagraph label="1024-31-Interp-None">
+          <interpParagraph label="1024-31-Interp-LossMitigationApplication" target="1024-31-LossMitigationApplication">
             <title>Loss mitigation application.</title>
             <content/>
-            <interpParagraph label="1024-31-Interp-None-1" marker="1.">
+            <interpParagraph label="1024-31-Interp-LossMitigationApplication-1" marker="1.">
               <title type="keyterm">Borrower's representative.</title>
               <content>A loss mitigation application is deemed to be submitted by a borrower if the loss mitigation application is submitted by an agent of the borrower. Servicers may undertake reasonable procedures to determine if a person that claims to be an agent of a borrower has authority from the borrower to act on the borrower's behalf.</content></interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1024-31-Interp-2">
+          <interpParagraph label="1024-31-Interp-LossMitigationOption" target="1024-31-LossMitigationOption">
             <title>Loss mitigation option.</title>
             <content/>
-            <interpParagraph label="1024-31-Interp-2-1" marker="1.">
+            <interpParagraph label="1024-31-Interp-LossMitigationOption-1" marker="1.">
               <title type="keyterm">Types of loss mitigation options.</title>
               <content>Loss mitigation options include temporary and long-term relief, including options that allow borrowers who are behind on their mortgage payments to remain in their homes or to leave their homes without a foreclosure, such as, without limitation, refinancing, trial or permanent modification, repayment of the amount owed over an extended period of time, forbearance of future payments, short-sale, deed-in-lieu of foreclosure, and loss mitigation programs sponsored by a locality, a State, or the Federal government.</content>
             </interpParagraph>
-            <interpParagraph label="1024-31-Interp-2-2" marker="2.">
+            <interpParagraph label="1024-31-Interp-LossMitigationOption-2" marker="2.">
               <title type="keyterm">Available through the servicer.</title>
               <content>A loss mitigation option available through the servicer refers to an option for which a borrower may apply, even if the borrower ultimately does not qualify for such option.</content>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1024-31-Interp-5">
+          <interpParagraph label="1024-31-Interp-QualifiedWrittenRequest" target="1024-31-QualifiedWrittenRequest">
             <title>Qualified written request.</title>
             <content/>
-            <interpParagraph label="1024-31-Interp-5-1" marker="1.">
+            <interpParagraph label="1024-31-Interp-QualifiedWrittenRequest-1" marker="1.">
               <content>A qualified written request is a written notice a borrower provides to request a servicer either correct an error relating to the servicing of a mortgage loan or to request information relating to the servicing of the mortgage loan. A qualified written request is not required to include both types of requests. For example, a qualified written request may request information relating to the servicing of a mortgage loan but not assert that an error relating to the servicing of a loan has occurred.</content>
             </interpParagraph>
-            <interpParagraph label="1024-31-Interp-5-2" marker="2.">
+            <interpParagraph label="1024-31-Interp-QualifiedWrittenRequest-2" marker="2.">
               <content>A qualified written request is just one form that a written notice of error or information request may take. Thus, the error resolution and information request requirements in §§ <ref target="1024-35" reftype="internal">1024.35</ref> and <ref target="1024-36" reftype="internal">1024.36</ref> apply as set forth in those sections irrespective of whether the servicer receives a qualified written request.</content>
             </interpParagraph>
           </interpParagraph>
-          <interpParagraph label="1024-31-Interp-8">
+          <interpParagraph label="1024-31-Interp-ServiceProvider" target="1024-31-ServiceProvider">
             <title>Service provider.</title>
             <content/>
-            <interpParagraph label="1024-31-Interp-8-1" marker="1.">
+            <interpParagraph label="1024-31-Interp-ServiceProvider-1" marker="1.">
               <content>Service providers may include attorneys retained to represent a servicer or an owner or assignee of a mortgage loan in a foreclosure proceeding, as well as other professionals retained to provide appraisals or inspections of properties.</content>
             </interpParagraph>
           </interpParagraph>
