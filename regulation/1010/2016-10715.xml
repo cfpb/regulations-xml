@@ -10,28 +10,317 @@
   </fdsys>
   <preamble>
     <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>J</regLetter>
     <cfr>
       <title>12</title>
       <section>1010</section>
     </cfr>
     <documentNumber>2016-10715</documentNumber>
     <effectiveDate>2016-06-10</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2016/05/11/2016-10715/amendments-to-filing-requirements-under-the-interstate-land-sales-full-disclosure-act-regulations-j</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2016/05/11/2016-10715/amendments-to-filing-requirements-under-the-interstate-land-sales-full-disclosure-act-regulations-j</federalRegisterURL>
   </preamble>
   <part label="1010">
     <tableOfContents>
-      <tocAppEntry target="1010-Subpart-A">
-        <appendixLetter>A</appendixLetter>
-        <appendixSubject>General Requirements</appendixSubject>
-      </tocAppEntry>
-      <tocAppEntry target="1010-Subpart-B">
-        <appendixLetter>B</appendixLetter>
-        <appendixSubject>Reporting Requirements</appendixSubject>
-      </tocAppEntry>
-      <tocAppEntry target="1010-Subpart-C">
-        <appendixLetter>C</appendixLetter>
-        <appendixSubject>Certification of Substantially Equivalent State Law</appendixSubject>
-      </tocAppEntry>
+      <tocSubpartEntry>
+	<subpartTitle>General Requirements</subpartTitle>
+	<subpartLetter>A</subpartLetter>
+      </tocSubpartEntry>
+      <tocSecEntry target="1010-1">
+        <sectionNum>1</sectionNum>
+        <sectionSubject>§ 1010.1 Definitions.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-2">
+        <sectionNum>2</sectionNum>
+        <sectionSubject>§ 1010.2 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-3">
+        <sectionNum>3</sectionNum>
+        <sectionSubject>§ 1010.3 General applicability.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-4">
+        <sectionNum>4</sectionNum>
+        <sectionSubject>§ 1010.4 Exemptions—general.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-5">
+        <sectionNum>5</sectionNum>
+        <sectionSubject>§ 1010.5 Statutory exemptions.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-6">
+        <sectionNum>6</sectionNum>
+        <sectionSubject>§ 1010.6 One hundred lot exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-7">
+        <sectionNum>7</sectionNum>
+        <sectionSubject>§ 1010.7 Twelve lot exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-8">
+        <sectionNum>8</sectionNum>
+        <sectionSubject>§ 1010.8 Scattered site subdivisions.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-9">
+        <sectionNum>9</sectionNum>
+        <sectionSubject>§ 1010.9 Twenty acre lots.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-10">
+        <sectionNum>10</sectionNum>
+        <sectionSubject>§ 1010.10 Single-family residence exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-11">
+        <sectionNum>11</sectionNum>
+        <sectionSubject>§ 1010.11 Manufactured home exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-12">
+        <sectionNum>12</sectionNum>
+        <sectionSubject>§ 1010.12 Intrastate exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-13">
+        <sectionNum>13</sectionNum>
+        <sectionSubject>§ 1010.13 Metropolitan Statistical Area (MSA) exemption.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-14">
+        <sectionNum>14</sectionNum>
+        <sectionSubject>§ 1010.14 Regulatory exemptions.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-15">
+        <sectionNum>15</sectionNum>
+        <sectionSubject>§ 1010.15 Regulatory exemption—multiple site subdivision—determination required.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-16">
+        <sectionNum>16</sectionNum>
+        <sectionSubject>§ 1010.16 Regulatory exemption—determination required.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-17">
+        <sectionNum>17</sectionNum>
+        <sectionSubject>§ 1010.17 Advisory opinion.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-18">
+        <sectionNum>18</sectionNum>
+        <sectionSubject>§ 1010.18 No Action Letter.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-19">
+        <sectionNum>19</sectionNum>
+        <sectionSubject>§ 1010.19 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-20">
+        <sectionNum>20</sectionNum>
+        <sectionSubject>§ 1010.20 Requirements for registering a subdivision—Statement of Record—filing and form.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-21">
+        <sectionNum>21</sectionNum>
+        <sectionSubject>§ 1010.21 Effective dates.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-22">
+        <sectionNum>22</sectionNum>
+        <sectionSubject>§ 1010.22 Statement of record—initial or consolidated.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-23">
+        <sectionNum>23</sectionNum>
+        <sectionSubject>§ 1010.23 Amendment—filing and form.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-24">
+        <sectionNum>24</sectionNum>
+        <sectionSubject>§ 1010.24 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-25">
+        <sectionNum>25</sectionNum>
+        <sectionSubject>§ 1010.25 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-26">
+        <sectionNum>26</sectionNum>
+        <sectionSubject>§ 1010.26 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-27">
+        <sectionNum>27</sectionNum>
+        <sectionSubject>§ 1010.27 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-28">
+        <sectionNum>28</sectionNum>
+        <sectionSubject>§ 1010.28 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-29">
+        <sectionNum>29</sectionNum>
+        <sectionSubject>§ 1010.29 Use of property report—misstatements, omissions or representation of Bureau approval prohibited.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-35">
+        <sectionNum>35</sectionNum>
+        <sectionSubject>§ 1010.35 Payment of fees.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-45">
+        <sectionNum>45</sectionNum>
+        <sectionSubject>§ 1010.45 Suspensions.</sectionSubject>
+      </tocSecEntry>
+      <tocSubpartEntry>
+	<subpartTitle>Reporting Requirements</subpartTitle>
+	<subpartLetter>B</subpartLetter>
+      </tocSubpartEntry>
+      <tocSecEntry target="1010-100">
+        <sectionNum>100</sectionNum>
+        <sectionSubject>§ 1010.100 Statement of Record—format.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-101">
+        <sectionNum>101</sectionNum>
+        <sectionSubject>§ 1010.101 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-102">
+        <sectionNum>102</sectionNum>
+        <sectionSubject>§ 1010.102 General instructions for completing the Statement of Record.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-103">
+        <sectionNum>103</sectionNum>
+        <sectionSubject>§ 1010.103 Developer obligated improvements.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-104">
+        <sectionNum>104</sectionNum>
+        <sectionSubject>§ 1010.104 [Reserved]</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-105">
+        <sectionNum>105</sectionNum>
+        <sectionSubject>§ 1010.105 Cover page.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-106">
+        <sectionNum>106</sectionNum>
+        <sectionSubject>§ 1010.106 Table of contents.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-107">
+        <sectionNum>107</sectionNum>
+        <sectionSubject>§ 1010.107 Risks of buying land.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-108">
+        <sectionNum>108</sectionNum>
+        <sectionSubject>§ 1010.108 General information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-109">
+        <sectionNum>109</sectionNum>
+        <sectionSubject>§ 1010.109 Title to the property and land use.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-110">
+        <sectionNum>110</sectionNum>
+        <sectionSubject>§ 1010.110 Roads.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-111">
+        <sectionNum>111</sectionNum>
+        <sectionSubject>§ 1010.111 Utilities.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-112">
+        <sectionNum>112</sectionNum>
+        <sectionSubject>§ 1010.112 Financial information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-113">
+        <sectionNum>113</sectionNum>
+        <sectionSubject>§ 1010.113 Local services.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-114">
+        <sectionNum>114</sectionNum>
+        <sectionSubject>§ 1010.114 Recreational facilities.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-115">
+        <sectionNum>115</sectionNum>
+        <sectionSubject>§ 1010.115 Subdivision characteristics and climate.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-116">
+        <sectionNum>116</sectionNum>
+        <sectionSubject>§ 1010.116 Additional information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-117">
+        <sectionNum>117</sectionNum>
+        <sectionSubject>§ 1010.117 Cost sheet, signature of Senior Executive Officer.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-118">
+        <sectionNum>118</sectionNum>
+        <sectionSubject>§ 1010.118 Receipt, agent certification, and cancellation page.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-200">
+        <sectionNum>200</sectionNum>
+        <sectionSubject>§ 1010.200 Instructions for Statement of Record, Additional Information and Documentation.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-208">
+        <sectionNum>208</sectionNum>
+        <sectionSubject>§ 1010.208 General information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-209">
+        <sectionNum>209</sectionNum>
+        <sectionSubject>§ 1010.209 Title and land use.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-210">
+        <sectionNum>210</sectionNum>
+        <sectionSubject>§ 1010.210 Roads.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-211">
+        <sectionNum>211</sectionNum>
+        <sectionSubject>§ 1010.211 Utilities.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-212">
+        <sectionNum>212</sectionNum>
+        <sectionSubject>§ 1010.212 Financial information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-214">
+        <sectionNum>214</sectionNum>
+        <sectionSubject>§ 1010.214 Recreational facilities.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-215">
+        <sectionNum>215</sectionNum>
+        <sectionSubject>§ 1010.215 Subdivision characteristics and climate.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-216">
+        <sectionNum>216</sectionNum>
+        <sectionSubject>§ 1010.216 Additional information.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-219">
+        <sectionNum>219</sectionNum>
+        <sectionSubject>§ 1010.219 Affirmation.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-310">
+        <sectionNum>310</sectionNum>
+        <sectionSubject>§ 1010.310 Annual report of activity.</sectionSubject>
+      </tocSecEntry>
+      <tocSubpartEntry>
+	<subpartTitle>Certification of Substantially Equivalent State Law</subpartTitle>
+	<subpartLetter>C</subpartLetter>
+      </tocSubpartEntry>
+      <tocSecEntry target="1010-500">
+        <sectionNum>500</sectionNum>
+        <sectionSubject>§ 1010.500 General.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-503">
+        <sectionNum>503</sectionNum>
+        <sectionSubject>§ 1010.503 Notice of certification.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-504">
+        <sectionNum>504</sectionNum>
+        <sectionSubject>§ 1010.504 Cooperation among certified states and between certified states and the Director.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-505">
+        <sectionNum>505</sectionNum>
+        <sectionSubject>§ 1010.505 Withdrawal of state certification.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-506">
+        <sectionNum>506</sectionNum>
+        <sectionSubject>§ 1010.506 State/Federal filing requirements.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-507">
+        <sectionNum>507</sectionNum>
+        <sectionSubject>§ 1010.507 Effect of suspension or withdrawal of certification granted under § 1010.501(a): Full disclosure requirement.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-508">
+        <sectionNum>508</sectionNum>
+        <sectionSubject>§ 1010.508 Effect of suspension of certification granted under § 1010.501(b): Sufficient protection requirement.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-552">
+        <sectionNum>552</sectionNum>
+        <sectionSubject>§ 1010.552 Previously accepted state filings.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-556">
+        <sectionNum>556</sectionNum>
+        <sectionSubject>§ 1010.556 Previously accepted state filings—amendments and consolidations.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-558">
+        <sectionNum>558</sectionNum>
+        <sectionSubject>§ 1010.558 Previously accepted state filings—notice of revocation rights on property report cover page.</sectionSubject>
+      </tocSecEntry>
+      <tocSecEntry target="1010-559">
+        <sectionNum>559</sectionNum>
+        <sectionSubject>§ 1010.559 Previously accepted state filings—notice of revocation rights in contracts and agreements.</sectionSubject>
+      </tocSecEntry>
       <tocAppEntry target="1010-A">
         <appendixLetter>A</appendixLetter>
         <appendixSubject>Appendix A to Part 1010—Standard and Model Forms and Clauses</appendixSubject>
@@ -660,7 +949,7 @@
                 <content>Prior to the purchaser signing a contract or agreement of <ref target="1010-1-b-13" reftype="term">sale</ref>, the developer discloses in a written <ref target="1010-1-b-8" reftype="term">Lot</ref> Information Statement the name, address and telephone number of the local governmental agency or agencies from which information on permits or other requirements for water, sewer and electrical installations can be obtained. This Statement will also contain the name, address and telephone number of the suppliers which would or could provide the foregoing services.</content>
               </paragraph>
               <paragraph label="1010-15-b-10" marker="(10)">
-                <content>The <ref target="1010-1-b-8" reftype="term">lot</ref> <ref target="1010-1-b-13" reftype="term">sale</ref> must comply with the anti-fraud provisions of <ref target="CFR:12-1010-4" reftype="external">12 CFR 1010.4</ref><ref target="1010-4-b" reftype="internal">12 CFR 1010.4(b)</ref> and (c) and the <ref target="1010-1-b-13" reftype="term">sales</ref> practices and standards in §§ 1011.10 through 1011.28.</content>
+                  <content>The <ref target="1010-1-b-8" reftype="term">lot</ref> <ref target="1010-1-b-13" reftype="term">sale</ref> must comply with the anti-fraud provisions of <ref target="1010-4-b" reftype="internal">12 CFR 1010.4(b)</ref> and <ref target="1010-4-c" reftype="internal">(c)</ref> and the <ref target="1010-1-b-13" reftype="term">sales</ref> practices and standards in §§ <ref target="CFR:12-1011-10" reftype="external">1011.10</ref> through <ref target="CFR:12-1011-28" reftype="external">1011.28</ref>.</content>
               </paragraph>
               <paragraph label="1010-15-b-11" marker="(11)">
                 <content>A written <ref target="1010-1-b-8" reftype="term">Lot</ref> Information Statement must be delivered to, and acknowledged by, each purchaser prior to his or her signing a contract or agreement of <ref target="1010-1-b-13" reftype="term">sale</ref>, and must contain the information shown in the format below. The Statement must be typed or printed in at least 10 point font. A copy of the acknowledgement will be maintained by the developer for three years and will be made available to <ref target="1010-1-b-7" reftype="term">ILSRP</ref> upon request. If the Statement is not delivered as required, the contract or agreement of <ref target="1010-1-b-13" reftype="term">sale</ref> may be revoked and a full refund paid, at the option of the purchaser, within two years of the signing date and the contract or agreement of <ref target="1010-1-b-13" reftype="term">sale</ref> will clearly provide this right. A sample format for the Statement is provided in <ref target="1010-A-III" reftype="internal">section III of the appendix to this part</ref>: Sample <ref target="1010-1-b-8" reftype="term">Lot</ref> Information Statement and Sample Receipt.</content>
@@ -2654,7 +2943,7 @@
                   <content>Any down payments or deposits are held in an escrow or trust account, or;</content>
                 </paragraph>
                 <paragraph label="1010-212-j-1-iv" marker="(iv)">
-                  <content>The developer then qualifies for exception (e)(3)(iii) or (iv) of this section.</content>
+                    <content>The developer then qualifies for exception <ref target="1010-212-e-3" reftype="internal">(e)(3)</ref>(iii) or (iv) of this section.</content>
                 </paragraph>
               </paragraph>
               <paragraph label="1010-212-j-2" marker="(2)">
@@ -3037,7 +3326,7 @@
           <section label="1010-552" sectionNum="552">
             <subject>§ 1010.552 Previously accepted state filings.</subject>
             <paragraph label="1010-552-a" marker="(a)">
-        <content>Materials filed with a state and accepted by the HUD Secretary as a Statement of Record prior to January 1, 1981, pursuant to 24 CFR <ref target="1010-52" reftype="internal">1010.52</ref> through <ref target="1010-59" reftype="internal">1010.59</ref> (as published in the Federal Register on April 10, 1979) may continue in effect. However, developers must comply with the applicable amendments to the Federal act and the regulations thereunder. In particular, see §§ <ref target="1010-558" reftype="internal">1010.558</ref> and <ref target="1010-559" reftype="internal">1010.559</ref>, which require that the Property Report and contracts or agreements contain notice of purchaser's revocation rights. In addition, see <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>(a)(2)(D), which provides that it is unlawful to make any representations with regard to the developer's obligation to provide or complete roads, water, sewers, gas, electrical facilities or recreational amenities, unless the developer is obligated to do so in the contract.</content>
+          <content>Materials filed with a state and accepted by the HUD Secretary as a Statement of Record prior to January 1, 1981, pursuant to 24 CFR <ref target="CFR:24-1010-52" reftype="external">1010.52</ref> through <ref target="CFR:24-1010-59" reftype="external">1010.59</ref> (as published in the Federal Register on April 10, 1979) may continue in effect. However, developers must comply with the applicable amendments to the Federal act and the regulations thereunder. In particular, see §§ <ref target="1010-558" reftype="internal">1010.558</ref> and <ref target="1010-559" reftype="internal">1010.559</ref>, which require that the Property Report and contracts or agreements contain notice of purchaser's revocation rights. In addition, see <ref target="USC:15-1703" reftype="external">15 U.S.C. 1703</ref>(a)(2)(D), which provides that it is unlawful to make any representations with regard to the developer's obligation to provide or complete roads, water, sewers, gas, electrical facilities or recreational amenities, unless the developer is obligated to do so in the contract.</content>
       </paragraph>
     <paragraph label="1010-552-b" marker="(b)">
               <content>If any such filing becomes inactive or suspended under the laws of the state, the registration with the Director shall be ineffective from that time.</content>
@@ -4800,7 +5089,7 @@
     <analysisSection target="1010-102-h" notice="2016-10715" date="2016-05-11">
       <title>102(h) Ordering</title>
       <analysisParagraph>Section 1010.102(h) requires the Statement of Record to be bound with the Property Report on top (including any documents required to be attached when delivered to the purchaser), followed by the Additional Information and Documentation. The Bureau is amending § 1010.102(h) to remove the requirement that the Statement of Record be bound with the Property Report, while still requiring that the filing be presented in the specified order.<footnote ref="6">As noted above in the section-by-section discussion of § 1010.20(a) and (b), electronic filings made pursuant to § 1010.20(a) are not subject to the requirements in § 1010.102(a), (g), and (h) relating to paper type, tabs, folding, and ordering for filings but must comply with instructions for electronic filing designated on the ILSA program page of the Bureau's Web site.</footnote>
-           The Bureau believes allowing developers to decide whether to bind filings facilitates compliance.</analysisParagraph>
+        The Bureau believes allowing developers to decide whether to bind filings facilitates compliance.</analysisParagraph>
     </analysisSection>
     <analysisSection target="1010-4-e" notice="2016-10715" date="2016-05-11">
       <title>4(e)</title>
@@ -4825,7 +5114,7 @@
       <analysisSection>
         <title>(a)</title>
         <analysisParagraph>The Bureau is making a technical amendment to § 1010.103(a) to remove one erroneous citation and replace another erroneous citation. Prior to the Restatement, 24 CFR 1710.103(a) cited 24 CFR 1715.15(f), which implemented the requirements of 15 U.S.C. 1703(a)(2)(D). As part of the Restatement, the Bureau replaced § 1715.15(f) with § 1011.15(f) in this paragraph, even though HUD had eliminated § 1715.15(f) in 1996 and § 1011.15(f) does not exist.<footnote ref="7">61 FR 13596, 13598 (Mar. 27, 1996).</footnote>
-           These technical amendments do not modify any requirements or obligations under Regulation J.</analysisParagraph>
+          These technical amendments do not modify any requirements or obligations under Regulation J.</analysisParagraph>
       </analysisSection>
       <analysisSection>
         <title>1010.209 Title and Land Use</title>
@@ -4870,7 +5159,7 @@
       <analysisSection>
         <title>(a)</title>
         <analysisParagraph>The Bureau is making a technical amendment to § 1010.503(a), which currently erroneously refers to § 1010.501(a) or (b) as the provisions pursuant to which a State may qualify for certification. Prior to the Restatement, 24 CFR 1710.503(a) referred to 24 CFR 1710.501(a) or (b), which implemented the requirements of 15 U.S.C. 1708(a). As part of the Restatement, the Bureau replaced § 1710.501 with § 1010.501 in this paragraph, even though HUD had removed § 1710.501 from codification in 1996 <footnote ref="8">61 FR 13596, 13597 (Mar. 27, 1996).</footnote>
-           and § 1010.501 does not exist. Because § 1010.501 does not exist, the final rule substitutes a reference to subpart C of part 1010, which is the subpart pursuant to which a State may qualify for certification. This technical amendment does not alter or change the substance of the requirements of § 1010.503(a).</analysisParagraph>
+          and § 1010.501 does not exist. Because § 1010.501 does not exist, the final rule substitutes a reference to subpart C of part 1010, which is the subpart pursuant to which a State may qualify for certification. This technical amendment does not alter or change the substance of the requirements of § 1010.503(a).</analysisParagraph>
       </analysisSection>
       <analysisSection>
         <title>1010.504 Cooperation Among Certified States and Between Certified States and the Director</title>
@@ -4909,7 +5198,7 @@
     <analysisSection target="1010-4-c" notice="2016-10715" date="2016-05-11">
       <title>4(c)</title>
       <analysisParagraph>The Bureau is making a technical amendment to § 1010.4(c) to remove a citation to a regulation that does not exist, § 1011.15(f). Prior to the Restatement, 24 CFR 1710.4(c) cited 24 CFR 1715.15(f), which implemented the requirements of 15 U.S.C. 1703(a)(2)(D). HUD eliminated § 1715.15(f) in 1996 but retained the cross-reference.<footnote ref="5">61 FR 13596, 13598 (Mar. 27, 1996).</footnote>
-           As part of the Restatement, the Bureau substituted § 1011.15(f) for § 1715.15(f), even though § 1011.15(f) does not exist. This technical amendment to remove the citation to § 1011.15(f) does not modify any requirements or obligations under Regulation J.</analysisParagraph>
+        As part of the Restatement, the Bureau substituted § 1011.15(f) for § 1715.15(f), even though § 1011.15(f) does not exist. This technical amendment to remove the citation to § 1011.15(f) does not modify any requirements or obligations under Regulation J.</analysisParagraph>
     </analysisSection>
   </analysis>
 </regulation>
