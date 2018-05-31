@@ -4664,7 +4664,27 @@
     </interpSection>
         <interpSection label="1024-31-Interp" sectionNum="31" target="1024-31">
           <title>§ 1024.31—Definitions</title>
-          <interpParagraph label="1024-31-Interp-LossMitigationApplication" target="1024-31-LossMitigationApplication">
+          <interpParagraph label="1024-31-Interp-Delinquency" target="1024-31-Delinquency">
+        <title>Delinquency.</title>
+        <content/>
+        <interpParagraph label="1024-31-Interp-Delinquency-1" marker="1.">
+          <title>Length of delinquency.</title>
+          <content>A borrower's delinquency begins on the date an amount sufficient to cover a periodic payment of principal, interest, and, if applicable, escrow becomes due and unpaid, and lasts until such time as no periodic payment is due and unpaid, even if the borrower is afforded a period after the due date to pay before the servicer assesses a late fee.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-31-Interp-Delinquency-2" marker="2.">
+          <title>Application of funds.</title>
+          <content>If a servicer applies payments to the oldest outstanding periodic payment, a payment by a delinquent borrower advances the date the borrower's delinquency began. For example, assume a borrower's mortgage loan obligation provides that a periodic payment sufficient to cover principal, interest, and escrow is due on the first of each month. The borrower fails to make a payment on January 1 or on any day in January, and on January 31 the borrower is 30 days delinquent. On February 3, the borrower makes a periodic payment. The servicer applies the payment it received on February 3 to the outstanding January payment. On February 4, the borrower is three days delinquent.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-31-Interp-Delinquency-3" marker="3.">
+          <title>Payment tolerance.</title>
+          <content>For any given billing cycle for which a borrower's payment is less than the periodic payment due, if a servicer chooses not to treat a borrower as delinquent for purposes of any section of this subpart, that borrower is not delinquent as defined in § 1024.31.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-31-Interp-Delinquency-4" marker="4.">
+          <title>Creditor's contract rights.</title>
+          <content>This subpart does not prevent a creditor from exercising a right provided by a mortgage loan contract to accelerate payment for a breach of that contract. Failure to pay the amount due after the creditor accelerates the mortgage loan obligation in accordance with the mortgage loan contract would begin or continue delinquency.</content>
+        </interpParagraph>
+      </interpParagraph>
+    <interpParagraph label="1024-31-Interp-LossMitigationApplication" target="1024-31-LossMitigationApplication">
             <title>Loss mitigation application.</title>
             <content/>
             <interpParagraph label="1024-31-Interp-LossMitigationApplication-1" marker="1.">
@@ -4700,27 +4720,7 @@
               <content>Service providers may include attorneys retained to represent a servicer or an owner or assignee of a mortgage loan in a foreclosure proceeding, as well as other professionals retained to provide appraisals or inspections of properties.</content>
             </interpParagraph>
           </interpParagraph>
-        <interpParagraph label="1024-31-Interp-Delinquency" target="1024-31-Delinquency">
-        <title>Delinquency.</title>
-        <content/>
-        <interpParagraph label="1024-31-Interp-Delinquency-1" marker="1.">
-          <title>Length of delinquency.</title>
-          <content>A borrower's delinquency begins on the date an amount sufficient to cover a periodic payment of principal, interest, and, if applicable, escrow becomes due and unpaid, and lasts until such time as no periodic payment is due and unpaid, even if the borrower is afforded a period after the due date to pay before the servicer assesses a late fee.</content>
-        </interpParagraph>
-        <interpParagraph label="1024-31-Interp-Delinquency-2" marker="2.">
-          <title>Application of funds.</title>
-          <content>If a servicer applies payments to the oldest outstanding periodic payment, a payment by a delinquent borrower advances the date the borrower's delinquency began. For example, assume a borrower's mortgage loan obligation provides that a periodic payment sufficient to cover principal, interest, and escrow is due on the first of each month. The borrower fails to make a payment on January 1 or on any day in January, and on January 31 the borrower is 30 days delinquent. On February 3, the borrower makes a periodic payment. The servicer applies the payment it received on February 3 to the outstanding January payment. On February 4, the borrower is three days delinquent.</content>
-        </interpParagraph>
-        <interpParagraph label="1024-31-Interp-Delinquency-3" marker="3.">
-          <title>Payment tolerance.</title>
-          <content>For any given billing cycle for which a borrower's payment is less than the periodic payment due, if a servicer chooses not to treat a borrower as delinquent for purposes of any section of this subpart, that borrower is not delinquent as defined in § 1024.31.</content>
-        </interpParagraph>
-        <interpParagraph label="1024-31-Interp-Delinquency-4" marker="4.">
-          <title>Creditor's contract rights.</title>
-          <content>This subpart does not prevent a creditor from exercising a right provided by a mortgage loan contract to accelerate payment for a breach of that contract. Failure to pay the amount due after the creditor accelerates the mortgage loan obligation in accordance with the mortgage loan contract would begin or continue delinquency.</content>
-        </interpParagraph>
-      </interpParagraph>
-    <interpParagraph label="1024-31-Interp-SuccessorInInterest" target="1024-31-SuccessorInInterest">
+        <interpParagraph label="1024-31-Interp-SuccessorInInterest" target="1024-31-SuccessorInInterest">
         <title>Successor in interest.</title>
         <content/>
         <interpParagraph label="1024-31-Interp-SuccessorInInterest-1" marker="1.">

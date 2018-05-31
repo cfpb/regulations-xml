@@ -611,7 +611,7 @@
       </interpParagraph>
     </change>
 
-    <change operation="added" label="1024-31-Interp-Delinquency">
+    <change operation="added" label="1024-31-Interp-Delinquency" before="1024-31-Interp-LossMitigationApplication">
       <interpParagraph label="1024-31-Interp-Delinquency" target="1024-31-Delinquency">
         <title>Delinquency.</title>
         <content/>
@@ -634,7 +634,7 @@
       </interpParagraph>
     </change>
 
-    <change operation="added" label="1024-31-Interp-SuccessorInInterest">
+    <change operation="added" label="1024-31-Interp-SuccessorInInterest" after="1024-31-Interp-ServiceProvider">
       <interpParagraph label="1024-31-Interp-SuccessorInInterest" target="1024-31-SuccessorInInterest">
         <title>Successor in interest.</title>
         <content/>
