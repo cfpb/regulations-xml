@@ -17,7 +17,7 @@
     </cfr>
     <documentNumber>2015-30071</documentNumber>
     <effectiveDate>2016-01-01</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2015/11/27/2015-30071/consumer-leasing-regulation-m</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2015/11/27/2015-30071/consumer-leasing-regulation-m</federalRegisterURL>
   </preamble>
   <part label="1013">
     <tableOfContents>
@@ -211,7 +211,7 @@
               <content><def term="residual value">Residual value</def> means the value of the leased property at the end of the <ref target="1013-2-e-1" reftype="term">lease</ref> term, as estimated or assigned at consummation by the <ref target="1013-2-h" reftype="term">lessor</ref>, used in calculating the base periodic payment.</content>
             </paragraph>
             <paragraph label="1013-2-o" marker="(o)">
-              <content>Security interest and <def term="security">security</def> mean any interest in property that secures the payment or performance of an obligation.</content>
+                <content><def term="security interest">Security interest</def> and <def term="security">security</def> mean any interest in property that secures the payment or performance of an obligation.</content>
             </paragraph>
             <paragraph label="1013-2-p" marker="(p)">
               <content><def term="state">State</def> means any state, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.</content>
