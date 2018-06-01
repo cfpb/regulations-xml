@@ -17,7 +17,7 @@
     </cfr>
     <documentNumber>2011-18676</documentNumber>
     <effectiveDate>2011-07-22</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2011/07/22/2011-18676/alternative-mortgage-transaction-parity-regulation-d</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2011/07/22/2011-18676/alternative-mortgage-transaction-parity-regulation-d</federalRegisterURL>
   </preamble>
   <part label="1004">
     <tableOfContents>
@@ -43,8 +43,8 @@
       </tocAppEntry>
     </tableOfContents>
     <content>
-      <subpart>
-        <tableOfContents>
+      <subpart label="1004-Subpart">
+        <tableOfContents label="1004-Subpart-TOC">
           <tocSecEntry target="1004-1">
             <sectionNum>1</sectionNum>
             <sectionSubject>§ 1004.1 Authority, purpose, and scope.</sectionSubject>
@@ -84,7 +84,7 @@
               <content>For purposes of this part:</content>
             </paragraph>
             <paragraph label="1004-2-a" marker="(a)">
-              <content><def term="alternative mortgage transaction" id="928d2a15bbab2fad46203758ff4e81169172fd2f">Alternative mortgage transaction</def> means a loan, credit sale, or account:</content>
+              <content><def term="alternative mortgage transaction">Alternative mortgage transaction</def> means a loan, credit sale, or account:</content>
               <paragraph label="1004-2-a-1" marker="(1)">
                 <content>That is secured by an interest in a residential structure that contains one to four units, whether or not that structure is attached to real property, including an individual condominium unit, cooperative unit, mobile home, or trailer, if it is used as a residence;</content>
               </paragraph>
@@ -96,10 +96,10 @@
               </paragraph>
             </paragraph>
             <paragraph label="1004-2-b" marker="(b)">
-              <content><def term="creditor" id="fa43f4218f0a113a4fbcff1e41d93635b19ec0bf">Creditor</def> shall have the same meaning as in <ref target="CFR:12-226-2" reftype="external">12 CFR 226.2</ref>.</content>
+              <content><def term="creditor">Creditor</def> shall have the same meaning as in <ref target="CFR:12-226-2" reftype="external">12 CFR 226.2</ref>.</content>
             </paragraph>
             <paragraph label="1004-2-c" marker="(c)">
-              <content><def term="housing creditor" id="2eabed2fb2a0df881069754e8acd218322aede1f">Housing creditor</def> means:</content>
+              <content><def term="housing creditor">Housing creditor</def> means:</content>
               <paragraph label="1004-2-c-1" marker="(1)">
                 <content>A depository institution, as defined in section 501(a)(2) of the Depository Institutions Deregulation and Monetary Control Act of 1980;</content>
               </paragraph>
@@ -114,10 +114,10 @@
               </paragraph>
             </paragraph>
             <paragraph label="1004-2-d" marker="(d)">
-              <content><def term="state" id="aa4a5f8125f234182e2dea92805afdfb747a86be">State</def> means any State of the United States of America, the District of Columbia, Puerto Rico, the Virgin Islands, the Northern Mariana Islands, American Samoa, Guam, and any other territory or possession of the United States.</content>
+              <content><def term="state">State</def> means any State of the United States of America, the District of Columbia, Puerto Rico, the Virgin Islands, the Northern Mariana Islands, American Samoa, Guam, and any other territory or possession of the United States.</content>
             </paragraph>
             <paragraph label="1004-2-e" marker="(e)">
-              <content><def term="state law" id="b070ef4a8406d218428a05122c673ff890851f2b">State law</def> means a <ref target="1004-2-d" reftype="term">State</ref> constitution, statute, or regulation or any provision thereof.</content>
+              <content><def term="state law">State law</def> means a <ref target="1004-2-d" reftype="term">State</ref> constitution, statute, or regulation or any provision thereof.</content>
             </paragraph>
           </section>
           <section label="1004-3" sectionNum="3">
