@@ -134,7 +134,7 @@
 
     <change operation="modified" label="1024-39-c">
       <paragraph label="1024-39-c" marker="(c)">
-        <title>Borrowers in bankruptcy</title>
+        <title>Borrowers in bankruptcy.</title>
         <content/>
         <paragraph label="1024-39-c-1" marker="(1)">
           <title>Partial exemption.</title>
@@ -885,33 +885,41 @@
           <title>Adapting requirements in bankruptcy.</title>
           <content>Section 1024.39(c) does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. If necessary to comply with such law or court order, a servicer may adapt the requirements of § 1024.39 as appropriate.</content>
         </interpParagraph>
-        <interpParagraph label="1024-39-c-1-Interp-1" marker="1.">
-          <title>Commencing a case.</title>
-          <content>Section 1024.39(c)(1) applies once a petition is filed under title 11 of the United States Code, commencing a case in which the borrower is a debtor in bankruptcy.</content>
-        </interpParagraph>
-        <interpParagraph label="1024-39-c-1-ii-Interp-1" marker="1.">
-          <title>Availability of loss mitigation options.</title>
-          <content>In part, § 1024.39(c)(1)(ii) exempts a servicer from the requirements of § 1024.39(b) if no loss mitigation option is available. A loss mitigation option is available if the owner or assignee of a mortgage loan offers an alternative to foreclosure that is made available through the servicer and for which a borrower may apply, even if the borrower ultimately does not qualify for such option.</content>
-        </interpParagraph>
-        <interpParagraph label="1024-39-c-1-ii-Interp-2" marker="2.">
-          <title>Fair Debt Collections Practices Act.</title>
+        <interpParagraph label="1024-39-c-1-Interp" target="1024-39-c-1">
+          <title>39(c)(1) Borrowers in bankruptcy—Partial exemption.</title>
           <content/>
-          <interpParagraph label="1024-39-c-1-ii-Interp-2-i" marker="i.">
-            <title>Exemption.</title>
-            <content>To the extent the Fair Debt Collection Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) applies to a servicer's communications with a borrower in bankruptcy and any borrower on the mortgage loan has provided a notification pursuant to FDCPA section 805(c) notifying the servicer that the borrower refuses to pay a debt or that the borrower wishes the servicer to cease further communications, with regard to that mortgage loan, § 1024.39(c)(1)(ii) exempts a servicer from providing the written notice required by § 1024.39(b).</content>
+          <interpParagraph label="1024-39-c-1-Interp-1" marker="1.">
+            <title>Commencing a case.</title>
+            <content>Section 1024.39(c)(1) applies once a petition is filed under title 11 of the United States Code, commencing a case in which the borrower is a debtor in bankruptcy.</content>
           </interpParagraph>
-          <interpParagraph label="1024-39-c-1-ii-Interp-2-ii" marker="ii.">
-            <title>Example.</title>
-            <content>For example, assume that two spouses jointly own a home and are both primarily liable on the mortgage loan. Further assume that the servicer is subject to the FDCPA with respect to that mortgage loan. One spouse is a debtor in bankruptcy under title 11 of the United States Code subject to § 1024.39(c). The other spouse provided the servicer a notification pursuant to FDCPA section 805(c). Section 1024.39(c)(1)(ii) exempts the servicer from providing the written notice required by § 1024.39(b) with respect to that mortgage loan.</content>
+          <interpParagraph label="1024-39-c-1-ii-Interp-1" marker="1.">
+            <title>Availability of loss mitigation options.</title>
+            <content>In part, § 1024.39(c)(1)(ii) exempts a servicer from the requirements of § 1024.39(b) if no loss mitigation option is available. A loss mitigation option is available if the owner or assignee of a mortgage loan offers an alternative to foreclosure that is made available through the servicer and for which a borrower may apply, even if the borrower ultimately does not qualify for such option.</content>
+          </interpParagraph>
+          <interpParagraph label="1024-39-c-1-ii-Interp-2" marker="2.">
+            <title>Fair Debt Collections Practices Act.</title>
+            <content/>
+            <interpParagraph label="1024-39-c-1-ii-Interp-2-i" marker="i.">
+              <title>Exemption.</title>
+              <content>To the extent the Fair Debt Collection Practices Act (FDCPA) (15 U.S.C. 1692 et seq.) applies to a servicer's communications with a borrower in bankruptcy and any borrower on the mortgage loan has provided a notification pursuant to FDCPA section 805(c) notifying the servicer that the borrower refuses to pay a debt or that the borrower wishes the servicer to cease further communications, with regard to that mortgage loan, § 1024.39(c)(1)(ii) exempts a servicer from providing the written notice required by § 1024.39(b).</content>
+            </interpParagraph>
+            <interpParagraph label="1024-39-c-1-ii-Interp-2-ii" marker="ii.">
+              <title>Example.</title>
+              <content>For example, assume that two spouses jointly own a home and are both primarily liable on the mortgage loan. Further assume that the servicer is subject to the FDCPA with respect to that mortgage loan. One spouse is a debtor in bankruptcy under title 11 of the United States Code subject to § 1024.39(c). The other spouse provided the servicer a notification pursuant to FDCPA section 805(c). Section 1024.39(c)(1)(ii) exempts the servicer from providing the written notice required by § 1024.39(b) with respect to that mortgage loan.</content>
+            </interpParagraph>
+          </interpParagraph>
+          <interpParagraph label="1024-39-c-1-iii-Interp-1" marker="1.">
+            <title>Joint obligors.</title>
+            <content>When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to § 1024.39, if any of the borrowers is a debtor in bankruptcy, a servicer may provide the written notice required by § 1024.39(b), as modified by § 1024.39(c)(1)(iii), to any borrower.</content>
           </interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1024-39-c-1-iii-Interp-1" marker="1.">
-          <title>Joint obligors.</title>
-          <content>When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to § 1024.39, if any of the borrowers is a debtor in bankruptcy, a servicer may provide the written notice required by § 1024.39(b), as modified by § 1024.39(c)(1)(iii), to any borrower.</content>
-        </interpParagraph>
-        <interpParagraph label="1024-39-c-2-Interp-1" marker="1.">
-          <title>Bankruptcy case revived.</title>
-          <content>If the borrower's bankruptcy case is revived, for example if the court reinstates a previously dismissed case or reopens the case, § 1024.39(c)(1) once again applies. However, § 1024.39(c)(1)(iii)(C) provides that a servicer is not required to provide the written notice more than once during a single bankruptcy case. For example, assume a borrower's bankruptcy case commences on June 1, the servicer provides the written notice on July 10 in compliance with § 1024.39(b) as modified by § 1024.39(c)(1)(iii), and the bankruptcy case is dismissed on August 1. If the court subsequently reopens or reinstates the borrower's bankruptcy case and the servicer does not provide a second written notice for that bankruptcy case, the servicer has complied with § 1024.39(b) and (c)(1)(iii).</content>
+        <interpParagraph label="1024-39-c-2-Interp" target="1024-39-c-2">
+          <title>39(c)(2) Resuming compliance.</title>
+          <content/>
+          <interpParagraph label="1024-39-c-2-Interp-1" marker="1.">
+            <title>Bankruptcy case revived.</title>
+            <content>If the borrower's bankruptcy case is revived, for example if the court reinstates a previously dismissed case or reopens the case, § 1024.39(c)(1) once again applies. However, § 1024.39(c)(1)(iii)(C) provides that a servicer is not required to provide the written notice more than once during a single bankruptcy case. For example, assume a borrower's bankruptcy case commences on June 1, the servicer provides the written notice on July 10 in compliance with § 1024.39(b) as modified by § 1024.39(c)(1)(iii), and the bankruptcy case is dismissed on August 1. If the court subsequently reopens or reinstates the borrower's bankruptcy case and the servicer does not provide a second written notice for that bankruptcy case, the servicer has complied with § 1024.39(b) and (c)(1)(iii).</content>
+          </interpParagraph>
         </interpParagraph>
       </interpParagraph>
     </change>
