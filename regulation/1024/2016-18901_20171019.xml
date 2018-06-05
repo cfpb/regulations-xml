@@ -5632,6 +5632,10 @@
             <title>Commencing a case.</title>
             <content>Section 1024.39(c)(1) applies once a petition is filed under title 11 of the United States Code, commencing a case in which the borrower is a debtor in bankruptcy.</content>
           </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1024-39-c-1-ii-Interp" target="1024-39-c-1-ii">
+          <title>Paragraph 39(c)(1)(ii)</title>
+          <content/>
           <interpParagraph label="1024-39-c-1-ii-Interp-1" marker="1.">
             <title>Availability of loss mitigation options.</title>
             <content>In part, § 1024.39(c)(1)(ii) exempts a servicer from the requirements of § 1024.39(b) if no loss mitigation option is available. A loss mitigation option is available if the owner or assignee of a mortgage loan offers an alternative to foreclosure that is made available through the servicer and for which a borrower may apply, even if the borrower ultimately does not qualify for such option.</content>
