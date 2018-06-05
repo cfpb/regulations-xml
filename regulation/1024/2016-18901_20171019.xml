@@ -5825,43 +5825,43 @@
             <interpParagraph label="1024-41-c-2-Interp" target="1024-41-c-2">
         <title>41(c)(2) Incomplete loss mitigation application evaluation.</title>
         <content/>
-        <interpParagraph label="1024-41-c-2-iii-Interp">
-          <title>41(c)(2)(iii) Payment forbearance.</title>
-          <content/>
-          <interpParagraph label="1024-41-c-2-iii-Interp-1" marker="1.">
-        <title>Short-term payment forbearance program.</title>
-        <content>The exemption in § 1024.41(c)(2)(iii) applies to, among other things, short-term payment forbearance programs. For purposes of § 1024.41(c)(2)(iii), a payment forbearance program is a loss mitigation option pursuant to which a servicer allows a borrower to forgo making certain payments or portions of payments for a period of time. A short-term payment forbearance program for purposes of § 1024.41(c)(2)(iii) allows the forbearance of payments due over periods of no more than six months. Such a program would be short-term regardless of the amount of time a servicer allows the borrower to make up the missing payments.</content>
-      </interpParagraph>
-    <interpParagraph label="1024-41-c-2-iii-Interp-2" marker="2.">
-        <title>Short-term loss mitigation options and incomplete applications.</title>
-        <content>Section 1024.41(c)(2)(iii) allows a servicer to offer a borrower a short-term payment forbearance program or a short-term repayment plan based on an evaluation of an incomplete loss mitigation application. The servicer must still comply with the other requirements of § 1024.41 with respect to the incomplete loss mitigation application, including the requirement in § 1024.41(b)(2) to review the application to determine if it is complete, the requirement in § 1024.41(b)(1) to exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application (see comment 41(b)(1)-4.iii), and the requirement in § 1024.41(b)(2)(i)(B) to provide the borrower with written notice that the servicer acknowledges the receipt of the application and has determined that the application is incomplete.</content>
-      </interpParagraph>
-    <interpParagraph label="1024-41-c-2-iii-Interp-3" marker="3.">
-        <title>Short-term loss mitigation options and complete applications.</title>
-        <content>Even if a servicer offers a borrower a short-term payment forbearance program or a short-term repayment plan based on an evaluation of an incomplete loss mitigation application, the servicer must still comply with all applicable requirements in § 1024.41 if the borrower completes a loss mitigation application.</content>
-      </interpParagraph>
-    <interpParagraph label="1024-41-c-2-iii-Interp-4" marker="4.">
-        <title>Short-term repayment plan.</title>
-        <content>The exemption in § 1024.41(c)(2)(iii) applies to, among other things, short-term repayment plans. For purposes of § 1024.41(c)(2)(iii), a repayment plan is a loss mitigation option with terms under which a borrower would repay all past due payments over a specified period of time to bring the mortgage loan account current. A short-term repayment plan for purposes of § 1024.41(c)(2)(iii) allows for the repayment of no more than three months of past due payments and allows a borrower to repay the arrearage over a period lasting no more than six months.</content>
-      </interpParagraph>
-    <interpParagraph label="1024-41-c-2-iii-Interp-5" marker="5.">
-        <title>Specific payment terms and duration.</title>
+        <interpParagraph label="1024-41-c-2-iii-Interp" target="1024-41-c-2-iii">
+        <title>41(c)(2)(iii) Short-term loss mitigation options.</title>
         <content/>
-        <interpParagraph label="1024-41-c-2-iii-Interp-5-i" marker="i.">
-          <title>General requirement.</title>
-          <content>Section 1024.41(c)(2)(iii) requires a servicer to provide the borrower a written notice stating, among other things, the specific payment terms and duration of a short-term payment forbearance program or a short-term repayment plan offered based on an evaluation of an incomplete application. Generally, a servicer complies with these requirements if the written notice states the amount of each payment due during the program or plan, the date by which the borrower must make each payment, and whether the mortgage loan will be current at the end of the program or plan if the borrower complies with the program or plan.</content>
+        <interpParagraph label="1024-41-c-2-iii-Interp-1" marker="1.">
+          <title>Short-term payment forbearance program.</title>
+          <content>The exemption in § 1024.41(c)(2)(iii) applies to, among other things, short-term payment forbearance programs. For purposes of § 1024.41(c)(2)(iii), a payment forbearance program is a loss mitigation option pursuant to which a servicer allows a borrower to forgo making certain payments or portions of payments for a period of time. A short-term payment forbearance program for purposes of § 1024.41(c)(2)(iii) allows the forbearance of payments due over periods of no more than six months. Such a program would be short-term regardless of the amount of time a servicer allows the borrower to make up the missing payments.</content>
         </interpParagraph>
-        <interpParagraph label="1024-41-c-2-iii-Interp-5-ii" marker="ii.">
-          <title>Disclosure of payment amounts that may change.</title>
-          <content>At the time a servicer provides the written notice pursuant to § 1024.41(c)(2)(iii), if the servicer lacks information necessary to determine the amount of a specific payment due during the program or plan (for example, because the borrower's interest rate will change to an unknown rate based on an index or because an escrow account computation year as defined in § 1024.17(b) will end and the borrower's escrow payment might change), the servicer complies with the requirement to disclose the specific payment terms and duration of a short-term payment forbearance program or short-term repayment plan if the disclosures are based on the best information reasonably available to the servicer at the time the notice is provided and the written notice identifies which payment amounts may change, states that such payment amounts are estimates, and states the general reason that such payment amounts might change. For example, if an escrow account computation year as defined in § 1024.17(b) will end during a borrower's short-term repayment plan, the written notice complies with § 1024.41(c)(2)(iii) if it identifies the payment amounts that may change, states that those payment amounts are estimates, and states that the affected payments might change because the borrower's escrow payment might change.</content>
+        <interpParagraph label="1024-41-c-2-iii-Interp-2" marker="2.">
+          <title>Short-term loss mitigation options and incomplete applications.</title>
+          <content>Section 1024.41(c)(2)(iii) allows a servicer to offer a borrower a short-term payment forbearance program or a short-term repayment plan based on an evaluation of an incomplete loss mitigation application. The servicer must still comply with the other requirements of § 1024.41 with respect to the incomplete loss mitigation application, including the requirement in § 1024.41(b)(2) to review the application to determine if it is complete, the requirement in § 1024.41(b)(1) to exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application (see comment 41(b)(1)-4.iii), and the requirement in § 1024.41(b)(2)(i)(B) to provide the borrower with written notice that the servicer acknowledges the receipt of the application and has determined that the application is incomplete.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-41-c-2-iii-Interp-3" marker="3.">
+          <title>Short-term loss mitigation options and complete applications.</title>
+          <content>Even if a servicer offers a borrower a short-term payment forbearance program or a short-term repayment plan based on an evaluation of an incomplete loss mitigation application, the servicer must still comply with all applicable requirements in § 1024.41 if the borrower completes a loss mitigation application.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-41-c-2-iii-Interp-4" marker="4.">
+          <title>Short-term repayment plan.</title>
+          <content>The exemption in § 1024.41(c)(2)(iii) applies to, among other things, short-term repayment plans. For purposes of § 1024.41(c)(2)(iii), a repayment plan is a loss mitigation option with terms under which a borrower would repay all past due payments over a specified period of time to bring the mortgage loan account current. A short-term repayment plan for purposes of § 1024.41(c)(2)(iii) allows for the repayment of no more than three months of past due payments and allows a borrower to repay the arrearage over a period lasting no more than six months.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-41-c-2-iii-Interp-5" marker="5.">
+          <title>Specific payment terms and duration.</title>
+          <content/>
+          <interpParagraph label="1024-41-c-2-iii-Interp-5-i" marker="i.">
+            <title>General requirement.</title>
+            <content>Section 1024.41(c)(2)(iii) requires a servicer to provide the borrower a written notice stating, among other things, the specific payment terms and duration of a short-term payment forbearance program or a short-term repayment plan offered based on an evaluation of an incomplete application. Generally, a servicer complies with these requirements if the written notice states the amount of each payment due during the program or plan, the date by which the borrower must make each payment, and whether the mortgage loan will be current at the end of the program or plan if the borrower complies with the program or plan.</content>
+          </interpParagraph>
+          <interpParagraph label="1024-41-c-2-iii-Interp-5-ii" marker="ii.">
+            <title>Disclosure of payment amounts that may change.</title>
+            <content>At the time a servicer provides the written notice pursuant to § 1024.41(c)(2)(iii), if the servicer lacks information necessary to determine the amount of a specific payment due during the program or plan (for example, because the borrower's interest rate will change to an unknown rate based on an index or because an escrow account computation year as defined in § 1024.17(b) will end and the borrower's escrow payment might change), the servicer complies with the requirement to disclose the specific payment terms and duration of a short-term payment forbearance program or short-term repayment plan if the disclosures are based on the best information reasonably available to the servicer at the time the notice is provided and the written notice identifies which payment amounts may change, states that such payment amounts are estimates, and states the general reason that such payment amounts might change. For example, if an escrow account computation year as defined in § 1024.17(b) will end during a borrower's short-term repayment plan, the written notice complies with § 1024.41(c)(2)(iii) if it identifies the payment amounts that may change, states that those payment amounts are estimates, and states that the affected payments might change because the borrower's escrow payment might change.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1024-41-c-2-iii-Interp-6" marker="6.">
+          <title>Timing of notice.</title>
+          <content>Generally, a servicer acts promptly to provide the written notice required by § 1024.41(c)(2)(iii) if the servicer provides such written notice no later than five days (excluding legal public holidays, Saturdays, and Sundays) after offering the borrower a short-term payment forbearance program or short-term repayment plan. A servicer may provide the written notice at the same time the servicer offers the borrower the program or plan. A written offer that contains all the required elements of the written notice also satisfies § 1024.41(c)(2)(iii).</content>
         </interpParagraph>
       </interpParagraph>
-    <interpParagraph label="1024-41-c-2-iii-Interp-6" marker="6.">
-        <title>Timing of notice.</title>
-        <content>Generally, a servicer acts promptly to provide the written notice required by § 1024.41(c)(2)(iii) if the servicer provides such written notice no later than five days (excluding legal public holidays, Saturdays, and Sundays) after offering the borrower a short-term payment forbearance program or short-term repayment plan. A servicer may provide the written notice at the same time the servicer offers the borrower the program or plan. A written offer that contains all the required elements of the written notice also satisfies § 1024.41(c)(2)(iii).</content>
-      </interpParagraph>
-    </interpParagraph>
-        <interpParagraph label="1024-41-c-2-iv-Interp">
+    <interpParagraph label="1024-41-c-2-iv-Interp">
           <title>41(c)(2)(iv) Servicer creates reasonable expectation that a loss mitigation application is complete.</title>
           <content/>
           <interpParagraph label="1024-41-c-2-iv-Interp-1" marker="1.">

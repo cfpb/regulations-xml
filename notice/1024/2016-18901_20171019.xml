@@ -20,44 +20,37 @@
     <federalRegisterURL>https://www.federalregister.gov/documents/2016/10/19/2016-18901/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
   <changeset leftDocumentNumber="2015-18239" rightDocumentNumber="2016-18901">
-
     <change operation="modified" label="1024-6-d-1">
       <paragraph label="1024-6-d-1" marker="(1)">
         <content>No changes to, deletions from, or additions to the special information booklet currently prescribed by the Bureau shall be made other than the permissible changes specified in paragraphs (d)(2) and (3) of this section or changes as otherwise approved in writing by the Bureau in accordance with the procedures described in this paragraph (d). A request to the Bureau for approval of any changes other than the permissible changes specified in paragraphs (d)(2) and (3) of this section shall be submitted in writing to the address indicated in the definition of Public Guidance Documents in § 1024.2, stating the reasons why the applicant believes such changes, deletions, or additions are necessary.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-6-d-2">
       <paragraph label="1024-6-d-2" marker="(2)">
         <content>The cover of the booklet may be in any form and may contain any drawings, pictures, or artwork, provided that the words “settlement costs” are used in the title. Names, addresses and telephone numbers of the lender or others and similar information may appear on the cover, but no discussion of the matters covered in the booklet shall appear on the cover.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-9-a-5">
       <paragraph label="1024-9-a-5" marker="(5)">
         <content>The following variations in layout and format are within the discretion of persons reproducing the HUD-1 and do not require prior Bureau approval: Size of pages; tint or color of pages; size and style of type or print; vertical spacing between lines or provision for additional horizontal space on lines (for example, to provide sufficient space for recording time periods used in prorations); printing of the HUD-1 contents on separate pages, on the front and back of a single page, or on one continuous page; use of multicopy tear-out sets; printing on rolls for computer purposes; reorganization of sections B through I, when necessary to accommodate computer printing; and manner of placement of the HUD number, but not the OMB approval number, neither of which may be deleted. The expiration date associated with the OMB number listed on the form may be deleted. Any changes in the HUD number or OMB approval number may be announced by notice in the Federal Register, rather than by amendment of this part.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-9-c">
       <paragraph label="1024-9-c" marker="(c)">
         <title>Written approval.</title>
         <content>Any other deviation in the HUD-1 or HUD-1A forms is permissible only upon receipt of written approval of the Bureau; provided, however, that notwithstanding contrary instructions in this section or appendix A of this part, reproducing the HUD-1 or HUD-1A forms with the Bureau's OMB approval number displayed in place of HUD's OMB approval number does not require the written approval of the Bureau. A request to the Bureau for approval shall be submitted in writing to the address indicated in the definition of Public Guidance Documents in § 1024.2 and shall state the reasons why the applicant believes such deviation is needed. The prescribed form(s) must be used until approval is received.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-17-h-1">
       <paragraph label="1024-17-h-1" marker="(1)">
         <content>The format and a completed example for an initial escrow account statement are set out in Public Guidance Documents entitled “Initial Escrow Account Disclosure Statement—Format” and “Initial Escrow Account Disclosure Statement—Example,” available in accordance with the direction in the definition of Public Guidance Documents in § 1024.2.</content>
       </paragraph>
     </change>
-
     <change operation="added" label="1024-31-Delinquency" parent="1024-31" after="1024-31-Day">
       <paragraph label="1024-31-Delinquency" marker="">
         <content><def term="delinquency">Delinquency</def> means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-37-c-2-v">
       <paragraph label="1024-37-c-2-v" marker="(v)">
         <content>A statement that:</content>
@@ -72,66 +65,56 @@
         </paragraph>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-37-c-4">
       <paragraph label="1024-37-c-4" marker="(4)">
         <title>Additional information.</title>
         <content>Except for the mortgage loan account number, a servicer may not include any information other than information required by paragraph (c)(2) of this section in the written notice required by paragraph (c)(1)(i) of this section. However, a servicer may provide such additional information to a borrower on separate pieces of paper in the same transmittal.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-37-d-2-ii" subpath="title">
       <title>Servicer lacking evidence of continuous coverage.</title>
     </change>
     <change operation="modified" label="1024-37-d-2-ii" subpath="content">
       <content>A servicer that has received hazard insurance information after delivering to a borrower or placing in the mail the notice required by paragraph (c)(1)(i) of this section, but has not received, from the borrower or otherwise, evidence demonstrating that the borrower has had sufficient hazard insurance coverage in place continuously, must set forth in the notice required by paragraph (c)(1)(ii) of this section the following information:</content>
     </change>
-
     <change operation="modified" label="1024-37-d-2-ii-B" subpath="content">
       <content>The information required by paragraphs (c)(2)(ii) through (iv) and (ix) through (xi) and (d)(2)(i)(B) and (D) of this section;</content>
     </change>
-
     <change operation="modified" label="1024-37-d-3" subpath="title">
       <title>Format.</title>
     </change>
     <change operation="modified" label="1024-37-d-3" subpath="content">
       <content>A servicer must set the information required by paragraphs (d)(2)(i)(B) and (D) of this section in bold text. The requirements of paragraph (c)(3) of this section apply to the information required by paragraph (d)(2)(i)(C) of this section. A servicer may use form MS-3B in appendix MS-3 of this part to comply with the requirements of paragraphs (d)(1) and (d)(2)(i) of this section. A servicer may use form MS-3C in appendix MS-3 of this part to comply with the requirements of paragraphs (d)(1) and (d)(2)(ii) of this section.</content>
     </change>
-
     <change operation="modified" label="1024-37-d-4" subpath="title">
       <title>Additional information.</title>
     </change>
     <change operation="modified" label="1024-37-d-4" subpath="content">
       <content>Except for the borrower's mortgage loan account number, a servicer may not include any information other than information required by paragraph (d)(2)(i) or (ii) of this section, as applicable, in the written notice required by paragraph (c)(1)(ii) of this section. However, a servicer may provide such additional information to a borrower on separate pieces of paper in the same transmittal.</content>
     </change>
-
     <change operation="modified" label="1024-37-e-4" subpath="title">
       <title>Additional information.</title>
     </change>
     <change operation="modified" label="1024-37-e-4" subpath="content">
       <content>Except for the borrower's mortgage loan account number, a servicer may not include any information other than information required by paragraph (e)(2) of this section in the written notice required by paragraph (e)(1) of this section. However, a servicer may provide such additional information to a borrower on separate pieces of paper in the same transmittal.</content>
     </change>
-
     <change operation="added" label="1024-38-b-2-vi">
       <paragraph label="1024-38-b-2-vi" marker="(vi)">
         <content>Promptly identify and obtain documents or information not in the borrower's control that the servicer requires to determine which loss mitigation options, if any, to offer the borrower in accordance with the requirements of § 1024.41(c)(4).</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-39-a">
       <paragraph label="1024-39-a" marker="(a)">
         <title>Live contact.</title>
         <content>Except as otherwise provided in this section, a servicer shall establish or make good faith efforts to establish live contact with a delinquent borrower no later than the 36th day of a borrower's delinquency and again no later than 36 days after each payment due date so long as the borrower remains delinquent. Promptly after establishing live contact with a borrower, the servicer shall inform the borrower about the availability of loss mitigation options, if appropriate.</content>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-39-b-1" subpath="title">
       <title>Notice required.</title>
     </change>
     <change operation="modified" label="1024-39-b-1" subpath="content">
       <content>Except as otherwise provided in this section, a servicer shall provide to a delinquent borrower a written notice with the information set forth in paragraph (b)(2) of this section no later than the 45th day of the borrower's delinquency and again no later than 45 days after each payment due date so long as the borrower remains delinquent. A servicer is not required to provide the written notice, however, more than once during any 180-day period. If a borrower is 45 days or more delinquent at the end of any 180-day period after the servicer has provided the written notice, a servicer must provide the written notice again no later than 180 days after the provision of the prior written notice. If a borrower is less than 45 days delinquent at the end of any 180-day period after the servicer has provided the written notice, a servicer must provide the written notice again no later than 45 days after the payment due date for which the borrower remains delinquent.</content>
     </change>
-
     <change operation="modified" label="1024-39-c">
       <paragraph label="1024-39-c" marker="(c)">
         <title>Borrowers in bankruptcy.</title>
@@ -185,7 +168,6 @@
         </paragraph>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-39-d">
       <paragraph label="1024-39-d" marker="(d)">
         <title>Fair Debt Collection Practices Act—partial exemption.</title>
@@ -210,28 +192,24 @@
         </paragraph>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-41-c-1" subpath="title">
       <title>Complete loss mitigation application.</title>
     </change>
     <change operation="modified" label="1024-41-c-1" subpath="content">
       <content>Except as provided in paragraph (c)(4)(ii) of this section, if a servicer receives a complete loss mitigation application more than 37 days before a foreclosure sale, then, within 30 days of receiving the complete loss mitigation application, a servicer shall:</content>
     </change>
-
     <change operation="modified" label="1024-41-c-2-iii" subpath="title">
       <title>Short-term loss mitigation options.</title>
     </change>
     <change operation="modified" label="1024-41-c-2-iii" subpath="content">
       <content>Notwithstanding paragraph (c)(2)(i) of this section, a servicer may offer a short-term payment forbearance program or a short-term repayment plan to a borrower based upon an evaluation of an incomplete loss mitigation application. Promptly after offering a payment forbearance program or a repayment plan under this paragraph (c)(2)(iii), unless the borrower has rejected the offer, the servicer must provide the borrower a written notice stating the specific payment terms and duration of the program or plan, that the servicer offered the program or plan based on an evaluation of an incomplete application, that other loss mitigation options may be available, and that the borrower has the option to submit a complete loss mitigation application to receive an evaluation for all loss mitigation options available to the borrower regardless of whether the borrower accepts the program or plan. A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process, and shall not move for foreclosure judgment or order of sale or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of a payment forbearance program or repayment plan offered pursuant to this paragraph (c)(2)(iii). A servicer may offer a short-term payment forbearance program in conjunction with a short-term repayment plan pursuant to this paragraph (c)(2)(iii).</content>
     </change>
-
     <change operation="modified" label="1024-41-c-2-iv" subpath="title">
       <title>Facially complete application.</title>
     </change>
     <change operation="modified" label="1024-41-c-2-iv" subpath="content">
       <content>A loss mitigation application shall be considered facially complete when a borrower submits all the missing documents and information as stated in the notice required under paragraph (b)(2)(i)(B) of this section, when no additional information is requested in such notice, or once the servicer is required to provide the borrower a written notice pursuant to paragraph (c)(3)(i) of this section. If the servicer later discovers that additional information or corrections to a previously submitted document are required to complete the application, the servicer must promptly request the missing information or corrected documents and treat the application as complete for the purposes of paragraphs (f)(2) and (g) of this section until the borrower is given a reasonable opportunity to complete the application. If the borrower completes the application within this period, the application shall be considered complete as of the date it first became facially complete, for the purposes of paragraphs (d), (e), (f)(2), (g), and (h) of this section, and as of the date the application was actually complete for the purposes of this paragraph (c). A servicer that complies with this paragraph (c)(2)(iv) will be deemed to have fulfilled its obligation to provide an accurate notice under paragraph (b)(2)(i)(B) of this section.</content>
     </change>
-
     <change operation="added" label="1024-41-c-3">
       <paragraph label="1024-41-c-3" marker="(3)">
         <title>Notice of complete application.</title>
@@ -277,7 +255,6 @@
         </paragraph>
       </paragraph>
     </change>
-
     <change operation="added" label="1024-41-c-4">
       <paragraph label="1024-41-c-4" marker="(4)">
         <title>Information not in the borrower's control</title>
@@ -319,18 +296,15 @@
         </paragraph>
       </paragraph>
     </change>
-
     <change operation="modified" label="1024-41-f-1-iii" subpath="content">
       <content>The servicer is joining the foreclosure action of a superior or subordinate lienholder.</content>
     </change>
-
     <change operation="modified" label="1024-41-i" subpath="title">
       <title>Duplicative requests.</title>
     </change>
     <change operation="modified" label="1024-41-i" subpath="content">
       <content>A servicer must comply with the requirements of this section for a borrower's loss mitigation application, unless the servicer has previously complied with the requirements of this section for a complete loss mitigation application submitted by the borrower and the borrower has been delinquent at all times since submitting the prior complete application.</content>
     </change>
-
     <change operation="added" label="1024-41-k">
       <paragraph label="1024-41-k" marker="(k)">
         <title>Servicing transfers—</title>
@@ -580,7 +554,6 @@
         </paragraph>
       </appendixSection>
     </change>
-
     <change operation="added" label="1024-30-c-Interp">
       <interpParagraph label="1024-30-c-2-Interp" target="1024-30-c-2">
         <title>Paragraph 30(c)(2).</title>
@@ -591,7 +564,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-30-d-Interp">
       <interpParagraph label="1024-30-d-Interp" target="1024-30-d">
         <title>30(d) Successors in interest.</title>
@@ -610,7 +582,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-31-Interp-Delinquency" before="1024-31-Interp-LossMitigationApplication">
       <interpParagraph label="1024-31-Interp-Delinquency" target="1024-31-Delinquency">
         <title>Delinquency.</title>
@@ -633,7 +604,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-31-Interp-SuccessorInInterest" after="1024-31-Interp-ServiceProvider">
       <interpParagraph label="1024-31-Interp-SuccessorInInterest" target="1024-31-SuccessorInInterest">
         <title>Successor in interest.</title>
@@ -648,7 +618,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-32-Interp" before="1024-33-Interp">
       <interpSection label="1024-32-Interp" sectionNum="32">
         <title>§ 1024.32—General Disclosure Requirements.</title>
@@ -682,7 +651,6 @@
         </interpParagraph>
       </interpSection>
     </change>
-
     <change operation="modified" label="1024-36-a-Interp-2">
       <interpParagraph label="1024-36-a-Interp-2" marker="2.">
         <title>Owner or assignee of a mortgage loan.</title>
@@ -704,7 +672,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-36-i-Interp">
       <interpParagraph label="1024-36-i-Interp" target="1024-36-i">
         <title>36(i) Potential successors in interest.</title>
@@ -723,7 +690,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-37-d-5-Interp">
       <interpParagraph label="1024-37-d-5-Interp" target="1024-37-d-5">
         <title>37(d)(5) Updating notice with borrower information.</title>
@@ -734,7 +700,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-38-b-1-vi-Interp">
       <interpParagraph label="1024-38-b-1-vi-Interp" target="1024-38-b-1-vi">
         <title>Paragraph 38(b)(1)(vi).</title>
@@ -777,7 +742,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-38-b-3-Interp">
       <interpParagraph label="1024-38-b-3-iii-Interp" target="1024-38-b-3-iii">
         <title>Paragraph 38(b)(3)(iii).</title>
@@ -788,7 +752,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1024-39-a-Interp-1">
       <interpParagraph label="1024-39-a-Interp-1" marker="1.">
         <title>Delinquency.</title>
@@ -872,7 +835,6 @@
         <content>A transferee servicer is required to comply with the requirements of § 1024.39(b) regardless of whether the transferor servicer provided a written notice to the borrower in the preceding 180-day period. However, a transferee servicer is not required to provide a written notice under § 1024.39(b) if the transferor servicer provided the written notice under § 1024.39(b) within 45 days of the transfer date. For example, assume a borrower has monthly payments, with a payment due on March 1. The transferor servicer provides the notice required by § 1024.39(b) on April 10. The loan is transferred on April 12. Assuming the borrower remains delinquent, the transferee servicer is not required to provide another written notice until 45 days after May 1, the first post-transfer payment due date—i.e., by June 15.</content>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-39-c-Interp">
       <interpParagraph label="1024-39-c-Interp" target="1024-39-c">
         <title>39(c) Borrowers in bankruptcy.</title>
@@ -927,7 +889,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1024-39-d-Interp">
       <interpParagraph label="1024-39-d-Interp" target="1024-39-d">
         <title>39(d) Fair Debt Collection Practices Act—partial exemption.</title>
@@ -942,7 +903,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-39-d-2-Interp">
       <interpParagraph label="1024-39-d-2-Interp" target="1024-39-d-2">
         <title>Paragraph 39(d)(2).</title>
@@ -953,14 +913,12 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1024-40-a-Interp-3">
       <interpParagraph label="1024-40-a-Interp-3" marker="3.">
         <title>Delinquency.</title>
         <content>See § 1024.31 for the definition of delinquency applicable to subpart C of Regulation X.</content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1024-41-b-Interp">
       <interpParagraph label="1024-41-b-Interp" target="1024-41-b">
         <title>41(b) Receipt of a loss mitigation application.</title>
@@ -1064,51 +1022,44 @@
         <content>A servicer may combine other notices required by applicable law, including, without limitation, a notice with respect to an adverse action required by Regulation B, 12 CFR part 1002, or a notice required pursuant to the Fair Credit Reporting Act, with the notice required pursuant to § 1024.41(c)(1), unless otherwise prohibited by applicable law.</content>
       </interpParagraph>
     </change>
-    <change operation="modified" label="1024-41-c-2-iii-Interp-1">
-      <interpParagraph label="1024-41-c-2-iii-Interp-1" marker="1.">
-        <title>Short-term payment forbearance program.</title>
-        <content>The exemption in § 1024.41(c)(2)(iii) applies to, among other things, short-term payment forbearance programs. For purposes of § 1024.41(c)(2)(iii), a payment forbearance program is a loss mitigation option pursuant to which a servicer allows a borrower to forgo making certain payments or portions of payments for a period of time. A short-term payment forbearance program for purposes of § 1024.41(c)(2)(iii) allows the forbearance of payments due over periods of no more than six months. Such a program would be short-term regardless of the amount of time a servicer allows the borrower to make up the missing payments.</content>
-      </interpParagraph>
-    </change>
-    <change operation="modified" label="1024-41-c-2-iii-Interp-2">
-      <interpParagraph label="1024-41-c-2-iii-Interp-2" marker="2.">
-        <title>Short-term loss mitigation options and incomplete applications.</title>
-        <content>Section 1024.41(c)(2)(iii) allows a servicer to offer a borrower a short-term payment forbearance program or a short-term repayment plan based on an evaluation of an incomplete loss mitigation application. The servicer must still comply with the other requirements of § 1024.41 with respect to the incomplete loss mitigation application, including the requirement in § 1024.41(b)(2) to review the application to determine if it is complete, the requirement in § 1024.41(b)(1) to exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application (see comment 41(b)(1)-4.iii), and the requirement in § 1024.41(b)(2)(i)(B) to provide the borrower with written notice that the servicer acknowledges the receipt of the application and has determined that the application is incomplete.</content>
-      </interpParagraph>
-    </change>
-    <change operation="modified" label="1024-41-c-2-iii-Interp-3">
-      <interpParagraph label="1024-41-c-2-iii-Interp-3" marker="3.">
-        <title>Short-term loss mitigation options and complete applications.</title>
-        <content>Even if a servicer offers a borrower a short-term payment forbearance program or a short-term repayment plan based on an evaluation of an incomplete loss mitigation application, the servicer must still comply with all applicable requirements in § 1024.41 if the borrower completes a loss mitigation application.</content>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1024-41-c-2-iii-Interp-4">
-      <interpParagraph label="1024-41-c-2-iii-Interp-4" marker="4.">
-        <title>Short-term repayment plan.</title>
-        <content>The exemption in § 1024.41(c)(2)(iii) applies to, among other things, short-term repayment plans. For purposes of § 1024.41(c)(2)(iii), a repayment plan is a loss mitigation option with terms under which a borrower would repay all past due payments over a specified period of time to bring the mortgage loan account current. A short-term repayment plan for purposes of § 1024.41(c)(2)(iii) allows for the repayment of no more than three months of past due payments and allows a borrower to repay the arrearage over a period lasting no more than six months.</content>
-      </interpParagraph>
-    </change>
-    <change operation="added" label="1024-41-c-2-iii-Interp-5">
-      <interpParagraph label="1024-41-c-2-iii-Interp-5" marker="5.">
-        <title>Specific payment terms and duration.</title>
+    <change operation="modified" label="1024-41-c-2-iii-Interp">
+      <interpParagraph label="1024-41-c-2-iii-Interp" target="1024-41-c-2-iii">
+        <title>41(c)(2)(iii) Short-term loss mitigation options.</title>
         <content/>
-        <interpParagraph label="1024-41-c-2-iii-Interp-5-i" marker="i.">
-          <title>General requirement.</title>
-          <content>Section 1024.41(c)(2)(iii) requires a servicer to provide the borrower a written notice stating, among other things, the specific payment terms and duration of a short-term payment forbearance program or a short-term repayment plan offered based on an evaluation of an incomplete application. Generally, a servicer complies with these requirements if the written notice states the amount of each payment due during the program or plan, the date by which the borrower must make each payment, and whether the mortgage loan will be current at the end of the program or plan if the borrower complies with the program or plan.</content>
+        <interpParagraph label="1024-41-c-2-iii-Interp-1" marker="1.">
+          <title>Short-term payment forbearance program.</title>
+          <content>The exemption in § 1024.41(c)(2)(iii) applies to, among other things, short-term payment forbearance programs. For purposes of § 1024.41(c)(2)(iii), a payment forbearance program is a loss mitigation option pursuant to which a servicer allows a borrower to forgo making certain payments or portions of payments for a period of time. A short-term payment forbearance program for purposes of § 1024.41(c)(2)(iii) allows the forbearance of payments due over periods of no more than six months. Such a program would be short-term regardless of the amount of time a servicer allows the borrower to make up the missing payments.</content>
         </interpParagraph>
-        <interpParagraph label="1024-41-c-2-iii-Interp-5-ii" marker="ii.">
-          <title>Disclosure of payment amounts that may change.</title>
-          <content>At the time a servicer provides the written notice pursuant to § 1024.41(c)(2)(iii), if the servicer lacks information necessary to determine the amount of a specific payment due during the program or plan (for example, because the borrower's interest rate will change to an unknown rate based on an index or because an escrow account computation year as defined in § 1024.17(b) will end and the borrower's escrow payment might change), the servicer complies with the requirement to disclose the specific payment terms and duration of a short-term payment forbearance program or short-term repayment plan if the disclosures are based on the best information reasonably available to the servicer at the time the notice is provided and the written notice identifies which payment amounts may change, states that such payment amounts are estimates, and states the general reason that such payment amounts might change. For example, if an escrow account computation year as defined in § 1024.17(b) will end during a borrower's short-term repayment plan, the written notice complies with § 1024.41(c)(2)(iii) if it identifies the payment amounts that may change, states that those payment amounts are estimates, and states that the affected payments might change because the borrower's escrow payment might change.</content>
+        <interpParagraph label="1024-41-c-2-iii-Interp-2" marker="2.">
+          <title>Short-term loss mitigation options and incomplete applications.</title>
+          <content>Section 1024.41(c)(2)(iii) allows a servicer to offer a borrower a short-term payment forbearance program or a short-term repayment plan based on an evaluation of an incomplete loss mitigation application. The servicer must still comply with the other requirements of § 1024.41 with respect to the incomplete loss mitigation application, including the requirement in § 1024.41(b)(2) to review the application to determine if it is complete, the requirement in § 1024.41(b)(1) to exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application (see comment 41(b)(1)-4.iii), and the requirement in § 1024.41(b)(2)(i)(B) to provide the borrower with written notice that the servicer acknowledges the receipt of the application and has determined that the application is incomplete.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-41-c-2-iii-Interp-3" marker="3.">
+          <title>Short-term loss mitigation options and complete applications.</title>
+          <content>Even if a servicer offers a borrower a short-term payment forbearance program or a short-term repayment plan based on an evaluation of an incomplete loss mitigation application, the servicer must still comply with all applicable requirements in § 1024.41 if the borrower completes a loss mitigation application.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-41-c-2-iii-Interp-4" marker="4.">
+          <title>Short-term repayment plan.</title>
+          <content>The exemption in § 1024.41(c)(2)(iii) applies to, among other things, short-term repayment plans. For purposes of § 1024.41(c)(2)(iii), a repayment plan is a loss mitigation option with terms under which a borrower would repay all past due payments over a specified period of time to bring the mortgage loan account current. A short-term repayment plan for purposes of § 1024.41(c)(2)(iii) allows for the repayment of no more than three months of past due payments and allows a borrower to repay the arrearage over a period lasting no more than six months.</content>
+        </interpParagraph>
+        <interpParagraph label="1024-41-c-2-iii-Interp-5" marker="5.">
+          <title>Specific payment terms and duration.</title>
+          <content/>
+          <interpParagraph label="1024-41-c-2-iii-Interp-5-i" marker="i.">
+            <title>General requirement.</title>
+            <content>Section 1024.41(c)(2)(iii) requires a servicer to provide the borrower a written notice stating, among other things, the specific payment terms and duration of a short-term payment forbearance program or a short-term repayment plan offered based on an evaluation of an incomplete application. Generally, a servicer complies with these requirements if the written notice states the amount of each payment due during the program or plan, the date by which the borrower must make each payment, and whether the mortgage loan will be current at the end of the program or plan if the borrower complies with the program or plan.</content>
+          </interpParagraph>
+          <interpParagraph label="1024-41-c-2-iii-Interp-5-ii" marker="ii.">
+            <title>Disclosure of payment amounts that may change.</title>
+            <content>At the time a servicer provides the written notice pursuant to § 1024.41(c)(2)(iii), if the servicer lacks information necessary to determine the amount of a specific payment due during the program or plan (for example, because the borrower's interest rate will change to an unknown rate based on an index or because an escrow account computation year as defined in § 1024.17(b) will end and the borrower's escrow payment might change), the servicer complies with the requirement to disclose the specific payment terms and duration of a short-term payment forbearance program or short-term repayment plan if the disclosures are based on the best information reasonably available to the servicer at the time the notice is provided and the written notice identifies which payment amounts may change, states that such payment amounts are estimates, and states the general reason that such payment amounts might change. For example, if an escrow account computation year as defined in § 1024.17(b) will end during a borrower's short-term repayment plan, the written notice complies with § 1024.41(c)(2)(iii) if it identifies the payment amounts that may change, states that those payment amounts are estimates, and states that the affected payments might change because the borrower's escrow payment might change.</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1024-41-c-2-iii-Interp-6" marker="6.">
+          <title>Timing of notice.</title>
+          <content>Generally, a servicer acts promptly to provide the written notice required by § 1024.41(c)(2)(iii) if the servicer provides such written notice no later than five days (excluding legal public holidays, Saturdays, and Sundays) after offering the borrower a short-term payment forbearance program or short-term repayment plan. A servicer may provide the written notice at the same time the servicer offers the borrower the program or plan. A written offer that contains all the required elements of the written notice also satisfies § 1024.41(c)(2)(iii).</content>
         </interpParagraph>
       </interpParagraph>
     </change>
-    <change operation="added" label="1024-41-c-2-iii-Interp-6">
-      <interpParagraph label="1024-41-c-2-iii-Interp-6" marker="6.">
-        <title>Timing of notice.</title>
-        <content>Generally, a servicer acts promptly to provide the written notice required by § 1024.41(c)(2)(iii) if the servicer provides such written notice no later than five days (excluding legal public holidays, Saturdays, and Sundays) after offering the borrower a short-term payment forbearance program or short-term repayment plan. A servicer may provide the written notice at the same time the servicer offers the borrower the program or plan. A written offer that contains all the required elements of the written notice also satisfies § 1024.41(c)(2)(iii).</content>
-      </interpParagraph>
-    </change>
-
     <change operation="added" label="1024-41-c-3-Interp">
       <interpParagraph label="1024-41-c-3-Interp" target="1024-41-c-3">
         <title>41(c)(3) Notice of complete application.</title>
@@ -1131,7 +1082,6 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-41-c-4-Interp">
       <interpParagraph label="1024-41-c-4-Interp" target="1024-41-c">
         <title>41(c)(4) Information not in the borrower's control.</title>
@@ -1164,9 +1114,7 @@
         </interpParagraph>
       </interpParagraph>
     </change>
-
     <change operation="deleted" label="1024-41-d-1-Interp-2-p1"/>
-
     <change operation="modified" label="1024-41-g-Interp-3">
       <interpParagraph label="1024-41-g-Interp-3" marker="3.">
         <title>Interaction with foreclosure counsel.</title>
@@ -1179,7 +1127,6 @@
         <content>Section 1024.41(g) prohibits a servicer from conducting a foreclosure sale, even if a person other than the servicer administers or conducts the foreclosure sale proceedings. Where a foreclosure sale is scheduled, and none of the conditions under § 1024.41(g)(1) through (3) are applicable, conduct of the sale violates § 1024.41(g).</content>
       </interpParagraph>
     </change>
-
     <change operation="modified" label="1024-41-i-Interp-1">
       <interpParagraph label="1024-41-i-Interp-1" marker="1.">
         <title>Applicability of loss mitigation protections.</title>
@@ -1192,7 +1139,6 @@
         <content>Section 1024.41(i) provides that a servicer need not comply with § 1024.41 for a subsequent loss mitigation application from a borrower where certain conditions are met. A transferee servicer and a transferor servicer, however, are not the same servicer. Accordingly, a transferee servicer is required to comply with the applicable requirements of § 1024.41 upon receipt of a loss mitigation application from a borrower whose servicing the transferee servicer has obtained through a servicing transfer, even if the borrower previously received an evaluation of a complete loss mitigation application from the transferor servicer.</content>
       </interpParagraph>
     </change>
-
     <change operation="added" label="1024-41-k-Interp">
       <interpParagraph label="1024-41-k-Interp" target="1024-41-k">
         <title>41(k) Servicing transfers.</title>
