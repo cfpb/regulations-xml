@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>9</volume>
+    <date>2018-05-02</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>TRUTH IN LENDING</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>Z</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1026</section>
+    </cfr>
+    <documentNumber>2018-09243</documentNumber>
+    <effectiveDate>2018-06-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2018/05/02/2018-09243/federal-mortgage-disclosure-requirements-under-the-truth-in-lending-act-regulation-z</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2018-04823" rightDocumentNumber="2018-09243">
+    <change operation="modified" label="1026-19-e-4-i">
+      <paragraph label="1026-19-e-4-i" marker="(i)">
+        <title>General rule.</title>
+        <content>Subject to the requirements of paragraph (e)(4)(ii) of this section, if a creditor uses a revised estimate pursuant to paragraph (e)(3)(iv) of this section for the purpose of determining good faith under paragraphs (e)(3)(i) and (ii) of this section, the creditor shall provide a revised version of the disclosures required under paragraph (e)(1)(i) of this section or the disclosures required under paragraph (f)(1)(i) of this section (including any corrected disclosures provided under paragraph (f)(2)(i) or (ii) of this section) reflecting the revised estimate within three business days of receiving information sufficient to establish that one of the reasons for revision provided under paragraphs (e)(3)(iv)(A) through (F) of this section applies.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-19-e-4-ii">
+      <paragraph label="1026-19-e-4-ii" marker="(ii)">
+        <title>Relationship between revised Loan Estimates and Closing Disclosures.</title>
+        <content>The creditor shall not provide a revised version of the disclosures required under paragraph (e)(1)(i) of this section on or after the date on which the creditor provides the disclosures required under paragraph (f)(1)(i) of this section. The consumer must receive any revised version of the disclosures required under paragraph (e)(1)(i) of this section not later than four business days prior to consummation. If the revised version of the disclosures required under paragraph (e)(1)(i) of this section is not provided to the consumer in person, the consumer is considered to have received such version three business days after the creditor delivers or places such version in the mail.</content>
+      </paragraph>
+    </change>
+    <change operation="modified" label="1026-19-e-1-ii-Interp">
+      <interpParagraph label="1026-19-e-1-ii-Interp" target="1026-19-e-1-ii">
+        <title>19(e)(1)(ii) Mortgage broker.</title>
+        <content/>
+        <interpParagraph label="1026-19-e-1-ii-Interp-1" marker="1.">
+          <title>Mortgage broker responsibilities.</title>
+          <content>Section 1026.19(e)(1)(ii)(A) provides that if a mortgage broker receives a consumer's application, either the creditor or the mortgage broker must provide the consumer with the disclosures required under § 1026.19(e)(1)(i) in accordance with § 1026.19(e)(1)(iii). Section 1026.19(e)(1)(ii)(A) also provides that if the mortgage broker provides the required disclosures, it must comply with all relevant requirements of § 1026.19(e). This means that “mortgage broker” should be read in the place of “creditor” for all provisions of § 1026.19(e), except to the extent that such a reading would create responsibility for mortgage brokers under § 1026.19(f). To illustrate, § 1026.19(e)(4)(i) states that if a creditor uses a revised estimate pursuant to § 1026.19(e)(3)(iv) for the purpose of determining good faith under § 1026.19(e)(3)(i) and (ii), the creditor shall provide a revised version of the disclosures required under § 1026.19(e)(1)(i) or the disclosures required under § 1026.19(f)(1)(i) (including any corrected disclosures provided under § 1026.19(f)(2)(i) or (ii)) reflecting the revised estimate. “Mortgage broker” could not be read in place of “creditor” in reference to the disclosures required under § 1026.19(f)(1)(i), (f)(2)(i), or (f)(2)(ii) because mortgage brokers are not responsible for the disclosures required under § 1026.19(f)(1)(i), (f)(2)(i), or (f)(2)(ii). In addition, § 1026.19(e)(1)(ii)(A) provides that the creditor must ensure that disclosures provided by mortgage brokers comply with all requirements of § 1026.19(e), and that disclosures provided by mortgage brokers that do comply with all such requirements satisfy the creditor's obligation under § 1026.19(e). The term “mortgage broker,” as used in § 1026.19(e)(1)(ii), has the same meaning as in § 1026.36(a)(2). See also comment 36(a)-2. Section 1026.19(e)(1)(ii)(B) provides that if a mortgage broker provides any disclosure required under § 1026.19(e), the mortgage broker must also comply with the requirements of § 1026.25(c). For example, if a mortgage broker provides the disclosures required under § 1026.19(e)(1)(i), it must maintain records for three years, in compliance with § 1026.25(c)(1)(i).</content>
+        </interpParagraph>
+        <interpParagraph label="1026-19-e-1-ii-Interp-2" marker="2.">
+          <title>Creditor responsibilities.</title>
+          <content>If a mortgage broker issues any disclosure required under § 1026.19(e) in the creditor's place, the creditor remains responsible under § 1026.19(e) for ensuring that the requirements of § 1026.19(e) have been satisfied. For example, if a mortgage broker receives a consumer's application and provides the consumer with the disclosures required under § 1026.19(e)(1)(i), the creditor does not satisfy the requirements of § 1026.19(e)(1)(i) if it provides duplicative disclosures to the consumer. In the same example, even if the broker provides an erroneous disclosure, the creditor is responsible and may not issue a revised disclosure correcting the error. The creditor is expected to maintain communication with the broker to ensure that the broker is acting in place of the creditor.</content>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-19-e-4-i-Interp">
+      <interpParagraph label="1026-19-e-4-i-Interp" target="1026-19-e-4-i">
+        <title>19(e)(4)(i) General Rule.</title>
+        <content/>
+        <interpParagraph label="1026-19-e-4-i-Interp-1" marker="1.">
+          <title>Three-business-day requirement.</title>
+          <content>Section 1026.19(e)(4)(i) provides that, subject to the requirements of § 1026.19(e)(4)(ii), if a creditor uses a revised estimate pursuant to § 1026.19(e)(3)(iv) for the purpose of determining good faith under § 1026.19(e)(3)(i) and (ii), the creditor shall provide a revised version of the disclosures required under § 1026.19(e)(1)(i) or the disclosures required under § 1026.19(f)(1)(i) (including any corrected disclosures provided under § 1026.19(f)(2)(i) or (ii)) reflecting the revised estimate within three business days of receiving information sufficient to establish that one of the reasons for revision provided under § 1026.19(e)(3)(iv)(A) through (F) has occurred. The following examples illustrate these requirements:</content>
+          <interpParagraph label="1026-19-e-4-i-Interp-1-i" marker="i.">
+            <content>Assume a creditor requires a pest inspection. The unaffiliated pest inspection company informs the creditor on Monday that the subject property contains evidence of termite damage, requiring a further inspection, the cost of which will cause an increase in estimated settlement charges subject to § 1026.19(e)(3)(ii) by more than 10 percent. The creditor must provide revised disclosures by Thursday to comply with § 1026.19(e)(4)(i).</content>
+          </interpParagraph>
+          <interpParagraph label="1026-19-e-4-i-Interp-ii" marker="ii.">
+            <content>Assume a creditor receives information on Monday that, because of a changed circumstance under § 1026.19(e)(3)(iv)(A), the title fees will increase by an amount totaling six percent of the originally estimated settlement charges subject to § 1026.19(e)(3)(ii). The creditor had received information three weeks before that, because of a changed circumstance under § 1026.19(e)(3)(iv)(A), the pest inspection fees increased by an amount totaling five percent of the originally estimated settlement charges subject to § 1026.19(e)(3)(ii). Thus, on Monday, the creditor has received sufficient information to establish a valid reason for revision and must provide revised disclosures reflecting the 11 percent increase by Thursday to comply with § 1026.19(e)(4)(i).</content>
+          </interpParagraph>
+          <interpParagraph label="1026-19-e-4-i-Interp-1-iii" marker="iii.">
+            <content>Assume a creditor requires an appraisal. The creditor receives the appraisal report, which indicates that the value of the home is significantly lower than expected. However, the creditor has reason to doubt the validity of the appraisal report. A reason for revision has not been established because the creditor reasonably believes that the appraisal report is incorrect. The creditor then chooses to send a different appraiser for a second opinion, but the second appraiser returns a similar report. At this point, the creditor has received information sufficient to establish that a reason for revision has, in fact, occurred, and must provide corrected disclosures within three business days of receiving the second appraisal report. In this example, in order to comply with §§ 1026.19(e)(3)(iv) and 1026.25, the creditor must maintain records documenting the creditor's doubts regarding the validity of the appraisal to demonstrate that the reason for revision did not occur upon receipt of the first appraisal report.</content>
+          </interpParagraph>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+    <change operation="modified" label="1026-19-e-4-ii-Interp">
+      <interpParagraph label="1026-19-e-4-ii-Interp" target="1026-19-e-4-ii">
+        <title>19(e)(4)(ii) Relationship Between Revised Loan Estimates and Closing Disclosures</title>
+        <content/>
+        <interpParagraph label="1026-19-e-4-ii-Interp-1" marker="1.">
+          <title>Revised Loan Estimate may not be delivered at the same time as the Closing Disclosure.</title>
+          <content>Section 1026.19(e)(4)(ii) prohibits a creditor from providing a revised version of the disclosures required under § 1026.19(e)(1)(i) on or after the date on which the creditor provides the disclosures required under § 1026.19(f)(1)(i). Section 1026.19(e)(4)(ii) also requires that the consumer must receive any revised version of the disclosures required under § 1026.19(e)(1)(i) no later than four business days prior to consummation, and provides that if the revised version of the disclosures are not provided to the consumer in person, the consumer is considered to have received the revised version of the disclosures three business days after the creditor delivers or places in the mail the revised version of the disclosures. See also comments 19(e)(1)(iv)-1 and -2. However, if a creditor uses a revised estimate pursuant to § 1026.19(e)(3)(iv) for the purpose of determining good faith under § 1026.19(e)(3)(i) and (ii), § 1026.19(e)(4)(i) permits the creditor to provide the revised estimate in the disclosures required under § 1026.19(f)(1)(i) (including any corrected disclosures provided under § 1026.19(f)(2)(i) or (ii)). See below for illustrative examples:</content>
+          <interpParagraph label="1026-19-e-4-ii-Interp-1-i" marker="i.">
+            <content>If the creditor is scheduled to meet with the consumer and provide the disclosures required by § 1026.19(f)(1)(i) on Wednesday, June 3, and the APR becomes inaccurate on Tuesday, June 2, the creditor complies with the requirements of § 1026.19(e)(4) by providing the disclosures required under § 1026.19(f)(1)(i) reflecting the revised APR on Wednesday, June 3. However, the creditor does not comply with the requirements of § 1026.19(e)(4) if it provides both a revised version of the disclosures required under § 1026.19(e)(1)(i) reflecting the revised APR on Wednesday, June 3, and also provides the disclosures required under § 1026.19(f)(1)(i) on Wednesday, June 3.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-19-e-4-ii-Interp-1-ii" marker="iii.">
+            <content>If the creditor is scheduled to email the disclosures required under § 1026.19(f)(1)(i) to the consumer on Wednesday, June 3, and the consumer requests a change to the loan that would result in revised disclosures pursuant to § 1026.19(e)(3)(iv)(C) on Tuesday, June 2, the creditor complies with the requirements of § 1026.19(e)(4) by providing the disclosures required under § 1026.19(f)(1)(i) reflecting the consumer-requested changes on Wednesday, June 3. However, the creditor does not comply with the requirements of § 1026.19(e)(4) if it provides disclosures reflecting the consumer-requested changes using both the revised version of the disclosures required under § 1026.19(e)(1)(i) on Wednesday, June 3, and also the disclosures required under § 1026.19(f)(1)(i) on Wednesday, June 3.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-19-e-4-ii-Interp-1-iii" marker="iii.">
+            <content>Consummation is scheduled for Thursday, June 4. The creditor hand delivers the disclosures required by § 1026.19(f)(1)(i) on Monday, June 1, and, on Tuesday, June 2, the consumer requests a change to the loan that would result in revised disclosures pursuant to § 1026.19(e)(3)(iv)(C) but would not require a new waiting period pursuant to § 1026.19(f)(2)(ii). Under § 1026.19(f)(2)(i), the creditor is required to provide corrected disclosures reflecting any changed terms to the consumer so that the consumer receives the corrected disclosures at or before consummation. The creditor complies with the requirements of § 1026.19(e)(4) by hand delivering the disclosures required by § 1026.19(f)(2)(i) reflecting the consumer-requested changes on Thursday, June 4.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-19-e-4-ii-Interp-1-iv" marker="iv.">
+            <content>Consummation is originally scheduled for Wednesday, June 10. The creditor hand delivers the disclosures required by § 1026.19(f)(1)(i) on Friday, June 5. On Monday, June 8, the consumer reschedules consummation for Wednesday, June 17. Also on Monday, June 8, the consumer requests a rate lock extension that would result in revised disclosures pursuant to § 1026.19(e)(3)(iv)(C) but would not require a new waiting period pursuant to § 1026.19(f)(2)(ii). The creditor complies with the requirements of § 1026.19(e)(4) by delivering or placing in the mail the disclosures required by § 1026.19(f)(2)(i) reflecting the consumer-requested changes on Thursday, June 11. Under § 1026.19(f)(2)(i), the creditor is required to provide corrected disclosures reflecting any changed terms to the consumer so that the consumer receives the corrected disclosures at or before consummation. The creditor complies with § 1026.19(f)(2)(i) by hand delivering the disclosures on Thursday, June 11. Alternatively, the creditor complies with § 1026.19(f)(2)(i) by providing the disclosures to the consumer by mail, including by electronic mail, on Thursday, June 11, because the consumer is considered to have received the corrected disclosures on Monday, June 15 (unless the creditor relies on evidence that the consumer received the corrected disclosures earlier). See § 1026.19(f)(1)(iii) and comments 19(f)(1)(iii)-1 and -2. See also § 1026.38(t)(3) and comment 19(f)(1)(iii)-2 regarding providing the disclosures required by § 1026.19(f)(1)(i) (including any corrected disclosures provided under § 1026.19(f)(2)(i) or (ii)) in electronic form.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-19-e-4-ii-Interp-1-v" marker="v.">
+            <content>Consummation is originally scheduled for Wednesday, June 10. The creditor hand delivers the disclosures required by § 1026.19(f)(1)(i) on Friday, June 5, and the APR becomes inaccurate on Monday, June 8, such that the creditor is required to delay consummation and provide corrected disclosures, including any other changed terms, so that the consumer receives them at least three business days before consummation under § 1026.19(f)(2)(ii). Consummation is rescheduled for Friday, June 12. The creditor complies with the requirements of § 1026.19(e)(4) by hand delivering the disclosures required by § 1026.19(f)(2)(ii) reflecting the revised APR and any other changed terms to the consumer on Tuesday, June 9. See § 1026.19(f)(2)(ii) and associated commentary regarding changes before consummation requiring a new waiting period. See comment 19(e)(4)(i)-1 for further guidance on when sufficient information has been received to establish an event has occurred.</content>
+          </interpParagraph>
+        </interpParagraph>
+      </interpParagraph>
+    </change>
+  </changeset>
+</notice>
