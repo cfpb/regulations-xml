@@ -35,8 +35,8 @@
        i. 41(e)(5)(iv)(B) Transitional single-billing-cycle exemption is revised; and
        ii. 41(e)(5)(iv)(C) Timing of first modified or unmodified statement or coupon book after transition is removed. -->
   <change operation="modified" label="1026-41-e-5-iv-B-Interp">
-    <interpParagraph label="1026-41-e-5-iv-B-Interp" marker="(B)">
-      <title>Single-Statement Exemption.</title>
+    <interpParagraph label="1026-41-e-5-iv-B-Interp" target="1026-41-e-5-iv-B">
+      <title>41(e)(5)(iv)(B) Single-Statement Exemption.</title>
       <content/>
       <interpParagraph label="1026-41-e-5-iv-B-Interp-1" marker="1.">
         <title>Timing.</title>

@@ -433,7 +433,7 @@
         </tocAppEntry>
         <tocAppEntry target="1026-H-30(C)">
           <appendixLetter>30(C)</appendixLetter>
-          <appendixSubject>H-30(C) Sample Form of Periodic Statement for a Payment-Option Loan</appendixSubject>
+          <appendixSubject>H-30(C) Sample Form of Periodic Statement for a Payment-Option Loan (§ 1026.41)</appendixSubject>
         </tocAppEntry>
         <tocAppEntry target="1026-H-30(D)">
           <appendixLetter>30(D)</appendixLetter>
@@ -641,7 +641,7 @@
   </change>
   <change operation="modified" label="1026-H-30(C)">
     <appendixSection appendixSecNum="40" label="1026-H-30(C)">
-      <subject>H-30(C) Sample Form of Periodic Statement for a Payment-Option Loan</subject>
+      <subject>H-30(C) Sample Form of Periodic Statement for a Payment-Option Loan (§ 1026.41)</subject>
       <paragraph label="1026-H-30(C)-p7" marker="">
         <content>
           <graphic>
@@ -769,7 +769,7 @@
       </interpParagraph>
     </interpParagraph>
   </change>
-  <change operation="modified" label="1026-41-d-Interp-1">
+  <change operation="modified" label="1026-41-d-Interp-1" parent="1026-41-d-Interp">
     <interpParagraph label="1026-41-d-Interp-1" marker="1.">
       <title>Close proximity.</title>
       <content>Section 1026.41(d) requires several disclosures to be provided in close proximity to one another. To meet this requirement, the items to be provided in close proximity must be grouped together, and set off from other groupings of items. This may be accomplished in a variety of ways, for example, by presenting the information in boxes, or by arranging the items on the document and including spacing between the groupings. Items in close proximity may not have any unrelated text between them. Text is unrelated if it does not explain or expand upon the required disclosures.</content>
@@ -980,7 +980,7 @@
             <content>Section 1026.41(e)(5)(ii) generally requires a servicer, notwithstanding § 1026.41(e)(5)(i), to resume providing a periodic statement or coupon book if the consumer in bankruptcy reaffirms personal liability for the mortgage loan or any consumer on the mortgage loan requests in writing that the servicer provide a periodic statement or coupon book. Whether a servicer provides a periodic statement or coupon book as modified by § 1026.41(f) or an unmodified periodic statement or coupon book depends on whether or not § 1026.41(f) applies to that mortgage loan at that time. For example, § 1026.41(f) does not apply with respect to a mortgage loan once the consumer has reaffirmed personal liability; therefore, following a consumer's reaffirmation, a servicer generally would provide a periodic statement or coupon book that complies with § 1026.41 but without the modifications set forth in § 1026.41(f). See comment 41(f)-6. Section 1026.41(f) does apply, however, with respect to a mortgage loan following a consumer's written request to receive a periodic statement or coupon book, so long as any consumer on the mortgage loan remains in bankruptcy or has discharged personal liability for the mortgage loan; accordingly, following that written request, a servicer must provide a periodic statement or coupon book that includes the modifications set forth in § 1026.41(f).</content>
           </interpParagraph>
         </interpParagraph>
-        <interpParagraph label="1026-41-e-5-iv-Interp">
+        <interpParagraph label="1026-41-e-5-iv-Interp" target="1026-41-e-5-iv">
           <title>41(e)(5)(iv) Timing of compliance following transition.</title>
           <content/>
           <interpParagraph label="1026-41-e-5-iv-A-Interp" target="1026-41-e-5-iv-A">
