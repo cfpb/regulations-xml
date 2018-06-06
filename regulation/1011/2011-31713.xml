@@ -67,7 +67,8 @@
       </tocSecEntry>
     </tableOfContents>
     <content>
-      <subpart label="1011-Subpart-A">
+      <subpart subpartLetter="A" label="1011-Subpart-A">
+        <title>Subpart A—Purchasers' Revocation Rights</title>
         <tableOfContents label="1011-Subpart-A-TOC">
           <tocSecEntry target="1011-1">
             <sectionNum>1</sectionNum>
@@ -131,7 +132,8 @@
           </section>
         </content>
       </subpart>
-      <subpart label="1011-Subpart-B">
+      <subpart subpartLetter="B" label="1011-Subpart-B">
+        <title>Subpart B—Sales Practices and Standards</title>
         <tableOfContents label="1011-Subpart-B-TOC">
           <tocSecEntry target="1011-10">
             <sectionNum>10</sectionNum>
@@ -350,7 +352,8 @@
           </section>
         </content>
       </subpart>
-      <subpart label="1011-Subpart-C">
+      <subpart subpartLetter="C" label="1011-Subpart-C">
+        <title>Subpart C—Advertising Disclaimers</title>
         <tableOfContents label="1011-Subpart-C-TOC">
           <tocSecEntry target="1011-50">
             <sectionNum>10</sectionNum>
