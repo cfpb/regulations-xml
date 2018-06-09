@@ -769,67 +769,114 @@
       </interpParagraph>
     </interpParagraph>
   </change>
-  <change operation="modified" label="1026-41-d-Interp-1" parent="1026-41-d-Interp">
-    <interpParagraph label="1026-41-d-Interp-1" marker="1.">
-      <title>Close proximity.</title>
-      <content>Section 1026.41(d) requires several disclosures to be provided in close proximity to one another. To meet this requirement, the items to be provided in close proximity must be grouped together, and set off from other groupings of items. This may be accomplished in a variety of ways, for example, by presenting the information in boxes, or by arranging the items on the document and including spacing between the groupings. Items in close proximity may not have any unrelated text between them. Text is unrelated if it does not explain or expand upon the required disclosures.</content>
-    </interpParagraph>
-  </change>
-  <change operation="added" label="1026-41-d-Interp-4" parent="1026-41-d-Interp">
-    <interpParagraph label="1026-41-d-Interp-4" marker="4.">
-      <title>Temporary loss mitigation programs.</title>
-      <content>If the consumer has agreed to a temporary loss mitigation program, the disclosures required by § 1026.41(d)(2), (3), and (5) regarding how payments were and will be applied must identify how payments are applied according to the loan contract, regardless of the temporary loss mitigation program.</content>
-    </interpParagraph>
-  </change>
-  <change operation="added" label="1026-41-d-Interp-5" parent="1026-41-d-Interp">
-    <interpParagraph label="1026-41-d-Interp-5" marker="5.">
-      <title>First statement after exemption terminates.</title>
-      <content>Section 1026.41(d)(2)(ii), (d)(3)(i), and (d)(4) requires the disclosure of the total sum of any fees or charges imposed since the last statement, the total of all payments received since the last statement, including a breakdown of how payments were applied, and a list of all transaction activity since the last statement. For purposes of the first periodic statement provided to the consumer following termination of an exemption under § 1026.41(e), the disclosures required by § 1026.41(d)(2)(ii), (d)(3)(i), and (d)(4) may be limited to account activity since the last payment due date that occurred while the exemption was in effect. For example, if mortgage loan payments are due on the first of each month and the servicer's exemption under § 1026.41(e) terminated on January 15, the first statement provided to the consumer after January 15 may be limited to the total sum of any fees or charges imposed, the total of all payments received, a breakdown of how the payments were applied, and a list of all transaction activity since January 1.</content>
-    </interpParagraph>
-  </change>
-  <change operation="added" label="1026-41-d-1-Interp" parent="1026-41-Interp" after="1026-41-d-Interp">
-    <interpParagraph label="1026-41-d-1-Interp" target="1026-41-d-1">
-      <title>41(d)(1) Amount due.</title>
-      <content/>
-      <interpParagraph label="1026-41-d-1-Interp-1" marker="1.">
-        <title>Acceleration.</title>
-        <content>If the balance of a mortgage loan has been accelerated but the servicer will accept a lesser amount to reinstate the loan, the amount due under § 1026.41(d)(1) must identify only the lesser amount that will be accepted to reinstate the loan. The periodic statement must be accurate when provided and should indicate, if applicable, that the amount due is accurate only for a specified period of time. For example, the statement may include language such as “as of [date]” or “good through [date]” and provide an amount due that will reinstate the loan as of that date or good through that date, respectively.</content>
+  <change operation="modified" label="1026-41-d-Interp">
+    <interpParagraph label="1026-41-d-Interp" target="1026-41-d">
+    <title>41(d) Content and layout of the periodic statement.</title>
+    <content/>
+      <interpParagraph label="1026-41-d-Interp-1" marker="1.">
+        <title type="keyterm">Close proximity.</title>
+        <content>Section <ref target="1026-41-d" reftype="internal">1026.41(d)</ref> requires several disclosures to be provided in close proximity to one another. To meet this requirement, the items to be provided in close proximity must be grouped together, and set off from other groupings of items. This may be accomplished in a variety of ways, for example, by presenting the information in boxes, or by arranging the items on the document and including spacing between the groupings. Items in close proximity may not have any unrelated text between them. Text is unrelated if it does not explain or expand upon the required disclosures.</content>
       </interpParagraph>
-      <interpParagraph label="1026-41-d-1-Interp-2" marker="2.">
-        <title>Temporary loss mitigation programs.</title>
-        <content>If the consumer has agreed to a temporary loss mitigation program, the amount due under § 1026.41(d)(1) may identify either the payment due under the temporary loss mitigation program or the amount due according to the loan contract.</content>
+      <interpParagraph label="1026-41-d-Interp-2" marker="2.">
+        <title type="keyterm">Not Applicable.</title>
+        <content>If an item required by paragraph <ref target="1026-41-d" reftype="internal">(d)</ref> or <ref target="1026-41-e" reftype="internal">(e)</ref> of this section is not applicable to the loan, it may be omitted from the periodic statement or coupon book. For example, if there is no prepayment penalty associated with a loan, the prepayment penalty disclosures need not be provided on the periodic statement.</content>
       </interpParagraph>
-      <interpParagraph label="1026-41-d-1-Interp-3" marker="3.">
-        <title>Permanent loan modifications.</title>
-        <content>If the loan contract has been permanently modified, the amount due under § 1026.41(d)(1) must identify only the amount due under the modified loan contract.</content>
+      <interpParagraph label="1026-41-d-Interp-3" marker="3.">
+        <title type="keyterm">Terminology.</title>
+        <content>A servicer may use terminology other than that found on the sample periodic statements in appendix H-30, so long as the new terminology is commonly understood. For example, servicers may take into consideration regional differences in terminology and refer to the account for the collection of taxes and insurance, referred to in § <ref target="1026-41-d" reftype="internal">1026.41(d)</ref> as the “escrow account,” as an “impound account.”</content>
       </interpParagraph>
-    </interpParagraph>
-  </change>
-  <change operation="added" label="1026-41-d-2-Interp" parent="1026-41-Interp" after="1026-41-d-1-Interp">
-    <interpParagraph label="1026-41-d-2-Interp" target="1026-41-d-2">
-     <title>41(d)(2) Explanation of amount due.</title>
-      <content/>
-      <interpParagraph label="1026-41-d-2-Interp-1" marker="1.">
-        <title>Acceleration.</title>
-        <content>If the balance of a mortgage loan has been accelerated but the servicer will accept a lesser amount to reinstate the loan, the explanation of amount due under § 1026.41(d)(2) must list both the reinstatement amount that is disclosed as the amount due and the accelerated amount but not the monthly payment amount that would otherwise be required under § 1026.41(d)(2)(i). The periodic statement must also include an explanation that the reinstatement amount will be accepted to reinstate the loan through the “as of [date]” or “good through [date],” as applicable, along with any special instructions for submitting the payment. The explanation should be on the front page of the statement or, alternatively, may be included on a separate page enclosed with the periodic statement. The explanation may include related information, such as a statement that the amount disclosed is “not a payoff amount.”</content>
+      <interpParagraph label="1026-41-d-Interp-4" marker="4.">
+        <title type="keyterm">Temporary loss mitigation programs.</title>
+        <content>If the consumer has agreed to a temporary loss mitigation program, the disclosures required by § <ref target="1026-41-d-2" reftype="internal">1026.41(d)(2)</ref>, <ref target="1026-41-d-3" reftype="internal">(3)</ref>, and <ref target="1026-41-d-5" reftype="internal">(5)</ref> regarding how payments were and will be applied must identify how payments are applied according to the loan contract, regardless of the temporary loss mitigation program.</content>
       </interpParagraph>
-      <interpParagraph label="1026-41-d-2-Interp-2" marker="2.">
-        <title>Temporary loss mitigation programs.</title>
-        <content>If the consumer has agreed to a temporary loss mitigation program and the amount due identifies the payment due under the temporary loss mitigation program, the explanation of amount due under § 1026.41(d)(2) must include both the amount due according to the loan contract and the payment due under the temporary loss mitigation program. The statement must also include an explanation that the amount due is being disclosed as a different amount because of the temporary loss mitigation program. The explanation should be on the front page of the statement or, alternatively, may be included on a separate page enclosed with the periodic statement or in a separate letter.</content>
+      <interpParagraph label="1026-41-d-Interp-5" marker="5.">
+        <title type="keyterm">First statement after exemption terminates.</title>
+        <content>Section <ref target="1026-41-d-2-ii" reftype="internal">1026.41(d)(2)(ii)</ref>, <ref target="1026-41-d-3-i" reftype="internal">(d)(3)(i)</ref>, and <ref target="1026-41-d-4" reftype="internal">(d)(4)</ref> requires the disclosure of the total sum of any fees or charges imposed since the last statement, the total of all payments received since the last statement, including a breakdown of how payments were applied, and a list of all transaction activity since the last statement. For purposes of the first periodic statement provided to the consumer following termination of an exemption under § <ref target="1026-41-e" reftype="internal">1026.41(e)</ref>, the disclosures required by § <ref target="1026-41-d-2-ii" reftype="internal">1026.41(d)(2)(ii)</ref>, <ref target="1026-41-d-3-i" reftype="internal">(d)(3)(i)</ref>, and <ref target="1026-41-d-4" reftype="internal">(d)(4)</ref> may be limited to account activity since the last payment due date that occurred while the exemption was in effect. For example, if mortgage loan payments are due on the first of each month and the servicer's exemption under § <ref target="1026-41-e" reftype="internal">1026.41(e)</ref> terminated on January 15, the first statement provided to the consumer after January 15 may be limited to the total sum of any fees or charges imposed, the total of all payments received, a breakdown of how the payments were applied, and a list of all transaction activity since January 1.</content>
       </interpParagraph>
-    </interpParagraph>
-  </change>
-  <change operation="added" label="1026-41-d-8-Interp" parent="1026-41-d-Interp" after="1026-41-d-4-Interp">
-    <interpParagraph label="1026-41-d-8-Interp" target="1026-41-d-8">
-      <title>41(d)(8) Delinquency information.</title>
-      <content/>
-      <interpParagraph label="1026-41-d-8-Interp-1" marker="1.">
-        <title>Length of delinquency.</title>
-        <content>For purposes of § 1026.41(d)(8), the length of a consumer's delinquency is measured as of the date of the periodic statement or the date of the written notice provided under § 1026.41(e)(3)(iv). A consumer's delinquency begins on the date an amount sufficient to cover a periodic payment of principal, interest, and escrow, if applicable, becomes due and unpaid, even if the consumer is afforded a period after the due date to pay before the servicer assesses a late fee. A consumer is delinquent if one or more periodic payments of principal, interest, and escrow, if applicable, are due and unpaid.</content>
+      <interpParagraph label="1026-41-d-1-Interp" target="1026-41-d-1">
+        <title>41(d)(1) Amount due.</title>
+        <content/>
+        <interpParagraph label="1026-41-d-1-Interp-1" marker="1.">
+          <title type="keyterm">Acceleration.</title>
+          <content>If the balance of a mortgage loan has been accelerated but the servicer will accept a lesser amount to reinstate the loan, the amount due under § <ref target="1026-41-d-1" reftype="internal">1026.41(d)(1)</ref> must identify only the lesser amount that will be accepted to reinstate the loan. The periodic statement must be accurate when provided and should indicate, if applicable, that the amount due is accurate only for a specified period of time. For example, the statement may include language such as “as of [date]” or “good through [date]” and provide an amount due that will reinstate the loan as of that date or good through that date, respectively.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-41-d-1-Interp-2" marker="2.">
+          <title type="keyterm">Temporary loss mitigation programs.</title>
+          <content>If the consumer has agreed to a temporary loss mitigation program, the amount due under § <ref target="1026-41-d-1" reftype="internal">1026.41(d)(1)</ref> may identify either the payment due under the temporary loss mitigation program or the amount due according to the loan contract.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-41-d-1-Interp-3" marker="3.">
+          <title type="keyterm">Permanent loan modifications.</title>
+          <content>If the loan contract has been permanently modified, the amount due under § <ref target="1026-41-d-1" reftype="internal">1026.41(d)(1)</ref> must identify only the amount due under the modified loan contract.</content>
+        </interpParagraph>
       </interpParagraph>
-      <interpParagraph label="1026-41-d-8-Interp-2" marker="2.">
-        <title>Application of funds.</title>
-        <content>For purposes of § 1026.41(d)(8), if a servicer applies payments to the oldest outstanding periodic payment, a payment by a delinquent consumer advances the date the consumer's delinquency began. For example, assume a mortgage loan obligation under which a consumer's periodic payment is due on the first of each month. A consumer fails to make a payment on January 1 but makes a periodic payment on February 3. The servicer applies the payment received on February 3 to the outstanding January payment. On February 4, the consumer is three days delinquent, and the next periodic statement should disclose the length of the consumer's delinquency using February 2 as the first day of delinquency.</content>
+      <interpParagraph label="1026-41-d-2-Interp" target="1026-41-d-2">
+        <title>41(d)(2) Explanation of amount due.</title>
+        <content/>
+        <interpParagraph label="1026-41-d-2-Interp-1" marker="1.">
+          <title type="keyterm">Acceleration.</title>
+          <content>If the balance of a mortgage loan has been accelerated but the servicer will accept a lesser amount to reinstate the loan, the explanation of amount due under § <ref target="1026-41-d-2" reftype="internal">1026.41(d)(2)</ref> must list both the reinstatement amount that is disclosed as the amount due and the accelerated amount but not the monthly payment amount that would otherwise be required under § <ref target="1026-41-d-2-i" reftype="internal">1026.41(d)(2)(i)</ref>. The periodic statement must also include an explanation that the reinstatement amount will be accepted to reinstate the loan through the “as of [date]” or “good through [date],” as applicable, along with any special instructions for submitting the payment. The explanation should be on the front page of the statement or, alternatively, may be included on a separate page enclosed with the periodic statement. The explanation may include related information, such as a statement that the amount disclosed is “not a payoff amount.”</content>
+        </interpParagraph>
+        <interpParagraph label="1026-41-d-2-Interp-2" marker="2.">
+          <title type="keyterm">Temporary loss mitigation programs.</title>
+          <content>If the consumer has agreed to a temporary loss mitigation program and the amount due identifies the payment due under the temporary loss mitigation program, the explanation of amount due under § <ref target="1026-41-d-2" reftype="internal">1026.41(d)(2)</ref> must include both the amount due according to the loan contract and the payment due under the temporary loss mitigation program. The statement must also include an explanation that the amount due is being disclosed as a different amount because of the temporary loss mitigation program. The explanation should be on the front page of the statement or, alternatively, may be included on a separate page enclosed with the periodic statement or in a separate letter.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-41-d-3-Interp" target="1026-41-d-3">
+        <title>41(d)(3) Past payment breakdown.</title>
+        <content/>
+        <interpParagraph label="1026-41-d-3-Interp-1" marker="1.">
+          <title type="keyterm">Partial Payments.</title>
+          <content>The disclosure of any partial payments received since the previous statement that were sent to a suspense or unapplied funds account as required by § <ref target="1026-41-d-3-i" reftype="internal">1026.41(d)(3)(i)</ref> should reflect any funds that were received in the time period covered by the current statement and that were placed in such account. The disclosure of any portion of payments since the beginning of the calendar year that was sent to a partial payment or suspense account as required by § <ref target="1026-41-d-3-ii" reftype="internal">1026.41(d)(3)(ii)</ref> should reflect all funds that are currently held in a suspense or unapplied funds account. For example:</content>
+          <interpParagraph label="1026-41-d-3-Interp-1-i" marker="i.">
+            <content>Suppose a payment of $1,000 is due, but the consumer sends in only $600 on January 1, which is held in a suspense account. Further assume there are no fees charged on this account. Assuming there are no other funds in the suspense account, the January statement should reflect: Unapplied funds since last statement—$600. Unapplied funds YTD—$600.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-41-d-3-Interp-1-ii" marker="ii.">
+            <content>Assume the same facts as in the preceding paragraph, except that during February the consumer sends in $300 and this too is held in the suspense account. The statement should reflect: Unapplied funds since last statement—$300. Unapplied funds YTD—$900.</content>
+          </interpParagraph>
+          <interpParagraph label="1026-41-d-3-Interp-1-iii" marker="iii.">
+            <content>Assume the same facts as in the preceding paragraph, except that during March the consumer sends in $400. Of this payment, $100 completes a full periodic payment when added to the $900 in funds already held in the suspense account. This $1,000 is applied to the January payment, and the remaining $300 remains in the suspense account. The statement should reflect: Unapplied funds since last statement—$300. Unapplied Funds YTD—$300.</content>
+          </interpParagraph>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-41-d-4-Interp" target="1026-41-d-4">
+        <title>41(d)(4) Transaction Activity.</title>
+        <content/>
+        <interpParagraph label="1026-41-d-4-Interp-1" marker="1.">
+          <title type="keyterm">Meaning.</title>
+          <content>Transaction activity includes any transaction that credits or debits the amount currently due. This is the same amount that is required to be disclosed under § <ref target="1026-41-d-1-iii" reftype="internal">1026.41(d)(1)(iii)</ref>. Examples of such transactions include, without limitation:</content>
+          <interpParagraph label="1026-41-d-4-Interp-1-i" marker="i.">
+            <content>Payments received and applied;</content>
+          </interpParagraph>
+          <interpParagraph label="1026-41-d-4-Interp-1-ii" marker="ii.">
+            <content>Payments received and held in a suspense account;</content>
+          </interpParagraph>
+          <interpParagraph label="1026-41-d-4-Interp-1-iii" marker="iii.">
+            <content>The imposition of any fees (for example late fees); and</content>
+          </interpParagraph>
+          <interpParagraph label="1026-41-d-4-Interp-1-iv" marker="iv.">
+            <content>The imposition of any charges (for example, private mortgage insurance).</content>
+          </interpParagraph>
+        </interpParagraph>
+        <interpParagraph label="1026-41-d-4-Interp-2" marker="2.">
+          <title type="keyterm">Description of late fees.</title>
+          <content>The description of any late fee charges includes the date of the late fee, the amount of the late fee, and the fact that a late fee was imposed.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-41-d-4-Interp-3" marker="3.">
+          <title type="keyterm">Partial Payments.</title>
+          <content>If a partial payment is sent to a suspense or unapplied funds account, this fact must be in the transaction description along with the date and amount of the payment.</content>
+        </interpParagraph>
+      </interpParagraph>
+      <interpParagraph label="1026-41-d-8-Interp" target="1026-41-d-8">
+        <title>41(d)(8) Delinquency information.</title>
+        <content/>
+        <interpParagraph label="1026-41-d-8-Interp-1" marker="1.">
+          <title type="keyterm">Length of delinquency.</title>
+          <content>For purposes of § <ref target="1026-41-d-8" reftype="internal">1026.41(d)(8)</ref>, the length of a consumer's delinquency is measured as of the date of the periodic statement or the date of the written notice provided under § <ref target="1026-41-e-3-iv" reftype="internal">1026.41(e)(3)(iv)</ref>. A consumer's delinquency begins on the date an amount sufficient to cover a periodic payment of principal, interest, and escrow, if applicable, becomes due and unpaid, even if the consumer is afforded a period after the due date to pay before the servicer assesses a late fee. A consumer is delinquent if one or more periodic payments of principal, interest, and escrow, if applicable, are due and unpaid.</content>
+        </interpParagraph>
+        <interpParagraph label="1026-41-d-8-Interp-2" marker="2.">
+          <title type="keyterm">Application of funds.</title>
+          <content>For purposes of § <ref target="1026-41-d-8" reftype="internal">1026.41(d)(8)</ref>, if a servicer applies payments to the oldest outstanding periodic payment, a payment by a delinquent consumer advances the date the consumer's delinquency began. For example, assume a mortgage loan obligation under which a consumer's periodic payment is due on the first of each month. A consumer fails to make a payment on January 1 but makes a periodic payment on February 3. The servicer applies the payment received on February 3 to the outstanding January payment. On February 4, the consumer is three days delinquent, and the next periodic statement should disclose the length of the consumer's delinquency using February 2 as the first day of delinquency.</content>
+        </interpParagraph>
       </interpParagraph>
     </interpParagraph>
   </change>
