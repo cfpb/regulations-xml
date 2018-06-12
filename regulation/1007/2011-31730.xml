@@ -41,6 +41,10 @@
         <sectionNum>5</sectionNum>
         <sectionSubject>§ 1007.105 Use of Unique Identifier.</sectionSubject>
       </tocSecEntry>
+      <tocAppEntry target="1007-A">
+        <appendixLetter>A</appendixLetter>
+        <appendixSubject>Appendix A to Part 1007—Examples of Mortgage Loan Originator Activities</appendixSubject>
+      </tocAppEntry>
     </tableOfContents>
     <content>
       <subpart label="1007-Subpart-A">
@@ -481,6 +485,126 @@
           </section>
         </content>
       </subpart>
+      <appendix appendixLetter="A" label="1007-A">
+        <appendixTitle>Appendix A to Part 1007—Examples of Mortgage Loan Originator Activities</appendixTitle>
+        <appendixSection appendixSecNum="1" label="1007-A-p1">
+          <subject/>
+          <paragraph marker="">
+            <content>This appendix provides examples to aid in the understanding of activities that would cause an employee of a covered financial institution to fall within or outside the definition of mortgage loan originator. The examples in this Appendix are not all-inclusive. They illustrate only the issue described and do not illustrate any other issues that may arise under this part. For purposes of the examples below, the term “loan” refers to a residential mortgage loan.</content>
+          </paragraph>
+          <paragraph label="1007-A-a" marker="">
+            <title>(a) Taking a loan application.</title>
+            <content/>
+            <paragraph label="1007-A-a-p1" marker="">
+              <content>The following examples illustrate when an employee takes, or does not take, a loan application.</content>
+              <paragraph label="1007-A-a-p1-1" marker="(1)">
+                <content>Taking an application includes: receiving information provided in connection with a request for a loan to be used to determine whether the consumer qualifies for a loan, even if the employee:</content>
+                <paragraph label="1007-A-a-p1-1-i" marker="(i)">
+                  <content>Has received the consumer's information indirectly in order to make an offer or negotiate a loan;</content>
+                </paragraph>
+                <paragraph label="1007-A-a-p1-1-ii" marker="(ii)">
+                  <content>Is not responsible for verifying information;</content>
+                </paragraph>
+                <paragraph label="1007-A-a-p1-1-iii" marker="(iii)">
+                  <content>Is inputting information into an online application or other automated system on behalf of the consumer; or</content>
+                </paragraph>
+                <paragraph label="1007-A-a-p1-1-iv" marker="(iv)">
+                  <content>Is not engaged in approval of the loan, including determining whether the consumer qualifies for the loan.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1007-A-a-p1-2" marker="(2)">
+                <content>Taking an application does not include any of the following activities performed solely or in combination:</content>
+                <paragraph label="1007-A-a-p1-2-i" marker="(i)">
+                  <content>Contacting a consumer to verify the information in the loan application by obtaining documentation, such as tax returns or payroll receipts;</content>
+                </paragraph>
+                <paragraph label="1007-A-a-p1-2-ii" marker="(ii)">
+                  <content>Receiving a loan application through the mail and forwarding it, without review, to loan approval personnel;</content>
+                </paragraph>
+                <paragraph label="1007-A-a-p1-2-iii" marker="(iii)">
+                  <content>Assisting a consumer who is filling out an application by clarifying what type of information is necessary for the application or otherwise explaining the qualifications or criteria necessary to obtain a loan product;</content>
+                </paragraph>
+                <paragraph label="1007-A-a-p1-2-iv" marker="(iv)">
+                  <content>Describing the steps that a consumer would need to take to provide information to be used to determine whether the consumer qualifies for a loan or otherwise explaining the loan application process;</content>
+                </paragraph>
+                <paragraph label="1007-A-a-p1-2-v" marker="(v)">
+                  <content>In response to an inquiry regarding a prequalified offer that a consumer has received from a covered financial institution, collecting only basic identifying information about the consumer and forwarding the consumer to a mortgage loan originator; or</content>
+                </paragraph>
+                <paragraph label="1007-A-a-p1-2-vi" marker="(vi)">
+                  <content>Receiving information in connection with a modification to the terms of an existing loan to a borrower as part of the covered financial institution's loss mitigation efforts when the borrower is reasonably likely to default.</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1007-A-b" marker="">
+            <title>(b) Offering or negotiating terms of a loan.</title>
+            <content/>
+            <paragraph label="1007-A-b-p2" marker="">
+              <content> The following examples are designed to illustrate when an employee offers or negotiates terms of a loan, and conversely, what does not constitute offering or negotiating terms of a loan.</content>
+              <paragraph label="1007-A-b-p2-1" marker="(1)">
+                <content>Offering or negotiating the terms of a loan includes:</content>
+                <paragraph label="1007-A-b-p2-1-i" marker="(i)">
+                  <content>Presenting a loan offer to a consumer for acceptance, either verbally or in writing, including, but not limited to, providing a disclosure of the loan terms after application under the Truth in Lending Act, even if:</content>
+                  <paragraph label="1007-A-b-p2-1-i-A" marker="(A)">
+                    <content>Further verification of information is necessary;</content>
+                  </paragraph>
+                  <paragraph label="1007-A-b-p2-1-i-B" marker="(B)">
+                    <content>The offer is conditional;</content>
+                  </paragraph>
+                  <paragraph label="1007-A-b-p2-1-i-C" marker="(C)">
+                    <content>Other individuals must complete the loan process; or</content>
+                  </paragraph>
+                  <paragraph label="1007-A-b-p2-1-i-D" marker="(D)">
+                    <content>Only the rate approved by the covered financial institution's loan approval mechanism function for a specific loan product is communicated without authority to negotiate the rate.</content>
+                  </paragraph>
+                </paragraph>
+                <paragraph label="1007-A-b-p2-1-ii" marker="(ii)">
+                  <content>Responding to a consumer's request for a lower rate or lower points on a pending loan application by presenting to the consumer a revised loan offer, either verbally or in writing, that includes a lower interest rate or lower points than the original offer.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1007-A-b-p2-2" marker="(2)">
+                <content>Offering or negotiating terms of a loan does not include solely or in combination:</content>
+                <paragraph label="1007-A-b-p2-2-i" marker="(i)">
+                  <content>Providing general explanations or descriptions in response to consumer queries regarding qualification for a specific loan product, such as explaining loan terminology (e.g., debt-to-income ratio); lending policies (e.g., the loan-to-value ratio policy of the covered financial institution); or product-related services;</content>
+                </paragraph>
+                <paragraph label="1007-A-b-p2-2-ii" marker="(ii)">
+                  <content>In response to a consumer's request, informing a consumer of the loan rates that are publicly available, such as on the covered financial institution's Web site, for specific types of loan products without communicating to the consumer whether qualifications are met for that loan product;</content>
+                </paragraph>
+                <paragraph label="1007-A-b-p2-2-iii" marker="(iii)">
+                  <content>Collecting information about a consumer in order to provide the consumer with information on loan products for which the consumer generally may qualify, without presenting a specific loan offer to the consumer for acceptance, either verbally or in writing;</content>
+                </paragraph>
+                <paragraph label="1007-A-b-p2-2-iv" marker="(iv)">
+                  <content>Arranging the loan closing or other aspects of the loan process, including communicating with a consumer about those arrangements, provided that communication with the consumer only verifies loan terms already offered or negotiated;</content>
+                </paragraph>
+                <paragraph label="1007-A-b-p2-2-v" marker="(v)">
+                  <content>Providing a consumer with information unrelated to loan terms, such as the best days of the month for scheduling loan closings at the covered financial institution;</content>
+                </paragraph>
+                <paragraph label="1007-A-b-p2-2-vi" marker="(vi)">
+                  <content>Making an underwriting decision about whether the consumer qualifies for a loan;</content>
+                </paragraph>
+                <paragraph label="1007-A-b-p2-2-vii" marker="(vii)">
+                  <content>Explaining or describing the steps or process that a consumer would need to take in order to obtain a loan offer, including qualifications or criteria that would need to be met without providing guidance specific to that consumer's circumstances; or</content>
+                </paragraph>
+                <paragraph label="1007-A-b-p2-2-viii" marker="(viii)">
+                  <content>Communicating on behalf of a mortgage loan originator that a written offer, including disclosures provided pursuant to the Truth in Lending Act, has been sent to a consumer without providing any details of that offer.</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1007-A-c" marker="">
+            <title>(c) Offering or negotiating a loan for compensation or gain.</title>
+            <content/>
+            <paragraph label="1007-A-c-p3" marker="">
+              <content>The following examples illustrate when an employee does or does not offer or negotiate terms of a loan “for compensation or gain.”</content>
+              <paragraph label="1007-A-c-p3-1" marker="(1)">
+                <content>Offering or negotiating terms of a loan for compensation or gain includes engaging in any of the activities in paragraph (b)(1) of this appendix in the course of carrying out employment duties, even if the employee does not receive a referral fee or commission or other special compensation for the loan.</content>
+              </paragraph>
+              <paragraph label="1007-A-c-p3-2" marker="(2)">
+                <content>Offering or negotiating terms of a loan for compensation or gain does not include engaging in a seller-financed transaction for the employee's personal property that does not involve the covered financial institution.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+      </appendix>
     </content>
   </part>
   <analysis/>
