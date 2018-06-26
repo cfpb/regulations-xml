@@ -1967,8 +1967,332 @@
         <appendixTitle>Appendix to Part 1016—Model Privacy Form</appendixTitle>
         <appendixSection appendixSecNum="1" label="1016-A-p1">
           <subject/>
-          <paragraph marker="">
+          <paragraph label="1016-A-p1-A" marker="A.">
+            <title>The Model Privacy Form</title>
             <content/>
+          </paragraph>
+          <paragraph label="1016-A-p1-A-1" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.058)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.058/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1016-A-p1-A-2" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.059)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.059/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1016-A-p1-A-3" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.060)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.060/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1016-A-p1-A-4" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.061)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.061/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1016-A-p1-A-5" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.062)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.062/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1016-A-p1-A-6" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.063)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.063/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1016-A-p1-A-7" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.064)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.064/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1016-A-p1-B" marker="B.">
+            <title>General Instructions</title>
+            <content/>
+            <paragraph label="1016-A-p1-B-1" marker="1.">
+              <title>How the Model Privacy Form Is Used</title>
+              <content/>
+              <paragraph label="1016-A-p1-B-1-a" marker="(a)">
+                <content>The model form may be used, at the option of a financial institution, including a group of financial institutions that use a common privacy notice, to meet the content requirements of the privacy notice and opt-out notice set forth in §§ 1016.6 and 1016.7 of this part.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-B-1-b" marker="(b)">
+                <content>The model form is a standardized form, including page layout, content, format, style, pagination, and shading. Institutions seeking to obtain the safe harbor through use of the model form may modify it only as described in these Instructions.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-B-1-c" marker="(c)">
+                <content>Note that disclosure of certain information, such as assets, income, and information from a consumer reporting agency, may give rise to obligations under the Fair Credit Reporting Act [15 U.S.C. 1681-1681x] (FCRA), such as a requirement to permit a consumer to opt out of disclosures to affiliates or designation as a consumer reporting agency if disclosures are made to nonaffiliated third parties.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-B-1-d" marker="(d)">
+                <content>The word “customer” may be replaced by the word “member” whenever it appears in the model form, as appropriate.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1016-A-p1-B-2" marker="2.">
+              <title>The Contents of the Model Privacy Form</title>
+              <content>The model form consists of two pages, which may be printed on both sides of a single sheet of paper, or may appear on two separate pages. Where an institution provides a long list of institutions at the end of the model form in accordance with Instruction C.3(a)(1), or provides additional information in accordance with Instruction C.3(c), and such list or additional information exceeds the space available on page two of the model form, such list or additional information may extend to a third page.</content>
+              <paragraph label="1016-A-p1-B-2-a" marker="(a)">
+                <title>Page One.</title>
+                <content>The first page consists of the following components:</content>
+                <paragraph label="1016-A-p1-B-2-a-1" marker="(1)">
+                  <content>Date last revised (upper right-hand corner).</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-B-2-a-2" marker="(2)">
+                  <content>Title.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-B-2-a-3" marker="(3)">
+                  <content>Key frame (Why?, What?, How?).</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-B-2-a-4" marker="(4)">
+                  <content>Disclosure table (“Reasons we can share your personal information”).</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-B-2-a-5" marker="(5)">
+                  <content>“To limit our sharing” box, as needed, for the financial institution's opt-out information.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-B-2-a-6" marker="(6)">
+                  <content>“Questions” box, for customer service contact information.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-B-2-a-7" marker="(7)">
+                  <content>Mail-in opt-out form, as needed.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1016-A-p1-B-2-b" marker="(b)">
+                <title>Page Two.</title>
+                <content>The second page consists of the following components:</content>
+                <paragraph label="1016-A-p1-B-2-b-1" marker="(1)">
+                  <content>Heading (Page 2).</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-B-2-b-2" marker="(2)">
+                  <content>Frequently Asked Questions (“Who we are” and “What we do”).</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-B-2-b-3" marker="(3)">
+                  <content>Definitions.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-B-2-b-4" marker="(4)">
+                  <content>“Other important information” box, as needed.</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1016-A-p1-B-3" marker="3.">
+              <title>The Format of the Model Privacy Form</title>
+              <content>The format of the model form may be modified only as described below.</content>
+              <paragraph label="1016-A-p1-B-3-a" marker="(a)">
+                <title>Easily readable type font.</title>
+                <content>Financial institutions that use the model form must use an easily readable type font. While a number of factors together produce easily readable type font, institutions are required to use a minimum of 10-point font (unless otherwise expressly permitted in these Instructions) and sufficient spacing between the lines of type.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-B-3-b" marker="(b)">
+                <title>Logo.</title>
+                <content>A financial institution may include a corporate logo on any page of the notice, so long as it does not interfere with the readability of the model form or the space constraints of each page.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-B-3-c" marker="(c)">
+                <title>Page size and orientation.</title>
+                <content>Each page of the model form must be printed on paper in portrait orientation, the size of which must be sufficient to meet the layout and minimum font size requirements, with sufficient white space on the top, bottom, and sides of the content.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-B-3-d" marker="(d)">
+                <title>Color.</title>
+                <content>The model form must be printed on white or light color paper (such as cream) with black or other contrasting ink color. Spot color may be used to achieve visual interest, so long as the color contrast is distinctive and the color does not detract from the readability of the model form. Logos may also be printed in color.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-B-3-e" marker="(e)">
+                <title>Languages.</title>
+                <content>The model form may be translated into languages other than English.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1016-A-p1-C" marker="C.">
+            <title>Information Required in the Model Privacy Form</title>
+            <content>The information in the model form may be modified only as described below:</content>
+            <paragraph label="1016-A-p1-C-1" marker="1.">
+              <title>Name of the Institution or Group of Affiliated Institutions Providing the Notice</title>
+              <content>Insert the name of the financial institution providing the notice or a common identity of affiliated institutions jointly providing the notice on the form wherever [name of financial institution] appears.</content>
+            </paragraph>
+            <paragraph label="1016-A-p1-C-2" marker="2.">
+              <title>Page One</title>
+              <content/>
+              <paragraph label="1016-A-p1-C-2-a" marker="(a)">
+                <title>Last revised date.</title>
+                <content>The financial institution must insert in the upper right-hand corner the date on which the notice was last revised. The information shall appear in minimum 8-point font as “rev. [month/year]” using either the name or number of the month, such as “rev. July 2009” or “rev. 7/09”.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-C-2-b" marker="(b)">
+                <content>General instructions for the “What?” box.</content>
+                <paragraph label="1016-A-p1-C-2-b-1" marker="(1)">
+                  <content>The bulleted list identifies the types of personal information that the institution collects and shares. All institutions must use the term “Social Security number” in the first bullet.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-b-2" marker="(2)">
+                  <content>Institutions must use five (5) of the following terms to complete the bulleted list: Income; account balances; payment history; transaction history; transaction or loss history; credit history; credit scores; assets; investment experience; credit-based insurance scores; insurance claim history; medical information; overdraft history; purchase history; account transactions; risk tolerance; medical-related debts; credit card or other debt; mortgage rates and payments; retirement assets; checking account information; employment information; wire transfer instructions.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1016-A-p1-C-2-c" marker="(c)">
+                <title>General instructions for the disclosure table.</title>
+                <content>The left column lists reasons for sharing or using personal information. Each reason correlates to a specific legal provision described in paragraph C.2(d) of this Instruction. In the middle column, each institution must provide a “Yes” or “No” response that accurately reflects its information sharing policies and practices with respect to the reason listed on the left. In the right column, each institution must provide in each box one of the following three (3) responses, as applicable, that reflects whether a consumer can limit such sharing: “Yes” if it is required to or voluntarily provides an opt-out; “No” if it does not provide an opt-out; or “We don't share” if it answers “No” in the middle column. Only the sixth row (“For our affiliates to market to you”) may be omitted at the option of the institution. See paragraph C.2(d)(6) of this Instruction.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-C-2-d" marker="(d)">
+                <content>Specific disclosures and corresponding legal provisions.</content>
+                <paragraph label="1016-A-p1-C-2-d-1" marker="(1)">
+                  <title>For our everyday business purposes.</title>
+                  <content>This reason incorporates sharing information under §§ 1016.14 and 1016.15 and with service providers pursuant to § 1016.13 of this part other than the purposes specified in paragraphs C.2(d)(2) or C.2(d)(3) of these Instructions.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-d-2" marker="(2)">
+                  <title>For our marketing purposes.</title>
+                  <content>This reason incorporates sharing information with service providers by an institution for its own marketing pursuant to § 1016.13 of this part. An institution that shares for this reason may choose to provide an opt-out.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-d-3" marker="(3)">
+                  <title>For joint marketing with other financial companies.</title>
+                  <content>This reason incorporates sharing information under joint marketing agreements between two or more financial institutions and with any service provider used in connection with such agreements pursuant to § 1016.13 of this part. An institution that shares for this reason may choose to provide an opt-out.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-d-4" marker="(4)">
+                  <title>For our affiliates' everyday business purposes—information about transactions and experiences.</title>
+                  <content>This reason incorporates sharing information specified in sections 603(d)(2)(A)(i) and (ii) of the FCRA. An institution that shares for this reason may choose to provide an opt-out.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-d-5" marker="(5)">
+                  <title>For our affiliates' everyday business purposes—information about creditworthiness.</title>
+                  <content>This reason incorporates sharing information pursuant to section 603(d)(2)(A)(iii) of the FCRA. An institution that shares for this reason must provide an opt-out.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-d-6" marker="(6)">
+                  <title>For our affiliates to market to you.</title>
+                  <content>This reason incorporates sharing information specified in section 624 of the FCRA. This reason may be omitted from the disclosure table when: the institution does not have affiliates (or does not disclose personal information to its affiliates); the institution's affiliates do not use personal information in a manner that requires an opt-out; or the institution provides the affiliate marketing notice separately. Institutions that include this reason must provide an opt-out of indefinite duration. An institution that is required to provide an affiliate marketing opt-out, but does not include that opt-out in the model form under this part, must comply with section 624 of the FCRA and 12 CFR part 1022, subpart C, with respect to the initial notice and opt-out and any subsequent renewal notice and opt-out. An institution not required to provide an opt-out under this subparagraph may elect to include this reason in the model form.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-d-7" marker="(7)">
+                  <title>For nonaffiliates to market to you.</title>
+                  <content>This reason incorporates sharing described in §§ 1016.7 and 1016.10(a) of this part. An institution that shares personal information for this reason must provide an opt-out.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1016-A-p1-C-2-e" marker="(e)">
+                <title>To limit our sharing:</title>
+                <content>A financial institution must include this section of the model form only if it provides an opt-out. The word “choice” may be written in either the singular or plural, as appropriate. Institutions must select one or more of the applicable opt-out methods described: Telephone, such as by a toll-free number; a Web site; or use of a mail-in opt-out form. Institutions may include the words “toll-free” before telephone, as appropriate. An institution that allows consumers to opt out online must provide either a specific Web address that takes consumers directly to the opt-out page or a general Web address that provides a clear and conspicuous direct link to the opt-out page. The opt-out choices made available to the consumer who contacts the institution through these methods must correspond accurately to the “Yes” responses in the third column of the disclosure table. In the part titled “Please note,” institutions may insert a number that is 30 or greater in the space marked “[30].” Instructions on voluntary or state privacy law opt-out information are in paragraph C.2(g)(5) of these Instructions.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-C-2-f" marker="(f)">
+                <title>Questions box.</title>
+                <content>Customer service contact information must be inserted as appropriate, where [phone number] or [Web site] appear. Institutions may elect to provide either a phone number, such as a toll-free number, or a web address, or both. Institutions may include the words “toll-free” before the telephone number, as appropriate.</content>
+              </paragraph>
+              <paragraph label="1016-A-p1-C-2-g" marker="(g)">
+                <title>Mail-in opt-out form.</title>
+                <content>Financial institutions must include this mail-in form only if they state in the “To limit our sharing” box that consumers can opt out by mail. The mail-in form must provide opt-out options that correspond accurately to the “Yes” responses in the third column in the disclosure table. Institutions that require customers to provide only name and address may omit the section identified as “[account #].” Institutions that require additional or different information, such as a random opt-out number or a truncated account number, to implement an opt-out election should modify the “[account #]” reference accordingly. This includes institutions that require customers with multiple accounts to identify each account to which the opt-out should apply. An institution must enter its opt-out mailing address: in the far right of this form (see version 3); or below the form (see version 4). The reverse side of the mail-in opt-out form must not include any content of the model form.</content>
+                <paragraph label="1016-A-p1-C-2-g-1" marker="(1)">
+                  <title>Joint accountholder.</title>
+                  <content>Only institutions that provide their joint accountholders the choice to opt out for only one accountholder, in accordance with paragraph C.3(a)(5) of these Instructions, must include in the far left column of the mail-in form the following statement: “If you have a joint account, your choice(s) will apply to everyone on your account unless you mark below. Apply my choice(s) only to me.” The word “choice” may be written in either the singular or plural, as appropriate. Financial institutions that provide insurance products or services, provide this option, and elect to use the model form may substitute the word “policy” for “account” in this statement. Institutions that do not provide this option may eliminate this left column from the mail-in form.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-g-2" marker="(2)">
+                  <title>FCRA section 603(d)(2)(A)(iii) opt-out.</title>
+                  <content>If the institution shares personal information pursuant to section 603(d)(2)(A)(iii) of the FCRA, it must include in the mail-in opt-out form the following statement: “ Do not share information about my creditworthiness with your affiliates for their everyday business purposes.”</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-g-3" marker="(3)">
+                  <title>FCRA section 624 opt-out.</title>
+                  <content>If the institution incorporates section 624 of the FCRA in accord with paragraph C.2(d)(6) of these Instructions, it must include in the mail-in opt-out form the following statement: “ Do not allow your affiliates to use my personal information to market to me.”</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-g-4" marker="(4)">
+                  <title>Nonaffiliate opt-out.</title>
+                  <content>If the financial institution shares personal information pursuant to § 1016.10(a) of this part, it must include in the mail-in opt-out form the following statement: “ Do not share my personal information with nonaffiliates to market their products and services to me.”</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-2-g-5" marker="(5)">
+                  <title>Additional opt-outs.</title>
+                  <content>Financial institutions that use the disclosure table to provide opt-out options beyond those required by Federal law must provide those opt-outs in this section of the model form. A financial institution that chooses to offer an opt-out for its own marketing in the mail-in opt-out form must include one of the two following statements: “ Do not share my personal information to market to me.” or “ Do not use my personal information to market to me.” A financial institution that chooses to offer an opt-out for joint marketing must include the following statement: “ Do not share my personal information with other financial institutions to jointly market to me.”</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1016-A-p1-C-2-h" marker="(h)">
+                <title>Barcodes.</title>
+                <content>A financial institution may elect to include a barcode and/or “tagline” (an internal identifier) in 6-point font at the bottom of page one, as needed for information internal to the institution, so long as these do not interfere with the clarity or text of the form.</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1016-A-p1-C-3" marker="3.">
+              <title>Page Two</title>
+              <content/>
+              <paragraph label="1016-A-p1-C-3-a" marker="(a)">
+                <title>General Instructions for the Questions.</title>
+                <content>Certain of the Questions may be customized as follows:</content>
+                <paragraph label="1016-A-p1-C-3-a-1" marker="(1)">
+                  <title>“Who is providing this notice?”</title>
+                  <content>This question may be omitted where only one financial institution provides the model form and that institution is clearly identified in the title on page one. Two or more financial institutions that jointly provide the model form must use this question to identify themselves as required by § 1016.9(f) of this part. Where the list of institutions exceeds four (4) lines, the institution must describe in the response to this question the general types of institutions jointly providing the notice and must separately identify those institutions, in minimum 8-point font, directly following the “Other important information” box, or, if that box is not included in the institution's form, directly following the “Definitions.” The list may appear in a multi-column format.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-3-a-2" marker="(2)">
+                  <title>“How does [name of financial institution] protect my personal information?”</title>
+                  <content>The financial institution may only provide additional information pertaining to its safeguards practices following the designated response to this question. Such information may include information about the institution's use of cookies or other measures it uses to safeguard personal information. Institutions are limited to a maximum of 30 additional words.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-3-a-3" marker="(3)">
+                  <title>“How does [name of financial institution] collect my personal information?”</title>
+                  <content>Institutions must use five (5) of the following terms to complete the bulleted list for this question: Open an account; deposit money; pay your bills; apply for a loan; use your credit or debit card; seek financial or tax advice; apply for insurance; pay insurance premiums; file an insurance claim; seek advice about your investments; buy securities from us; sell securities to us; direct us to buy securities; direct us to sell your securities; make deposits or withdrawals from your account; enter into an investment advisory contract; give us your income information; provide employment information; give us your employment history; tell us about your investment or retirement portfolio; tell us about your investment or retirement earnings; apply for financing; apply for a lease; provide account information; give us your contact information; pay us by check; give us your wage statements; provide your mortgage information; make a wire transfer; tell us who receives the money; tell us where to send the money; show your government-issued ID; show your driver's license; order a commodity futures or option trade. Institutions that collect personal information from their affiliates and/or credit bureaus must include after the bulleted list the following statement: “We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.” Institutions that do not collect personal information from their affiliates or credit bureaus but do collect information from other companies must include the following statement instead: “We also collect your personal information from other companies.” Only institutions that do not collect any personal information from affiliates, credit bureaus, or other companies can omit both statements.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-3-a-4" marker="(4)">
+                  <title>“Why can't I limit all sharing?”</title>
+                  <content>Institutions that describe state privacy law provisions in the “Other important information” box must use the bracketed sentence: “See below for more on your rights under state law.” Other institutions must omit this sentence.</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-3-a-5" marker="(5)">
+                  <title>“What happens when I limit sharing for an account I hold jointly with someone else?”</title>
+                  <content>Only financial institutions that provide opt-out options must use this question. Other institutions must omit this question. Institutions must choose one of the following two statements to respond to this question: “Your choices will apply to everyone on your account.” or “Your choices will apply to everyone on your account—unless you tell us otherwise.” Financial institutions that provide insurance products or services and elect to use the model form may substitute the word “policy” for “account” in these statements.</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1016-A-p1-C-3-b" marker="(b)">
+                <title>General Instructions for the Definitions.</title>
+                <content>The financial institution must customize the space below the responses to the three definitions in this section. This specific information must be in italicized lettering to set off the information from the standardized definitions.</content>
+                <paragraph label="1016-A-p1-C-3-b-1" marker="(1)">
+                  <title>Affiliates.</title>
+                  <content>As required by § 1016.6(a)(3) of this part, where [affiliate information] appears, the financial institution must:</content>
+                  <paragraph label="1016-A-p1-C-3-b-1-i" marker="(i)">
+                    <content>If it has no affiliates, state: “[name of financial institution] has no affiliates”;</content>
+                  </paragraph>
+                  <paragraph label="1016-A-p1-C-3-b-1-ii" marker="(ii)">
+                    <content>If it has affiliates but does not share personal information, state: “[name of financial institution] does not share with our affiliates”; or</content>
+                  </paragraph>
+                  <paragraph label="1016-A-p1-C-3-b-1-iii" marker="(iii)">
+                    <content>If it shares with its affiliates, state, as applicable: “Our affiliates include companies with a [common corporate identity of financial institution] name; financial companies such as [insert illustrative list of companies]; nonfinancial companies, such as [insert illustrative list of companies]; and others, such as [insert illustrative list].”</content>
+                  </paragraph>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-3-b-2" marker="(2)">
+                  <title>Nonaffiliates.</title>
+                  <content>As required by § 1016.6(c)(3) of this part, where [nonaffiliate information] appears, the financial institution must:</content>
+                  <paragraph label="1016-A-p1-C-3-b-2-i" marker="(i)">
+                    <content>If it does not share with nonaffiliated third parties, state: “[name of financial institution] does not share with nonaffiliates so they can market to you”; or</content>
+                  </paragraph>
+                  <paragraph label="1016-A-p1-C-3-b-2-ii" marker="(ii)">
+                    <content>If it shares with nonaffiliated third parties, state, as applicable: “Nonaffiliates we share with can include [list categories of companies such as mortgage companies, insurance companies, direct marketing companies, and nonprofit organizations].”</content>
+                  </paragraph>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-3-b-3" marker="(3)">
+                  <title>Joint Marketing.</title>
+                  <content>As required by § 1016.13 of this part, where [joint marketing] appears, the financial institution must:</content>
+                  <paragraph label="1016-A-p1-C-3-b-3-i" marker="(i)">
+                    <content>If it does not engage in joint marketing, state: “[name of financial institution] doesn't jointly market”; or</content>
+                  </paragraph>
+                  <paragraph label="1016-A-p1-C-3-b-3-ii" marker="(ii)">
+                    <content>If it shares personal information for joint marketing, state, as applicable: “Our joint marketing partners include [list categories of companies such as credit card companies].”</content>
+                  </paragraph>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1016-A-p1-C-3-c" marker="(c)">
+                <title>General instructions for the “Other important information” box.</title>
+                <content>This box is optional. The space provided for information in this box is not limited. Only the following types of information can appear in this box.</content>
+                <paragraph label="1016-A-p1-C-3-c-1" marker="(1)">
+                  <content>State and/or international privacy law information; and/or</content>
+                </paragraph>
+                <paragraph label="1016-A-p1-C-3-c-2" marker="(2)">
+                  <content>Acknowledgment of receipt form.</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
           </paragraph>
         </appendixSection>
       </appendix>
