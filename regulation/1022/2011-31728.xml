@@ -4,7 +4,7 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2011-12-30</date>
+    <date>2011-12-21</date>
     <originalDate>2012-01-01</originalDate>
     <title>FAIR CREDIT REPORTING</title>
   </fdsys>
@@ -909,7 +909,7 @@ that you receive from an affiliate to make a solicitation for marketing purposes
               <content>You must not use eligibility information about a consumer that you receive from an affiliate to make a solicitation to the consumer about your products or services, unless the consumer is provided a reasonable and simple method to opt out, as required by § 1022.21(a)(1)(ii) of this part.</content>
             </paragraph>
             <paragraph label="1022-25-b" marker="(b)">
-              <title>Examples-</title>
+              <title>Examples.</title>
               <content/>
               <paragraph label="1022-25-b-1" marker="(1)">
                 <title>Reasonable and simple opt-out methods.</title>
@@ -3285,14 +3285,297 @@ that you receive from an affiliate to make a solicitation for marketing purposes
               <content>Adding disclosures regarding the treatment of opt-outs by joint consumers to comply with § 1022.23(a)(2) of this part.</content>
             </paragraph>
           </paragraph>
+          <paragraph label="1022-C-p1-1" marker="">
+            <title>C-1 Model Form for Initial Opt-out Notice (Single-Affiliate Notice)</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-C-p1-2" marker="">
+            <title>C-2 Model Form for Initial Opt-out Notice (Joint Notice)</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-C-p1-3" marker="">
+            <title>C-3 Model Form for Renewal Notice (Single-Affiliate Notice)</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-C-p1-4" marker="">
+            <title>C-4 Model Form for Renewal Notice (Joint Notice)</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-C-p1- 5" marker="">
+            <title>C-5 Model Form for Voluntary “No Marketing” Notice</title>
+            <content/>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="2" label="1022-C-p2">
+          <subject/>
+          <paragraph label="1022-C-1" marker="">
+            <title>C-1—Model Form for Initial Opt-Out Notice (Single-Affiliate Notice)—[Your Choice To Limit Marketing]/[Marketing Opt-Out]</title>
+            <content/>
+            <paragraph label="1022-C-1-p1" marker="">
+              <content>• [Name of Affiliate] is providing this notice.</content>
+            </paragraph>
+            <paragraph label="1022-C-1-p2" marker="">
+              <content>• [Optional: Federal law gives you the right to limit some but not all marketing from our affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our affiliates.]</content>
+            </paragraph>
+            <paragraph label="1022-C-1-p3" marker="">
+              <content>• You may limit our affiliates in the [ABC] group of companies, such as our [credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that we collect and share with them. This information includes your [income], your [account history with us], and your [credit score].</content>
+            </paragraph>
+            <paragraph label="1022-C-1-p4" marker="">
+              <content>• Your choice to limit marketing offers from our affiliates will apply [until you tell us to change your choice]/[for x years from when you tell us your choice]/[for at least 5 years from when you tell us your choice]. [Include if the opt-out period expires.] Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from our affiliates for [another x years]/[at least another 5 years].</content>
+            </paragraph>
+            <paragraph label="1022-C-1-p5" marker="">
+              <content>• [Include, if applicable, in a subsequent notice, including an annual notice, for consumers who may have previously opted out.] If you have already made a choice to limit marketing offers from our affiliates, you do not need to act again until you receive the renewal notice.</content>
+            </paragraph>
+            <paragraph label="1022-C-1-p6" marker="">
+              <content>To limit marketing offers, contact us [include all that apply]:</content>
+              <paragraph label="1022-C-1-p6-i" marker="">
+                <content>• By telephone: 1-(877) ###-####</content>
+              </paragraph>
+              <paragraph label="1022-C-1-p6-ii" marker="">
+                <content>• On the Web: www.—.com</content>
+              </paragraph>
+              <paragraph label="1022-C-1-p6-iii" marker="">
+                <content>• By mail: Check the box and complete the form below, and send the form to:</content>
+                <paragraph label="1022-C-1-p6-iii-A" marker="">
+                  <content>[Company name]</content>
+                </paragraph>
+                <paragraph label="1022-C-1-p6-iii-B" marker="">
+                  <content>[Company address]</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1022-C-1-p7" marker="">
+              <content>Do not allow your affiliates to use my personal information to market to me.</content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="3" label="1022-C-p3">
+          <subject/>
+          <paragraph label="1022-C-2" marker="">
+            <title>C-2—Model Form for Initial Opt-Out Notice (Joint Notice)—[Your Choice To Limit Marketing]/[Marketing Opt-Out]</title>
+            <content/>
+            <paragraph label="1022-C-2-p1" marker="">
+              <content>• The [ABC group of companies] is providing this notice.</content>
+            </paragraph>
+            <paragraph label="1022-C-2-p2" marker="">
+              <content>• [Optional: Federal law gives you the right to limit some but not all marketing from the [ABC] companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the [ABC] companies.]</content>
+            </paragraph>
+            <paragraph label="1022-C-2-p3" marker="">
+              <content>• You may limit the [ABC] companies, such as the [ABC credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that they receive from other [ABC] companies. This information includes your [income], your [account history], and your [credit score].</content>
+            </paragraph>
+            <paragraph label="1022-C-2-p4" marker="">
+              <content>• Your choice to limit marketing offers from the [ABC] companies will apply [until you tell us to change your choice]/[for x years from when you tell us your choice]/[for at least 5 years from when you tell us your choice]. [Include if the opt-out period expires.] Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from the [ABC] companies for [another x years]/[at least another 5 years].</content>
+            </paragraph>
+            <paragraph label="1022-C-2-p5" marker="">
+              <content>• [Include, if applicable, in a subsequent notice, including an annual notice, for consumers who may have previously opted out.] If you have already made a choice to limit marketing offers from the [ABC] companies, you do not need to act again until you receive the renewal notice.</content>
+            </paragraph>
+            <paragraph label="1022-C-2-p6" marker="">
+              <content>To limit marketing offers, contact us [include all that apply]:</content>
+              <paragraph label="1022-C-2-p6-i" marker="">
+                <content>• By telephone: 1-(877) ###-####</content>
+              </paragraph>
+              <paragraph label="1022-C-2-p6-ii" marker="">
+                <content>• On the Web: www.—.com</content>
+              </paragraph>
+              <paragraph label="1022-C-2-p6-iii" marker="">
+                <content>• By mail: Check the box and complete the form below, and send the form to:</content>
+                <paragraph label="1022-C-2-p6-iii-A" marker="">
+                  <content>[Company name]</content>
+                </paragraph>
+                <paragraph label="1022-C-2-p6-iii-B" marker="">
+                  <content>[Company address]</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1022-C-2-p7" marker="">
+              <content>Do not allow any company [in the ABC group of companies] to use my personal information to market to me.</content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="4" label="1022-C-p4">
+          <subject/>
+          <paragraph label="1022-C-3" marker="">
+            <title>C-3—Model Form for Renewal Notice (Single-Affiliate Notice)—[Renewing Your Choice To Limit Marketing]/[Renewing Your Marketing Opt-Out]</title>
+            <content/>
+            <paragraph label="1022-C-3-p1" marker="">
+              <content>• [Name of Affiliate] is providing this notice.</content>
+            </paragraph>
+            <paragraph label="1022-C-3-p2" marker="">
+              <content>• [Optional: Federal law gives you the right to limit some but not all marketing from our affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our affiliates.]</content>
+            </paragraph>
+            <paragraph label="1022-C-3-p3" marker="">
+              <content>• You previously chose to limit our affiliates in the [ABC] group of companies, such as our [credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that we share with them. This information includes your [income], your [account history with us], and your [credit score].</content>
+            </paragraph>
+            <paragraph label="1022-C-3-p4" marker="">
+              <content>• Your choice has expired or is about to expire.</content>
+            </paragraph>
+            <paragraph label="1022-C-3-p5" marker="">
+              <content>To renew your choice to limit marketing for [x] more years, contact us [include all that apply]:</content>
+              <paragraph label="1022-C-3-p5-i" marker="">
+                <content>• By telephone: 1-(877) ###-####</content>
+              </paragraph>
+              <paragraph label="1022-C-3-p5-ii" marker="">
+                <content>• On the Web: www.—.com</content>
+              </paragraph>
+              <paragraph label="1022-C-3-p5-iii" marker="">
+                <content>• By mail: Check the box and complete the form below, and send the form to:</content>
+                <paragraph label="1022-C-3-p5-iii-A" marker="">
+                  <content>[Company name]</content>
+                </paragraph>
+                <paragraph label="1022-C-3-p5-iii-B" marker="">
+                  <content>[Company address]</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1022-C-3-p6" marker="">
+              <content>Renew my choice to limit marketing for [x] more years.</content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="5" label="1022-C-p5">
+          <subject/>
+          <paragraph label="1022-C-4" marker="">
+            <title>C-4—Model Form for Renewal Notice (Joint Notice)—[Renewing Your Choice To Limit Marketing]/[Renewing Your Marketing Opt-Out]</title>
+            <content/>
+            <paragraph label="1022-C-4-p1" marker="">
+              <content>• The [ABC group of companies] is providing this notice.</content>
+            </paragraph>
+            <paragraph label="1022-C-4-p2" marker="">
+              <content>• [Optional: Federal law gives you the right to limit some but not all marketing from the [ABC] companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the [ABC] companies.]</content>
+            </paragraph>
+            <paragraph label="1022-C-4-p3" marker="">
+              <content>• You previously chose to limit the [ABC] companies, such as the [ABC credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that they receive from other ABC companies. This information includes your [income], your [account history], and your [credit score].</content>
+            </paragraph>
+            <paragraph label="1022-C-4-p4" marker="">
+              <content>• Your choice has expired or is about to expire.</content>
+            </paragraph>
+            <paragraph label="1022-C-4-p5" marker="">
+              <content>To renew your choice to limit marketing for [x] more years, contact us [include all that apply]:</content>
+              <paragraph label="1022-C-4-p5-i" marker="">
+                <content>• By telephone: 1-(877) ###-####</content>
+              </paragraph>
+              <paragraph label="1022-C-4-p5-ii" marker="">
+                <content>• On the Web: www.—.com</content>
+              </paragraph>
+              <paragraph label="1022-C-4-p5-iii" marker="">
+                <content>• By mail: Check the box and complete the form below, and send the form to:</content>
+                <paragraph label="1022-C-4-p5-iii-A" marker="">
+                  <content>[Company name]</content>
+                </paragraph>
+                <paragraph label="1022-C-4-p5-iii-B" marker="">
+                  <content>[Company address]</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1022-C-4-p6" marker="">
+              <content>Renew my choice to limit marketing for [x] more years.</content>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="6" label="1022-C-p6">
+          <subject/>
+          <paragraph label="1022-C-5" marker="">
+            <title>C-5—Model Form for Voluntary “No Marketing” Notice—[Your Choice To Stop Marketing]</title>
+            <content/>
+            <paragraph label="1022-C-5-p1" marker="">
+              <content>• [Name of Affiliate] is providing this notice.</content>
+            </paragraph>
+            <paragraph label="1022-C-5-p2" marker="">
+              <content>• You may choose to stop all marketing from us and our affiliates.</content>
+            </paragraph>
+            <paragraph label="1022-C-5-p3" marker="">
+              <content>• [Your choice to stop marketing from us and our affiliates will apply until you tell us to change your choice.]</content>
+            </paragraph>
+            <paragraph label="1022-C-5-p4" marker="">
+              <content>To stop all marketing, contact us [include all that apply]:</content>
+              <paragraph label="1022-C-5-p4-i" marker="">
+                <content>• By telephone: 1-(877) ###-####</content>
+              </paragraph>
+              <paragraph label="1022-C-5-p4-ii" marker="">
+                <content>• On the Web: www.—.com</content>
+              </paragraph>
+              <paragraph label="1022-C-5-p4-iii" marker="">
+                <content>• By mail: Check the box and complete the form below, and send the form to:</content>
+                <paragraph label="1022-C-5-p4-iii-A" marker="">
+                  <content>[Company name]</content>
+                </paragraph>
+                <paragraph label="1022-C-5-p4-iii-B" marker="">
+                  <content>[Company address]</content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1022-C-5-p5" marker="">
+              <content>Do not market to me.</content>
+            </paragraph>
+          </paragraph>
         </appendixSection>
       </appendix>
       <appendix appendixLetter="D" label="1022-D">
         <appendixTitle>Appendix D to Part 1022—Model Forms for Firm Offers of Credit or Insurance</appendixTitle>
         <appendixSection appendixSecNum="1" label="1022-D-p1">
           <subject/>
-          <paragraph marker="">
-            <content> </content>
+          <paragraph label="1022-D-1" marker="">
+            <content>In order to comply with § 1022.54, the following model notices may be used:</content>
+            <paragraph label="1022-D-1-a" marker="(a)">
+              <title>English language model notice.</title>
+              <content/>
+              <paragraph label="1022-D-1-a-1" marker="(1)">
+                <title>Short notice.</title>
+                <content/>
+                <paragraph label="1022-D-1-a-1-p1" marker="">
+                  <content>
+                    <graphic>
+                      <altText/>
+                      <text>![](ER21DE11.000)</text>
+                      <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.000/original.gif</url>
+                    </graphic>
+                  </content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1022-D-1-a-2" marker="(2)">
+                <title>Long notice.</title>
+                <content/>
+                <paragraph label="1022-D-1-a-2-p1" marker="">
+                  <content>
+                    <graphic>
+                      <altText/>
+                      <text>![](ER21DE11.001)</text>
+                      <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.001/original.gif</url>
+                    </graphic>
+                  </content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1022-D-1-b" marker="(b)">
+              <title>Spanish language model notice</title>
+              <content/>
+              <paragraph label="1022-D-1-b-1" marker="(1)">
+                <title>Short notice.</title>
+                <content/>
+                <paragraph label="1022-D-1-b-1-p1" marker="">
+                  <content>
+                    <graphic>
+                      <altText/>
+                      <text>![](ER21DE11.002)</text>
+                      <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.002/original.gif</url>
+                    </graphic>
+                  </content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1022-D-1-b-2" marker="(2)">
+                <title>Long notice.</title>
+                <content/>
+                <paragraph label="1022-D-1-b-2-p1" marker="">
+                  <content>
+                    <graphic>
+                      <altText/>
+                      <text>![](ER21DE11.003)</text>
+                      <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.003/original.gif</url>
+                    </graphic>
+                  </content>
+                </paragraph>
+              </paragraph>
+            </paragraph>
           </paragraph>
         </appendixSection>
       </appendix>
@@ -3301,7 +3584,144 @@ that you receive from an affiliate to make a solicitation for marketing purposes
         <appendixSection appendixSecNum="1" label="1022-E-p1">
           <subject/>
           <paragraph marker="">
-            <content> </content>
+            <content>The Bureau encourages voluntary furnishing of information to consumer reporting agencies. Section 1022.42 of this part requires each furnisher to establish and implement reasonable written policies and procedures concerning the accuracy and integrity of the information it furnishes to consumer reporting agencies. Under § 1022.42(b) of this part, a furnisher must consider the guidelines set forth below in developing its policies and procedures. In establishing these policies and procedures, a furnisher may include any of its existing policies and procedures that are relevant and appropriate. Section 1022.42(c) requires each furnisher to review its policies and procedures periodically and update them as necessary to ensure their continued effectiveness.</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="2" label="1022-E-p2">
+          <subject>I. Nature, Scope, and Objectives of Policies and Procedures</subject>
+          <paragraph label="1022-E-p2-a" marker="(a)">
+            <title>Nature and Scope.</title>
+            <content>Section 1022.42(a) of this part requires that a furnisher's policies and procedures be appropriate to the nature, size, complexity, and scope of the furnisher's activities. In developing its policies and procedures, a furnisher should consider, for example:</content>
+            <paragraph label="1022-E-p2-a-1" marker="(1)">
+              <content>The types of business activities in which the furnisher engages;</content>
+            </paragraph>
+            <paragraph label="1022-E-p2-a-2" marker="(2)">
+              <content>The nature and frequency of the information the furnisher provides to consumer reporting agencies; and</content>
+            </paragraph>
+            <paragraph label="1022-E-p2-a-3" marker="(3)">
+              <content>The technology used by the furnisher to furnish information to consumer reporting agencies.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1022-E-p2-b" marker="(b)">
+            <title>Objectives.</title>
+            <content>A furnisher's policies and procedures should be reasonably designed to promote the following objectives:</content>
+            <paragraph label="1022-E-p2-b-1" marker="(1)">
+              <content>To furnish information about accounts or other relationships with a consumer that is accurate, such that the furnished information:</content>
+              <paragraph label="1022-E-p2-b-1-i" marker="(i)">
+                <content>Identifies the appropriate consumer;</content>
+              </paragraph>
+              <paragraph label="1022-E-p2-b-1-ii" marker="(ii)">
+                <content>Reflects the terms of and liability for those accounts or other relationships; and</content>
+              </paragraph>
+              <paragraph label="1022-E-p2-b-1-iii" marker="(iii)">
+                <content>Reflects the consumer's performance and other conduct with respect to the account or other relationship;</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1022-E-p2-b-2" marker="(2)">
+              <content>To furnish information about accounts or other relationships with a consumer that has integrity, such that the furnished information:</content>
+              <paragraph label="1022-E-p2-b-2-i" marker="(i)">
+                <content>Is substantiated by the furnisher's records at the time it is furnished;</content>
+              </paragraph>
+              <paragraph label="1022-E-p2-b-2-ii" marker="(ii)">
+                <content>Is furnished in a form and manner that is designed to minimize the likelihood that the information may be incorrectly reflected in a consumer report; thus, the furnished information should:</content>
+                <paragraph label="1022-E-p2-b-2-ii-A" marker="(A)">
+                  <content>Include appropriate identifying information about the consumer to whom it pertains; and</content>
+                </paragraph>
+                <paragraph label="1022-E-p2-b-2-ii-B" marker="(B)">
+                  <content>Be furnished in a standardized and clearly understandable form and manner and with a date specifying the time period to which the information pertains; and</content>
+                </paragraph>
+              </paragraph>
+              <paragraph label="1022-E-p2-2-4-iii" marker="(iii)">
+                <content>Includes the credit limit, if applicable and in the furnisher's possession;</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1022-E-p2-b-3" marker="(3)">
+              <content>To conduct reasonable investigations of consumer disputes and take appropriate actions based on the outcome of such investigations; and</content>
+            </paragraph>
+            <paragraph label="1022-E-p2-b-4" marker="(4)">
+              <content>To update the information it furnishes as necessary to reflect the current status of the consumer's account or other relationship, including, for example:</content>
+              <paragraph label="1022-E-p2-b-4-i" marker="(i)">
+                <content>Any transfer of an account (e.g., by sale or assignment for collection) to a third party; and</content>
+              </paragraph>
+              <paragraph label="1022-E-p2-b-4-ii" marker="(ii)">
+                <content>Any cure of the consumer's failure to abide by the terms of the account or other relationship.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="3" label="1022-E-p3">
+          <subject>II. Establishing and Implementing Policies and Procedures</subject>
+          <paragraph marker="">
+            <content>In establishing and implementing its policies and procedures, a furnisher should:</content>
+          </paragraph>
+          <paragraph label="1022-E-p3-a" marker="(a)">
+            <content>Identify practices or activities of the furnisher that can compromise the accuracy or integrity of information furnished to consumer reporting agencies, such as by:</content>
+            <paragraph label="1022-E-p3-a-1" marker="(1)">
+              <content>Reviewing its existing practices and activities, including the technological means and other methods it uses to furnish information to consumer reporting agencies and the frequency and timing of its furnishing of information;</content>
+            </paragraph>
+            <paragraph label="1022-E-p3-a-2" marker="(2)">
+              <content>Reviewing its historical records relating to accuracy or integrity or to disputes; reviewing other information relating to the accuracy or integrity of information provided by the furnisher to consumer reporting agencies; and considering the types of errors, omissions, or other problems that may have affected the accuracy or integrity of information it has furnished about consumers to consumer reporting agencies;</content>
+            </paragraph>
+            <paragraph label="1022-E-p3-a-3" marker="(3)">
+              <content>Considering any feedback received from consumer reporting agencies, consumers, or other appropriate parties;</content>
+            </paragraph>
+            <paragraph label="1022-E-p3-a-4" marker="(4)">
+              <content>Obtaining feedback from the furnisher's staff; and</content>
+            </paragraph>
+            <paragraph label="1022-E-p3-a-5" marker="(5)">
+              <content>Considering the potential impact of the furnisher's policies and procedures on consumers.</content>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1022-E-p3-b" marker="(b)">
+            <content>Evaluate the effectiveness of existing policies and procedures of the furnisher regarding the accuracy and integrity of information furnished to consumer reporting agencies; consider whether new, additional, or different policies and procedures are necessary; and consider whether implementation of existing policies and procedures should be modified to enhance the accuracy and integrity of information about consumers furnished to consumer reporting agencies.</content>
+          </paragraph>
+          <paragraph label="1022-E-p3-c" marker="(c)">
+            <content>Evaluate the effectiveness of specific methods (including technological means) the furnisher uses to provide information to consumer reporting agencies; how those methods may affect the accuracy and integrity of the information it provides to consumer reporting agencies; and whether new, additional, or different methods (including technological means) should be used to provide information to consumer reporting agencies to enhance the accuracy and integrity of that information.</content>
+          </paragraph>
+        </appendixSection>
+        <appendixSection appendixSecNum="4" label="1022-E-p4">
+          <subject>III. Specific Components of Policies and Procedures</subject>
+          <paragraph marker="">
+            <content>In developing its policies and procedures, a furnisher should address the following, as appropriate:</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-a" marker="(a)">
+            <content>Establishing and implementing a system for furnishing information about consumers to consumer reporting agencies that is appropriate to the nature, size, complexity, and scope of the furnisher's business operations.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-b" marker="(b)">
+            <content>Using standard data reporting formats and standard procedures for compiling and furnishing data, where feasible, such as the electronic transmission of information about consumers to consumer reporting agencies.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-c" marker="(c)">
+            <content>Maintaining records for a reasonable period of time, not less than any applicable recordkeeping requirement, in order to substantiate the accuracy of any information about consumers it furnishes that is subject to a direct dispute.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-d" marker="(d)">
+            <content>Establishing and implementing appropriate internal controls regarding the accuracy and integrity of information about consumers furnished to consumer reporting agencies, such as by implementing standard procedures and verifying random samples of information provided to consumer reporting agencies.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-e" marker="(e)">
+            <content>Training staff that participates in activities related to the furnishing of information about consumers to consumer reporting agencies to implement the policies and procedures.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-f" marker="(f)">
+            <content>Providing for appropriate and effective oversight of relevant service providers whose activities may affect the accuracy or integrity of information about consumers furnished to consumer reporting agencies to ensure compliance with the policies and procedures.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-g" marker="(g)">
+            <content>Furnishing information about consumers to consumer reporting agencies following mergers, portfolio acquisitions or sales, or other acquisitions or transfers of accounts or other obligations in a manner that prevents re-aging of information, duplicative reporting, or other problems that may similarly affect the accuracy or integrity of the information furnished.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-h" marker="(h)">
+            <content>Deleting, updating, and correcting information in the furnisher's records, as appropriate, to avoid furnishing inaccurate information.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-i" marker="(i)">
+            <content>Conducting reasonable investigations of disputes.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-j" marker="(j)">
+            <content>Designing technological and other means of communication with consumer reporting agencies to prevent duplicative reporting of accounts, erroneous association of information with the wrong consumer(s), and other occurrences that may compromise the accuracy or integrity of information provided to consumer reporting agencies.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-k" marker="(k)">
+            <content>Providing consumer reporting agencies with sufficient identifying information in the furnisher's possession about each consumer about whom information is furnished to enable the consumer reporting agency properly to identify the consumer.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-l" marker="(l)">
+            <content>Conducting a periodic evaluation of its own practices, consumer reporting agency practices of which the furnisher is aware, investigations of disputed information, corrections of inaccurate information, means of communication, and other factors that may affect the accuracy or integrity of information furnished to consumer reporting agencies.</content>
+          </paragraph>
+          <paragraph label="1022-E-p4-m" marker="(m)">
+            <content>Complying with applicable requirements under the FCRA and its implementing regulations.</content>
           </paragraph>
         </appendixSection>
       </appendix>
@@ -3327,8 +3747,201 @@ that you receive from an affiliate to make a solicitation for marketing purposes
         <appendixTitle>Appendix H to Part 1022—Model Forms for Risk-Based Pricing and Credit Score Disclosure Exception Notices</appendixTitle>
         <appendixSection appendixSecNum="1" label="1022-H-p1">
           <subject/>
-          <paragraph marker="">
-            <content> </content>
+          <paragraph label="1022-H-p1-1" marker="1.">
+            <content>This appendix contains four model forms for risk-based pricing notices and three model forms for use in connection with the credit score disclosure exceptions. Each of the model forms is designated for use in a particular set of circumstances as indicated by the title of that model form.</content>
+          </paragraph>
+          <paragraph label="1022-H-p1-2" marker="2.">
+            <content>Model form H-1 is for use in complying with the general risk-based pricing notice requirements in Sec. 1022.72 if a credit score is not used in setting the material terms of credit. Model form H-2 is for risk-based pricing notices given in connection with account review if a credit score is not used in increasing the annual percentage rate. Model form H-3 is for use in connection with the credit score disclosure exception for loans secured by residential real property. Model form H-4 is for use in connection with the credit score disclosure exception for loans that are not secured by residential real property. Model form H-5 is for use in connection with the credit score disclosure exception when no credit score is available for a consumer. Model form H-6 is for use in complying with the general risk-based pricing notice requirements in Sec. 1022.72 if a credit score is used in setting the material terms of credit. Model form H-7 is for risk-based pricing notices given in connection with account review if a credit score is used in increasing the annual percentage rate. All forms contained in this appendix are models; their use is optional.</content>
+          </paragraph>
+          <paragraph label="1022-H-p1-3" marker="3.">
+            <content>A person may change the forms by rearranging the format or by making technical modifications to the language of the forms, in each case without modifying the substance of the disclosures. Any such rearrangement or modification of the language of the model forms may not be so extensive as to materially affect the substance, clarity, comprehensibility, or meaningful sequence of the forms. Persons making revisions with that effect will lose the benefit of the safe harbor for appropriate use of Appendix H model forms. A person is not required to conduct consumer testing when rearranging the format of the model forms.</content>
+            <paragraph label="1022-H-p1-3-a" marker="a.">
+              <content>Acceptable changes include, for example:</content>
+              <paragraph label="1022-H-p1-3-a-i" marker="i.">
+                <content>Corrections or updates to telephone numbers, mailing addresses, or Web site addresses that may change over time.</content>
+              </paragraph>
+              <paragraph label="1022-H-p1-3-a-ii" marker="ii.">
+                <content>The addition of graphics or icons, such as the person's corporate logo.</content>
+              </paragraph>
+              <paragraph label="1022-H-p1-3-a-iii" marker="iii.">
+                <content>Alteration of the shading or color contained in the model forms.</content>
+              </paragraph>
+              <paragraph label="1022-H-p1-3-a-iv" marker="iv.">
+                <content>Use of a different form of graphical presentation to depict the distribution of credit scores.</content>
+              </paragraph>
+              <paragraph label="1022-H-p1-3-a-v" marker="v.">
+                <content>Substitution of the words “credit” and “creditor” or “finance” and “finance company” for the terms “loan” and “lender.”</content>
+              </paragraph>
+              <paragraph label="1022-H-p1-3-a-vi" marker="vi.">
+                <content>Including pre-printed lists of the sources of consumer reports or consumer reporting agencies in a “check-the-box” format.</content>
+              </paragraph>
+              <paragraph label="1022-H-p1-3-a-vii" marker="vii.">
+                <content>Including the name of the consumer, transaction identification numbers, a date, and other information that will assist in identifying the transaction to which the form pertains.</content>
+              </paragraph>
+              <paragraph label="1022-H-p1-3-a-viii" marker="viii.">
+                <content>Including the name of an agent, such as an auto dealer or other party, when providing the “Name of the Entity Providing the Notice.”</content>
+              </paragraph>
+              <paragraph label="1022-H-p1-3-a-ix" marker="ix.">
+                <content>Until January 1, 2013, substituting “For more information about credit reports and your rights under Federal law, visit the Federal Reserve Board's Web site at www.federalreserve.gov, or the Federal Trade Commission's Web site at www.ftc.gov.” for “For more information about credit reports and your rights under Federal law, visit the Consumer Financial Protection Bureau's Web site at www.consumerfinance.gov/learnmore.”</content>
+              </paragraph>
+            </paragraph>
+            <paragraph label="1022-H-p1-3-b" marker="b.">
+              <content>Unacceptable changes include, for example:</content>
+              <paragraph label="1022-H-p1-3-b-i" marker="i.">
+                <content>Providing model forms on register receipts or interspersed with other disclosures.</content>
+              </paragraph>
+              <paragraph label="1022-H-p1-3-b-ii" marker="ii.">
+                <content>Eliminating empty lines and extra spaces between sentences within the same section.</content>
+              </paragraph>
+            </paragraph>
+          </paragraph>
+          <paragraph label="1022-H-p1-4" marker="4.">
+            <content>If a person uses an appropriate Appendix H model form, or modifies a form in accordance with the above instructions, that person shall be deemed to be acting in compliance with the provisions of § 1022.73 or § 1022.74, as applicable, of this part. It is intended that appropriate use of Model Form H-3 also will comply with the disclosure that may be required under section 609(g) of the FCRA. Optional language in model forms H-6 and H-7 may be used to direct the consumer to the entity (which may be a consumer reporting agency or the creditor itself, for a proprietary score that meets the definition of a credit score) that provided the credit score for any questions about the credit score, along with the entity's contact information. Creditors may use or not use the additional language without losing the safe harbor, since the language is optional.</content>
+          </paragraph>
+          <paragraph label="1022-H-1" marker="">
+            <title>H-1 Model form for risk-based pricing notice.</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-H-2" marker="">
+            <title>H-2 Model form for account review risk-based pricing notice</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-H-3" marker="">
+            <title>H-3 Model form for credit score disclosure exception for credit secured by one to four units of residential real property.</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-H-4" marker="">
+            <title>H-4 Model form for credit score disclosure exception for loans not secured by residential real property.</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-H-5" marker="">
+            <title>H-5 Model form for credit score disclosure exception for loans where credit score is not available.</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-H-6" marker="">
+            <title>H-6 Model form for risk-based pricing notice with credit score information.</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-H-7" marker="">
+            <title>H-7 Model form for account review risk-based pricing notice with credit score information.</title>
+            <content/>
+          </paragraph>
+          <paragraph label="1022-H-8" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.004)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.004/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-9" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.005)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.005/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-10" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.006)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.006/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-11" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.007)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.007/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-12" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.008)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.008/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-13" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.009)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.009/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-14" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.010)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.010/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-15" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.011)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.011/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-16" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.012)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.012/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-17" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.013)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.013/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-18" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.014)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.014/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-19" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.015)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.015/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-H-20" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.016)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.016/original.gif</url>
+              </graphic>
+            </content>
           </paragraph>
         </appendixSection>
       </appendix>
@@ -3336,8 +3949,26 @@ that you receive from an affiliate to make a solicitation for marketing purposes
         <appendixTitle>Appendix I to Part 1022—Summary of Consumer Identity Theft Rights</appendixTitle>
         <appendixSection appendixSecNum="1" label="1022-I-p1">
           <subject/>
-          <paragraph marker="">
-            <content> </content>
+          <paragraph label="1022-I-1" marker="">
+            <content>The prescribed form for this summary is a disclosure that is substantially similar to the Bureau's model summary with all information clearly and prominently displayed. A summary should accurately reflect changes to those items that may change over time (such as telephone numbers) to remain in compliance. Translations of this summary will be in compliance with the Bureau's prescribed model, provided that the translation is accurate and that it is provided in a language used by the recipient consumer.</content>
+          </paragraph>
+          <paragraph label="1022-I-2" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.017)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.017/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-I-3" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.018)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.018/original.gif</url>
+              </graphic>
+            </content>
           </paragraph>
         </appendixSection>
       </appendix>
@@ -3354,8 +3985,35 @@ that you receive from an affiliate to make a solicitation for marketing purposes
         <appendixTitle>Appendix K to Part 1022—Summary of Consumer Rights</appendixTitle>
         <appendixSection appendixSecNum="1" label="1022-K-p1">
           <subject/>
-          <paragraph marker="">
-            <content> </content>
+          <paragraph label="1022-K-1" marker="">
+            <content>The prescribed form for this summary is a disclosure that is substantially similar to the Bureau's model summary with all information clearly and prominently displayed. The list of Federal regulators that is included in the Bureau's prescribed summary may be provided separately so long as this is done in a clear and conspicuous way. A summary should accurately reflect changes to those items that may change over time (e.g., dollar amounts, or telephone numbers and addresses of Federal agencies) to remain in compliance. Translations of this summary will be in compliance with the Bureau's prescribed model, provided that the translation is accurate and that it is provided in a language used by the recipient consumer.</content>
+          </paragraph>
+          <paragraph label="1022-K-2" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.019)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.019/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-K-3" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.020)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.020/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-K-4" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.021)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.021/original.gif</url>
+              </graphic>
+            </content>
           </paragraph>
         </appendixSection>
       </appendix>
@@ -3363,8 +4021,23 @@ that you receive from an affiliate to make a solicitation for marketing purposes
         <appendixTitle>Appendix L to Part 1022—Standardized Form for Requesting Annual File Disclosures</appendixTitle>
         <appendixSection appendixSecNum="1" label="1022-L-p1">
           <subject/>
-          <paragraph marker="">
-            <content> </content>
+          <paragraph label="1022-L-1" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.022)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.022/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-L-2" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.023)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.023/original.gif</url>
+              </graphic>
+            </content>
           </paragraph>
         </appendixSection>
       </appendix>
@@ -3372,8 +4045,35 @@ that you receive from an affiliate to make a solicitation for marketing purposes
         <appendixTitle>Appendix M to Part 1022—Notice of Furnisher Responsibilities</appendixTitle>
         <appendixSection appendixSecNum="1" label="1022-M-p1">
           <subject/>
-          <paragraph marker="">
-            <content> </content>
+          <paragraph label="1022-M-1" marker="">
+            <content>The prescribed form for this disclosure is a separate document that is substantially similar to the Bureau's model notice with all information clearly and prominently displayed. Consumer reporting agencies may limit the disclosure to only those items that they know are relevant to the furnisher that will receive the notice.</content>
+          </paragraph>
+          <paragraph label="1022-M-2" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.024)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.024/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-M-3" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.025)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.025/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-M-4" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.026)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.026/original.gif</url>
+              </graphic>
+            </content>
           </paragraph>
         </appendixSection>
       </appendix>
@@ -3381,10 +4081,82 @@ that you receive from an affiliate to make a solicitation for marketing purposes
         <appendixTitle>Appendix N to Part 1022—Notice of User Responsibilities</appendixTitle>
         <appendixSection appendixSecNum="1" label="1022-N-p1">
           <subject/>
-          <paragraph marker="">
-            <content> </content>
+          <paragraph label="1022-N-1" marker="">
+            <content>The prescribed form for this disclosure is a separate document that is substantially similar to the Bureau's notice with all information clearly and prominently displayed. Consumer reporting agencies may limit the disclosure to only those items that they know are relevant to the user that will receive the notice.</content>
           </paragraph>
-        </appendixSection>
+          <paragraph label="1022-N-2" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.027)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.027/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+           <paragraph label="1022-N-3" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.028)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.028/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-N-4" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.029)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.029/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+           <paragraph label="1022-N-5" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.030)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.030/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-N-6" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.031)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.031/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+           <paragraph label="1022-N-7" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.032)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.032/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+          <paragraph label="1022-N-8" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.033)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.033/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+           <paragraph label="1022-N-9" marker="">
+            <content>
+              <graphic>
+                <altText/>
+                <text>![](ER21DE11.034)</text>
+                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.034/original.gif</url>
+              </graphic>
+            </content>
+          </paragraph>
+       </appendixSection>
       </appendix>
     </content>
   </part>
