@@ -70,11 +70,11 @@
           <section label="1071-100" sectionNum="100">
             <subject>§ 1071.100 Purpose.</subject>
             <paragraph label="1071-100-a" marker="(a)">
-              <title type="keyterm">In general.</title>
+              <title>In general.</title>
               <content>The Equal Access to Justice Act (<ref target="USC:12-1071" reftype="external">the Act</ref>), <ref target="USC:5-504" reftype="external">5 U.S.C. 504</ref>, provides for the award of attorney fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings (adversary adjudications) before the Bureau of Consumer Financial Protection (the Bureau). An eligible party may receive an award when it prevails over the Bureau, unless the Bureau's position in the proceeding was substantially justified or special circumstances make an award unjust. This part describes the parties eligible for awards and the proceedings that are covered. This part also explains how to apply for awards, and the procedures and standards that the Bureau will use in ruling on those applications.</content>
             </paragraph>
             <paragraph label="1071-100-b" marker="(b)">
-              <title type="keyterm">When an eligible party will receive an award.</title>
+              <title>When an eligible party will receive an award.</title>
               <content>An eligible party will receive an award when:</content>
               <paragraph label="1071-100-b-1" marker="(1)">
                 <content>It prevails in the adversary adjudication, unless the Bureau's position in the proceeding was substantially justified or special circumstances make an award unjust. Whether or not the position of the Bureau was substantially justified will be determined on the basis of the administrative record as a whole that is made in the adversary proceeding for which fees and other expenses are sought; or</content>
@@ -284,7 +284,7 @@
               <content>If review or reconsideration is sought or taken of a decision, proceedings for the award of fees shall be stayed pending <ref target="1071-203-c" reftype="term">final disposition</ref> of the underlying controversy.</content>
             </paragraph>
             <paragraph label="1071-203-c" marker="(c)">
-              <content>(c) For purposes of this subpart, final disposition means the later of<def term="final disposition"/> For purposes of this subpart, final disposition means the later of—</content>
+              <content>For purposes of this subpart, <def term="final disposition">final disposition</def> means the later of:</content>
               <paragraph label="1071-203-c-1" marker="(1)">
                 <content>The date that the Director's final order issued pursuant to § 1081.405 is final and unappealable, both within the agency and to the courts; or</content>
               </paragraph>
