@@ -165,17 +165,17 @@
           <section label="1081-103" sectionNum="103">
             <subject>§ 1081.103 Definitions.</subject>
             <paragraph label="1081-103-p1" marker="">
-              <content>For the purposes of this part, unless explicitly stated to the contrary: Dodd-Frank Act means the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Public Law 111-203 (July 21, 2010). Adjudication proceeding means a proceeding conducted pursuant to section 1053 of the Dodd-Frank Act and intended to lead to the formulation of a final order other than a temporary order to cease and desist issued pursuant to section 1053(c) of the Dodd-Frank Act. Bureau means the Bureau of Consumer Financial Protection. Chief hearing officer means the hearing officer charged with assigning hearing officers to specific proceedings, in the event there is more than one hearing officer available to the Bureau. Counsel means any person representing a party pursuant to § 1081.107. Decisional employee means any employee of the Bureau who has not engaged in an investigative or prosecutorial role in a proceeding and who may assist the Director or the hearing officer, respectively, in preparing orders, recommended decisions, decisions, and other documents under this part. Director means the Director of the Bureau or a person authorized to perform the functions of the Director in accordance with the law. Enforcement counsel means any individual who files a notice of appearance as counsel on behalf of the Bureau in an adjudication proceeding. Final order means an order issued by the Bureau with or without the consent of the respondent, which has become final, without regard to the pendency of any petition for reconsideration or review. General Counsel means the General Counsel of the Bureau or any Bureau employee to whom the General Counsel has delegated authority to act under this part. Hearing officer means an administrative law judge or any other person duly authorized to preside at a hearing. Notice of charges means the pleading that commences an adjudication proceeding, as described in § 1081.200, except that it does not include a stipulation and consent order under § 1081.200(d). Office of Administrative Adjudication means the office of the Bureau responsible for conducting adjudication proceedings. Office of Enforcement means the office of the Bureau responsible for enforcement of Federal consumer financial law. Party means the Bureau, any person named as a party in any notice of charges issued pursuant to this part, and, to the extent applicable, any person who intervenes in the proceeding pursuant to § 1081.119(a) to seek a protective order. Person means an individual, partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity. Person employed by the Bureau means Bureau employees, contractors, agents, and others acting for or on behalf of the Bureau, or at its direction, including consulting experts. Respondent means the party named in the notice of charges. State means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under section 104(a) of the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a-1(a).</content>
+              <content>For the purposes of this part, unless explicitly stated to the contrary: <def term="dodd-frank act">Dodd-Frank Act</def> means the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Public Law 111-203 (July 21, 2010). Adjudication proceeding means a proceeding conducted pursuant to section 1053 of the Dodd-Frank Act and intended to lead to the formulation of a final order other than a temporary order to cease and desist issued pursuant to section 1053(c) of the Dodd-Frank Act. Bureau means the Bureau of Consumer Financial Protection. Chief hearing officer means the hearing officer charged with assigning hearing officers to specific proceedings, in the event there is more than one hearing officer available to the Bureau. Counsel means any person representing a party pursuant to § 1081.107. Decisional employee means any employee of the Bureau who has not engaged in an investigative or prosecutorial role in a proceeding and who may assist the Director or the hearing officer, respectively, in preparing orders, recommended decisions, decisions, and other documents under this part. Director means the Director of the Bureau or a person authorized to perform the functions of the Director in accordance with the law. Enforcement counsel means any individual who files a notice of appearance as counsel on behalf of the Bureau in an adjudication proceeding. Final order means an order issued by the Bureau with or without the consent of the respondent, which has become final, without regard to the pendency of any petition for reconsideration or review. General Counsel means the General Counsel of the Bureau or any Bureau employee to whom the General Counsel has delegated authority to act under this part. Hearing officer means an administrative law judge or any other person duly authorized to preside at a hearing. Notice of charges means the pleading that commences an adjudication proceeding, as described in § 1081.200, except that it does not include a stipulation and consent order under § 1081.200(d). Office of Administrative Adjudication means the office of the Bureau responsible for conducting adjudication proceedings. Office of Enforcement means the office of the Bureau responsible for enforcement of Federal consumer financial law. Party means the Bureau, any person named as a party in any notice of charges issued pursuant to this part, and, to the extent applicable, any person who intervenes in the proceeding pursuant to § 1081.119(a) to seek a protective order. Person means an individual, partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity. Person employed by the Bureau means Bureau employees, contractors, agents, and others acting for or on behalf of the Bureau, or at its direction, including consulting experts. Respondent means the party named in the notice of charges. State means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under section 104(a) of the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a-1(a).</content>
             </paragraph>
           </section>
           <section label="1081-104" sectionNum="104">
             <subject>§ 1081.104 Authority of the hearing officer.</subject>
             <paragraph label="1081-104-a" marker="(a)">
-              <title type="keyterm">General Rule.</title>
+              <title>General Rule.</title>
               <content>The hearing officer shall have all powers necessary to conduct a proceeding in a fair and impartial manner and to avoid unnecessary delay. No provision of this part shall be construed to limit the powers of the hearing officers provided by the Administrative Procedure Act, <ref target="USC:5-556" reftype="external">5 U.S.C. 556</ref>, 557.</content>
             </paragraph>
             <paragraph label="1081-104-b" marker="(b)">
-              <title type="keyterm">Powers.</title>
+              <title>Powers.</title>
               <content>The powers of the hearing officer include but are not limited to the power:</content>
               <paragraph label="1081-104-b-1" marker="(1)">
                 <content>To administer oaths and affirmations;</content>
@@ -224,15 +224,15 @@
           <section label="1081-105" sectionNum="105">
             <subject>§ 1081.105 Assignment, substitution, performance, disqualification of hearing officer.</subject>
             <paragraph label="1081-105-a" marker="(a)">
-              <title type="keyterm">How assigned.</title>
+              <title>How assigned.</title>
               <content>In the event that more than one hearing officer is available to the Bureau for the conduct of proceedings under this part, the presiding hearing officer shall be designated by the chief hearing officer, who shall notify the parties of the hearing officer designated.</content>
             </paragraph>
             <paragraph label="1081-105-b" marker="(b)">
-              <title type="keyterm">Interference.</title>
+              <title>Interference.</title>
               <content>Hearing officers shall not be subject to the supervision or direction of, or responsible to, any officer, employee, or agent engaged in the performance of investigative or prosecuting functions for the Bureau, and all direction by the Bureau to the hearing officer concerning any adjudication proceedings shall appear in and be made part of the record.</content>
             </paragraph>
             <paragraph label="1081-105-c" marker="(c)">
-              <title type="keyterm">Disqualification of hearing officers.</title>
+              <title>Disqualification of hearing officers.</title>
               <content/>
               <paragraph label="1081-105-c-1" marker="(1)">
                 <content>When a hearing officer deems himself or herself disqualified to preside in a particular proceeding, he or she shall issue a notice stating that he or she is withdrawing from the matter and setting forth the reasons therefore.</content>
@@ -242,7 +242,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-105-d" marker="(d)">
-              <title type="keyterm">Unavailability of hearing officer.</title>
+              <title>Unavailability of hearing officer.</title>
               <content>In the event that the hearing officer withdraws or is otherwise unable to perform the duties of the hearing officer, the chief hearing officer or the Director shall designate another hearing officer to serve.</content>
             </paragraph>
           </section>
@@ -255,14 +255,14 @@
           <section label="1081-107" sectionNum="107">
             <subject>§ 1081.107 Appearance and practice in adjudication proceedings.</subject>
             <paragraph label="1081-107-a" marker="(a)">
-              <title type="keyterm">Appearance before the Bureau or a hearing officer</title>
-              <content>—</content>
+              <title>Appearance before the Bureau or a hearing officer</title>
+              <content/>
               <paragraph label="1081-107-a-1" marker="(1)">
-                <title type="keyterm">By attorneys.</title>
+                <title>By attorneys.</title>
                 <content>Any member in good standing of the bar of the highest court of any State may represent others before the Bureau if such attorney is not currently suspended or debarred from practice before the Bureau or by a court of the United States or of any State.</content>
               </paragraph>
               <paragraph label="1081-107-a-2" marker="(2)">
-                <title type="keyterm">By non-attorneys.</title>
+                <title>By non-attorneys.</title>
                 <content>So long as such individual is not currently suspended or debarred from practice before the Bureau:</content>
                 <paragraph label="1081-107-a-2-i" marker="(i)">
                   <content>An individual may appear on his or her own behalf;</content>
@@ -278,16 +278,16 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1081-107-a-3" marker="(3)">
-                <title type="keyterm">Notice of appearance.</title>
+                <title>Notice of appearance.</title>
                 <content>Any individual acting as counsel on behalf of a party, including the Bureau, shall file a notice of appearance at or before the time that the individual submits papers or otherwise appears on behalf of a party in the adjudication proceeding. The notice of appearance must include a written declaration that the individual is currently qualified as provided in paragraph <ref target="1081-107-a-1" reftype="internal">(a)(1)</ref> or <ref target="1081-107-a-2" reftype="internal">(a)(2)</ref> of this section and is authorized to represent the particular party, and if applicable, must include the attorney's jurisdiction of admission or qualification, attorney identification number, and a statement by the appearing attorney attesting to his or her good standing within the legal profession. By filing a notice of appearance on behalf of a party in an adjudication proceeding, the counsel agrees and represents that he or she is authorized to accept service on behalf of the represented party and that, in the event of withdrawal from representation, he or she will, if required by the hearing officer, continue to accept service until a new counsel has filed a notice of appearance or until the represented party indicates that he or she will proceed on a pro se basis. The notice of appearance shall provide the representative's email address, telephone number and business address and, if different from the representative's addresses, electronic or other address at which the represented party may be served.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1081-107-b" marker="(b)">
-              <title type="keyterm">Sanctions.</title>
+              <title>Sanctions.</title>
               <content>Dilatory, obstructionist, egregious, contemptuous or contumacious conduct at any phase of any adjudication proceeding may be grounds for exclusion or suspension of counsel from the proceeding. An order imposing a sanction must describe the sanctioned conduct and explain the basis for the sanction.</content>
             </paragraph>
             <paragraph label="1081-107-c" marker="(c)">
-              <title type="keyterm">Standards of conduct; disbarment.</title>
+              <title>Standards of conduct; disbarment.</title>
               <content/>
               <paragraph label="1081-107-c-1" marker="(1)">
                 <content>All attorneys practicing before the Bureau shall conform to the standards of ethical conduct required by the bars of which the attorneys are members.</content>
@@ -300,11 +300,11 @@
           <section label="1081-108" sectionNum="108">
             <subject>§ 1081.108 Good faith certification.</subject>
             <paragraph label="1081-108-a" marker="(a)">
-              <title type="keyterm">General requirement.</title>
+              <title>General requirement.</title>
               <content>Every filing or submission of record following the issuance of a notice of charges shall be signed by at least one counsel of record in his or her individual name and shall state counsel's address, email address, and telephone number. A party who acts as his or her own counsel shall sign his or her individual name and state his or her address, email address, and telephone number on every filing or submission of record. Papers filed by electronic transmission may be signed with an “/s/” notation, which shall be deemed the signature of the party or representative whose name appears below the signature line.</content>
             </paragraph>
             <paragraph label="1081-108-b" marker="(b)">
-              <title type="keyterm">Effect of signature.</title>
+              <title>Effect of signature.</title>
               <content/>
               <paragraph label="1081-108-b-1" marker="(1)">
                 <content>The signature of counsel or a party shall constitute a certification that: the counsel or party has read the filing or submission of record; to the best of his or her knowledge, information, and belief formed after reasonable inquiry, the filing or submission of record is well-grounded in fact and is warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law; and the filing or submission of record is not made for any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation.</content>
@@ -314,22 +314,22 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-108-c" marker="(c)">
-              <title type="keyterm">Effect of making oral motion or argument.</title>
+              <title>Effect of making oral motion or argument.</title>
               <content>The act of making any oral motion or oral argument by any counsel or party constitutes a certification that to the best of his or her knowledge, information, and belief formed after reasonable inquiry, his or her statements are well-grounded in fact and are warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law, and are not made for any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation.</content>
             </paragraph>
             <paragraph label="1081-108-d" marker="(d)">
-              <title type="keyterm">Sanctions.</title>
+              <title>Sanctions.</title>
               <content>Counsel or a party that fails to abide by the requirements of this section may be subject to sanctions pursuant to § 1081.104(b)(13).</content>
             </paragraph>
           </section>
           <section label="1081-109" sectionNum="109">
             <subject>§ 1081.109 Conflict of interest.</subject>
             <paragraph label="1081-109-a" marker="(a)">
-              <title type="keyterm">Conflict of interest in representation.</title>
+              <title>Conflict of interest in representation.</title>
               <content>No person shall appear as counsel for another person in an adjudication proceeding if it reasonably appears that such representation may be materially limited by that counsel's responsibilities to a third person or by the counsel's own interests. The hearing officer may take corrective measures at any stage of a proceeding to cure a conflict of interest in representation, including the issuance of an order limiting the scope of representation or disqualifying an individual from appearing in a representative capacity for the duration of the proceeding.</content>
             </paragraph>
             <paragraph label="1081-109-b" marker="(b)">
-              <title type="keyterm">Certification and waiver.</title>
+              <title>Certification and waiver.</title>
               <content>If any person appearing as counsel represents two or more parties to an adjudication proceeding or also represents a non-party on a matter relevant to an issue in the proceeding, counsel must certify in writing at the time of filing the notice of appearance required by § 1081.107(a)(3):</content>
               <paragraph label="1081-109-b-1" marker="(1)">
                 <content>That the counsel has personally and fully discussed the possibility of conflicts of interest with each such party and non-party; and</content>
@@ -342,10 +342,10 @@
           <section label="1081-110" sectionNum="110">
             <subject>§ 1081.110 Ex parte communication.</subject>
             <paragraph label="1081-110-a" marker="(a)">
-              <title type="keyterm">Definitions.</title>
+              <title>Definitions.</title>
               <content/>
               <paragraph label="1081-110-a-1" marker="(1)">
-                <content>(1) For purposes of this section, ex parte communication means any material oral or written communication relevant to the merits of an adjudication proceeding that was neither on the record nor on reasonable prior notice to all parties that takes place between<def term="ex parte communication"/> For purposes of this section, ex parte communication means any material oral or written communication relevant to the merits of an adjudication proceeding that was neither on the record nor on reasonable prior notice to all parties that takes place between:</content>
+                <content>For purposes of this section, <def term="ex parte communication">ex parte communication</def> means any material oral or written communication relevant to the merits of an adjudication proceeding that was neither on the record nor on reasonable prior notice to all parties that takes place between:</content>
                 <paragraph label="1081-110-a-1-i" marker="(i)">
                   <content>An interested person not employed by the Bureau (including such person's counsel); and</content>
                 </paragraph>
@@ -354,7 +354,7 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1081-110-a-2" marker="(2)">
-                <title type="keyterm">Exception.</title>
+                <title>Exception.</title>
                 <content>A request for status of the proceeding does not constitute an <ref target="1081-110-a-1" reftype="term">ex parte communication</ref>.</content>
               </paragraph>
               <paragraph label="1081-110-a-3" marker="(3)">
@@ -362,8 +362,8 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-110-b" marker="(b)">
-              <title type="keyterm">Prohibited ex parte communications.</title>
-              <content><ref target="1081-110-a-1" reftype="term">ex parte communications</ref>. During the <ref target="1081-110-a-3" reftype="term">pendency of an adjudication proceeding</ref>, except to the extent required for the disposition of ex parte matters as authorized by law or as otherwise authorized by this part:</content>
+              <title>Prohibited ex parte communications.</title>
+              <content>During the <ref target="1081-110-a-3" reftype="term">pendency of an adjudication proceeding</ref>, except to the extent required for the disposition of ex parte matters as authorized by law or as otherwise authorized by this part:</content>
               <paragraph label="1081-110-b-1" marker="(1)">
                 <content>No interested person not employed by the Bureau shall make or knowingly cause to be made to the Director, or to the hearing officer, or to any decisional employee, an <ref target="1081-110-a-1" reftype="term">ex parte communication</ref>; and</content>
               </paragraph>
@@ -372,34 +372,34 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-110-c" marker="(c)">
-              <title type="keyterm">Procedure upon occurrence of ex parte communication.</title>
+              <title>Procedure upon occurrence of ex parte communication.</title>
               <content><ref target="1081-110-a-1" reftype="term">ex parte communication</ref>. If an <ref target="1081-110-a-1" reftype="term">ex parte communication</ref> prohibited by paragraph <ref target="1081-110-b" reftype="internal">(b)</ref> of this section is received by the hearing officer, the Director, or any decisional employee, that person shall cause all such written communications (or, if the communication is oral, a memorandum stating the substance of the communication) to be placed on the record of the proceeding and served on all parties. All other parties to the proceeding shall have an opportunity, within ten days of receipt of service of the <ref target="1081-110-a-1" reftype="term">ex parte communication</ref>, to file responses thereto and to recommend any sanctions, in accordance with paragraph <ref target="1081-110-d" reftype="internal">(d)</ref> of this section, that they believe to be appropriate under the circumstances.</content>
             </paragraph>
             <paragraph label="1081-110-d" marker="(d)">
-              <title type="keyterm">Sanctions</title>
-              <content>—</content>
+              <title>Sanctions</title>
+              <content/>
               <paragraph label="1081-110-d-1" marker="(1)">
-                <title type="keyterm">Adverse action on claim.</title>
+                <title>Adverse action on claim.</title>
                 <content>Upon receipt of an <ref target="1081-110-a-1" reftype="term">ex parte communication</ref> knowingly made or knowingly caused to be made by a party and prohibited by paragraph <ref target="1081-110-b" reftype="internal">(b)</ref> of this section, the Director or hearing officer, as appropriate, may, to the extent consistent with the interests of justice and the policy of the underlying statutes, require the party to show cause why his claim or interest in the proceeding should not be dismissed, denied, disregarded, or otherwise adversely affected on account of such violation.</content>
               </paragraph>
               <paragraph label="1081-110-d-2" marker="(2)">
-                <title type="keyterm">Discipline of persons practicing before the Bureau.</title>
+                <title>Discipline of persons practicing before the Bureau.</title>
                 <content>The Director may, to the extent not prohibited by law, censure, suspend, or revoke the privilege to practice before the Bureau of any person who makes, or solicits the making of, an unauthorized <ref target="1081-110-a-1" reftype="term">ex parte communication</ref>.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1081-110-e" marker="(e)">
-              <title type="keyterm">Separation of functions.</title>
+              <title>Separation of functions.</title>
               <content>Except to the extent required for the disposition of ex parte matters as authorized by law, the hearing officer may not consult a person or party on any matter relevant to the merits of the adjudication, unless upon notice and opportunity for all parties to participate. An employee or agent engaged in the performance of investigative or prosecuting functions for the Bureau in a case, other than the Director, may not, in that or a factually related case, participate or advise in the decision, recommended decision, or agency review of the recommended decision, except as witness or counsel in public proceedings.</content>
             </paragraph>
           </section>
           <section label="1081-111" sectionNum="111">
             <subject>§ 1081.111 Filing of papers.</subject>
             <paragraph label="1081-111-a" marker="(a)">
-              <title type="keyterm">Filing.</title>
+              <title>Filing.</title>
               <content>The following papers must be filed by parties in an adjudication proceeding: the notice of charges, proof of service of the notice of charges, notices of appearance, answer, the disclosure statement required under § 1081.201(e), motion, brief, request for issuance or enforcement of a subpoena, response, opposition, reply, notice of appeal, or petition for reconsideration. The hearing officer shall file all written orders, rulings, notices, or requests. Any papers required to be filed shall be filed with the Office of Administrative Adjudication, except as otherwise provided herein.</content>
             </paragraph>
             <paragraph label="1081-111-b" marker="(b)">
-              <title type="keyterm">Manner of filing.</title>
+              <title>Manner of filing.</title>
               <content>Unless otherwise specified by the Director or the hearing officer, filing may be accomplished by:</content>
               <paragraph label="1081-111-b-1" marker="(1)">
                 <content>Electronic transmission in accordance with guidance issued by the Office of Administrative Adjudication; or</content>
@@ -418,14 +418,14 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-111-c" marker="(c)">
-              <title type="keyterm">Papers filed in an adjudication proceeding are presumed to be public.</title>
+              <title>Papers filed in an adjudication proceeding are presumed to be public.</title>
               <content>Unless otherwise ordered by the Bureau or the hearing officer, all papers filed in connection with an adjudication proceeding are presumed to be open to the public. The Bureau may provide public access to and publish any papers filed in an adjudication proceeding except if there is a pending motion for a protective order filed pursuant to § 1081.119, or if there is an order from the Director, hearing officer, or a Federal court authorizing the confidential treatment of the papers filed.</content>
             </paragraph>
           </section>
           <section label="1081-112" sectionNum="112">
             <subject>§ 1081.112 Formal requirements as to papers filed.</subject>
             <paragraph label="1081-112-a" marker="(a)">
-              <title type="keyterm">Form.</title>
+              <title>Form.</title>
               <content>All papers filed by parties must:</content>
               <paragraph label="1081-112-a-1" marker="(1)">
                 <content>Set forth the name, address, telephone number, and email address of the counsel or party making the filing;</content>
@@ -444,23 +444,23 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-112-b" marker="(b)">
-              <title type="keyterm">Signature.</title>
+              <title>Signature.</title>
               <content>All papers must be dated and signed as provided in § 1081.108.</content>
             </paragraph>
             <paragraph label="1081-112-c" marker="(c)">
-              <title type="keyterm">Number of copies.</title>
+              <title>Number of copies.</title>
               <content>Unless otherwise specified by the Director or the hearing officer, one copy of all documents and papers shall be filed if filing is by electronic transmission. If filing is accomplished by any other means, an original and one copy of all documents and papers shall be filed, except that only one copy of transcripts of testimony and exhibits must be filed.</content>
             </paragraph>
             <paragraph label="1081-112-d" marker="(d)">
-              <title type="keyterm">Authority to reject document for filing.</title>
+              <title>Authority to reject document for filing.</title>
               <content>The Office of Administrative Adjudication or the hearing officer may reject a document for filing that materially fails to comply with these rules.</content>
             </paragraph>
             <paragraph label="1081-112-e" marker="(e)">
-              <title type="keyterm">Sensitive personal information.</title>
-              <content>Sensitive personal information means an individual's Social Security number, taxpayer identification number, financial account number, credit card or debit card number, driver's license number, State-issued identification number, passport number, date of birth (other than year), and any sensitive health information identifiable by individual, such as an individual's medical records. Sensitive personal information shall not be included in, and must be redacted or omitted from, filings unless the person filing the paper determines that such information is relevant or otherwise necessary for the conduct of the proceeding. If the person filing a paper determines the sensitive personal information contained in the paper is relevant or necessary to the proceeding, the person shall file the paper in accordance with paragraph <ref target="1081-112-f" reftype="internal">(f)</ref> of this section, including filing an expurgated copy of the paper with the sensitive personal information redacted.</content>
+              <title>Sensitive personal information.</title>
+              <content><def term="sensitive personal information">Sensitive personal information</def> means an individual's Social Security number, taxpayer identification number, financial account number, credit card or debit card number, driver's license number, State-issued identification number, passport number, date of birth (other than year), and any sensitive health information identifiable by individual, such as an individual's medical records. Sensitive personal information shall not be included in, and must be redacted or omitted from, filings unless the person filing the paper determines that such information is relevant or otherwise necessary for the conduct of the proceeding. If the person filing a paper determines the sensitive personal information contained in the paper is relevant or necessary to the proceeding, the person shall file the paper in accordance with paragraph <ref target="1081-112-f" reftype="internal">(f)</ref> of this section, including filing an expurgated copy of the paper with the sensitive personal information redacted.</content>
             </paragraph>
             <paragraph label="1081-112-f" marker="(f)">
-              <title type="keyterm">Confidential treatment of information in certain filings.</title>
+              <title>Confidential treatment of information in certain filings.</title>
               <content>A party seeking confidential treatment of information contained in a filing must contemporaneously file either a motion requesting such treatment in accordance with § 1081.119 or a copy of the order from the Director, hearing officer, or Federal court authorizing such confidential treatment. The filing must comply with any applicable order of the Director or hearing officer and must be accompanied by:</content>
               <paragraph label="1081-112-f-1" marker="(1)">
                 <content>A complete, sealed copy of the documents containing the materials as to which confidential treatment is sought, with the allegedly confidential material clearly marked as such, and with the first page of the document labeled “Under Seal.” If the movant seeks or has obtained a protective order against disclosure to other parties as well as the public, copies of the documents shall not be served on other parties; and</content>
@@ -470,22 +470,22 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-112-g" marker="(g)">
-              <title type="keyterm">Certificate of service.</title>
+              <title>Certificate of service.</title>
               <content>Any papers filed in an adjudication proceeding shall contain proof of service on all other parties or their counsel in the form of a statement of the date and manner of service and of the names of the persons served, certified by the person who made service. The certificate of service must be affixed to the papers filed and signed in accordance with § 1081.108.</content>
             </paragraph>
           </section>
           <section label="1081-113" sectionNum="113">
             <subject>§ 1081.113 Service of papers.</subject>
             <paragraph label="1081-113-a" marker="(a)">
-              <title type="keyterm">When required.</title>
+              <title>When required.</title>
               <content>In every adjudication proceeding, each paper required to be filed by § 1081.111 shall be served upon each party in the proceeding in accordance with the provisions of this section; provided, however, that absent an order to the contrary, no service shall be required for motions which are to be heard ex parte.</content>
             </paragraph>
             <paragraph label="1081-113-b" marker="(b)">
-              <title type="keyterm">Upon a person represented by counsel.</title>
+              <title>Upon a person represented by counsel.</title>
               <content>Whenever service is required to be made upon a person represented by counsel who has filed a notice of appearance pursuant to § 1081.107(a)(3), service shall be made pursuant to paragraph <ref target="1081-113-c" reftype="internal">(c)</ref> of this section upon counsel, unless service upon the person represented is ordered by the Director or the hearing officer, as appropriate.</content>
             </paragraph>
             <paragraph label="1081-113-c" marker="(c)">
-              <title type="keyterm">Method of service.</title>
+              <title>Method of service.</title>
               <content>Except as provided in paragraph <ref target="1081-113-d" reftype="internal">(d)</ref> of this section or as otherwise ordered by the hearing officer or the Director, service shall be made by delivering a copy of the filing by one of the following methods:</content>
               <paragraph label="1081-113-c-1" marker="(1)">
                 <content>Transmitting the papers by electronic transmission where the persons so serving each other have consented to service by specified electronic transmission and provided the Bureau and the parties with notice of the means for service by electronic transmission (e.g., email address or facsimile number);</content>
@@ -501,38 +501,38 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-113-d" marker="(d)">
-              <title type="keyterm">Service of certain papers by the Bureau.</title>
+              <title>Service of certain papers by the Bureau.</title>
               <content>Service of the notice of charges, recommended decisions and final orders of the Bureau shall be effected as follows:</content>
               <paragraph label="1081-113-d-1" marker="(1)">
-                <title type="keyterm">Service of a notice of charges</title>
-                <content>—</content>
+                <title>Service of a notice of charges</title>
+                <content/>
                 <paragraph label="1081-113-d-1-i" marker="(i)">
-                  <title type="keyterm">To individuals.</title>
+                  <title>To individuals.</title>
                   <content>Notice of a proceeding shall be made to an individual by delivering a copy of the notice of charges to the individual or to an agent authorized by appointment or by law to receive such notice. Delivery, for purposes of this paragraph, means handing a copy of the notice to the individual; or leaving a copy at the individual's office with a clerk or other person in charge thereof; or leaving a copy at the individual's dwelling house or usual place of abode with some person of suitable age and discretion then residing therein; or sending a copy of the notice addressed to the individual through the U.S. Postal Service by Registered Mail, Certified Mail or Express Mail delivery, or by third-party commercial carrier, for overnight delivery and obtaining a confirmation of receipt.</content>
                 </paragraph>
                 <paragraph label="1081-113-d-1-ii" marker="(ii)">
-                  <title type="keyterm">To corporations or entities.</title>
+                  <title>To corporations or entities.</title>
                   <content>Notice of a proceeding shall be made to a person other than a natural person by delivering a copy of the notice of charges to an officer, managing or general agent, or any other agent authorized by appointment or law to receive such notice, by any method specified in paragraph <ref target="1081-113-d-1-i" reftype="internal">(d)(1)(i)</ref> of this section.</content>
                 </paragraph>
                 <paragraph label="1081-113-d-1-iii" marker="(iii)">
-                  <title type="keyterm">Upon persons registered with the Bureau.</title>
+                  <title>Upon persons registered with the Bureau.</title>
                   <content>In addition to any other method of service specified in paragraph <ref target="1081-113-d-1-i" reftype="internal">(d)(1)(i)</ref> or <ref target="1081-113-d-1-ii" reftype="internal">(ii)</ref> of this section, notice may be made to a person currently registered with the Bureau by sending a copy of the notice of charges addressed to the most recent business address shown on the person's registration form by U.S. Postal Service certified, registered or Express Mail and obtaining a confirmation of receipt or attempted delivery.</content>
                 </paragraph>
                 <paragraph label="1081-113-d-1-iv" marker="(iv)">
-                  <title type="keyterm">Upon persons in a foreign country.</title>
+                  <title>Upon persons in a foreign country.</title>
                   <content>Notice of a proceeding to a person in a foreign country may be made by any method specified in paragraph <ref target="1081-113-d-1" reftype="internal">(d)(1)</ref> of this section, or by any other method reasonably calculated to give notice, provided that the method of service used is not prohibited by the law of the foreign country.</content>
                 </paragraph>
                 <paragraph label="1081-113-d-1-v" marker="(v)">
-                  <title type="keyterm">Record of service.</title>
+                  <title>Record of service.</title>
                   <content>The Bureau shall maintain and file a record of service of the notice of charges on parties, identifying the party given notice, the method of service, the date of service, the address to which service was made, and the person who made service. If service is made in person, the certificate of service shall state, if available, the name of the individual to whom the notice of charges was given. If service is made by U.S. Postal Service Registered Mail, Certified Mail or Express Mail, the Bureau shall maintain the confirmation of receipt or attempted delivery. If service is made to an agent authorized by appointment to receive service, the certificate of service shall be accompanied by evidence of the appointment.</content>
                 </paragraph>
                 <paragraph label="1081-113-d-1-vi" marker="(vi)">
-                  <title type="keyterm">Waiver of service.</title>
+                  <title>Waiver of service.</title>
                   <content>In lieu of service as set forth in paragraph <ref target="1081-113-d-1-i" reftype="internal">(d)(1)(i)</ref> or <ref target="1081-113-d-1-ii" reftype="internal">(d)(1)(ii)</ref> of this section, the party may be provided a copy of the notice of charges by First Class Mail or other reliable means if a waiver of service is obtained from the party and placed in the record.</content>
                 </paragraph>
               </paragraph>
               <paragraph label="1081-113-d-2" marker="(2)">
-                <title type="keyterm">Service of recommended decisions and final orders.</title>
+                <title>Service of recommended decisions and final orders.</title>
                 <content>Recommended decisions issued by the hearing officer and final orders issued by the Bureau shall be served promptly on each party pursuant to any method of service authorized under paragraph <ref target="1081-113-d-1" reftype="internal">(d)(1)</ref> of this section. Such decisions and orders may also be served by electronic transmission if the party to be served has agreed to accept such service in writing, signed by the party or its counsel, and has provided the Bureau with information concerning the manner of electronic transmission.</content>
               </paragraph>
             </paragraph>
@@ -540,11 +540,11 @@
           <section label="1081-114" sectionNum="114">
             <subject>§ 1081.114 Construction of time limits.</subject>
             <paragraph label="1081-114-a" marker="(a)">
-              <title type="keyterm">General rule.</title>
+              <title>General rule.</title>
               <content>In computing any period of time prescribed by this part, by order of the Director or a hearing officer, or by any applicable statute, the date of the act or event that commences the designated period of time is not included. The last day so computed is included unless it is a Saturday, Sunday, or Federal holiday as set forth in <ref target="USC:5-6103" reftype="external">5 U.S.C. 6103</ref>(a). When the last day is a Saturday, Sunday, or Federal holiday, the period runs until the end of the next day that is not a Saturday, Sunday, or Federal holiday. Intermediate Saturdays, Sundays, and Federal holidays are included in the computation of time, except when the time period within which an act is to be performed is ten days or less, not including any additional time allowed for in paragraph <ref target="1081-114-c" reftype="internal">(c)</ref> of this section.</content>
             </paragraph>
             <paragraph label="1081-114-b" marker="(b)">
-              <title type="keyterm">When papers are deemed to be filed or served.</title>
+              <title>When papers are deemed to be filed or served.</title>
               <content>Filing and service are deemed to be effective:</content>
               <paragraph label="1081-114-b-1" marker="(1)">
                 <content>In the case of personal service or same day commercial courier delivery, upon actual receipt by person served;</content>
@@ -557,7 +557,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-114-c" marker="(c)">
-              <title type="keyterm">Calculation of time for service and filing of responsive papers.</title>
+              <title>Calculation of time for service and filing of responsive papers.</title>
               <content>Whenever a time limit is measured by a prescribed period from the service of any notice or paper, the applicable time limits are calculated as follows:</content>
               <paragraph label="1081-114-c-1" marker="(1)">
                 <content>If service is made by First Class Mail, Registered Mail, or Certified Mail, add three calendar days to the prescribed period;</content>
@@ -576,7 +576,7 @@
               <content>Except as otherwise provided by law, the hearing officer may, in any proceeding before him or her, for good cause shown, extend the time limits prescribed by this part or by any notice or order issued in the proceedings. After appeal to the Director pursuant to § 1081.402, the Director may grant extensions of the time limits for good cause shown. Extensions may be granted on the motion of a party after notice and opportunity to respond is afforded all non-moving parties or on the Director's or the hearing officer's own motion, as appropriate.</content>
             </paragraph>
             <paragraph label="1081-115-b" marker="(b)">
-              <title type="keyterm">Considerations in determining whether to extend time limits or grant postponements, adjournments and extensions.</title>
+              <title>Considerations in determining whether to extend time limits or grant postponements, adjournments and extensions.</title>
               <content>In considering all motions for extensions of time filed pursuant to paragraph <ref target="1081-115-a" reftype="internal">(a)</ref> of this section, the Director or the hearing officer should adhere to a policy of strongly disfavoring granting such motions, except in circumstances where the moving party makes a strong showing that the denial of the motion would substantially prejudice its case. In determining whether to grant any motions, the Director or hearing officer, as appropriate, shall consider, in addition to any other relevant factors:</content>
               <paragraph label="1081-115-b-1" marker="(1)">
                 <content>The length of the proceeding to date;</content>
@@ -595,11 +595,11 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-115-c" marker="(c)">
-              <title type="keyterm">Time limit.</title>
+              <title>Time limit.</title>
               <content>Postponements, adjournments, or extensions of time for filing papers shall not exceed 21 days unless the Director or the hearing officer, as appropriate, states on the record or sets forth in a written order the reasons why a longer period of time is necessary.</content>
             </paragraph>
             <paragraph label="1081-115-d" marker="(d)">
-              <title type="keyterm">No effect on deadline for recommended decision.</title>
+              <title>No effect on deadline for recommended decision.</title>
               <content>The granting of any extension of time pursuant to this section shall not affect any deadlines set pursuant to § 1081.400(a).</content>
             </paragraph>
           </section>
@@ -624,15 +624,15 @@
           <section label="1081-119" sectionNum="119">
             <subject>§ 1081.119 Confidential information; protective orders.</subject>
             <paragraph label="1081-119-a" marker="(a)">
-              <title type="keyterm">Rights of third parties.</title>
+              <title>Rights of third parties.</title>
               <content>Any party that intends to disclose information obtained from a third party that is subject to a claim of confidentiality must provide notice to the third party at least ten days prior to the proposed disclosure of such information. In response to such notice, the third party may consent to the disclosure of such information, which may be conditioned on the entry of an appropriate protective order, or may intervene in the proceeding for the limited purpose of moving for a protective order pursuant to this section. Any written filing by a party that contains such confidential information must be accompanied by a certification that proper notice was provided. The act of making any oral motion or oral argument by any counsel or party which contains such confidential information constitutes a certification that proper notice was provided. A third party wishing to intervene for purposes of protecting its confidential information may file a single motion, in conformity with all applicable rules, setting forth the basis of both the third party's right to intervene and the basis for the protective order, in conformity with paragraph <ref target="1081-119-b" reftype="internal">(b)</ref>.</content>
             </paragraph>
             <paragraph label="1081-119-b" marker="(b)">
-              <title type="keyterm">Procedure.</title>
+              <title>Procedure.</title>
               <content>In any adjudication proceeding, a party, including a third party who has intervened pursuant to paragraph <ref target="1081-119-a" reftype="internal">(a)</ref> of this section, may file a motion requesting a protective order to limit from disclosure to other parties or to the public documents or testimony that contain confidential information. The motion should include a general summary or extract of the documents or testimony without revealing confidential details, and a copy of the proposed protective order. A motion for confidential treatment of documents should be filed in accordance with § 1081.112(f), and all other applicable rules.</content>
             </paragraph>
             <paragraph label="1081-119-c" marker="(c)">
-              <title type="keyterm">Basis for issuance.</title>
+              <title>Basis for issuance.</title>
               <content>Documents and testimony introduced in a public hearing, or filed in connection with an adjudication proceeding, are presumed to be public. A motion for a protective order shall be granted:</content>
               <paragraph label="1081-119-c-1" marker="(1)">
                 <content>Upon a finding that public disclosure will likely result in a clearly defined, serious injury to the party or third party requesting confidential treatment;</content>
@@ -648,26 +648,26 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-119-d" marker="(d)">
-              <title type="keyterm">Requests for additional information supporting confidentiality.</title>
+              <title>Requests for additional information supporting confidentiality.</title>
               <content>The hearing officer may require a movant under paragraph <ref target="1081-119-b" reftype="internal">(b)</ref> of this section to furnish in writing additional information with respect to the grounds for confidentiality. Failure to supply the information so requested within five days from the date of receipt by the movant of a notice of the information required shall be deemed a waiver of the objection to public disclosure of that portion of the documents to which the additional information relates, unless the hearing officer shall otherwise order for good cause shown at or before the expiration of such five-day period.</content>
             </paragraph>
             <paragraph label="1081-119-e" marker="(e)">
-              <title type="keyterm">Confidentiality of documents pending decision.</title>
+              <title>Confidentiality of documents pending decision.</title>
               <content>Pending a determination of a motion under this section, the documents as to which confidential treatment is sought and any other documents that would reveal the confidential information in those documents shall be maintained under seal and shall be disclosed only in accordance with orders of the hearing officer. Any order issued in connection with a motion under this section shall be public unless the order would disclose information as to which a protective order has been granted, in which case that portion of the order that would reveal the protected information shall be nonpublic.</content>
             </paragraph>
           </section>
           <section label="1081-120" sectionNum="120">
             <subject>§ 1081.120 Settlement.</subject>
             <paragraph label="1081-120-a" marker="(a)">
-              <title type="keyterm">Availability.</title>
+              <title>Availability.</title>
               <content>Any respondent in an adjudication proceeding instituted under this part, may, at any time, propose in writing an offer of settlement.</content>
             </paragraph>
             <paragraph label="1081-120-b" marker="(b)">
-              <title type="keyterm">Procedure.</title>
+              <title>Procedure.</title>
               <content>An offer of settlement shall state that it is made pursuant to this section; shall recite or incorporate as a part of the offer the provisions of paragraphs <ref target="1081-120-c-3" reftype="internal">(c)(3)</ref> and <ref target="1081-120-c-4" reftype="internal">(4)</ref> of this section; shall be signed by the person making the offer, not by counsel; and shall be submitted to enforcement counsel.</content>
             </paragraph>
             <paragraph label="1081-120-c" marker="(c)">
-              <title type="keyterm">Consideration of offers of settlement.</title>
+              <title>Consideration of offers of settlement.</title>
               <content/>
               <paragraph label="1081-120-c-1" marker="(1)">
                 <content>Offers of settlement shall be considered when time, the nature of the proceedings, and the public interest permit.</content>
@@ -710,7 +710,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-120-d" marker="(d)">
-              <title type="keyterm">Consent orders.</title>
+              <title>Consent orders.</title>
               <content>If the Director accepts the offer of settlement, all terms and conditions of a settlement entered into under this section shall be recorded in a written stipulation signed by all settling parties, and a consent order concluding the proceeding. The stipulation and consent order shall be filed pursuant to § 1081.111, and shall recite or incorporate as a part of the stipulation the provisions of paragraphs <ref target="1081-120-c-3" reftype="internal">(c)(3)</ref> and <ref target="1081-120-c-4" reftype="internal">(4)</ref> of this section. The Director will then issue a consent order, which shall be a final order concluding the proceeding.</content>
             </paragraph>
           </section>
@@ -798,11 +798,11 @@
           <section label="1081-200" sectionNum="200">
             <subject>§ 1081.200 Commencement of proceeding and contents of notice of charges.</subject>
             <paragraph label="1081-200-a" marker="(a)">
-              <title type="keyterm">Commencement of proceeding.</title>
+              <title>Commencement of proceeding.</title>
               <content>A proceeding governed by subparts A, B, C, and D of this part is commenced by filing of a notice of charges by the Bureau in accordance with § 1081.111. The notice of charges must be served by the Bureau upon the respondent in accordance with § 1081.113(d)(1).</content>
             </paragraph>
             <paragraph label="1081-200-b" marker="(b)">
-              <title type="keyterm">Contents of a notice of charges.</title>
+              <title>Contents of a notice of charges.</title>
               <content>The notice of charges must set forth:</content>
               <paragraph label="1081-200-b-1" marker="(1)">
                 <content>The legal authority for the proceeding and for the Bureau's jurisdiction over the proceeding;</content>
@@ -827,18 +827,18 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-200-c" marker="(c)">
-              <title type="keyterm">Publication of notice of charges.</title>
+              <title>Publication of notice of charges.</title>
               <content>Unless otherwise ordered by the Bureau, the notice of charges shall be given general circulation by release to the public, by publication on the Bureau's Web site and, where directed by the hearing officer or the Director, by publication in the Federal Register. The Bureau may publish any notice of charges after ten days from the date of service except if there is a pending motion for a protective order filed pursuant to § 1081.119.</content>
             </paragraph>
             <paragraph label="1081-200-d" marker="(d)">
-              <title type="keyterm">Commencement of proceeding through a consent order.</title>
+              <title>Commencement of proceeding through a consent order.</title>
               <content>Notwithstanding paragraph <ref target="1081-200-a" reftype="internal">(a)</ref> of this section, where the parties agree to settlement before the filing of a notice of charges, a proceeding may be commenced by filing a stipulation and consent order. The stipulation and consent order shall be filed pursuant to § 1081.111. The stipulation shall contain the information required under § 1081.120(d), and the consent order shall contain the information required under paragraphs <ref target="1081-200-b-1" reftype="internal">(b)(1)</ref> through <ref target="1081-200-b-2" reftype="internal">(b)(2)</ref> of this section. The proceeding shall be concluded upon issuance of the consent order by the Director.</content>
             </paragraph>
             <paragraph label="1081-200-e" marker="(e)">
-              <title type="keyterm">Voluntary dismissal</title>
-              <content>—</content>
+              <title>Voluntary dismissal</title>
+              <content/>
               <paragraph label="1081-200-e-1" marker="(1)">
-                <title type="keyterm">Without an order.</title>
+                <title>Without an order.</title>
                 <content>The Bureau may voluntarily dismiss an adjudication proceeding without an order entered by a hearing officer by filing either:</content>
                 <paragraph label="1081-200-e-1-i" marker="(i)">
                   <content>A notice of dismissal before the respondent(s) serves an answer; or</content>
@@ -848,7 +848,7 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1081-200-e-2" marker="(2)">
-                <title type="keyterm">Effect.</title>
+                <title>Effect.</title>
                 <content>Unless the notice or stipulation states otherwise, the dismissal is without prejudice, and does not operate as an adjudication on the merits.</content>
               </paragraph>
             </paragraph>
@@ -856,19 +856,19 @@
           <section label="1081-201" sectionNum="201">
             <subject>§ 1081.201 Answer and disclosure statement and notification of financial interest.</subject>
             <paragraph label="1081-201-a" marker="(a)">
-              <title type="keyterm">Time to file answer.</title>
+              <title>Time to file answer.</title>
               <content>Within 14 days of service of the notice of charges, respondent shall file an answer as designated in the notice of charges.</content>
             </paragraph>
             <paragraph label="1081-201-b" marker="(b)">
-              <title type="keyterm">Content of answer.</title>
+              <title>Content of answer.</title>
               <content>An answer must specifically respond to each paragraph or allegation of fact contained in the notice of charges and must admit, deny, or state that the party lacks sufficient information to admit or deny each allegation of fact. A statement of lack of information has the effect of a denial. Denials must fairly meet the substance of each allegation of fact denied; general denials are not permitted. When a respondent denies part of an allegation, that part must be denied and the remainder specifically admitted. Any allegation of fact in the notice of charges which is not denied in the answer shall be deemed admitted for purposes of the proceeding. A respondent is not required to respond to the portion of a notice of charges that constitutes the prayer for relief or proposed order. The answer must set forth affirmative defenses, if any, asserted by the respondent.</content>
             </paragraph>
             <paragraph label="1081-201-c" marker="(c)">
-              <title type="keyterm">If the allegations of the complaint are admitted.</title>
+              <title>If the allegations of the complaint are admitted.</title>
               <content>If the respondent elects not to contest the allegations of fact set forth in the notice of charges, the answer shall consist of a statement that the respondent admits all of the material allegations to be true. Such an answer shall constitute a waiver of hearings as to the facts alleged in the notice of charges, and together with the notice of charges will provide a record basis on which the hearing officer shall issue a recommended decision containing appropriate findings and conclusions and a proposed order disposing of the proceeding. In such an answer, the respondent may, however, reserve the right to submit proposed findings of fact and conclusions of law under § 1081.305.</content>
             </paragraph>
             <paragraph label="1081-201-d" marker="(d)">
-              <title type="keyterm">Default.</title>
+              <title>Default.</title>
               <content/>
               <paragraph label="1081-201-d-1" marker="(1)">
                 <content>Failure of a respondent to file an answer within the time provided shall be deemed to constitute a waiver of the respondent's right to appear and contest the allegations of the notice of charges and to authorize the hearing officer, without further notice to the respondent, to find the facts to be as alleged in the notice of charges and to enter a recommended decision containing appropriate findings and conclusions. In such cases, respondent shall have no right to appeal pursuant to § 1081.402, but must instead proceed pursuant to paragraph <ref target="1081-201-d-2" reftype="internal">(d)(2)</ref> of this section.</content>
@@ -878,10 +878,10 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-201-e" marker="(e)">
-              <title type="keyterm">Disclosure statement and notification of financial interest</title>
-              <content>—</content>
+              <title>Disclosure statement and notification of financial interest</title>
+              <content/>
               <paragraph label="1081-201-e-1" marker="(1)">
-                <title type="keyterm">Who must file; contents.</title>
+                <title>Who must file; contents.</title>
                 <content>A respondent, nongovernmental intervenor, or nongovernmental amicus must file a disclosure statement and notification of financial interest that:</content>
                 <paragraph label="1081-201-e-1-i" marker="(i)">
                   <content>Identifies any parent corporation, any publicly owned corporation owning ten percent or more of its stock, and any publicly owned corporation not a party to the proceeding that has a financial interest in the outcome of the proceeding and the nature of that interest; or</content>
@@ -891,7 +891,7 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1081-201-e-2" marker="(2)">
-                <title type="keyterm">Time for filing; supplemental filing.</title>
+                <title>Time for filing; supplemental filing.</title>
                 <content>A respondent, nongovernmental intervenor, or nongovernmental amicus must:</content>
                 <paragraph label="1081-201-e-2-i" marker="(i)">
                   <content>File the disclosure statement with its first appearance, pleading, motion, response, or other request addressed to the hearing officer or the Bureau; and</content>
@@ -905,22 +905,22 @@
           <section label="1081-202" sectionNum="202">
             <subject>§ 1081.202 Amended pleadings.</subject>
             <paragraph label="1081-202-a" marker="(a)">
-              <title type="keyterm">Amendments before the hearing.</title>
+              <title>Amendments before the hearing.</title>
               <content>The notice of charges, answer, or any other pleading may be amended or supplemented only with the opposing party's written consent or leave of the hearing officer. The respondent must answer an amended notice of charges within the time remaining for the respondent's answer to the original notice of charges, or within ten days after service of the amended notice of charges, whichever is later, unless the hearing officer orders otherwise for good cause.</content>
             </paragraph>
             <paragraph label="1081-202-b" marker="(b)">
-              <title type="keyterm">Amendments to conform to the evidence.</title>
+              <title>Amendments to conform to the evidence.</title>
               <content>When issues not raised in the notice of charges or answer are tried at the hearing by express or implied consent of the parties, they will be treated in all respects as if they had been raised in the notice of charges or answer, and no formal amendments are required. If evidence is objected to at the hearing on the ground that it is not within the issues raised by the notice of charges or answer, the hearing officer may admit the evidence when admission is likely to assist in adjudicating the merits of the action and the objecting party fails to satisfy the hearing officer that the admission of such evidence would unfairly prejudice that party's action or defense upon the merits. The hearing officer may grant a continuance to enable the objecting party to meet such evidence.</content>
             </paragraph>
           </section>
           <section label="1081-203" sectionNum="203">
             <subject>§ 1081.203 Scheduling conference.</subject>
             <paragraph label="1081-203-a" marker="(a)">
-              <title type="keyterm">Meeting of the parties before scheduling conference.</title>
+              <title>Meeting of the parties before scheduling conference.</title>
               <content>As early as practicable before the scheduling conference described in paragraph <ref target="1081-203-b" reftype="internal">(b)</ref> of this section, counsel for the parties shall meet to discuss the nature and basis of their claims and defenses and the possibilities for a prompt settlement or resolution of the case. The parties shall also discuss and agree, if possible, on the matters set forth in paragraph <ref target="1081-203-b" reftype="internal">(b)</ref> of this section.</content>
             </paragraph>
             <paragraph label="1081-203-b" marker="(b)">
-              <title type="keyterm">Scheduling conference.</title>
+              <title>Scheduling conference.</title>
               <content>Within 20 days of service of the notice of charges or such other time as the parties and hearing officer may agree, counsel for all parties shall appear before the hearing officer in person at a specified time and place or by telephone for the purpose of scheduling the course and conduct of the proceeding. This meeting or telephone conference is called a scheduling conference. At the scheduling conference, counsel for the parties shall be prepared to address:</content>
               <paragraph label="1081-203-b-1" marker="(1)">
                 <content>Determination of the dates and location of the hearing, including, in proceedings under section 1053(b) of the Dodd-Frank Act, whether the hearing should commence later than 60 days after service of the notice of charges;</content>
@@ -951,26 +951,26 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-203-c" marker="(c)">
-              <title type="keyterm">Transcript.</title>
+              <title>Transcript.</title>
               <content>The hearing officer, in his or her discretion, may require that a scheduling conference be recorded by a court reporter. A transcript of the conference and any materials filed, including orders, becomes part of the record of the proceeding. A party may obtain a copy of the transcript at his or her expense.</content>
             </paragraph>
             <paragraph label="1081-203-d" marker="(d)">
-              <title type="keyterm">Scheduling order.</title>
+              <title>Scheduling order.</title>
               <content>At or within five days following the conclusion of the scheduling conference, the hearing officer shall serve on each party an order setting forth the date and location of the hearing and any agreements reached and any procedural determinations made.</content>
             </paragraph>
             <paragraph label="1081-203-e" marker="(e)">
-              <title type="keyterm">Failure to appear; default.</title>
+              <title>Failure to appear; default.</title>
               <content>Any person who is named in a notice of charges as a person against whom findings may be made or sanctions imposed and who fails to appear, in person or through counsel, at a scheduling conference of which he or she has been duly notified may be deemed in default pursuant to § 1081.201(d)(1). A party may make a motion to set aside a default pursuant to § 1081.201(d)(2).</content>
             </paragraph>
             <paragraph label="1081-203-f" marker="(f)">
-              <title type="keyterm">Public access.</title>
+              <title>Public access.</title>
               <content>The scheduling conference shall be public unless the hearing officer determines, based on the standard set forth in § 1081.119(c), that the conference (or any part thereof) shall be closed to the public.</content>
             </paragraph>
           </section>
           <section label="1081-204" sectionNum="204">
             <subject>§ 1081.204 Consolidation and severance of actions.</subject>
             <paragraph label="1081-204-a" marker="(a)">
-              <title type="keyterm">Consolidation.</title>
+              <title>Consolidation.</title>
               <content/>
               <paragraph label="1081-204-a-1" marker="(1)">
                 <content>On the motion of any party, or on the hearing officer's own motion, the hearing officer may consolidate, for some or all purposes, any two or more proceedings, if each such proceeding involves or arises out of the same transaction, occurrence or series of transactions or occurrences, or involves at least one common respondent or a material common question of law or fact, unless such consolidation would cause unreasonable delay or injustice.</content>
@@ -980,7 +980,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-204-b" marker="(b)">
-              <title type="keyterm">Severance.</title>
+              <title>Severance.</title>
               <content>The hearing officer may, upon the motion of any party, sever the proceeding for separate resolution of the matter as to any respondent only if the hearing officer finds that:</content>
               <paragraph label="1081-204-b-1" marker="(1)">
                 <content>Undue prejudice or injustice to the moving party would result from not severing the proceeding; and</content>
@@ -993,11 +993,11 @@
           <section label="1081-205" sectionNum="205">
             <subject>§ 1081.205 Non-dispositive motions.</subject>
             <paragraph label="1081-205-a" marker="(a)">
-              <title type="keyterm">Scope.</title>
+              <title>Scope.</title>
               <content>This section applies to all motions except motions to dismiss and motions for summary disposition. A non-dispositive motion filed pursuant to another section of this part shall comply with any specific requirements of that section and this section to the extent these requirements are not inconsistent.</content>
             </paragraph>
             <paragraph label="1081-205-b" marker="(b)">
-              <title type="keyterm">In writing.</title>
+              <title>In writing.</title>
               <content/>
               <paragraph label="1081-205-b-1" marker="(1)">
                 <content>Unless made during a hearing or conference, an application or request for an order or ruling must be made by written motion.</content>
@@ -1010,11 +1010,11 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-205-c" marker="(c)">
-              <title type="keyterm">Oral motions.</title>
+              <title>Oral motions.</title>
               <content>The Director or the hearing officer, as appropriate, may order that an oral motion be submitted in writing.</content>
             </paragraph>
             <paragraph label="1081-205-d" marker="(d)">
-              <title type="keyterm">Responses and replies.</title>
+              <title>Responses and replies.</title>
               <content/>
               <paragraph label="1081-205-d-1" marker="(1)">
                 <content>Except as otherwise provided herein, within ten days after service of any written motion, or within such other period of time as may be established by the hearing officer or the Director, as appropriate, any party may file a written response to a motion. The hearing officer shall not rule on any oral or written motion before each party has had an opportunity to file a response.</content>
@@ -1027,30 +1027,30 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-205-e" marker="(e)">
-              <title type="keyterm">Length limitations.</title>
+              <title>Length limitations.</title>
               <content>No motion subject to this section (together with the brief in support of the motion) or brief in response to the motion shall exceed 15 pages in length, exclusive of pages containing the table of contents, table of authorities, and any addendum that consists solely of copies of applicable cases, pertinent legislative provisions or rules, and exhibits. No reply brief shall exceed six pages in length, exclusive of pages containing the table of contents, table of authorities, and any addendum that consists solely of copies of applicable cases, pertinent legislative provisions or rules, and exhibits. Motions for leave to file motions and briefs in excess of these limitations are disfavored.</content>
             </paragraph>
             <paragraph label="1081-205-f" marker="(f)">
-              <title type="keyterm">Meet and confer requirements.</title>
+              <title>Meet and confer requirements.</title>
               <content>Each motion filed under this section shall be accompanied by a signed statement representing that counsel for the moving party has conferred or made a good faith effort to confer with opposing counsel in a good faith effort to resolve by agreement the issues raised by the motion and has been unable to reach such an agreement. If some of the matters in controversy have been resolved by agreement, the statement shall specify the matters so resolved and the matters remaining unresolved.</content>
             </paragraph>
             <paragraph label="1081-205-g" marker="(g)">
-              <title type="keyterm">Ruling on non-dispositive motions.</title>
+              <title>Ruling on non-dispositive motions.</title>
               <content>Unless otherwise provided by a relevant section of this part, a hearing officer shall rule on non-dispositive motions. Such ruling shall be issued within 14 days after the expiration of the time period allowed for the filing of all motion papers authorized by this section. The Director, for good cause, may extend the time allowed for a ruling.</content>
             </paragraph>
             <paragraph label="1081-205-h" marker="(h)">
-              <title type="keyterm">Proceedings not stayed.</title>
+              <title>Proceedings not stayed.</title>
               <content>A motion under consideration by the Director or the hearing officer shall not stay proceedings before the hearing officer unless the Director or the hearing officer, as appropriate, so orders.</content>
             </paragraph>
             <paragraph label="1081-205-i" marker="(i)">
-              <title type="keyterm">Dilatory motions.</title>
+              <title>Dilatory motions.</title>
               <content>Frivolous, dilatory, or repetitive motions are prohibited. The filing of such motions may form the basis for sanctions.</content>
             </paragraph>
           </section>
           <section label="1081-206" sectionNum="206">
             <subject>§ 1081.206 Availability of documents for inspection and copying.</subject>
             <paragraph label="1081-206-a" marker="(a)">
-              <title type="keyterm">Documents to be available for inspection and copying.</title>
+              <title>Documents to be available for inspection and copying.</title>
               <content/>
               <paragraph label="1081-206-a-1" marker="(1)">
                 <content>Unless otherwise provided by this section, or by order of the hearing officer, the Office of Enforcement shall make available for inspection and copying by any respondent documents obtained by the Office of Enforcement prior to the institution of proceedings, from persons not employed by the Bureau, in connection with the investigation leading to the institution of proceedings. Such documents shall include:</content>
@@ -1081,7 +1081,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-206-b" marker="(b)">
-              <title type="keyterm">Documents that may be withheld.</title>
+              <title>Documents that may be withheld.</title>
               <content/>
               <paragraph label="1081-206-b-1" marker="(1)">
                 <content>The Office of Enforcement may withhold a document if:</content>
@@ -1109,31 +1109,31 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-206-c" marker="(c)">
-              <title type="keyterm">Withheld document list.</title>
+              <title>Withheld document list.</title>
               <content>The hearing officer may require the Office of Enforcement to produce a list of documents or categories of documents withheld pursuant to paragraphs <ref target="1081-206-b-1-i" reftype="internal">(b)(1)(i)</ref> through (v) of this section or to submit to the hearing officer any document withheld, except for any documents that are being withheld pursuant to section (b)(1)(iii), in which case the Office of Enforcement shall inform the other parties of the fact that such documents are being withheld, but no further disclosures regarding those documents shall be required. The hearing officer may determine whether any withheld document should be made available for inspection and copying. When similar documents are withheld pursuant to paragraphs <ref target="1081-206-b-1-i" reftype="internal">(b)(1)(i)</ref> through (v) of this section, those documents may be identified by category instead of by individual document. The hearing officer retains discretion to determine when an identification by category is insufficient.</content>
             </paragraph>
             <paragraph label="1081-206-d" marker="(d)">
-              <title type="keyterm">Timing of inspection and copying.</title>
+              <title>Timing of inspection and copying.</title>
               <content>Unless otherwise ordered by the hearing officer, the Office of Enforcement shall commence making documents available to a respondent for inspection and copying pursuant to this section no later than seven days after service of the notice of charges.</content>
             </paragraph>
             <paragraph label="1081-206-e" marker="(e)">
-              <title type="keyterm">Place of inspection and copying.</title>
+              <title>Place of inspection and copying.</title>
               <content>Documents subject to inspection and copying pursuant to this section shall be made available to the respondent for inspection and copying at the Bureau office where they are ordinarily maintained, or at such other place as the parties, in writing, may agree. A respondent shall not be given custody of the documents or leave to remove the documents from the Bureau's offices pursuant to the requirements of this section other than by written agreement of the Office of Enforcement. Such agreement shall specify the documents subject to the agreement, the date they shall be returned and such other terms or conditions as are appropriate to provide for the safekeeping of the documents.</content>
             </paragraph>
             <paragraph label="1081-206-f" marker="(f)">
-              <title type="keyterm">Copying costs and procedures.</title>
+              <title>Copying costs and procedures.</title>
               <content>The respondent may obtain a photocopy of any documents made available for inspection or, at the discretion of the Office of Enforcement, electronic copies of such documents. The respondent shall be responsible for the cost of photocopying. Unless otherwise ordered, charges for copies made by the Office of Enforcement at the request of the respondent will be at the rate charged pursuant to part 1070. The respondent shall be given access to the documents at the Bureau's offices or such other place as the parties may agree during normal business hours for copying of documents at the respondent's expense.</content>
             </paragraph>
             <paragraph label="1081-206-g" marker="(g)">
-              <title type="keyterm">Duty to supplement.</title>
+              <title>Duty to supplement.</title>
               <content>If the Office of Enforcement acquires information that it intends to rely upon at a hearing after making its disclosures under paragraph <ref target="1081-206-a-1" reftype="internal">(a)(1)</ref> of this section, the Office of Enforcement shall supplement its disclosures to include such information.</content>
             </paragraph>
             <paragraph label="1081-206-h" marker="(h)">
-              <title type="keyterm">Failure to make documents available—harmless error.</title>
+              <title>Failure to make documents available—harmless error.</title>
               <content>In the event that a document required to be made available to a respondent pursuant to this section is not made available by the Office of Enforcement, no rehearing or redecision of a proceeding already heard or decided shall be required unless the respondent establishes that the failure to make the document available was not harmless error.</content>
             </paragraph>
             <paragraph label="1081-206-i" marker="(i)">
-              <title type="keyterm">Disclosure of privileged or protected information or communications; scope of waiver; obligations of receiving party.</title>
+              <title>Disclosure of privileged or protected information or communications; scope of waiver; obligations of receiving party.</title>
               <content/>
               <paragraph label="1081-206-i-1" marker="(1)">
                 <content>The disclosure of privileged or protected information or communications by any party during an adjudication proceeding shall not operate as a waiver if:</content>
@@ -1167,65 +1167,65 @@
           <section label="1081-207" sectionNum="207">
             <subject>§ 1081.207 Production of witness statements.</subject>
             <paragraph label="1081-207-a" marker="(a)">
-              <title type="keyterm">Availability.</title>
+              <title>Availability.</title>
               <content>Any respondent may move that the Office of Enforcement produce for inspection and copying any statement of any person called or to be called as a witness by the Office of Enforcement that pertains, or is expected to pertain, to his or her direct testimony and that would be required to be produced pursuant to the Jencks Act, <ref target="USC:18-3500" reftype="external">18 U.S.C. 3500</ref>, if the adjudication proceeding were a criminal proceeding. For purposes of this section, the term “statement” shall have the meaning set forth in <ref target="USC:18-3500" reftype="external">18 U.S.C. 3500</ref>(e). Such production shall be made at a time and place fixed by the hearing officer and shall be made available to any party, provided, however, that the production shall be made under conditions intended to preserve the items to be inspected or copied.</content>
             </paragraph>
             <paragraph label="1081-207-b" marker="(b)">
-              <title type="keyterm">Failure to produce—harmless error.</title>
+              <title>Failure to produce—harmless error.</title>
               <content>In the event that a statement required to be made available to a respondent pursuant to this section is not made available by the Office of Enforcement, no rehearing or redecision of a proceeding already heard or decided shall be required unless the respondent establishes that the failure to make the statement available was not harmless error.</content>
             </paragraph>
           </section>
           <section label="1081-208" sectionNum="208">
             <subject>§ 1081.208 Subpoenas.</subject>
             <paragraph label="1081-208-a" marker="(a)">
-              <title type="keyterm">Availability.</title>
+              <title>Availability.</title>
               <content>In connection with any hearing ordered by the hearing officer, a party may request the issuance of one or more subpoenas requiring the attendance and testimony of witnesses at the designated time and place of the hearing, or the production of documentary or other tangible evidence returnable at any designated time or place.</content>
             </paragraph>
             <paragraph label="1081-208-b" marker="(b)">
-              <title type="keyterm">Procedure.</title>
+              <title>Procedure.</title>
               <content>Unless made on the record at a hearing, requests for issuance of a subpoena shall be made in writing, and filed and served on each party pursuant to subpart A of this part. The request must contain a proposed subpoena and a brief statement showing the general relevance and reasonableness of the scope of testimony or documents sought.</content>
             </paragraph>
             <paragraph label="1081-208-c" marker="(c)">
-              <title type="keyterm">Signing may be delegated.</title>
+              <title>Signing may be delegated.</title>
               <content>A hearing officer may authorize issuance of a subpoena, and may delegate the manual signing of the subpoena to any other person.</content>
             </paragraph>
             <paragraph label="1081-208-d" marker="(d)">
-              <title type="keyterm">Standards for issuance.</title>
+              <title>Standards for issuance.</title>
               <content>The hearing officer shall promptly issue any subpoena requested pursuant to this section. However, where it appears to the hearing officer that the subpoena sought may be unreasonable, oppressive, excessive in scope, or unduly burdensome, he or she may, in his or her discretion, as a condition precedent to the issuance of the subpoena, require the person seeking the subpoena to show further the general relevance and reasonable scope of the testimony or other evidence sought. If after consideration of all the circumstances, the hearing officer determines that the subpoena or any of its terms is unreasonable, oppressive, excessive in scope, or unduly burdensome, he or she may refuse to issue the subpoena, or issue it only upon such conditions as fairness requires. In making the foregoing determination, the hearing officer may inquire of the other participants whether they will stipulate to the facts sought to be proved.</content>
             </paragraph>
             <paragraph label="1081-208-e" marker="(e)">
-              <title type="keyterm">Service.</title>
+              <title>Service.</title>
               <content>Upon issuance by the hearing officer, the party making the request shall serve the subpoena on the person named in the subpoena and on each party in accordance with § 1081.113(c). Subpoenas may be served in any State, territory, possession of the United States, or the District of Columbia, on any person or company doing business in any State, territory, possession of the United States, or the District of Columbia, or as otherwise permitted by law.</content>
             </paragraph>
             <paragraph label="1081-208-f" marker="(f)">
-              <title type="keyterm">Tender of fees required.</title>
+              <title>Tender of fees required.</title>
               <content>When a subpoena compelling the attendance of a person at a hearing is issued at the request of anyone other than an officer or agency of the United States, service is valid only if the subpoena is accompanied by a tender to the subpoenaed person of the fees for one day's attendance and mileage specified by § 1081.116.</content>
             </paragraph>
             <paragraph label="1081-208-g" marker="(g)">
-              <title type="keyterm">Production of documentary material.</title>
+              <title>Production of documentary material.</title>
               <content>Production of documentary material in response to a subpoena shall be made under a sworn certificate, in such form as the subpoena designates, by the person to whom the subpoena is directed or, if not a natural person, by any person having knowledge of the facts and circumstances relating to such production, to the effect that all of the documentary material required by the subpoena and in the possession, custody, or control of the person to whom the subpoena is directed has been produced and made available to the custodian.</content>
             </paragraph>
             <paragraph label="1081-208-h" marker="(h)">
-              <title type="keyterm">Motion to quash or modify</title>
-              <content>—</content>
+              <title>Motion to quash or modify</title>
+              <content/>
               <paragraph label="1081-208-h-1" marker="(1)">
-                <title type="keyterm">Procedure.</title>
+                <title>Procedure.</title>
                 <content>Any person to whom a subpoena is directed, or who is an owner, creator, or the subject of the documents that are to be produced pursuant to a subpoena, or any party may, prior to the time specified therein for compliance, but in no event more than ten days after the date of service of such subpoena, move that the subpoena be quashed or modified. Such motion shall be filed and served on all parties pursuant to subpart A of this part. Notwithstanding § 1081.205, the party on whose behalf the subpoena was issued or enforcement counsel may, within five days of service of the motion, file a response to the motion. Reply briefs are not permitted unless requested by the hearing officer. Filing a motion to modify a subpoena does not stay the movant's obligation to comply with those portions of the subpoena that the person has not sought to modify.</content>
               </paragraph>
               <paragraph label="1081-208-h-2" marker="(2)">
-                <title type="keyterm">Standards governing motion to quash or modify.</title>
+                <title>Standards governing motion to quash or modify.</title>
                 <content>If compliance with the subpoena would be unreasonable, oppressive, or unduly burdensome, the hearing officer shall quash or modify the subpoena, or may order return of the subpoena only upon specified conditions. These conditions may include but are not limited to a requirement that the party on whose behalf the subpoena was issued shall make reasonable compensation to the person to whom the subpoena was addressed for the cost of copying or transporting evidence to the place for return of the subpoena.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1081-208-i" marker="(i)">
-              <title type="keyterm">Enforcing subpoenas.</title>
+              <title>Enforcing subpoenas.</title>
               <content>If a subpoenaed person fails to comply with any subpoena issued pursuant to this section or any order of the hearing officer which directs compliance with all or any portion of a subpoena, the Bureau's General Counsel may, on its own motion or at the request of the party on whose behalf the subpoena was issued, apply to an appropriate United States district court, in the name of the Bureau but on relation of such party, for an order requiring compliance with so much of the subpoena as the hearing officer has not quashed or modified, unless, in the judgment of the General Counsel, the enforcement of such subpoena would be inconsistent with law and the policies of title X of the Dodd-Frank Act. Failure to request that the Bureau's General Counsel seek enforcement of a subpoena constitutes a waiver of any claim of prejudice predicated upon the unavailability of the testimony or evidence sought.</content>
             </paragraph>
           </section>
           <section label="1081-209" sectionNum="209">
             <subject>§ 1081.209 Deposition of witness unavailable for hearing.</subject>
             <paragraph label="1081-209-a" marker="(a)">
-              <title type="keyterm">General rules.</title>
+              <title>General rules.</title>
               <content/>
               <paragraph label="1081-209-a-1" marker="(1)">
                 <content>If a witness will not be available for the hearing, a party desiring to preserve that witness's testimony for the record may request in accordance with the procedures set forth in this section that the hearing officer issue a subpoena, including a subpoena duces tecum, requiring the attendance of the witness at a deposition. The hearing officer may issue a deposition subpoena under this section upon a showing that:</content>
@@ -1253,35 +1253,35 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-209-b" marker="(b)">
-              <title type="keyterm">Procedure.</title>
+              <title>Procedure.</title>
               <content>Unless made on the record at a hearing, requests for issuance of a deposition subpoena shall be made in writing, and filed and served on each party pursuant to subpart A of this part.</content>
             </paragraph>
             <paragraph label="1081-209-c" marker="(c)">
-              <title type="keyterm">Signing may be delegated.</title>
+              <title>Signing may be delegated.</title>
               <content>A hearing officer may authorize issuance of a deposition subpoena, and may delegate the manual signing of the deposition subpoena to any other person.</content>
             </paragraph>
             <paragraph label="1081-209-d" marker="(d)">
-              <title type="keyterm">Service.</title>
+              <title>Service.</title>
               <content>Upon issuance by the hearing officer, the party making the request shall serve the subpoena on the person named in the subpoena and on each party in accordance with § 1081.113(c). Deposition subpoenas may be served in any State, territory, possession of the United States, or the District of Columbia, on any person or company doing business in any State, territory, possession of the United States, or the District of Columbia, or as otherwise permitted by law.</content>
             </paragraph>
             <paragraph label="1081-209-e" marker="(e)">
-              <title type="keyterm">Tender of fees required.</title>
+              <title>Tender of fees required.</title>
               <content>When a subpoena compelling the attendance of a person at a deposition is issued at the request of anyone other than an officer or agency of the United States, service is valid only if the subpoena is accompanied by a tender to the subpoenaed person of the fees for one day's attendance and mileage specified by § 1081.116.</content>
             </paragraph>
             <paragraph label="1081-209-f" marker="(f)">
-              <title type="keyterm">Motion to quash or modify</title>
-              <content>—</content>
+              <title>Motion to quash or modify</title>
+              <content/>
               <paragraph label="1081-209-f-1" marker="(1)">
-                <title type="keyterm">Procedure.</title>
+                <title>Procedure.</title>
                 <content>Any person to whom a deposition subpoena is directed, or who is an owner, creator, or the subject of the documents that are to be produced pursuant to a deposition subpoena, or any party may, prior to the time specified therein for compliance, but in no event more than ten days after the date of service of such subpoena, move that the deposition subpoena be quashed or modified. Such motion must include a statement of the basis for the motion to quash or modify the deposition subpoena, and shall be filed and served on all parties pursuant to subpart A of this part. Notwithstanding § 1081.205, the party on whose behalf the deposition subpoena was issued or enforcement counsel may, within five days of service of the motion, file a response to the motion. Reply briefs are not permitted unless requested by the hearing officer.</content>
               </paragraph>
               <paragraph label="1081-209-f-2" marker="(2)">
-                <title type="keyterm">Standards governing motion to quash or modify.</title>
+                <title>Standards governing motion to quash or modify.</title>
                 <content>If compliance with the deposition subpoena would be unreasonable, oppressive or unduly burdensome, or the deposition subpoena does not meet the requirements set forth in paragraph <ref target="1081-209-a-1" reftype="internal">(a)(1)</ref> of this section, the hearing officer shall quash or modify the deposition subpoena, or may order return of the deposition subpoena only upon specified conditions. These conditions may include but are not limited to a requirement that the party on whose behalf the deposition subpoena was issued shall make reasonable compensation to the person to whom the deposition subpoena was addressed for the cost of copying or transporting evidence to the place for return of the deposition subpoena.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1081-209-g" marker="(g)">
-              <title type="keyterm">Procedure upon deposition.</title>
+              <title>Procedure upon deposition.</title>
               <content/>
               <paragraph label="1081-209-g-1" marker="(1)">
                 <content>Depositions shall be taken before any person before whom a deposition may be taken pursuant to the Federal Rules of Civil Procedure (the “deposition officer”).</content>
@@ -1300,7 +1300,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-209-h" marker="(h)">
-              <title type="keyterm">Enforcing subpoenas.</title>
+              <title>Enforcing subpoenas.</title>
               <content>Any party may move before the hearing officer for an order compelling the witness to answer any questions the witness has refused to answer or submit any evidence the witness has refused to submit during the deposition. If a subpoenaed person fails to comply with any order of the hearing officer which directs compliance with all or any portion of a deposition subpoena under this section, the Bureau's General Counsel may, on its own motion or at the request of the party on whose behalf the subpoena was issued, apply to an appropriate United States district court, in the name of the Bureau but on relation of such party, for an order requiring compliance with so much of the subpoena as the hearing officer has not quashed or modified, unless, in the judgment of the General Counsel, the enforcement of such subpoena would be inconsistent with law and the policies of title X of the Dodd-Frank Act. Failure to request that the Bureau seek enforcement of a subpoena constitutes a waiver of any claim of prejudice predicated upon the unavailability of the testimony or evidence sought.</content>
             </paragraph>
           </section>
@@ -1337,15 +1337,15 @@
           <section label="1081-211" sectionNum="211">
             <subject>§ 1081.211 Interlocutory review.</subject>
             <paragraph label="1081-211-a" marker="(a)">
-              <title type="keyterm">Availability.</title>
+              <title>Availability.</title>
               <content>The Director may, at any time, direct that any matter be submitted to him or her for review. Subject to paragraph <ref target="1081-211-c" reftype="internal">(c)</ref> of this section, the hearing officer may, on his or her own motion or on the motion of any party, certify any matter for interlocutory review by the Director. This section is the exclusive remedy for review of a hearing officer's ruling or order prior to the Director's consideration of the entire proceeding.</content>
             </paragraph>
             <paragraph label="1081-211-b" marker="(b)">
-              <title type="keyterm">Procedure.</title>
+              <title>Procedure.</title>
               <content>Any party's motion for certification of a ruling or order for interlocutory review shall be filed with the hearing officer within five days of service of the ruling or order, shall specify the ruling or order or parts thereof for which interlocutory review is sought, shall attach any other portions of the record on which the moving party relies, and shall otherwise comply with § 1081.205. Notwithstanding § 1081.205, any response to such a motion must be filed within three days of service of the motion. The hearing officer shall issue a ruling on the motion within five days of the deadline for filing a response.</content>
             </paragraph>
             <paragraph label="1081-211-c" marker="(c)">
-              <title type="keyterm">Certification process.</title>
+              <title>Certification process.</title>
               <content>Unless the Director directs otherwise, a ruling or order may not be submitted to the Director for interlocutory review unless the hearing officer, upon the hearing officer's motion or upon the motion of a party, certifies the ruling or order in writing. The hearing officer shall not certify a ruling or order unless:</content>
               <paragraph label="1081-211-c-1" marker="(1)">
                 <content>The ruling or order would compel testimony of Bureau officers or employees, or those from another governmental agency, or the production of documentary evidence in the custody of the Bureau or another governmental agency;</content>
@@ -1367,30 +1367,30 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-211-d" marker="(d)">
-              <title type="keyterm">Interlocutory review.</title>
+              <title>Interlocutory review.</title>
               <content>A party whose motion for certification has been denied by the hearing officer may petition the Director for interlocutory review.</content>
             </paragraph>
             <paragraph label="1081-211-e" marker="(e)">
-              <title type="keyterm">Director review.</title>
+              <title>Director review.</title>
               <content>The Director shall determine whether or not to review a ruling or order certified under this section or the subject of a petition for interlocutory review. Interlocutory review is disfavored, and the Director will grant a petition to review a hearing officer's ruling or order prior to his or her consideration of a recommended decision only in extraordinary circumstances. The Director may decline to review a ruling or order certified by a hearing officer pursuant to paragraph <ref target="1081-211-c" reftype="internal">(c)</ref> of this section or the petition of a party who has been denied certification if he or she determines that interlocutory review is not warranted or appropriate under the circumstances, in which case he or she may summarily deny the petition. If the Director determines to grant the review, he or she will review the matter and issue his or her ruling and order in an expeditious fashion, consistent with the Bureau's other responsibilities.</content>
             </paragraph>
             <paragraph label="1081-211-f" marker="(f)">
-              <title type="keyterm">Proceedings not stayed.</title>
+              <title>Proceedings not stayed.</title>
               <content>The filing of a motion requesting that the hearing officer certify any of his or her prior rulings or orders for interlocutory review or a petition for interlocutory review filed with the Director, and the grant of any such review, shall not stay proceedings before the hearing officer unless he or she, or the Director, shall so order. The Director will not consider a motion for a stay unless the motion shall have first been made to the hearing officer.</content>
             </paragraph>
           </section>
           <section label="1081-212" sectionNum="212">
             <subject>§ 1081.212 Dispositive motions.</subject>
             <paragraph label="1081-212-a" marker="(a)">
-              <title type="keyterm">Dispositive motions.</title>
+              <title>Dispositive motions.</title>
               <content>This section governs the filing of motions to dismiss and motions for summary disposition. The filing of any such motion does not obviate a party's obligation to file an answer or take any other action required by this part or by an order of the hearing officer, unless expressly so provided by the hearing officer.</content>
             </paragraph>
             <paragraph label="1081-212-b" marker="(b)">
-              <title type="keyterm">Motions to dismiss.</title>
+              <title>Motions to dismiss.</title>
               <content>A respondent may file a motion to dismiss asserting that, even assuming the truth of the facts alleged in the notice of charges, it is entitled to dismissal as a matter of law.</content>
             </paragraph>
             <paragraph label="1081-212-c" marker="(c)">
-              <title type="keyterm">Motion for summary disposition.</title>
+              <title>Motion for summary disposition.</title>
               <content>A party may make a motion for summary disposition asserting that the undisputed pleaded facts, admissions, affidavits, stipulations, documentary evidence, matters as to which official notice may be taken, and any other evidentiary materials properly submitted in connection with a motion for summary disposition show that:</content>
               <paragraph label="1081-212-c-1" marker="(1)">
                 <content>There is no genuine issue as to any material fact; and</content>
@@ -1400,7 +1400,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-212-d" marker="(d)">
-              <title type="keyterm">Filing of motions for summary disposition and responses.</title>
+              <title>Filing of motions for summary disposition and responses.</title>
               <content/>
               <paragraph label="1081-212-d-1" marker="(1)">
                 <content>After a respondent's answer has been filed and documents have been made available to the respondent for inspection and copying pursuant to § 1081.206, any party may move for summary disposition in its favor of all or any part of the proceeding.</content>
@@ -1413,19 +1413,19 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-212-e" marker="(e)">
-              <title type="keyterm">Page limitations for dispositive motions.</title>
+              <title>Page limitations for dispositive motions.</title>
               <content>A motion to dismiss or for summary disposition, together with any brief in support of the motion (exclusive of any declarations, affidavits, or attachments) shall not exceed 35 pages in length. Motions for extensions of this length limitation are disfavored.</content>
             </paragraph>
             <paragraph label="1081-212-f" marker="(f)">
-              <title type="keyterm">Opposition and reply response time and page limitation.</title>
+              <title>Opposition and reply response time and page limitation.</title>
               <content>Any party, within 20 days after service of a dispositive motion, or within such time period as allowed by the hearing officer, may file a response to such motion. The length limitations set forth in paragraph <ref target="1081-212-e" reftype="internal">(e)</ref> of this section shall also apply to such responses. Any reply brief filed in response to an opposition to a dispositive motion shall be filed within five days after service of the opposition. Reply briefs shall not exceed ten pages.</content>
             </paragraph>
             <paragraph label="1081-212-g" marker="(g)">
-              <title type="keyterm">Oral argument.</title>
+              <title>Oral argument.</title>
               <content>At the request of any party or on his or her own motion, the hearing officer may hear oral argument on a dispositive motion.</content>
             </paragraph>
             <paragraph label="1081-212-h" marker="(h)">
-              <title type="keyterm">Decision on motion.</title>
+              <title>Decision on motion.</title>
               <content>Within 30 days following the expiration of the time for filing all responses and replies to any dispositive motion, the hearing officer shall determine whether the motion shall be granted. If the hearing officer determines that dismissal or summary disposition is warranted, he or she shall issue a recommended decision granting the motion. If the hearing officer finds that no party is entitled to dismissal or summary disposition, he or she shall make a ruling denying the motion. If it appears that a party, for good cause shown, cannot present by affidavit, prior to hearing, facts essential to justify opposition to the motion, the hearing officer shall deny or defer the motion.</content>
             </paragraph>
           </section>
@@ -1438,7 +1438,7 @@
           <section label="1081-214" sectionNum="214">
             <subject>§ 1081.214 Prehearing conferences.</subject>
             <paragraph label="1081-214-a" marker="(a)">
-              <title type="keyterm">Prehearing conferences.</title>
+              <title>Prehearing conferences.</title>
               <content>The hearing officer may, in addition to the scheduling conference, on his or her own motion or at the request of any party, direct counsel for the parties to meet with him or her (in person or by telephone) at a prehearing conference for further discussion of the issues outlined in § 1081.203, or for discussion of any additional matters that in the view of the hearing officer will aid in an orderly disposition of the proceeding, including but not limited to:</content>
               <paragraph label="1081-214-a-1" marker="(1)">
                 <content>Identification of potential witnesses and limitation on the number of witnesses;</content>
@@ -1457,11 +1457,11 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-214-b" marker="(b)">
-              <title type="keyterm">Transcript.</title>
+              <title>Transcript.</title>
               <content>The hearing officer, in his or her discretion, may require that a prehearing conference be recorded by a court reporter. A transcript of the conference and any materials filed, including orders, becomes part of the record of the proceeding. A party may obtain a copy of the transcript at his or her expense.</content>
             </paragraph>
             <paragraph label="1081-214-c" marker="(c)">
-              <title type="keyterm">Public access.</title>
+              <title>Public access.</title>
               <content>Any prehearing conferences shall be public unless the hearing officer determines, based on the standard set forth in § 1081.119(c), that the conference (or any part thereof) shall be closed to the public.</content>
             </paragraph>
           </section>
@@ -1486,18 +1486,18 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-215-b" marker="(b)">
-              <title type="keyterm">Expert witnesses.</title>
+              <title>Expert witnesses.</title>
               <content>Each party who intends to call an expert witness shall also serve, in addition to the information required by paragraph <ref target="1081-215-a-2" reftype="internal">(a)(2)</ref> of this section, a statement of the expert's qualifications, a listing of other proceedings in which the expert has given or sought to give expert testimony at trial or hearing or by deposition within the preceding four years, and a list of publications authored or co-authored by the expert within the preceding ten years, to the extent such information has not already been provided pursuant to § 1081.210.</content>
             </paragraph>
             <paragraph label="1081-215-c" marker="(c)">
-              <title type="keyterm">Effect of failure to comply.</title>
+              <title>Effect of failure to comply.</title>
               <content>No witness may testify and no exhibits may be introduced at the hearing if such witness or exhibit is not listed in the prehearing submissions pursuant to paragraph <ref target="1081-215-a" reftype="internal">(a)</ref> of this section, except for good cause shown.</content>
             </paragraph>
           </section>
           <section label="1081-216" sectionNum="216">
             <subject>§ 1081.216 Amicus participation.</subject>
             <paragraph label="1081-216-a" marker="(a)">
-              <title type="keyterm">Availability.</title>
+              <title>Availability.</title>
               <content>An amicus brief may be filed only if:</content>
               <paragraph label="1081-216-a-1" marker="(1)">
                 <content>A motion for leave to file the brief has been granted;</content>
@@ -1513,19 +1513,19 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-216-b" marker="(b)">
-              <title type="keyterm">Procedure.</title>
+              <title>Procedure.</title>
               <content>An amicus brief may be filed conditionally with the motion for leave. The motion for leave shall identify the interest of the movant and shall state the reasons why a brief of an amicus curiae is desirable. Except as all parties otherwise consent, any amicus curiae shall file its brief within the time allowed the party whose position the amicus will support, unless the Director or hearing officer, as appropriate, for good cause shown, grants leave for a later filing. In the event that a later filing is allowed, the order granting leave to file shall specify when an opposing party may reply to the brief.</content>
             </paragraph>
             <paragraph label="1081-216-c" marker="(c)">
-              <title type="keyterm">Motions.</title>
+              <title>Motions.</title>
               <content>A motion for leave to file an amicus brief shall be subject to § 1081.205.</content>
             </paragraph>
             <paragraph label="1081-216-d" marker="(d)">
-              <title type="keyterm">Formal requirements as to amicus briefs.</title>
+              <title>Formal requirements as to amicus briefs.</title>
               <content>Amicus briefs shall be filed pursuant to § 1081.111 and shall comply with the requirements of § 1081.112 and shall be subject to the length limitation set forth in § 1081.212(e).</content>
             </paragraph>
             <paragraph label="1081-216-e" marker="(e)">
-              <title type="keyterm">Oral argument.</title>
+              <title>Oral argument.</title>
               <content>An amicus curiae may move to present oral argument at any hearing before the hearing officer, but such motions will be granted only for extraordinary reasons.</content>
             </paragraph>
           </section>
@@ -1585,11 +1585,11 @@
           <section label="1081-303" sectionNum="303">
             <subject>§ 1081.303 Evidence.</subject>
             <paragraph label="1081-303-a" marker="(a)">
-              <title type="keyterm">Burden of proof.</title>
+              <title>Burden of proof.</title>
               <content>Enforcement counsel shall have the burden of proof of the ultimate issue(s) of the Bureau's claims at the hearing.</content>
             </paragraph>
             <paragraph label="1081-303-b" marker="(b)">
-              <title type="keyterm">Admissibility.</title>
+              <title>Admissibility.</title>
               <content/>
               <paragraph label="1081-303-b-1" marker="(1)">
                 <content>Except as is otherwise set forth in this section, relevant, material, and reliable evidence that is not unduly repetitive is admissible to the fullest extent authorized by the Administrative Procedure Act and other applicable law. Irrelevant, immaterial, and unreliable evidence shall be excluded.</content>
@@ -1605,11 +1605,11 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-303-c" marker="(c)">
-              <title type="keyterm">Official notice.</title>
+              <title>Official notice.</title>
               <content>Official notice may be taken of any material fact that is not subject to reasonable dispute in that it is either generally known or capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned. If official notice is requested or is taken of a material fact not appearing in the evidence in the record, the parties, upon timely request, shall be afforded an opportunity to disprove such noticed fact.</content>
             </paragraph>
             <paragraph label="1081-303-d" marker="(d)">
-              <title type="keyterm">Documents.</title>
+              <title>Documents.</title>
               <content/>
               <paragraph label="1081-303-d-1" marker="(1)">
                 <content>A duplicate copy of a document is admissible to the same extent as the original, unless a genuine issue is raised as to whether the copy is in some material respect not a true and legible copy of the original.</content>
@@ -1625,7 +1625,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-303-e" marker="(e)">
-              <title type="keyterm">Objections.</title>
+              <title>Objections.</title>
               <content/>
               <paragraph label="1081-303-e-1" marker="(1)">
                 <content>Objections to the admissibility of evidence must be timely made and rulings on all objections must appear on the record.</content>
@@ -1638,7 +1638,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-303-f" marker="(f)">
-              <title type="keyterm">Stipulations.</title>
+              <title>Stipulations.</title>
               <content/>
               <paragraph label="1081-303-f-1" marker="(1)">
                 <content>The parties may, at any stage of the proceeding, stipulate as to any relevant matters of fact or the authentication of any relevant documents. Such stipulations must be received in evidence at a hearing and are binding on the parties with respect to the matters therein stipulated.</content>
@@ -1648,7 +1648,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-303-g" marker="(g)">
-              <title type="keyterm">Presentation of evidence.</title>
+              <title>Presentation of evidence.</title>
               <content/>
               <paragraph label="1081-303-g-1" marker="(1)">
                 <content>A witness at a hearing for the purpose of taking evidence shall testify under oath or affirmation.</content>
@@ -1676,7 +1676,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-303-h" marker="(h)">
-              <title type="keyterm">Introducing prior sworn statements of witnesses into the record.</title>
+              <title>Introducing prior sworn statements of witnesses into the record.</title>
               <content>At a hearing, any party wishing to introduce a prior, sworn statement of a witness, not a party, otherwise admissible in the proceeding, may make a motion setting forth the reasons therefore. If only part of a statement is offered in evidence, the hearing officer may require that all relevant portions of the statement be introduced. If all of a statement is offered in evidence, the hearing officer may require that portions not relevant to the proceeding be excluded. A motion to introduce a prior sworn statement may be granted if:</content>
               <paragraph label="1081-303-h-1" marker="(1)">
                 <content>The witness is dead;</content>
@@ -1698,22 +1698,22 @@
           <section label="1081-304" sectionNum="304">
             <subject>§ 1081.304 Record of the hearing.</subject>
             <paragraph label="1081-304-a" marker="(a)">
-              <title type="keyterm">Reporting and transcription.</title>
+              <title>Reporting and transcription.</title>
               <content>Hearings shall be stenographically reported and transcribed under the supervision of the hearing officer, and the original transcript shall be a part of the record and the sole official transcript. The live oral testimony of each witness may be video recorded digitally, in which case the video recording and the written transcript of the testimony shall be made part of the record. Copies of transcripts shall be available from the reporter at prescribed rates.</content>
             </paragraph>
             <paragraph label="1081-304-b" marker="(b)">
-              <title type="keyterm">Corrections.</title>
+              <title>Corrections.</title>
               <content>Corrections of the official transcript may be made only when they involve errors affecting substance and then only in the manner herein provided. Corrections ordered by the hearing officer or agreed to in a written stipulation signed by all counsel and parties not represented by counsel, and approved by the hearing officer, shall be included in the record, and such stipulations, except to the extent they are capricious or without substance, shall be approved by the hearing officer. Corrections shall not be ordered by the hearing officer except upon notice and opportunity for the hearing of objections. Such corrections shall be made by the official reporter by furnishing substitute type pages, under the usual certificate of the reporter, for insertion in the official record. The original uncorrected pages shall be retained in the files of the Bureau.</content>
             </paragraph>
             <paragraph label="1081-304-c" marker="(c)">
-              <title type="keyterm">Closing of the hearing record.</title>
+              <title>Closing of the hearing record.</title>
               <content>Upon completion of the hearing, the hearing officer shall issue an order closing the hearing record after giving the parties three days to determine if the record is complete or needs to be supplemented. The hearing officer shall retain the discretion to permit or order correction of the record as provided in paragraph <ref target="1081-304-b" reftype="internal">(b)</ref> of this section.</content>
             </paragraph>
           </section>
           <section label="1081-305" sectionNum="305">
             <subject>§ 1081.305 Post-hearing filings.</subject>
             <paragraph label="1081-305-a" marker="(a)">
-              <title type="keyterm">Proposed findings and conclusions and supporting briefs.</title>
+              <title>Proposed findings and conclusions and supporting briefs.</title>
               <content/>
               <paragraph label="1081-305-a-1" marker="(1)">
                 <content>Using the same method of service for each party, the hearing officer shall serve notice upon each party that the certified transcript, together with all hearing exhibits and exhibits introduced but not admitted into evidence at the hearing, has been filed promptly after that filing. Any party may file with the hearing officer proposed findings of fact, proposed conclusions of law, and a proposed order within 30 days following service of this notice by the hearing officer or within such longer period as may be ordered by the hearing officer.</content>
@@ -1723,18 +1723,18 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-305-b" marker="(b)">
-              <title type="keyterm">Responsive briefs.</title>
+              <title>Responsive briefs.</title>
               <content>Responsive briefs may be filed within 15 days after the date on which the parties' proposed findings, conclusions, and order are due. Responsive briefs must be strictly limited to responding to matters, issues, or arguments raised in another party's papers. A party who has not filed proposed findings of fact and conclusions of law or a post-hearing brief may not file a responsive brief. Unless directed by the hearing officer, reply briefs are not permitted.</content>
             </paragraph>
             <paragraph label="1081-305-c" marker="(c)">
-              <title type="keyterm">Order of filing.</title>
+              <title>Order of filing.</title>
               <content>The hearing officer shall not order the filing by any party of any post-hearing brief or responsive brief in advance of the other party's filing of its post-hearing brief or responsive brief.</content>
             </paragraph>
           </section>
           <section label="1081-306" sectionNum="306">
             <subject>§ 1081.306 Record in proceedings before hearing officer; retention of documents; copies.</subject>
             <paragraph label="1081-306-a" marker="(a)">
-              <title type="keyterm">Contents of the record.</title>
+              <title>Contents of the record.</title>
               <content>The record of the proceeding shall consist of:</content>
               <paragraph label="1081-306-a-1" marker="(1)">
                 <content>The notice of charges, the answer, and any amendments thereto;</content>
@@ -1768,11 +1768,11 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-306-b" marker="(b)">
-              <title type="keyterm">Retention of documents not admitted.</title>
+              <title>Retention of documents not admitted.</title>
               <content>Any document offered into evidence but excluded shall not be considered part of the record. The Office of Administrative Adjudication shall retain any such document until the later of the date upon which an order by the Director ending the proceeding becomes final and not appealable, or upon the conclusion of any judicial review of the Director's order.</content>
             </paragraph>
             <paragraph label="1081-306-c" marker="(c)">
-              <title type="keyterm">Substitution of copies.</title>
+              <title>Substitution of copies.</title>
               <content>A true copy of a document may be substituted for any document in the record or any document retained pursuant to paragraph <ref target="1081-306-b" reftype="internal">(b)</ref> of this section.</content>
             </paragraph>
           </section>
@@ -1818,15 +1818,15 @@
           <section label="1081-400" sectionNum="400">
             <subject>§ 1081.400 Recommended decision of the hearing officer.</subject>
             <paragraph label="1081-400-a" marker="(a)">
-              <title type="keyterm">Time period for filing recommended decision.</title>
+              <title>Time period for filing recommended decision.</title>
               <content>Subject to paragraph <ref target="1081-400-b" reftype="internal">(b)</ref> of this section, the hearing officer shall file a recommended decision no later than 90 days after the deadline for filing post-hearing responsive briefs pursuant to § 1081.305(b) and in no event later than 300 days after filing of the notice of charges.</content>
             </paragraph>
             <paragraph label="1081-400-b" marker="(b)">
-              <title type="keyterm">Extension of deadlines.</title>
+              <title>Extension of deadlines.</title>
               <content>In the event the hearing officer presiding over the proceeding determines that it will not be possible to issue the recommended decision within the time periods specified in paragraph <ref target="1081-400-a" reftype="internal">(a)</ref> of this section, the hearing officer shall submit a written request to the Director for an extension of the time period for filing the recommended decision. This request must be filed no later than 30 days prior to the expiration of the time for issuance of a recommended decision. The request will be served on all parties in the proceeding, who may file with the Director briefs in support of or in opposition to the request. Any such briefs must be filed within three days of service of the hearing officer's request and shall not exceed five pages. If the Director determines that additional time is necessary or appropriate in the public interest, the Director shall issue an order extending the time period for filing the recommended decision.</content>
             </paragraph>
             <paragraph label="1081-400-c" marker="(c)">
-              <title type="keyterm">Content.</title>
+              <title>Content.</title>
               <content/>
               <paragraph label="1081-400-c-1" marker="(1)">
                 <content>A recommended decision shall be based on a consideration of the whole record relevant to the issues decided, and shall be supported by reliable, probative, and substantial evidence. The recommended decision shall include a statement of findings of fact (with specific page references to principal supporting items of evidence in the record) and conclusions of law, as well as the reasons or basis therefore, as to all the material issues of fact, law, or discretion presented on the record and the appropriate order, sanction, relief or denial thereof. The recommended decision shall also state that a notice of appeal may be filed within ten days after service of the recommended decision and include a statement that, unless a party timely files and perfects a notice of appeal of the recommended decision, the Director may adopt the recommended decision as the final decision and order of the Bureau without further opportunity for briefing or argument.</content>
@@ -1836,11 +1836,11 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-400-d" marker="(d)">
-              <title type="keyterm">By whom made.</title>
+              <title>By whom made.</title>
               <content>The recommended decision shall be made and filed by the hearing officer who presided over the hearings, except when he or she shall have become unavailable to the Bureau.</content>
             </paragraph>
             <paragraph label="1081-400-e" marker="(e)">
-              <title type="keyterm">Reopening of proceeding by hearing officer; termination of jurisdiction.</title>
+              <title>Reopening of proceeding by hearing officer; termination of jurisdiction.</title>
               <content/>
               <paragraph label="1081-400-e-1" marker="(1)">
                 <content>At any time from the close of the hearing record pursuant to § 1081.304(c) until the filing of his or her recommended decision, a hearing officer may reopen the proceeding for the receipt of further evidence for good cause shown.</content>
@@ -1850,63 +1850,63 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-400-f" marker="(f)">
-              <title type="keyterm">Filing, service, and publication.</title>
+              <title>Filing, service, and publication.</title>
               <content>Upon filing by the hearing officer of the recommended decision, the Office of Administrative Adjudication shall promptly transmit the recommended decision to the Director and serve the recommended decision upon the parties.</content>
             </paragraph>
           </section>
           <section label="1081-401" sectionNum="401">
             <subject>§ 1081.401 Transmission of documents to Director; record index; certification.</subject>
             <paragraph label="1081-401-a" marker="(a)">
-              <title type="keyterm">Filing of index.</title>
+              <title>Filing of index.</title>
               <content>At the same time the Office of Administrative Adjudication transmits the recommended decision to the Director, the hearing officer shall furnish to the Director a certified index of the entire record of the proceedings. The certified index shall include, at a minimum, an entry for each paper, document or motion filed in the proceeding, the date of the filing, and the identity of the filer. The certified index shall also include an exhibit index containing, at a minimum, an entry consisting of exhibit number and title or description for each exhibit introduced and admitted into evidence and each exhibit introduced but not admitted into evidence.</content>
             </paragraph>
             <paragraph label="1081-401-b" marker="(b)">
-              <title type="keyterm">Retention of record items by the Office of Administrative Adjudication.</title>
+              <title>Retention of record items by the Office of Administrative Adjudication.</title>
               <content>After the close of the hearing, the Office of Administrative Adjudication shall retain originals of any motions, exhibits or any other documents filed with, or accepted into evidence by, the hearing officer, or any other portions of the record that have not already been filed with the Office of Administrative Adjudication.</content>
             </paragraph>
           </section>
           <section label="1081-402" sectionNum="402">
             <subject>§ 1081.402 Notice of appeal; review by the Director.</subject>
             <paragraph label="1081-402-a" marker="(a)">
-              <title type="keyterm">Notice of appeal</title>
-              <content>—</content>
+              <title>Notice of appeal</title>
+              <content/>
               <paragraph label="1081-402-a-1" marker="(1)">
-                <title type="keyterm">Filing.</title>
+                <title>Filing.</title>
                 <content>Any party may file exceptions to the recommended decision of the hearing officer by filing a notice of appeal with the Office of Administrative Adjudication within ten days after service of the recommended decision. The notice shall specify the party or parties against whom the appeal is taken and shall designate the recommended decision or part thereof appealed from. If a timely notice of appeal is filed by a party, any other party may thereafter file a notice of appeal within five days after service of the first notice, or within ten days after service of the recommended decision, whichever period expires last.</content>
               </paragraph>
               <paragraph label="1081-402-a-2" marker="(2)">
-                <title type="keyterm">Perfecting a notice of appeal.</title>
+                <title>Perfecting a notice of appeal.</title>
                 <content>Any party filing a notice of appeal must perfect its appeal by filing its opening appeal brief within 30 days of service of the recommended decision. Any party may respond to the opening appeal brief by filing an answering brief within 30 days of service of the opening brief. Any party may file a reply to an answering brief within seven days of service of the answering brief. These briefs must conform to the requirements of § 1081.403.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1081-402-b" marker="(b)">
-              <title type="keyterm">Director review other than pursuant to an appeal.</title>
+              <title>Director review other than pursuant to an appeal.</title>
               <content>In the event no party perfects an appeal of the recommended decision, the Director shall, within 40 days after the date of service of the recommended decision, either issue a final decision and order adopting the recommended decision, or order further briefing regarding any portion of the recommended decision. The Director's order for further briefing shall set forth the scope of review and the issues that will be considered and will make provision for the filing of briefs in accordance with the timelines set forth in paragraph <ref target="1081-402-a-2" reftype="internal">(a)(2)</ref> of this section (except that that opening briefs shall be due within 30 days of service of the order of review) if deemed appropriate by the Director.</content>
             </paragraph>
             <paragraph label="1081-402-c" marker="(c)">
-              <title type="keyterm">Exhaustion of administrative remedies.</title>
+              <title>Exhaustion of administrative remedies.</title>
               <content>Pursuant to <ref target="USC:5-704" reftype="external">5 U.S.C. 704</ref>, a perfected appeal to the Director of a recommended decision pursuant to paragraph <ref target="1081-402-a" reftype="internal">(a)</ref> of this section is a prerequisite to the seeking of judicial review of a final decision and order, or portion of the final decision and order, adopting the recommended decision.</content>
             </paragraph>
           </section>
           <section label="1081-403" sectionNum="403">
             <subject>§ 1081.403 Briefs filed with the Director.</subject>
             <paragraph label="1081-403-a" marker="(a)">
-              <title type="keyterm">Contents of briefs.</title>
+              <title>Contents of briefs.</title>
               <content>Briefs shall be confined to the particular matters at issue. Each exception to the findings or conclusions being reviewed shall be stated succinctly. Exceptions shall be supported by citation to the relevant portions of the record, including references to the specific pages relied upon, and by concise argument including citation of such statutes, decisions, and other authorities as may be relevant. If the exception relates to the admission or exclusion of evidence, the substance of the evidence admitted or excluded shall be set forth in the brief, in an appendix thereto, or by citation to the record. Reply briefs shall be confined to matters in answering briefs of other parties.</content>
             </paragraph>
             <paragraph label="1081-403-b" marker="(b)">
-              <title type="keyterm">Length limitation.</title>
+              <title>Length limitation.</title>
               <content>Except with leave of the Director, opening and answering briefs shall not exceed 30 pages, and reply briefs shall not exceed 15 pages, exclusive of pages containing the table of contents, table of authorities, and any addendum that consists solely of copies of applicable cases, pertinent legislative provisions or rules, and exhibits. Motions to file briefs in excess of these limitations are disfavored.</content>
             </paragraph>
           </section>
           <section label="1081-404" sectionNum="404">
             <subject>§ 1081.404 Oral argument before the Director.</subject>
             <paragraph label="1081-404-a" marker="(a)">
-              <title type="keyterm">Availability.</title>
+              <title>Availability.</title>
               <content>The Director will consider appeals, motions, and other matters properly before him or her on the basis of the papers filed by the parties without oral argument unless the Director determines that the presentation of facts and legal arguments in the briefs and record and decisional process would be significantly aided by oral argument, in which case the Director shall issue an order setting the date on which argument shall be held. A party seeking oral argument shall so indicate on the first page of its opening or answering brief.</content>
             </paragraph>
             <paragraph label="1081-404-b" marker="(b)">
-              <title type="keyterm">Public arguments; transcription.</title>
+              <title>Public arguments; transcription.</title>
               <content>All oral arguments shall be public unless otherwise ordered by the Director. Oral arguments before the Director shall be reported stenographically, unless otherwise ordered by the Director. Motions to correct the transcript of oral argument shall be made according to the same procedure provided in § 1081.304(b).</content>
             </paragraph>
           </section>
@@ -1983,11 +1983,11 @@
           <section label="1081-501" sectionNum="501">
             <subject>§ 1081.501 Basis for issuance, form, and service.</subject>
             <paragraph label="1081-501-a" marker="(a)">
-              <title type="keyterm">In general.</title>
+              <title>In general.</title>
               <content>The Director or his or her designee may issue a temporary cease-and-desist order if he or she determines that one or more of the alleged violations specified in a notice of charges, or the continuation thereof, is likely to cause the respondent to be insolvent or otherwise prejudice the interests of consumers before the completion of the adjudication proceeding. A temporary cease-and-desist order may require the respondent to cease and desist from any violation or practice specified in the notice of charges and to take affirmative action to prevent or remedy such insolvency or other condition pending completion of the proceedings initiated by the issuance of a notice of charges.</content>
             </paragraph>
             <paragraph label="1081-501-b" marker="(b)">
-              <title type="keyterm">Incomplete or inaccurate records.</title>
+              <title>Incomplete or inaccurate records.</title>
               <content>When a notice of charges specifies, on the basis of particular facts and circumstances, that the books and records of a respondent are so incomplete or inaccurate that the Bureau is unable to determine the financial condition of the respondent or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of the respondent, then the Director or his or her designee may issue a temporary order requiring:</content>
               <paragraph label="1081-501-b-1" marker="(1)">
                 <content>The cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or</content>
@@ -1997,7 +1997,7 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-501-c" marker="(c)">
-              <title type="keyterm">Content, scope and form of order.</title>
+              <title>Content, scope and form of order.</title>
               <content>Every temporary cease-and-desist order accompanying a notice of charges shall describe:</content>
               <paragraph label="1081-501-c-1" marker="(1)">
                 <content>The basis for its issuance, including the alleged violations and the harm that is likely to result without the issuance of an order; and</content>
@@ -2007,22 +2007,22 @@
               </paragraph>
             </paragraph>
             <paragraph label="1081-501-d" marker="(d)">
-              <title type="keyterm">Effective and enforceable upon service.</title>
+              <title>Effective and enforceable upon service.</title>
               <content>A temporary cease-and-desist order is effective and enforceable upon service.</content>
             </paragraph>
             <paragraph label="1081-501-e" marker="(e)">
-              <title type="keyterm">Service.</title>
+              <title>Service.</title>
               <content>Service of a temporary cease-and-desist order shall be made pursuant to § 1081.113(d).</content>
             </paragraph>
           </section>
           <section label="1081-502" sectionNum="502">
             <subject>§ 1081.502 Judicial review, duration.</subject>
             <paragraph label="1081-502-a" marker="(a)">
-              <title type="keyterm">Availability of judicial review.</title>
+              <title>Availability of judicial review.</title>
               <content>Judicial review of a temporary cease-and-desist order shall be available solely as provided in section 1053(c)(2) of the Dodd-Frank Act (<ref target="USC:12-5563" reftype="external">12 U.S.C. 5563</ref>(c)(2)). Any respondent seeking judicial review of a temporary cease-and-desist order issued under this subpart must, not later than ten calendar days after service of the temporary cease-and-desist order, apply to the United States district court for the judicial district in which the residence or principal office or place of business of the respondent is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order.</content>
             </paragraph>
             <paragraph label="1081-502-b" marker="(b)">
-              <title type="keyterm">Duration.</title>
+              <title>Duration.</title>
               <content>Unless set aside, limited, or suspended by the Director or his or her designee, or by a court in proceedings authorized under section 1053(c)(2) of the Dodd-Frank Act (<ref target="USC:12-5563" reftype="external">12 U.S.C. 5563</ref>(c)(2)), a temporary cease-and-desist order shall remain effective and enforceable until:</content>
               <paragraph label="1081-502-b-1" marker="(1)">
                 <content>The effective date of a final order issued upon the conclusion of the adjudication proceeding;</content>
@@ -2053,8 +2053,7 @@
     <analysisSection target="1081-201" notice="2011-19032" date="2011-07-28">
       <title>Section 1081.201 Answer</title>
       <analysisParagraph>This section requires a respondent to file an answer in all cases. The Bureau considered, but rejected, the approach set forth in the SEC Rules, 17 CFR 201.220(a), whereby an answer is required only if specified in the notice of charges. The Bureau believes that an answer can help focus and narrow the matters at issue. Respondents must file an answer within 14 days of service of the notice of charges. The 14-day time period is adopted from the FTC Rules, 16 CFR 3.12. As in the Uniform Rules, 12 CFR 19.19(c), failure to file a timely answer is deemed to be a waiver of the right to appear and a consent to the entry of an order granting the relief sought by the Bureau in the notice of charges. This section provides that in the case of default, the hearing officer is authorized, without further proceedings, to find the facts to be as alleged in the notice of charges and to enter a recommended decision containing appropriate findings and conclusions.</analysisParagraph>
-      <analysisParagraph>This section adopts the procedure from the SEC Rules for a motion to set aside a default, 17 CFR 201.155. It also provides that the hearing officer, prior to the filing of the recommended decision, or the Director, at any time, may set aside a default for good cause shown.
-          </analysisParagraph>
+      <analysisParagraph>This section adopts the procedure from the SEC Rules for a motion to set aside a default, 17 CFR 201.155. It also provides that the hearing officer, prior to the filing of the recommended decision, or the Director, at any time, may set aside a default for good cause shown.</analysisParagraph>
     </analysisSection>
     <analysisSection target="1081-200" notice="2011-19032" date="2011-07-28">
       <title>Section 1081.200 Commencement of Proceedings and Contents of Notice of Charges</title>
@@ -2092,8 +2091,7 @@
     <analysisSection target="1081-205" notice="2011-19032" date="2011-07-28">
       <title>Section 1081.205 Non-Dispositive Motions</title>
       <analysisParagraph>This section governs all motions other than motions to dismiss or motions for summary disposition, which are governed by § 212. The section generally sets forth the requirements for filing a non-dispositive motion, and requires that all such motions must be in writing, state with particularity the relief sought, and include a proposed order. This section also makes clear that motions filed pursuant to sections that impose different requirements should follow those requirements, and the requirements of § 205 to the extent they are not inconsistent. For example, § 208(g), which relates to motions to quash subpoenas, provides for a shorter time period for the filing of a responsive brief and prohibits the filing of a reply unless requested by the hearing officer. These conditions govern motions to quash, but such motions are still subject to other provisions of § 205, including, <em data-original="E-03">inter alia,</em> the need to meet and confer, deadlines for the hearing officer's ruling, and length limitations of the briefs.</analysisParagraph>
-      <analysisParagraph>Like the Uniform Rules and the FTC Rules, 12 CFR 19.23(d)(1); 16 CFR 3.22(d), this section gives a party 10 days after service of a non-dispositive motion to respond to such motion in writing. It provides for reply briefs, which must be filed within three days after service of the response. A party's failure to respond to a motion shall waive that party's right to oppose such motion and constitutes consent to the entry of an order substantially in the form of the order accompanying that motion. This section adopts the SEC's 15-page length limitation for non-dispositive motions and oppositions, 17 CFR 201.154(c), and a six page length limitation for reply briefs. The Bureau has adopted these time and length limitations because they provide parties ample opportunity to express their views on matters that do not concern the ultimate disposition of the action.
-          </analysisParagraph>
+      <analysisParagraph>Like the Uniform Rules and the FTC Rules, 12 CFR 19.23(d)(1); 16 CFR 3.22(d), this section gives a party 10 days after service of a non-dispositive motion to respond to such motion in writing. It provides for reply briefs, which must be filed within three days after service of the response. A party's failure to respond to a motion shall waive that party's right to oppose such motion and constitutes consent to the entry of an order substantially in the form of the order accompanying that motion. This section adopts the SEC's 15-page length limitation for non-dispositive motions and oppositions, 17 CFR 201.154(c), and a six page length limitation for reply briefs. The Bureau has adopted these time and length limitations because they provide parties ample opportunity to express their views on matters that do not concern the ultimate disposition of the action.</analysisParagraph>
       <analysisParagraph>The section also requires parties to make a good faith effort to meet and confer prior to the filing of a non-dispositive motion in an effort to resolve the controversy by agreement. The Bureau has included the meet-and-confer requirement because it believes that such conferences can help obviate the need for, or narrow the scope of, disputed motions, thus saving both the parties and the hearing officer time and resources.</analysisParagraph>
       <analysisParagraph>This section provides that the hearing officer shall rule on a non-dispositive motion, and shall do so within 14 days after the expiration of the time for filing of all motions papers authorized by this section, and that the pendency of a motion shall not stay proceedings. This time limitation is based on the FTC Rules, 16 CFR 3.22(e), and is intended to ensure the timely resolution of disputes so that the proceeding as a whole can conclude in a fair and expeditious manner. As noted above, both the FTC and the SEC have revised their rules of practice to provide for the more expeditious resolution of administrative adjudications, and the incorporation of a time period in which the hearing officer must rule on a non-dispositive motion is, in the views of the Bureau, a critical part of that effort. <em data-original="E-03">See</em> 73 FR 58831, 58836 (Oct. 7, 2008) (FTC expects that provision requiring ALJs to decide motions within 14 days will expedite cases).</analysisParagraph>
     </analysisSection>
@@ -2153,8 +2151,7 @@
     </analysisSection>
     <analysisSection target="1081-109" notice="2011-19032" date="2011-07-28">
       <title>Section 1081.109 Conflict of Interest</title>
-      <analysisParagraph>In general, conflicts of interest in representing parties to adjudication proceedings are prohibited by the Rules. The hearing officer is empowered to take corrective steps to eliminate such conflicts. If counsel represents more than one party to a proceeding, counsel is required to file at the time he or she files his or her notice of appearance a certification that: (1) The potential for possible conflicts of interest has been fully discussed with each such party; and (2) the parties individually waive any right to assert any conflicts of interest during the proceeding. This approach is based upon the Uniform Rules, 12 CFR 19.8, which itself was based upon the Model Code of Conduct for attorneys and the District of Columbia Ethics Rule. <em data-original="E-03">See</em> 56 FR 27790, 27793 (June 17, 1991).
-          </analysisParagraph>
+      <analysisParagraph>In general, conflicts of interest in representing parties to adjudication proceedings are prohibited by the Rules. The hearing officer is empowered to take corrective steps to eliminate such conflicts. If counsel represents more than one party to a proceeding, counsel is required to file at the time he or she files his or her notice of appearance a certification that: (1) The potential for possible conflicts of interest has been fully discussed with each such party; and (2) the parties individually waive any right to assert any conflicts of interest during the proceeding. This approach is based upon the Uniform Rules, 12 CFR 19.8, which itself was based upon the Model Code of Conduct for attorneys and the District of Columbia Ethics Rule. <em data-original="E-03">See</em> 56 FR 27790, 27793 (June 17, 1991).</analysisParagraph>
     </analysisSection>
     <analysisSection target="1081-100" notice="2011-19032" date="2011-07-28">
       <title>Section 1081.100 Scope of the Rules of Practice</title>
@@ -2328,10 +2325,7 @@
         </analysisSection>
         <analysisSection>
           <title>2. Section 1022(b)(2) Provisions</title>
-          <analysisParagraph>The CFPB has conducted an analysis of benefits, costs, and impacts <footnote ref="3">Section 1022(b)(2)(A) addresses the consideration of the potential benefits and costs of regulation to consumers and industry, including the potential reduction of access by consumers to consumer financial products or services; the impact of proposed rules on depository institutions and credit unions with $10 billion or less in total assets as described in Section 1026 of the Dodd-Frank Act; and the impact on consumers in rural areas.</footnote>
-             and consulted with the prudential regulators, the Department of Housing and Urban Development, the Securities and Exchange Commission, the Department of Justice, and the Federal Trade Commission, including with respect to whether the Rules are consistent with any relevant prudential, market, and systemic objectives administered by such agencies.<footnote ref="4">The President's July 11, 2011, Executive Order 13579 entitled “Regulation and Independent Regulatory Agencies,” asks the independent agencies to follow the cost-saving, burden-reducing principles in Executive Order 13563; harmonization and simplification of rules; flexible approaches that reduce costs; and scientific integrity. In the spirit of Executive Order 13563, the CFPB has consulted with the Office of Management and Budget regarding this interim final rule.</footnote>
-            
-          </analysisParagraph>
+          <analysisParagraph>The CFPB has conducted an analysis of benefits, costs, and impacts <footnote ref="3">Section 1022(b)(2)(A) addresses the consideration of the potential benefits and costs of regulation to consumers and industry, including the potential reduction of access by consumers to consumer financial products or services; the impact of proposed rules on depository institutions and credit unions with $10 billion or less in total assets as described in Section 1026 of the Dodd-Frank Act; and the impact on consumers in rural areas.</footnote>and consulted with the prudential regulators, the Department of Housing and Urban Development, the Securities and Exchange Commission, the Department of Justice, and the Federal Trade Commission, including with respect to whether the Rules are consistent with any relevant prudential, market, and systemic objectives administered by such agencies.<footnote ref="4">The President's July 11, 2011, Executive Order 13579 entitled “Regulation and Independent Regulatory Agencies,” asks the independent agencies to follow the cost-saving, burden-reducing principles in Executive Order 13563; harmonization and simplification of rules; flexible approaches that reduce costs; and scientific integrity. In the spirit of Executive Order 13563, the CFPB has consulted with the Office of Management and Budget regarding this interim final rule.</footnote></analysisParagraph>
           <analysisParagraph>The Bureau concludes that the Rules will benefit consumers and covered persons alike. The Rules do not impose any obligations on consumers or covered persons, nor do they have any direct relevance to consumers' access to consumer financial products and services. Rather, they provide a clear, efficient mechanism for the conduct of adjudication proceedings, which benefits consumers because the Rules offer a systematic process for protecting them from unlawful behavior. The Rules are intended to provide an expeditious decision-making process, which will benefit both consumers and covered persons. The Rules adopt an affirmative disclosure approach to fact discovery, pursuant to which the Bureau will make available to respondents the information obtained by the Division of Enforcement from persons not employed by the Bureau prior to the institution of proceedings, in connection with the investigation leading to the institution of proceedings. This affirmative disclosure obligation substitutes for the traditional civil discovery process, which can be both time-consuming and expensive. The Bureau believes that the Rules, on the whole, will afford covered persons with a relatively inexpensive way to have their cases heard. The Rules are based upon, and drawn from, existing rules of the prudential regulators, the Federal Trade Commission, and the Securities and Exchange Commission. Their grounding in rules likely familiar to practitioners should further reduce the expense of administrative adjudication for covered persons.</analysisParagraph>
           <analysisParagraph>Further, the Rules have no unique impact on insured depository institutions or insured credit unions with less than $10 billion in assets described in section 1026(a) of the Act, and do not have a unique impact on rural consumers.</analysisParagraph>
           <analysisParagraph>For the reasons set forth above, the Bureau of Consumer Financial Protection adds part 1081 to 12 CFR Chapter X to read as set forth below.</analysisParagraph>
