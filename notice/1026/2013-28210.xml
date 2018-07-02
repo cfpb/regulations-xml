@@ -3139,7 +3139,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-24(B)" after="1026-H-24(A)">
+  </change>
+  <change operation="added" label="1026-H-24(B)" after="1026-H-24(A)">
     <appendixSection appendixSecNum="242" label="1026-H-24(B)">
       <subject>H-24(B)—Mortgage Loan Transaction Loan Estimate—Fixed Rate Loan Sample</subject>
       <paragraph label="1026-H-24(B)-p1" marker="">
@@ -3176,7 +3177,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-24(C)" after="1026-H-24(B)">
+  </change>
+  <change operation="added" label="1026-H-24(C)" after="1026-H-24(B)">
     <appendixSection appendixSecNum="243" label="1026-H-24(C)">
       <subject>H-24(C)—Mortgage Loan Transaction Loan Estimate—Interest Only Adjustable Rate Loan Sample</subject>
       <paragraph label="1026-H-24(C)-p1" marker="">
@@ -3213,7 +3215,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-24(D)" after="1026-H-24(C)">
+  </change>
+  <change operation="added" label="1026-H-24(D)" after="1026-H-24(C)">
     <appendixSection appendixSecNum="244" label="1026-H-24(D)">
       <subject>H-24(D)—Mortgage Loan Transaction Loan Estimate—Refinance Sample</subject>
       <paragraph label="1026-H-24(D)-p1" marker="">
@@ -3250,7 +3253,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-24(E)" after="1026-H-24(D)">
+  </change>
+  <change operation="added" label="1026-H-24(E)" after="1026-H-24(D)">
     <appendixSection appendixSecNum="245" label="1026-H-24(E)">
       <subject>H-24(E)—Mortgage Loan Transaction Loan Estimate—Balloon Payment Sample</subject>
       <paragraph label="1026-H-24(E)-p1" marker="">
@@ -3267,7 +3271,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-24(F)" after="1026-H-24(E)">
+  </change>
+  <change operation="added" label="1026-H-24(F)" after="1026-H-24(E)">
     <appendixSection appendixSecNum="246" label="1026-H-24(F)">
       <subject>H-24(F)—Mortgage Loan Transaction Loan Estimate—Negative Amortization Sample</subject>
       <paragraph label="1026-H-24(F)-p1" marker="">
@@ -3284,7 +3289,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-24(G)" after="1026-H-24(F)">
+  </change>
+  <change operation="added" label="1026-H-24(G)" after="1026-H-24(F)">
     <appendixSection appendixSecNum="247" label="1026-H-24(G)">
       <subject>H-24(G)—Mortgage Loan Transaction Loan Estimate—Modification to Loan Estimate for Transaction Not Involving Seller—Model Form</subject>
       <paragraph label="1026-H-24(G)-p1" marker="">
@@ -3537,7 +3543,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-25(B)" after="1026-H-25(A)">
+  </change>
+  <change operation="added" label="1026-H-25(B)" after="1026-H-25(A)">
     <appendixSection appendixSecNum="252" label="1026-H-25(B)">
       <subject>H-25(B)—Mortgage Loan Transaction Closing Disclosure—Fixed Rate Loan Sample</subject>
       <paragraph label="1026-H-25(B)-p1" marker="">
@@ -3594,7 +3601,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-25(C)" after="1026-H-25(B)">
+  </change>
+  <change operation="added" label="1026-H-25(C)" after="1026-H-25(B)">
     <appendixSection appendixSecNum="253" label="1026-H-25(C)">
       <subject>H-25(C)—Mortgage Loan Transaction Closing Disclosure—Borrower Funds From Second-Lien Loan in Summaries of Transactions Sample</subject>
       <paragraph label="1026-H-25(C)-p1" marker="">
@@ -3611,7 +3619,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-25(D)" after="1026-H-25(C)">
+  </change>
+  <change operation="added" label="1026-H-25(D)" after="1026-H-25(C)">
     <appendixSection appendixSecNum="254" label="1026-H-25(D)">
       <subject>H-25(D)—Mortgage Loan Transaction Closing Disclosure—Borrower Satisfaction of Seller’s Second-Lien Loan Outside of Closing in Summaries of Transactions Sample</subject>
       <paragraph label="1026-H-25(D)-p1" marker="">
@@ -3628,7 +3637,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-25(E)" after="1026-H-25(D)">
+  </change>
+  <change operation="added" label="1026-H-25(E)" after="1026-H-25(D)">
     <appendixSection appendixSecNum="255" label="1026-H-25(E)">
       <subject>H-25(E)—Mortgage Loan Transaction Closing Disclosure—Refinance Transaction Sample</subject>
       <paragraph label="1026-H-25(E)-p1" marker="">
@@ -3685,7 +3695,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-25(F)" after="1026-H-25(E)">
+  </change>
+  <change operation="added" label="1026-H-25(F)" after="1026-H-25(E)">
     <appendixSection appendixSecNum="256" label="1026-H-25(F)">
       <subject>H-25(F)—Mortgage Loan Transaction Closing Disclosure—Refinance Transaction Sample (Amount in Excess of § 1026.19(e)(3))</subject>
       <paragraph label="1026-H-25(F)-p1" marker="">
@@ -3702,7 +3713,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-25(G)" after="1026-H-25(F)">
+  </change>
+  <change operation="added" label="1026-H-25(G)" after="1026-H-25(F)">
     <appendixSection appendixSecNum="257" label="1026-H-25(G)">
       <subject>H-25(G)—Mortgage Loan Transaction Closing Disclosure—Refinance Transaction With Cash From Consumer at Consummation</subject>
       <paragraph label="1026-H-25(G)-p1" marker="">
@@ -3759,7 +3771,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-25(H)" after="1026-H-25(G)">
+  </change>
+  <change operation="added" label="1026-H-25(H)" after="1026-H-25(G)">
     <appendixSection appendixSecNum="258" label="1026-H-25(H)">
       <subject>H-25(H)—Mortgage Loan Transaction Closing Disclosure—Modification to Closing Cost Details—Model Form</subject>
       <paragraph label="1026-H-25(H)-p1" marker="">
@@ -3786,7 +3799,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-25(I)" after="1026-H-25(H)">
+  </change>
+  <change operation="added" label="1026-H-25(I)" after="1026-H-25(H)">
     <appendixSection appendixSecNum="259" label="1026-H-25(I)">
       <subject>H-25(I)—Mortgage Loan Transaction Closing Disclosure—Modification to Closing Disclosure for Disclosure Provided to Seller—Model Form</subject>
       <paragraph label="1026-H-25(I)-p1" marker="">
@@ -3813,7 +3827,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-25(J)" after="1026-H-25(I)">
+  </change>
+  <change operation="added" label="1026-H-25(J)" after="1026-H-25(I)">
     <appendixSection appendixSecNum="260" label="1026-H-25(J)">
       <subject>H-25(J)—Mortgage Loan Transaction Closing Disclosure—Modification to Closing Disclosure for Transaction Not Involving Seller—Model Form</subject>
       <paragraph label="1026-H-25(J)-p1" marker="">
@@ -3940,7 +3955,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-26" after="1026-H-25(J)">
+  </change>
+  <change operation="added" label="1026-H-26" after="1026-H-25(J)">
     <appendixSection appendixSecNum="261" label="1026-H-26">
       <subject>H-26—Mortgage Loan Transaction—PreLoan Estimate Statement—Model Form</subject>
       <paragraph label="1026-H-26-p1" marker="">
@@ -3983,7 +3999,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-27(B)" after="1026-H-27(A)">
+  </change>
+  <change operation="added" label="1026-H-27(B)" after="1026-H-27(A)">
     <appendixSection appendixSecNum="272" label="1026-H-27(B)">
       <subject>H-27(B)—Mortgage Loan Transaction—Sample of Written List of Providers</subject>
       <paragraph label="1026-H-27(B)-p1" marker="">
@@ -4000,7 +4017,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-27(C)" after="1026-H-27(B)">
+  </change>
+  <change operation="added" label="1026-H-27(C)" after="1026-H-27(B)">
     <appendixSection appendixSecNum="273" label="1026-H-27(C)">
       <subject>H-27(C)—Mortgage Loan Transaction—Sample of Written List of Providers With Services You Cannot Shop for</subject>
       <paragraph label="1026-H-27(C)-p1" marker="">
@@ -4133,7 +4151,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-28(B)" after="1026-H-28(A)">
+  </change>
+  <change operation="added" label="1026-H-28(B)" after="1026-H-28(A)">
     <appendixSection appendixSecNum="282" label="1026-H-28(B)">
       <subject>H-28(B)—Mortgage Loan Transaction Loan Estimate—Spanish Language Purchase Sample</subject>
       <paragraph label="1026-H-28(B)-p1" marker="">
@@ -4170,7 +4189,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-28(C)" after="1026-H-28(B)">
+  </change>
+  <change operation="added" label="1026-H-28(C)" after="1026-H-28(B)">
     <appendixSection appendixSecNum="283" label="1026-H-28(C)">
       <subject>H-28(C)—Mortgage Loan Transaction Loan Estimate—Spanish Language Refinance Sample</subject>
       <paragraph label="1026-H-28(C)-p1" marker="">
@@ -4207,7 +4227,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-28(D)" after="1026-H-28(C)">
+  </change>
+  <change operation="added" label="1026-H-28(D)" after="1026-H-28(C)">
     <appendixSection appendixSecNum="284" label="1026-H-28(D)">
       <subject>H-28(D)—Mortgage Loan Transaction Loan Estimate—Spanish Language Balloon Payment Sample</subject>
       <paragraph label="1026-H-28(D)-p1" marker="">
@@ -4224,7 +4245,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-28(E)" after="1026-H-28(D)">
+  </change>
+  <change operation="added" label="1026-H-28(E)" after="1026-H-28(D)">
     <appendixSection appendixSecNum="285" label="1026-H-28(E)">
       <subject>H-28(E)—Mortgage Loan Transaction Loan Estimate—Spanish Language Negative Amortization Sample</subject>
       <paragraph label="1026-H-28(E)-p1" marker="">
@@ -4241,7 +4263,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-28(F)" after="1026-H-28(E)">
+  </change>
+  <change operation="added" label="1026-H-28(F)" after="1026-H-28(E)">
     <appendixSection appendixSecNum="286" label="1026-H-28(F)">
       <subject>H-28(F)—Mortgage Loan Transaction Closing Disclosure—Spanish Language Model Form</subject>
       <paragraph label="1026-H-28(F)-p1" marker="">
@@ -4398,7 +4421,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-28(G)" after="1026-H-28(F)">
+  </change>
+  <change operation="added" label="1026-H-28(G)" after="1026-H-28(F)">
     <appendixSection appendixSecNum="287" label="1026-H-28(G)">
       <subject>H-28(G)—Mortgage Loan Transaction Closing Disclosure—Spanish Language Purchase Sample</subject>
       <paragraph label="1026-H-28(G)-p1" marker="">
@@ -4465,7 +4489,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-28(H)" after="1026-H-28(G)">
+  </change>
+  <change operation="added" label="1026-H-28(H)" after="1026-H-28(G)">
     <appendixSection appendixSecNum="288" label="1026-H-28(H)">
       <subject>H-28(H)—Mortgage Loan Transaction Closing Disclosure—Spanish Language Refinance Sample</subject>
       <paragraph label="1026-H-28(H)-p1" marker="">
@@ -4532,7 +4557,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-28(I)" after="1026-H-28(H)">
+  </change>
+  <change operation="added" label="1026-H-28(I)" after="1026-H-28(H)">
     <appendixSection appendixSecNum="289" label="1026-H-28(I)">
       <subject>H-28(I)—Mortgage Loan Transaction Loan Estimate—Modification to Loan Estimate for Transaction Not Involving Seller—Spanish Language Model Form</subject>
       <paragraph label="1026-H-28(I)-p1" marker="">
@@ -4629,7 +4655,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-28(J)" after="1026-H-28(I)">
+  </change>
+  <change operation="added" label="1026-H-28(J)" after="1026-H-28(I)">
     <appendixSection appendixSecNum="290" label="1026-H-28(J)">
       <subject>H-28(J)—Mortgage Loan Transaction Closing Disclosure—Modification to Closing Disclosure for Transaction Not Involving Seller—Spanish Language Model Form</subject>
       <paragraph label="1026-H-28(J)-p1" marker="">
@@ -4776,7 +4803,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="added" label="1026-H-29" after="1026-H-28(J)">
+  </change>
+  <change operation="added" label="1026-H-29" after="1026-H-28(J)">
     <appendixSection appendixSecNum="291" label="1026-H-29">
       <subject>H-29—Escrow Cancellation Notice Model Form (§ 1026.20(e))</subject>
       <paragraph label="1026-H-29-p1" marker="">
@@ -4793,7 +4821,8 @@
         </content>
       </paragraph>
     </appendixSection>
-  </change><change operation="modified" label="1026-1-c-5-Interp">
+  </change>
+  <change operation="modified" label="1026-1-c-5-Interp">
     <interpParagraph label="1026-1-c-5-Interp" target="1026-1-c-5">
       <title>Paragraph 1(c)(5).</title>
       <content/>
@@ -4802,7 +4831,8 @@
         <content>Section <ref target="1026-1-c-5" reftype="internal">1026.1(c)(5)</ref> implements sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129C(h), 129D(h), 129D(j)(1)(A), and 129D(j)(1)(B) of the Truth in Lending Act and section 4(c) of the Real Estate Settlement Procedures Act, by exempting <ref target="1026-2-a-22" reftype="term">persons</ref> from the disclosure requirements of those sections, except in certain transactions. The exemptions do not apply to certain transactions for which the disclosure requirements are implemented in other parts of Regulation Z. Sections 1026.37 and 1026.38 implement sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129D(h), and 129D(j)(1)(A) of the Truth in Lending Act and section 4(c) of the Real Estate Settlement Procedures Act for transactions subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>. Section <ref target="1026-38-l-5" reftype="internal">1026.38(l)(5)</ref> implements the disclosure requirements of section 129C(h) of the Truth in Lending Act for transactions subject to § <ref target="1026-19-f" reftype="internal">1026.19(f)</ref>. Section <ref target="1026-39-d-5" reftype="internal">1026.39(d)(5)</ref> implements the disclosure requirements of section 129C(h) of the Truth in Lending Act for transactions subject to § <ref target="1026-39-d-5" reftype="internal">1026.39(d)(5)</ref>. Section <ref target="1026-20-e" reftype="internal">1026.20(e)</ref> implements the disclosure requirements of section 129D(j)(1)(B) of the Truth in Lending Act for transactions subject to § <ref target="1026-20-e" reftype="internal">1026.20(e)</ref>. Section <ref target="1026-1-c-5" reftype="internal">1026.1(c)(5)</ref> does not exempt any <ref target="1026-2-a-22" reftype="term">person</ref> from any other requirement of this part, Regulation X (<ref target="CFR:12-1024" reftype="external">12 CFR part 1024</ref>), the Truth in Lending Act, or the Real Estate Settlement Procedures Act.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="added" label="1026-1-d-Interp">
+  </change>
+  <change operation="added" label="1026-1-d-Interp">
     <interpParagraph label="1026-1-d-Interp">
       <title>1(d) Organization.</title>
       <content/>
@@ -4827,7 +4857,8 @@
         </interpParagraph>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="added" label="1026-2-a-3-Interp" after="1026-2-a-2-Interp">
+  </change>
+  <change operation="added" label="1026-2-a-3-Interp" after="1026-2-a-2-Interp">
     <interpParagraph label="1026-2-a-3-Interp" target="1026-2-a-3" marker="">
       <title>2(a)(3) Application.</title>
       <content/>
@@ -4850,14 +4881,17 @@
         <content>Section <ref target="1026-19-a-1-iii" reftype="internal">1026.19(a)(1)(iii)</ref> permits the imposition of a fee to obtain the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s <ref target="1026-2-a-14" reftype="term">credit</ref> history prior to the delivery of the disclosures required under § <ref target="1026-19-a-1-i" reftype="internal">1026.19(a)(1)(i)</ref>. Section <ref target="1026-19-e-2-i-B" reftype="internal">1026.19(e)(2)(i)(B)</ref> permits the imposition of a fee to obtain the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s <ref target="1026-2-a-14" reftype="term">credit</ref> report prior to the delivery of the disclosures required under § <ref target="1026-19-e-1-i" reftype="internal">1026.19(e)(1)(i)</ref>. Whether, or when, such fees are received does not affect whether an application has been received for the purposes of the definition in § <ref target="1026-2-a-3" reftype="internal">1026.2(a)(3)</ref> and the timing requirements in § <ref target="1026-19-a-1-i" reftype="internal">1026.19(a)(1)(i)</ref> and (e)(1)(iii). For example, if, in a transaction subject to § <ref target="1026-19-e-1-i" reftype="internal">1026.19(e)(1)(i)</ref>, a <ref target="1026-2-a-17" reftype="term">creditor</ref> receives the six pieces of information identified under § <ref target="1026-2-a-3-ii" reftype="internal">1026.2(a)(3)(ii)</ref> on Monday, June 1, but does not receive a <ref target="1026-2-a-14" reftype="term">credit</ref> report fee from the <ref target="1026-2-a-11" reftype="term">consumer</ref> until Tuesday, June 2, the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not comply with § <ref target="1026-19-e-1-iii" reftype="internal">1026.19(e)(1)(iii)</ref> if it provides the disclosures required under § <ref target="1026-19-e-1-i" reftype="internal">1026.19(e)(1)(i)</ref> after Thursday, June 4. The three-business-day period beings on Monday, June 1, the date the <ref target="1026-2-a-17" reftype="term">creditor</ref> received the six pieces of information. The waiting period does not begin on Tuesday, June 2, the date the <ref target="1026-2-a-17" reftype="term">creditor</ref> received the <ref target="1026-2-a-14" reftype="term">credit</ref> report fee.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="modified" label="1026-2-a-6-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-2-a-6-Interp-2" subpath="content">
     <content>A more precise rule for what is a <ref target="1026-2-a-6" reftype="term">business day</ref> (all calendar days except Sundays and the Federal legal holidays specified in <ref target="USC:5-6103" reftype="external">5 U.S.C. 6103</ref>(a)) applies when the right of rescission, the receipt of disclosures for certain <ref target="1026-2-a-19" reftype="term">dwelling</ref>- or real estate-secured mortgage transactions under §§ <ref target="1026-19-a-1-ii" reftype="internal">1026.19(a)(1)(ii)</ref>, <ref target="1026-19-a-2" reftype="internal">1026.19(a)(2)</ref>, <ref target="1026-19-e-1-iii-B" reftype="internal">1026.19(e)(1)(iii)(B)</ref>, <ref target="1026-19-e-1-iv" reftype="internal">1026.19(e)(1)(iv)</ref>, <ref target="1026-19-e-2-i-A" reftype="internal">1026.19(e)(2)(i)(A)</ref>, <ref target="1026-19-e-4-ii" reftype="internal">1026.19(e)(4)(ii)</ref>, <ref target="1026-19-f-1-ii" reftype="internal">1026.19(f)(1)(ii)</ref>, <ref target="1026-19-f-1-iii" reftype="internal">1026.19(f)(1)(iii)</ref>, <ref target="1026-20-e-5" reftype="internal">1026.20(e)(5)</ref>, <ref target="1026-31-c" reftype="internal">1026.31(c)</ref>, or the receipt of disclosures for private education loans under § <ref target="1026-46-d-4" reftype="internal">1026.46(d)(4)</ref> is involved. Four Federal legal holidays are identified in <ref target="USC:5-6103" reftype="external">5 U.S.C. 6103</ref>(a) by a specific date: New Year's Day, January 1; Independence Day, July 4; Veterans Day, November 11; and Christmas Day, December 25. When one of these holidays (July 4, for example) falls on a Saturday, Federal offices and other entities might observe the holiday on the preceding Friday (July 3). In cases where the more precise rule applies, the observed holiday (in the example, July 3) is a <ref target="1026-2-a-6" reftype="term">business day</ref>.</content>
-  </change><change operation="modified" label="1026-2-a-25-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-2-a-25-Interp-2" subpath="content">
     <content>The general definition of <ref target="1026-2-a-25" reftype="term">security interest</ref> excludes three groups of interests: incidental interests, interests in after-acquired property, and interests that arise solely by operation of law. These interests may not be disclosed with the disclosures required under § <ref target="1026-18" reftype="internal">1026.18</ref> <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, and <ref target="1026-38-l-6" reftype="internal">1026.38(l)(6)</ref>, but the <ref target="1026-2-a-17" reftype="term">creditor</ref> is not precluded from preserving these rights elsewhere in the contract documents, or invoking and enforcing such rights, if it is otherwise lawful to do so. If the <ref target="1026-2-a-17" reftype="term">creditor</ref> is unsure whether a particular interest is one of the excluded interests, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may, at its option, consider such interests as <ref target="1026-2-a-25" reftype="term">security interests</ref> for purposes of the Truth in Lending Act (<ref target="USC:15-1601" reftype="external">15 U.S.C. 1601</ref> et seq.) and Regulation Z.</content>
   </change><!-- todo: references -->
   <change operation="modified" label="1026-3-a-Interp-9" subpath="content">
     <content>The exemption for transactions in which the borrower is not a natural <ref target="1026-2-a-22" reftype="term">person</ref> applies, for example, to loans to corporations, partnerships, associations, churches, unions, and fraternal organizations. The exemption applies regardless of the purpose of the <ref target="1026-2-a-14" reftype="term">credit</ref> extension and regardless of the fact that a natural <ref target="1026-2-a-22" reftype="term">person</ref> may guarantee or provide security for the <ref target="1026-2-a-14" reftype="term">credit</ref>. But see comment 3(a)–10 concerning credit extended to trusts.</content>
-  </change><change operation="modified" label="1026-3-a-Interp-10">
+  </change>
+  <change operation="modified" label="1026-3-a-Interp-10">
     <interpParagraph label="1026-3-a-Interp-10" marker="10.">
       <title type="keyterm">Trusts.</title>
       <content><ref target="1026-2-a-14" reftype="term">Credit</ref> extended for <ref target="1026-2-a-11" reftype="term">consumer</ref> purposes to certain trusts is considered to be <ref target="1026-2-a-14" reftype="term">credit</ref> extended to a natural <ref target="1026-2-a-22" reftype="term">person</ref> rather than <ref target="1026-2-a-14" reftype="term">credit</ref> extended to an organization. Specifically:</content>
@@ -4870,7 +4904,8 @@
         <content>In some jurisdictions, a financial institution financing a residential real estate transaction for an individual uses a land trust mechanism. Title to the property is conveyed to the land trust for which the financial institution itself is trustee. The underlying installment note is executed by the financial institution in its capacity as trustee and payment is secured by a trust deed, reflecting title in the financial institution as trustee. In some instances, the <ref target="1026-2-a-11" reftype="term">consumer</ref> executes a personal guaranty of the indebtedness. The note provides that it is payable only out of the property specifically described in the trust deed and that the trustee has no personal liability on the note. Assuming the transactions are primarily for personal, family, or household purposes, these transactions are subject to the regulation because in substance (if not form) <ref target="1026-2-a-12" reftype="term">consumer credit</ref> is being extended.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="added" label="1026-3-h-Interp">
+  </change>
+  <change operation="added" label="1026-3-h-Interp">
     <interpParagraph label="1026-3-h-Interp" target="1026-3-h">
       <title>3(h) Partial exemption for certain mortgage loans.</title>
       <content/>
@@ -4883,112 +4918,155 @@
         <content>The conditions that the transaction not require the payment of interest under § <ref target="1026-3-h-3" reftype="internal">1026.3(h)(3)</ref> and that repayment of the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended be forgiven or deferred in accordance with § <ref target="1026-3-h-4" reftype="internal">1026.3(h)(4)</ref> is determined by the terms of the <ref target="1026-2-a-14" reftype="term">credit</ref> contract. The other requirements of § <ref target="1026-3-h" reftype="internal">1026.3(h)</ref> need not be reflected in the <ref target="1026-2-a-14" reftype="term">credit</ref> contract, but the <ref target="1026-2-a-17" reftype="term">creditor</ref> must retain evidence of compliance with those provisions, as required by § <ref target="1026-25-a" reftype="internal">1026.25(a)</ref>. In particular, because the exemption from § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref>, (f), and (g) means the <ref target="1026-2-a-11" reftype="term">consumer</ref> will not receive the disclosures of closing costs under § <ref target="1026-37" reftype="internal">1026.37</ref> or § <ref target="1026-38" reftype="internal">1026.38</ref>, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must have information reflecting that the total of closing costs imposed in connection with the transaction is less than one percent of the amount of <ref target="1026-2-a-14" reftype="term">credit</ref> extended and include no charges other than recordation, application, and housing counseling fees, in accordance with § <ref target="1026-3-h-5" reftype="internal">1026.3(h)(5)</ref>. Unless an itemization of the amount financed sufficiently details this requirement, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must establish compliance with § <ref target="1026-3-h-5" reftype="internal">1026.3(h)(5)</ref> by some other written document and retain it in accordance with § <ref target="1026-25-a" reftype="internal">1026.25(a)</ref>.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="added" label="1026-17-a-Interp-1" before="1026-17-a-1-Interp">
+  </change>
+  <change operation="added" label="1026-17-a-Interp-1" before="1026-17-a-1-Interp">
     <interpParagraph label="1026-17-a-Interp-1" marker="1.">
       <title type="keyterm">Rules for certain mortgage disclosures.</title>
       <content>Section <ref target="1026-17-a" reftype="internal">1026.17(a)</ref> and (b) does not apply to the disclosures required by § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref>, (f), and (g), and § <ref target="1026-20-e" reftype="internal">1026.20(e)</ref>. For the disclosures required by § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref>, (f), and (g), rules regarding the disclosures’ form are found in §§ <ref target="1026-19-g" reftype="internal">1026.19(g)</ref>, <ref target="1026-37-o" reftype="internal">1026.37(o)</ref>, and <ref target="1026-38-t" reftype="internal">1026.38(t)</ref> and rules regarding timing are found in § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref>, (f), and (g). For the disclosures required by § <ref target="1026-20-e" reftype="internal">1026.20(e)</ref>, rules regarding the disclosures’ form are found in § <ref target="1026-20-e-4" reftype="internal">1026.20(e)(4)</ref> and rules regarding timing are found in § <ref target="1026-20-e-5" reftype="internal">1026.20(e)(5)</ref>.</content>
     </interpParagraph>
-  </change><change operation="modified" label="1026-17-a-1-Interp-7" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-a-1-Interp-7" subpath="content">
     <content>In certain <ref target="1026-2-a-16" reftype="term">credit sale</ref> or loan transactions, a <ref target="1026-2-a-11" reftype="term">consumer</ref> may reduce the dollar amount of the payments to be made during the course of the transaction by agreeing to make, at the end of the loan term, a large final payment based on the expected residual value of the property. The <ref target="1026-2-a-11" reftype="term">consumer</ref> may have a number of options with respect to the final payment, including, among other things, retaining the property and making the final payment, refinancing the final payment, or transferring the property to the <ref target="1026-2-a-17" reftype="term">creditor</ref> in lieu of the final payment. Such transactions may have some of the characteristics of lease transactions subject to Regulation M (12 CFR Part 1013), but are considered credit transactions where the <ref target="1026-2-a-11" reftype="term">consumer</ref> assumes the indicia of ownership, including the risks, burdens and benefits of ownership, upon <ref target="1026-2-a-13" reftype="term">consummation</ref>. These transactions are governed by the disclosure requirements of this part instead of Regulation M. <ref target="1026-2-a-17" reftype="term">Creditors</ref> should not include in the segregated Truth in Lending disclosures additional information. Thus, disclosures should show the large final payment in the payment schedule or interest rate and payment summary table under § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> or <ref target="1026-18-s" reftype="internal">(s)</ref>, as applicable, and should not, for example, reflect the other options available to the <ref target="1026-2-a-11" reftype="term">consumer</ref> at maturity.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-1" subpath="content">
-  <content>The disclosures shall reflect the terms to which the consumer and creditor are legally bound as of the outset of the transaction. In the case of disclosures required under § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref>, <ref target="1026-20-d" reftype="internal">(d)</ref>, and <ref target="1026-20-e" reftype="internal">(e)</ref>, the disclosures shall reflect the <ref target="1026-2-a-14" reftype="term">credit</ref> terms to which the consumer and creditor are legally bound when the disclosures are provided. The legal obligation is determined by applicable <ref target="1026-2-a-26" reftype="term">State</ref> law or other law. Disclosures based on the assumption that the consumer will abide by the terms of the legal obligation throughout the term of the transaction comply with § <ref target="1026-17-c-1" reftype="internal">1026.17(c)(1)</ref>. (Certain transactions are specifically addressed in this commentary. See, for example, the discussion of buydown transactions elsewhere in the commentary to § <ref target="1026-17-c-Interp" reftype="internal">1026.17(c)</ref>.) The fact that a term or contract may later be deemed unenforceable by a court on the basis of equity or other grounds does not, by itself, mean that disclosures based on that term or contract did not reflect the legal obligation.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-1" subpath="content">
+    <content>The disclosures shall reflect the terms to which the consumer and creditor are legally bound as of the outset of the transaction. In the case of disclosures required under § <ref target="1026-20-c" reftype="internal">1026.20(c)</ref>, <ref target="1026-20-d" reftype="internal">(d)</ref>, and <ref target="1026-20-e" reftype="internal">(e)</ref>, the disclosures shall reflect the <ref target="1026-2-a-14" reftype="term">credit</ref> terms to which the consumer and creditor are legally bound when the disclosures are provided. The legal obligation is determined by applicable <ref target="1026-2-a-26" reftype="term">State</ref> law or other law. Disclosures based on the assumption that the consumer will abide by the terms of the legal obligation throughout the term of the transaction comply with § <ref target="1026-17-c-1" reftype="internal">1026.17(c)(1)</ref>. (Certain transactions are specifically addressed in this commentary. See, for example, the discussion of buydown transactions elsewhere in the commentary to § <ref target="1026-17-c-Interp" reftype="internal">1026.17(c)</ref>.) The fact that a term or contract may later be deemed unenforceable by a court on the basis of equity or other grounds does not, by itself, mean that disclosures based on that term or contract did not reflect the legal obligation.</content>
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-2" subpath="content">
     <content>The legal obligation normally is presumed to be contained in the note or contract that evidences the agreement between the consumer and the creditor. But this presumption is rebutted if another agreement between the consumer and creditor legally modifies that note or contract. If the consumer and creditor informally agree to a modification of the legal obligation, the modification should not be reflected in the disclosures unless it rises to the level of a change in the terms of the legal obligation. For example:</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-3" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-3" subpath="content">
     <content>In certain transactions, a seller or other third party may pay an amount, either to the <ref target="1026-2-a-17" reftype="term">creditor</ref> or to the <ref target="1026-2-a-11" reftype="term">consumer</ref>, in order to reduce the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s payments for all or a portion of the <ref target="1026-2-a-14" reftype="term">credit</ref> term. For example, a <ref target="1026-2-a-11" reftype="term">consumer</ref> and a bank agree to a mortgage with an interest rate of 15% and level payments over 25 years. By a separate agreement, the seller of the property agrees to subsidize the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s payments for the first 2 years of the mortgage, giving the <ref target="1026-2-a-11" reftype="term">consumer</ref> an effective rate of 12% for that period.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-3-i" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-3-i" subpath="content">
     <content>If the third-party buydown is reflected in the <ref target="1026-2-a-14" reftype="term">credit</ref> contract between the <ref target="1026-2-a-11" reftype="term">consumer</ref> and the bank, the finance charge and all other disclosures affected by it must take the buydown into account as an amendment to the contract’s interest rate provision. For example, the annual percentage rate must be a composite rate that takes account of both the lower initial rate and the higher subsequent rate, and the disclosures required under §§ <ref target="1026-18-g" reftype="internal">1026.18(g)</ref>, <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, as applicable, must reflect the two payment levels, except as otherwise provided in those paragraphs. However, the amount paid by the seller would not be specifically reflected in the disclosure of the finance charge and other disclosures affected by it given by the bank, since that amount constitutes seller’s points and thus is not part of the finance charge. The seller-paid amount is disclosed, however, as a <ref target="1026-2-a-14" reftype="term">credit</ref> from the seller in the summaries of transactions disclosed pursuant to § <ref target="1026-38-j" reftype="internal">1026.38(j)</ref> and <ref target="1026-38-k" reftype="internal">(k)</ref>.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-3-ii" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-3-ii" subpath="content">
     <content>If the third-party buydown is not reflected in the <ref target="1026-2-a-14" reftype="term">credit</ref> contract between the <ref target="1026-2-a-11" reftype="term">consumer</ref> and the bank and the <ref target="1026-2-a-11" reftype="term">consumer</ref> is legally bound to the 15% rate from the outset, the disclosure of the finance charge and other disclosures affected by it given by the bank must not reflect the seller buydown in any way. For example, the annual percentage rate and disclosures required under §§ <ref target="1026-18-g" reftype="internal">1026.18(g)</ref>, <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, as applicable, would not take into account the reduction in the interest rate and payment level for the first two years resulting from the buydown. The seller-paid amount is, however, disclosed as a <ref target="1026-2-a-14" reftype="term">credit</ref> from the seller in the summaries of transactions disclosed pursuant to § <ref target="1026-38-j" reftype="internal">1026.38(j)</ref> and <ref target="1026-38-k" reftype="internal">(k)</ref>.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-4" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-4" subpath="content">
     <content>In certain transactions, the <ref target="1026-2-a-11" reftype="term">consumer</ref> may pay an amount to the <ref target="1026-2-a-17" reftype="term">creditor</ref> to reduce the payments on the transaction. <ref target="1026-2-a-11" reftype="term">Consumer</ref> buydowns must be reflected as an amendment to the contract’s interest rate provision in the disclosure of the finance charge and other disclosures affected by it given for that transaction. To illustrate, in a mortgage transaction, the <ref target="1026-2-a-17" reftype="term">creditor</ref> and <ref target="1026-2-a-11" reftype="term">consumer</ref> agree to a note specifying a 14 percent interest rate. However, in a separate document, the <ref target="1026-2-a-11" reftype="term">consumer</ref> agrees to pay an amount to the <ref target="1026-2-a-17" reftype="term">creditor</ref> at consummation in return for lower payments for a portion of the mortgage term. The amount paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> may be deposited in an escrow account or may be retained by the <ref target="1026-2-a-17" reftype="term">creditor</ref>. Depending upon the buydown plan, the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s prepayment of the obligation may or may not result in a portion of the amount being credited or refunded to the <ref target="1026-2-a-11" reftype="term">consumer</ref>. In the disclosure of the finance charge and other disclosures affected by it given for the mortgage, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must reflect the terms of the buydown agreement.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-4-i-C">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-4-i-C">
     <interpParagraph label="1026-17-c-1-Interp-4-i-C" marker="C.">
       <content>The disclosures under §§ <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> and <ref target="1026-18-s" reftype="internal">(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, as applicable, must reflect the multiple rate and payment levels resulting from the buydown, except as otherwise provided in those sections. Further, for example, the disclosures must reflect that the transaction is a step rate product under §§ <ref target="1026-37-a-10-i-B" reftype="internal">1026.37(a)(10)(i)(B)</ref> and <ref target="1026-38-a-5-iii" reftype="internal">1026.38(a)(5)(iii)</ref>.</content>
     </interpParagraph>
-  </change><change operation="modified" label="1026-17-c-1-Interp-4-ii">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-4-ii">
     <interpParagraph label="1026-17-c-1-Interp-4-ii" marker="ii.">
       <content>The rules regarding <ref target="1026-2-a-11" reftype="term">consumer</ref> buydowns do not apply to transactions known as “lender buydowns.” In lender buydowns, a <ref target="1026-2-a-17" reftype="term">creditor</ref> pays an amount (either into an account or to the party to whom the obligation is sold) to reduce the <ref target="1026-2-a-11" reftype="term">consumer</ref>'s payments or interest rate for all or a portion of the <ref target="1026-2-a-14" reftype="term">credit</ref> term. Typically, these transactions are structured as a buydown of the interest rate during an initial period of the transaction with a higher than usual rate for the remainder of the term. The disclosure of the finance charge and other disclosures affected by it for lender buydowns should be based on the terms of the legal obligation between the <ref target="1026-2-a-11" reftype="term">consumer</ref> and the <ref target="1026-2-a-17" reftype="term">creditor</ref>. See comment <ref target="1026-17-c-1-Interp-3" reftype="internal">17(c)(1)-3</ref> for the analogous rules concerning third-party buydowns.</content>
     </interpParagraph>
-  </change><change operation="modified" label="1026-17-c-1-Interp-5" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-5" subpath="content">
     <content>In certain transactions, a third party (such as a seller) and a <ref target="1026-2-a-11" reftype="term">consumer</ref> both pay an amount to the <ref target="1026-2-a-17" reftype="term">creditor</ref> to reduce the interest rate. The <ref target="1026-2-a-17" reftype="term">creditor</ref> must include the portion paid by the <ref target="1026-2-a-11" reftype="term">consumer</ref> in the finance charge and disclose the corresponding multiple payment levels, except as otherwise provided in §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, and composite annual percentage rate. The portion paid by the third party and the corresponding reduction in interest rate, however, should not be reflected in the disclosure of the finance charge and other disclosures affected by it unless the lower rate is reflected in the credit contract. See the discussion on thirdparty and <ref target="1026-2-a-11" reftype="term">consumer</ref> buydown transactions elsewhere in the commentary to § <ref target="1026-17-c-Interp" reftype="internal">1026.17(c)</ref>.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-8" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-8" subpath="content">
     <content>Except as otherwise provided in §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, 1026.37 and 1026.38, as applicable, the disclosures for a variable-rate transaction must be given for the full term of the transaction and must be based on the terms in effect at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>. Creditors should base the disclosures only on the initial rate and should not assume that this rate will increase, except as otherwise provided in §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, 1026.37 and 1026.38. For example, in a loan with an initial rate of 10 percent and a 5 percentage points rate cap, creditors should base the disclosures on the initial rate and should not assume that this rate will increase 5 percentage points. However, in a variable-rate transaction with a seller buydown that is reflected in the credit contract, a <ref target="1026-2-a-11" reftype="term">consumer</ref> buydown, or a discounted or premium rate, disclosures should not be based solely on the initial terms. In those transactions, the disclosed annual percentage rate should be a composite rate based on the rate in effect during the initial period and the rate that is the basis of the variable-rate feature for the remainder of the term. See the commentary to § <ref target="1026-17-c-Interp" reftype="internal">1026.17(c)</ref> for a discussion of buydown, discounted, and premium transactions and the commentary to § <ref target="1026-19-a-2-Interp" reftype="internal">1026.19(a)(2)</ref>, (e), and (f) for a discussion of the redisclosure in certain mortgage transactions with a variable-rate feature. See §§ <ref target="1026-37-c" reftype="internal">1026.37(c)</ref> and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref> for rules regarding disclosure of variable-rate transactions in the projected payments table for transactions subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-10-i" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-10-i" subpath="content">
     <content>When creditors use an initial interest rate that is not calculated using the index or formula for later rate adjustments, the disclosures should reflect a composite annual percentage rate based on the initial rate for as long as it is charged and, for the remainder of the term, the rate that would have been applied using the index or formula at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref>. The rate at <ref target="1026-2-a-13" reftype="term">consummation</ref> need not be used if a contract provides for a delay in the implementation of changes in an index value. For example, if the contract specifies that rate changes are based on the index value in effect 45 days before the change date, creditors may use any index value in effect during the 45 day period before <ref target="1026-2-a-13" reftype="term">consummation</ref> in calculating a composite annual percentage rate.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-10-ii" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-10-ii" subpath="content">
     <content>The effect of the multiple rates must also be reflected in the calculation and disclosure of the finance charge, total of payments, and the disclosures required under §§ <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> and <ref target="1026-18-s" reftype="internal">(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, <ref target="1026-37-l-1" reftype="internal">1026.37(l)(1)</ref> and <ref target="1026-37-l-3" reftype="internal">(3)</ref>, <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, and <ref target="1026-38-o-5" reftype="internal">1026.38(o)(5)</ref>, as applicable.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-10-v-A" subpath="content">
-  <content>A 30-year loan for $100,000 with no <ref target="1026-2-a-23" reftype="term">prepaid finance charges</ref> and rates determined by the Treasury bill rate plus two percent. Rate and payment adjustments are made annually. Although the Treasury bill rate at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref> is 10 percent, the <ref target="1026-2-a-17" reftype="term">creditor</ref> sets the interest rate for one year at 9 percent, instead of 12 percent according to the formula. The disclosures should reflect a composite annual percentage rate of 11.63 percent based on 9 percent for one year and 12 percent for 29 years. Reflecting those two rate levels, the payment schedule disclosed pursuant to § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> should show 12 payments of $804.62 and 348 payments of $1,025.31. Similarly, the disclosures required by §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, <ref target="1026-37-l-1" reftype="internal">1026.37(l)(1)</ref> and <ref target="1026-37-l-3" reftype="internal">(3)</ref>, <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, and <ref target="1026-38-o-5" reftype="internal">1026.38(o)(5)</ref> should reflect the effect of this calculation. The finance charge should be $266,463.32 and, for transactions subject to § <ref target="1026-18" reftype="internal">1026.18</ref>, the total of payments should be $366,463.32.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-10-v-B" subpath="content">
-  <content>Same loan as above, except with a two-percent rate cap on periodic adjustments. The disclosures should reflect a composite annual percentage rate of 11.53 percent based on 9 percent for the first year, 11 percent for the second year, and 12 percent for the remaining 28 years. Reflecting those three rate levels, the payment schedule disclosed pursuant to § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> should show 12 payments of $804.62, 12 payments of $950.09, and 336 payments of $1,024.34. Similarly, the disclosures required by §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, <ref target="1026-37-l-1" reftype="internal">1026.37(l)(1)</ref> and <ref target="1026-37-l-3" reftype="internal">(3)</ref>, <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, and <ref target="1026-38-o-5" reftype="internal">1026.38(o)(5)</ref> should reflect the effect of this calculation. The finance charge should be $265,234.76 and, for transactions subject to § <ref target="1026-18" reftype="internal">1026.18</ref>, the total of payments should be $365,234.76.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-10-v-C" subpath="content">
-  <content>Same loan as above, except with a 71⁄2 percent cap on payment adjustments. The disclosures should reflect a composite annual percentage rate of 11.64 percent, based on 9 percent for one year and 12 percent for 29 years. Because of the payment cap, five levels of payments should be reflected. The payment schedule disclosed pursuant to § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> should show 12 payments of $804.62, 12 payments of $864.97, 12 payments of $929.84, 12 payments of $999.58, and 312 payments of $1,070.04. Similarly, the disclosures required by §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, <ref target="1026-37-l-1" reftype="internal">1026.37(l)(1)</ref> and <ref target="1026-37-l-3" reftype="internal">(3)</ref>, <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, and <ref target="1026-38-o-5" reftype="internal">1026.38(o)(5)</ref> should reflect the effect of this calculation. The finance charge should be $277,040.60, and, for transactions subject to § <ref target="1026-18" reftype="internal">1026.18</ref>, the total of payments should be $377,040.60.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-11-v" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-10-v-A" subpath="content">
+    <content>A 30-year loan for $100,000 with no <ref target="1026-2-a-23" reftype="term">prepaid finance charges</ref> and rates determined by the Treasury bill rate plus two percent. Rate and payment adjustments are made annually. Although the Treasury bill rate at the time of <ref target="1026-2-a-13" reftype="term">consummation</ref> is 10 percent, the <ref target="1026-2-a-17" reftype="term">creditor</ref> sets the interest rate for one year at 9 percent, instead of 12 percent according to the formula. The disclosures should reflect a composite annual percentage rate of 11.63 percent based on 9 percent for one year and 12 percent for 29 years. Reflecting those two rate levels, the payment schedule disclosed pursuant to § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> should show 12 payments of $804.62 and 348 payments of $1,025.31. Similarly, the disclosures required by §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, <ref target="1026-37-l-1" reftype="internal">1026.37(l)(1)</ref> and <ref target="1026-37-l-3" reftype="internal">(3)</ref>, <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, and <ref target="1026-38-o-5" reftype="internal">1026.38(o)(5)</ref> should reflect the effect of this calculation. The finance charge should be $266,463.32 and, for transactions subject to § <ref target="1026-18" reftype="internal">1026.18</ref>, the total of payments should be $366,463.32.</content>
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-10-v-B" subpath="content">
+    <content>Same loan as above, except with a two-percent rate cap on periodic adjustments. The disclosures should reflect a composite annual percentage rate of 11.53 percent based on 9 percent for the first year, 11 percent for the second year, and 12 percent for the remaining 28 years. Reflecting those three rate levels, the payment schedule disclosed pursuant to § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> should show 12 payments of $804.62, 12 payments of $950.09, and 336 payments of $1,024.34. Similarly, the disclosures required by §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, <ref target="1026-37-l-1" reftype="internal">1026.37(l)(1)</ref> and <ref target="1026-37-l-3" reftype="internal">(3)</ref>, <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, and <ref target="1026-38-o-5" reftype="internal">1026.38(o)(5)</ref> should reflect the effect of this calculation. The finance charge should be $265,234.76 and, for transactions subject to § <ref target="1026-18" reftype="internal">1026.18</ref>, the total of payments should be $365,234.76.</content>
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-10-v-C" subpath="content">
+    <content>Same loan as above, except with a 71⁄2 percent cap on payment adjustments. The disclosures should reflect a composite annual percentage rate of 11.64 percent, based on 9 percent for one year and 12 percent for 29 years. Because of the payment cap, five levels of payments should be reflected. The payment schedule disclosed pursuant to § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> should show 12 payments of $804.62, 12 payments of $864.97, 12 payments of $929.84, 12 payments of $999.58, and 312 payments of $1,070.04. Similarly, the disclosures required by §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, <ref target="1026-37-l-1" reftype="internal">1026.37(l)(1)</ref> and <ref target="1026-37-l-3" reftype="internal">(3)</ref>, <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, and <ref target="1026-38-o-5" reftype="internal">1026.38(o)(5)</ref> should reflect the effect of this calculation. The finance charge should be $277,040.60, and, for transactions subject to § <ref target="1026-18" reftype="internal">1026.18</ref>, the total of payments should be $377,040.60.</content>
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-11-v" subpath="content">
     <content>“Price level adjusted mortgages” or other indexed mortgages that have a fixed rate of interest but provide for periodic adjustments to payments and the loan balance to reflect changes in an index measuring prices or inflation. Disclosures are to be based on the fixed interest rate, except as otherwise provided in §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, 1026.37, and 1026.38, as applicable.</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-12" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-12" subpath="content">
     <content>These mortgages involve both a variable interest rate and scheduled variations in payment amounts during the loan term. For example, under these plans, a series of graduated payments may be scheduled before rate adjustments affect payment amounts, or the initial scheduled payment may remain constant for a set period before rate adjustments affect the payment amount. In any case, the initial payment amount may be insufficient to cover the scheduled interest, causing negative amortization from the outset of the transaction. In these transactions, except as otherwise provided in §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, the disclosures should treat these features as follows:</content>
-  </change><change operation="modified" label="1026-17-c-1-Interp-12-iv" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-1-Interp-12-iv" subpath="content">
     <content>The disclosures required by § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> and <ref target="1026-18-s" reftype="internal">(s)</ref> reflect the amount of any scheduled initial payments followed by an adjusted level of payments based on the initial interest rate. Since some mortgage plans contain limits on the amount of the payment adjustment, the disclosures required by § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> and <ref target="1026-18-s" reftype="internal">(s)</ref> may require several different levels of payments, even with the assumption that the original interest rate does not increase. For transactions subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, see § <ref target="1026-37-c" reftype="internal">1026.37(c)</ref> and its commentary for a discussion of different rules for graduated payment adjustable rate mortgages.</content>
-  </change><change operation="added" label="1026-17-c-1-Interp-19">
+  </change>
+  <change operation="added" label="1026-17-c-1-Interp-19">
     <interpParagraph label="1026-17-c-1-Interp-19" marker="19.">
       <title type="keyterm">Rebates and loan premiums.</title>
       <content>In a loan transaction, the <ref target="1026-2-a-17" reftype="term">creditor</ref> may <ref target="1026-58-b-5" reftype="term">offer</ref> a premium in the form of cash or merchandise to prospective borrowers. Similarly, in a <ref target="1026-2-a-16" reftype="term">credit sale</ref> transaction, a seller’s or manufacturer’s rebate may be offered to prospective purchasers of the <ref target="1026-2-a-17" reftype="term">creditor</ref>’s goods or services. Such premiums and rebates must be reflected in accordance with the terms of the legal obligation between the <ref target="1026-2-a-11" reftype="term">consumer</ref> and the <ref target="1026-2-a-17" reftype="term">creditor</ref>. Thus, if the <ref target="1026-2-a-17" reftype="term">creditor</ref> is legally obligated to provide the premium or rebate to the <ref target="1026-2-a-11" reftype="term">consumer</ref> as part of the credit transaction, the disclosures should reflect its value in the manner and at the time the <ref target="1026-2-a-17" reftype="term">creditor</ref> is obligated to provide it.</content>
     </interpParagraph>
-  </change><change operation="modified" label="1026-17-c-2-i-Interp-1" subpath="content">
-  <content>Except as otherwise provided in §§ <ref target="1026-19" reftype="internal">1026.19</ref>, <ref target="1026-37" reftype="internal">1026.37</ref>, and <ref target="1026-38" reftype="internal">1026.38</ref>, disclosures may be estimated when the exact information is unknown at the time disclosures are made. Information is unknown if it is not reasonably available to the creditor at the time the disclosures are made. The “reasonably available” standard requires that the creditor, acting in good faith, exercise due diligence in obtaining information. For example, the creditor must at a minimum utilize generally accepted calculation tools, but need not invest in the most sophisticated computer program to make a particular type of calculation. The creditor normally may rely on the representations of other parties in obtaining information. For example, the creditor might look to the consumer for the time of consummation, to insurance companies for the cost of insurance, or to realtors for taxes and escrow fees. The creditor may utilize estimates in making disclosures even though the creditor knows that more precise information will be available by the point of consummation. However, new disclosures may be required under § <ref target="1026-17-f" reftype="internal">1026.17(f)</ref> or § <ref target="1026-19" reftype="internal">1026.19</ref>. For purposes of § <ref target="1026-17-c-2-i" reftype="internal">1026.17(c)(2)(i)</ref>, creditors must provide the actual amounts of the information required to be disclosed under §§ <ref target="1026-37" reftype="internal">1026.37</ref> and <ref target="1026-38" reftype="internal">1026.38</ref>, pursuant to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, subject to the estimation and redisclosure rules in those provisions.</content>
-  </change><change operation="modified" label="1026-17-c-2-i-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-2-i-Interp-1" subpath="content">
+    <content>Except as otherwise provided in §§ <ref target="1026-19" reftype="internal">1026.19</ref>, <ref target="1026-37" reftype="internal">1026.37</ref>, and <ref target="1026-38" reftype="internal">1026.38</ref>, disclosures may be estimated when the exact information is unknown at the time disclosures are made. Information is unknown if it is not reasonably available to the creditor at the time the disclosures are made. The “reasonably available” standard requires that the creditor, acting in good faith, exercise due diligence in obtaining information. For example, the creditor must at a minimum utilize generally accepted calculation tools, but need not invest in the most sophisticated computer program to make a particular type of calculation. The creditor normally may rely on the representations of other parties in obtaining information. For example, the creditor might look to the consumer for the time of consummation, to insurance companies for the cost of insurance, or to realtors for taxes and escrow fees. The creditor may utilize estimates in making disclosures even though the creditor knows that more precise information will be available by the point of consummation. However, new disclosures may be required under § <ref target="1026-17-f" reftype="internal">1026.17(f)</ref> or § <ref target="1026-19" reftype="internal">1026.19</ref>. For purposes of § <ref target="1026-17-c-2-i" reftype="internal">1026.17(c)(2)(i)</ref>, creditors must provide the actual amounts of the information required to be disclosed under §§ <ref target="1026-37" reftype="internal">1026.37</ref> and <ref target="1026-38" reftype="internal">1026.38</ref>, pursuant to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, subject to the estimation and redisclosure rules in those provisions.</content>
+  </change>
+  <change operation="modified" label="1026-17-c-2-i-Interp-2" subpath="content">
     <content>Estimates must be designated as such in the segregated disclosures. For the disclosures required by § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, use of the Loan Estimate form H–24 of appendix H to this part pursuant to § <ref target="1026-37-o" reftype="internal">1026.37(o)</ref> or the Closing Disclosure form H–25 of appendix H to this part pursuant to § <ref target="1026-38-t" reftype="internal">1026.38(t)</ref>, respectively, satisfies the requirement that the disclosure state clearly that the disclosure is an estimate. For all other disclosures, even though they are based on the same assumption on which a specific estimated disclosure was based, the creditor has flexibility in labeling the estimates. Generally, only the particular disclosure for which the exact information is unknown is labeled as an estimate. However, when several disclosures are affected because of the unknown information, the creditor has the option of labeling either every affected disclosure or only the disclosure primarily affected. For example, when the finance charge is unknown because the date of consummation is unknown, the creditor must label the finance charge as an estimate and may also label as estimates the total of payments and the payment schedule. When many disclosures are estimates, the creditor may use a general statement, such as “all numerical disclosures except the late payment disclosure are estimates,” as a method to label those disclosures as estimates.</content>
-  </change><change operation="modified" label="1026-17-c-2-i-Interp-3" subpath="content">
-  <content>If consumers do not make timely payments in a simple-interest transaction, some of the amounts calculated for Truth in Lending disclosures will differ from amounts that consumers will actually pay over the term of the transaction. Creditors may label disclosures as estimates in these transactions, except as otherwise provided by § <ref target="1026-19" reftype="internal">1026.19</ref>. For example, because the finance charge and total of payments may be larger than disclosed if consumers make late payments, creditors may label the finance charge and total of payments as estimates. On the other hand, creditors may choose not to label disclosures as estimates. In all cases, creditors comply with § <ref target="1026-17-c-2-i" reftype="internal">1026.17(c)(2)(i)</ref> by basing disclosures on the assumption that payments will be made on time and in the amounts required by the terms of the legal obligation, disregarding any possible differences resulting from consumers’ payment patterns.</content>
-  </change><change operation="modified" label="1026-17-c-2-ii-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-2-i-Interp-3" subpath="content">
+    <content>If consumers do not make timely payments in a simple-interest transaction, some of the amounts calculated for Truth in Lending disclosures will differ from amounts that consumers will actually pay over the term of the transaction. Creditors may label disclosures as estimates in these transactions, except as otherwise provided by § <ref target="1026-19" reftype="internal">1026.19</ref>. For example, because the finance charge and total of payments may be larger than disclosed if consumers make late payments, creditors may label the finance charge and total of payments as estimates. On the other hand, creditors may choose not to label disclosures as estimates. In all cases, creditors comply with § <ref target="1026-17-c-2-i" reftype="internal">1026.17(c)(2)(i)</ref> by basing disclosures on the assumption that payments will be made on time and in the amounts required by the terms of the legal obligation, disregarding any possible differences resulting from consumers’ payment patterns.</content>
+  </change>
+  <change operation="modified" label="1026-17-c-2-ii-Interp-1" subpath="content">
     <content>Section <ref target="1026-17-c-2-ii" reftype="internal">1026.17(c)(2)(ii)</ref> applies to any numerical amount (such as the finance charge, annual percentage rate, or payment amount) that is affected by the amount of the per-diem interest charge that will be collected at consummation. If the amount of per-diem interest used in preparing the disclosures for consummation is based on the information known to the creditor at the time the disclosure document is prepared, the disclosures are considered accurate under this rule, and affected disclosures are also considered accurate, even if the disclosures are not labeled as estimates. For example, if the amount of per-diem interest used to prepare disclosures is less than the amount of per-diem interest charged at consummation, and as a result the finance charge is understated by $200, the disclosed finance charge is considered accurate even though the understatement is not within the $100 tolerance of § <ref target="1026-18-d-1" reftype="internal">1026.18(d)(1)</ref>, and the finance charge was not labeled as an estimate. In this example, if in addition to the understatement related to the perdiem interest, a $90 fee is incorrectly omitted from the finance charge, causing it to be understated by a total of $290, the finance charge is considered accurate because the $90 fee is within the tolerance in § <ref target="1026-18-d-1" reftype="internal">1026.18(d)(1)</ref>. For purposes of transactions subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, the creditor shall disclose the actual amount of per diem interest that will be collected at consummation, subject only to the disclosure rules in those sections.</content>
-  </change><change operation="modified" label="1026-17-c-4-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-4-Interp-1" subpath="content">
     <content>When one or more payments in a transaction differ from the others because of a long or short first period, the variations may be ignored in disclosing the payment schedule pursuant to § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref>, the disclosures required pursuant to §§ <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, <ref target="1026-37-c" reftype="internal">1026.37(c)</ref>, or <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, or the finance charge, annual percentage rate, and other terms. For example:</content>
-  </change><change operation="modified" label="1026-17-c-5-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-5-Interp-2" subpath="content">
     <content>An obligation whose maturity date is determined solely by a future event, as for example, a loan payable only on the sale of property, is not a demand obligation. Because no demand feature is contained in the obligation, demand disclosures under § <ref target="1026-18-i" reftype="internal">1026.18(i)</ref> are inapplicable and demand disclosures under § <ref target="1026-38-l-2" reftype="internal">1026.38(l)(2)</ref> are answered in the negative. The disclosures should be based on the creditor’s estimate of the time at which the specified event will occur and, except as otherwise provided in § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, may indicate the basis for the creditor’s estimate, as noted in the commentary to § <ref target="1026-17-a-Interp" reftype="internal">1026.17(a)</ref>.</content>
-  </change><change operation="modified" label="1026-17-c-5-Interp-3" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-5-Interp-3" subpath="content">
     <content>Most demand transactions contain a demand feature that may be exercised at any point during the term, but certain transactions convert to demand status only after a fixed period. The disclosures for a transaction that converts to demand status after a fixed period should be based upon the legally agreed-upon maturity date. Thus, for example, if a mortgage containing a call option that the creditor may exercise during the first 30 days of the eighth year after loan origination is written as a 20-year obligation, the disclosures should be based on the 20-year term, with the demand feature disclosed under § <ref target="1026-18-i" reftype="internal">1026.18(i)</ref> or § <ref target="1026-38-l-2" reftype="internal">1026.38(l)(2)</ref>, as applicable.</content>
-  </change><change operation="modified" label="1026-17-c-5-Interp-4" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-c-5-Interp-4" subpath="content">
     <content>Balloon payment mortgages, with payments based on a long-term amortization schedule and a large final payment due after a shorter term, are not demand obligations unless a demand feature is specifically contained in the contract. For example, a mortgage with a term of five years and a payment schedule based on 20 years would not be treated as a mortgage with a demand feature, in the absence of any contractual demand provisions. In this type of mortgage, disclosures should be based on the fiveyear term. See §§ <ref target="1026-37-c" reftype="internal">1026.37(c)</ref> and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref> and their commentary for projected payment disclosures for balloon payment mortgages.</content>
-  </change><change operation="modified" label="1026-17-d-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-d-Interp-2" subpath="content">
     <content>When two consumers are joint obligors with primary liability on an obligation, the disclosures may be given to either one of them. If one consumer is merely a surety or guarantor, the disclosures must be given to the principal debtor. In rescindable transactions, however, separate disclosures must be given to each consumer who has the right to rescind under § <ref target="1026-23" reftype="internal">1026.23</ref>, although the disclosures required under § <ref target="1026-19-b" reftype="internal">1026.19(b)</ref> need only be provided to the consumer who expresses an interest in a variablerate loan program. When two consumers are joint obligors with primary liability on an obligation, the early disclosures required by § <ref target="1026-19-a" reftype="internal">1026.19(a)</ref>, (e), or (g), as applicable, may be provided to any one of them. In rescindable transactions, the disclosures required by § <ref target="1026-19-f" reftype="internal">1026.19(f)</ref> must be given separately to each consumer who has the right to rescind under § <ref target="1026-23" reftype="internal">1026.23</ref>. In transactions that are not rescindable, the disclosures required by § <ref target="1026-19-f" reftype="internal">1026.19(f)</ref> may be provided to any consumer with primary liability on the obligation. See §§ <ref target="1026-2-a-11" reftype="internal">1026.2(a)(11)</ref>, <ref target="1026-17-b" reftype="internal">1026.17(b)</ref>, <ref target="1026-19-a" reftype="internal">1026.19(a)</ref>, <ref target="1026-19-f" reftype="internal">1026.19(f)</ref>, and <ref target="1026-23-b" reftype="internal">1026.23(b)</ref>.</content>
-  </change><change operation="modified" label="1026-17-e-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-e-Interp-1" subpath="content">
     <content>Subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, inaccuracies in disclosures are not violations if attributable to events occurring after the disclosures are made. For example, when the consumer fails to fulfill a prior commitment to keep the collateral insured and the creditor then provides the coverage and charges the consumer for it, such a change does not make the original disclosures inaccurate. The creditor may, however, be required to make new disclosures under § <ref target="1026-17-f" reftype="internal">1026.17(f)</ref> or § <ref target="1026-19" reftype="internal">1026.19</ref> if the events occurred between disclosure and consummation, in some cases after consummation under § <ref target="1026-19-f" reftype="internal">1026.19(f)</ref>, or under § <ref target="1026-20" reftype="internal">1026.20</ref> if the events occurred after consummation. For rules regarding permissible changes to the information required to be disclosed by § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, see § <ref target="1026-19-e-3" reftype="internal">1026.19(e)(3)</ref> and (f)(2) and their commentary.</content>
-  </change><change operation="modified" label="1026-17-f-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-f-Interp-1" subpath="content">
     <content>Redisclosure is required for changes that occur between the time disclosures are made and consummation if the annual percentage rate in the consummated transaction exceeds the limits prescribed in § <ref target="1026-17-f" reftype="internal">1026.17(f)</ref> even if the prior disclosures would be considered accurate under the tolerances in § <ref target="1026-18-d" reftype="internal">1026.18(d)</ref> or <ref target="1026-22-a" reftype="internal">1026.22(a)</ref>. To illustrate:</content>
-  </change><change operation="modified" label="1026-17-f-Interp-1-i" subpath="title">
+  </change>
+  <change operation="modified" label="1026-17-f-Interp-1-i" subpath="title">
     <title>Transactions not secured by real property.</title>
-  </change><change operation="modified" label="1026-17-f-Interp-1-i-A" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-f-Interp-1-i-A" subpath="content">
     <content>For transactions not secured by real property, if disclosures are made in a regular transaction on July 1, the transaction is consummated on July 15, and the actual annual percentage rate varies by more than 1/ 8 of 1 percentage point from the disclosed annual percentage rate, the creditor must either redisclose the changed terms or furnish a complete set of new disclosures before consummation. Redisclosure is required even if the disclosures made on July 1 are based on estimates and marked as such.</content>
-  </change><change operation="modified" label="1026-17-f-Interp-1-i-B" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-f-Interp-1-i-B" subpath="content">
     <content>In a regular transaction not secured by real property, if early disclosures are marked as estimates and the disclosed annual percentage rate is within 1/8 of 1 percentage point of the rate at consummation, the creditor need not redisclose the changed terms (including the annual percentage rate).</content>
-  </change><change operation="added" label="1026-17-f-Interp-1-i-C" subpath="content" after="1026-17-f-Interp-1-i-B">
+  </change>
+  <change operation="added" label="1026-17-f-Interp-1-i-C" subpath="content" after="1026-17-f-Interp-1-i-B">
     <interpParagraph label="1026-17-f-Interp-1-i-C" marker="C.">
       <content>If disclosures for transactions not secured by real property are made on July 1, the transaction is consummated on July 15, and the finance charge increased by $35 but the disclosed annual percentage rate is within the permitted tolerance, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must at least redisclose the changed terms that were not marked as estimates. See § <ref target="1026-18-d-2" reftype="internal">1026.18(d)(2)</ref>.</content>
     </interpParagraph>
-  </change><change operation="modified" label="1026-17-f-Interp-1-ii">
+  </change>
+  <change operation="modified" label="1026-17-f-Interp-1-ii">
     <interpParagraph label="1026-17-f-Interp-1-ii" marker="ii.">
       <title type="keyterm">Reverse mortgages.</title>
       <content>In a transaction subject to § <ref target="1026-19-a" reftype="internal">1026.19(a)</ref> and not § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, assume that, at the time the disclosures required by § <ref target="1026-19-a" reftype="internal">1026.19(a)</ref> are prepared in July, the loan closing is scheduled for July 31 and the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not plan to collect perdiem interest at <ref target="1026-2-a-13" reftype="term">consummation</ref>. Assume further that <ref target="1026-2-a-13" reftype="term">consummation</ref> actually occurs on August 5, and per-diem interest for the remainder of August is collected as a <ref target="1026-2-a-23" reftype="term">prepaid finance charge</ref>. The <ref target="1026-2-a-17" reftype="term">creditor</ref> may rely on the disclosures prepared in July that were accurate when they were prepared. However, if the <ref target="1026-2-a-17" reftype="term">creditor</ref> prepares new disclosures in August that will be provided at <ref target="1026-2-a-13" reftype="term">consummation</ref>, the new disclosures must take into account the amount of the per-diem interest known to the <ref target="1026-2-a-17" reftype="term">creditor</ref> at that time.</content>
     </interpParagraph>
-  </change><change operation="modified" label="1026-17-f-Interp-1-iii">
+  </change>
+  <change operation="modified" label="1026-17-f-Interp-1-iii">
     <interpParagraph label="1026-17-f-Interp-1-iii" marker="iii.">
       <title type="keyterm">Mortgages other than reverse mortgages and mortgage loans not secured by real property.</title>
       <content>For transactions secured by real property other than reverse mortgages, assume that, at the time the disclosures required by § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> are prepared in July, the loan closing is scheduled for July 31 and the <ref target="1026-2-a-17" reftype="term">creditor</ref> does not plan to collect perdiem interest at <ref target="1026-2-a-13" reftype="term">consummation</ref>. Assume further that <ref target="1026-2-a-13" reftype="term">consummation</ref> actually occurs on August 5, and per-diem interest for the remainder of August is collected as a <ref target="1026-2-a-23" reftype="term">prepaid finance charge</ref>. The <ref target="1026-2-a-17" reftype="term">creditor</ref> must make the disclosures required by § <ref target="1026-19-f" reftype="internal">1026.19(f)</ref> three days before <ref target="1026-2-a-13" reftype="term">consummation</ref>, and the disclosures required by § <ref target="1026-19-f" reftype="internal">1026.19(f)</ref> must take into account the amount of per-diem interest that will be collected at <ref target="1026-2-a-13" reftype="term">consummation</ref>.</content>
     </interpParagraph>
-  </change><change operation="modified" label="1026-17-f-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-f-Interp-2" subpath="content">
     <content>The addition of a variable rate feature to the credit terms, after early disclosures are given, requires new disclosures. See § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref> to determine when new disclosures are required for transactions secured by real property, other than reverse mortgages.</content>
-  </change><change operation="modified" label="1026-17-f-Interp-3" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-f-Interp-3" subpath="content">
     <content>Except as provided by § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, if redisclosure is required, the creditor has the option of either providing a complete set of new disclosures, or providing disclosures of only the terms that vary from those originally disclosed. See the commentary to § <ref target="1026-19-a-2-Interp" reftype="internal">1026.19(a)(2)</ref>.</content>
   </change>
   <change operation="modified" label="1026-17-f-Interp-4" subpath="content">
     <content>In mortgage transactions subject to § <ref target="1026-19-a" reftype="internal">1026.19(a)</ref>, the creditor must redisclose if, between the delivery of the required early disclosures and consummation, the annual percentage rate changes by more than a stated tolerance. When subsequent events occur after consummation, new disclosures are required only if there is a refinancing or an assumption within the meaning of § <ref target="1026-20" reftype="internal">1026.20</ref>.</content>
-  </change><change operation="modified" label="1026-17-g-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-g-Interp-1" subpath="content">
     <content>Except for extensions of credit subject to § <ref target="1026-19-a" reftype="internal">1026.19(a)</ref> or <ref target="1026-19-e" reftype="internal">(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, when the creditor receives a mail or telephone request for credit, the creditor may delay making the disclosures until the first payment is due if the following conditions are met:</content>
-  </change><change operation="modified" label="1026-17-h-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-17-h-Interp-1" subpath="content">
     <content>Except for extensions of credit covered by § <ref target="1026-19-a" reftype="internal">1026.19(a)</ref> or <ref target="1026-19-e" reftype="internal">(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, the creditor may delay the disclosures for individual credit sales in a series of such sales until the first payment is due on the current sale, assuming the two conditions in § <ref target="1026-17-h" reftype="internal">1026.17(h)</ref> are met. If those conditions are not met, the general timing rules in § <ref target="1026-17-b" reftype="internal">1026.17(b)</ref> apply.</content>
-  </change><change operation="added" label="1026-18-Interp-3" after="1026-18-Interp-2">
+  </change>
+  <change operation="added" label="1026-18-Interp-3" after="1026-18-Interp-2">
     <interpParagraph label="1026-18-Interp-3" marker="3.">
       <title type="keyterm">Scope of coverage.</title>
       <content/>
@@ -5014,37 +5092,51 @@
         <content>Because § <ref target="1026-18" reftype="internal">1026.18</ref> does not apply to transactions secured by real property, other than reverse mortgages, references in the section and its commentary to “mortgages” refer only to transactions described in paragraphs i.C and i.D of this comment, as applicable.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="deleted" label="1026-18-b-Interp-2"/>
+  </change>
+  <change operation="deleted" label="1026-18-b-Interp-2"/>
   <change operation="modified" label="1026-18-c-Interp-4" subpath="content">
     <content>The Real Estate Settlement Procedures Act (RESPA) requires creditors to provide a good faith estimate of closing costs and a settlement statement listing the amounts paid by the consumer. Reverse mortgages subject to RESPA and § <ref target="1026-18" reftype="internal">1026.18</ref> are exempt from the requirements of § <ref target="1026-18-c" reftype="internal">1026.18(c)</ref> if the creditor complies with RESPA’s requirements for a good faith estimate and settlement statement. The itemization of the amount financed need not be given, even though the content and timing of the good faith estimate and settlement statement under RESPA differ from the requirements of §§ <ref target="1026-18-c" reftype="internal">1026.18(c)</ref> and <ref target="1026-19-a-2" reftype="internal">1026.19(a)(2)</ref>. If a creditor chooses to substitute RESPA’s settlement statement for the itemization when redisclosure is required under § <ref target="1026-19-a-2" reftype="internal">1026.19(a)(2)</ref>, the statement must be delivered to the consumer at or prior to consummation. The disclosures required by §§ <ref target="1026-18-c" reftype="internal">1026.18(c)</ref> and <ref target="1026-19-a-2" reftype="internal">1026.19(a)(2)</ref> may appear on the same page or on the same document as the good faith estimate or the settlement statement, so long as the requirements of § <ref target="1026-17-a" reftype="internal">1026.17(a)</ref> are met.</content>
-  </change><change operation="modified" label="1026-18-c-1-iv-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-c-1-iv-Interp-2" subpath="content">
     <content>Regulation X under RESPA, 12 CFR 1024.8, requires creditors to give consumers a settlement statement disclosing the costs associated with reverse mortgage loan transactions. Included on the settlement statement are mortgage insurance premiums collected at settlement, which are prepaid finance charges. In calculating the total amount of prepaid finance charges, creditors should use the amount for mortgage insurance listed on the line for mortgage insurance on the settlement statement (line 1003 on HUD–1 or HUD 1–A), without adjustment, even if the actual amount collected at settlement may vary because of RESPA’s escrow accounting rules. Figures for mortgage insurance disclosed in conformance with RESPA shall be deemed to be accurate for purposes of Regulation Z.</content>
-  </change><change operation="modified" label="1026-18-g-Interp-4-ii" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-g-Interp-4-ii" subpath="content">
     <content>In a limited number of circumstances, the beginning-payment date is unknown and difficult to determine at the time disclosures are made. For example, a consumer may become obligated on a credit contract that contemplates the delayed disbursement of funds based on a contingent event, such as the completion of repairs. Disclosures may also accompany loan checks that are sent by mail, in which case the initial disbursement and repayment dates are solely within the consumer’s control. In such cases, if the beginning-payment date is unknown the creditor may use an estimated date and label the disclosure as an estimate pursuant to § <ref target="1026-17-c" reftype="internal">1026.17(c)</ref>. Alternatively, the disclosure may refer to the occurrence of a particular event, for example, by disclosing that the beginning payment is due “30 days after the first loan disbursement.” This information also may be included with an estimated date to explain the basis for the creditor’s estimate. See comment 17(a)(1)–5.iii.</content>
-  </change><change operation="modified" label="1026-18-g-Interp-6" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-g-Interp-6" subpath="content">
     <content>Section <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> applies to closed-end transactions, other than transactions that are subject to § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> or § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>. Section <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> applies to closed-end transactions secured by real property or a dwelling, unless they are subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>. Section <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref> applies to closed-end transactions secured by real property, other than reverse mortgages. Thus, if a closed-end consumer credit transaction is secured by real property or a dwelling and the transaction is a reverse mortgage or the dwelling is personal property, the creditor discloses an interest rate and payment summary table in accordance with § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>. See comment 18(s)–4. If a closed-end consumer credit transaction is secured by real property and is not a reverse mortgage, the creditor discloses a projected payments table in accordance with §§ <ref target="1026-37-c" reftype="internal">1026.37(c)</ref> and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, as required by § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>. In all such cases, the creditor is not subject to the requirements of § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref>. On the other hand, if a closed-end consumer credit transaction is not secured by real property or a dwelling (for example, if it is unsecured or secured by an automobile), the creditor discloses a payment schedule in accordance with § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> and is not subject to the requirements of § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> or §§ <ref target="1026-37-c" reftype="internal">1026.37(c)</ref> and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>.</content>
-  </change><change operation="modified" label="1026-18-g-Interp-5">
+  </change>
+  <change operation="modified" label="1026-18-g-Interp-5">
     <interpParagraph label="1026-18-g-Interp-5" marker="5.">
       <title type="keyterm">Mortgage insurance.</title>
       <content>[Reserved]</content>
     </interpParagraph>
-  </change><change operation="modified" label="1026-18-g-2-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-g-2-Interp-1" subpath="content">
     <content>The creditor may disclose an abbreviated payment schedule when the amount of each regularly scheduled payment (other than the first or last payment) includes an equal amount to be applied on principal and a finance charge computed by application of a rate to the decreasing unpaid balance. In addition, in transactions where payments vary because interest and principal are paid at different intervals, the two series of payments may be disclosed separately and the abbreviated payment schedule may be used for the interest payments. For example, in transactions with fixed quarterly principal payments and monthly interest payments based on the outstanding principal balance, the amount of the interest payments will change quarterly as principal declines. In such cases the creditor may treat the interest and principal payments as two separate series of payments, separately disclosing the number, amount, and due dates of principal payments, and, using the abbreviated payment schedule, the number, amount, and due dates of interest payments. This option may be used when interest and principal are scheduled to be paid on the same date of the month as well as on different dates of the month. The creditor using this alternative must disclose the dollar amount of the highest and lowest payments and make reference to the variation in payments.</content>
-  </change><change operation="modified" label="1026-18-g-2-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-g-2-Interp-2" subpath="content">
     <content>Creditors may combine the option in § <ref target="1026-18-g-2" reftype="internal">1026.18(g)(2)</ref> with the general payment schedule requirements in transactions where only a portion of the payment schedule meets the conditions of § <ref target="1026-18-g-2" reftype="internal">1026.18(g)(2)</ref>. For example, in a transaction where payments rise sharply for five years and then decline over the next 25 years, the first five years would be disclosed under the general rule in § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> and the next 25 years according to the abbreviated schedule in § <ref target="1026-18-g-2" reftype="internal">1026.18(g)(2)</ref>.</content>
-  </change><change operation="modified" label="1026-18-k-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-k-Interp-1" subpath="content">
     <content>The creditor must give a definitive statement of whether or not a prepayment penalty will be imposed or a prepayment rebate will be given.</content>
-  </change><change operation="modified" label="1026-18-k-Interp-1-i" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-k-Interp-1-i" subpath="content">
     <content>The fact that no prepayment penalty will be imposed may not simply be inferred from the absence of a prepayment penalty disclosure; the creditor must indicate that prepayment will not result in a prepayment penalty.</content>
-  </change><change operation="modified" label="1026-18-k-Interp-1-ii" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-k-Interp-1-ii" subpath="content">
     <content>If a prepayment penalty or prepayment rebate is possible for one type of prepayment, even though not for all, a positive disclosure is required. This applies to any type of prepayment, whether voluntary or involuntary as in the case of prepayments resulting from acceleration.</content>
-  </change><change operation="modified" label="1026-18-k-Interp-1-iii" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-k-Interp-1-iii" subpath="content">
     <content>Any difference in prepayment rebate or prepayment penalty policy, depending on whether prepayment is voluntary or not, must not be disclosed with the segregated disclosures.</content>
-  </change><change operation="modified" label="1026-18-k-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-k-Interp-2" subpath="content">
     <content>A single transaction may involve both a precomputed finance charge and a finance charge computed by application of a rate to the unpaid balance (for example, mortgages with mortgageguarantee insurance). In these cases, disclosures about both prepayment rebates and prepayment penalties are required. Sample form H–15 in appendix H to this part illustrates a mortgage transaction in which both rebate and penalty disclosures are necessary.</content>
-  </change><change operation="modified" label="1026-18-k-Interp-3" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-k-Interp-3" subpath="content">
     <content>The existence of a prepaid finance charge in a transaction does not, by itself, require a disclosure under § <ref target="1026-18-k" reftype="internal">1026.18(k)</ref>. A prepaid finance charge is not considered a prepayment penalty under § <ref target="1026-18-k-1" reftype="internal">1026.18(k)(1)</ref>, nor does it require a disclosure under § <ref target="1026-18-k-2" reftype="internal">1026.18(k)(2)</ref>. At its option, however, a creditor may consider a prepaid finance charge to be under § <ref target="1026-18-k-2" reftype="internal">1026.18(k)(2)</ref>. If a disclosure is made under § <ref target="1026-18-k-2" reftype="internal">1026.18(k)(2)</ref> with respect to a prepaid finance charge or other finance charge, the creditor may further identify that finance charge. For example, the disclosure may state that the borrower “will not be entitled to a refund of the prepaid finance charge” or some other term that describes the finance charge.</content>
-  </change><change operation="modified" label="1026-18-k-1-Interp-1">
+  </change>
+  <change operation="modified" label="1026-18-k-1-Interp-1">
     <interpParagraph label="1026-18-k-1-Interp-1" marker="1.">
       <title type="keyterm">Examples of prepayment penalties.</title>
       <content>For purposes of § <ref target="1026-18-k-1" reftype="internal">1026.18(k)(1)</ref>, the following are examples of <ref target="1026-32-b-6-i" reftype="term">prepayment penalties</ref>:</content>
@@ -5058,7 +5150,8 @@
         <content>A minimum finance charge in a simple interest transaction.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="added" label="1026-18-k-1-Interp-2">
+  </change>
+  <change operation="added" label="1026-18-k-1-Interp-2">
     <interpParagraph label="1026-18-k-1-Interp-2" marker="2.">
       <title type="keyterm">Fees that are not prepayment penalties.</title>
       <content>For purposes of § <ref target="1026-18-k-1" reftype="internal">1026.18(k)(1)</ref>, fees which are not <ref target="1026-32-b-6-i" reftype="term">prepayment penalties</ref> include, for example:</content>
@@ -5069,24 +5162,32 @@
         <content>Loan guarantee fees.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="modified" label="1026-18-k-2-Interp-1-i" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-k-2-Interp-1-i" subpath="content">
     <content>This applies to any finance charges that do not take account of each reduction in the principal balance of an obligation. This category includes, for example:</content>
-  </change><change operation="modified" label="1026-18-k-2-Interp-1-i-A" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-k-2-Interp-1-i-A" subpath="content">
     <content>Precomputed finance charges such as add-on charges. This includes computing a refund of an unearned finance charge, such as precomputed interest, by a method that is less favorable to the consumer than the actuarial method, as defined by section 933(d) of the Housing and Community Development Act of 1992, 15 U.S.C. 1615(d). For purposes of computing a refund of unearned interest, if using the actuarial method defined by applicable State law results in a refund that is greater than the refund calculated by using the method described in section 933(d) of the Housing and Community Development Act of 1992, creditors should use the State law definition in determining if a refund is a prepayment penalty.</content>
-  </change><change operation="modified" label="1026-18-k-2-Interp-1-i-B" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-k-2-Interp-1-i-B" subpath="content">
     <content>Charges that take account of some but not all reductions in principal, such as mortgage guarantee insurance assessed on the basis of an annual declining balance, when the principal is reduced on a monthly basis.</content>
-  </change><change operation="modified" label="1026-18-k-2-Interp-1-ii" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-k-2-Interp-1-ii" subpath="content">
     <content>No description of the method of computing earned or unearned finance charges is required or permitted as part of the segregated disclosures under § <ref target="1026-18-k-2" reftype="internal">1026.18(k)(2)</ref>.</content>
-  </change><change operation="modified" label="1026-18-r-Interp-6-vi" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-r-Interp-6-vi" subpath="content">
     <content>[Reserved]</content>
-  </change><change operation="modified" label="1026-18-s-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-s-Interp-1" subpath="content">
     <content>Section <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> prescribes format and content for disclosure of interest rates and monthly (or other periodic) payments for reverse mortgages and certain transactions secured by dwellings that are personal property. The information in § <ref target="1026-18-s-2" reftype="internal">1026.18(s)(2)</ref> through <ref target="1026-18-s-4" reftype="internal">(4)</ref> is required to be in the form of a table, except as otherwise provided, with headings and format substantially similar to model clause H–4(E), H–4(F), H–4(G), or H– 4(H) in appendix H to this part. A disclosure that does not include the shading shown in a model clause but otherwise follows the model clause’s headings and format is substantially similar to that model clause. Where § <ref target="1026-18-s-2" reftype="internal">1026.18(s)(2)</ref> through <ref target="1026-18-s-4" reftype="internal">(4)</ref> or the applicable model clause requires that a column or row of the table be labeled using the word “monthly” but the periodic payments are not due monthly, the creditor should use the appropriate term, such as “bi-weekly” or “quarterly.” In all cases, the table should have no more than five vertical columns corresponding to applicable interest rates at various times during the loan’s term; corresponding payments would be shown in horizontal rows. Certain loan types and terms are defined for purposes of § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> in § <ref target="1026-18-s-7" reftype="internal">1026.18(s)(7)</ref>.</content>
-  </change><change operation="added" label="1026-18-s-Interp-4" after="1026-18-s-Interp-3">
+  </change>
+  <change operation="added" label="1026-18-s-Interp-4" after="1026-18-s-Interp-3">
     <interpParagraph label="1026-18-s-Interp-4" marker="4.">
       <title type="keyterm">Scope of coverage in relation to § 1026.19(e) and (f).</title>
       <content>Section <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> applies to transactions secured by real property or a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, other than transactions that are subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>. Those provisions apply to closed-end transactions secured by real property, other than reverse mortgages. Accordingly, § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> governs only closed-end reverse mortgages and closed-end transactions secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> that is personal property (such as a mobile home that is not deemed real property under <ref target="1026-2-a-26" reftype="term">State</ref> or other applicable law).</content>
     </interpParagraph>
-  </change><change operation="modified" label="1026-18-s-3-i-C-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-s-3-i-C-Interp-1" subpath="content">
     <content>An estimated payment amount for taxes and insurance must be disclosed if the creditor will establish an escrow account for such amounts. If the escrow account will include amounts for items other than taxes and insurance, such as homeowners association dues, the creditor may but is not required to include such items in the estimate. When such estimated escrow payments must be disclosed in multiple columns of the table, such as for adjustable- and step-rate transactions, each column should use the same estimate for taxes and insurance except that the estimate should reflect changes in periodic mortgage insurance premiums or any functionally equivalent fee that are known to the creditor at the time the disclosure is made. The estimated amounts of mortgage insurance premiums or any functionally equivalent fee should be based on the declining principal balance that will occur as a result of changes to the interest rate that are assumed for purposes of disclosing those rates under § <ref target="1026-18-s-2" reftype="internal">1026.18(s)(2)</ref> and accompanying commentary. The payment amount must include estimated amounts for property taxes and premiums for mortgagerelated insurance required by the creditor, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the creditor against the consumer’s default or other credit loss. Premiums for credit insurance, debt suspension and debt cancellation agreements, however, should not be included. Except for periodic mortgage insurance premiums or any functionally equivalent fee included in the escrow payment under § <ref target="1026-18-s-3-i-C" reftype="internal">1026.18(s)(3)(i)(C)</ref>, amounts included in the escrow payment disclosure such as property taxes and homeowner’s insurance generally are not finance charges under § <ref target="1026-4" reftype="internal">1026.4</ref> and, therefore, do not affect other disclosures, including the finance charge and annual percentage rate.</content>
   </change>
   <change operation="modified" label="1026-18-s-3-i-C-Interp-2">
@@ -5094,11 +5195,14 @@
       <title type="keyterm">Mortgage insurance or any functional equivalent.</title>
       <content>For purposes of § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, “mortgage insurance or any functional equivalent” means the amounts identified in § <ref target="1026-4-b-5" reftype="internal">1026.4(b)(5)</ref>. “Mortgage guarantees” (such as a United <ref target="1026-2-a-26" reftype="term">States</ref> Department of Veterans Affairs or United <ref target="1026-2-a-26" reftype="term">States</ref> Department of Agriculture guarantee) provide coverage similar to mortgage insurance, even if not technically considered insurance under <ref target="1026-2-a-26" reftype="term">State</ref> or other applicable law. For purposes of § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, “mortgage insurance or any functional equivalent” includes any mortgage guarantee. Payment amounts under § <ref target="1026-18-s-3-i" reftype="internal">1026.18(s)(3)(i)</ref> should reflect the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s mortgage insurance payments or any functionally equivalent fee until the date on which the <ref target="1026-2-a-17" reftype="term">creditor</ref> must automatically terminate coverage under applicable law, even though the <ref target="1026-2-a-11" reftype="term">consumer</ref> may have a right to request that the insurance be cancelled earlier. The payment amount must reflect the terms of the legal obligation, as determined by applicable <ref target="1026-2-a-26" reftype="term">State</ref> or other law. For example, assume that under applicable law, mortgage insurance must terminate after the 130th scheduled monthly payment, and the <ref target="1026-2-a-17" reftype="term">creditor</ref> collects at closing and places in escrow two months of premiums. If, under the legal obligation, the <ref target="1026-2-a-17" reftype="term">creditor</ref> will include mortgage insurance premiums in 130 payments and refund the escrowed payments when the insurance is terminated, payment amounts disclosed through the 130th payment should reflect premium payments. If, under the legal obligation, the <ref target="1026-2-a-17" reftype="term">creditor</ref> will apply the amount escrowed to the two final insurance payments, payments disclosed through the 128th payment should reflect premium payments. The escrow amount reflected on the disclosure should include mortgage insurance premiums even if they are not escrowed and even if there is no escrow account established for the transaction.</content>
     </interpParagraph>
-  </change><change operation="modified" label="1026-18-s-6-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-18-s-6-Interp-1" subpath="content">
     <content>See the commentary under § <ref target="1026-18-s-3-i-C" reftype="internal">1026.18(s)(3)(i)(C)</ref> for guidance on escrows for purposes of § <ref target="1026-18-s-6" reftype="internal">1026.18(s)(6)</ref>. Under that guidance, because mortgage insurance payments and functionally equivalent fees decline over a loan’s term, the payment amounts shown in the table should reflect the mortgage insurance payment and functionally equivalent fees that will be applicable at the time each disclosed periodic payment will be in effect. Accordingly, the disclosed mortgage insurance payment or functionally equivalent fee will be zero if it corresponds to a periodic payment that will occur after the creditor will be legally required to terminate mortgage insurance or any functional equivalent. On the other hand, because only one escrow amount is disclosed under § <ref target="1026-18-s-6" reftype="internal">1026.18(s)(6)</ref> for negative amortization loans and escrows that are not itemized in the payment amounts, the single escrow amount disclosed should reflect the mortgage insurance amount or any functionally equivalent fee that will be collected at the outset of the loan’s term, even though that amount will decline in the future and ultimately will be discontinued pursuant to the terms of the mortgage insurance policy.</content>
-  </change><change operation="modified" label="1026-19-a-1-i-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-19-a-1-i-Interp-1" subpath="content">
     <content>Section <ref target="1026-19-a" reftype="internal">1026.19(a)</ref> requires early disclosure of credit terms in reverse mortgage transactions subject to § <ref target="1026-33" reftype="internal">1026.33</ref> that are secured by a consumer’s dwelling that are also subject to the Real Estate Settlement Procedures Act (RESPA) and its implementing Regulation X. To be covered by § <ref target="1026-19-a" reftype="internal">1026.19(a)</ref>, a transaction must be a Federally related mortgage loan under RESPA. “Federally related mortgage loan” is defined under RESPA (12 U.S.C. 2602) and Regulation X (12 CFR 1024.2(b)), and is subject to any interpretations by the Bureau.</content>
-  </change><change operation="deleted" label="1026-19-a-5-Interp"/>
+  </change>
+  <change operation="deleted" label="1026-19-a-5-Interp"/>
   <change operation="added" label="1026-19-e-Interp">
     <interpParagraph label="1026-19-e-Interp" target="1026-19-e">
       <title>19(e) Mortgage loans secured by real property—Early disclosures.</title>
@@ -5498,7 +5602,8 @@
         </interpParagraph>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="added" label="1026-19-f-Interp">
+  </change>
+  <change operation="added" label="1026-19-f-Interp">
     <interpParagraph label="1026-19-f-Interp" target="1026-19-f">
       <title>19(f) Mortgage loans secured by real property—Final disclosures.</title>
       <content/>
@@ -5774,7 +5879,8 @@
         </interpParagraph>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="added" label="1026-19-g-Interp">
+  </change>
+  <change operation="added" label="1026-19-g-Interp">
     <interpParagraph label="1026-19-g-Interp" target="1026-19-g">
       <title>19(g) Special information booklet at time of application.</title>
       <content/>
@@ -5811,7 +5917,8 @@
         </interpParagraph>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="added" label="1026-20-e-Interp">
+  </change>
+  <change operation="added" label="1026-20-e-Interp">
     <interpParagraph label="1026-20-e-Interp" target="1026-20-e">
       <title>20(e) Escrow account cancellation notice for certain mortgage transactions.</title>
       <content/>
@@ -5888,17 +5995,23 @@
         </interpParagraph>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="modified" label="1026-22-a-4-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-22-a-4-Interp-1" subpath="content">
     <content>If a <ref target="1026-2-a-17" reftype="term">creditor</ref> improperly omits a $75 fee from the finance charge on a regular transaction, the understated finance charge is considered accurate under § <ref target="1026-18-d-1" reftype="internal">1026.18(d)(1)</ref> or § <ref target="1026-38-o-2" reftype="internal">1026.38(o)(2)</ref>, as applicable, and the annual percentage rate corresponding to that understated finance charge also is considered accurate even if it falls outside the tolerance of 1⁄8 of 1 percentage point provided under § <ref target="1026-22-a-2" reftype="internal">1026.22(a)(2)</ref>. Because a $75 error was made, an annual percentage rate corresponding to a $100 understatement of the finance charge would not be considered accurate.</content>
-  </change><change operation="modified" label="1026-24-d-2-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-24-d-2-Interp-2" subpath="content">
     <content>The phrase “terms of repayment” generally has the same meaning as the “payment schedule” required to be disclosed under § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref>, the interest rate and payment summary table required to be disclosed pursuant to § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, or the projected payments table required to be disclosed pursuant to §§ <ref target="1026-37-c" reftype="internal">1026.37(c)</ref> and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, as applicable. Section <ref target="1026-24-d-2-ii" reftype="internal">1026.24(d)(2)(ii)</ref> provides flexibility to creditors in making this disclosure for advertising purposes. Repayment terms may be expressed in a variety of ways in addition to an exact repayment schedule; this is particularly true for advertisements that do not contemplate a single specific transaction. Repayment terms, however, must reflect the consumer’s repayment obligations over the full term of the loan, including any balloon payment, see comment 24(d)(2)–3, not just the repayment terms that will apply for a limited period of time. For example:</content>
-  </change><change operation="modified" label="1026-24-d-2-Interp-2-i" subpath="content">
+  </change>
+  <change operation="modified" label="1026-24-d-2-Interp-2-i" subpath="content">
     <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> may use a unit-cost approach in making the required disclosure, such as “48 monthly payments of $27.83 per $1,000 borrowed.”</content>
-  </change><change operation="modified" label="1026-24-d-2-Interp-2-ii" subpath="content">
+  </change>
+  <change operation="modified" label="1026-24-d-2-Interp-2-ii" subpath="content">
     <content>In an <ref target="1026-2-a-2" reftype="term">advertisement</ref> for credit secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, when any series of payments varies because of the inclusion of mortgage insurance premiums, a <ref target="1026-2-a-17" reftype="term">creditor</ref> may state the number and timing of payments, the fact that payments do not include amounts for mortgage insurance premiums, and that the actual payment obligation will be higher.</content>
-  </change><change operation="modified" label="1026-24-d-2-Interp-2-iii" subpath="content">
+  </change>
+  <change operation="modified" label="1026-24-d-2-Interp-2-iii" subpath="content">
     <content>In an <ref target="1026-2-a-2" reftype="term">advertisement</ref> for credit secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref>, when one series of monthly payments will apply for a limited period of time followed by a series of higher monthly payments for the remaining term of the loan, the <ref target="1026-2-a-2" reftype="term">advertisement</ref> must state the number and time period of each series of payments, and the amounts of each of those payments. For this purpose, the <ref target="1026-2-a-17" reftype="term">creditor</ref> must assume that the <ref target="1026-2-a-11" reftype="term">consumer</ref> makes the lower series of payments for the maximum allowable period of time.</content>
-  </change><change operation="added" label="1026-25-c-1-Interp" before="1026-25-c-2-Interp">
+  </change>
+  <change operation="added" label="1026-25-c-1-Interp" before="1026-25-c-2-Interp">
     <interpParagraph label="1026-25-c-1-Interp" target="1026-25-c-1">
       <title>25(c)(1) Records related to requirements for loans secured by real property.</title>
       <content/>
@@ -5911,11 +6024,14 @@
           <content>See § <ref target="1026-19-e-1-ii-B" reftype="internal">1026.19(e)(1)(ii)(B)</ref> for the responsibilities of mortgage brokers to comply with the requirements of § <ref target="1026-25-c" reftype="internal">1026.25(c)</ref>.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="modified" label="1026-28-a-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-28-a-Interp-1" subpath="content">
     <content>There are three sets of preemption criteria: One applies to the general disclosure and advertising rules of the regulation, and two apply to the <ref target="1026-2-a-14" reftype="term">credit</ref> billing provisions. Section <ref target="1026-28" reftype="internal">1026.28</ref> also provides for <ref target="1026-2-a-5" reftype="term">Bureau</ref> determinations of preemption. For purposes of determining whether a <ref target="1026-2-a-26" reftype="term">State</ref> law is inconsistent with the requirements of sections 4 and 5 of RESPA (other than the RESPA section 5(c) requirements regarding provision of a list of certified homeownership counselors) and §§ <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, <ref target="1026-37" reftype="internal">1026.37</ref>, and <ref target="1026-38" reftype="internal">1026.38</ref> under § <ref target="1026-28" reftype="internal">1026.28</ref>, any reference to “creditor” in § <ref target="1026-28" reftype="internal">1026.28</ref> or this commentary includes a creditor, a mortgage broker, or a settlement agent, as applicable.</content>
-  </change><change operation="modified" label="1026-29-a-Interp-2" subpath="content">
+  </change>
+  <change operation="modified" label="1026-29-a-Interp-2" subpath="content">
     <content>The “substantially similar” standard requires that <ref target="1026-2-a-26" reftype="term">State</ref> statutory or regulatory provisions and <ref target="1026-2-a-26" reftype="term">State</ref> interpretations of those provisions be generally the same as the Federal Act and Regulation Z. This includes the requirement that <ref target="1026-2-a-26" reftype="term">State</ref> provisions for reimbursement to <ref target="1026-2-a-11" reftype="term">consumers</ref> for overcharges be at least equivalent to those required in section 108 of <ref target="USC:12-2601" reftype="external">the Act</ref>. A <ref target="1026-2-a-26" reftype="term">State</ref> will be eligible for an exemption even if its law covers classes of transactions not covered by the Federal law. For example, if a <ref target="1026-2-a-26" reftype="term">State</ref>’s law covers agricultural <ref target="1026-2-a-14" reftype="term">credit</ref>, this will not prevent the <ref target="1026-2-a-5" reftype="term">Bureau</ref> from granting an exemption for <ref target="1026-2-a-12" reftype="term">consumer credit</ref>, even though agricultural <ref target="1026-2-a-14" reftype="term">credit</ref> is not covered by the Federal law. For transactions subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, § <ref target="1026-29-a-1" reftype="internal">1026.29(a)(1)</ref> requires that the <ref target="1026-2-a-26" reftype="term">State</ref> statutory or regulatory provisions and <ref target="1026-2-a-26" reftype="term">State</ref> interpretations of those provisions require disclosures that are generally the same as the disclosures required by § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, with form and content as prescribed by §§ <ref target="1026-37" reftype="internal">1026.37</ref> and <ref target="1026-38" reftype="internal">1026.38</ref>.</content>
-  </change><change operation="modified" label="1026-29-a-Interp-4">
+  </change>
+  <change operation="modified" label="1026-29-a-Interp-4">
     <interpParagraph label="1026-29-a-Interp-4" marker="4.">
       <title type="keyterm">Exemptions granted.</title>
       <content/>
@@ -5946,7 +6062,8 @@
         <content>Although RESPA and its implementing Regulation X do not provide procedures for granting <ref target="1026-2-a-26" reftype="term">State</ref> exemptions, for transactions subject to § <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, compliance with the requirements of §§ <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, <ref target="1026-37" reftype="internal">1026.37</ref>, and <ref target="1026-38" reftype="internal">1026.38</ref> satisfies the requirements of sections 4 and 5 of RESPA (other than the RESPA section 5(c) requirements regarding provision of a list of certified homeownership counselors). If such a transaction is subject to one of the <ref target="1026-2-a-26" reftype="term">State</ref> exemptions previously granted by the Board of Governors and noted in comment 29(a)– 4.i above, however, then compliance with the requirements of any <ref target="1026-2-a-26" reftype="term">State</ref> laws and regulations incorporating the requirements of §§ <ref target="1026-19-e" reftype="internal">1026.19(e)</ref> and <ref target="1026-19-f" reftype="internal">(f)</ref>, <ref target="1026-37" reftype="internal">1026.37</ref>, and <ref target="1026-38" reftype="internal">1026.38</ref> likewise satisfies the requirements of sections 4 and 5 of RESPA (other than the RESPA section 5(c) requirements regarding provision of a list of certified homeownership counselors) and the provisions of Regulation X (<ref target="CFR:12-1024" reftype="external">12 CFR part 1024</ref>) implementing those sections of RESPA.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="added" label="1026-37-Interp">
+  </change>
+  <change operation="added" label="1026-37-Interp">
     <interpSection label="1026-37-Interp" sectionNum="37" target="1026-37">
       <title>Section 1026.37 Content of Disclosures for Certain Mortgage Transactions (Loan Estimate).</title>
       <interpParagraph label="1026-37-Interp-1" marker="1.">
@@ -7323,7 +7440,8 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-  </change><change operation="added" label="1026-38-Interp">
+  </change>
+  <change operation="added" label="1026-38-Interp">
     <interpSection label="1026-38-Interp" sectionNum="38" target="1026-38">
       <title>Section 1026.38 Content of Disclosures for Certain Mortgage Transactions (Closing Disclosure).</title>
       <interpParagraph label="1026-38-Interp-1" marker="1.">
@@ -8494,12 +8612,14 @@
           </interpParagraph>
         </interpParagraph>
       </interpSection>
-  </change><change operation="added" label="1026-39-d-Interp-2" after="1026-39-d-Interp-1">
+  </change>
+  <change operation="added" label="1026-39-d-Interp-2" after="1026-39-d-Interp-1">
     <interpParagraph label="1026-39-d-Interp-2" marker="2.">
       <title type="keyterm">Partial payment policy.</title>
       <content>The disclosures required by § <ref target="1026-39-d-5" reftype="internal">1026.39(d)(5)</ref> must identify whether the <ref target="1026-42-b-1" reftype="term">covered person</ref> accepts periodic payments from the <ref target="1026-2-a-11" reftype="term">consumer</ref> that are less than the full amount due and whether the <ref target="1026-42-b-1" reftype="term">covered person</ref> applies the payments to a <ref target="1026-2-a-11" reftype="term">consumer</ref>’s loan or holds the payments in a separate account until the <ref target="1026-2-a-11" reftype="term">consumer</ref> pays the remainder of the full amount due. The disclosures required by § <ref target="1026-39-d-5" reftype="internal">1026.39(d)(5)</ref> apply only to a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> that is a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> credit transaction secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> or real property and that is not a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33" reftype="internal">1026.33</ref>. In an open-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> credit transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref>, § <ref target="1026-39-d" reftype="internal">1026.39(d)</ref> requires <ref target="1026-42-b-1" reftype="term">covered person</ref> to provide the disclosures required by § <ref target="1026-39-d-1" reftype="internal">1026.39(d)(1)</ref> through (4), but not the partial payment policy disclosure required by § <ref target="1026-39-d-5" reftype="internal">1026.39(d)(5)</ref>. If, however, the <ref target="1026-2-a-19" reftype="term">dwelling</ref> in the open-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> credit transaction is not the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> (e.g., it is used solely for vacation purposes), none of the disclosures required by § <ref target="1026-39-d" reftype="internal">1026.39(d)</ref> is required because the transaction is not a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> for purposes of § <ref target="1026-39" reftype="internal">1026.39</ref>. See § <ref target="1026-39-a-2" reftype="internal">1026.39(a)(2)</ref>. In contrast, a closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> credit transaction secured by the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s <ref target="1026-2-a-19" reftype="term">dwelling</ref> that is not the <ref target="1026-2-a-11" reftype="term">consumer</ref>’s principal <ref target="1026-2-a-19" reftype="term">dwelling</ref> is considered a <ref target="1026-39-a-2" reftype="term">mortgage loan</ref> for purposes of § <ref target="1026-39" reftype="internal">1026.39</ref>. Assuming that the transaction is not a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33" reftype="internal">1026.33</ref>, § <ref target="1026-39-d" reftype="internal">1026.39(d)</ref> requires a <ref target="1026-42-b-1" reftype="term">covered person</ref> to provide the disclosures under § <ref target="1026-39-d-1" reftype="internal">1026.39(d)(1)</ref> through (5). But if the transaction is a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33" reftype="internal">1026.33</ref>, § <ref target="1026-39-d" reftype="internal">1026.39(d)</ref> requires a <ref target="1026-42-b-1" reftype="term">covered person</ref> to provide only the disclosures under § <ref target="1026-39-d-1" reftype="internal">1026.39(d)(1)</ref> through (4).</content>
     </interpParagraph>
-  </change><change operation="added" label="1026-39-d-5-Interp" after="1026-39-d-4-Interp">
+  </change>
+  <change operation="added" label="1026-39-d-5-Interp" after="1026-39-d-4-Interp">
     <interpParagraph label="1026-39-d-5-Interp" target="1026-39-d-5">
       <title>Paragraph 39(d)(5) Partial payment policy.</title>
       <content/>
@@ -8508,13 +8628,17 @@
         <content>Section <ref target="1026-39-d-5" reftype="internal">1026.39(d)(5)</ref> requires disclosure of the partial payment policy of covered persons for closed-end <ref target="1026-2-a-12" reftype="term">consumer credit</ref> credit transactions secured by a <ref target="1026-2-a-19" reftype="term">dwelling</ref> or real property, other than a <ref target="1026-33-a" reftype="term">reverse mortgage transaction</ref> subject to § <ref target="1026-33" reftype="internal">1026.33</ref>. A <ref target="1026-42-b-1" reftype="term">covered person</ref> may utilize the format of the disclosure illustrated by form H–25 of appendix H to this part for the information required to be disclosed by § <ref target="1026-38-l-5" reftype="internal">1026.38(l)(5)</ref>. For example, the statement required § <ref target="1026-39-d-5-iii" reftype="internal">1026.39(d)(5)(iii)</ref> that a new <ref target="1026-42-b-1" reftype="term">covered person</ref> may have a different partial payment policy may be disclosed using the language illustrated by form H–25, which states “If this loan is sold, your new lender may have a different policy.” The text illustrated by form H– 25 may be modified to suit the format of the <ref target="1026-42-b-1" reftype="term">covered person</ref>’s disclosure under § <ref target="1026-39" reftype="internal">1026.39</ref>. For example, the format illustrated by form H–25 begins with the text, “Your lender may” or “Your lender does not,” which may not be suitable to the format of the <ref target="1026-42-b-1" reftype="term">covered person</ref>’s other disclosures under § <ref target="1026-39" reftype="internal">1026.39</ref>. This text may be modified to suit the format of the <ref target="1026-42-b-1" reftype="term">covered person</ref>’s integrated disclosure, using a phrase such as “We will” or “We are your new lender and have a different Partial Payment Policy than your previous lender. Under our policy we will.” Any modifications must be appropriate and not affect the substance, clarity, or meaningful sequence of the disclosure.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="modified" label="1026-D-Interp-6" subpath="content">
+  </change>
+  <change operation="modified" label="1026-D-Interp-6" subpath="content">
     <content>A creditor must disclose an interest rate and payment summary table for certain transactions secured by a dwelling, pursuant to § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, instead of the general payment schedule required by § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> or the projected payments table required by §§ <ref target="1026-37-c" reftype="internal">1026.37(c)</ref> and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>. Accordingly, some home construction loans that are secured by a dwelling are subject to § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> and not § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref>. See comment app. D– 7 for a discussion of transactions that are subject to §§ <ref target="1026-37" reftype="internal">1026.37</ref> and <ref target="1026-38" reftype="internal">1026.38</ref>. Under § <ref target="1026-17-c-6-ii" reftype="internal">1026.17(c)(6)(ii)</ref>, when a multiple-advance construction loan may be permanently financed by the same creditor, the construction phase and the permanent phase may be treated as either one transaction or more than one transaction. Following are illustrations of the application of appendix D to transactions subject to § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, under each of these two alternatives:</content>
-  </change><change operation="modified" label="1026-D-Interp-6-i" subpath="content">
+  </change>
+  <change operation="modified" label="1026-D-Interp-6-i" subpath="content">
     <content>If a creditor uses appendix D and elects pursuant to § <ref target="1026-17-c-6-ii" reftype="internal">1026.17(c)(6)(ii)</ref> to disclose the construction and permanent phases as separate transactions, the construction phase must be disclosed according to the rules in § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>. Under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>, the creditor must disclose the applicable interest rates and corresponding periodic payments during the construction phase in an interest rate and payment summary table. The provision in appendix D, part I.A.3, which allows the creditor to omit the number and amounts of any interest payments “in disclosing the payment schedule under § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref>” does not apply because the transaction is governed by § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> rather than § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref>. Also, because the construction phase is being disclosed as a separate transaction and its terms do not repay all principal, the creditor must disclose a balloon payment, pursuant to § <ref target="1026-18-s-5" reftype="internal">1026.18(s)(5)</ref>.</content>
-  </change><change operation="modified" label="1026-D-Interp-6-ii" subpath="content">
+  </change>
+  <change operation="modified" label="1026-D-Interp-6-ii" subpath="content">
     <content>On the other hand, if the creditor elects to disclose the construction and permanent phases as a single transaction, where interest is payable on the amount actually advanced for the time it is outstanding, the construction phase must be disclosed pursuant to appendix D, part II.C.1, which provides that the creditor shall disclose the repayment schedule without reflecting the number or amounts of payments of interest only that are made during the construction phase. Appendix D also provides, however, that creditors must disclose (outside of the table) the fact that interest payments must be made and the timing of such payments. The interest rate and payment summary table disclosed under § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> in such cases must reflect only the permanent phase of the transaction. Therefore, in determining the rates and payments that must be disclosed in the columns of the table, creditors should apply the requirements of § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref> to the permanent phase only. For example, under § <ref target="1026-18-s-2-i-A" reftype="internal">1026.18(s)(2)(i)(A)</ref> or § <ref target="1026-18-s-2-i-B" reftype="internal">1026.18(s)(2)(i)(B)</ref>(1), as applicable, the creditor should disclose the interest rate corresponding to the first installment due under the permanent phase and not any rate applicable during the construction phase.</content>
-  </change><change operation="added" label="1026-D-Interp-7">
+  </change>
+  <change operation="added" label="1026-D-Interp-7">
     <interpParagraph label="1026-D-Interp-7" marker="7.">
       <title type="keyterm">Relation to §§ 1026.37 and 1026.38.</title>
       <content>A <ref target="1026-2-a-17" reftype="term">creditor</ref> must disclose a projected payments table for certain transactions secured by real property, pursuant to §§ <ref target="1026-37-c" reftype="internal">1026.37(c)</ref> and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, instead of the general payment schedule required by § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref> or the interest rate and payments summary table required by § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>. Accordingly, some home construction loans that are secured by real property are subject to §§ <ref target="1026-37-c" reftype="internal">1026.37(c)</ref> and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref> and not § <ref target="1026-18-g" reftype="internal">1026.18(g)</ref>. See comment app. D–6 for a discussion of transactions that are subject to § <ref target="1026-18-s" reftype="internal">1026.18(s)</ref>. Under § <ref target="1026-17-c-6-ii" reftype="internal">1026.17(c)(6)(ii)</ref>, when a multiple-advance construction loan may be permanently financed by the same <ref target="1026-2-a-17" reftype="term">creditor</ref>, the construction phase and the permanent phase may be treated as either one transaction or more than one transaction. Following are illustrations of the application of appendix D to transactions subject to §§ <ref target="1026-37-c" reftype="internal">1026.37(c)</ref> and <ref target="1026-38-c" reftype="internal">1026.38(c)</ref>, under each of these two alternatives:</content>
@@ -8525,17 +8649,23 @@
         <content>If the <ref target="1026-2-a-17" reftype="term">creditor</ref> elects to disclose the construction and permanent phases as a single transaction, the repayment schedule must be disclosed pursuant to appendix D, part II.C.2. Under appendix D, part II.C.2, the projected payments table must reflect the <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> payments during the construction phase in a first column, followed by the appropriate column(s) reflecting the amortizing payments for the permanent phase. The <ref target="1026-2-a-17" reftype="term">creditor</ref> determines the amount of the <ref target="1026-18-s-7-iv" reftype="term">interest-only</ref> payment to be made during the construction phase using the assumption in appendix D, part II.A.1.</content>
       </interpParagraph>
     </interpParagraph>
-  </change><change operation="modified" label="1026-G_H-Interp-1" subpath="content">
+  </change>
+  <change operation="modified" label="1026-G_H-Interp-1" subpath="content">
     <content>Although use of the model forms and clauses is not required, <ref target="1026-2-a-17" reftype="term">creditors</ref> using them properly will be deemed to be in compliance with the regulation with regard to those disclosures. <ref target="1026-2-a-17" reftype="term">Creditors</ref> may make certain changes in the format or content of the forms and clauses and may delete any disclosures that are inapplicable to a transaction or a plan without losing <ref target="USC:12-2601" reftype="external">the Act</ref>’s protection from liability, except formatting changes may not be made to model forms and samples in <ref target="1026-H-18" reftype="internal">H-18</ref>, <ref target="1026-H-19" reftype="internal">H-19</ref>, <ref target="1026-H-20" reftype="internal">H-20</ref>, <ref target="1026-H-21" reftype="internal">H-21</ref>, <ref target="1026-H-22" reftype="internal">H-22</ref>, <ref target="1026-H-23" reftype="internal">H-23</ref>, <ref target="1026-H-24" reftype="internal">H–24</ref>, <ref target="1026-H-25" reftype="internal">H–25</ref>, <ref target="1026-H-26" reftype="internal">H–26</ref>, <ref target="1026-H-27" reftype="internal">H–27</ref>, <ref target="1026-H-28" reftype="internal">H–28</ref>, <ref target="1026-G-2(A)" reftype="internal">G-2(A)</ref>, <ref target="1026-G-3(A)" reftype="internal">G-3(A)</ref>, <ref target="1026-G-4(A)" reftype="internal">G-4(A)</ref>, <ref target="1026-G-10(A)" reftype="internal">G-10(A)</ref>-<ref target="1026-G-10(E)" reftype="internal">(E)</ref>, <ref target="1026-G-17(A)" reftype="internal">G-17(A)</ref>-(D), <ref target="1026-G-18(A)" reftype="internal">G-18(A)</ref> (except as permitted pursuant to § <ref target="1026-7-b-2" reftype="internal">1026.7(b)(2)</ref>), <ref target="1026-G-18(B)" reftype="internal">G-18(B)</ref>-<ref target="1026-G-18(C)" reftype="internal">(C)</ref>, <ref target="1026-G-19" reftype="internal">G-19</ref>, <ref target="1026-G-20" reftype="internal">G-20</ref>, and <ref target="1026-G-21" reftype="internal">G-21</ref>, or to the model clauses in <ref target="1026-H-4(E)" reftype="internal">H-4(E)</ref>, <ref target="1026-H-4(F)" reftype="internal">H-4(F)</ref>, <ref target="1026-H-4(G)" reftype="internal">H-4(G)</ref>, and <ref target="1026-H-4(H)" reftype="internal">H-4(H)</ref>. <ref target="1026-2-a-17" reftype="term">Creditors</ref> may modify the heading of the second column shown in Model Clause <ref target="1026-H-4(H)" reftype="internal">H-4(H)</ref> to read “first adjustment” or “first increase,” as applicable, pursuant to § <ref target="1026-18-s-2-i-C" reftype="internal">1026.18(s)(2)(i)(C)</ref>. The rearrangement of the model forms and clauses may not be so extensive as to affect the substance, clarity, or meaningful sequence of the forms and clauses. <ref target="1026-2-a-17" reftype="term">Creditors</ref> making revisions with that effect will lose their protection from civil liability. Except as otherwise specifically required, acceptable changes include, for example:</content>
-  </change><change operation="modified" label="1026-G_H-Interp-1-v" subpath="content">
+  </change>
+  <change operation="modified" label="1026-G_H-Interp-1-v" subpath="content">
     <content>Incorporating certain <ref target="1026-2-a-26" reftype="term">State</ref> “plain English” requirements.</content>
-  </change><change operation="modified" label="1026-H-Interp" subpath="title">
+  </change>
+  <change operation="modified" label="1026-H-Interp" subpath="title">
     <title>Appendix H Closed-End Forms and Clauses.</title>
-  </change><change operation="modified" label="1026-H-Interp-16" subpath="content">
+  </change>
+  <change operation="modified" label="1026-H-Interp-16" subpath="content">
     <content>These samples illustrate various closed-end transactions. Samples H–13 and H– 15 are for transactions subject to § <ref target="1026-17-a" reftype="internal">1026.17(a)</ref>. Samples H–13 and H–15 do not illustrate the requirements of § <ref target="1026-18-c" reftype="internal">1026.18(c)</ref> or <ref target="1026-18-p" reftype="internal">(p)</ref> regarding the itemization of the amount financed and a reference to contract documents. See form H–2 for a model for these requirements.</content>
-  </change><change operation="modified" label="1026-H-Interp-19" subpath="content">
+  </change>
+  <change operation="modified" label="1026-H-Interp-19" subpath="content">
     <content>This sample illustrates a graduated payment transaction subject to § <ref target="1026-17-a" reftype="internal">1026.17(a)</ref> with a 5-year graduation period and a 71⁄2 percent yearly increase in payments. The loan amount is $44,900, payable in 360 monthly installments at a simple interest rate of 14.75%. Two points ($898), as well as an initial guarantee insurance premium of $225.00, are included in the prepaid finance charge. The guarantee insurance premiums are calculated on the basis of 1⁄4 of 1% of the outstanding principal balance under an annual reduction plan. The abbreviated disclosure permitted under § <ref target="1026-18-g-2" reftype="internal">1026.18(g)(2)</ref> is used for the payment schedule for years 6 through 30. The prepayment disclosure refers to both penalties and rebates because information about penalties is required for the simple interest portion of the obligation and information about rebates is required for the guarantee insurance portion of the obligation.</content>
-  </change><change operation="added" label="1026-H-Interp-29" after="1026-H-Interp-28">
+  </change>
+  <change operation="added" label="1026-H-Interp-29" after="1026-H-Interp-28">
     <interpParagraph label="1026-H-Interp-29" marker="28.">
       <title type="keyterm">Model Form H–29.</title>
       <content>Model form H– 29 contains the disclosures for the cancellation of an escrow account established in connection with a closedend transaction secured by a first lien on real property or a <ref target="1026-2-a-19" reftype="term">dwelling</ref>.</content>
