@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notice xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs https://raw.githubusercontent.com/cfpb/regulations-schema/master/src/eregs.xsd">
+  <fdsys>
+    <cfrTitleNum>12</cfrTitleNum>
+    <cfrTitleText>Banks and Banking</cfrTitleText>
+    <volume>8</volume>
+    <date>2016-07-11</date>
+    <originalDate>2012-01-01</originalDate>
+    <title>PRIVACY OF CONSUMER FINANCIAL INFORMATION</title>
+  </fdsys>
+  <preamble>
+    <agency>Bureau of Consumer Financial Protection</agency>
+    <regLetter>P</regLetter>
+    <cfr>
+      <title>12</title>
+      <section>1016</section>
+    </cfr>
+    <documentNumber>2016-16132</documentNumber>
+    <effectiveDate>2016-08-10</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/documents/2016/07/11/2016-16132/annual-privacy-notice-requirement-under-the-gramm-leach-bliley-act-regulation-p</federalRegisterURL>
+  </preamble>
+  <changeset leftDocumentNumber="2011-31729" rightDocumentNumber="2016-16132">
+  <change operation="modified" label="1016-3-s-1" subpath="content">
+    <content><def term="you">You</def> means a financial institution for which the Bureau has rulemaking authority under section 504(a)(1)(A) of the GLB Act (15 U.S.C. 6804(a)(1)(A)).</content>
+  </change>
+  <change operation="modified" label="1016-5-a-1" subpath="content">
+    <content>Except as provided by paragraph (e) of this section, you must provide a clear and conspicuous notice to customers that accurately reflects your privacy policies and practices not less than annually during the continuation of the customer relationship. <def term="annually">Annually</def> means at least once in any period of 12 consecutive months during which that relationship exists. You may define the 12-consecutive-month period, but you must apply it to the customer on a consistent basis.</content>
+  </change>
+  <change operation="added" label="1016-5-e">
+    <paragraph label="1016-5-e" marker="(e)">
+      <title>Exception to annual privacy notice requirement.</title>
+      <content/>
+      <paragraph label="1016-5-e-1" marker="(1)">
+        <title>When exception available.</title>
+        <content>You are not required to deliver an annual privacy notice if you:</content>
+        <paragraph label="1016-5-e-1-i" marker="(i)">
+          <content>Provide nonpublic personal information to nonaffiliated third parties only in accordance with the provisions of § 1016.13, § 1016.14, or § 1016.15; and</content>
+        </paragraph>
+        <paragraph label="1016-5-e-1-ii" marker="(ii)">
+          <content>Have not changed your policies and practices with regard to disclosing nonpublic personal information from the policies and practices that were disclosed to the customer under § 1016.6(a)(2) through (5) and (9) in the most recent privacy notice provided pursuant to this part.</content>
+        </paragraph>
+      </paragraph>
+      <paragraph label="1016-5-e-2" marker="(2)">
+        <title>Delivery of annual privacy notice after financial institution no longer meets requirements for exception.</title>
+        <content>If you have been excepted from delivering an annual privacy notice pursuant to paragraph (e)(1) of this section and change your policies or practices in such a way that you no longer meet the requirements for that exception, you must comply with paragraph (e)(2)(i) or (e)(2)(ii) of this section, as applicable.</content>
+        <paragraph label="1016-5-e-2-i" marker="(i)">
+          <title>Changes preceded by a revised privacy notice.</title>
+          <content>If you no longer meet the requirements of paragraph (e)(1) of this section because you change your policies or practices in such a way that § 1016.8 requires you to provide a revised privacy notice, you must provide an annual privacy notice in accordance with the timing requirements in paragraph (a) of this section, treating the revised privacy notice as an initial privacy notice.</content>
+        </paragraph>
+        <paragraph label="1016-5-e-2-ii" marker="(ii)">
+          <title>Changes not preceded by a revised privacy notice.</title>
+          <content>If you no longer meet the requirements of paragraph (e)(1) of this section because you change your policies or practices in such a way that § 1016.8 does not require you to provide a revised privacy notice, you must provide an annual privacy notice within 60 days of the change in your policies or practices that causes you to no longer meet the requirements of paragraph (e)(1).</content>
+        </paragraph>
+        <paragraph label="1016-5-e-2-iii" marker="(iii)">
+          <title>Example.</title>
+          <content>You change your policies and practices in such a way that you no longer meet the requirements of paragraph (e)(1) of this section effective April 1 of year 1. Assuming you define the 12-consecutive-month period pursuant to paragraph (a) of this section as a calendar year, if you were required to provide a revised privacy notice under § 1016.8 and you provided that notice on March 1 of year 1, you must provide an annual privacy notice by December 31 of year 2. If you were not required to provide a revised privacy notice under § 1016.8, you must provide an annual privacy notice by May 30 of year 1.</content>
+        </paragraph>
+      </paragraph>
+    </paragraph>
+  </change>
+  <change operation="modified" label="1016-9-c">
+    <paragraph label="1016-9-c" marker="(c)">
+      <title>Annual notices only.</title>
+      <content>You may reasonably expect that a customer will receive actual notice of your annual privacy notice if:</content>
+      <paragraph label="1016-9-c-1" marker="(1)">
+        <content>The customer uses your Web site to access financial products and services electronically and agrees to receive notices at the Web site, and you post your current privacy notice continuously in a clear and conspicuous manner on the Web site; or</content>
+      </paragraph>
+      <paragraph label="1016-9-c-2" marker="(2)">
+        <content>The customer has requested that you refrain from sending any information regarding the customer relationship, and your current privacy notice remains available to the customer upon request.</content>
+      </paragraph>
+    </paragraph>
+  </change>
+  </changeset>
+</notice>
